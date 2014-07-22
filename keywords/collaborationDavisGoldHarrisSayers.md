@@ -2,7 +2,7 @@
 Rebecca Davis, Matthew K. Gold, Katherine D. Harris, and Jentery Sayers 
 
 ## Curated Resources
-* 2012-13 Praxis Program Charter (The Praxis Program, Scholars’ Lab, University of Virginia) [collaborative document]
+* [2013-14 Praxis Program Charter](http://praxis.scholarslab.org/charter.html) (The Praxis Program, Scholars’ Lab, University of Virginia) [collaborative document]
 * “Crowdsourcing History” (Jentery Sayers, University of Victoria) [assignment]
 * Digital History Project (Wheaton College) [collaborative project]
 * Digital Pedagogy (2012 Digital Humanities Summer Institute) [syllabus; collaborative project]
