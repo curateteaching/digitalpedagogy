@@ -2,9 +2,9 @@
 
 *Note: Maximum Length for each keyword entry (including works cited) is 3000 words*
 
-## Author Name(s)
+## 1. Author Name(s)
 
-## Quick List of Curated Pedagogical Resources (Bulleted List)
+## 2. Quick List of Curated Pedagogical Resources (Bulleted List)
 
 For quick reference, provide a quick list of the ten pedagogical resources featured in your keyword entry
 
@@ -21,7 +21,7 @@ Project Types include:
 * Co-authored Document 
 * University / College Initiative 
 
-## Curatorial Statement (roughly 750-800 words, MLA Format)
+## 3. Curatorial Statement (roughly 750-800 words, MLA Format)
 
 The curatorial statement expresses the curator’s vision of the keyword — what it means in a pedagogical context and how the curator has approached the task of curating pedagogical resources around it. Statements can include some or all of the following: 
 
@@ -31,7 +31,7 @@ The curatorial statement expresses the curator’s vision of the keyword — wha
 * Important issues (why teach this now? why does this topic matter for students? for faculty? for a field?) 
 * Intersections with curator’s pedagogical philosophy/teaching conditions (how and where does the curator teach issues related to this keyword? what course? with what learning expectations/outcomes in mind? with what resources?) 
 
-### Curated Pedagogical Resources(10 Resources w/metadata, screenshots, & 150 word annotations)
+## 4. Curated Pedagogical Resources(10 Resources w/metadata, screenshots, & 150 word annotations)
 
 Select ten pedagogical resources to feature for your keyword. Each resource should include: 
 
@@ -45,7 +45,7 @@ Select ten pedagogical resources to feature for your keyword. Each resource shou
 	* Brief statement on Its Relevance to the Keyword (why is it important/useful, what does it do well, how does it exemplify digital pedagogy) 
 	* Guidelines for Use (how to integrate it into a course, what might need revision/adaptation)
 
-## Related Materials (Bulleted List)
+## 5. Related Materials (Bulleted List)
 
 In MLA format, list five related items or resources that are informative for teaching with your keyword in mind.
 
