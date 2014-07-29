@@ -6,7 +6,7 @@ Rebecca Davis, Matthew K. Gold, Katherine D. Harris, and Jentery Sayers
 * [“Crowdsourcing History”](http://www.jenteryteaches.com/205/?p=40) (Jentery Sayers, University of Victoria) [assignment]
 * [Digital History Project](http://wheatoncollege.edu/digital-history-project/) (Wheaton College)] [collaborative project]
 * [Digital Pedagogy](http://web.uvic.ca/~englblog/pedagogydhsi/) (2012 Digital Humanities Summer Institute) [syllabus; collaborative project]
-* DS106: Digital Storytelling (Jim Groom, University of Mary Washington) [syllabus]
+* [DS106: Digital Storytelling](http://ds106.us/) (Jim Groom, University of Mary Washington) [syllabus]
 * “How to Crowdsource Grading” (Cathy Davidson, HASTAC) [essay] 
 * Hypertext and Electronic Literature (Jesse Stommel, Marylhurst University) [syllabus]
 * Learning from YouTube (Alexandra Juhasz, The MIT Press) [collaborative project] 
@@ -57,13 +57,17 @@ Ultimately, then, crowdsourcing teaches students how data aggregation—as one f
 
 As demonstrated by Hacking the Academy, Transcribe Bentham, and documentation for The Humanities And Technology Camp (THATCamp), crowdsourcing is also growing increasingly common in digital humanities projects. Cathy Davidson has explained ways to crowdsource grading, and the students and instructors of the “Digital Pedagogy” course at the 2012 Digital Humanities Summer Institute also crowdsourced a collection of teaching resources based on their seminar conversations and activities. 
 
-![2012 Digital Humanities Summer Institute, "Digital Pedagogy" Course](/artifacts/2012DHSIDigitalPedagogy.png"Wheaton College Digital History Project") *2012 Digital Humanities Summer Institute, "Digital Pedagogy" Course* [(Source)](http://web.uvic.ca/~englblog/pedagogydhsi/) [(Archived HTML)](/artifacts/2012DHSIDigitalPedagogy.html) [(Archived Screengrab)](/artifacts/2012DHSIDigitalPedagogy.png) 
+![2012 Digital Humanities Summer Institute, "Digital Pedagogy" Course](/artifacts/2012DHSIDigitalPedagogy.png "2012 Digital Humanities Summer Institute, Digital Pedagogy Course") *2012 Digital Humanities Summer Institute, "Digital Pedagogy" Course* [(Source)](http://web.uvic.ca/~englblog/pedagogydhsi/) [(Archived HTML)](/artifacts/2012DHSIDigitalPedagogy.html) [(Archived Screengrab)](/artifacts/2012DHSIDigitalPedagogy.png) 
 
 These various projects demonstrate how—while dependent on voluntary contributions and highly structured activity—crowdsourcing is not inherently exploitative, especially in academic contexts. In fact, teaching crowdsourcing affords critical discussions about the ways in which digital technologies organize labor and how, when designed persuasively, that organization can foster creativity, critical inquiry, and innovative scholarship. When it does not go well, then crowdsourcing is also an opportunity to underscore how and why collaboration fails. For instance, in “Yes, But How Do You Teach Collaboration?” Rebecca Frost Davis writes: “As much as students may expect to work in teams after college, they should probably also expect to work on bad teams. Getting a little advance experience on how to handle malfunctioning team dynamics is not necessarily a bad thing.” In other words, collaborations do not always meet expectations, and reflecting on as well as documenting failure, surprises, and errors (especially in writing) encourages the self-reflexivity historically valued by humanities scholars.  
 
 ## Students Producing Their Own Project 
 
-During the last few years, many digital pedagogy practitioners have approached collaboration by treating a given course as a project. Neither limited to a single prompt (e.g., crowdsourcing an exhibit) nor connected to a larger research initiative (e.g., the Seattle Civil Rights and Labor History Project), these courses give students opportunities to construct projects practically from scratch. Examples include the “Occupy Class” at Georgia State University and “Digital Storytelling” at the University of Mary Washington. The end product is often a web-based collection of short-form essays, curated resources, new media compositions, or co-authored narratives emerging from a focused line of inquiry. The collection may be open-access or behind a wall (e.g., a passcode-protected blog). And collaboration is typically anchored in sharing content with peers and encouraging what, in “Where Credit Is Due,” Bethany Nowviskie calls “a kind of perpetual peer review.” Assessment, self-reflexivity, and process documentation become components of the project’s everyday, with collaboration as the default mode of production.  
+During the last few years, many digital pedagogy practitioners have approached collaboration by treating a given course as a project. Neither limited to a single prompt (e.g., crowdsourcing an exhibit) nor connected to a larger research initiative (e.g., the Seattle Civil Rights and Labor History Project), these courses give students opportunities to construct projects practically from scratch. Examples include the “Occupy Class” at Georgia State University and “DS106: Digital Storytelling” at the University of Mary Washington. 
+
+![Groom, DS016: "Digital Storytelling"](/artifacts/groomds106.png "Groom, DS016: Digital Storytelling") *Groom, DS106: "Digital Stortelling* [(Source)](http://ds106.us/) [(Archived HTML)](/artifacts/groomDS106.html) [(Archived Screengrab)](/artifacts/groomDS106.png)
+
+The end product is often a web-based collection of short-form essays, curated resources, new media compositions, or co-authored narratives emerging from a focused line of inquiry. The collection may be open-access or behind a wall (e.g., a passcode-protected blog). And collaboration is typically anchored in sharing content with peers and encouraging what, in “Where Credit Is Due,” Bethany Nowviskie calls “a kind of perpetual peer review.” Assessment, self-reflexivity, and process documentation become components of the project’s everyday, with collaboration as the default mode of production.  
 
 Here, “Learning from YouTube” is an especially thought-provoking and suggestive model for such perpetual peer review. First taught in 2007 by Alexandra Juhasz, the course took YouTube as its subject, problem, and medium. Students collaboratively generated a significant portion of the assignments as well as the course content. They also developed their own research topics (e.g., race, advertising, and art on YouTube), giving Juhasz frequent opportunities to learn from them. The course went through several more iterations before, in 2011, Juhasz published Learning from YouTube on The MIT Press, with programming and design support from Craig Dietrich. This “video book” contains content by a significant number of Juhasz’s students, and it affords rich insight into how a course became a project and then a book. While student-led, collaborative courses may initially appear like low-intensity efforts for instructors, they actually require a tremendous amount of framing, organizing, and facilitation, especially if the goal is to collaboratively publish a co-designed or co-authored text. That is, a state of perpetual peer review is not easily obtained in and beyond the classroom. It demands a unique combination of flexibility and structure.  
 
@@ -88,12 +92,11 @@ Davidson, Cathy. “How to Crowdsource Grading.” HASTAC. Duke U, 26 July 2009.
 Davis, Rebecca Frost and Kathryn Tomasek. ”Process Checklist for Integrating Digital Humanities Projects into Courses.” Rebecca Frost Davis: Liberal Education in a Networked World, 13 September 2012. Web. 3 December 2012.  
 
 “Digital Pedagogy.” 2012 Digital Humanities Summer Institute. U of Victoria, June 2012. Web. 28 July 2014.  
-
 “Exhibit.” SIMILE Widgets. Massachusetts Institute of Technology, 2009. Web. 3 December 2012.  
 
 Gregory, James N., ed. Seattle Civil Rights and Labor History Project. U of Washington, n.d. Web. 3 December 2012.  
 
-Groom, Jim. DS106: Digital Storytelling. U of Mary Washington, n.d. Web. 3 December 2012.  
+Groom, Jim. DS106: Digital Storytelling. U of Mary Washington, n.d. Web. 28 July 2014.   
 
 Harris, Katherine D. “Timeline: Literary Historical Research.” San José State U, September 2009. Web. 3 December 2012.  
 
