@@ -10,16 +10,16 @@ For quick reference, provide a quick list of the ten pedagogical resources featu
 
 * Title, Creator, URL, Project Type
 
-Project Types include: 
-* Syllabus
-* Essay
-* Teaching Guidelines
-* Assignment
-* Lesson Plan 
-* Website 
-* Collaborative Project
-* Co-authored Document 
-* University / College Initiative 
+	* Sample project types include:
+		* Syllabus
+		* Essay
+		* Teaching Guidelines
+		* Assignment
+		* Lesson Plan 
+		* Website 
+		* Collaborative Project
+		* Co-authored Document 
+		* University / College Initiative 
 
 ## 3. Curatorial Statement (roughly 750-800 words, MLA Format)
 
