@@ -8,7 +8,7 @@
 
 For quick reference, provide a quick list of the ten pedagogical resources featured in your keyword entry
 
-* TITLE, CREATOR, URL, PROJECT TYPE
+* Title, Creator, URL, Project Type
 
 Project Types include: 
 * Syllabus
