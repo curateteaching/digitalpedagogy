@@ -2,13 +2,11 @@
 
 *Note: Maximum Length for each keyword entry (including works cited) is 3000 words*
 
-# KEYWORD
+## Author Name(s)
 
-## AUTHOR NAME(S)
+## Quick List of Curated Pedagogical Resources (Bulleted List)
 
-## BULLETED LIST OF CURATED PEDAGOGICAL RESOURCES
-
-At the beginning of your entry, provide a brief list of the ten pedagogical resources featured in your keyword entry. For each resource
+For quick reference, provide a quick list of the ten pedagogical resources featured in your keyword entry
 
 * TITLE, CREATOR, URL, PROJECT TYPE
 
@@ -23,7 +21,7 @@ Project Types include:
 * Co-authored Document 
 * University / College Initiative 
 
-## CURATORIAL STATEMENT (roughly 750-800 words, MLA Format)
+## Curatorial Statement (roughly 750-800 words, MLA Format)
 
 The curatorial statement expresses the curator’s vision of the keyword — what it means in a pedagogical context and how the curator has approached the task of curating pedagogical resources around it. Statements can include some or all of the following: 
 
@@ -33,21 +31,21 @@ The curatorial statement expresses the curator’s vision of the keyword — wha
 * Important issues (why teach this now? why does this topic matter for students? for faculty? for a field?) 
 * Intersections with curator’s pedagogical philosophy/teaching conditions (how and where does the curator teach issues related to this keyword? what course? with what learning expectations/outcomes in mind? with what resources?) 
 
-### CURATED PEDAGOGICAL RESOURCES (10 Resources w/metadata, screenshots, & 150 word annotations)
+### Curated Pedagogical Resources(10 Resources w/metadata, screenshots, & 150 word annotations)
 
-Select ten pedagogical resources to feature for your keyword. Each resource should be include: 
+Select ten pedagogical resources to feature for your keyword. Each resource should include: 
 
 * Screenshot (PNG or JPG), if applicable 
-* Source URL / Provenance
+* Source URL 
 * A Copy of the Resource (HTML, PDF, DOCX, TXT, MP3, MP4, MOV, PNG, JPG), if possible 
 * Name of Creator
 * Attribution Information (Author, University/College) 
 * An annotation of _no more than 150 words_ that includes:
-> * Brief statement of Aim/Purpose of the Resource (what is it?) 
-> * Brief statement on Its Relevance to the Keyword (why is it important/useful, what does it do well, how does it exemplify digital pedagogy) 
-> * Guidelines for Use (how to integrate it into a course, what might need revision/adaptation)
+	* Brief statement of Aim/Purpose of the Resource (what is it?) 
+	* Brief statement on Its Relevance to the Keyword (why is it important/useful, what does it do well, how does it exemplify digital pedagogy) 
+	* Guidelines for Use (how to integrate it into a course, what might need revision/adaptation)
 
-## BULLETED LIST OF RELATED MATERIALS
+## Related Materials (Bulleted List)
 
 In MLA format, list five related items or resources that are informative for teaching with your keyword in mind.
 
