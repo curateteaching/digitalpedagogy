@@ -7,7 +7,7 @@ Rebecca Davis, Matthew K. Gold, Katherine D. Harris, and Jentery Sayers
 * [Digital History Project](http://wheatoncollege.edu/digital-history-project/) (Wheaton College)] [collaborative project]
 * [Digital Pedagogy](http://web.uvic.ca/~englblog/pedagogydhsi/) (2012 Digital Humanities Summer Institute) [syllabus; collaborative project]
 * [DS106: Digital Storytelling](http://ds106.us/) (Jim Groom, University of Mary Washington) [syllabus]
-* “How to Crowdsource Grading” (Cathy Davidson, HASTAC) [essay] 
+* [“How to Crowdsource Grading”](http://www.hastac.org/blogs/cathy-davidson/how-crowdsource-grading) (Cathy Davidson, HASTAC) [essay] 
 * Hypertext and Electronic Literature (Jesse Stommel, Marylhurst University) [syllabus]
 * Learning from YouTube (Alexandra Juhasz, The MIT Press) [collaborative project] 
 * Looking for Whitman (New York City College of Technology, New York University, University of Mary Washington, and Rutgers University-Camden) [syllabus; collaborative project]
@@ -55,7 +55,12 @@ This particular assignment gave students the opportunity to survey the history o
 
 Ultimately, then, crowdsourcing teaches students how data aggregation—as one form of collaboration among many—relies on a sequence of highly structured activities. For instance, as readers will likely notice from the “Crowdsourcing History” prompt as well as Katherine D. Harris’s similar assignment on literary historical research, crowdsourcing almost always relies on people contributing to the same document (e.g., a spreadsheet in Google Docs), which then acts as a data source for graphical expression (e.g., a SIMILE Exhibit). Yet, in order to generate a meaningful expression, the data must be consistent across contributions. Using an entry form or a controlled vocabulary (e.g., a taxonomy for describing items in timeline) reduces redundancies, and many projects require a moderator, who will “clean” the data as it is entered. In the context of a course, this moderator can be the instructor or—better yet—a student or group of students invested in structuring and editing data. If something like a Google Spreadsheet is used to feed data to an expression, then it is also a fun and even playful activity for students to simultaneously edit a spreadsheet in the classroom. This way, they also gain experience in collaboratively composing documents in a shared environment. These forms of collaborative composition are growing increasingly common across the web, and at ProfHacker George Williams has provided some tips on “GoogleDocs and Collaboration in the Classroom.” 
 
-As demonstrated by Hacking the Academy, Transcribe Bentham, and documentation for The Humanities And Technology Camp (THATCamp), crowdsourcing is also growing increasingly common in digital humanities projects. Cathy Davidson has explained ways to crowdsource grading, and the students and instructors of the “Digital Pedagogy” course at the 2012 Digital Humanities Summer Institute also crowdsourced a collection of teaching resources based on their seminar conversations and activities. 
+As demonstrated by Hacking the Academy, Transcribe Bentham, and documentation for The Humanities And Technology Camp (THATCamp), crowdsourcing is also growing increasingly common in digital humanities projects. Cathy Davidson has explained ways to crowdsource grading. 
+
+![Davidson, "How To Crowdsource Grading"](/artifacts/davidsonHowToCrowdsourceGrading.png "Davidson, How To Crowdsource Grading") *Davidson, "How To Crowdsource Grading"* [(Source)](http://www.hastac.org/blogs/cathy-davidson/how-crowdsource-grading) [(Archived HTML)](/artifacts/davidsonHowToCrowdsourceGrading.html) [(Archived Screengrab)](/artifacts/davidsonHowToCrowdsourceGrading.png) 
+
+
+And the students and instructors of the “Digital Pedagogy” course at the 2012 Digital Humanities Summer Institute also crowdsourced a collection of teaching resources based on their seminar conversations and activities. 
 
 ![2012 Digital Humanities Summer Institute, "Digital Pedagogy" Course](/artifacts/2012DHSIDigitalPedagogy.png "2012 Digital Humanities Summer Institute, Digital Pedagogy Course") *2012 Digital Humanities Summer Institute, "Digital Pedagogy" Course* [(Source)](http://web.uvic.ca/~englblog/pedagogydhsi/) [(Archived HTML)](/artifacts/2012DHSIDigitalPedagogy.html) [(Archived Screengrab)](/artifacts/2012DHSIDigitalPedagogy.png) 
 
@@ -65,7 +70,7 @@ These various projects demonstrate how—while dependent on voluntary contributi
 
 During the last few years, many digital pedagogy practitioners have approached collaboration by treating a given course as a project. Neither limited to a single prompt (e.g., crowdsourcing an exhibit) nor connected to a larger research initiative (e.g., the Seattle Civil Rights and Labor History Project), these courses give students opportunities to construct projects practically from scratch. Examples include the “Occupy Class” at Georgia State University and “DS106: Digital Storytelling” at the University of Mary Washington. 
 
-![Groom, DS016: "Digital Storytelling"](/artifacts/groomds106.png "Groom, DS016: Digital Storytelling") *Groom, DS106: "Digital Stortelling* [(Source)](http://ds106.us/) [(Archived HTML)](/artifacts/groomDS106.html) [(Archived Screengrab)](/artifacts/groomDS106.png)
+![Groom, DS016: "Digital Storytelling"](/artifacts/groomDS106.png "Groom, DS016: Digital Storytelling") *Groom, DS106: "Digital Stortelling* [(Source)](http://ds106.us/) [(Archived HTML)](/artifacts/groomDS106.html) [(Archived Screengrab)](/artifacts/groomDS106.png)
 
 The end product is often a web-based collection of short-form essays, curated resources, new media compositions, or co-authored narratives emerging from a focused line of inquiry. The collection may be open-access or behind a wall (e.g., a passcode-protected blog). And collaboration is typically anchored in sharing content with peers and encouraging what, in “Where Credit Is Due,” Bethany Nowviskie calls “a kind of perpetual peer review.” Assessment, self-reflexivity, and process documentation become components of the project’s everyday, with collaboration as the default mode of production.  
 
@@ -87,7 +92,7 @@ Chisholm, Richard M. “Coping with the Problems of Collaborative Writing.” Wr
 
 Cohen, Dan and Tom Scheinfeldt, eds. Hacking the Academy: A Book Crowdsourced in One Week. Fairfax, VA: George Mason U, 2010. Web. 
 
-Davidson, Cathy. “How to Crowdsource Grading.” HASTAC. Duke U, 26 July 2009. Web. 3 December 2012.  
+Davidson, Cathy. “How to Crowdsource Grading.” HASTAC. Duke U, 26 July 2009. Web. 28 July 2014.  
 
 Davis, Rebecca Frost and Kathryn Tomasek. ”Process Checklist for Integrating Digital Humanities Projects into Courses.” Rebecca Frost Davis: Liberal Education in a Networked World, 13 September 2012. Web. 3 December 2012.  
 
