@@ -46,10 +46,12 @@ Select ten pedagogical resources to feature for your keyword. Each resource shou
 * A Copy of the Resource (HTML, PDF, DOCX, TXT, MP3, MP4, MOV, PNG, JPG), if possible 
 * Name of Creator
 * Attribution Information (Author, University/College) 
-* An annotation of _no more than 150 words_ that includes:
+* An annotation of **no more than 150 words** that includes:
 	* Brief statement of Aim/Purpose of the Resource (what is it?) 
 	* Brief statement on Its Relevance to the Keyword (why is it important/useful, what does it do well, how does it exemplify digital pedagogy) 
 	* Guidelines for Use (how to integrate it into a course, what might need revision/adaptation)
+
+Feel free to push these resources to a server for remote access, and then send us the URL. In your Markdown file, you can just include file names (e.g., screenshot1.png) for our reference, with the annotations and other information following them. Ultimately, all of your resources will be intergrated in this repository (curateteaching/digitalpedagogy). 
 
 ## 5. Related Materials (Bulleted List)
 
