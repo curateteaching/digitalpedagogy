@@ -55,7 +55,7 @@ Feel free to push these resources to a server for remote access, and then send u
 
 ## 5. Related Materials (Bulleted List)
 
-In MLA format, list five related items or resources that are informative for teaching with your keyword in mind.
+In MLA format, list five related items or resources that are informative for teaching with your keyword in mind. **Please only include five items. No more, no less.**
 
 For each item, include Author, Title, and URL
 
@@ -69,5 +69,5 @@ Items may include:
 
 ## 6. Works Cited 
 
-A works cited for all references in your entry. 
+A works cited for all references in your entry, including your ten resources, your five related materials, and anything referenced in your curatorial statement.  
 
