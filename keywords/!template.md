@@ -44,7 +44,7 @@ Select ten pedagogical resources to feature for your keyword. Each resource shou
 
 * Screenshot (PNG or JPG), if applicable 
 * Source URL 
-* A Copy of the Resource (HTML, PDF, DOCX, TXT, MP3, MP4, MOV, PNG, JPG), if possible 
+* A Copy of the Resource (in HTML, PDF, DOCX, TXT, MD, RTF, MP3, MP4, MOV, PNG, or JPG), if possible 
 * Name of Creator
 * Attribution Information (Author, University/College) 
 * An annotation of **no more than 150 words** that includes:
