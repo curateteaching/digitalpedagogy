@@ -10,9 +10,11 @@ Please email your assigned editor with any questions or concerns. Your assigned 
 
 ## 2. Bulleted List of Curated Pedagogical Resources
 
-For quick reference, provide a quick list of the ten pedagogical resources featured in your keyword entry
+For quick reference, provide a bulleted list of the ten pedagogical resources featured in your keyword entry.
 
-* Title, Creator, URL, Project Type
+* "Title," Creator, URL (Project Type)
+
+Example: "English 101," Pat Patterson, university.edu/101syllabus.pdf (syllabus)
 
 	* Sample project types include:
 		* Syllabus
