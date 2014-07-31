@@ -58,7 +58,7 @@ Items may include:
 * Crowdsourced document 
 * Blog post 
 * Website
-* 
+
 ## 6. Works Cited 
 
 A works cited for all references in your entry. 
