@@ -29,15 +29,15 @@ Example: "English 101," Pat Patterson, university.edu/101syllabus.pdf (syllabus)
 
 ## 3. Curatorial Statement (roughly 750-800 words, MLA Format)
 
-The curatorial statement expresses the curator’s vision of the keyword — what it means in a pedagogical context and how the curator has approached the task of curating pedagogical resources around it. Statements can include some or all of the following: 
+The curatorial statement expresses your vision of the keyword — what it means in a pedagogical context and how you approached the task of curating pedagogical resources around it. Statements can include some or all of the following: 
 
-* Vision statement (how does the curator envison or understand this keyword and its relation to pedagogy?)
+* Vision statement (how do you envison or understand this keyword and its relation to pedagogy?)
 * Scholarly rationale for selections 
-* Criteria for selections (why were the specific curated resources were selected?) 
-* Important issues (why teach this now? why does this topic matter for students? for faculty? for a field?) 
-* Intersections with curator’s pedagogical philosophy/teaching conditions (how and where does the curator teach issues related to this keyword? what course? with what learning expectations/outcomes in mind? with what resources?) 
+* Criteria for selections (why were the specific curated resources selected?) 
+* Important issues (why teach this now? why does this topic matter for students? for faculty? for a field? what makes this keyword unique or exemplary for digital pedagogy?) 
+* Particular intersections with your pedagogical philosophy/teaching conditions (how and where do you teach issues related to this keyword? in what course(s)? with what learning expectations/outcomes in mind? with or without what resources? what are your students' backgrounds, interests, or investments?) 
 
-## 4. Curated Pedagogical Resources (10 Resources w/ metadata, screenshots, and 150-word annotations)
+## 4. Curated Pedagogical Resources (ten resources, each with metadata, a screenshot, and a 150-word annotation)
 
 Select ten pedagogical resources to feature for your keyword. Each resource should include: 
 
