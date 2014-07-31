@@ -1,6 +1,8 @@
 # KEYWORD ENTRY TEMPLATE
 
-*Note: Maximum Length for each keyword entry (including works cited) is 3000 words*
+**Note: Maximum Length for each keyword entry (including works cited) is 3000 words**
+
+Please email your assigned editor with any questions or concerns. Your assigned editor is the person who contacted you with details about this template.
 
 ## 1. Author Name(s)
 
@@ -31,7 +33,7 @@ The curatorial statement expresses the curator’s vision of the keyword — wha
 * Important issues (why teach this now? why does this topic matter for students? for faculty? for a field?) 
 * Intersections with curator’s pedagogical philosophy/teaching conditions (how and where does the curator teach issues related to this keyword? what course? with what learning expectations/outcomes in mind? with what resources?) 
 
-## 4. Curated Pedagogical Resources(10 Resources w/metadata, screenshots, & 150 word annotations)
+## 4. Curated Pedagogical Resources (10 Resources w/ metadata, screenshots, and 150-word annotations)
 
 Select ten pedagogical resources to feature for your keyword. Each resource should include: 
 
