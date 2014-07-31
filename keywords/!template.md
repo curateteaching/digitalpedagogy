@@ -6,7 +6,7 @@ Please email your assigned editor with any questions or concerns. Your assigned 
 
 ## 1. Author Name(s)
 
-## 2. Quick List of Curated Pedagogical Resources (Bulleted List)
+## 2. List of Curated Pedagogical Resources (Bulleted List)
 
 For quick reference, provide a quick list of the ten pedagogical resources featured in your keyword entry
 
