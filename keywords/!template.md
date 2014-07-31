@@ -16,16 +16,17 @@ For quick reference, provide a bulleted list of the ten pedagogical resources fe
 
 Example: "English 101," Pat Patterson, university.edu/101syllabus.pdf (syllabus)
 
-	* Sample project types include:
-		* Syllabus
-		* Essay
-		* Teaching Guidelines
-		* Assignment
-		* Lesson Plan 
-		* Website 
-		* Collaborative Project
-		* Co-authored Document 
-		* University / College Initiative 
+Sample project types include:
+
+* Syllabus
+* Essay
+* Teaching Guidelines
+* Assignment
+* Lesson Plan 
+* Website 
+* Collaborative Project
+* Co-authored Document 
+* University / College Initiative 
 
 ## 3. Curatorial Statement (roughly 750-800 words, MLA Format)
 
