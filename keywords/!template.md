@@ -2,7 +2,7 @@
 
 **Note: Maximum Length for each keyword entry (including works cited) is 3000 words**
 
-** Please author your entry in Markdown, saving it as an .md file.**
+**Please author your entry in Markdown, saving it as an .md file.**
 
 Please email your assigned editor with any questions or concerns. Your assigned editor is the person who contacted you with details about this template.
 
