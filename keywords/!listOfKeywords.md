@@ -1,6 +1,6 @@
 # Keywords
 
-* 3D Modeling
+* 3D Modeling (cut?)
 * Ability
 * Annotation
 * Archive
@@ -32,15 +32,17 @@
 * Literary
 * Makerspace 
 * Mapping
-* Metadata
+* Metadata (cut?)
 * Mobile 
 * MOOC
 * Multimodal
 * Museum
-* Network 
+* Network
+* Fiction (or Novels?)
 * Open 
 * Place
 * Play
+* Poetry
 * Praxis
 * Project Management
 * Prototyping
