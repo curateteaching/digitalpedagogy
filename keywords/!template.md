@@ -10,7 +10,7 @@ Please email your assigned editor with any questions or concerns. Your assigned 
 
 ## 2. Bulleted List of Curated Pedagogical Resources
 
-For quick reference, provide a bulleted list of the ten pedagogical resources featured in your keyword entry.
+For quick reference, provide a bulleted list of the ten pedagogical resources featured in your keyword entry. Please provide ten resources. No more, no less. 
 
 * "Title," Creator, URL (Project Type)
 
