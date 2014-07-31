@@ -2,11 +2,13 @@
 
 **Note: Maximum Length for each keyword entry (including works cited) is 3000 words**
 
+** Please author your entry in Markdown, saving it as an .md file.**
+
 Please email your assigned editor with any questions or concerns. Your assigned editor is the person who contacted you with details about this template.
 
 ## 1. Author Name(s)
 
-## 2. List of Curated Pedagogical Resources (Bulleted List)
+## 2. Bulleted List of Curated Pedagogical Resources
 
 For quick reference, provide a quick list of the ten pedagogical resources featured in your keyword entry
 
