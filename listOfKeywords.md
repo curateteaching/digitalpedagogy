@@ -11,7 +11,7 @@ Hashtag for news and updates: [#curateteaching](https://twitter.com/hashtag/cura
 * Katherine D. Harris, San José State University
 * Jentery Sayers, University of Victoria
 
-## Keywords 
+## KEYWORDS
 
 * Ability
 * Annotation
