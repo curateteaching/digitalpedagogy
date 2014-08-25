@@ -5,7 +5,7 @@ A repository of scholarly materials for *Digital Pedagogy in the Humanities: Con
 
 ## General Editors 
 
-*Rebecca Frost Davis, National Institute for Technology in Liberal Education
+* Rebecca Frost Davis, National Institute for Technology in Liberal Education
 * Matthew K. Gold, City Tech & Graduate Center, City University of New York
 * Katherine D. Harris, San José State University
 * Jentery Sayers, University of Victoria
