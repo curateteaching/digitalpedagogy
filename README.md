@@ -1,4 +1,12 @@
 digitalpedagogy
 ===============
 
-Digital Pedagogy in the Humanities: Concepts, Models, and Experiments
+A repository of scholarly materials for *Digital Pedagogy in the Humanities: Concepts, Models, and Experiments* (under contract with the Modern Language Association)
+
+## General Editors 
+
+Rebecca Frost Davis, National Institute for Technology in Liberal Education
+Matthew K. Gold, City Tech & Graduate Center, City University of New York
+Katherine D. Harris, San José State University
+Jentery Sayers, University of Victoria
+
