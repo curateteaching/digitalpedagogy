@@ -1,6 +1,6 @@
 # Draft List of Keywords for DIGITAL PEDAGOGY IN THE HUMANITIES: CONCEPTS, MODELS, AND EXPERIMENTS  
 
-Currently under contract with the Modern Language Association 
+*A curated collection of downloadable, reusable, and remixable pedagogical resources currently under contract with the Modern Language Association* 
 
 Hashtag for news and updates: [#curateteaching](https://twitter.com/hashtag/curateteaching?f=realtime&src=hash)
 
