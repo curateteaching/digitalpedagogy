@@ -1,9 +1,8 @@
 # Digital Pedagogy in the Humanities: Concepts, Models, and Experiments
-===============
 
 A repository of scholarly materials for *Digital Pedagogy in the Humanities: Concepts, Models, and Experiments* (under contract with the Modern Language Association)
 
-## General Editors 
+## General Editors
 
 * Rebecca Frost Davis, St. Edward's University 
 * Matthew K. Gold, City Tech & Graduate Center, City University of New York
@@ -12,11 +11,11 @@ A repository of scholarly materials for *Digital Pedagogy in the Humanities: Con
 
 ## Hashtag
 
-[#curateteaching](https://twitter.com/hashtag/curateteaching?f=realtime&src=hash)
+[^curateteaching](https://twitter.com/hashtag/curateteaching?f=realtime&src=hash)
 
 ## FAQ
 
-<<<<<<< HEAD
+\<\<\<\<\<\<\< HEAD
 **Q: Should curators circulate a formal CFP?**
 A: No. Feel free to crowdsource suggestions from your networks, but please do not create a CFP.  We are encouraging less of a formal submission/review/accept/reject model and more of an informal, “send some links” model. It is  the curator's job to select and curate 10 links and to explain things in the curator's statement. Additional links collected through a crowdsourced process may be shared through the "Additional Resources" section, perhaps through a link to a document that contains a larger list of suggestions.
 
@@ -64,4 +63,3 @@ A: See the list of keywords (and curators?)
 Q: What kind of content are you looking for?
 
 A: The keywords should place an emphasis on pedagogy, not just a list of neat assignments.
->>>>>>> FETCH_HEAD
