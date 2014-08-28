@@ -19,7 +19,7 @@ For quick reference, provide a quick list of the ten pedagogical resources featu
 		* Website 
 		* Collaborative Project
 		* Co-authored Document 
-		* University / College Initiative 
+		* University/College Initiative 
 
 ## 3. Curatorial Statement (roughly 750-800 words, MLA Format)
 
