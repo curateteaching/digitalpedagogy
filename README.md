@@ -37,5 +37,7 @@ A: See the list of keywords (and curators?)
 A: The keywords should place an emphasis on pedagogy, not just a list of neat assignments. We aim to distribute not reflective narratives about teaching, but rather teaching materials themselves -- innovative assignments, syllabi, and readings that will inspire readers to experiment with their own teaching.
 
 **Q: Can I include my own work?**
+A:Yes, but we want to go beyond the usual suspects and circles.
 
 **Q: Can I include work by the General Editors?**
+A: Yes, but we want to go beyond the usual suspects and circles.
