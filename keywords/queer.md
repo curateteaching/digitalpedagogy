@@ -125,7 +125,7 @@ This resource offers a range of courses and reflections on teaching queer, LGBTQ
 Part of the Teaching Tolerance project, this website offers a list of resources and best practices for teachers, administartors, and schools to give them "the knowledge they need to create a climate in which their most vulnerable students feel safe and valued...to build an educational environment that is truly welcoming to all students."  Though the resource is aimed at middle and secondary schools, the "LGBT 101"-style material and inclusive policies are a necessary starting point in developing vocabularies, course rationales, teaching philosophies, and ways to think about the institution.  
 
 [#TransformDH](http://transformdh.org/)
-*#TransformDH
+* #TransformDH
 
 What is important about the #TransformDH blog and collaborative project is the idea that the digital humanities must be an more
 open, inclusive, and diverse space, discipline, and set of inquiries.  #TransformDH hopes to "do" race, ethnicity, gender, sexuality, and class.  As a project that grew out of the experiences, scholarship, and activism of a handful of people across institutions, #TransformDH is exemplary in its demonstration of collaboration, interdisciplinarity, and grass-roots "making" and "doing" in digital humanities.  
@@ -136,7 +136,6 @@ open, inclusive, and diverse space, discipline, and set of inquiries.  #Transfor
 * A Project of Queering the Museum
 
 The Digital Storytelling Project is a Seattle-based project suppored by Queering the Museum, a group dedicated to increasing LGBTQ representation in museums.  The storytelling project invites LGBTQ individuals from the Puget Sound region to reflect on their lives, to use their own narration and photos to create a short video.  The project allows people to tell their own stories, to decide how they want to be represented, and to share these stories in a queer-themed exhibit at The Museuem of History and Industry in Seattle.
-
 
 [Lim](http://mkopas.net/files/Lim/)
 * Merritt Kopas
@@ -150,8 +149,6 @@ On the surface, Lim is a very simple game where the play moves a small, flashing
 This special issue of Ada hopes, in the words of the editors to explore "what the concept of praxis could offer in our thinking about the intersections of gender, digital media, and technology. Praxis in both Marxist and in Arendtian political thought brings together theory, philosophy and political action into the realm of the everyday."  The special issue also highlights the ways that digital projects like the journal Ada can be open source, be committed to an "transparent, productive, and rigorous peer review process," and be created, designed, published, and distributed collectively online.  
 
 ### Related Materials 
-
-In MLA format, list five related items or resources that are informative for teaching with your keyword in mind. **Please only include five items. No more, no less.**
 
 * "Blogging (as) Feminist Digital Pedagogy."  _Media Praxis_.  27 Jan. 2014.  
 	[https://aljean.wordpress.com/2014/01/27/blogging-as-feminist-digital-pedagogy/](https://aljean.wordpress.com/2014/01/27/blogging-as-feminist-digital-pedagogy/).
