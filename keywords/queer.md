@@ -34,6 +34,7 @@ who are merely observers, vistors, and worst yet, unwelcome interlopers.  Though
 likely came from John Perry Barlow's "A Declaration of Independence of Cyberspace," Mark Prensky extends the problematic 
 and techno-orientalizing metaphor, saying, "What should we call these 'new' students of today?  Some refer to them as 
 the N-[for Net]-gen or D-[for digital]-gen.  But the most useful designation I have found for them is *Digital Natives*.  
+
 Our students today are all 'native speakers' of the digital language of computers, video games and the Internet.   So what 
 does that make the rest of us?  Those of us who were not born into the digital world but have, at some later point in 
 our lives, become fascinated by and adopted many or most aspects of the new technology are, and always will be compared 
@@ -87,71 +88,61 @@ possibility for another world."
 
 ### Curated Resources 
 
-![Refracting Digital Humanities by Jarah Moesch](/path/to/screenshot01_refracting.jpg)
 [Refracting the Digital Humanities](http://thejarahtree.com/2014/07/05/refracting-digital-humanities/)
 * Jarah Moesch
 * American Studies, University of Maryland, College Park
 
 Self-described as "an experimental artist-scholar who uses the queer sick body to challenge the limits of the phenomenological," Moesch's course and syllabus offer an intersectional way to examine the ways "the methods and tools used and produced by Digital Humanists function as organizing principles that frame how race, gender, sexuality, and ability."  What is exemplary about this resource is the fact that Moesch's syllabus solidly combines theory and practice, exploring and doing.  As the course description reads, "By pairing hands-on learning/making with Critical Race Theory, Queer, and Gender Theories, we will interrogate the structures of the tools themselves while creating our own collaborative practices and methods for ‘doing’ (refracting) DH differently."
 
-![Queer New Media by Marty Fink](/path/to/screenshot02_queernewmedia.jpg)
 [ENGL 1102: Queer New Media](http://queergatech.tumblr.com/)
 * Marty Fink
 * Brittain Postdoctoral Fellow, School of Literature, Media, and Communication, Georgia Tech
 
 Multimodal, intersectional, and colorful, Fink's introductory course outlines ways to think about and create queer narratives and cultural productions.  The course website provides examples of various student responses and projects, including student-made digital games. The strengths of this resource are in its eclecticism, its use of both popular culture and more traditional literature, and the examples of digital work created by students.  
 
-![Digital Pedagogy: Twitter, Close Reading, and Learning/Teaching in Public by Petra Dierkes-Thrun](/path/to/screenshot03_twitter.jpg)
 [Digital Pedagogy: Twitter, Close Reading, and Learning/Teaching in Public](http://litilluminations.wordpress.com/2014/01/31/digital-pedagogy-close-reading-and-learning-in-public/)
 * Petra Dierkes-Thrun
 * Lecturer, Comparative Literature, Stanford University
 
 Dierkes-Thrun's website offers a quick overview of the variety of different digital pedagogy exercises and assignments she has developed for her literature seminars and feminist, gender and sexuality classes at Stanford, including "Twitter for Crowdsourcing and Role-Play Exercises," close reading and collaborative interpretation exercises, and other teaching and learning tools.  This resource serves as a jumping off point for adapting Dierkes-Thrun's assignments or for generating new ones.  What is most useful is the inclusion of reflection on the assignments by both the instructor and the students.
 
-![iLogs by Edmond Y. Chang](/path/to/screenshot04_ilogs.jpg)
 [iLogs](http://www.edmondchang.com/466/assignments.html)
 * Edmond Y. Chang
 * Assistant Professor, English, Drew University
 
 These brief assignments ask students to keep and maintain a weekly "identity log" or "iLog," recording, detailing, and thinking about their own identities and identifications.  These "iLogs" will function as a kind of identity workbook, an analytical and metacognitive journal, connecting students' observations and experiences to the texts, theories, and ideas of an Introduction to LGBT Studies class. Prompts range from thinking about identities, sexuality, queer space, and popular culture, which are share with the class via the class's Tumblr website.  The overall course syllabus and reading list are included as well.  
 
-![Queer Geek Theory: Classes by Alexis Lothian](/path/to/screenshot05_queergeektheory.jpg)
 [Queer Geek Theory: Classes](http://www.queergeektheory.org/teaching_main/classes/)
 * Alexis Lothian
 * Assistant Professor, Women's Studies/LGBTQ Studies, University of Maryland
 
 This resource offers a range of courses and reflections on teaching queer, LGBTQ, and women's studies material.  Included in Lothian's descriptions are specific mentions of incorporating digital humanities and digital technologies into the classes.  Lothian encourages the sharing of course rationales, assignments, and integrations of digital tools, saying, "I definitely consider all of the syllabi linked above to be open source documents from which other teachers should borrow as they see fit."
 
-![Best Practices: Creating an LGBT-inclusive School Climate](/path/to/screenshot06_teachingtolerance.jpg)
 [Best Practices: Creating an LGBT-inclusive School Climate](http://www.tolerance.org/lgbt-best-practices)
 * Teaching Tolerance
 * A Project of the southern Law Poverty Center
 
 Part of the Teaching Tolerance project, this website offers a list of resources and best practices for teachers, administartors, and schools to give them "the knowledge they need to create a climate in which their most vulnerable students feel safe and valued...to build an educational environment that is truly welcoming to all students."  Though the resource is aimed at middle and secondary schools, the "LGBT 101"-style material and inclusive policies are a necessary starting point in developing vocabularies, course rationales, teaching philosophies, and ways to think about the institution.  
 
-![#TransformDH](/path/to/screenshot07_transformdh.jpg)
 [#TransformDH](http://transformdh.org/)
 *#TransformDH
 
 What is important about the #TransformDH blog and collaborative project is the idea that the digital humanities must be an more
 open, inclusive, and diverse space, discipline, and set of inquiries.  #TransformDH hopes to "do" race, ethnicity, gender, sexuality, and class.  As a project that grew out of the experiences, scholarship, and activism of a handful of people across institutions, #TransformDH is exemplary in its demonstration of collaboration, interdisciplinarity, and grass-roots "making" and "doing" in digital humanities.  
 
-![Queering the Museum's Digital Storytelling Project](/path/to/screenshot08_queeringthemuseum.jpg)
+
 [Digital Storytelling Project](http://queeringthemuseum.org/current-projects/digital-storytelling-project/)
 * Digital Story Telling Project
 * A Project of Queering the Museum
 
 The Digital Storytelling Project is a Seattle-based project suppored by Queering the Museum, a group dedicated to increasing LGBTQ representation in museums.  The storytelling project invites LGBTQ individuals from the Puget Sound region to reflect on their lives, to use their own narration and photos to create a short video.  The project allows people to tell their own stories, to decide how they want to be represented, and to share these stories in a queer-themed exhibit at The Museuem of History and Industry in Seattle.
 
-![Lim, A Game by Merritt Kopas](/path/to/screenshot09_lim.jpg)
+
 [Lim](http://mkopas.net/files/Lim/)
 * Merritt Kopas
 
 On the surface, Lim is a very simple game where the play moves a small, flashing, multi-hued square through a maze populated by other squares. At first, the other squares do not bother the player's avatar as long as they blend in, changing their color to match those around them.  But, as the player progresses, the other squares begin to attack the player's square.  Lim is about many things: identity, difference, belonging,passing, inclusion, exclusion, community, and so on.  The game is brief, accessible, and demonstrative of not only queer issues and concerns but of the success of queer, independent game-makers like Merritt Kopas.  
 
-* "Queer Feminist Media Practice," Eds. Aristea Fotopoulou & Kate O'Riordan, http://adanewmedia.org/issues/issue-archives/issue5/ (Journal)
-
-![Queer Feminist Media Practice edited by Aristea Fotopoulou and Kate O'Riordan](/path/to/screenshot10_ada.jpg)
 [Queer Feminist Media Practice](http://queeringthemuseum.org/current-projects/digital-storytelling-project/)
 * Edited by Aristea Fotopoulou and Kate O'Riordan
 * Ada: A Journal of Gender, New Media, and Technology
@@ -176,7 +167,7 @@ In MLA format, list five related items or resources that are informative for tea
 
 ### Works Cited 
 
-#TransformDH.  [http://transformdh.org/](http://transformdh.org/).
+TransformDH.  [http://transformdh.org/](http://transformdh.org/).
 
 "Best Practices: Creating an LGBT-inclusive School Climate." _Teaching Tolerance_. 2013.    
 	[http://www.tolerance.org/lgbt-best-practices](http://www.tolerance.org/lgbt-best-practices).
