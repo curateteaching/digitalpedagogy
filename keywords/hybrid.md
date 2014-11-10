@@ -1,6 +1,6 @@
 # KEYWORD: "HYBRID"
 
-## 1. Author Name(s)
+## 1. Author Name
 
 Jesse Stommel
 
