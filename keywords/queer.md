@@ -1,7 +1,7 @@
 # QUEER
 
 ### Edmond Y. Chang
-Drew University | [Website](http://www.edmondchang.com/)
+Drew University | Department of English | [Website](http://www.edmondchang.com/)
 
 ### Resources
 
@@ -132,6 +132,7 @@ Part of the Teaching Tolerance project, this website offers a list of resources 
 
 [#TransformDH](http://transformdh.org/)
 * #TransformDH
+* Multiple Contributors (JENTERY: should we attempt to list every contributor here? Or . . .?)
 
 What is important about the #TransformDH blog and collaborative project is the idea that the digital humanities must be a more open, inclusive, and diverse space, discipline, and set of inquiries. #TransformDH hopes to "do" race, ethnicity, gender, sexuality, and class. As a project that grew out of the experiences, scholarship, and activism of a handful of people across institutions, #TransformDH is exemplary in its demonstration of collaboration, interdisciplinarity, and grass-roots "making" and "doing" in digital humanities.  
 
@@ -154,7 +155,7 @@ JENTERY: If you have taught Lim, then would you be willing to include a sentence
 
 [Queer Feminist Media Practice](http://queeringthemuseum.org/current-projects/digital-storytelling-project/)
 * Edited by Aristea Fotopoulou and Kate O'Riordan
-* Ada: A Journal of Gender, New Media, and Technology
+* *Ada: A Journal of Gender, New Media, and Technology*
 
 This special issue of *Ada* hopes, in the words of the editors, to explore "what the concept of praxis could offer in our thinking about the intersections of gender, digital media, and technology. Praxis in both Marxist and in Arendtian political thought brings together theory, philosophy and political action into the realm of the everyday" (n. pag.). The special issue also highlights the ways that digital projects like the journal *Ada* can be open source, be committed to an "transparent, productive, and rigorous peer review process," and be created, designed, published, and distributed collectively online.  
 
