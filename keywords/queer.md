@@ -40,7 +40,7 @@ To queer the digital means to challenge the very idea that there are those who b
 
 JENTERY: Would "vistors, or, worst yet, unwelcome interlopers" also work? I ask because you use "or" earlier in the sentence, and I wonder if the second half should correspond. 
 
-Though the language of "native" and "immigrant" likely came from John Perry Barlow's ["A Declaration of Independence of Cyberspace,"](https://projects.eff.org/~barlow/Declaration-Final.html) Mark Prensky extends the problematic and techno-orientalizing metaphor, saying:
+Though the language of "native" and "immigrant" likely came from John Perry Barlow's ["A Declaration of Independence of Cyberspace"](https://projects.eff.org/~barlow/Declaration-Final.html), Mark Prensky extends the problematic and techno-orientalizing metaphor, saying:
 
 > What should we call these "new" students of today? Some refer to them as the N-[for Net]-gen or D-[for digital]-gen. But the most useful designation I have found for them is *Digital Natives*. Our students today are all "native speakers" of the digital language of computers, video games and the Internet. So what does that make the rest of us? Those of us who were not born into the digital world but have, at some later point in our lives, become fascinated by and adopted many or most aspects of the new technology are, and always will be compared to them, *Digital Immigrants*" (1-2).  
 
@@ -50,22 +50,23 @@ JENTERY: Compelling transition here toward blackboxing and technoculture studies
 
 Given the black box-ness of code, virtual reality, and information technologies—which are paradoxically airy, transparent yet arcane, and obscured—this work of decoding, remaking, and transfiguring is much needed across everyday screens, workbenches, classrooms, and popular culture as a whole. 
 
-JENTERY: Would it be worth mentioning that technologies are also alluring? I'm thinking of Stone and Chun here, among others. Not sure. Just thought I'd mention it. 
+JENTERY: Would it be worth mentioning that technologies are also alluring? I'm thinking of Stone, Foster, and Chun here, among others. Not sure. Just thought I'd mention it. 
 
 Teachers, programmers, scholars, librarians, artists, gamers, and off- and onliners must embrace "the open mesh of possibilities, gaps, overlaps, dissonances and resonances, lapses and excesses of meaning . . . [and] the experimental linguistic, epistemological, representational, political adventures" (Sedgwick 8) of queer digital pedagogy.  
 
-JENTERY: Would you be willing to add a sentence after this one that brings Sedgwich concisely into the context of this keyword and into the context of queering the digital? What would that embrace look like from a teaching and learning perspective, e.g.? 
+JENTERY: Would you be willing to add a sentence after this one that concisely brings Sedgwick concisely into the context of this keyword and into the context of queering the digital? What would that embrace look like from a teaching and learning perspective, e.g.? 
+
 The selections curated above represent the messiness and unruly impossibility of "representing" queer digital pedagogy in any easy, unitary, frictionless way. They are meant to be inspirations, puzzle pieces, and half-nibbled ideas that rub up against one another in fruitful and fraught ways.  
 
 JENTERY: Well put! Love it. 
 
 They are provocations rather than proscriptions that hopefully demonstrate the remarkable range, color, and flexibility of what it means to intervene in traditional humanities studies and to interrogate the technonormativity of digital media and methodologies.  
 
-JENTERY: If you were to replace "traditional" with another word or two, then what would the word(s) be? 
+JENTERY: If you were to replace "traditional" with another word or two, then what would the word(s) be? I ask because DH often uses "tradition" as its straw, but in a technological (rather than political or cultural) sense. Here, then, I wonder what "traditional" actually implies.
 
 They also reflect different perspectives, areas of interest, and different levels of proficiency with digital work. Digital pedagogy must follow the lead of queer theory and queer studies, which are increasingly intersectional and interdisciplinary, no longer seeing "sexuality as a singular mode of inquiry and instead makes sexuality a central category of analysis in the study of racialization, transnationalism, and globalization" (Halberstam 361). From syllabi to blog posts, from student works to institutional policies, from scholarly texts to digital games, the selections are often metacognitive in approach and content, revealing not only what it means to teach queer material digitally, or how to use technology queerly, but also the stakes in these reconfigurations and repurposings. They provide a scaffolding, a table full of curiosities to play with much in the spirit of Raymond Williams's original *Keywords* project—"a vocabulary: a shared body of words and meanings" (15).  
 
-JENTERY: Would you be willing to add a sentence or two at the end of this paragraph about how these selections are integrated into the everyday of teaching and learning? Or about the challenges of doing so, of intersecting theory and practice? If only to better transition into the next paragarph, and into Halberstam's observations? 
+JENTERY: Would you be willing to add a sentence or two at the end of this paragraph about how these selections are integrated into the everyday of teaching and learning? Or about the challenges of doing so, of intersecting theory and practice? If only to better transition into the next paragarph, or into Halberstam's observations? 
 
 If queer pedagogy is about "the problem of curriculum [becoming] one of prolifierating identifications not closing them down" (Britzman 219), then queer digital pedagogy is about finding, creating, and playing with multimodal and polyamorous questions, algorithms, archives, and artifacts, analog and digital, flesh-to-flesh and virtual. Judith Halberstam argues, "[W]hile queer studies offers a potent critique of disciplinarity and pedagogy, it also offers an interesting interface with new digital technologies and the development of smart classrooms and Web-based learning . . . [with] flexible and innovated notions of archiving, canonicity, disciplinarity and intellectual labor in hand" (364). In other words, queer digital pedagogy asks teachers and students, readers and writers, makers and players to be perverse, to be critical and reparative, to invest in these queer sites and moments with "fascination and love" (Sedgwick 3). Whether you are tweeting close readings of *The Picture of Dorian Gray*, looking for resources about LGBT inclusion, or navigating a virtual maze as flashing-rainbow square, queer digital pedagogy demands not only a healthy suspicion of the promises and fantasies of technology but also a healthy desire for "this wave new technologies to bring new methods and topics to the classroom" (Halberstam 364).  It is this spirit, this utopian hope, that inspires the above selections.  
 
@@ -77,9 +78,11 @@ missing . . . Queerness is also a performative because it is not simply a being 
 Queerness is essentially about the rejection of a here and now and an insistence on potentiality or concrete 
 possibility for another world. --Jose Esteban Munoz, *Cruising Utopia*
 
+JENTERY: Do you think this material from *Cruising Utopia* should come before or after the content of the Curatorial Statement?
+
 ### Curated Resources 
 
-JENTERY: Would you be willing to email use a screengrab for each of these? I believe you gathered them, but we couldn't access them. Sorry! 
+JENTERY: Would you be willing to email us a screengrab for each of these? I believe you gathered them, but we couldn't access them. Sorry! Do you still have them handy? Let us know how we can help.  
 
 [Refracting the Digital Humanities](http://thejarahtree.com/2014/07/05/refracting-digital-humanities/)
 * Jarah Moesch
@@ -111,6 +114,8 @@ JENTERY: Would you be willing to elaborate (in a sentence or two) on why this re
 
 These brief assignments ask students to keep and maintain a weekly "identity log" or "iLog," recording, detailing, and thinking about their own identities and identifications. These "iLogs" will function as a kind of identity workbook, an analytical and metacognitive journal, connecting students' observations and experiences to the texts, theories, and ideas of an Introduction to LGBT Studies class. Prompts include thinking about identities, sexuality, queer space, and popular culture, which are shared with the class via the class's Tumblr website. The overall course syllabus and reading list are included as well.  
 
+JENTERY: For our rhet/comp audience, do you think a brief reference to the historical practice of writing portfolios warrants a mention here? Maybe Selfe's work? Or Ball's? 
+
 [Queer Geek Theory: Classes](http://www.queergeektheory.org/teaching_main/classes/)
 * Alexis Lothian
 * Assistant Professor, Women's Studies/LGBTQ Studies, University of Maryland
@@ -130,13 +135,15 @@ Part of the Teaching Tolerance project, this website offers a list of resources 
 
 What is important about the #TransformDH blog and collaborative project is the idea that the digital humanities must be a more open, inclusive, and diverse space, discipline, and set of inquiries. #TransformDH hopes to "do" race, ethnicity, gender, sexuality, and class. As a project that grew out of the experiences, scholarship, and activism of a handful of people across institutions, #TransformDH is exemplary in its demonstration of collaboration, interdisciplinarity, and grass-roots "making" and "doing" in digital humanities.  
 
-JENTERY: Would you be willing to add a sentence that points to specific things you find compelling on the site? Or about the site? 
+JENTERY: Would you be willing to add a sentence that points to specific things you find compelling on the site? Or about the site? I'm just thinking of how it surveys or curates material across the web. Many readers may not recognize/know this.  
 
 [Digital Storytelling Project](http://queeringthemuseum.org/current-projects/digital-storytelling-project/)
 * Digital Story Telling Project
 * A Project of Queering the Museum
 
 The Digital Storytelling Project is a Seattle-based project suppored by Queering the Museum, a group dedicated to increasing LGBTQ representation in museums. The storytelling project invites LGBTQ individuals from the Puget Sound region to reflect on their lives, to use their own narration and photos to create a short video. The project allows people to tell their own stories, to decide how they want to be represented, and to share these stories in a queer-themed exhibit at The Museuem of History and Industry in Seattle.
+
+JENTERY: See question above. Is there a prompt handy? If not, then no worries. If I missed it, then just let me know. Sorry! 
 
 [Lim](http://mkopas.net/files/Lim/)
 * Merritt Kopas
@@ -149,7 +156,7 @@ JENTERY: If you have taught Lim, then would you be willing to include a sentence
 * Edited by Aristea Fotopoulou and Kate O'Riordan
 * Ada: A Journal of Gender, New Media, and Technology
 
-This special issue of *Ada* hopes, in the words of the editors, to explore "what the concept of praxis could offer in our thinking about the intersections of gender, digital media, and technology. Praxis in both Marxist and in Arendtian political thought brings together theory, philosophy and political action into the realm of the everyday." The special issue also highlights the ways that digital projects like the journal *Ada* can be open source, be committed to an "transparent, productive, and rigorous peer review process," and be created, designed, published, and distributed collectively online.  
+This special issue of *Ada* hopes, in the words of the editors, to explore "what the concept of praxis could offer in our thinking about the intersections of gender, digital media, and technology. Praxis in both Marxist and in Arendtian political thought brings together theory, philosophy and political action into the realm of the everyday" (n. pag.). The special issue also highlights the ways that digital projects like the journal *Ada* can be open source, be committed to an "transparent, productive, and rigorous peer review process," and be created, designed, published, and distributed collectively online.  
 
 ### Related Materials 
 
