@@ -22,10 +22,7 @@ A: No. Feel free to crowdsource suggestions from your networks, but please do no
 Please refrain from public posts about the keyword project until the MLA has returned countersigned contracts to the General Editors. 
 
 ### Q: If I decide to make a public call for suggestions, what should my request include? 
-A: The curator should indicate that she/he will be able to include only 10 responses and that she/he is serving as curator of this particular keyword and not of the whole collection Please use our project hashtag (#curateteaching) when making a public call 
-
-### Q: Are curators required to post a public call for submissions? 
-A: No. 
+A: The curator should indicate that she/he will be able to include only 10 responses and that she/he is serving as curator of this particular keyword and not of the whole collection Please use our project hashtag (#curateteaching) when making a public call. 
 
 ### Q: Whose work should be included in a keyword?
 A: The keyword should speak to a range of assignments/institutions, with a privileging of undergrads but some inclusion of graduate education. We would like the collection to go beyond the usual suspects/circles, to be inclusive, to speak to a range of levels of instruction, to avoid the appearance of impropriety, etc.
