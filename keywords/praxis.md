@@ -33,7 +33,7 @@ JENTERY: This fourfold definition of praxis is wonderfully concise yet flexible.
 
 Attention to *praxis* can encourage students to look beyond academic literature in developing an understanding of the content of a course. It can inspire them to contribute to knowledge representation and creation in new ways, and to move with confidence across disciplinary and professional boundaries. (See, for instance, the work of hairdresser Janet Stephens, now a published experimental archaeologist who has [untangled the mysteries](http://online.wsj.com/news/articles/SB10001424127887324900204578286272195339456) of Roman coiffures.) It can also foster life-long learning, as students move outward from our classrooms into the working world.
 
-JENTERY: Does that last gesture, "into the working world," neatly parse "work life" from "academic life"? Here, I'm especially thinking of our audiences for this project; they may include people at post-secondary institutions where students and staff are balancing jobs with their studies and bringing the working world into the classroom. Would you be willing to revise this gesture to open a space for such situations and dynamics? 
+JENTERY: Does that last gesture, "into the working world," neatly parse "work life" from "academic life"? Here, I'm especially thinking of our audiences for this project; they may include people at post-secondary institutions where students and staff are balancing jobs with their studies and bringing the working world into the classroom. Would you be willing to revise to better account for such situations and dynamics? 
 
 ### Our Own Pedagogy
 
@@ -53,11 +53,11 @@ JENTERY: Here again I'm just thinking about our audience (e.g., readers who don'
 
 Second, we wanted to include a range of resources: syllabi that discuss, organize, and present *praxis*-oriented theories and activities to students; sample lessons that themselves embody *praxis* in the sense that they detail processes and outline possible, theoretically-informed outcomes; reflective demonstrations of completed projects or showcases of the tools and processes that have gone into making a particular project, object, or system; and articles that discuss the importance of *praxis* for teaching and learning. It was important to us to include resources that varied in type or format and in domain of application, to show that *praxis* can enter the classroom in a variety of ways.
 
-JENTERY: Two things occur to me here, neither of which warrants a response or revision: for this work, how does "philosophy" differ from "theory"? Or are they synonymous? Also, to what degree does physical place, or the classroom, matter for praxis? For instance, would your model work for instructors of online courses?
+JENTERY: Two things occur to me here, neither of which warrants a response or revision: for this work, how does "philosophy" differ from "theory"? Or are they synonymous? Also, to what degree does physical place, or the classroom, matter for praxis? For instance, would your model work for instructors of online courses? Or how does its infrastructure and everyday overlap (if at all) with the shops and studios where trades are taught on many campuses? 
 
 Finally, we felt it important to select resources that demonstrate the interconnected, symbiotic relationships among *praxis,* theory, and product. All of these resources highlight this importance: that none can or should be understood to exist in isolation, and exploring one should necessarily mean exploring the others. We feature resources that, in our view, succeed in demonstrating that the best way to learn is through *active engagement*. These resources do not just talk about the importance of *praxis* in the abstract: they provide examples of embodied, theoretically-informed learning in action.
 
-JENTERY: This closing gesture, which stresses activity and embodiment, opens up a nice space for conversation with [our entry on "Work"](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/work.md). The editorial team is currently developing ways to foster these cross-keyword conversations in a networked environment. We'll keep you posted. 
+JENTERY: This closing gesture, which stresses activity and embodiment, opens up a nice space for conversation with [our entry on "Work"](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/work.md). The editorial team is currently developing ways to encourage these cross-keyword conversations in a networked environment. We will keep you posted. 
 
 ## Curated Resources
 
@@ -123,7 +123,7 @@ JENTERY: Would you be willing to reference material that details how students ac
 
 The [Praxis Program](http://praxis.scholarslab.org) is an extracurricular attempt to reimagine graduate training in the humanities for the demands of the digital age. Each year, the Scholars' Lab brings together six graduate students from across the humanities and social sciences to theorize, design, build, and reflect on the process of constructing a digital tool.  Praxis Fellows work alongside the Scholars' Lab staff throughout the cycle of creating and launching a digital project. The Praxis Network was inspired by the Scholars' Lab [Praxis Program](http://praxis.scholarslab.org) and by Michigan State University's [Cultural Heritage Informatics (CHI) Initiative](http://chi.anthropology.msu.edu/) and [CHI Fieldschool](http://chi.anthropology.msu.edu/fieldschool/). Both programs exemplify differing approaches to collaborative, humanities-based digital methods training. The Network gathers together 6 additional international models to enable institutions seeking to develop similar efforts to compare missions, structures, research foci, funding models, and strategic directions of successful sister programs.
 
-JENTERY: I see the charter is mentioned elsewhere. Would you be willing to include it here, too? Or would that be redundant? It's such a great resource for instructors and students alike!  
+JENTERY: I see the charter is mentioned elsewhere in this entry. Would you be willing to include it here, too? Or would that be redundant? It's such a great resource for instructors and students alike!  
 
 ### “Victorian Literature + Victorian Informatics”
 * Screenshot: ![screenshot](images/victorian-literature.jpg)
