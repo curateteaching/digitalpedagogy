@@ -3,7 +3,7 @@
 ## Bethany Nowviskie, J. K. Purdom Lindblad, and Jeremy Boggs
 University of Virginia | Scholars' Lab |  [Website](http://scholarslab.org/) 
 
-JENTERY: This is my shot at listing your institutional affiliation(s). Please feel free to revise. Apologies, too, if the author order is incorrect. 
+JENTERY: This is my shot at listing your institutional affiliation(s). Please feel free to revise. Apologies, too, if the author order is incorrect. Please feel free to correct any of my mistakes! 
 
 ## Resources
 
@@ -18,7 +18,7 @@ JENTERY: This is my shot at listing your institutional affiliation(s). Please fe
 * “The Wikiblitz: A Wikipedia Editing Assignment in a First Year Undergraduate Class (Spring 2012 version),” Shawn Graham, [http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/](http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/) (Class Exercise)
 * “Writing on Clay,” *A Better Pencil: Readers, Writers, and the Digital Revolution,* Dennis E. Baron, [http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA71#v=onepage&q=modeling%20clay&f=false](http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA71#v=onepage&q=modeling%20clay&f=false) (Class Exercise)
 
-JENTERY: Such a wonderful list! Thank you. Much appreciated. I'm especially struck by how persuasively it navigates boundary objects across the disciplines.  
+JENTERY: Such a wonderful list! Thank you. Much appreciated. I'm especially struck by how persuasively it navigates boundary objects (such as the book) across the disciplines.  
 
 ## Curatorial Statement
 
@@ -33,7 +33,7 @@ JENTERY: This fourfold definition of praxis is wonderfully concise yet flexible.
 
 Attention to *praxis* can encourage students to look beyond academic literature in developing an understanding of the content of a course. It can inspire them to contribute to knowledge representation and creation in new ways, and to move with confidence across disciplinary and professional boundaries. (See, for instance, the work of hairdresser Janet Stephens, now a published experimental archaeologist who has [untangled the mysteries](http://online.wsj.com/news/articles/SB10001424127887324900204578286272195339456) of Roman coiffures.) It can also foster life-long learning, as students move outward from our classrooms into the working world.
 
-JENTERY: Does that last gesture, "into the working world," neatly parse "work life" from "academic life"? Here, I'm especially thinking of our audiences for this project; they may include people at post-secondary institutions where students and staff are balancing jobs with their studies, e.g. Would you be willing to revise this gesture? 
+JENTERY: Does that last gesture, "into the working world," neatly parse "work life" from "academic life"? Here, I'm especially thinking of our audiences for this project; they may include people at post-secondary institutions where students and staff are balancing jobs with their studies and bringing the working world into the classroom. Would you be willing to revise this gesture to open a space for such situations and dynamics? 
 
 ### Our Own Pedagogy
 
@@ -57,7 +57,7 @@ JENTERY: Two things occur to me here, neither of which warrants a response or re
 
 Finally, we felt it important to select resources that demonstrate the interconnected, symbiotic relationships among *praxis,* theory, and product. All of these resources highlight this importance: that none can or should be understood to exist in isolation, and exploring one should necessarily mean exploring the others. We feature resources that, in our view, succeed in demonstrating that the best way to learn is through *active engagement*. These resources do not just talk about the importance of *praxis* in the abstract: they provide examples of embodied, theoretically-informed learning in action.
 
-JENTERY: This closing gesture, which stresses activity and embodiment, opens up a nice space for conversation with [our entry on "Work"](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/work.md). The editorial team is currently developing ways to foster these cross-keyword conversations in a networked environment.  
+JENTERY: This closing gesture, which stresses activity and embodiment, opens up a nice space for conversation with [our entry on "Work"](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/work.md). The editorial team is currently developing ways to foster these cross-keyword conversations in a networked environment. We'll keep you posted. 
 
 ## Curated Resources
 
@@ -70,7 +70,7 @@ JENTERY: This closing gesture, which stresses activity and embodiment, opens up 
 
 An article detailing student exploration of the concept of *reflective design* through projects that investigate the book as interface. This activity perfectly highlights the way that exposure to and emphasis on process leads to unforeseen insight. These student authors also emphasize that *digital* work requires consideration of hardware and physical/tactile design. Instructors inspired by this article might select a particular type of object and ask students to devise ways to alter or enhance the ways users can interact with it.
 
-JENTERY: Would you be willing to develop the last snetnece (about alteration or enhancement), adding a potential learning outcome/expectation? 
+JENTERY: Would you be willing to develop the last sentence (about alteration or enhancement), adding a potential learning outcome/expectation? 
 
 ### “Doing Feminist Theory through Digital Video”
 * Screenshot:![screen shot](images/feminist-theory.jpg)
@@ -115,7 +115,7 @@ Nina Belojevic provides an introduction and rationale for the *Kits for Cultural
 
 Mills Kelly has taught several iterations of an undergraduate history course entitled "Lying about the Past." The course conveys historical research methods and ethics by asking students to examine and debunk historical hoaxes. For their final projects, students create a convincing hoax of their own. [The results](http://www.theatlantic.com/technology/archive/2012/05/how-the-professor-who-fooled-wikipedia-got-caught-by-reddit/257134/) have been explosive. Alongside the emphasis on understanding history by re-shaping it, we find this an excellent example of a praxis-based syllabus, in which it's clear that Kelly considers his students to be his collaborators, and depends on their active engagement to shape the course.
 
-JENTERY: Would you be willing to reference material that details how students act as collaborators? For instance, how is the paradigm articulated in course policies or enacted through workshops? Is there material along these lines? If not, then no worries. 
+JENTERY: Would you be willing to reference material that details how students act as collaborators? For instance, how is this collaborative paradigm articulated in course policies or enacted through workshops? Is there material along these lines? If not, then no worries. 
 
 ### The Scholars' Lab Praxis Program and Praxis Network
 * Screenshot: ![screenshot](images/praxisnetwork.jpg)
@@ -123,7 +123,7 @@ JENTERY: Would you be willing to reference material that details how students ac
 
 The [Praxis Program](http://praxis.scholarslab.org) is an extracurricular attempt to reimagine graduate training in the humanities for the demands of the digital age. Each year, the Scholars' Lab brings together six graduate students from across the humanities and social sciences to theorize, design, build, and reflect on the process of constructing a digital tool.  Praxis Fellows work alongside the Scholars' Lab staff throughout the cycle of creating and launching a digital project. The Praxis Network was inspired by the Scholars' Lab [Praxis Program](http://praxis.scholarslab.org) and by Michigan State University's [Cultural Heritage Informatics (CHI) Initiative](http://chi.anthropology.msu.edu/) and [CHI Fieldschool](http://chi.anthropology.msu.edu/fieldschool/). Both programs exemplify differing approaches to collaborative, humanities-based digital methods training. The Network gathers together 6 additional international models to enable institutions seeking to develop similar efforts to compare missions, structures, research foci, funding models, and strategic directions of successful sister programs.
 
-JNETERY: I see the charter is mentioned elsewhere. Would you be willing to include it here, too? Or would that be redundant? It's such a great resource for instructors and students alike!  
+JENTERY: I see the charter is mentioned elsewhere. Would you be willing to include it here, too? Or would that be redundant? It's such a great resource for instructors and students alike!  
 
 ### “Victorian Literature + Victorian Informatics”
 * Screenshot: ![screenshot](images/victorian-literature.jpg)
