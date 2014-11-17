@@ -1,6 +1,7 @@
 # QUEER
 
 ### Edmond Y. Chang
+Drew University | [website](http://www.edmondchang.com/)
 
 ### Resources
 
@@ -20,6 +21,7 @@
 
 * "Digital Storytelling Project," Queering the Museum, http://queeringthemuseum.org/current-projects/digital-storytelling-project/ (Collaborative Project)
 
+JENTERY: is there a prompt for the Digital Storytelling Project somewhere? It would be great to have! And perhaps I missed it.  
 * "Lim," Merritt Kopas, http://mkopas.net/files/Lim/ (Digital Game)
 
 * "Queer Feminist Media Practice," Eds. Aristea Fotopoulou & Kate O'Riordan, http://adanewmedia.org/issues/issue-archives/issue5/ (Journal)
@@ -27,64 +29,53 @@
 ### Curatorial Statement 
 
 What is queer digital pedagogy?  What lies at the intersection and intertwingling of queer and technology and teaching? 
-Foremost queer digital pedagogy understands that technology is never neutral and that the digital is a constellation of 
-spaces, practices, and protocols that can be both liberatory and regulatory, both queer and deeply normative.  To queer 
-the digital means to challenge the very idea that there are those who belong online or naturally "get tech" and those 
-who are merely observers, vistors, and worst yet, unwelcome interlopers.  Though the language of "native" and "immigrant" 
-likely came from John Perry Barlow's "A Declaration of Independence of Cyberspace," Mark Prensky extends the problematic 
-and techno-orientalizing metaphor, saying, "What should we call these 'new' students of today?  Some refer to them as 
-the N-[for Net]-gen or D-[for digital]-gen.  But the most useful designation I have found for them is *Digital Natives*.  
 
-Our students today are all 'native speakers' of the digital language of computers, video games and the Internet.   So what 
-does that make the rest of us?  Those of us who were not born into the digital world but have, at some later point in 
-our lives, become fascinated by and adopted many or most aspects of the new technology are, and always will be compared 
-to them, *Digital Immigrants*."  Queer digital pedagogy noisily refuses the "digital native" and "digital immigrant" 
-narratives now turned teaching philosophies and institutional policies, which rely on stereotypes and norms about race, 
-gender, class, ability, even pleasure.  Queering the digital and queering pedagogy then is, in the words of Eve Sedgwick, 
-about "promises to make invisible possibilities and desires visible; to make the tacit things explicit; to smuggle 
-queer representation in where it must be smuggled and…to challenge queer-eradicating impulses frontally where they 
-are to be so challenged" (3).  Given the black box-ness of code, virtual reality, and information technologies--which 
-are paradoxically airy, transparent yet arcane, and obscured--this work of decoding, remaking, and transfiguring is much 
-needed across everyday screens, workbenches, classrooms, and popular culture as a whole.  Teachers, programmers, 
-scholars, librarians, artists, gamers, and off- and onliners must embrace "the open mesh of possibilities, gaps, 
-overlaps, dissonances and resonances, lapses and excesses of meaning…[and] the experimental linguistic, epistemological, 
-representational, political adventures" (Sedgwick 8) of queer digital pedagogy.  
+JENTERY: Would "What lies at the intersection and intertwingling of queer, technology, and teaching?" be ok? 
 
-The selections curated above represent the messiness and unruly impossibility of "representing" queer digital pedagogy 
-in any easy, unitary, frictionless way.  Rather, they are meant to be inspirations, puzzle pieces, and half-nibbled 
-ideas that rub up against one another in fruitful and fraught ways.  They are provocations rather than proscriptions 
-that hopefully demonstrate the remarkable range, color, and flexibility of what it means to intervene in traditional 
-humanities studies and to interrogate the technonormativity of digital media and methodologies.  They also reflect 
-different perspectives, areas of interest, and different levels of proficiency with digital work.  Digital pedagogy 
-must follow the lead of queer theory and queer studies, which are increasingly intersectional and interdisciplinary 
-no longer seeing "sexuality as a singular mode of inquiry and instead makes sexuality a central category of analysis 
-in the study of racialization, transnationalism, and globalization" (Halberstam 361).  From syllabi to blog posts, 
-from student works to institutional policies, from scholarly texts to digital games, the selections are often 
-metacognitive in approach and content, revealing not only what it means to teach queer material digitally, how to 
-use technology queerly, but also what are the stakes in these reconfigurations and repurposings.  They provide a 
-scaffolding, a table full of curiosities to play with much in the spirit of Raymond Williams's original Keywords 
-project--"a vocabulary: a shared body of words and meanings" (15).  
+Foremost queer digital pedagogy understands that technology is never neutral and that the digital is a constellation of spaces, practices, and protocols that can be both liberatory and regulatory, both queer and deeply normative.  
 
-If queer pedagogy is about "the problem of curriculum [becoming] one of prolifierating identifications not closing 
-them down" (Britzman 219) then queer digital pedagogy is about finding, creating, and playing with multimodal and 
-polyamorous questions, algorithms, archives, and artifacts, analog and digital, flesh-to-flesh and virtual.  
-Judith Halberstam argues, "[W]hile queer studies offers a potent critique of disciplinarity and pedagogy, it also 
-offers an interesting interface with new digital technologies and the development of smart classrooms and Web-based 
-learning…[with] flexible and innovated notions of archiving, canonicity, disciplinarity and intellectual labor in 
-hand" (364).  In other words, queer digital pedagogy asks teachers and students, readers and writers, makers and 
-players to be perverse, to be critical and reparative, to invest in these queer sites and moments with "fascination 
-and love" (Sedgwick 3).  Whether you are tweeting close readings of The Picture of Dorian Gray or looking for 
-resources about LGBT inclusion or navigating a virtual maze as flashing-rainbow square, queer digital pedagogy 
-demands not only a healthy suspicion of the promises and fantasies of technology but also a healthy desire for 
-"this wave new technologies to bring new methods and topics to the classroom" (Halberstam 364).  It is this spirit, 
-this utopian hope that inspires the above selections.  
+JENTERY: Wonderfully concise! 
 
-> "Queerness is a structuring and educated mode of desiring that allows us to see and feel beyond the quagmire of 
+To queer the digital means to challenge the very idea that there are those who belong online or naturally "get tech" and those who are merely observers, vistors, and worst yet, unwelcome interlopers. 
+
+JENTERY: Would "vistors, or, worst yet, unwelcome interlopers" also work? I ask because you use "or" earlier in the sentence, and I wonder if the second half should correspond. 
+
+Though the language of "native" and "immigrant" likely came from John Perry Barlow's ["A Declaration of Independence of Cyberspace,"](https://projects.eff.org/~barlow/Declaration-Final.html) Mark Prensky extends the problematic and techno-orientalizing metaphor, saying:
+
+> What should we call these "new" students of today? Some refer to them as the N-[for Net]-gen or D-[for digital]-gen. But the most useful designation I have found for them is *Digital Natives*. Our students today are all "native speakers" of the digital language of computers, video games and the Internet. So what does that make the rest of us? Those of us who were not born into the digital world but have, at some later point in our lives, become fascinated by and adopted many or most aspects of the new technology are, and always will be compared to them, *Digital Immigrants*" (1-2).  
+
+Queer digital pedagogy noisily refuses the "digital native" and "digital immigrant" narratives (now turned teaching philosophies and institutional policies), which rely on stereotypes and norms about race, gender, class, ability, and even pleasure. Queering the digital and queering pedagogy then is, in the words of Eve Sedgwick, about "promises to make invisible possibilities and desires visible; to make the tacit things explicit; to smuggle queer representation in where it must be smuggled and . . . to challenge queer-eradicating impulses frontally where they are to be so challenged" (3). 
+
+JENTERY: Compelling transition here toward blackboxing and technoculture studies. 
+
+Given the black box-ness of code, virtual reality, and information technologies—which are paradoxically airy, transparent yet arcane, and obscured—this work of decoding, remaking, and transfiguring is much needed across everyday screens, workbenches, classrooms, and popular culture as a whole. 
+
+JENTERY: Would it be worth mentioning that technologies are also alluring? I'm thinking of Stone and Chun here, among others. Not sure. Just thought I'd mention it. 
+
+Teachers, programmers, scholars, librarians, artists, gamers, and off- and onliners must embrace "the open mesh of possibilities, gaps, overlaps, dissonances and resonances, lapses and excesses of meaning . . . [and] the experimental linguistic, epistemological, representational, political adventures" (Sedgwick 8) of queer digital pedagogy.  
+
+JENTERY: Would you be willing to add a sentence after this one that brings Sedgwich concisely into the context of this keyword and into the context of queering the digital? What would that embrace look like from a teaching and learning perspective, e.g.? 
+The selections curated above represent the messiness and unruly impossibility of "representing" queer digital pedagogy in any easy, unitary, frictionless way. They are meant to be inspirations, puzzle pieces, and half-nibbled ideas that rub up against one another in fruitful and fraught ways.  
+
+JENTERY: Well put! Love it. 
+
+They are provocations rather than proscriptions that hopefully demonstrate the remarkable range, color, and flexibility of what it means to intervene in traditional humanities studies and to interrogate the technonormativity of digital media and methodologies.  
+
+JENTERY: If you were to replace "traditional" with another word or two, then what would the word(s) be? 
+
+They also reflect different perspectives, areas of interest, and different levels of proficiency with digital work. Digital pedagogy must follow the lead of queer theory and queer studies, which are increasingly intersectional and interdisciplinary, no longer seeing "sexuality as a singular mode of inquiry and instead makes sexuality a central category of analysis in the study of racialization, transnationalism, and globalization" (Halberstam 361). From syllabi to blog posts, from student works to institutional policies, from scholarly texts to digital games, the selections are often metacognitive in approach and content, revealing not only what it means to teach queer material digitally, or how to use technology queerly, but also the stakes in these reconfigurations and repurposings. They provide a scaffolding, a table full of curiosities to play with much in the spirit of Raymond Williams's original *Keywords* project—"a vocabulary: a shared body of words and meanings" (15).  
+
+JENTERY: Would you be willing to add a sentence or two at the end of this paragraph about how these selections are integrated into the everyday of teaching and learning? Or about the challenges of doing so, of intersecting theory and practice? If only to better transition into the next paragarph, and into Halberstam's observations? 
+
+If queer pedagogy is about "the problem of curriculum [becoming] one of prolifierating identifications not closing them down" (Britzman 219), then queer digital pedagogy is about finding, creating, and playing with multimodal and polyamorous questions, algorithms, archives, and artifacts, analog and digital, flesh-to-flesh and virtual. Judith Halberstam argues, "[W]hile queer studies offers a potent critique of disciplinarity and pedagogy, it also offers an interesting interface with new digital technologies and the development of smart classrooms and Web-based learning . . . [with] flexible and innovated notions of archiving, canonicity, disciplinarity and intellectual labor in hand" (364). In other words, queer digital pedagogy asks teachers and students, readers and writers, makers and players to be perverse, to be critical and reparative, to invest in these queer sites and moments with "fascination and love" (Sedgwick 3). Whether you are tweeting close readings of *The Picture of Dorian Gray*, looking for resources about LGBT inclusion, or navigating a virtual maze as flashing-rainbow square, queer digital pedagogy demands not only a healthy suspicion of the promises and fantasies of technology but also a healthy desire for "this wave new technologies to bring new methods and topics to the classroom" (Halberstam 364).  It is this spirit, this utopian hope, that inspires the above selections.  
+
+JENTERY: Great paragraph! 
+
+> Queerness is a structuring and educated mode of desiring that allows us to see and feel beyond the quagmire of 
 the present…Queerness is that thing that lets us feel that this world is not enough, that indeed something is 
 missing...Queerness is also a performative because it is not simply a being but a doing for and toward the future.  
 Queerness is essentially about the rejection of a here and now and an insistence on potentiality or concrete 
-possibility for another world."
-> --Jose Esteban Munoz, Cruising Utopia
+possibility for another world. --Jose Esteban Munoz, *Cruising Utopia*
 
 ### Curated Resources 
 
