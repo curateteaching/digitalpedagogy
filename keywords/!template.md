@@ -55,7 +55,7 @@ The curatorial statement expresses your vision of the keyword — what it means 
 
 Select ten pedagogical resources to feature for your keyword. Each resource should include: 
 
-* Screenshot (PNG or JPG), if applicable 
+* Screenshot (PNG or JPG), if applicable, titled keyword resource name, e.g. work AfAm syllabus.png
 * Source URL 
 * A Copy of the Resource (in HTML, PDF, DOCX, TXT, MD, RTF, MP3, MP4, MOV, PNG, or JPG), if possible 
 * Name of Creator
