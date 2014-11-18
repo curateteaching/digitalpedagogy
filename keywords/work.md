@@ -35,7 +35,7 @@ Students use these three sets of historical resources to produce multimedia pres
 
 ### _1. African American History Syllabus_
 
-* Screenshot:
+* Screenshot: ![screenshot](images/O'Donovan syllabus.png)
 
 * Copy of the Resource: O'Donovan syllabus.png
 
@@ -49,7 +49,7 @@ This syllabus and additional digital Resources links on the Home Page offer a br
 
 ### 2. _Documents from Freedom: A Documentary History of Emancipation, 1861-1867_ 
 
-* Screenshot:
+* Screenshot: ![screenshot](images/FreedmenSSociety docs.png)
 
 * Copy of the Resource: FreedmenSSociety docs.png
 
@@ -64,7 +64,7 @@ Documents from the accompanying website to the multi-volume Freedom: A Documenta
 
 ###_3.Recorded Voices of Former Slaves_  
 
-* Screenshot:
+* Screenshot: ![screenshot](images/VoicesfromSlavery.png)
 
 * Copy of the Resource: VoicesfromSlavery.png
 
@@ -79,7 +79,7 @@ Oral history interviews recorded by federal workers between 1932 and 1975 with f
 
 ### _4. Reading Marx’s Capital_
 
-* Screenshot:
+* Screenshot: ![screenshot](images/DHarvey Reading Capital.png)
 
 * Copy of the Resource: DHarvey Reading Capital.png
 
@@ -94,7 +94,7 @@ David Harvey’s brilliant online video lectures on reading Capital are the digi
 
 ### _5. “Work” Documents from Herb Database_
 
-* Screenshot:
+* Screenshot: ![screenshot](images/Herb website.png.png)
 
 * Copy of the Resource: Herb website.png
 
@@ -110,7 +110,7 @@ Search for and cull relevant text, image, items tagged “Work” on ASHP’s He
 
 ### _6. 1911 Triangle Shirtwaist Fire_
 
-* Screenshot:
+* Screenshot: ![screenshot](images/Triangle Fire.png)
 
 * Copy of the Resource: Triangle Fire.png
 
@@ -127,7 +127,7 @@ The tragic and horrendous deaths of 146 factory workers, many of them young immi
 
 ### _7. Assembly Line Scene in Charlie Chaplin’s Modern Times_
 
-* Screenshot:
+* Screenshot: ![screenshot](images/Chaplin Modern Times.png)
 
 * Copy of the Resource: Chaplin Modern Times.png
 
@@ -143,7 +143,7 @@ A humorous, absurdist critique of factory work, Chaplin manages to spoof the dea
 
 ### _8. Samer Shehata’s “Work, Social Class and Culture” syllabus_
 
-* Screenshot:
+* Screenshot: ![screenshot](images/Shehata syllabus.png)
 
 * Copy of the Resource: Shehata syllabus.png
 
@@ -158,7 +158,7 @@ A rich overview of contemporary work and social class in the global North and th
 
 ### _9. Images of “Work” on Flickr_
 
-* Screenshot:
+* Screenshot: ![screenshot](images/Work images Flickr.png)
 
 * Copy of the Resource: Work images Flickr.png
 
@@ -173,7 +173,7 @@ Peruse and cull images of contemporary work in global North and global South cou
 
 ### _10. Thomas Thwaite’s The Toaster Project_
 
-* Screenshot:
+* Screenshot: ![screenshot](images/Toaster Proj.png)
 
 * Copy of the Resource: Toaster Proj.png
 
