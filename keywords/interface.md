@@ -60,19 +60,19 @@ This exercise takes "deformance" a step further by reforming ("converting") the 
 
 It's ambitious to assign <em>House of Leaves</em> in an introductory literature class.  Desultory, evasive and iconic, <em>HoL</em>  will frustrate almost any reader who aims to read this text closely as humanists are trained to do.  Jeremy Douglass and Steven Pokornowski create a two-part assignment interface.  The prompt procedurally guides students through making a remix of one page--and only one page--in <em> HoL</em>.  Making their collages, students can work with digital image tools or work with the other "digital," their fingers, making collage from arts and craft supplies.  Handmade remixes are photographed; all remixes are tagged and uploaded to the class's Tumblr site which itself remixes the individual pages into a fragmentary collective.  Their heterogeneity perfectly complements the source text's unfinalizability.   
 
-* Screenshot: ![screenshot](images/interface Wordle-fr-open-source-Fyfe.png)
+* Screenshot: ![screenshot](images/interface Wordle-fr-open-source-Fyfe.jpg)
 * http://ryancordell.org/personal/grad-proseminar-guest-talk-not-reading/
 * [pdf of "How Not to Read a Victorian Novel" by Fyfe]
 * Fyfe: Assistant Professor, North Carolina State University Department of English; Cordell: Assistant Professor, Northeastern University Department of English
 
 Paul Fyfe's 4-page field note about teaching senior undergraduate English majors to read Victorian novels "distantly" provides the the best introduction I've found to distant reading techniques.  Fyfe's "interrogative stance" invites students to use the sometimes confusing outputs to ask better questions that exploit the "distant" view.  Students can get frustrated by being untethered from what Marcus and Best have called the "symptomatic reading" endemic to close reading.  Fyfe teaches how to parse word frequency, concordance, and collocation to defamiliarize narrative as the primary means of knowing a novel.  Unfortunately Fyfe's article is locked in a subscription-fee publication.  Hunting for resources, I found that Ryan Cordell led a graduate workshop applying Fyfe's techniques, and published his guide on his website.  I offer Cordell's variation on Fyfe's article as a means of framing two aspects of DH interface: forking, and the importance of open-access scholarship.
 
-* Screenshot: ![screenshot](images/interface Harris-Collab-Project.png)
+* Screenshot: ![screenshot](images/interface Harris-Collab-Project.jpg)
 * http://triproftri.wordpress.com/2012/12/03/collaborative-project-on-19th-century-materials-assignment/#more-1191
 * Associate Professor, San Jose State University Department of English
 * Lower-division literature majors are new to devising substantial research projects.  To author one collaboratively makes knowledge production more complex, but also radically expands the amount of work the team can accomplish.  Harris' "Collaborative Project on 19th-Century Materials" expertly introduces students to the materiality of textual scholarship, then trains students in project management, a vital skill for any DH collaborative project. Harris makes available the Association of American Colleges and Universities rubrics for Teamwork/Collaboration to ground students' attention in specific tasks they must perform to advance the larger project.  As they toggle between embodied classroom space and work in Google Docs, student writers assess the rare book's material attributes and then move to more complex questions of content and interpretation.  The resulting project, about Louisa Henrietta Sheridan's *The Comic Offering: Satire Without Bite* is seamless, univocal prose.    
 
-* Screenshot: ![screenshot](images/interface Hergenrader-Steampunk-Rochester-map)
+* Screenshot: ![screenshot](images/interface Hergenrader-Steampunk-Rochester-map.png)
 * http://steampunkrochester.wikispaces.com/Steampunk+Rochester
 * Trent Hergenrader
 * Assistant Professor, Rochester Institute of Technology Department of English
@@ -93,7 +93,7 @@ Many people have heard of <em>Map of Early Modern London</em>, now in its fiftee
 
 “Consider it not so much a canonic history—-constructed by class—-but a subjective personal history,” declares Sonja S. Mongar on the front door of *Esta Vida Boricua* ("This Puerto Rican Life").  The huge number of life writing stories housed in this wiki are "ethnically rich with threads to Cuba, Dominican Republic, South America, England, Germany, Italy, France, China, United States, Israel, Palestine, Egypt [and] Australia," presents Puerto Rico as a "fertile ground for world Diaspora."  In Spanish and English, this wiki features just one-third of its collected materials because the underfunded project hasn't the staff support to load its multimodal assets.  It seeks volunteers who might edit and post from remote locations.  *Esta Vida Boricua* has a strong pedagogical orientation with a tab specifically for educators. "Notes on Life Narrative," for example, presents fifty-two life writing classifications adapted from Sidonie Smith and Julia Watson's *Reading Autobiography*.
 
-* Screenshot: ![screenshot](images/interface Stommel-Twitter-Essay.jpg)
+* Screenshot: ![screenshot](images/interface Twitter-bird-Stommel.jpg)
 * http://www.hybridpedagogy.com/journal/the-twitter-essay/
 * Assistant Professor, University of Wisconsin-Madison, Digital Humanities, English and Continuing Education
 
