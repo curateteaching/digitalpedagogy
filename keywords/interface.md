@@ -114,7 +114,7 @@ Netprov, the text/image art game installed in social media platforms, is an idea
 * Alan Liu, "DH Tools Wiki," *http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools*							
 
 
-## 6. Works Cited 
+## Works Cited 
 
 Burgess, Helen.  "Shakespeare in Code: Sonnet Conversion." *http://helenburgess.com/395sonnets/*.  Web.  Accessed 15 November 2014.
 
