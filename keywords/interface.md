@@ -1,11 +1,11 @@
-# KEYWORD ENTRY TEMPLATE
+# INTERFACE
 
-## 1. Author Name 
-Kathi Inman Berens
+## Kathi Inman Berens
+[Affiliation] [relevant website]
 
-## 2. Bulleted List of Curated Pedagogical Resources
+KATHY: List your affiliation (or non-affiliation?) and your blog URL or any other website
 
-For quick reference, provide a bulleted list of the ten pedagogical resources featured in your keyword entry. Please provide ten resources. No more, no less. 
+## Resources
 
 * "Shakespeare in Code: Sonnet Conversion," Helen Burgess, http://userpages.umbc.edu/~burgess/442/ (Syllabus)
 * "Simulating the Scriptorium," Ryan Cordell, http://f14tot.ryancordell.org/2014/09/16/lab-3-simulating-the-scriptorium/ (Lesson Plan)  
@@ -18,34 +18,7 @@ For quick reference, provide a bulleted list of the ten pedagogical resources fe
 * "The Twitter Essay," Jesse Stommel, http://www.hybridpedagogy.com/journal/the-twitter-essay/ (Assignment)
 * "#1WkNoTech" Rob Wittig and Mark C. Marino, http://1wknotech.tumblr.com, (Website)
 
-Example: "English 101," Pat Patterson, university.edu/101syllabus.pdf (syllabus)
-
-Sample project types include:
-
-<<<<<<< HEAD
-	* Sample project types include:
-		* Syllabus
-		* Essay
-		* Teaching Guidelines
-		* Assignment
-		* Lesson Plan 
-		* Website 
-		* Collaborative Project
-		* Co-authored Document 
-		* University/College Initiative 
-=======
-* Syllabus
-* Essay
-* Teaching Guidelines
-* Assignment
-* Lesson Plan 
-* Website 
-* Collaborative Project
-* Co-authored Document 
-* University / College Initiative 
->>>>>>> FETCH_HEAD
-
-## 3. Curatorial Statement 
+## Curatorial Statement 
 If you've ever moved classroom chairs into a circle rather than rows, you know that the physical design of the classroom shapes student discussion.  In computational terms: you ask students to move their chairs (classroom hardware) into a circle (software) so their attention spreads from the podium to other students (an action) that leads students to talk directly with each other (an output).  In this sense and many others, the classroom is an interface: a point of contact where meaningful actions happen between students, teachers, ideas and technologies, and between our virtual and physical selves. 
 
 I work in virtual environments of all kinds, but physical co-presence remains--for now--my preferred classroom setting because it is rich with information.  On ground, our attention zooms across sense modalities.  Classroom learning is a full-body experience.  It's proprioceptive as our sense of self extends beyond our person to include our chairs and desks, the cluster of people we sit with, and the flows of ambient light and sound responding dynamically to our presence.  Online, the pane of our attention shrinks to a manila envelope.  This is OK if what's inside the pane is constantly moving, as when we surf the Web, check our feeds, or make something.  But inside the virtual classroom, where so much of the screen is static unless the video flits between speakers and the chat bar whirls, there's little at the level of interface to hold our attention.  The user interface is crowded with elements that keep still; this is what a regular classroom may look like when students attend to the professor, but in reality attention is promisucous.  Virtual classrooms are ocular-centric.  They fall short of recreating the multisensory dimensionality, the poly- and sub-vocal soundscapes of a classroom environment.  Haptics are well-developed for games, but not at all for virtual classrooms.  This is the case because virtual classroom software hasn't yet thought outside the conceptual frame of its medial antecedent, the physical classroom.  It's a little too faithful to a (boring) notion of classroom conduct.  Just as in the early days of film, when a stationary camera recorded theatrical performance, so too in virtual classroom software we're still waiting for design that plays to its unique medial strengths.  We're waiting for that "dolly" moment.
@@ -58,34 +31,36 @@ Does it matter if a classroom is a little rectangle in a building or a little re
 
 
 
-## 4. Curated Pedagogical Resources (ten resources, each with metadata, a screenshot, and a 150-word annotation)
+## Curated Pedagogical Resources 
 
-Select ten pedagogical resources to feature for your keyword. Each resource should include: 
+KATHY: would you mind giving each resource a title? e.g., ###Sonnets for this one. 
 
-* Burgess-sonnet.png
-* http://helenburgess.com/395sonnets/
-* [4 pdfs: Burgess-sonnet-1.pdf etc.]
-* Helen Burgess
-* Associate Professor, North Carolina State University Department of English
-* "You're accustomed to doing 'readings' of literature and producing a specific kind of output: a paper," Helen Burgess tells her students.  "In this exercise the 'input' will be the same . . . but the 'output' will be different.  Thus it will require two sets of skills."  Burgess's four-part "sonnet conversion" process asks students to deform Shakespeare's sonnets materially, and remediate them as 
-* -visual representations 
-* -an object comprised of fourteen parts
-* -a schema comprised of encoding, composition and decoding (a student decodes someone else's composition)
-* -a program that builds a sonnet when it's executed.
+* Screenshot: ![screenshot](images/Burgess-sonnet.png)
+* Source URL: http://helenburgess.com/395sonnets/
+* Copy of the Resource: [4 pdfs: Burgess-sonnet-1.pdf etc.]
+* Name of Creator: Helen Burgess
+* Attribution Information: Associate Professor, North Carolina State University Department of English
+
+"You're accustomed to doing 'readings' of literature and producing a specific kind of output: a paper," Helen Burgess tells her students.  "In this exercise the 'input' will be the same . . . but the 'output' will be different.  Thus it will require two sets of skills."  Burgess's four-part "sonnet conversion" process asks students to deform Shakespeare's sonnets materially, and remediate them as 
+-visual representations 
+-an object comprised of fourteen parts
+-a schema comprised of encoding, composition and decoding (a student decodes someone else's composition)
+-a program that builds a sonnet when it's executed.
 This exercise takes "deformance" a step further by reforming ("converting") the sonnet into a computational object.  The progress through the four stages is to strip away the impressionistic and replace it with the procedural.
 
-* Cordell-Scrivening.png
-* http://f14tot.ryancordell.org/2014/09/16/lab-3-simulating-the-scriptorium/
-* Ryan Cordell
-* Assistant Professor, Northeastern University Department of English
+* Screenshot: Cordell-Scrivening.png
+* Source URL: http://f14tot.ryancordell.org/2014/09/16/lab-3-simulating-the-scriptorium/
+* Name of Creator: Ryan Cordell
+* Attribution Information: Assistant Professor, Northeastern University Department of English
 * “The candle is a non-textual medium that has profoundly affected the texts we have inherited from previous generations," observes Ryan Cordell.  Undergraduates in his "Technologies of Text" class write for a class period at a table lit by candles. Cordell reports that a fire marshal with an extinguisher at his hip monitored the entire scrivening, which was held in a windowless, enclosed room.  Students discovered that bookmaking was a laborious process when they transcribed a text of their choice from the Norton Anthology.  Hands cramped.  Eyes strained.  Backs tired.  An aching body is a very interesting classroom interface.  The point of this assignment, Cordell notes, is to "start students thinking about how canons and anthologies come to be, the complex, long textual histories that precede any piece appearing in the *Norton Anthology*'s Table of Contents."
-* 
-* HoL-Douglass-Pokornowski.png
-* english10introductiontolit.tumblr.com
-* [pdf of assignment labeled HoL]
-* Jeremy Douglass and Steven Pokornowski
-* Douglass: Assistant Professor, University of California Santa Barbara; Pokornowski: graduate student, University of California Santa Barbara
-* It's ambitious to assign <em>House of Leaves</em> in an introductory literature class.  Desultory, evasive and iconic, <em>HoL</em>  will frustrate almost any reader who aims to read this text closely as humanists are trained to do.  Jeremy Douglass and Steven Pokornowski create a two-part assignment interface.  The prompt procedurally guides students through making a remix of one page--and only one page--in <em> HoL</em>.  Making their collages, students can work with digital image tools or work with the other "digital," their fingers, making collage from arts and craft supplies.  Handmade remixes are photographed; all remixes are tagged and uploaded to the class's Tumblr site which itself remixes the individual pages into a fragmentary collective.  Their heterogeneity perfectly complements the source text's unfinalizability.   
+
+* Screenshot: HoL-Douglass-Pokornowski.png
+* Source URL: english10introductiontolit.tumblr.com
+* Copy of the Resource: [pdf of assignment labeled HoL]
+* Name of Creators: Jeremy Douglass and Steven Pokornowski
+* Attribution Information: Douglass: Assistant Professor, University of California Santa Barbara; Pokornowski: graduate student, University of California Santa Barbara
+
+It's ambitious to assign <em>House of Leaves</em> in an introductory literature class.  Desultory, evasive and iconic, <em>HoL</em>  will frustrate almost any reader who aims to read this text closely as humanists are trained to do.  Jeremy Douglass and Steven Pokornowski create a two-part assignment interface.  The prompt procedurally guides students through making a remix of one page--and only one page--in <em> HoL</em>.  Making their collages, students can work with digital image tools or work with the other "digital," their fingers, making collage from arts and craft supplies.  Handmade remixes are photographed; all remixes are tagged and uploaded to the class's Tumblr site which itself remixes the individual pages into a fragmentary collective.  Their heterogeneity perfectly complements the source text's unfinalizability.   
 * 
 * Wordle-fr-open-source-Fyfe.png
 * http://ryancordell.org/personal/grad-proseminar-guest-talk-not-reading/
