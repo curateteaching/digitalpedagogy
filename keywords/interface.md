@@ -54,7 +54,7 @@ This exercise takes "deformance" a step further by reforming ("converting") the 
 
 * Screenshot: ![screenshot](images/interface HoL-Douglass-Pokornowski.png)
 * Source URL: english10introductiontolit.tumblr.com
-* Copy of the Resource: [pdf of assignment labeled HoL]
+* Copy of the Resource: [files/interface Douglass-Pok-ENGL 10-HoL-Remix.pdf](files/interface Douglass-Pok-ENGL 10-HoL-Remix.pdf)
 * Name of Creators: Jeremy Douglass and Steven Pokornowski
 * Attribution Information: Douglass: Assistant Professor, University of California Santa Barbara; Pokornowski: graduate student, University of California Santa Barbara
 
@@ -62,7 +62,7 @@ It's ambitious to assign <em>House of Leaves</em> in an introductory literature 
 
 * Screenshot: ![screenshot](images/interface Wordle-fr-open-source-Fyfe.jpg)
 * http://ryancordell.org/personal/grad-proseminar-guest-talk-not-reading/
-* [pdf of "How Not to Read a Victorian Novel" by Fyfe]
+* Copy of the Resource: [files/interface Paul-Fyfe-Not-Read.pdf](files/interface Paul-Fyfe-Not-Read.pdf)
 * Fyfe: Assistant Professor, North Carolina State University Department of English; Cordell: Assistant Professor, Northeastern University Department of English
 
 Paul Fyfe's 4-page field note about teaching senior undergraduate English majors to read Victorian novels "distantly" provides the the best introduction I've found to distant reading techniques.  Fyfe's "interrogative stance" invites students to use the sometimes confusing outputs to ask better questions that exploit the "distant" view.  Students can get frustrated by being untethered from what Marcus and Best have called the "symptomatic reading" endemic to close reading.  Fyfe teaches how to parse word frequency, concordance, and collocation to defamiliarize narrative as the primary means of knowing a novel.  Unfortunately Fyfe's article is locked in a subscription-fee publication.  Hunting for resources, I found that Ryan Cordell led a graduate workshop applying Fyfe's techniques, and published his guide on his website.  I offer Cordell's variation on Fyfe's article as a means of framing two aspects of DH interface: forking, and the importance of open-access scholarship.
