@@ -18,7 +18,6 @@ Example: "English 101," Pat Patterson, university.edu/101syllabus.pdf (syllabus)
 
 Sample project types include:
 
-<<<<<<< HEAD
 	* Sample project types include:
 		* Syllabus
 		* Essay
@@ -29,17 +28,6 @@ Sample project types include:
 		* Collaborative Project
 		* Co-authored Document 
 		* University/College Initiative 
-=======
-* Syllabus
-* Essay
-* Teaching Guidelines
-* Assignment
-* Lesson Plan 
-* Website 
-* Collaborative Project
-* Co-authored Document 
-* University / College Initiative 
->>>>>>> FETCH_HEAD
 
 ## 3. Curatorial Statement (roughly 750-800 words, MLA Format)
 
