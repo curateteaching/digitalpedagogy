@@ -17,8 +17,6 @@ For quick reference, provide a bulleted list of the ten pedagogical resources fe
 Example: "English 101," Pat Patterson, university.edu/101syllabus.pdf (syllabus)
 
 Sample project types include:
-
-	* Sample project types include:
 		* Syllabus
 		* Essay
 		* Teaching Guidelines
