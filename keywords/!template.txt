@@ -18,7 +18,7 @@ Project Types include:
 - Teaching Guidelines
 - Assignment
 - Lesson Plan 
-- Website 
+- Website (with pedagogical materials)
 - Collaborative Project
 - Co-authored Document 
 - University / College Initiative 
@@ -37,7 +37,7 @@ CURATED PEDAGOGICAL RESOURCES (150 words per resource)
 
 Select ten pedagogical resources to feature for your keyword. Each resource should be include: 
 
-- Screenshot (PNG or JPG), if applicable 
+- Screenshot (PNG or JPG), titled “keyword resource name,” e.g. “work AfAm syllabus.png” 
 - Source URL / Provenance
 - A Copy of the Resource (HTML, PDF, DOCX, TXT, MP3, MP4, MOV, PNG, JPG), if possible 
 - Name of Creator

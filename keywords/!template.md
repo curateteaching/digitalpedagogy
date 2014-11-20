@@ -22,7 +22,7 @@ Sample project types include:
 * Teaching Guidelines
 * Assignment
 * Lesson Plan 
-* Website 
+* Website (with pedagogical materials)
 * Collaborative Project
 * Co-authored Document 
 * University/College Initiative 
@@ -31,7 +31,7 @@ Sample project types include:
 
 The curatorial statement expresses your vision of the keyword — what it means in a pedagogical context and how you approached the task of curating pedagogical resources around it. Statements can include some or all of the following: 
 
-* Vision statement (how do you envison or understand this keyword and its relation to pedagogy?)
+* Vision statement (how do you envision or understand this keyword and its relation to pedagogy?)
 * Scholarly rationale for selections 
 * Criteria for selections (why were the specific curated resources selected?) 
 * Important issues (why teach this now? why does this topic matter for students? for faculty? for a field? what makes this keyword unique or exemplary for digital pedagogy?) 
@@ -41,7 +41,7 @@ The curatorial statement expresses your vision of the keyword — what it means 
 
 Select ten pedagogical resources to feature for your keyword. Each resource should include: 
 
-* Screenshot (PNG or JPG), if applicable, titled keyword resource name, e.g. work AfAm syllabus.png
+* Screenshot (PNG or JPG), titled “keyword resource name,” e.g. “work AfAm syllabus.png”
 * Source URL 
 * A Copy of the Resource (in HTML, PDF, DOCX, TXT, MD, RTF, MP3, MP4, MOV, PNG, or JPG), if possible 
 * Name of Creator
