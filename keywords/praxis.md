@@ -80,6 +80,8 @@ JENTERY: Would you be willing to develop the last sentence (about alteration or 
 
 *Doing Feminist Theory through Digital Video* is a reflective essay detailing an undergraduate assignment and the literature informing the development of the assignment. Noticing her students were struggling to connect rich theoretical discussions within the classroom to "real life," Hurst offers a pathway for specific theoretical considerations (like feminism) to shape and be shaped by the application of praxis. Hurst applies Paulo Freire's definition of praxis ("reflection and action upon the world in order to change it") with the goal of fostering sustained deep reflection, both of the theoretical foundations of her course as well as on the student's emerging scholarly voices (Freire, [1970] 2000: 51). A semester-long, service-learning project is difficult to integrate into a content-based course. Hurst's article outlines strategies for nurturing deep learning through reflection and praxis. Reflecting on her process as well as implementation, Hurst points to methods for demystifying knowledge creation through iterative, collaborative work.
 
+JENTERY: Would you be willing to contact the instructor / author for some example prompts, assignments, or lesson plans? It would be great to have actual material from this course, too, if it's available and if the instructor is willing. 
+
 ### “Extraordinary Materials”
 * Screenshot: ![screen shot](images/extraordinary-materials.jpg)
 * Source URL: [http://dada.cca.edu/~drosner/materials/syllabus.html](http://dada.cca.edu/~drosner/materials/syllabus.html)
