@@ -19,7 +19,7 @@ A repository of scholarly materials for *Digital Pedagogy in the Humanities: Con
 ### Q: Should curators circulate a formal CFP?
 A: No. Feel free to crowdsource suggestions from your networks, but please do not create a CFP.  We are encouraging less of a formal submission/review/accept/reject model and more of an informal, “send some links” model. It is  the curator's job to select and curate 10 links and to explain things in the curator's statement. Additional links collected through a crowdsourced process may be shared through the "Additional Resources" section, perhaps through a link to a document that contains a larger list of suggestions.
 
-Please refrain from public posts about the keyword project until the MLA has returned countersigned contracts to the General Editors. 
+Please refrain from public posts about the keyword project until the MLA has approved our public announcement. 
 
 ### Q: If I decide to make a public call for suggestions, what should my request include? 
 A: The curator should indicate that she/he will be able to include only 10 responses and that she/he is serving as curator of this particular keyword and not of the whole collection Please use our project hashtag (#curateteaching) when making a public call. 
