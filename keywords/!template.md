@@ -7,6 +7,7 @@
 Please email your assigned editor with any questions or concerns. Your assigned editor is the person who contacted you with details about this template.
 
 ## 1. Author Name(s)
+Institutional Affiliation & Website
 
 ## 2. Bulleted List of Curated Pedagogical Resources
 
