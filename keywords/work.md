@@ -23,7 +23,8 @@ Merriam-Webster Online [http://www.merriam-webster.com/dictionary/work] defines 
 
 KATHY: This is a good start to the discussion surrounding the definition of work; but, instead of starting with the Merriam-Webster, do you think you could find more history in the OED Database about the evolution of this term (though it might be couched more in literature than in cultural documents)
 
-But work also is and has been the cause of enormous pain and individual and collective oppression across time, inflicting anguish, injury, and even death upon those whose work is exploited, exploitation that is structured by a range of gender, sexual, racial, ethnic, age, and class identities.
+But work also is and has been the cause of enormous pain and individual and collective oppression across time, inflicting anguish, injury, and even death upon those whose work is exploited, exploitation that is structured by a range of gender, sexual, racial, ethnic, age, and class identities. To understand the exploitative nature of work one need only recall such texts as Solomon Northup's 12 Years a Slave (1853), or the fate of the striking French coal miners in Emile Zola's Germinal (1885), or the Dust Bowl migrant family, the Joads, in John Steinbeck's Grapes of Wrath (1939).
+
 
 KATHY: For the above paragraph, can you couch this in something concrete? a text, a happening, an event -- anything to create the ideas that you work through in the next paragraphs.
 
