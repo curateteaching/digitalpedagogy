@@ -1,8 +1,8 @@
 # KEYWORD ENTRY FOR "WORK"
 
 ## Stephen Brier
-[Affiliation] [Website?]
-KATHY: Steve, would you mind adding your affiliation & any website/url that you'd like attached to your name? 
+CUNY Graduate Center [Website?]
+[http://cunyis/sbrier](http://cunyis/sbrier)
 
 ## Pedagogical Resources 
 * “African American History: From the Slave Trade to 1900,” Susan O’Donovan, [http://sites.fas.harvard.edu/~afam118/index.html](http://sites.fas.harvard.edu/~afam118/index.html) (syllabus)
