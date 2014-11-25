@@ -1,5 +1,5 @@
 
-# Announcing *Digital Pedagogy in the Humanities*
+# Announcing DIGITAL PEDAGOGY IN THE HUMANITIES
 
 In conjunction with the Modern Language Association, we are happy to announce *Digital Pedagogy in the Humanities: Concepts, Models, and Experiments*, an open-access, curated collection of downloadable, reusable, and remixable pedagogical resources for humanities scholars interested in the intersections of digital technologies with teaching and learning. Taken as a whole this collection will document the richly-textured culture of teaching and learning that responds to new digital delivery mediums, scholarly tools, and socio-cultural contexts, ultimately defining the heterogeneous nature of digital pedagogy.
 
