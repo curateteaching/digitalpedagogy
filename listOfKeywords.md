@@ -11,16 +11,14 @@ Hashtag for news and updates: [#curateteaching](https://twitter.com/hashtag/cura
 * Katherine D. Harris, San José State University
 * Jentery Sayers, University of Victoria
 
-## KEYWORDS
+## CURRENT KEYWORDS
 
-* Ability
 * Annotation
 * Archive
 * Assessment
 * Attention
 * Audio
 * Blogging
-* Citation
 * Classroom 
 * Coding
 * Collaboration
@@ -28,8 +26,8 @@ Hashtag for news and updates: [#curateteaching](https://twitter.com/hashtag/cura
 * Composition 
 * Curation
 * Design
+* Disability
 * Failure
-* Fiction
 * Fieldwork
 * Gaming
 * Gender
@@ -38,20 +36,11 @@ Hashtag for news and updates: [#curateteaching](https://twitter.com/hashtag/cura
 * Hybrid
 * Information
 * Interface
-* Iteration
-* Library
-* Literary
 * Makerspace
-* Mapping
-* Mobile
-* Multimodal
-* Museum
-* Network
+* Multimodal 
 * Open
-* Open Online Course
 * Peer Review
 * Play
-* Poetry
 * Praxis
 * Professionalization
 * Project Management
@@ -64,7 +53,5 @@ Hashtag for news and updates: [#curateteaching](https://twitter.com/hashtag/cura
 * Sexuality
 * Storytelling
 * Text Analysis
-* Topic Modeling
 * Video
-* Visualization
 * Work
