@@ -150,7 +150,7 @@ JENTERY: Would you be willing to elaborate here, if only in a sentence? "this si
 
 This resource and the pedagogy it represents fall squarely on the post-cinematic side of our digital video resources. Assignments range from glitching images to processing-based animations to remix video responses. The materials provide an invitation to experiment with the dynamics of signal and noise, using videos to explore the role of machinic processing and social media in composing. By using sites like Tumblr as collecting engines for video materials and teaching students non-traditional methods of composing, Lincoln’s pedagogy enacts a video paradigm built around the shifting relationships between humans and technology. While instructors might cull assignments or examples from the Tumblr, the site (and Lincoln’s [Notational Tumblr](http://notational.tumblr.com), might best be used as illustrative examples/enactments of how video pedagogy and new aesthetics can come together.
 
-JENTERY: At the end of this annotation, would you be willing to add a sentence on the learning outcomes of this blend of video pedagogoy with new aesthetics? 
+JENTERY: At the end of this annotation, would you be willing to add a sentence on the learning outcomes related to blending video pedagogoy with new aesthetics? 
 
 ### "Introduction to Humanities Physical Computing w/Arduino and Processing"
 * Screenshot: ![screenshotRIEDER.jpg](http://siteslab.org/keywordvideo/screenshotRIEDER.jpg)
@@ -159,7 +159,7 @@ JENTERY: At the end of this annotation, would you be willing to add a sentence o
 
 If Adrian Miles’s curriculum for post-industrial video and Justin Lincoln’s new genres course Tumblr offer a glimpse towards the future of video under the influence of software and digital networks, then David Reider’s course syllabus for “Introduction to Humanities Physical Computing w/Arduino and Processing” presents an introductory curriculum to the emerging disciplinary orientations from which new processes and conceptions for video might emerge. Reider’s course does not specifically take up video; however, it does offer a map for both a theoretical and hands-on introduction to “the computational and physical/material bases of electronic media.” We’ve included it here as a provocation of sorts. A provocation to continue to orient our work with video to more thoroughly post-cinematic futures. Reider has also taught an [undergraduate variation](http://siteslab.org/resources/IP_295_001_RIEDER.pdf) of this course.
 
-JENTERY: Great to see this in the list, too! Would you be willing to point to a specific moment in the syllabus that you think warrants isntructor attention? What's provocative about it, exactly, and how might instructors respond (or why might they consider post-cinematic work in the classroom)? 
+JENTERY: Great to see this in the list, too! Would you be willing to point to a specific moment in the syllabus that you think warrants instructor attention? What's provocative about it, exactly, and how might instructors respond (or why might they consider post-cinematic work in the classroom)? 
 
 ## Related Materials
 
