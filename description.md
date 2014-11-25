@@ -1,5 +1,4 @@
 # DIGITAL PEDAGOGY IN THE HUMANITIES: CONCEPTS, MODELS, AND EXPERIMENTS  
-**Note: This is the original proposal submitted to the Modern Language Association. We are distributing this to our contributors for information only. Please do not distribute.**
 
 *A curated collection of downloadable, reusable, and remixable pedagogical resources currently under contract with the Modern Language Association* 
 
