@@ -19,17 +19,26 @@ well-versed in the practice of digital pedagogy.
 We will update this GitHub repository as we move forward with lists of keywords, keyword contributors, and mentions of forthcoming presentations about
 this project at university and college campuses across North America.
 
-For now, please follow *Digital Pedagogy in the Humanities* on Twitter, using the hashtag,
-[#curateteaching](https://twitter.com/hashtag/curateteaching?f=realtime&src=hash).
+For now, please follow *Digital Pedagogy in the Humanities* on Twitter through the hashtag [#curateteaching](https://twitter.com/hashtag/curateteaching?f=realtime&src=hash).
 
 ## General Editors 
-* Rebecca Frost Davis, St. Edward's University * Matthew K. Gold, City Tech & Graduate Center, City University of New York * Katherine D. Harris, San
-José State University * Jentery Sayers, University of Victoria
+* Rebecca Frost Davis, St. Edward's University 
+* Matthew K. Gold, City Tech & Graduate Center, City University of New York 
+* Katherine D. Harris, San José State University 
+* Jentery Sayers, University of Victoria
 
 ## Advisory Board
-* Cheryl Ball, West Virginia University * Bryan Carter, University of Arizona * Tanya Clement, University of Texas, Austin * Brian Croxall, Emory
-University * Douglas Eyman, George Mason University * Paul Fyfe, North Carolina State University * Gail E. Hawisher, University of Illinois at
-Urbana-Champaign (Professor Emeritus) * Jason B. Jones, Trinity College * Virginia Kuhn, University of Southern California * Cynthia Selfe, Ohio State
-University * Lisa Spiro, Rice University
+* Cheryl Ball, West Virginia University 
+* Bryan Carter, University of Arizona 
+* Tanya Clement, University of Texas, Austin 
+* Brian Croxall, Emory
+University 
+* Douglas Eyman, George Mason University 
+* Paul Fyfe, North Carolina State University 
+* Gail E. Hawisher, University of Illinois at Urbana-Champaign (Professor Emeritus) 
+* Jason B. Jones, Trinity College 
+* Virginia Kuhn, University of Southern California 
+* Cynthia Selfe, Ohio State University 
+* Lisa Spiro, Rice University
 
 
