@@ -7,7 +7,7 @@ intersections of digital technologies with teaching and learning. Taken as a who
 teaching and learning that responds to new digital learning environments, research tools, and socio-cultural contexts, ultimately defining the
 heterogeneous nature of digital pedagogy.
 
-*Digital Pedagogy in the Humanities* will consist of approximately 50 keywords that articulate humanities pedagogy with new media, computation,
+*Digital Pedagogy in the Humanities* will consist of approximately 50 keywords that articulate humanities pedagogy with digital humanities methods, new media studies, computational research,
 networked environments, and digital culture. Each keyword will have a curator who will briefly introduce a particular term in the context of teaching
 and learning and then provide ten pedagogical resources, such as syllabi, prompts, exercises, and lesson plans drawn from actual courses, classrooms,
 and projects across the humanities. These resources will be annotated, attributed with metadata, and accompanied by lists of related materials for
@@ -19,7 +19,7 @@ well-versed in the practice of digital pedagogy.
 We will update this GitHub repository as we move forward with lists of keywords, keyword contributors, and mentions of forthcoming presentations about
 this project at university and college campuses across North America.
 
-For now, please follow *Digital Pedagogy in the Humanities* on Twitter through the hashtag [#curateteaching](https://twitter.com/hashtag/curateteaching?f=realtime&src=hash).
+For now, please follow *Digital Pedagogy in the Humanities* on Twitter through the hashtag [#curateteaching](https://twitter.com/hashtag/curateteaching?f=realtime&src=hash) and visit our [news page](https://github.com/curateteaching/digitalpedagogy/blob/master/news.md) for updates.
 
 ## General Editors 
 * Rebecca Frost Davis, St. Edward's University 
