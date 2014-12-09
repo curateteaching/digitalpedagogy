@@ -1,13 +1,12 @@
 # PRAXIS 
 
-## Bethany Nowviskie, J. K. Purdom Lindblad, and Jeremy Boggs
+## Bethany Nowviskie, Jeremy Boggs, and J. K. Purdom Lindblad 
 University of Virginia | Scholars' Lab |  [Website](http://scholarslab.org/) 
 
-JENTERY: This is my shot at listing your institutional affiliation(s). Please feel free to revise. Apologies, too, if the author order is incorrect. Please feel free to correct any of my mistakes! 
 
 ## Resources
 
-* “Bibliocircuitry and the Design of the Alien Everday,” Charity Hancock, et. al., [http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051](http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051) (Sample Student Projects)
+* “Bibliocircuitry and the Design of the Alien Everyday,” Charity Hancock, et. al., [http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051](http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051) (Sample Student Projects)
 * “Doing Feminist Theory with Digital Video,” Rachel Alpha Johnston Hurst, [http://adanewmedia.org/2014/07/issue5-hurst/](http://adanewmedia.org/2014/07/issue5-hurst/) (Article)
 * “Extraordinary Materials,” Daniela K. Rosner, [http://dada.cca.edu/~drosner/materials/syllabus.html](http://dada.cca.edu/~drosner/materials/syllabus.html) (Syllabus)
 * "How Did They Make That?" Miriam Posner, [http://miriamposner.com/blog/how-did-they-make-that/](http://miriamposner.com/blog/how-did-they-make-that/) (Tech Showcase/How-To)
@@ -18,8 +17,6 @@ JENTERY: This is my shot at listing your institutional affiliation(s). Please fe
 * “The Wikiblitz: A Wikipedia Editing Assignment in a First Year Undergraduate Class (Spring 2012 version),” Shawn Graham, [http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/](http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/) (Class Exercise)
 * “Writing on Clay,” *A Better Pencil: Readers, Writers, and the Digital Revolution,* Dennis E. Baron, [http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA71#v=onepage&q=modeling%20clay&f=false](http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA71#v=onepage&q=modeling%20clay&f=false) (Class Exercise)
 
-JENTERY: Such a wonderful list! Thank you. Much appreciated. I'm especially struck by how persuasively it navigates boundary objects (such as the book) across the disciplines.  
-
 ## Curatorial Statement
 
 We understand *praxis* as thoughtful performance: a way of making and building less oriented toward the construction of end-products and more concerned with exposing the processes through which ideas become objects in space or actions in time. In the classroom, a praxis-oriented pedagogy helps students engage with theory through concrete action, and promotes understanding of the complex, playful, and materially-grounded ways in which theoretical or ideological concepts can be realized, exposed, critiqued, and iteratively generated. The pedagogical resources gathered here connect with *praxis* as an opportunity to:
@@ -29,17 +26,11 @@ We understand *praxis* as thoughtful performance: a way of making and building l
 * **critique an idea.** Students challenge or question existing concepts or ideologies by building or performing new alternatives.
 * **generate an idea.** New theories or concepts arise, often iteratively and playfully, through performance, construction of objects or systems, and embodied understanding.
 
-JENTERY: This fourfold definition of praxis is wonderfully concise yet flexible. Love it! Thanks! 
-
-Attention to *praxis* can encourage students to look beyond academic literature in developing an understanding of the content of a course. It can inspire them to contribute to knowledge representation and creation in new ways, and to move with confidence across disciplinary and professional boundaries. (See, for instance, the work of hairdresser Janet Stephens, now a published experimental archaeologist who has [untangled the mysteries](http://online.wsj.com/news/articles/SB10001424127887324900204578286272195339456) of Roman coiffures.) It can also foster life-long learning, as students move outward from our classrooms into the working world.
-
-JENTERY: Does that last gesture, "into the working world," neatly parse "work life" from "academic life"? Here, I'm especially thinking of our audiences for this project; they may include people at post-secondary institutions where students and staff are balancing jobs with their studies and bringing the working world into the classroom. Would you be willing to revise to better account for such situations and dynamics? 
+Attention to *praxis* can encourage students to look beyond academic literature in developing an understanding of the content of a course. It can inspire them to contribute to knowledge representation and creation in new ways, and to move with confidence across disciplinary and professional boundaries. (See, for instance, the work of hairdresser Janet Stephens, now a published experimental archaeologist who has [untangled the mysteries](http://online.wsj.com/news/articles/SB10001424127887324900204578286272195339456) of Roman coiffures.) It can also foster life-long learning, as students learn to negotiate more fluidly and at earlier stages between practices of classroom spaces and those of the working world.
 
 ### Our Own Pedagogy
 
-We have compiled these resources from the perspective of three digital humanities practitioners engaged in the extra-curricular mentoring and methodological training of graduate students across disciplines at a digital scholarship center: the University of Virginia [Scholars' Lab](http://scholarslab.org/). Almost everything we offer at the Scholars' Lab—from the contributions made by our internal research projects to our workshops and partnerships with faculty, our support of undergraduate research, and our hosted graduate fellowship programs—features *praxis* as [a central concern](http://scholarslab.org/about/charter/). We take an uncommon position for a library-based service unit, in that we are more oriented toward building up people, as mentors and partners, than toward building websites or tools as an on-request service. In our teaching, we are therefore always careful to emphasize *how* and *why* to make or do things, and to promote design thinking and reflective practice. *Praxis* is core to the ethos of the Scholars' Lab and to nearly all of our interactions with collaborators. We take this tack because we feel that students, scholars, and cultural heritage or information professionals alike need to engage more deeply with making and building as a way of knowing, in preparation for more active and hopeful futures for the humanities. 
-
-JENTERY: Here, some readers may respond, "more active and hopeful than . . .?" Does that make sense? Would you be willing to clarify your point of comparison here? Or would doing so let out the worms? 
+We have compiled these resources from the perspective of three digital humanities practitioners engaged in the extra-curricular mentoring and methodological training of graduate students across disciplines at a digital scholarship center: the University of Virginia [Scholars' Lab](http://scholarslab.org/). Almost everything we offer at the Scholars' Lab—from the contributions made by our internal research projects to our workshops and partnerships with faculty, our support of undergraduate research, and our hosted graduate fellowship programs—features *praxis* as [a central concern](http://scholarslab.org/about/charter/). We take an uncommon position for a library-based service unit, in that we are more oriented toward building up people, as mentors and partners, than toward building websites or tools as an on-request service. In our teaching, we are therefore always careful to emphasize *how* and *why* to make or do things, and to promote design thinking and reflective practice. *Praxis* is core to the ethos of the Scholars' Lab and to nearly all of our interactions with collaborators. We take this tack because we feel that students, scholars, and cultural heritage or information professionals alike need to engage more deeply with making and building as a way of knowing, in preparation for active and hopeful futures for 21st-century humanities. 
 
 A pedagogy of *praxis* appreciates built objects and working systems, but attends equally to processes and manners of making, and ensures that both are instructive.
 
@@ -47,17 +38,11 @@ A pedagogy of *praxis* appreciates built objects and working systems, but attend
 
 We have selected the following resources according to three broad principles.
 
-First, we chose resources that were open-access, available under fair use, or otherwise publicly available.
-
-JENTERY: Here again I'm just thinking about our audience (e.g., readers who don't know what fair use or fair dealing is). Would you be willing to elaborate on this point, if only by briefly defining or explaining the terms? Links / references may also serve this purpose. 
+First, we chose resources that were [open-access](http://en.wikipedia.org/wiki/Open_access), available to instructors under [fair use](http://en.wikipedia.org/wiki/Fair_use) or [fair dealing](http://en.wikipedia.org/wiki/Fair_dealing), or otherwise publicly accessible.
 
 Second, we wanted to include a range of resources: syllabi that discuss, organize, and present *praxis*-oriented theories and activities to students; sample lessons that themselves embody *praxis* in the sense that they detail processes and outline possible, theoretically-informed outcomes; reflective demonstrations of completed projects or showcases of the tools and processes that have gone into making a particular project, object, or system; and articles that discuss the importance of *praxis* for teaching and learning. It was important to us to include resources that varied in type or format and in domain of application, to show that *praxis* can enter the classroom in a variety of ways.
 
-JENTERY: Two things occur to me here, neither of which warrants a response or revision: for this work, how does "philosophy" differ from "theory"? Or are they synonymous? Also, to what degree does physical place, or the classroom, matter for praxis? For instance, would your model work for instructors of online courses? Or how does its infrastructure and everyday overlap (if at all) with the shops and studios where trades are taught on many campuses? 
-
 Finally, we felt it important to select resources that demonstrate the interconnected, symbiotic relationships among *praxis,* theory, and product. All of these resources highlight this importance: that none can or should be understood to exist in isolation, and exploring one should necessarily mean exploring the others. We feature resources that, in our view, succeed in demonstrating that the best way to learn is through *active engagement*. These resources do not just talk about the importance of *praxis* in the abstract: they provide examples of embodied, theoretically-informed learning in action.
-
-JENTERY: This closing gesture, which stresses activity and embodiment, opens up a nice space for conversation with [our entry on "Work"](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/work.md). The editorial team is currently developing ways to encourage these cross-keyword conversations in a networked environment. We will keep you posted. 
 
 ## Curated Resources
 
@@ -68,9 +53,7 @@ JENTERY: This closing gesture, which stresses activity and embodiment, opens up 
 * Copy of the Resource: [files/bibliocircuitry.pdf](files/bibliocircuitry.pdf)
 * Name of Creator: Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, Kathryn Skutlin
 
-An article detailing student exploration of the concept of *reflective design* through projects that investigate the book as interface. This activity perfectly highlights the way that exposure to and emphasis on process leads to unforeseen insight. These student authors also emphasize that *digital* work requires consideration of hardware and physical/tactile design. Instructors inspired by this article might select a particular type of object and ask students to devise ways to alter or enhance the ways users can interact with it.
-
-JENTERY: Would you be willing to develop the last sentence (about alteration or enhancement), adding a potential learning outcome/expectation? 
+An article detailing student exploration of the concept of *reflective design* through projects that investigate the book as interface. This activity perfectly highlights the way that exposure to and emphasis on process leads to unforeseen insight. These student authors also emphasize that *digital* work requires consideration of hardware and physical/tactile design. Instructors inspired by this article might select a particular type of object and ask students to devise ways to alter or enhance users' interaction with it. Students would demonstrate learning not only through their work in designing/redesigning objects, but through oral or written presentations of them (much as the student authors of this article have done).
 
 ### “Doing Feminist Theory through Digital Video”
 * Screenshot:![screen shot](images/feminist-theory.jpg)
@@ -113,17 +96,13 @@ Nina Belojevic provides an introduction and rationale for the *Kits for Cultural
 * Name of Creator: [T. Mills Kelly](http://edwired.org/)
 * Attribution Information: T. Mills Kelly is Associate Professor of [History at George Mason University](http://historyarthistory.gmu.edu/) and Associate Director of the [Roy Rosenzweig Center for History and New Media](http://chnm.gmu.edu/).
 
-Mills Kelly has taught several iterations of an undergraduate history course entitled "Lying about the Past." The course conveys historical research methods and ethics by asking students to examine and debunk historical hoaxes. For their final projects, students create a convincing hoax of their own. [The results](http://www.theatlantic.com/technology/archive/2012/05/how-the-professor-who-fooled-wikipedia-got-caught-by-reddit/257134/) have been explosive. Alongside the emphasis on understanding history by re-shaping it, we find this an excellent example of a praxis-based syllabus, in which it's clear that Kelly considers his students to be his collaborators, and depends on their active engagement to shape the course.
-
-JENTERY: Would you be willing to reference material that details how students act as collaborators? For instance, how is this collaborative paradigm articulated in course policies or enacted through workshops? Is there material along these lines? If not, then no worries. 
+Mills Kelly has taught several iterations of an undergraduate history course entitled "Lying about the Past." The course conveys historical research methods and ethics by asking students to examine and debunk historical hoaxes. For their final projects, students create a convincing hoax of their own. [The results](http://www.theatlantic.com/technology/archive/2012/05/how-the-professor-who-fooled-wikipedia-got-caught-by-reddit/257134/) have been explosive. Alongside the emphasis on understanding history by re-shaping it, we find this an excellent example of a praxis-based syllabus, in which Kelly makes it clear that he considers his students as collaborators, and depends on their active engagement to shape the course.
 
 ### The Scholars' Lab Praxis Program and Praxis Network
 * Screenshot: ![screenshot](images/praxisnetwork.jpg)
 * Source URL: [http://praxis-network.org/](http://praxis-network.org/)
 
-The [Praxis Program](http://praxis.scholarslab.org) is an extracurricular attempt to reimagine graduate training in the humanities for the demands of the digital age. Each year, the Scholars' Lab brings together six graduate students from across the humanities and social sciences to theorize, design, build, and reflect on the process of constructing a digital tool.  Praxis Fellows work alongside the Scholars' Lab staff throughout the cycle of creating and launching a digital project. The Praxis Network was inspired by the Scholars' Lab [Praxis Program](http://praxis.scholarslab.org) and by Michigan State University's [Cultural Heritage Informatics (CHI) Initiative](http://chi.anthropology.msu.edu/) and [CHI Fieldschool](http://chi.anthropology.msu.edu/fieldschool/). Both programs exemplify differing approaches to collaborative, humanities-based digital methods training. The Network gathers together 6 additional international models to enable institutions seeking to develop similar efforts to compare missions, structures, research foci, funding models, and strategic directions of successful sister programs.
-
-JENTERY: I see the charter is mentioned elsewhere in this entry. Would you be willing to include it here, too? Or would that be redundant? It's such a great resource for instructors and students alike!  
+The [Praxis Program](http://praxis.scholarslab.org) is an extracurricular attempt to reimagine graduate training in the humanities for the demands of the digital age. Each year, the Scholars' Lab brings together six graduate students from across the humanities and social sciences to theorize, design, build, and [reflect on the process](http://connect.clir.org/blogs/bethany-nowviskie/2014/11/20/charter-ing-a-path) of constructing a digital tool.  Praxis Fellows work alongside the Scholars' Lab staff throughout the cycle of creating and launching a digital project. The Praxis Network was inspired by the Scholars' Lab [Praxis Program](http://praxis.scholarslab.org) and by Michigan State University's [Cultural Heritage Informatics (CHI) Initiative](http://chi.anthropology.msu.edu/) and [CHI Fieldschool](http://chi.anthropology.msu.edu/fieldschool/). Both programs exemplify differing approaches to collaborative, humanities-based digital methods training. The Network gathers together 6 additional international models to enable institutions seeking to develop similar efforts to compare missions, structures, research foci, funding models, and strategic directions of successful sister programs.
 
 ### “Victorian Literature + Victorian Informatics”
 * Screenshot: ![screenshot](images/victorian-literature.jpg)
@@ -131,9 +110,8 @@ JENTERY: I see the charter is mentioned elsewhere in this entry. Would you be wi
 * Name of Creator: [Rachel Sagner Buurma](http://rachelsagnerbuurma.org/)
 * Attribution Information: Rachel Sagner Buurma is an associate professor in the [Department of English Literature](http://www.swarthmore.edu/english-literature) at [Swarthmore College](http://www.swarthmore.edu).
 
-Victorian Literature and Victorian Informatics is a richly detailed English syllabus exploring "canonical Victorian literature through the lens of Victorian Information theory and knowledge organization practices." Buurma blends close, middle-distant, and distant reading techniques with an emphasis on digital methods for re-reading/re-making literary texts. With a variety of workshops, demonstrations, discussions, and readings, Buurma's syllabus is exemplary in its incorporation of fresh critical methods and interpretative tools into familiar material. Related readings, tools, and workshops could be readily incorporated into an existing course, or a new course could be developed along a similar, topical and content-based model.
+Victorian Literature and Victorian Informatics is a richly detailed English syllabus exploring "canonical Victorian literature through the lens of Victorian Information theory and knowledge organization practices." Buurma blends close, middle-distant, and distant reading techniques with an emphasis on digital methods for re-reading/re-making literary texts. With its variety of workshops, demonstrations, discussions, and readings, Buurma's syllabus is exemplary in incorporating fresh critical methods and interpretative tools into a more familiar and canonical reading list. Instructors experimenting with this model could readily incorporate related readings, tools, and workshops into a smaller unit within an existing course, but it is also easy to imagine developing a new one, organized along similar topical or thematic lines. The key innovation here is the integration of digital humanities methods and skill-building into a content-based course, rather than positioning *praxis* as something that stands alone, outside the core curriculum.
 
-JENTERY: Here, would you be willing to more directly address (if only in a sentence) how this course demonstrates the ways in which praxis (or digital methods) can be integrated into existing curricula? For many of our readers, such an integration (as opposed to developing standalone DH courses) may be very important. 
 
 ### “The Wikiblitz: A Wikipedia Editing Assignment in a First Year Undergraduate Class (Spring 2012 version)”
 
