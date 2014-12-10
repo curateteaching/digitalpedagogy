@@ -17,7 +17,7 @@ For quick reference, provide a bulleted list of the ten pedagogical artifacts fe
 
 Example: "English 101," Pat Patterson, university.edu/101syllabus.pdf (syllabus)
 
-Sample project types include:
+Sample artifacts include:
 * Syllabus
 * Essay (avoid reflective essay)
 * Teaching Guidelines
