@@ -9,9 +9,9 @@ Please email your assigned editor with any questions or concerns. Your assigned 
 ## 1. Author Name(s)
 Institutional Affiliation & Website
 
-## 2. Bulleted List of Curated Pedagogical Resources
+## 2. Bulleted List of Curated Pedagogical Artifacts
 
-For quick reference, provide a bulleted list of the ten pedagogical resources featured in your keyword entry. Please provide ten resources. No more, no less. 
+For quick reference, provide a bulleted list of the ten pedagogical artifacts featured in your keyword entry. Please provide ten artifacts. No more, no less. These artifacts should reflect what you and others use to teach your keyword. What teaching and learning projects do you turn to when crafting your teaching materials? What prompts or assignments have inspired you? Which or whose syllabi have you borrowed from, revised, or built upon?
 
 * "Title," Creator, URL (Project Type)
 
@@ -30,7 +30,7 @@ Sample project types include:
 
 ## 3. Curatorial Statement (roughly 750-800 words, MLA Format)
 
-The curatorial statement expresses your vision of the keyword — what it means in a pedagogical context and how you approached the task of curating pedagogical resources around it. Statements can include some or all of the following: 
+The curatorial statement expresses your vision of the keyword — what it means in a pedagogical context and how you approached the task of curating pedagogical artifacts around it. Statements can include some or all of the following: 
 
 * Vision statement (how do you envision or understand this keyword and its relation to pedagogy?)
 * Scholarly rationale for selections 
