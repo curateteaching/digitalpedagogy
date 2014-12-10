@@ -33,25 +33,25 @@ Hashtag for news and updates: [#curateteaching](https://twitter.com/hashtag/cura
 * Gender
 * Hacking
 * History
-* Hybrid
+* [Hybrid](keywords/hybrid.md)
 * Information
-* Interface
+* [Interface](keywords/interface.md)
 * Makerspace
 * Multimodal 
 * Open
 * Peer Review
 * Play
-* Praxis
+* [Praxis](keywords/praxis.md)
 * Professionalization
 * Project Management
 * Prototyping
 * Public
-* Queer
+* [Queer](keywords/queer.md)
 * Race
 * Remix
-* Rhetoric
+* [Rhetoric](keywords/rhetoric.md)
 * Sexuality
 * Storytelling
 * Text Analysis
-* Video
+* [Video](keywords/video.md)
 * Work
