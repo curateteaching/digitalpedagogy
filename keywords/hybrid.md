@@ -51,7 +51,7 @@ Finally, the keyword "hybrid" suggests a methodology for teachers to employ in c
 ## CURATED ARTIFACTS
 
 ### "A Million Blue Pages"
-* Screenshot: forthcoming
+* Screenshot forthcoming
 * Source URL: http://amillionbluepages.net/ 
 * Copy of Artifact: forthcoming
 * Creator: Zach Whalen (University of Mary Washington)
@@ -61,7 +61,7 @@ The novel *House of Leaves* has produced an extensive network of digital margina
 REBECCA: Please limit your annotations to 150 words.  You might cut some of the background to the resource you include, especially, "I had just taught the novel that Summer, so I watched with rapt attention."
 
 ### "A 12-week Assignment to Write a Wikipedia Article"
-* Screenshot: forthcoming
+* Screenshot forthcoming
 * Source URL: http://outreach.wikimedia.org/wiki/Education/Syllabi
 * Copy of Artifact: forthcoming
 * Creator: Wikimedia Foundation
@@ -71,7 +71,7 @@ This resource is a guide to constructing an assignment that has students contrib
 REBECCA: Please limit your annotations to 150 words.
 
 ### "Twitter vs. Zombies"
-* Screenshot: forthcoming
+* Screenshot forthcoming
 * Source URL: http://twittervszombies.com/
 * Copy of Artifact: forthcoming
 * Creators: Pete Rorabaugh (Southern Polytechnic State University) and Jesse Stommel (University of Wisconsin-Madison)
@@ -81,7 +81,7 @@ REBECCA: Please limit your annotations to 150 words.
 REBECCA: Please limit your annotations to 150 words. What do you mean by "the teacher is part and parcel." Part and parcel of what?
 
 ### "Occupy Class"
-* Screenshot: forthcoming
+* Screenshot forthcoming
 * Source URL: http://occupyclass.org/
 * Copy of Artifact: forthcoming
 * Creator: Pete Rorabaugh (Southern Polytechnic State University)
@@ -89,7 +89,7 @@ REBECCA: Please limit your annotations to 150 words. What do you mean by "the te
 “Occupy Class” is a site designed by the students in Pete Rorabaugh’s Spring 2012 course in Electronic Writing and Publishing at Georgia State University. According to Rorabaugh’s [description of the class](http://mediacommons.futureofthebook.org/imr/2013/03/07/building-context-occupy-class-and-media-res), the goal was “for students to design, compose, edit, and publish their own content to the web that documented the unfolding narrative of Occupy.” For me, pedagogy is never ideologically neutral, and a hybrid teaching strategy can’t be about merely moving students from a closed physical space (the classroom) to a closed digital one (the learning management system). The work illustrated through Occupy Class is deeply connected to Critical Pedagogy and aims itself at helping learners understand how they are situated -- actively, politically, and with agency -- inside their much larger local and global communities. This is about not only having students do work for an authentic audience, but also having teachers and learners alike show up as full (and ethical) participants in those communities.
 
 ### "Twitter Adoption Matrix"
-* Screenshot: forthcoming
+* Screenshot forthcoming
 * Source URL: http://chronicle.com/blogs/profhacker/a-framework-for-teaching-with-twitter/26223
 * Copy of Artifact: forthcoming
 * Creator: Rick Reo (George Mason University) and Mark Sample (Davidson College)
@@ -99,7 +99,7 @@ I am not a fan of rubrics, because they reduce dynamic (and often delightfully c
 REBECCA: Please limit your annotations to 150 words. Again you might cut some of the personal commentary.  You might also consider moving this matrix to the resource list and replacing it with a different pedagogical resource that isn't twitter-based.  I'm not committed to that change, but I will note that you run the risk of this seeming like a twitter-heavy list of resources.
 
 ### "Note Tweeting"
-* Screenshot: forthcoming
+* Screenshot forthcoming
 * Source URL: http://www.sadiron.com/teaching/tweeting-class-discussion-and-notes/
 * Copy of Artifact: forthcoming
 * Creator: Chuck Rybak (University of Wisconsin-Green Bay)
@@ -109,7 +109,7 @@ Chuck Rybak offers here an excellent example of how he has students using Twitte
 REBECCA: Please limit your annotations to 150 words.
 
 ### "A Public Literary Twitter Role-Play"
-* Screenshot: forthcoming
+* Screenshot forthcoming
 * Source URL: http://shelleysfrankenstein.wordpress.com/frankenstein-a-public-literary-twitter-role-play-on-twitter/
 * Copy of Artifact: forthcoming
 * Creator: Petra Dierkes-Thrun (Stanford University)
@@ -119,7 +119,7 @@ Petra Dierkes-Thrun has run several iterations of the Public Literary Twitter Ro
 REBECCA: Please limit your annotations to 150 words.
 
 ### "Social Media Design and Build"
-* Screenshot: forthcoming
+* Screenshot forthcoming
 * Source URL: http://kathiiberens.com/teaching/sample-syllabi/design-build/
 * Copy of Artifact: forthcoming
 * Creator: Kathi Inman Berens (USC Annenberg)
@@ -129,7 +129,7 @@ This syllabus, from Kathi Inman Berens for a Social Media course at USC Annenber
 REBECCA: Please limit your annotations to 150 words
 
 ### "Spine Poetry"
-* Screenshot: forthcoming
+* Screenshot forthcoming
 * Source URL: http://spinepoetry.com/
 * Copy of Artifact: forthcoming
 * Creator: Kathi Inman Berens (USC Annenberg), Lans Nelson, Carrie Padian, Ken Schultz, Jesse Stommel (University of Wisconsin-Madison), Jessica Zisa
@@ -139,7 +139,7 @@ In winter 2013, I co-taught with Kathi Inman Berens a small seminar comprised of
 REBECCA: Please limit your annotations to 150 words. Can you comment on how this resource meets the criteria of hybrid, as a keyword?
 
 ### "Guidelines for Public, Student Class Blogs: Ethics, Legalities, FERPA and More"
-* Screenshot: forthcoming
+* Screenshot forthcoming
 * Source URL: http://www.hastac.org/blogs/cathy-davidson/2012/11/30/guidelines-public-student-class-blogs-ethics-legalities-ferpa-and-mo
 * Copy of Artifact: forthcoming
 * Creator: Kevin Smith (Duke University)
