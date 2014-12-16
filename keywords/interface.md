@@ -22,6 +22,7 @@ University of Southern California | Annenberg School of Communication | [Website
 
 Anyone who has rearranged classroom chairs from rows into a circle knows that the physical space of the classroom shapes the dynamic interaction of learning.  Now that digital interfaces have untethered collaborative learning from the physical classroom, "the classroom" is a heuristic that manifests itself more variously than it did when it was primarily an efficient oral distribution system for learning.  Florian Cramer and Matthew Fuller remind us that interface is a term "borrowed from chemistry, where it means 'a surface forming a common boundary of two bodies, spaces, phases'" (149).  Digital interfaces offer humanists many new "common boundaries" where traditional goals of humanist inquiry such as "the interrogative as a condition of knowing" (Fyfe) can be practiced and realized through innovative use of digital tools.
 
+
 The ten resources featured in this chapter make use of a broad range of pedagogical interfaces, which I define as the space where learners, curricula, digital environments and teachers work in tandem.  The exemplary assignments and sustained projects featured here are both the prods and the byproducts of such interactivity.  They highlight different aspects of pedagogical interface excellence.  They share the common trait of mindful attention to use and reception.  No one tool is the perfect solution for learning, which is why templatized online classroom modules should rouse our skepticism.  Digital tools and even settings (such as video meeting software) are fungible.  The best pedagogical uses of interface begin with a faculty member's hypothesis of what specifically students will learn through digital exploration and making. 
 
 People who are made nervous by the notion that digital interfaces might replace face-to-face learning and its dynamics of critical examination and reflection may be heartened to see, in the ten resources featured here, a bold and vigorous notion of how digital tools energize the embodied classroom experience.  Computational thinking enables a bi-focal view of the physical classroom as a workspace.  Burgess' students "translate" a Shakespeare sonnet into various medial forms, for example, building in four iterations of the same sonnet beginning with tactile 3D art to authoring the sonnet as an executable computer program.  Cordell's students in a history of technology course replicate the conditions of the medieval scriptorium, hand-transcribing letters by candlelight around a seminar table (with the Boston fire marshal observing from the periphery!).  In the same way that e-books and electronic literature "enstrange" the printed book as a unique medial artifact with its own distinct attributes, so too digital pedagogical interfaces reveal aspects of learning that might previously have been invisible.  Synchronicity and physical co-presence are no longer necessary to learning, but it's freshly relevant they are remarkably efficient and sensory-rich contexts for learning, particularly when enhanced with students' practical use of digital tools.  
@@ -115,12 +116,17 @@ In the "Twitter Essay," Jesse Stommel exhorts students to convert their expertis
 Netprov, the text/image art game installed in social media platforms, is an ideal interface for teaching visual rhetoric, dramatic irony and mobility.  Created as a collaboration across disciplines (art and writing) and across the country (Duluth and L.A.), Wittig and Marino teach students how to compose images, caption them, and collaborate with a large, crowdsourced group.  Students and faculty author alongside each other.  "Students have passive visual literacy.  They understand natively how to compose shots; a Netprov activates that knowledge," Wittig notes.  Netprov concepts should be immediately apprehensible in one definitive example.  The image of Wittig taking a selfie of himself giving up technology while walking through the woods is a visually arresting, ironic and mobile image.  Netprovs look deceptively simple, but in fact they are literary games that require conceptual planning, image and Tweet build-up before installation, and game challenges issued mid-week to spur participation through the end of the installation.
 
 ## RELATED MATERIALS 
-* Miriam Posner, "How Did They Make That? The Video!" http://miriamposner.com/blog/how-did-they-make-that-the-video/	
-* Electronic Literature Organization, "Showcase of Electronic Literature," http://eliterature.org/
-* Howard Rheingold, "The Peeragogy Handbook," http://peeragogy.org/
-* Lori Emerson, *Reading Writing Interfaces: From the Digital to the Bookbound*, 
+
+Miriam Posner, "How Did They Make That? The Video!" http://miriamposner.com/blog/how-did-they-make-that-the-video/	
+
+Electronic Literature Organization, "Showcase of Electronic Literature," http://eliterature.org/
+
+Howard Rheingold, "The Peeragogy Handbook," http://peeragogy.org/
+
+Lori Emerson, *Reading Writing Interfaces: From the Digital to the Bookbound*, 
 https://www.upress.umn.edu/book-division/books/reading-writing-interfaces
-* Alan Liu, "DH Tools Wiki," http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools							
+
+Alan Liu, "DH Tools Wiki," http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools							
 
 ## WORKS CITED
 
