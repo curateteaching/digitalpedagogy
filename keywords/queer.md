@@ -46,7 +46,7 @@ possibility for another world. --Jose Esteban Munoz, *Cruising Utopia*
 ## CURATED ARTIFACTS
 
 ### "Refracting the Digital Humanities"
-![screenshot][images/screenshot01_refracting.jpg]
+![screenshot](images/screenshot01_refracting.jpg)
 * Source URL: http://thejarahtree.com/2014/07/05/refracting-digital-humanities/
 * Copy of Artifact: forthcoming
 * Creator: Jarah Moesch (University of Maryland, College Park)
