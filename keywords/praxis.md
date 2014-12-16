@@ -6,10 +6,8 @@ URL: keywords/praxis.md
 author: 
 - family: Nowviskie
   given: Bethany
-author: 
 - family: Boggs
   given: Jeremy
-author: 
 - family: Lindblad
   given: J. K. Purdom
 editor: 
