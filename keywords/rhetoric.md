@@ -15,7 +15,8 @@ type: book
 
 # RHETORIC 
 
-### Douglas Eyman | George Mason University 
+### Douglas Eyman 
+George Mason University 
 
 ## CURATORIAL STATEMENT
 
@@ -68,7 +69,7 @@ Aristotle's _On Rhetoric_ is one of the foundational texts of the Western rhetor
 > MATT: what about the style is challenging? Can you be more specific? Also, you mention that you assign it but don’t say what you have students do with it; a sentence describing the types of things instructors might ask students to do with this resource might be useful.
 
 ### Silva Rhetoricae: The Forest of Rhetoric
-![Screenshot: Gideon Burton's Silva Rhetoricae](images/silvarhetoricae.png) 
+![Screenshot: Gideon Burton's Silva Rhetoricae](images/sivlarhetoricae.png) 
 * Source URL: http://rhetoric.byu.edu/ 
 * Copy of Artifact: forthcoming 
 * Creator: Gideon Burton (Brigham Young University)
