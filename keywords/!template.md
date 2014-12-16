@@ -23,12 +23,6 @@ The curatorial statement expresses your vision of the keyword — what it means 
 
 ## CURATED ARTIFACTS (ten artifacts, each with metadata, a screenshot, and a 150-word annotation)
 
-For quick reference, provide a bulleted list of the ten pedagogical artifacts featured in your keyword entry. Please provide ten artifacts. No more, no less. T
-
-* "Title," Creator, URL (Project Type)
-
-Example: "English 101," Pat Patterson, university.edu/101syllabus.pdf (syllabus)
-
 Select ten pedagogical artifacts (no more, no less) to feature for your keyword. The emphasis should be the everyday stuff of teaching, not after-the-fact reflections on teaching. These artifacts should demonstrate what you and others use to teach your keyword. What teaching and learning projects do you turn to when crafting your teaching materials? What prompts or assignments have inspired you? Which or whose syllabi have you borrowed from, revised, or built upon? Put this way, pedagogical artifacts may include (but are not limited to) syllabi, teaching guidelines, assingments, lesson plans, course sites, learning objective, collaborative projects, and even student work. 
 
 For each of your ten artifacts, please provide: 
