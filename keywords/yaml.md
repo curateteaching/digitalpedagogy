@@ -2,7 +2,7 @@
 title: Digital Pedagogy in the Humanities
 subtitle: Concepts, Models, and Experiments 
 chapter: Hybrid
-URL: https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/hybrid.md
+URL: hybrid.md
 author: 
 - family: Stommel
   given: Jesse
@@ -145,3 +145,49 @@ REBECCA: Please limit your annotations to 150 words. Can you comment on how this
 * Creator: Kevin Smith (Duke University)
 
 I’ve said elsewhere that [Ferpa is not an excuse for bad pedagogy](https://twitter.com/Jessifer/status/441755367924436992). In this resource, Kevin Smith, Duke University’s Director of Copyright and Scholarly Communication, offers information (not to be confused with a legal opinion, as noted on the site) on the ethics and legalities of having students doing public work. Specifically, he tackles various methods for addressing FERPA concerns when having students working on public blogs. In short, inform students of the requirement from the start, offer the option of anonymity, remind students not to post private information, and consider offering an alternative if a student has major concerns about doing public work even under an alias. FERPA is in place to protect students, not to put artificial limits on their learning. As with any pedagogical decision, I suggest that our first concern be on protecting student agency -- ultimately, learners not teachers should make the critical choices about what, when, how, and where they learn.
+
+## WORKS CITED
+
+Bhabha, Homi. "The Commitment to Theory." *The Location of Culture*. Routledge: London, 2004.
+
+Cormier, Dave. "Rhizomatic Education: Community as Curriculum." [http://davecormier.com/edblog/2008/06/03/rhizomatic-education-community-as-curriculum/]
+
+Dierkes-Thrun, Petra. "A Public Literary Twitter Role-play." [shelleysfrankenstein.wordpress.com/frankenstein-a-public-literary-twitter-role-play-on-twitter/]
+
+Friend, Chris. "On Vocabulary: 'Blended Learning' vs. 'Hybrid Pedagogy.'" [chrisfriend.us/Blog/files/blended-vs-hybrid.php]
+
+Haraway, Donna. "A Cyborg Manifesto." [http://www.egs.edu/faculty/donna-haraway/articles/donna-haraway-a-cyborg-manifesto/]
+
+Inman Berens, Kathi. "The New Learning is Ancient." [kathiiberens.com/teaching/philosophy/]
+
+Inman Berens, Kathi. "Social Media Design and Build." [kathiiberens.com/teaching/sample-syllabi/design-build/]
+
+Inman Berens, Kathi, Lans Nelson, Carrie Padian, Ken Schultz, Jesse Stommel, and Jessica Zisa. "Spine Poetry." [www.spinepoetry.com]
+
+Koh, Adeline. "Seminar in Feminist Theory" [http://www.adelinekoh.org/blog/2014/08/20/syllabus-draft-gis-3614-seminar-in-feminist-theory-fall-2014/]
+
+Kraidy, Marwan M. *Hybridity*.
+
+Morris, Sean Michael and Jesse Stommel. "The Discussion Forum is Dead; Long Live the Discussion Forum." [www.hybridpedagogy.com/journal/the-discussion-forum-is-dead-long-live-the-discussion-forum/]
+
+Rheingold, Howard. *Net Smart*. 
+
+Rio, Rick and Mark Sample. "Twitter Adoption Matrix." [chronicle.com/blogs/profhacker/a-framework-for-teaching-with-twitter/26223]
+
+Rorabaugh, Pete. "Occupy Class." [occupyclass.org].
+
+Rorabaugh, Pete and Jesse Stommel. "Twitter vs. Zombies." [www.twittervszombies.com] 
+
+Rybak, Chuck. "Note Tweeting." [www.sadiron.com/teaching/tweeting-class-discussion-and-notes/]
+
+Smith, Kevin. "Guidelines for Public, Student Class Blogs: Ethics, Legalities, FERPA and More." *HASTAC*. [www.hastac.org/blogs/cathy-davidson/2012/11/30/guidelines-public-student-class-blogs-ethics-legalities-ferpa-and-mo]
+
+University of Central Florida. "Blended Learning Toolkit." [http://blended.online.ucf.edu]
+
+Whalen, Zach. "A Million Blue Pages." [amillionbluepages.net]
+
+Wikimedia Foundation. "A 12-week assignment to write a Wikipedia article." [outreach.wikimedia.org/wiki/Education/Syllabi]
+
+*Some language in the Curatorial Statement is drawn directly from:* 
+
+Stommel, Jesse. "Hybridity, pt. 2: What is Hybrid Pedagogy?" *Hybrid Pedagogy*. [http://www.hybridpedagogy.com/Journal/hybridity-pt-2-what-is-hybrid-pedagogy/]
