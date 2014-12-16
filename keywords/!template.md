@@ -6,29 +6,12 @@
 
 Please email your assigned editor with any questions or concerns. Your assigned editor is the person who contacted you with details about this template.
 
-## 1. Author Name(s)
-Institutional Affiliation & Website
+# KEYWORD
 
-## 2. Bulleted List of Curated Pedagogical Artifacts
+## AUTHOR(S)
+Institutional Affiliation | Website
 
-For quick reference, provide a bulleted list of the ten pedagogical artifacts featured in your keyword entry. Please provide ten artifacts. No more, no less. These artifacts should reflect what you and others use to teach your keyword. What teaching and learning projects do you turn to when crafting your teaching materials? What prompts or assignments have inspired you? Which or whose syllabi have you borrowed from, revised, or built upon?
-
-* "Title," Creator, URL (Project Type)
-
-Example: "English 101," Pat Patterson, university.edu/101syllabus.pdf (syllabus)
-
-Sample project types include:
-* Syllabus
-* Essay (avoid reflective essay)
-* Teaching Guidelines
-* Assignment
-* Lesson Plan 
-* Website (with pedagogical materials)
-* Collaborative Project
-* Co-authored Document 
-* University/College Initiative 
-
-## 3. Curatorial Statement (roughly 750-800 words, MLA Format)
+## CURATORIAL STATEMENT (roughly 750-800 words, MLA Format)
 
 The curatorial statement expresses your vision of the keyword — what it means in a pedagogical context and how you approached the task of curating pedagogical artifacts around it. Statements can include some or all of the following: 
 
@@ -38,28 +21,36 @@ The curatorial statement expresses your vision of the keyword — what it means 
 * Important issues (why teach this now? why does this topic matter for students? for faculty? for a field? what makes this keyword unique or exemplary for digital pedagogy?) 
 * Particular intersections with your pedagogical philosophy/teaching conditions (how and where do you teach issues related to this keyword? in what course(s)? with what learning expectations/outcomes in mind? with or without what resources? what are your students' backgrounds, interests, or investments?) 
 
-## 4. Curated Pedagogical Artifacts (ten artifacts, each with metadata, a screenshot, and a 150-word annotation)
+## CURATED ARTIFACTS (ten artifacts, each with metadata, a screenshot, and a 150-word annotation)
 
-Select ten pedagogical artifacts to feature for your keyword. The emphasis is on curating pedagogical artifacts for each keyword -- the everyday stuff of teaching -- more than second-hand reflections on teaching. Each artifact should include: 
+## 2. Bulleted List of Curated Pedagogical Artifacts
+
+For quick reference, provide a bulleted list of the ten pedagogical artifacts featured in your keyword entry. Please provide ten artifacts. No more, no less. T
+
+* "Title," Creator, URL (Project Type)
+
+Example: "English 101," Pat Patterson, university.edu/101syllabus.pdf (syllabus)
+
+Select ten pedagogical artifacts (no more, no less) to feature for your keyword. The emphasis should be the everyday stuff of teaching, not after-the-fact reflections on teaching. These artifacts should demonstrate what you and others use to teach your keyword. What teaching and learning projects do you turn to when crafting your teaching materials? What prompts or assignments have inspired you? Which or whose syllabi have you borrowed from, revised, or built upon? Put this way, pedagogical artifacts may include (but are not limited to) syllabi, teaching guidelines, assingments, lesson plans, course sites, learning objective, collaborative projects, and even student work. 
+
+For each of your ten artifacts, please provide: 
 
 * Screenshot (PNG or JPG), titled “keyword artifact name,” e.g. “work AfAm syllabus.png”
 * Source URL 
-* A Copy of the Artifact (in HTML, PDF, DOCX, TXT, MD, RTF, MP3, MP4, MOV, PNG, or JPG), if possible 
-* Name of Creator
-* Attribution Information (Author, University/College) 
+* Copy of the Artifact (in HTML, PDF, DOCX, TXT, MD, RTF, MP3, MP4, MOV, PNG, or JPG), if possible 
+* Creator and Affiliation
 * An annotation of **no more than 150 words** that includes:
-	* Brief statement of Aim/Purpose of the Artifact (what is it?) 
-	* Brief statement on Its Relevance to the Keyword (why is it important/useful, what does it do well, how does it exemplify digital pedagogy) 
-	* Guidelines for Use (how to integrate it into a course, what might need revision/adaptation)
+	* Brief statement of aim/purpose of the artifact (what is it?) 
+	* Brief statement on its relevance to your keyword (why is it important/useful, what does it do well, how does it exemplify digital pedagogy) 
+	* Guidelines for use (how to integrate it into a course, what might need revision/adaptation)
 
-We have begun a list of FAQ in a ReadMe file (https://github.com/curateteaching/digitalpedagogy/blob/master/README.md) in addition to a description of the project (https://github.com/curateteaching/digitalpedagogy/blob/master/description.md) and all other keywords (https://github.com/curateteaching/digitalpedagogy/blob/master/listOfKeywords.md). We have not yet publicized the list of keywords or the description and ask that for now we keep them private.
+We have begun a list of FAQ in a ReadMe file (https://github.com/curateteaching/digitalpedagogy/blob/master/README.md) in addition to a description of the project (https://github.com/curateteaching/digitalpedagogy/blob/master/description.md) and all other keywords (https://github.com/curateteaching/digitalpedagogy/blob/master/listOfKeywords.md). 
 
-Feel free to push these artifacts to a server for remote access, and then send us the URL. In your Markdown file, you can just include file names (e.g., keyword screenshot1.png) for our reference, with the annotations and other information following them. Ultimately, all of your artifacts will be intergrated in this repository (curateteaching/digitalpedagogy). 
+Feel free to push these artifacts to a server for remote access, and then send us the URL. Or you can create your own GitHub repo for this work. In your Markdown file, you can just include file names (e.g., keyword screenshot1.png) for our reference, with the annotations and other information following them. Ultimately, all of your artifacts will be intergrated in this repository (curateteaching/digitalpedagogy). 
 
 Once we receive your entry, we will review and edit it (where necessary), return the proof to you (for approval/revision), and then forward the approved proof to the MLA. Later, the keyword and the entire *Digital Pedagogy in the Humanities* collection will be made available online (open access) for open review. That said, please let us know if you have any questions or concerns about the open review process, or about rendering your work discoverable online. In the interests of transparency, I should note that we are still fleshing out the particulars of this review process with the MLA, and we want to keep our curators' needs and interests in mind as we do so.  
 
-
-## 5. Related Materials (Bulleted List)
+## RELATED MATERIALS
 
 In MLA format, list five related items that are informative for teaching with your keyword in mind. **Please only include five items. No more, no less.**
 
@@ -73,7 +64,7 @@ Items may include:
 * Blog post 
 * Website
 
-## 6. Works Cited 
+## WORKS CITED
 
 A works cited for all references in your entry, including your ten resources, your five related materials, and anything referenced in your curatorial statement.  
 
