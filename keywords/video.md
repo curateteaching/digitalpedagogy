@@ -182,4 +182,4 @@ Bump Halbritter, “Big Questions, Small Works, Lots of Layers: Documentary Vide
 
 ## WORKS CITED
 
-JENTERY: Just send this along when it's ready. (Apologies if I missed it!) Thanks! 
+    JENTERY: Just send this along when it's ready. (Apologies if I missed it!) Thanks! 
