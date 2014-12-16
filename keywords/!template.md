@@ -23,8 +23,6 @@ The curatorial statement expresses your vision of the keyword — what it means 
 
 ## CURATED ARTIFACTS (ten artifacts, each with metadata, a screenshot, and a 150-word annotation)
 
-## 2. Bulleted List of Curated Pedagogical Artifacts
-
 For quick reference, provide a bulleted list of the ten pedagogical artifacts featured in your keyword entry. Please provide ten artifacts. No more, no less. T
 
 * "Title," Creator, URL (Project Type)
