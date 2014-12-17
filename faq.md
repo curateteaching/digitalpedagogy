@@ -13,10 +13,10 @@ A: The keyword should speak to a range of assignments/institutions, with a privi
 A: See the draft list of keywords included in this repository.  
 
 ## Q: What kind of content are you looking for? 
-A: The keywords should place an emphasis on pedagogy, not just a list of assignments. We aim to distribute not reflective narratives about teaching, but rather curated teaching materials: innovative assignments, syllabi, and readings that will inspire readers to experiment with their own teaching.
+A: The keywords should place an emphasis on pedagogy, not just a list of assignments. We aim to distribute not reflective narratives about teaching, but rather curated teaching materials. Aim for a balance of types of artifacts. See the description of curated artifacts in the [template](!template.md#curated-artifacts-ten-artifacts-each-with-metadata-a-screenshot-and-a-150-word-annotation).
 
 ## Q: Can I include my own work? 
-A: Yes, but we want to go beyond the usual suspects and circles.
+A: Yes, but we want to go beyond the usual suspects and circles to include a wide, balanced variety of artifacts by a wide and balanced variety of authors.
 
 ## Q: Can I include work by the General Editors?
 A: Yes, but we want to go beyond the usual suspects and circles.
