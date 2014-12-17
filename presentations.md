@@ -7,7 +7,7 @@
 ##Past Presentations 
 
 * Harris, Katherine D., “[Successful Collaboration is Fueled by Failure in Digital Humanities](http://triproftri.wordpress.com/2014/11/11/adhc-talk-collaboration-failure-must-haves-in-digital-humanities-projects/),” Alabama Digital Humanities Center Speaker Series, University of Alabama, Tuscaloosa, November 2014.
-* Davis, Rebecca, “Engaging Undergraduates with Digital Scholarship Projects,” Digital Humanities in Practice, October 22, 2014, Temple University. http://rebeccafrostdavis.wordpress.com/2014/10/22/engaging-undergraduates-with-digital-scholarship-projects/
+* Davis, Rebecca Frost, “Engaging Undergraduates with Digital Scholarship Projects,” Digital Humanities in Practice, October 22, 2014, Temple University. http://rebeccafrostdavis.wordpress.com/2014/10/22/engaging-undergraduates-with-digital-scholarship-projects/
 * Davis, Rebecca Frost, “Big Ideas in Digital Pedagogy,” (keynote) Digital Pedagogy Institute: Digital Pedagogy and the Undergraduate Experience, August 11, 2014, University of Toronto, Scarborough, http://rebeccafrostdavis.wordpress.com/2014/08/11/big-ideas-in-digital-pedagogy/
 * Davis, Rebecca Frost, “Digital Pedagogy in the Liberal Arts: Models, Keywords, and Prototypes,” Whittier College. February 6, 2014. http://rebeccafrostdavis.wordpress.com/2014/02/06/digital-pedagogy-in-the-liberal-arts/
 * Davis, Rebecca Frost, “Digital Humanities and Undergraduate Education,” Breakout Session. “Get Started in the Digital Humanities with Help from DHCommons Workshop.” Modern Language Association 2014 Annual Convention, January 9, 2014, Chicago, IL. http://rebeccafrostdavis.wordpress.com/2014/01/09/digital-humanities-and-undergraduate-education/
