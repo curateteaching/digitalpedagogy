@@ -6,10 +6,10 @@ Hashtag for news and updates: [#curateteaching](https://twitter.com/hashtag/cura
 
 ## GENERAL EDITORS 
 
-* Rebecca Frost Davis, St. Edward's University 
-* Matthew K. Gold, City Tech & Graduate Center, City University of New York
-* Katherine D. Harris, San José State University
-* Jentery Sayers, University of Victoria
+* Rebecca Frost Davis, St. Edward's University (rebeccafrostdavis@gmail.com) 
+* Matthew K. Gold, City Tech & Graduate Center, City University of New York (mattgold@gmail.com)
+* Katherine D. Harris, San José State University (dr.katherine.harris@gmail.com)
+* Jentery Sayers, University of Victoria (jentery@uvic.ca)
 
 ## RATIONALE
 
