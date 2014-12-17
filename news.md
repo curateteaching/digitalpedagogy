@@ -2,7 +2,7 @@
 
 ## 17 December 2014
 
-Today we publicly announced the project. Looking forward to next steps! 
+Today we [publicly announced](announcement.md) the project. Looking forward to next steps! 
 
 ## 25 November 2014 
 
