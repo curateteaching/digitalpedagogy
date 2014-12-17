@@ -7,7 +7,7 @@ In conjunction with the Modern Language Association, we are happy to announce *D
 
 In short, *Digital Pedagogy in the Humanities* will share the everyday stuff of humanities teaching and learning, curated by instructors who are well-versed in the practice of digital pedagogy.
 
-As we move forward, we will update this GitHub repository with keyword drafts, important announcements, new contributors and keywords, and details for presentations about the project at university and college campuses across North America.
+As we move forward, we will update this GitHub repository with keyword drafts, important announcements, new contributors and keywords, and details for [presentations](presentations.md) about the project at university and college campuses across North America.
 
 For now, please follow *Digital Pedagogy in the Humanities* on Twitter through the hashtag [#curateteaching](https://twitter.com/hashtag/curateteaching?f=realtime&src=hash) and visit our [news page](https://github.com/curateteaching/digitalpedagogy/blob/master/news.md) for updates.
 
