@@ -23,7 +23,7 @@ The curatorial statement expresses your vision of the keyword — what it means 
 
 ## CURATED ARTIFACTS (ten artifacts, each with metadata, a screenshot, and a 150-word annotation)
 
-Select ten pedagogical artifacts (no more, no less) to feature for your keyword. The emphasis should be the everyday stuff of teaching, not after-the-fact reflections on teaching. These artifacts should demonstrate what you and others use to teach your keyword. What teaching and learning projects do you turn to when crafting your teaching materials? What prompts or assignments have inspired you? Which or whose syllabi have you borrowed from, revised, or built upon? Put this way, pedagogical artifacts may include (but are not limited to) syllabi, teaching guidelines, assignments, lesson plans, course sites, learning objective, collaborative projects, and even student work. 
+Select ten pedagogical artifacts (no more, no less) to feature for your keyword. The emphasis should be the everyday stuff of teaching, not after-the-fact reflections on teaching. These artifacts should demonstrate what you and others use to teach your keyword. What teaching and learning projects do you turn to when crafting your teaching materials? What prompts or assignments have inspired you? Which or whose syllabi have you borrowed from, revised, or built upon? Put this way, pedagogical artifacts may include (but are not limited to) syllabi, teaching guidelines, assignments, lesson plans, course sites, learning objective, collaborative projects, and even student work. A balanced variety of artifacts types is optimal.
 
 For each of your ten artifacts, please provide: 
 
@@ -40,7 +40,9 @@ We have begun a list of FAQ in a ReadMe file (https://github.com/curateteaching/
 
 Feel free to push these artifacts to a server for remote access, and then send us the URL. Or you can create your own GitHub repo for this work. In your Markdown file, you can just include file names (e.g., keyword screenshot1.png) for our reference, with the annotations and other information following them. Ultimately, all of your artifacts will be integrated in this repository (curateteaching/digitalpedagogy). 
 
-Once we receive your entry, we will review and edit it (where necessary), return the proof to you (for approval/revision), and then forward the approved proof to the MLA. Later, the keyword and the entire *Digital Pedagogy in the Humanities* collection will be made available online (open access) for open review. That said, please let us know if you have any questions or concerns about the open review process, or about rendering your work discoverable online. In the interests of transparency, I should note that we are still fleshing out the particulars of this review process with the MLA, and we want to keep our curators' needs and interests in mind as we do so.  
+Once we receive your entry, we will review and edit it (where necessary), return the proof to you (for approval/revision), and then forward the approved proof to the MLA. The entire GitHub Repository is now available online for view by the public; if you wish your keyword-in-process during this first phase to remain private, please let us know. 
+
+Later, the keyword and the entire *Digital Pedagogy in the Humanities* collection will be made available online (open access) for open review. That said, please let us know if you have any questions or concerns about the open review process, or about rendering your work discoverable online. In the interests of transparency, I should note that we are still fleshing out the particulars of this review process with the MLA, and we want to keep our curators' needs and interests in mind as we do so.  
 
 ## RELATED MATERIALS
 
