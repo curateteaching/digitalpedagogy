@@ -1,4 +1,5 @@
-#Presentations by General Editors (Frost Davis, Gold, Harris, Sayers)
+#Presentations by General Editors 
+##Frost Davis, Gold, Harris, Sayers
 
 ##Upcoming
 * Davis, Rebecca, “Liberal Education Unbound: The Life of Signature Student Work in the Emerging Digital Learning Environment,” panelist with Randy Bass, Jennifer Ebbeler, and J. Elizabeth Clark. The Centennial Annual Meeting: Liberal Education, Global Flourishing, and the Equity Imperative. Association of American Colleges and Universities. January 22, 2015.
