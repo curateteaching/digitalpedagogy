@@ -29,7 +29,8 @@ Select ten pedagogical artifacts (no more, no less) to feature for your keyword.
 
 For each of your ten artifacts, please provide: 
 
-* Screenshot (PNG or JPG), titled “keyword artifact name,” e.g. “work AfAm syllabus.png”
+* Title of Artifact (as it appears on the actual "document")
+* Screenshot (PNG or JPG), titled “keyword artifact title,” e.g. “work AfAm syllabus.png”
 * Source URL 
 * Copy of the Artifact (in HTML, PDF, DOCX, TXT, MD, RTF, MP3, MP4, MOV, PNG, or JPG), if possible 
 * Creator and Affiliation
