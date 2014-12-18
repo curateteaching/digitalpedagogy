@@ -70,14 +70,6 @@ REBECCA: Please limit your annotations to 150 words.
 
 “Occupy Class” is a site designed by the students in Pete Rorabaugh’s Spring 2012 course in Electronic Writing and Publishing at Georgia State University. According to Rorabaugh’s [description of the class](http://mediacommons.futureofthebook.org/imr/2013/03/07/building-context-occupy-class-and-media-res), the goal was to “document the unfolding narrative of Occupy.” Pedagogy is not ideologically neutral, and a hybrid teaching strategy can’t be about merely moving students from a closed physical space (the classroom) to a closed digital one (the learning management system). The work illustrated here is deeply connected to Critical Pedagogy, which aims at helping learners understand how they are situated -- actively, politically, and with agency -- inside much larger local and global communities. This is about not only having students do work for an authentic audience, but also having teachers and learners alike show up as full (and ethical) participants in those communities.
 
-### "Twitter Adoption Matrix"
-* Screenshot forthcoming
-* Source URL: http://chronicle.com/blogs/profhacker/a-framework-for-teaching-with-twitter/26223
-* Copy of Artifact: forthcoming
-* Creator: Rick Reo (George Mason University) and Mark Sample (Davidson College)
-
-Rubrics often reduce dynamic (and often delightfully chaotic) learning activities to a series of discrete outcomes. The “Twitter Adoption Matrix,” co-created by Rick Reo and Mark Sample, however, proves an invaluable starting place for a nuanced consideration of the ways we might use social media to extend the environment of the physical classroom. The matrix has a clear perspective, making relatively clear which activities are most pedagogically valuable (the ones toward the upper right edges of the matrix). While this resource focuses on Twitter, my interest is ultimately less in advocating for a specific platform and more in how a hybrid teaching strategy asks us to think critically about the tools we use and how they can connect students to each other via the web. Often the underlying pedagogies that motivate the use of one tool can be ported to another.
-
 ### "Note Tweeting"
 * Screenshot forthcoming
 * Source URL: http://www.sadiron.com/teaching/tweeting-class-discussion-and-notes/
@@ -100,7 +92,7 @@ Petra Dierkes-Thrun has run several iterations of the Public Literary Twitter Ro
 * Copy of Artifact: forthcoming
 * Creator: Kathi Inman Berens (USC Annenberg)
 
-Kathi Inman Berens’s course at USC Annenberg is an excellent example of how to implement a fully hybrid course. She works with students face-to-face, but also uses various synchronous video platforms. The course reflects in its content on how we engage one another via digital media, and the students work in teams on projects for real-world clients. My favorite bit from the syllabus: “I expect you to be on your laptops and smartphones during class.” And, then, “Connectivity is essential to our work.” She also asks students to keep a “Distraction Log,” which helps students “make observations about their own media consumption habits.” The course is “hybrid” by spanning across media, geography, and tranditional/non-traditional learning environments. Helping students understand how to move within and between these spaces is a key literacy for working in digital space.
+In her hybrid USC Annenberg, Kathi Inman Berens works with students face-to-face, but also using synchronous video platforms. The course focuses on how we engage one another via digital media, and the students work in teams on projects for real-world clients. From the syllabus: “I expect you to be on your laptops and smartphones during class. Connectivity is essential to our work.” She asks students to keep a “Distraction Log” to “make observations about their own media consumption habits.” The course spans media, geography, and tranditional/non-traditional learning environments. Helping students understand how to move within and between these spaces is a key literacy for working in digital space. [She writes of her teaching philosophy,](http://kathiiberens.com/teaching/philosophy/) "It doesn’t matter to me if my classroom is a little rectangle in a building or a little rectangle above my keyboard. Doors are rectangles; rectangles are portals. We walk through."
 
 ### "Spine Poetry"
 * Screenshot forthcoming
@@ -109,6 +101,22 @@ Kathi Inman Berens’s course at USC Annenberg is an excellent example of how to
 * Creator: Kathi Inman Berens (USC Annenberg), Lans Pacifico, Carrie Padian, Ken Schultz, Jesse Stommel (University of Wisconsin-Madison), Jessica Zisa
 
 A hybrid learning environment deconstructs hierarchies, giving students a fuller sense of their own agency. In winter 2013, I co-taught with Kathi Inman Berens a small seminar of four non-traditional undergraduate students. We were equal collaborators, not teachers but co-learners, structuring the environment but quickly receding from roles of authority. Together, we worked with the Library of Congress in Washington D.C. to build a social media campaign promoting their first exhibit of electronic literature. We also coordinated a physical event at the Lake Oswego Library outside Portland, OR. The task was to bring the Library of Congress to Portland and the Web -- and to bring Portland and the Web to the Library of Congress, using digital technology to connect physical work happening at two remote locations. From the [artist statement](http://spinepoetry.com/about): “Spine poems bridge the physical world of books with stories that are born digitally.” 
+
+### "Modern and Contemporary American Poetry" 
+* Screenshot forthcoming
+* Source URL: https://www.coursera.org/course/modernpoetry
+* Copy of Artifact: forthcoming
+* Creator: Al Filreis (University of Pennsylvania)
+
+A truly "Hybrid" Massive Open Online Course that Al Filreis began offering in 2012. The course experiments with the MOOC format and hacks the Coursera platform to create opportunities for students to have a central role in both their own learning but also in the teaching of the course. Instead of focusing on video lectures at the head of each unit, Filreis hosts live discussions at the Kelly Writers House that feature himself, University of Pennsylvania students, as well as students from around the world that call in (and sometimes make visits to PA). The physical place of the Kelly Writers house becomes the fulcrum around which the online course pivots. The success of the course has less to do with inherent potentials of the MOOC platform and more to do with the way Filreis uses the platform to realize the mission and pedagogies of the Kelly Writers House. 
+
+### "Twitter Adoption Matrix"
+* Screenshot forthcoming
+* Source URL: http://chronicle.com/blogs/profhacker/a-framework-for-teaching-with-twitter/26223
+* Copy of Artifact: forthcoming
+* Creator: Rick Reo (George Mason University) and Mark Sample (Davidson College)
+
+Rubrics often reduce dynamic (and often delightfully chaotic) learning activities to a series of discrete outcomes. The “Twitter Adoption Matrix,” co-created by Rick Reo and Mark Sample, however, proves an invaluable starting place for a nuanced consideration of the ways we might use social media to extend the environment of the physical classroom. The matrix has a clear perspective, making relatively clear which activities are most pedagogically valuable (the ones toward the upper right edges of the matrix). While this resource focuses on Twitter, my interest is ultimately less in advocating for a specific platform and more in how a hybrid teaching strategy asks us to think critically about the tools we use and how they can connect students to each other via the web. Often the underlying pedagogies that motivate the use of one tool can be ported to another.
 
 ### "Guidelines for Public, Student Class Blogs: Ethics, Legalities, FERPA and More"
 * Screenshot forthcoming
@@ -120,18 +128,19 @@ I’ve said elsewhere that [Ferpa is not an excuse for bad pedagogy](https://twi
 
 ## RELATED MATERIALS
 
+Bali, Maha. [*REFLECTING ALLOWED: Maha Bali's blog about education.*](http://blog.mahabali.me/blog/)
+
 Friend, Chris. ["On Vocabulary: 'Blended Learning' vs. 'Hybrid Pedagogy.'"](chrisfriend.us/Blog/files/blended-vs-hybrid.php) chrisfriend.us/Blog/files/blended-vs-hybrid.php
 
-Inman Berens, Kathi. ["The New Learning is Ancient."](kathiiberens.com/teaching/philosophy/) kathiiberens.com/teaching/philosophy/
+Davidson, Cathy N. ["10 Things I've Learned (so far) From Making a Meta-MOOC"](http://www.hybridpedagogy.com/journal/10-things-learned-from-making-a-meta-mooc/) www.hybridpedagogy.com/journal/10-things-learned-from-making-a-meta-mooc/
 
 Morris, Sean Michael and Jesse Stommel. ["The Discussion Forum is Dead; Long Live the Discussion Forum."](www.hybridpedagogy.com/journal/the-discussion-forum-is-dead-long-live-the-discussion-forum/) www.hybridpedagogy.com/journal/the-discussion-forum-is-dead-long-live-the-discussion-forum/
 
 Rheingold, Howard. [*Net Smart*](rheingold.com/books/net-smart/) rheingold.com/books/net-smart/
 
-University of Central Florida. ["Blended Learning Toolkit."](http://blended.online.ucf.edu) blended.online.ucf.edu
-
-
 ## WORKS CITED
+
+Bali, Maha. *REFLECTING ALLOWED: Maha Bali's blog about education.* http://blog.mahabali.me/blog/
 
 Bhabha, Homi. "The Commitment to Theory." *The Location of Culture*. Routledge: London, 2004.
 
