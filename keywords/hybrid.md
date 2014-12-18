@@ -14,7 +14,7 @@ type: book
 ---
 
 
-# HYBRID
+# HYBRID (Draft)
 
 ### Jesse Stommel
 Assistant Professor, University of Wisconsin-Madison, [Website](www.jessestommel.com)
