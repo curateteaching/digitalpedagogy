@@ -9,7 +9,7 @@ Please email your assigned editor with any questions or concerns. Your assigned 
 # KEYWORD
 
 ## AUTHOR(S)
-Institutional Affiliation | Website
+Institutional Affiliation (if any) | Website
 
 ## CURATORIAL STATEMENT (roughly 750-800 words, MLA Format)
 
