@@ -106,7 +106,7 @@ Kathi Inman Berens’s course at USC Annenberg is an excellent example of how to
 * Screenshot forthcoming
 * Source URL: http://spinepoetry.com/
 * Copy of Artifact: forthcoming
-* Creator: Kathi Inman Berens (USC Annenberg), Lans Nelson, Carrie Padian, Ken Schultz, Jesse Stommel (University of Wisconsin-Madison), Jessica Zisa
+* Creator: Kathi Inman Berens (USC Annenberg), Lans Pacifico, Carrie Padian, Ken Schultz, Jesse Stommel (University of Wisconsin-Madison), Jessica Zisa
 
 A hybrid learning environment deconstructs hierarchies, giving students a fuller sense of their own agency. In winter 2013, I co-taught with Kathi Inman Berens a small seminar of four non-traditional undergraduate students. We were equal collaborators, not teachers but co-learners, structuring the environment but quickly receding from roles of authority. Together, we worked with the Library of Congress in Washington D.C. to build a social media campaign promoting their first exhibit of electronic literature. We also coordinated a physical event at the Lake Oswego Library outside Portland, OR. The task was to bring the Library of Congress to Portland and the Web -- and to bring Portland and the Web to the Library of Congress, using digital technology to connect physical work happening at two remote locations. From the [artist statement](http://spinepoetry.com/about): “Spine poems bridge the physical world of books with stories that are born digitally.” 
 
@@ -137,41 +137,41 @@ Bhabha, Homi. "The Commitment to Theory." *The Location of Culture*. Routledge: 
 
 Cormier, Dave. "Rhizomatic Education: Community as Curriculum." http://davecormier.com/edblog/2008/06/03/rhizomatic-education-community-as-curriculum/
 
-Dierkes-Thrun, Petra. "A Public Literary Twitter Role-play." shelleysfrankenstein.wordpress.com/frankenstein-a-public-literary-twitter-role-play-on-twitter/
+Dierkes-Thrun, Petra. "A Public Literary Twitter Role-play." http://shelleysfrankenstein.wordpress.com/frankenstein-a-public-literary-twitter-role-play-on-twitter/
 
-Friend, Chris. "On Vocabulary: 'Blended Learning' vs. 'Hybrid Pedagogy.'" chrisfriend.us/Blog/files/blended-vs-hybrid.php
+Friend, Chris. "On Vocabulary: 'Blended Learning' vs. 'Hybrid Pedagogy.'" http://chrisfriend.us/Blog/files/blended-vs-hybrid.php
 
 Haraway, Donna. "A Cyborg Manifesto." http://www.egs.edu/faculty/donna-haraway/articles/donna-haraway-a-cyborg-manifesto/
 
-Inman Berens, Kathi. "The New Learning is Ancient." kathiiberens.com/teaching/philosophy/
+Inman Berens, Kathi. "The New Learning is Ancient." http://kathiiberens.com/teaching/philosophy/
 
-Inman Berens, Kathi. "Social Media Design and Build." kathiiberens.com/teaching/sample-syllabi/design-build/
+Inman Berens, Kathi. "Social Media Design and Build." http://kathiiberens.com/teaching/sample-syllabi/design-build/
 
-Inman Berens, Kathi, Lans Nelson, Carrie Padian, Ken Schultz, Jesse Stommel, and Jessica Zisa. "Spine Poetry." www.spinepoetry.com
+Inman Berens, Kathi, Lans Pacifico, Carrie Padian, Ken Schultz, Jesse Stommel, and Jessica Zisa. "Spine Poetry." http://www.spinepoetry.com
 
 Koh, Adeline. "Seminar in Feminist Theory" http://www.adelinekoh.org/blog/2014/08/20/syllabus-draft-gis-3614-seminar-in-feminist-theory-fall-2014/
 
 Kraidy, Marwan M. *Hybridity*.
 
-Morris, Sean Michael and Jesse Stommel. "The Discussion Forum is Dead; Long Live the Discussion Forum." www.hybridpedagogy.com/journal/the-discussion-forum-is-dead-long-live-the-discussion-forum/
+Morris, Sean Michael and Jesse Stommel. "The Discussion Forum is Dead; Long Live the Discussion Forum." http://www.hybridpedagogy.com/journal/the-discussion-forum-is-dead-long-live-the-discussion-forum/
 
 Rheingold, Howard. *Net Smart*. 
 
-Rio, Rick and Mark Sample. "Twitter Adoption Matrix." chronicle.com/blogs/profhacker/a-framework-for-teaching-with-twitter/26223
+Rio, Rick and Mark Sample. "Twitter Adoption Matrix." http://chronicle.com/blogs/profhacker/a-framework-for-teaching-with-twitter/26223
 
-Rorabaugh, Pete. "Occupy Class." occupyclass.org.
+Rorabaugh, Pete. "Occupy Class." http://occupyclass.org.
 
-Rorabaugh, Pete and Jesse Stommel. "Twitter vs. Zombies." www.twittervszombies.com 
+Rorabaugh, Pete and Jesse Stommel. "Twitter vs. Zombies." http://www.twittervszombies.com 
 
-Rybak, Chuck. "Note Tweeting." www.sadiron.com/teaching/tweeting-class-discussion-and-notes/
+Rybak, Chuck. "Note Tweeting." http://www.sadiron.com/teaching/tweeting-class-discussion-and-notes/
 
-Smith, Kevin. "Guidelines for Public, Student Class Blogs: Ethics, Legalities, FERPA and More." *HASTAC*. www.hastac.org/blogs/cathy-davidson/2012/11/30/guidelines-public-student-class-blogs-ethics-legalities-ferpa-and-mo
+Smith, Kevin. "Guidelines for Public, Student Class Blogs: Ethics, Legalities, FERPA and More." *HASTAC*. http://www.hastac.org/blogs/cathy-davidson/2012/11/30/guidelines-public-student-class-blogs-ethics-legalities-ferpa-and-mo
 
 University of Central Florida. "Blended Learning Toolkit." http://blended.online.ucf.edu
 
-Whalen, Zach. "A Million Blue Pages." amillionbluepages.net
+Whalen, Zach. "A Million Blue Pages." http://amillionbluepages.net
 
-Wikimedia Foundation. "A 12-week assignment to write a Wikipedia article." outreach.wikimedia.org/wiki/Education/Syllabi
+Wikimedia Foundation. "A 12-week assignment to write a Wikipedia article." http://outreach.wikimedia.org/wiki/Education/Syllabi
 
 *Some language in the Curatorial Statement is drawn directly from:* 
 
