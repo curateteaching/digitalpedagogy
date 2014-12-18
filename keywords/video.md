@@ -15,7 +15,7 @@ publisher: Modern Language Association
 type: book
 ---
 
-# VIDEO 
+# VIDEO (Draft)
 
 ### Daniel Anderson and Jason Loan
 University of North Carolina at Chapel Hill
