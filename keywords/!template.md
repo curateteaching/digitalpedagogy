@@ -21,6 +21,8 @@ The curatorial statement expresses your vision of the keyword — what it means 
 * Important issues (why teach this now? why does this topic matter for students? for faculty? for a field? what makes this keyword unique or exemplary for digital pedagogy?) 
 * Particular intersections with your pedagogical philosophy/teaching conditions (how and where do you teach issues related to this keyword? in what course(s)? with what learning expectations/outcomes in mind? with or without what resources? what are your students' backgrounds, interests, or investments?) 
 
+Unless it draws upon your first-person experience in the classroom, please limit the use of first person. 
+
 ## CURATED ARTIFACTS (ten artifacts, each with metadata, a screenshot, and a 150-word annotation)
 
 Select ten pedagogical artifacts (no more, no less) to feature for your keyword. The emphasis should be the everyday stuff of teaching, not after-the-fact reflections on teaching. These artifacts should demonstrate what you and others use to teach your keyword. What teaching and learning projects do you turn to when crafting your teaching materials? What prompts or assignments have inspired you? Which or whose syllabi have you borrowed from, revised, or built upon? Put this way, pedagogical artifacts may include (but are not limited to) syllabi, teaching guidelines, assignments, lesson plans, course sites, learning objective, collaborative projects, and even student work. A balanced variety of artifacts types is optimal.
