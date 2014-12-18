@@ -13,7 +13,7 @@ publisher: Modern Language Association
 type: book
 ---
 
-# QUEER
+# QUEER (Draft)
 
 ### Edmond Y. Chang
 Drew University | Department of English | [Website](http://www.edmondchang.com/)
