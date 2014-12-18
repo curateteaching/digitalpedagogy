@@ -13,7 +13,7 @@ publisher: Modern Language Association
 type: book
 ---
 
-# RHETORIC 
+# RHETORIC (Draft)
 
 ### Douglas Eyman 
 George Mason University 
