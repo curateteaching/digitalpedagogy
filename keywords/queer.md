@@ -18,6 +18,10 @@ type: book
 ### Edmond Y. Chang
 Drew University | Department of English | [Website](http://www.edmondchang.com/)
 
+---
+Status: unreviewed draft | **draft version under editorial review** | draft version undergoing peer-to-peer | review published 
+---
+
 ## CURATORIAL STATEMENT 
 
 What is queer digital pedagogy?  What lies at the intersection and intertwingling of queer, technology, and teaching? 
