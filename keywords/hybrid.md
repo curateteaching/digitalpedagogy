@@ -61,6 +61,8 @@ This assignment offers a guide to having students contribute to Wikipedia. Orien
 
 “Twitter vs. Zombies,” designed by myself and Pete Rorabaugh in 2012, is a game with emergent rules that aims at building networked communities, introducing new users to Twitter, and helping them develop new media literacies. The initial rules were incredibly simple, a catalyst for play and improvisation. The game has been hacked in at least 5 subsequent versions. In February 2013, for example, students in Pete Rorabaugh’s GSU class and Janine DeBaise’s SUNY class ran the second iteration of the game. Since then, students and teachers as far as Cairo, Egypt have reimagined the game. The game depends on a self-governing community and enables that community to take full ownership of future iterations. In the best hybrid classes, the teacher is an equal member of the group. She might structure the learning in critical ways, but that learning is set loose and often iterates in new contexts and containers.
 
+REBECCA:  This is a nice example of versioning an assignment although you have examples of that in two previous artifacts. I like the use of gaming, but how is learning derived from the game? Do students reflect on the play either in class, in writing, or online?
+
 ### "Occupy Class"
 * Screenshot forthcoming
 * Source URL: http://occupyclass.org/
@@ -101,6 +103,8 @@ In her hybrid USC Annenberg course, Kathi Inman Berens works with students face-
 
 A hybrid learning environment deconstructs hierarchies, giving students a fuller sense of their own agency. In winter 2013, I co-taught with Kathi Inman Berens a small seminar of four non-traditional undergraduate students. We were equal collaborators, not teachers but co-learners, structuring the environment but quickly receding from roles of authority. Together, we worked with the Library of Congress in Washington D.C. to build a social media campaign promoting their first exhibit of electronic literature. We also coordinated a physical event at the Lake Oswego Library outside Portland, OR. The task was to bring the Library of Congress to Portland and the Web -- and to bring Portland and the Web to the Library of Congress, using digital technology to connect physical work happening at two remote locations. From the [artist statement](http://spinepoetry.com/about): “Spine poems bridge the physical world of books with stories that are born digitally.” 
 
+REBECCA: I like this project, not least because I submitted at least one spine poem, so I can see how engaging this was.  Can you circle back and explain the learning; did the students come up with the idea for spine poetry?  How did that project fit into the course?
+
 ### "Modern and Contemporary American Poetry" 
 * Screenshot forthcoming
 * Source URL: https://www.coursera.org/course/modernpoetry
@@ -117,6 +121,8 @@ A truly "Hybrid" Massive Open Online Course that Al Filreis began offering in 20
 
 Rubrics often reduce dynamic (and often delightfully chaotic) learning activities to a series of discrete outcomes. The “Twitter Adoption Matrix,” co-created by Rick Reo and Mark Sample, however, proves an invaluable starting place for a nuanced consideration of the ways we might use social media to extend the environment of the physical classroom. The matrix has a clear perspective, pointing to which activities are most pedagogically valuable (the ones toward the upper right edges of the matrix). While this resource focuses on Twitter, my interest is ultimately less in advocating for a specific platform and more in how a hybrid teaching strategy asks us to think critically about the tools we use and how they can connect students to each other via the web. Often the underlying pedagogies that motivate the use of one tool can be ported to another.
 
+REBECCA: This is more a reflection on teaching than an actual artifact.  Can you more explicitly state how such a matrix could apply to a different tool or be the model for creating that tool, e.g., give a specific example?
+
 ### "Guidelines for Public, Student Class Blogs: Ethics, Legalities, FERPA and More"
 * Screenshot forthcoming
 * Source URL: http://www.hastac.org/blogs/cathy-davidson/2012/11/30/guidelines-public-student-class-blogs-ethics-legalities-ferpa-and-mo
@@ -124,6 +130,8 @@ Rubrics often reduce dynamic (and often delightfully chaotic) learning activitie
 * Creator: Kevin Smith (Duke University)
 
 I’ve said elsewhere that [Ferpa is not an excuse for bad pedagogy](https://twitter.com/Jessifer/status/441755367924436992). Here, Kevin Smith, Duke University’s Director of Copyright and Scholarly Communication, offers information (not a legal opinion, as noted) on the ethics and legalities of having students doing public work. Specifically, he tackles various methods for addressing FERPA concerns when having students working on public blogs. In short, inform students of the requirement from the start, offer the option of anonymity, remind them not to post private information, and offer alternatives if a student has major concerns about doing public work even under an alias. FERPA is in place to protect students, not to put artificial limits on their learning. As with any pedagogical decision, I suggest our first concern be on protecting student agency -- learners not teachers should make the critical choices about what, when, how, and where they learn. 
+
+REBECCA: This is another example of a reflection on teaching vs. a teaching artifact, but it addresses frequent questions we get when we advocate incorporating open, online activities, so it is an important resource.
 
 ## RELATED MATERIALS
 
