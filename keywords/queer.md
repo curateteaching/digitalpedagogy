@@ -21,7 +21,7 @@ Drew University | Department of English | [Website](http://www.edmondchang.com/)
 ---
 
 Publication Status: 
-unreviewed draft | **draft version under editorial review** | draft version undergoing peer-to-peer | published 
+unreviewed draft | **draft version undergoin editorial review** | draft version undergoing peer-to-peer | published 
 
 --- 	
 
