@@ -19,8 +19,10 @@ type: book
 Drew University | Department of English | [Website](http://www.edmondchang.com/)
 
 ---
-Status: unreviewed draft | **draft version under editorial review** | draft version undergoing peer-to-peer | review published 
----
+
+Status: unreviewed draft | **draft version under editorial review** | draft version undergoing peer-to-peer | published 
+
+--- 	
 
 ## CURATORIAL STATEMENT 
 
