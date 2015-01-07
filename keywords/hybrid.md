@@ -19,6 +19,16 @@ type: book
 ### Jesse Stommel
 Assistant Professor, University of Wisconsin-Madison, [Website](http://www.jessestommel.com)
 
+---
+
+##### Publication Status:
+* unreviewed draft
+* **draft version undergoing editorial review**
+* draft version undergoing peer-to-peer review
+* published 
+
+--- 
+
 ## CURATORIAL STATEMENT
 
 There is an important way in which our roles as teachers and learners are bound up in who we are as humans (including our life experience, cultural background, race, gender, and sexuality). In *Hybridity*, Marwan M. Kraidy writes, “hybridity has proven a useful concept to describe multipurpose electronic gadgets, designer agricultural seeds, environment-friendly cars with dual combustion and electrical engines, companies that blend American and Japanese management practices, multiracial people, dual citizens, and postcolonial cultures” (1). For Kraidy, and for me, the term is powerful exactly because it resists easy signification.

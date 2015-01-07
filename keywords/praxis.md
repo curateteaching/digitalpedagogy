@@ -22,6 +22,16 @@ type: book
 ### Bethany Nowviskie, Jeremy Boggs, and J. K. Purdom Lindblad 
 University of Virginia | Scholars' Lab |  [Website](http://scholarslab.org/) 
 
+---
+
+##### Publication Status:
+* unreviewed draft
+* **draft version undergoing editorial review**
+* draft version undergoing peer-to-peer review
+* published 
+
+--- 
+
 ## CURATORIAL STATEMENT 
 
 We understand *praxis* as thoughtful performance: a way of making and building less oriented toward the construction of end-products and more concerned with exposing the processes through which ideas become objects in space or actions in time. In the classroom, a praxis-oriented pedagogy helps students engage with theory through concrete action, and promotes understanding of the complex, playful, and materially-grounded ways in which theoretical or ideological concepts can be realized, exposed, critiqued, and iteratively generated. The pedagogical resources gathered here connect with *praxis* as an opportunity to:

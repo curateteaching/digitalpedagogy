@@ -18,6 +18,16 @@ type: book
 ### Kathi Inman Berens
 University of Southern California | Annenberg School of Communication | [Website](http://kathiiberens.com)
 
+---
+
+##### Publication Status:
+* unreviewed draft
+* **draft version undergoing editorial review**
+* draft version undergoing peer-to-peer review
+* published 
+
+--- 
+
 ## CURATORIAL STATEMENT 
 
 Anyone who has rearranged classroom chairs from rows into a circle knows that the physical space of the classroom shapes the dynamic interaction of learning.  Now that digital interfaces have untethered collaborative learning from the physical classroom, "the classroom" is a heuristic that manifests itself more variously than it did when it was primarily an efficient oral distribution system for learning.  Florian Cramer and Matthew Fuller remind us that interface is a term "borrowed from chemistry, where it means 'a surface forming a common boundary of two bodies, spaces, phases'" (149).  Digital interfaces offer humanists many new "common boundaries" where traditional goals of humanist inquiry such as "the interrogative as a condition of knowing" (Fyfe) can be practiced and realized through innovative use of digital tools.

@@ -20,6 +20,16 @@ type: book
 ### Daniel Anderson and Jason Loan
 University of North Carolina at Chapel Hill
 
+---
+
+##### Publication Status:
+* unreviewed draft
+* **draft version undergoing editorial review**
+* draft version undergoing peer-to-peer review
+* published 
+
+--- 
+
 ## CURATORIAL STATEMENT
 
 It seems counter intuitive---given the expectations for using cameras, working with sound, and learning editors---but digital video production provides one of the smoothest paths for integrating digital composing into a class. Traditionally, high-quality film and video production required both costly equipment and relatively high levels of technical competency. In the last fifteen years, however, the technological barriers to video production have decreased dramatically. 
