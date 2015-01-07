@@ -62,7 +62,7 @@ Later, the keyword and the entire *Digital Pedagogy in the Humanities* collectio
 
 In MLA format, list five related items that are informative for teaching with your keyword in mind. **Please only include five items. No more, no less.**
 
-For each item, include Author, Title, and URL
+For each item, include Author, Title, and URL, in alphabetical order.
 
 Items may include: 
 * Scholarly journal article
