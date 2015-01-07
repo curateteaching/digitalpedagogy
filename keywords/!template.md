@@ -11,6 +11,16 @@ Please email your assigned editor with any questions or concerns. Your assigned 
 ## AUTHOR(S)
 Institutional Affiliation (if any) | Website
 
+---
+
+##### Publication Status:
+* unreviewed draft
+* draft version undergoing editorial review
+* draft version undergoing peer-to-peer review
+* published 
+
+--- 
+
 ## CURATORIAL STATEMENT (roughly 750-800 words, MLA Format)
 
 The curatorial statement expresses your vision of the keyword — what it means in a pedagogical context and how you approached the task of curating pedagogical artifacts around it. Statements can include some or all of the following: 
