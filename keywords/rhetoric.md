@@ -18,6 +18,8 @@ type: book
 ## Douglas Eyman
 George Mason University 
 
+---
+
 ##### Publication Status:
 * unreviewed draft
 * **draft version undergoing editorial review**
