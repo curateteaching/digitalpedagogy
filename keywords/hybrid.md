@@ -81,7 +81,7 @@ This assignment offers a guide to having students contribute to Wikipedia. Orien
 
 ### "Note Tweeting"
 * Screenshot forthcoming
-* Source URL: http://www.sadiron.com/teaching/tweeting-class-discussion-and-notes/
+* Source URL: http://chuckrybak.com/tweeting-class-discussions-and-notes
 * Copy of Artifact: forthcoming
 * Creator: Chuck Rybak (University of Wisconsin-Green Bay)
 
