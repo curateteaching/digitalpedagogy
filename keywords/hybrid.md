@@ -173,7 +173,7 @@ Rorabaugh, Pete. "Occupy Class." http://occupyclass.org.
 
 Rorabaugh, Pete and Jesse Stommel. "Twitter vs. Zombies." http://www.twittervszombies.com 
 
-Rybak, Chuck. "Note Tweeting." http://www.sadiron.com/teaching/tweeting-class-discussion-and-notes/
+Rybak, Chuck. "Note Tweeting." http://chuckrybak.com/tweeting-class-discussions-and-notes
 
 Smith, Kevin. "Guidelines for Public, Student Class Blogs: Ethics, Legalities, FERPA and More." *HASTAC*. http://www.hastac.org/blogs/cathy-davidson/2012/11/30/guidelines-public-student-class-blogs-ethics-legalities-ferpa-and-mo
 
