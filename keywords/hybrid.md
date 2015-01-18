@@ -48,7 +48,7 @@ The keyword "hybrid" suggests a methodology for teachers to employ in constructi
 ## CURATED ARTIFACTS
 
 ### "A Million Blue Pages"
-* Screenshot forthcoming
+![screenshot](images/hybrid%20million%20blue%20pages%20screenshot%20.jpg)
 * Source URL: http://amillionbluepages.net/ 
 * Copy of Artifact: forthcoming
 * Creator: Zach Whalen (University of Mary Washington)
