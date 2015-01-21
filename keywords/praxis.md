@@ -20,7 +20,7 @@ type: book
 # PRAXIS  (Draft)
 
 ### Bethany Nowviskie, Jeremy Boggs, and J. K. Purdom Lindblad 
-University of Virginia | Scholars' Lab |  [Website](http://scholarslab.org/) 
+University of Virginia | Scholars' Lab
 
 ---
 
@@ -57,17 +57,17 @@ First, we chose resources that were [open-access](http://en.wikipedia.org/wiki/O
 
 Second, we wanted to include a range of resources: syllabi that discuss, organize, and present *praxis*-oriented theories and activities to students; sample lessons that themselves embody *praxis* in the sense that they detail processes and outline possible, theoretically-informed outcomes; reflective demonstrations of completed projects or showcases of the tools and processes that have gone into making a particular project, object, or system; and articles that discuss the importance of *praxis* for teaching and learning. It was important to us to include resources that varied in type or format and in domain of application, to show that *praxis* can enter the classroom in a variety of ways.
 
-Finally, we felt it important to select resources that demonstrate the interconnected, symbiotic relationships among *praxis,* theory, and product. All of these resources highlight this importance: that none can or should be understood to exist in isolation, and exploring one should necessarily mean exploring the others. We feature resources that, in our view, succeed in demonstrating that the best way to learn is through *active engagement*. These resources do not just talk about the importance of *praxis* in the abstract: they provide examples of embodied, theoretically-informed learning in action.
+Finally, we felt it important to select resources that demonstrate the interconnected, symbiotic relationships among *praxis,* theory, and product. All of these resources highlight this importance: that none can or should be understood to exist in isolation, and exploring one should necessarily mean exploring the others. We feature resources that, in our view, succeed in demonstrating that the best way to learn is through active engagement. These resources do not just talk about the importance of *praxis* in the abstract: they provide examples of embodied, theoretically-informed learning in action.
 
 ## CURATED ARTIFACTS
 
-### “Bibliocircuitry and the Design of the Alien Everday”
+### “Bibliocircuitry and the Design of the Alien Everyday”
 ![screenshot](images/bibliocircuitry.jpg)
 * Source URL: [http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051](http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051)
 * Copy of Artifact: [files/bibliocircuitry.pdf](files/bibliocircuitry.pdf)
 * Creators: Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, Kathryn Skutlin (University of Maryland)
 
-An article detailing student exploration of the concept of reflective design through projects that investigate the book as interface. This activity perfectly highlights the way that exposure to and emphasis on process leads to unforeseen insight. These student authors also emphasize that digital work requires consideration of hardware and physical/tactile design. Instructors inspired by this article might select a particular type of object and ask students to devise ways to alter or enhance users' interaction with it. Students would demonstrate learning not only through their work in designing/redesigning objects, but through oral or written presentations of them (much as the student authors of this article have done).
+"Bibliocircuitry and the Design of the Alien Everyday" details student exploration of the concept of reflective design through projects that investigate the book as interface. This activity perfectly highlights the way that exposure to and emphasis on process leads to unforeseen insight. These student authors also emphasize that digital work requires consideration of hardware and physical/tactile design. Instructors inspired by this article might select a particular type of object and ask students to devise ways to alter or enhance users' interaction with it. Students would demonstrate learning not only through their work in designing/redesigning objects, but also through oral or written presentations of them (much as the student authors of this journal article have done).
 
 ### “Doing Feminist Theory through Digital Video”
 ![screen shot](images/feminist-theory.jpg)
