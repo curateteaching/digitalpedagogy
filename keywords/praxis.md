@@ -113,27 +113,25 @@ Mills Kelly has taught several iterations of an undergraduate history course ent
 ![screenshot](images/praxisnetwork.jpg)
 * Source URL: [http://praxis-network.org/](http://praxis-network.org/)
 * Copy of Artifact: forthcoming
-* Creator: Scholars' Lab (University of Virigina)
+* Creator: [Scholars' Lab](http://scholarslab.org/) (University of Virigina)
 
 The [Praxis Program](http://praxis.scholarslab.org) is an extracurricular attempt to reimagine graduate training in the humanities for the demands of the digital age. Each year, the Scholars' Lab brings together six graduate students from across the humanities and social sciences to theorize, design, build, and [reflect on the process](http://connect.clir.org/blogs/bethany-nowviskie/2014/11/20/charter-ing-a-path) of constructing a digital tool.  Praxis Fellows work alongside the Scholars' Lab staff throughout the cycle of creating and launching a digital project. The Praxis Network was inspired by the Scholars' Lab [Praxis Program](http://praxis.scholarslab.org) and by Michigan State University's [Cultural Heritage Informatics (CHI) Initiative](http://chi.anthropology.msu.edu/) and [CHI Fieldschool](http://chi.anthropology.msu.edu/fieldschool/). Both programs exemplify differing approaches to collaborative, humanities-based digital methods training. The Network gathers together 6 additional international models to enable institutions seeking to develop similar efforts to compare missions, structures, research foci, funding models, and strategic directions of successful sister programs.
 
 ### “Victorian Literature + Victorian Informatics”
 ![screenshot](images/victorian-literature.jpg)
-* Source URL:[http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/](http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/)
+* Source URL: [http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/](http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/)
 * Copy of Artifact: forthcoming
-* Creator: [Rachel Sagner Buurma](http://rachelsagnerbuurma.org/)
-* Attribution Information: Rachel Sagner Buurma (Swarthmore College)
+* Creator: [Rachel Sagner Buurma](http://rachelsagnerbuurma.org/) (Swarthmore College)
 
 Victorian Literature and Victorian Informatics is a richly detailed English syllabus exploring "canonical Victorian literature through the lens of Victorian Information theory and knowledge organization practices." Buurma blends close, middle-distant, and distant reading techniques with an emphasis on digital methods for re-reading/re-making literary texts. With its variety of workshops, demonstrations, discussions, and readings, Buurma's syllabus is exemplary in incorporating fresh critical methods and interpretative tools into a more familiar and canonical reading list. Instructors experimenting with this model could readily incorporate related readings, tools, and workshops into a smaller unit within an existing course, but it is also easy to imagine developing a new one, organized along similar topical or thematic lines. The key innovation here is the integration of digital humanities methods and skill-building into a content-based course, rather than positioning *praxis* as something that stands alone, outside the core curriculum.
 
-### “The Wikiblitz: A Wikipedia Editing Assignment in a First Year Undergraduate Class (Spring 2012 version)”
-
+### “The Wikiblitz: A Wikipedia Editing Assignment in a First Year Undergraduate Class”
 ![screen shot](images/wikiblitz.jpg)
 * Source URL: [http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/]( http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/)
 * Copy of Artifact: forthcoming
 * Creator: [Shawn Graham](http://www.graeworks.net/) (Carleton University)
 
-Graham describes an in-class assignment designed to "explore how knowledge is created and represented on Wikipedia, by working to improve a single article." This assignment was situated in a course exploring historical materials on the Internet. Graham reflects on the overall course and the specifics of the Wikipedia assignment with a particular focus on preparing students to engage with and critique the tools available for writing history in our digital age. Graham's article is particularly useful in that it outlines how the assignment fit into the broader course, its expected and unexpected outcomes, his rubric, and shares student feedback. Graham details the work invested in preparing students for the 2-session assignment, which could smooth the process of adapting this idea for other courses.
+Graham describes an in-class assignment designed to "explore how knowledge is created and represented on Wikipedia, by working to improve a single article." This assignment was situated in a course exploring historical materials on the Internet. Graham reflects on the overall course and the specifics of the Wikipedia assignment with a particular focus on preparing students to engage with and critique the tools available for writing history in our digital age. Graham's article is particularly useful in that it outlines how the assignment fit into the broader course, its expected and unexpected outcomes, and his rubric. It also shares student feedback. Graham details the work invested in preparing students for the 2-session assignment, which could smooth the process of adapting this idea for other courses.
 
 ### “Writing on Clay”
 
