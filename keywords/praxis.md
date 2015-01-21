@@ -134,9 +134,8 @@ Victorian Literature and Victorian Informatics is a richly detailed English syll
 Graham describes an in-class assignment designed to "explore how knowledge is created and represented on Wikipedia, by working to improve a single article." This assignment was situated in a course exploring historical materials on the Internet. Graham reflects on the overall course and the specifics of the Wikipedia assignment with a particular focus on preparing students to engage with and critique the tools available for writing history in our digital age. Graham's article is particularly useful in that it outlines how the assignment fit into the broader course, its expected and unexpected outcomes, and his rubric. It also shares student feedback. Graham details the work invested in preparing students for the 2-session assignment, which could smooth the process of adapting this idea for other courses.
 
 ### “Writing on Clay”
-
 ![screen shot](images/writing-on-clay.jpg)
-* Source URL: [Lesson Plan, Writing on Clay](http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA74#v=onepage&q=modeling%20clay&f=false)
+* Source URL: [http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA74#v=onepage&q=modeling%20clay&f=false](http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA74#v=onepage&q=modeling%20clay&f=false)
 * Copy of Artifact: forthcoming
 * Creator: [Dennis E.  Baron](http://www.english.illinois.edu/-people-/faculty/debaron/) (University of Illinois)
 
