@@ -86,13 +86,12 @@ Finally, we felt it important to select resources that demonstrate the interconn
 "(Extra)ordinary Materials" is a Human-Centered Design and Engineering course focusing on "thinking and experimenting with materials that have extraordinary properties around ordinary practices as an entry point for identifying new affordances in form-giving work." With a detailed syllabus and a blend of intriguing readings, hands-on experiments, and student participation, "(Extra)ordinary Materials" exemplifies *praxis* through deep investigation of material culture and objects alongside exploration of the concepts of "mutability, reproduction, age and belonging." Readings are paired with hands-on, individual and group investigations and reflective reports. Rosner includes thoughtful learning outcomes along with explicit pairings of experiential work and theoretical readings to best explore a range of materials and properties.
 
 ### “How Did They Make That?”
-
 ![screenshot](images/how-did-they-make-that.png)
 * Source URL: [http://miriamposner.com/blog/how-did-they-make-that/](http://miriamposner.com/blog/how-did-they-make-that/)
 * Copy of Artifact: forthcoming
 * Creator: [Miriam Posner](http://miriamposner.com/) (University of California, Los Angeles)
 
-Miriam Posner offers a modest gallery of various digital projects, virtually disassembling them according to the tools and techniques used in their production. Her goal is to show how each is made, so that others might feel empowered to build similar projects or extend the ones highlighted. The site is a helpful starting point for students beginning their own digital projects. Have students explore the site, then visit each example project, to see how the list of parts and techniques correspond to and are manifestedin specific results. Get a feel for the affordances of different types of digital projects. In addition to the post, Posner also offers a [video version](http://miriamposner.com/blog/how-did-they-make-that-the-video/) of "How Did They Make That."
+Miriam Posner offers a modest gallery of various digital projects, virtually disassembling them according to the tools and techniques used in their production. Her goal is to show how each is made, so that others might feel empowered to build similar projects or extend the ones highlighted. The site is a helpful starting point for students beginning their own digital projects. Have students explore the site, then visit each example project, to see how the list of parts and techniques correspond to and are manifested in specific results. Get a feel for the affordances of different types of digital projects. In addition to the post, Posner also offers a [video version](http://miriamposner.com/blog/how-did-they-make-that-the-video/) of "How Did They Make That."
 
 ### "The Kits for Cultural History at HASTAC 2014"
 
