@@ -65,17 +65,17 @@ Finally, we felt it important to select resources that demonstrate the interconn
 ![screenshot](images/bibliocircuitry.jpg)
 * Source URL: [http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051](http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051)
 * Copy of Artifact: [files/bibliocircuitry.pdf](files/bibliocircuitry.pdf)
-* Creators: Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, Kari Kraus, Cameron Mozafari, Kathryn Skutlin (University of Maryland)
+* Creators: Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, [Kari Kraus](http://www.karikraus.com/), Cameron Mozafari, and Kathryn Skutlin (University of Maryland)
 
 "Bibliocircuitry and the Design of the Alien Everyday" details student exploration of the concept of reflective design through projects that investigate the book as interface. This activity perfectly highlights the way that exposure to and emphasis on process leads to unforeseen insight. These student authors also emphasize that digital work requires consideration of hardware and physical/tactile design. Instructors inspired by this article might select a particular type of object and ask students to devise ways to alter or enhance users' interaction with it. Students would demonstrate learning not only through their work in designing/redesigning objects, but also through oral or written presentations of them (much as the student authors of this journal article have done).
 
-### “Doing Feminist Theory through Digital Video”
+### "How to 'Do' Feminist Theory Through Digital Video"
 ![screen shot](images/feminist-theory.jpg)
 * Source URL: [http://adanewmedia.org/2014/07/issue5-hurst/](http://adanewmedia.org/2014/07/issue5-hurst/)
 * Copy of Artifact: forthcoming
 * Creator: [Rachel Alpha Johnston Hurst](http://www.rachelhurst.ca/Dr._Rachel_Alpha_Johnston_Hurst/Welcome%21.html) (St. Francis Xavier University)
 
-*Doing Feminist Theory through Digital Video* is a reflective essay detailing an undergraduate assignment and the literature informing the development of the assignment. Noticing her students were struggling to connect rich theoretical discussions within the classroom to "real life," Hurst offers a pathway for specific theoretical considerations (like feminism) to shape and be shaped by the application of *praxis*. Hurst applies Paulo Freire's definition of *praxis* ("reflection and action upon the world in order to change it") with the goal of fostering sustained deep reflection, both of the theoretical foundations of her course as well as on the student's emerging scholarly voices (Freire, [1970] 2000: 51). A semester-long, service-learning project is difficult to integrate into a content-based course. Hurst's article outlines strategies for nurturing deep learning through reflection and *praxis*. Reflecting on her process as well as implementation, Hurst points to methods for demystifying knowledge creation through iterative, collaborative work.
+"How to 'Do' Feminist Theory Through Digital Video" is a reflective essay detailing an undergraduate assignment and the literature informing the development of the assignment. Noticing her students were struggling to connect rich theoretical discussions within the classroom to "real life," Hurst offers a pathway for specific theoretical considerations (like feminism) to shape and be shaped by the application of *praxis*. Hurst applies Paulo Freire's definition of *praxis* ("reflection and action upon the world in order to change it") with the goal of fostering sustained deep reflection, both of the theoretical foundations of her course as well as on the student's emerging scholarly voices (Freire, [1970] 2000: 51). A semester-long, service-learning project is difficult to integrate into a content-based course. Hurst's article outlines strategies for nurturing deep learning through reflection and *praxis*. Reflecting on her process as well as implementation, Hurst points to methods for demystifying knowledge creation through iterative, collaborative work.
 
 ### “Extraordinary Materials”
 ![screen shot](images/extraordinary-materials.jpg)
