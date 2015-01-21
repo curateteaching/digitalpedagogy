@@ -77,7 +77,7 @@ Dierkes-Thrun's website offers a quick overview of the variety of different digi
 * Copy of Artifact: forthcoming
 * Creator: [Queering the Museum](http://queeringthemuseum.org/)
 
-The *Digital Storytelling Project* is a Seattle-based project suppored by Queering the Museum, a group dedicated to increasing LGBTQ representation in museums. The storytelling project invites LGBTQ individuals from the Puget Sound region to reflect on their lives, to use their own narration and photos to create a short video. The project allows people to tell their own stories, to decide how they want to be represented, and to share these stories in a *queer*-themed exhibit at The Museuem of History and Industry in Seattle.
+The *Digital Storytelling Project* is a Seattle-based project suppored by Queering the Museum, a group dedicated to increasing LGBTQ representation in museums. The storytelling project invites LGBTQ individuals from the Puget Sound region to reflect on their lives, to use their own narration and photos to create a short video. The project allows people to tell their own stories, to decide how they want to be represented, and to share these stories in a queer-themed exhibit at The Museuem of History and Industry in Seattle.
 
 ### ENGL 1102: "Queer New Media"
 ![screenshot](images/screenshot02_queerdigitalmedia.jpg)
@@ -85,7 +85,7 @@ The *Digital Storytelling Project* is a Seattle-based project suppored by Queeri
 * Copy of Artifact: forthcoming
 * Creator: [Marty Fink](http://lmc.gatech.edu/people/brittain.php) (Georgia Tech)
 
-Multimodal, intersectional, and colorful, Fink's introductory course outlines ways to think about and create *queer* narratives and cultural productions. The course website provides examples of various student responses and projects, including student-made digital games. The strengths of this resource are in its eclecticism, its use of both popular culture and more traditional literature, and the examples of digital work created by students.  Fink’s course asks students to think about and translate James Baldwin’s *Giovanni’s Room* into digital presentations and provocations.
+Multimodal, intersectional, and colorful, Fink's introductory course outlines ways to think about and create queer narratives and cultural productions. The course website provides examples of various student responses and projects, including student-made digital games. The strengths of this resource are in its eclecticism, its use of both popular culture and more traditional literature, and the examples of digital work created by students.  Fink’s course asks students to think about and translate James Baldwin’s *Giovanni’s Room* into digital presentations and provocations.
 
 ### "iLogs"
 ![screenshot](images/screenshot04_ilogs.jpg)
