@@ -94,7 +94,6 @@ Finally, we felt it important to select resources that demonstrate the interconn
 Miriam Posner offers a modest gallery of various digital projects, virtually disassembling them according to the tools and techniques used in their production. Her goal is to show how each is made, so that others might feel empowered to build similar projects or extend the ones highlighted. The site is a helpful starting point for students beginning their own digital projects. Have students explore the site, then visit each example project, to see how the list of parts and techniques correspond to and are manifested in specific results. Get a feel for the affordances of different types of digital projects. In addition to the post, Posner also offers a [video version](http://miriamposner.com/blog/how-did-they-make-that-the-video/) of "How Did They Make That."
 
 ### "The Kits for Cultural History at HASTAC 2014"
-
 ![screenshot](images/kits-for-cultural-history.png)
 * Source URL: [http://maker.uvic.ca/lima/](http://maker.uvic.ca/lima/)
 * Copy of Artifact: forthcoming
@@ -103,7 +102,6 @@ Miriam Posner offers a modest gallery of various digital projects, virtually dis
 Nina Belojevic provides an introduction and rationale for the *Kits for Cultural History* project at the University of Victoria's Maker Lab in the Humanities. These kits help humanists explore questions and topics related to history and culture. They are not intended to be simple instruction manuals, with step-by-step instructions to complete, but rather serve as examples, encouraging inquiry, modification, and reflection. Kits include: [*Electric Jewels*](http://maker.uvic.ca/kit1/), which explores 19th-century wearables, and [*Tennis for Two*](http://maker.uvic.ca/tennis/), which looks at the first video game. The kits suggest that *praxis* goes deeper than simple problem solving. One obvious way to integrate these kits into the classroom is to attempt a group project recreating or extending one. From there, students could be asked to create their own kits, and to write rationales, documenting the process through which they researched and designed them.
 
 ### “Lying about the Past”
-
 ![screenshot](images/lying-about-the-past.png)
 * Source URL: [http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf](http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf)
 * Copy of Artifact: [files/lying-about-the-past.pdf](files/lying-about-the-past.pdf)
