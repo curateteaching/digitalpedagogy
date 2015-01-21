@@ -187,6 +187,6 @@ Rosner, Daniela K. “Extraordinary Materials.” California College of the Arts
 
 Scholars’ Lab. “Charter.” University of Virginia Library, August 2014.  Web. 20 October 2014. <http://scholarslab.org/about/charter/>
 
-Stacey, David E. Review of *Textual Intervention: Critical and Creative Strategies for Literacy*, by Rob Pope. *JAC Online* 17.1 (1997): n. pag.  Web. 20 October 2014.  <http://www.jaconlinejournal.com/archives/vol17.1/stacy-textual.pdf]>
+Stacey, David E. Review of *Textual Intervention: Critical and Creative Strategies for Literacy*, by Rob Pope. *JAC Online* 17.1 (1997): n. pag.  Web. 20 October 2014.  <http://www.jaconlinejournal.com/archives/vol17.1/stacy-textual.pdf>
 
 Thomas, Douglas and John Seely Brown. *New Culture of Learning: Cultivating the Imagination for a World of Constant Change.* n.p. 2011.  Print.
