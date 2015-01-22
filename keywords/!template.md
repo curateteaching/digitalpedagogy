@@ -50,6 +50,8 @@ For each of your ten artifacts, please provide:
 	* Brief statement on its relevance to your keyword (why is it important/useful, what does it do well, how does it exemplify digital pedagogy) 
 	* Guidelines for use (how to integrate it into a course, what might need revision/adaptation)
 
+Please order the artifacts purposefully -- either alphabetically (according to title or author) or in an order that denotes a different taxonomy (e.g., from beginner to expert level use).
+
 We have begun a list of FAQ in a ReadMe file (https://github.com/curateteaching/digitalpedagogy/blob/master/README.md) in addition to a description of the project (https://github.com/curateteaching/digitalpedagogy/blob/master/description.md) and all other keywords (https://github.com/curateteaching/digitalpedagogy/blob/master/listOfKeywords.md). 
 
 Feel free to push these artifacts to a server for remote access, and then send us the URL. Or you can create your own GitHub repo for this work. In your Markdown file, you can just include file names (e.g., keyword screenshot1.png) for our reference, with the annotations and other information following them. Ultimately, all of your artifacts will be integrated in this repository (curateteaching/digitalpedagogy). 
@@ -64,15 +66,14 @@ In MLA format, list five related items that are informative for teaching with yo
 
 For each item, include Author, Title, and URL, in alphabetical order.
 
-Items may include: 
+Items may include, but are not limited to: 
 * Scholarly journal article
 * Book 
 * Video, audio, or other dynamic media
 * Crowdsourced document 
 * Blog post 
-* Website
 
 ## WORKS CITED
 
-A works cited for all references in your entry, including your ten artifacts, your five related materials, and anything referenced in your curatorial statement.  
+A works cited for all references in your entry, including your ten artifacts, your five related materials, and anything referenced in your curatorial statement in MLA style.  
 
