@@ -60,7 +60,7 @@ Does it matter if a classroom is a little rectangle in a building or a little re
 
 ### Close Reading Exercise via Tumblr 
 ![screenshot](images/interface-HoL-Douglass-Pokornowski.png)
-* Source URL: english10introductiontolit.tumblr.com
+* Source URL: http://english10introductiontolit.tumblr.com
 * Copy of Artifact: [files/interface-Douglass-Pok-ENGL 10-HoL-Remix.pdf](files/interface-Douglass-Pok-ENGL 10-HoL-Remix.pdf)
 * Creators: Jeremy Douglass (University of California Santa Barbara) and Steven Pokornowski (University of California Santa Barbara)
 
