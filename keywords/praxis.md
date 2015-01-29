@@ -63,6 +63,7 @@ Finally, we felt it important to select resources that demonstrate the interconn
 
 ### “Bibliocircuitry and the Design of the Alien Everyday”
 ![screenshot](images/bibliocircuitry.jpg)
+
 * Source URL: [http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051](http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051)
 * Copy of Artifact: [files/bibliocircuitry.pdf](files/bibliocircuitry.pdf)
 * Creators: Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, [Kari Kraus](http://www.karikraus.com/), Cameron Mozafari, and Kathryn Skutlin (University of Maryland)
@@ -71,6 +72,7 @@ Finally, we felt it important to select resources that demonstrate the interconn
 
 ### "Doing Feminist Theory Through Digital Video"
 ![screen shot](images/feminist-theory.jpg)
+
 * Source URL: [http://adanewmedia.org/2014/07/issue5-hurst/](http://adanewmedia.org/2014/07/issue5-hurst/)
 * Copy of Artifact: forthcoming
 * Creator: [Rachel Alpha Johnston Hurst](http://www.rachelhurst.ca/Dr._Rachel_Alpha_Johnston_Hurst/Welcome%21.html) (St. Francis Xavier University)
@@ -79,6 +81,7 @@ Finally, we felt it important to select resources that demonstrate the interconn
 
 ### “Extraordinary Materials”
 ![screen shot](images/extraordinary-materials.jpg)
+
 * Source URL: [http://dada.cca.edu/~drosner/materials/syllabus.html](http://dada.cca.edu/~drosner/materials/syllabus.html)
 * Copy of Artifact: forthcoming
 * Creator: [Daniela K. Rosner](http://danielarosner.com) (University of Washington)
@@ -87,6 +90,7 @@ Finally, we felt it important to select resources that demonstrate the interconn
 
 ### “How Did They Make That?”
 ![screenshot](images/how-did-they-make-that.png)
+
 * Source URL: [http://miriamposner.com/blog/how-did-they-make-that/](http://miriamposner.com/blog/how-did-they-make-that/)
 * Copy of Artifact: forthcoming
 * Creator: [Miriam Posner](http://miriamposner.com/) (University of California, Los Angeles)
@@ -95,6 +99,7 @@ Miriam Posner offers a modest gallery of various digital projects, virtually dis
 
 ### "The Kits for Cultural History at HASTAC 2014"
 ![screenshot](images/kits-for-cultural-history.png)
+
 * Source URL: [http://maker.uvic.ca/lima/](http://maker.uvic.ca/lima/)
 * Copy of Artifact: forthcoming
 * Creator: [Nina Belojevic](http://maker.uvic.ca/author/nbelojevic/) (University of Victoria)
@@ -103,6 +108,7 @@ Nina Belojevic provides an introduction and rationale for the *Kits for Cultural
 
 ### “Lying about the Past”
 ![screenshot](images/lying-about-the-past.png)
+
 * Source URL: [http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf](http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf)
 * Copy of Artifact: [files/lying-about-the-past.pdf](files/lying-about-the-past.pdf)
 * Creator: [T. Mills Kelly](http://edwired.org/) (George Mason University)
@@ -111,6 +117,7 @@ Mills Kelly has taught several iterations of an undergraduate history course ent
 
 ### The Scholars' Lab Praxis Program and Praxis Network
 ![screenshot](images/praxisnetwork.jpg)
+
 * Source URL: [http://praxis-network.org/](http://praxis-network.org/)
 * Copy of Artifact: forthcoming
 * Creator: [Scholars' Lab](http://scholarslab.org/) (University of Virigina)
@@ -119,6 +126,7 @@ The [Praxis Program](http://praxis.scholarslab.org) is an extracurricular attemp
 
 ### “Victorian Literature + Victorian Informatics”
 ![screenshot](images/victorian-literature.jpg)
+
 * Source URL: [http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/](http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/)
 * Copy of Artifact: forthcoming
 * Creator: [Rachel Sagner Buurma](http://rachelsagnerbuurma.org/) (Swarthmore College)
@@ -127,6 +135,7 @@ Victorian Literature and Victorian Informatics is a richly detailed English syll
 
 ### “The Wikiblitz: A Wikipedia Editing Assignment in a First Year Undergraduate Class”
 ![screen shot](images/wikiblitz.jpg)
+
 * Source URL: [http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/]( http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/)
 * Copy of Artifact: forthcoming
 * Creator: [Shawn Graham](http://www.graeworks.net/) (Carleton University)
@@ -135,6 +144,7 @@ Graham describes an in-class assignment designed to "explore how knowledge is cr
 
 ### “Writing on Clay”
 ![screen shot](images/writing-on-clay.jpg)
+
 * Source URL: [http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA74#v=onepage&q=modeling%20clay&f=false](http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA74#v=onepage&q=modeling%20clay&f=false)
 * Copy of Artifact: forthcoming
 * Creator: [Dennis E.  Baron](http://www.english.illinois.edu/-people-/faculty/debaron/) (University of Illinois)

@@ -48,7 +48,8 @@ The keyword "hybrid" suggests a methodology for teachers to employ in constructi
 ## CURATED ARTIFACTS
 
 ### "A Million Blue Pages"
-![screenshot](images/hybrid%20million%20blue%20pages%20screenshot%20.jpg)
+![screenshot](images/hybrid-million-blue-pages-screenshot.jpg)
+
 * Source URL: http://amillionbluepages.net/ 
 * Copy of Artifact: forthcoming
 * Creator: Zach Whalen (University of Mary Washington)
@@ -56,7 +57,8 @@ The keyword "hybrid" suggests a methodology for teachers to employ in constructi
 *House of Leaves* has produced an extensive network of digital marginalia. In 2011, Zach Whalen, Erin Templeton, Paul Benzon, Mark Sample, and Brian Croxall taught the novel together and [coauthored a collaborative assignment](http://www.briancroxall.net/dh/assignments/sharing-and-re-networking-house-of-leaves/) that bridged work done at each of their institutions. The resource I’m including here is a 2014 follow-up, which also connected classes at multiple institutions. *A Million Blue Pages* is a multimedia annotation of *House of Leaves*. It serves as an example of students and teachers using digital tools to work together outside the constraints of geography and institutional affiliation. And the contributions to the site have continued well after the various courses ended. This is one of the key components of a well-designed hybrid assignment -- its ability to engage a community beyond its own bounds -- to create learning spaces without a clear end.
 
 ### "A 12-week Assignment to Write a Wikipedia Article"
-![screenshot](images/hybrid%20wiki%20site.jpg)
+![screenshot](images/hybrid-wiki-site.jpg)
+
 * Source URL: http://outreach.wikimedia.org/wiki/Education/Syllabi
 * Copy of Artifact: forthcoming
 * Creator: Wikimedia Foundation
@@ -64,7 +66,8 @@ The keyword "hybrid" suggests a methodology for teachers to employ in constructi
 This assignment offers a guide to having students contribute to Wikipedia. Orienting students to the back-end of Wikipedia helps them think critically about networked communities and knowledge construction on the Web. In Fall 2014, Adeline Koh incorporated this activity into her hybrid [Feminist Theory Seminar](http://www.adelinekoh.org/blog/2014/08/20/syllabus-draft-gis-3614-seminar-in-feminist-theory-fall-2014/) as a major project aimed at improving “conceptual skills, critical thinking, and oral and written communication.” She contextualized the assignment within a discussion of how women are represented within the Encyclopedia, and how this representation is driven (or exactly not driven) by the dearth of female contributors. Asking students to write and rewrite Wikipedia encourages them to engage directly in public scholarship. Even if their revisions don’t *stick*, this work invites a critical discussion of agency that moves well beyond the too often closed space of a physical classroom.
 
 ### "Twitter vs. Zombies"
-![screenshot](images/hybrid%20tvsz%20site.jpg)
+![screenshot](images/hybrid-tvsz-site.jpg)
+
 * Source URL: http://twittervszombies.com/
 * Copy of Artifact: forthcoming
 * Creators: Pete Rorabaugh (Southern Polytechnic State University) and Jesse Stommel (University of Wisconsin-Madison)
@@ -72,7 +75,8 @@ This assignment offers a guide to having students contribute to Wikipedia. Orien
 “Twitter vs. Zombies” is a game that aims at building networked communities, introducing new users to Twitter, and developing new media literacies. The initial rules were incredibly simple, a catalyst for play and improvisation. The outcomes were emergent with participants reflecting upon their learning in process on blogs, Storify, Twitter, and elsewhere. The game depends on a self-governing community and has been hacked in at least 5 subsequent versions. In February 2013, students in Pete Rorabaugh’s GSU class and Janine DeBaise’s SUNY class developed and ran the second iteration. Since then, students and teachers as far as Cairo, Egypt have forked and remixed the game. While this experiment happened on Twitter, my interest is ultimately less in advocating for a specific platform and more in how a hybrid teaching strategy asks us to think critically about the tools we use and how they can connect students to each other via the web.
 
 ### "Occupy Class"
-![screenshot](images/hybrid%20occupy%20site.jpg)
+![screenshot](images/hybrid-occupy-site.jpg)
+
 * Source URL: http://occupyclass.org/
 * Copy of Artifact: forthcoming
 * Creator: Pete Rorabaugh (Southern Polytechnic State University)
@@ -80,7 +84,8 @@ This assignment offers a guide to having students contribute to Wikipedia. Orien
 “Occupy Class” is a site designed by the students in Pete Rorabaugh’s Spring 2012 course in Electronic Writing and Publishing at Georgia State University. According to Rorabaugh’s [description of the class](http://mediacommons.futureofthebook.org/imr/2013/03/07/building-context-occupy-class-and-media-res), the goal was to “document the unfolding narrative of Occupy.” Pedagogy is not ideologically neutral, and a hybrid teaching strategy can’t be about merely moving students from a closed physical space (the classroom) to a closed digital one (the learning management system). The work illustrated here is deeply connected to Critical Pedagogy, which aims at helping learners understand how they are situated -- actively, politically, and with agency -- inside much larger local and global communities. This is about not only having students do work for an authentic audience, but also having teachers and learners alike show up as full (and ethical) participants in those communities.
 
 ### "Note Tweeting"
-![screenshot](images/hybrid%20note%20tweeting%20site.jpg)
+![screenshot](images/hybrid-note-tweeting-site.jpg)
+
 * Source URL: http://chuckrybak.com/tweeting-class-discussions-and-notes
 * Copy of Artifact: forthcoming
 * Creator: Chuck Rybak (University of Wisconsin-Green Bay)
@@ -88,7 +93,8 @@ This assignment offers a guide to having students contribute to Wikipedia. Orien
 Chuck Rybak offers an excellent example of how students can use a tool like Twitter to extend an otherwise face-to-face discussion. Rybak uses social media in his courses to build a literal and figurative *open-door* classroom. Students turn “oral discussions into usable texts,” a set of dialogic (as opposed to monologic) notes for a discussion, both for students to review and as a way of allowing outsiders to eavesdrop. Students [Storify](http://www.hybridpedagogy.com/journal/how-to-storify-why-to-storify/) their tweets, which makes a more permanent curated collection of tweets than their experience of the discussion. The students move through several recursive layers: ideas in their brains, discussion in a physical room, tweets that act as a sort of Greek chorus, a Storify that curates those thoughts further, and feedback to the Storify, which can be used to prompt future face-to-face discussions.
 
 ### "A Public Literary Twitter Role-Play"
-![screenshot](images/hybrid%20literary%20roleplay%20site.jpg)
+![screenshot](images/hybrid-literary-roleplay-site.jpg)
+
 * Source URL: http://shelleysfrankenstein.wordpress.com/frankenstein-a-public-literary-twitter-role-play-on-twitter/
 * Copy of Artifact: forthcoming
 * Creator: Petra Dierkes-Thrun (Stanford University)
@@ -96,7 +102,8 @@ Chuck Rybak offers an excellent example of how students can use a tool like Twit
 Petra Dierkes-Thrun has run several iterations of the Public Literary Twitter Role-play, having students re-enact and inhabit texts like *The Portrait of Dorian Gray*, *Lolita*, and *Frankenstein*. Each experiment has had a different prompt used to engage students in her physical class and also virtual participants around the world. Her [larger goals](http://www.fhi.duke.edu/events/petra-dierkes-thrun-lecture) focus on “close-reading, critical thinking, and critical writing,” allowing students to comment on the text and also put their readings to use, drawing non-scholars into animated language-play and literary discussion. Dierkes-Thrun does not “make” students participate openly online but “invites” them to. When asking students to work on the open Web, it’s important to give thought to student privacy, data, and FERPA, but what is most important is that students be given space to make informed choices about how they will occupy the Web.
 
 ### "Social Media Design and Build"
-![screenshot](images/hybrid%20social%20media%20design%20screenshot.jpg)
+![screenshot](images/hybrid-social-media-design-screenshot.jpg)
+
 * Source URL: http://kathiiberens.com/teaching/sample-syllabi/design-build/
 * Copy of Artifact: forthcoming
 * Creator: Kathi Inman Berens (USC Annenberg)
@@ -104,7 +111,8 @@ Petra Dierkes-Thrun has run several iterations of the Public Literary Twitter Ro
 In her hybrid USC Annenberg course, Kathi Inman Berens works with students face-to-face, but also using synchronous video platforms. The course focuses on how we engage one another via digital media, and the students work in teams on projects for real-world clients. From the syllabus: “I expect you to be on your laptops and smartphones during class. Connectivity is essential to our work.” She asks students to keep a “Distraction Log” to “make observations about their own media consumption habits.” The course spans media, geography, and traditional/non-traditional learning environments. Helping students understand how to move within and between these spaces is a key literacy for working in digital space. [She writes of her teaching philosophy,](http://kathiiberens.com/teaching/philosophy/) "It doesn’t matter to me if my classroom is a little rectangle in a building or a little rectangle above my keyboard. Doors are rectangles; rectangles are portals. We walk through."
 
 ### "Spine Poetry"
-![screenshot](images/hybrid%20spine%20poetry%20screenshot.jpg)
+![screenshot](images/hybrid-spine-poetry-screenshot.jpg)
+
 * Source URL: http://spinepoetry.com/
 * Copy of Artifact: forthcoming
 * Creator: Kathi Inman Berens (USC Annenberg), Lans Pacifico, Carrie Padian, Ken Schultz, Jesse Stommel (University of Wisconsin-Madison), Jessica Zisa
@@ -112,7 +120,8 @@ In her hybrid USC Annenberg course, Kathi Inman Berens works with students face-
 A hybrid learning environment deconstructs hierarchies, giving students a fuller sense of their own agency. In winter 2013, I co-taught with Kathi Inman Berens a small seminar with four non-traditional undergraduate students. Together, the students worked with the Library of Congress in Washington D.C. to build a social media campaign promoting the LOC's first exhibit of electronic literature. The students also coordinated a physical event at the Lake Oswego Library outside Portland, OR. Their goal was to bring the Library of Congress to Portland and the Web -- and to bring Portland and the Web to the Library of Congress, using digital technology to connect physical work happening at two remote locations. From the [artist statement](http://spinepoetry.com/about): “Spine poems bridge the physical world of books with stories that are born digitally.” The project was the course, designed and developed by the students from the start with the teachers participating as co-learners.
 
 ### "Modern and Contemporary American Poetry" 
-![screenshot](images/hybrid%20modpo%20screenshot.jpg)
+![screenshot](images/hybrid-modpo-screenshot.jpg)
+
 * Source URL: https://www.coursera.org/course/modernpoetry
 * Copy of Artifact: forthcoming
 * Creator: Al Filreis (University of Pennsylvania)
@@ -120,7 +129,8 @@ A hybrid learning environment deconstructs hierarchies, giving students a fuller
 A truly "Hybrid" Massive Open Online Course that Al Filreis began offering in 2012. The course experiments with the MOOC format and hacks the Coursera platform to create opportunities for students to have a central role in both their own learning but also in the teaching of the course. Instead of focusing on video lectures at the head of each unit, Filreis hosts live discussions at the Kelly Writers House that feature himself, University of Pennsylvania students, as well as students from around the world that call in (and sometimes make visits to PA). The physical place of the Kelly Writers house becomes the fulcrum around which the online course pivots. The success of the course has less to do with inherent potentials of the MOOC platform and more to do with the way Filreis uses the platform to realize the mission and pedagogies of the Kelly Writers House. 
 
 ### "Guidelines for Public, Student Class Blogs: Ethics, Legalities, FERPA and More"
-![screenshot](images/hybrid%20FERPA%20guidelines.jpg)
+![screenshot](images/hybrid-FERPA-guidelines.jpg)
+
 * Source URL: http://www.hastac.org/blogs/cathy-davidson/2012/11/30/guidelines-public-student-class-blogs-ethics-legalities-ferpa-and-mo
 * Copy of Artifact: forthcoming
 * Creator: Kevin Smith (Duke University)

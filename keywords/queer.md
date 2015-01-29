@@ -57,6 +57,7 @@ possibility for another world. --Jose Esteban Munoz, *Cruising Utopia*
 
 ### "Best Practices: Creating an LGBT-inclusive School Climate"
 ![screenshot](images/screenshot06_teachingtolerance.jpg)
+
 * Source URL: http://www.tolerance.org/lgbt-best-practices
 * Copy of Artifact: forthcoming
 * Creator: [Southern Law Poverty Center](http://www.splcenter.org/)
@@ -65,6 +66,7 @@ Part of the Teaching Tolerance project, this website offers a list of resources 
 
 ### "Digital Pedagogy: Twitter, Close Reading, and Learning/Teaching in Public"
 ![screenshot](images/screenshot03_twitter.jpg)
+
 * Source URL: http://litilluminations.wordpress.com/2014/01/31/digital-pedagogy-close-reading-and-learning-in-public/
 * Copy of Artifact: forthcoming
 * Creator: [Petra Dierkes-Thrun](https://dlcl.stanford.edu/people/petra-dierkes-thrun?q=people/petra-dierkes-thrun) (Stanford University)
@@ -73,6 +75,7 @@ Dierkes-Thrun's website offers a quick overview of the variety of different digi
 
 ### *Digital Storytelling Project*
 ![screenshot](images/screenshot08_queeringthemuseum.jpg)
+
 * Source URL: http://queeringthemuseum.org/current-projects/digital-storytelling-project/
 * Copy of Artifact: forthcoming
 * Creator: [Queering the Museum](http://queeringthemuseum.org/)
@@ -81,6 +84,7 @@ The *Digital Storytelling Project* is a Seattle-based project suppored by Queeri
 
 ### ENGL 1102: "Queer New Media"
 ![screenshot](images/screenshot02_queerdigitalmedia.jpg)
+
 * Source URL: http://queergatech.tumblr.com/
 * Copy of Artifact: forthcoming
 * Creator: [Marty Fink](http://lmc.gatech.edu/people/brittain.php) (Georgia Tech)
@@ -89,6 +93,7 @@ Multimodal, intersectional, and colorful, Fink's introductory course outlines wa
 
 ### "iLogs"
 ![screenshot](images/screenshot04_ilogs.jpg)
+
 * Source URL: http://www.edmondchang.com/466/assignments.html
 * Copy of Artifact: forthcoming
 * Creator: [Edmond Y. Chang](http://www.edmondchang.com/) (Drew University)
@@ -97,6 +102,7 @@ These brief assignments ask students to keep and maintain a weekly "identity log
 
 ### *Lim*
 ![screenshot](images/screenshot09_lim.jpg)
+
 * Source URL: http://mkopas.net/files/Lim/
 * Copy of Artifact: forthcoming
 * Creator: [Merritt Kopas](http://mkopas.net/)
@@ -105,6 +111,7 @@ On the surface, *Lim* is a very simple game where the play moves a small, flashi
 
 ### "Queer Feminist Media Practice"
 ![screenshot](images/screenshot10_ada.jpg)
+
 * Source URL: [http://adanewmedia.org/2014/07/issue5-fotopoulouoriordan/](http://adanewmedia.org/2014/07/issue5-fotopoulouoriordan/)
 * Copy of Artifact: forthcoming
 * Creator: [Aristea Fotopoulou](http://www.sussex.ac.uk/profiles/206365) and [Kate O'Riordan](http://www.sussex.ac.uk/profiles/30746) (editors, [*Ada: A Journal of Gender, New Media, and Technology*](http://adanewmedia.org/))
@@ -113,6 +120,7 @@ This special issue of *Ada* hopes, in the words of the editors, to explore "what
 
 ### *Queer Geek Theory*: Classes
 ![screenshot](images/screenshot05_queergeektheory.jpg)
+
 * Source URL: http://www.queergeektheory.org/teaching_main/classes/
 * Copy of Artifact: forthcoming
 * Creator: [Alexis Lothian](http://www.queergeektheory.org/) (University of Maryland)
@@ -122,6 +130,7 @@ technologies.  She says her course try to satisfy “learning objectives through
 
 ### "Refracting the Digital Humanities"
 ![screenshot](images/screenshot01_refracting.jpg)
+
 * Source URL: http://thejarahtree.com/2014/07/05/refracting-digital-humanities/
 * Copy of Artifact: forthcoming
 * Creator: [Jarah Moesch](http://thejarahtree.com/) (University of Maryland, College Park)
@@ -130,6 +139,7 @@ Self-described as "an experimental artist-scholar who uses the queer sick body t
 
 ### *#TransformDH*
 ![screenshot](images/screenshot07_transformdh.jpg)
+
 * Source URL: http://transformdh.org/
 * Copy of Artifact: forthcoming 
 * Creator: [#TransformDH](http://transformdh.org/) (Multiple Contributors) 

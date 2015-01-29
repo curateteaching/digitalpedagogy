@@ -53,6 +53,7 @@ There are, of course, many more excellent syllabi, assignments, and scholarly jo
 
 ### Aristotle's _On Rhetoric_ 
 ![Screenshot: Lee Honeycutt's Hypertext Compilation of Aristotle's On Rhetoric](images/rhetoric-honeycutt.png)
+
 * http://rhetoric.eserver.org/aristotle/ 
 * Author: Aristotle, Trans. Rhys Roberts
 * Lee Honeycutt, Alpine Lakes Design; Rhetoric and Composition eServer
@@ -61,6 +62,7 @@ Aristotle's _On Rhetoric_ is one of the foundational texts of the Western rhetor
 
 ### Silva Rhetoricae: The Forest of Rhetoric
 ![Screenshot: Gideon Burton's Silva Rhetoricae](images/rhetoric-sivlarhetoricae.png) 
+
 * http://rhetoric.byu.edu/  
 * Author: Gideon Burton
 * Brigham Young University
@@ -69,6 +71,7 @@ Burton's _Silva Rhetoricae_ is a comprehensive catalog of rhetorical schemes and
 
 ### University of Kentucky Writing, Rhetoric, and Digital Studies Teaching Materials Database
 ![Screenshot: Teaching Materials Database](images/rhetoric-WRDresources.png)
+
 * https://wrd.as.uky.edu/teaching-materials-database  
 * Members of the UK Writing, Rhetoric, and Digital Studies program
 * University of Kentucky department of Writing, Rhetoric, and Digital Studies
@@ -77,6 +80,7 @@ This site provides a database of teaching materials that can be searched based o
 
 ### Toward A Decolonial Digital Progymnasmata
 ![Screenshot: Timothy Dougherty Blog Entry](images/rhetoric-dougherty.png)
+
 * http://www.timothyrdougherty.net/toward-a-decolonial-digital-progymnasmata/ 
 * Author: Timothy Dougherty
 
@@ -86,6 +90,7 @@ This blog post provides a provocative consideration of the relationship between 
 
 ### Guide to Teaching Visual Rhetoric
 ![Screenshot: Viz entry on Guide to Teaching Visual Rhetoric ](images/rhetoric-viz.png)
+
 * http://viz.cwrl.utexas.edu/node/411 
 * Author: Tim Turner
 * _viz. Visual Rhetoric - Visual Culture - Pedagogy_
@@ -94,6 +99,7 @@ This overview provides a brief definition of visual rhetoric and describes a two
 
 ### Syllabus: Visual Rhetoric and Document Design
 ![Screenshot: Dànielle DeVoss's Visual Rhetoric Syllabus](images/rhetoric-devoss.png)
+
 * https://www.msu.edu/user/devossda/360/index.html 
 * Dànielle DeVoss
 * Michigan State University
@@ -102,6 +108,7 @@ Drawing on the work of Robin Williams and Anne Wysocki, among others, DeVoss's s
 
 ### Assignment: Narrative Title Sequence
 ![Screenshot: Craig Stroupe's Visual Rhetoric Assignment](images/rhetoric-stroupe.png)
+
 * http://www.d.umn.edu/~cstroupe/f11/4260/narrative\_title/narrative\_title\_sequence.html 
 * Craig Stroupe
 * Visual Rhetoric and Culture, University of Minnesota at Duluth
@@ -113,6 +120,7 @@ This example of visual rhetoric requires a combination of analysis (of title seq
 
 ### Why Teach Digital Writing?
 ![Screenshot: Why Teach Digital Writing Kairos webtext](images/rhetoric-wide.png)
+
 * http://kairos.technorhetoric.net/10.1/binder2.html?coverweb/wide/index.html 
 * The WIDE Research Center Collective
 * _Kairos: A Journal of Rhetoric, Technology, and Pedagogy_ 10.2 (2005)
@@ -121,6 +129,7 @@ While not a pedagogical guide per se, this webtext, published in _Kairos_, provi
 
 ### Syllabus Resource: Digital Rhetoric: A Syllabus Approach 
 ![Screenshot: Purdue University Digital Rhetoric Course Materials](images/rhetoric-purdueDR.png)
+
 * https://sites.google.com/site/digitalrhetoricssyllabus/  
 * Emily Legg, Adam Strantz, & Alex Layne
 * Purdue Univeristy Department of English
@@ -129,6 +138,7 @@ This site, much like the University of Kentucky database, collects and collates 
 
 ### Assignment: (C).omprehensive (O).nline (D).ocument (E).valuation
 ![Screenshot: CODE assignment Kairos webtext](images/rhetoric-code.png)
+
 * http://kairos.technorhetoric.net/10.2/binder.html?praxis/ridolfo/index.html 
 * Jim Ridolfo
 * _Kairos: A Journal of Rhetoric, Technology, and Pedagogy_
