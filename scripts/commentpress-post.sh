@@ -7,8 +7,11 @@ SHORTNAME="${BASENAME%.*}"
 #Capitlize it for use in the title
 CAPITALIZED_SHORTNAME="${SHORTNAME^}"
 
-#Change image locations
-cat $1 | sed 's#(images#(../files/2015/01#' > $1.edited
+#Change image locations to ones that WP will understand. Change this if it's not January 2015. 
+sed -i.bak 's#(images#(../files/2015/01#' $1
+
+#Remove leading YAML block, props to http://stackoverflow.com/a/28222257/584121  
+sed -i.bak '1 { /^---/ { :a N; /\n---/! ba; d} }' $1
 
 #Convert to HTML
 pandoc -o $SHORTNAME.html $1.edited
