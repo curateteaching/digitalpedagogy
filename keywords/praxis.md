@@ -82,7 +82,7 @@ Finally, we felt it important to select resources that demonstrate the interconn
 ### “Extraordinary Materials”
 ![screen shot](images/extraordinary-materials.jpg)
 
-* Source URL: [http://dada.cca.edu/~drosner/materials/syllabus.html](http://dada.cca.edu/~drosner/materials/syllabus.html)
+* Source URL: [http://dada.cca.edu/\~drosner/materials/syllabus.html](http://dada.cca.edu/\~drosner/materials/syllabus.html)
 * Copy of Artifact: forthcoming
 * Creator: [Daniela K. Rosner](http://danielarosner.com) (University of Washington)
 
