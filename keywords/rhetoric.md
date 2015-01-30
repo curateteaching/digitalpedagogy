@@ -148,15 +148,15 @@ In this assignment, Jim Ridolfo provides a rationale and an introduction to usin
 
 ## Related Materials
 
-1. Ramage, John D. _Rhetoric: A User's Guide_. Boston: Longman, 2006. Print.
+Ramage, John D. _Rhetoric: A User's Guide_. Boston: Longman, 2006. Print.
 
-2. Handa, Carolyn. _Visual Rhetoric in a Digital World: A Critical Sourcebook_. Boston: Bedford/St. Martin's, 2004. Print.
+Handa, Carolyn. _Visual Rhetoric in a Digital World: A Critical Sourcebook_. Boston: Bedford/St. Martin's, 2004. Print.
 
-3. Zappen, James P. "Digital rhetoric: Toward an integrated theory." _Technical Communication Quarterly_ 14.3 (2005): 319-325. Print.
+Zappen, James P. "Digital rhetoric: Toward an integrated theory." _Technical Communication Quarterly_ 14.3 (2005): 319-325. Print.
 
-4. DigiRhet.Net "Teaching Digital Rhetoric: Community, Critical Engagement, and Application."  _Pedagogy: Critical Approaches to Teaching Literature, Language, Composition, and Culture_ 6.2 (2006): 231-259. Print. 
+DigiRhet.Net "Teaching Digital Rhetoric: Community, Critical Engagement, and Application."  _Pedagogy: Critical Approaches to Teaching Literature, Language, Composition, and Culture_ 6.2 (2006): 231-259. Print. 
  
-5. Gayle Morris Sweetland Digital Rhetoric Collaborative. 2014. Web. 1 November 2014. \<  http://www.digitalrhetoriccollaborative.org \>
+Gayle Morris Sweetland Digital Rhetoric Collaborative. 2014. Web. 1 November 2014. \<  http://www.digitalrhetoriccollaborative.org \>
 
 
 ## Works Cited  
