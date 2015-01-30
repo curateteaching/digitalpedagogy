@@ -173,7 +173,7 @@ Posner, Miriam.  "How Did They Make That? The Video!"  http://miriamposner.com/b
 
 Rheingold, Howard.  *The Peeragogy Handbook.* http://peeragogy.org/  Web. Accessed 15 November 2014.
 
-Stommel, Jesse.  ""12 Steps for Creating a Digital Assignment or Hybrid Class," http://www.jessestommel.com/blog/files/12-step-digital-assignment-hybrid-class.html
+Stommel, Jesse.  "12 Steps for Creating a Digital Assignment or Hybrid Class," http://www.jessestommel.com/blog/files/12-step-digital-assignment-hybrid-class.html
 
 -----.  "The Twitter Essay."  http://www.hybridpedagogy.com/journal/the-twitter-essay/  Web.  Accessed 15 November 2014.			
 
