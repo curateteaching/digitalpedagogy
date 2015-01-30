@@ -142,6 +142,7 @@ https://www.upress.umn.edu/book-division/books/reading-writing-interfaces
 Jason Farman, "Hands On Explorations for Mobile Storytelling,"  *The Mobile Story: Narrative Practices With Locative Technologies.*  http://themobilestory.com/explorations/
 
 Alan Liu, "DH Tools Wiki," http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools					
+
 Miriam Posner, "How Did They Make That? The Video!" http://miriamposner.com/blog/how-did-they-make-that-the-video/	
 
 Howard Rheingold, "The Peeragogy Handbook," http://peeragogy.org/
