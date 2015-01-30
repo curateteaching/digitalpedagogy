@@ -11,7 +11,7 @@
 
 # Set the page ID for the page "List of Keywords". This will be used to make
 # the keywords child pages of this page.  
-KEYWORD_LIST_ID=211
+KEYWORD_LIST_ID=242
 
 # Get the basename 
 BASENAME=$(basename "$1")
@@ -50,8 +50,8 @@ then
 	ORDER=-2
 	#This document is not a keyword. 
 	KEYWORD=0
-	sed -i 's#(listOfKeywords.md)#(../listOfKeywords)#g' $1.edited
-	sed -i 's#(keywords/!template.md)#(../template)#g' $1.edited
+	sed -i 's#(listOfKeywords.md)#(../Keywords)#g' $1.edited
+	sed -i 's#(keywords/!template.md)#(https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/!template.md)#g' $1.edited
 fi 
 
 #In listOfKeywords.md, expand the title and fix local links. 
@@ -62,7 +62,7 @@ then
 	#This document is not a keyword. 
 	KEYWORD=0
 	# Expand the title.  
-	TITLE='List of Keywords'
+	TITLE='Keywords'
 	# Make local links into WP-friendly links 
 	sed -i 's#(keywords/\(.*\)\.md)#(../\1)#g' $1.edited
 
