@@ -157,7 +157,7 @@ Cordell, Ryan.  "Grad ProSeminar Guest Talk: Not Reading."  http://ryancordell.o
 
 Cramer, Florian and Matthew Fuller.  "Interface."  *Software Studies: a Lexicon*, ed. Matthew Fuller.  Cambridge: M.I.T. Press.  2008.
 
-Douglass, Jeremy and Steven Pokornowski.  "English 10 Introduction to Lit: *House of Leaves* Remix Assignment.  http://english10introductiontolit.tumblr.com/.  Web.  Accessed 15 November 2014.
+Douglass, Jeremy and Steven Pokornowski.  "English 10 Introduction to Lit: *House of Leaves* Remix Assignment."  http://english10introductiontolit.tumblr.com/.  Web.  Accessed 15 November 2014.
 
 Emerson, Lori. *Reading Writing Interfaces: From the Digital to the Bookbound.*  Minneapolis: University of Minnesota Press.  2014.  Print.  
 
