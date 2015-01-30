@@ -64,7 +64,7 @@ Does it matter if a classroom is a little rectangle in a building or a little re
 ![screenshot](images/interface-HoL-Douglass-Pokornowski.png)
 
 * Source URL: http://english10introductiontolit.tumblr.com
-* Copy of Artifact: [files/interface-Douglass-Pok-ENGL 10-HoL-Remix.pdf](files/interface-Douglass-Pok-ENGL 10-HoL-Remix.pdf)
+* Copy of Artifact: [files/interface-Douglass-Pok-ENGL-10-HoL-Remix.pdf](files/interface-Douglass-Pok-ENGL-10-HoL-Remix.pdf)
 * Creators: Jeremy Douglass (University of California Santa Barbara) and Steven Pokornowski (University of California Santa Barbara)
 
 It's ambitious to assign <em>House of Leaves</em> in an introductory literature class.  Desultory, evasive and iconic, <em>HoL</em>  will frustrate almost any reader who aims to read this text closely as Humanists are trained to do.  Jeremy Douglass and Steven Pokornowski create a two-part assignment interface.  The prompt procedurally guides students through making a remix of one page--and only one page--in <em> HoL</em>.  Making their collages, students can work with digital image tools or work with the other "digital," their fingers, making collage from arts and craft supplies.  Handmade remixes are photographed; all remixes are tagged and uploaded to the class's Tumblr site which itself remixes the individual pages into a fragmentary collective.  Their heterogeneity perfectly complements the source text's unfinalizability.   
