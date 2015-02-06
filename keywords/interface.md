@@ -161,7 +161,7 @@ Harris, Katherine D.  "Collaborative Assignment on Nineteenth-Century Materials 
 
 Hergenrader, Trent.  *Steampunk Rochester.* http://steampunkrochester.wikispaces.com/Steampunk+Rochester.  Web.  Accessed 17 November 2014.
 
-Jenstad, Janelle.  *Map of Early Modern London: Pedagogical Partners Project.*  https://www.facebook.com/317355293645/photos/a.10151531363828646.547264.317355293645/10152840660533646/?type=1.  Web.  Accessed 14 November 2014.
+Jenstad, Janelle.  *Map of Early Modern London: Pedagogical Partners Project.*  http://mapoflondon.uvic.ca/pedagogical_partnership.htm. Web. Accessed 14 November 2014.
 
 Liu, Alan.  *DH Tools Wiki.*  http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools.  Web.  Accessed 14 November 2014.
 
