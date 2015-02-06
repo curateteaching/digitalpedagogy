@@ -94,7 +94,7 @@ Created in collaboration among four departments at the Rochester Institute of Te
 
 ### New Undergraduate Pedagogical Partnerships for Large Archival Project
 ![screenshot](images/interface-MoEML-Ped-Partners-Jenstad.png)
-* Source URL: https://www.facebook.com/permalink.php?story_fbid=10152947852203646&id=317355293645
+* Source URL: http://mapoflondon.uvic.ca/pedagogical_partnership.htm
 * Copy of Artifact: forthcoming
 * Creator: Janelle Jenstad (University of Victoria)
 
