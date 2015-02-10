@@ -32,7 +32,7 @@ George Mason University
 
 In the Western tradition, efforts to theorize and codify best practices in rhetoric (the best known example of which is Aristotle's _On Rhetoric_) led fairly quickly to attempts to develop a curriculum for teaching rhetoric (most famously portrayed in the works of Cicero and Quintilian), which in turn became the foundations of teaching in the liberal arts tradition. In other words, "rhetoric" and "pedagogy" have always been intertwined.
 
-Rhetoric is a theory about how communication works, a method for analyzing texts and performances, and a heuristic for the production of effective oral, written, and visual communication. The provenance of rhetoric is the question of how knowledge can be made in the face of uncertainty or where multiple probabilities of potential meaning are at play. For example, we may all agree that a particular object is a table (there is no uncertainty there), but when we argue about where to put it, we are using rhetoric to define the possibilities and choose the best outcome. The key word in the preceding sentence, however is "argue" -- rhetoric comes into play in the process of communication. We can analyze the argument over table-placement using rhetorical methods to evaluate the propositions suggested by those who are arguing, and we can use rhetoric to help craft a more persuasive argument if we are participants in the argument (it has also been suggested that design is an applied form of rhetoric, and as such it could also help make a better table, too). 
+Rhetoric is a theory about how communication works, a method for analyzing texts and performances, and a heuristic for the production of effective oral, written, and visual communication. The provenance of rhetoric is the question of how knowledge can be made in the face of uncertainty or where multiple probabilities of potential meaning are at play. For example, we may all agree that a particular object is a table (there is no uncertainty there), but when we argue about where to put it, we are using rhetoric to define the possibilities and choose the best outcome. The key word in the preceding sentence, however is "argue"—rhetoric comes into play in the process of communication. We can analyze the argument over table-placement using rhetorical methods to evaluate the propositions suggested by those who are arguing, and we can use rhetoric to help craft a more persuasive argument if we are participants in the argument (it has also been suggested that design is an applied form of rhetoric, and as such it could also help make a better table, too). 
 
 All choices about meaningful communication, regardless of medium, are effectively rhetorical choices and can be analyzed as such. Historically, the Humanities arise from the classical trivium of rhetoric, grammar, and logic; many contemporary humanities fields   continue to rely upon rhetorical theories and methods to carry out their work. Literary studies, for instance, uses rhetorical methods (directly derived from classical rhetoric) to analyze a broad range of texts (from novels and poems to film, animation, and digital works). Creative writers use rhetorical heuristics to craft texts. And researchers in all fields use rhetoric in the course of developing and performing scholarship itself.
 
@@ -125,7 +125,7 @@ This example of visual rhetoric requires a combination of analysis (of title seq
 * The WIDE Research Center Collective
 * _Kairos: A Journal of Rhetoric, Technology, and Pedagogy_ 10.2 (2005)
 
-While not a pedagogical guide per se, this webtext, published in _Kairos_, provides a series of scholarly arguments about both values and methods of teaching writing as a digital practice. Perhaps most germane to this collection are the sections on "a rhetorical view of writing" and "how we should teach digital writing" -- together these elements pull together the rhetorical practices (and theories) that support digital writing instruction and the pedagogical methods that make those connections explicit. Along with the scholarly argument, the authors have layered in examples of approaches and assignments throughout the text. This work not only addresses digital writing as rhetorical practice, it is itself an example of digital rhetoric at work in the context of academic scholarship.
+While not a pedagogical guide per se, this webtext, published in _Kairos_, provides a series of scholarly arguments about both values and methods of teaching writing as a digital practice. Perhaps most germane to this collection are the sections on "a rhetorical view of writing" and "how we should teach digital writing"—together these elements pull together the rhetorical practices (and theories) that support digital writing instruction and the pedagogical methods that make those connections explicit. Along with the scholarly argument, the authors have layered in examples of approaches and assignments throughout the text. This work not only addresses digital writing as rhetorical practice, it is itself an example of digital rhetoric at work in the context of academic scholarship.
 
 ### Syllabus Resource: Digital Rhetoric: A Syllabus Approach 
 ![Screenshot: Purdue University Digital Rhetoric Course Materials](images/rhetoric-purdueDR.png)
@@ -134,7 +134,7 @@ While not a pedagogical guide per se, this webtext, published in _Kairos_, provi
 * Emily Legg, Adam Strantz, & Alex Layne
 * Purdue Univeristy Department of English
 
-This site, much like the University of Kentucky database, collects and collates materials that support digital rhetoric practices in the teaching of composition (in this case, Purdue University's first year composition courses). The authors present a course rationale and structure, sample syllabi, and sample assignments. While not a comprehensive resource, it is coherent in terms of its approach, and the sample assignments (which include a 'Collaborative Spaces Review' that links physical presence and digital writing, a data visualization project, and a digital archive research assignment) are sketched out rather than fully formed -- these assignments can thus serve a heuristic function for instructors who want to design their own variants, informed by their own local contexts. 
+This site, much like the University of Kentucky database, collects and collates materials that support digital rhetoric practices in the teaching of composition (in this case, Purdue University's first year composition courses). The authors present a course rationale and structure, sample syllabi, and sample assignments. While not a comprehensive resource, it is coherent in terms of its approach, and the sample assignments (which include a 'Collaborative Spaces Review' that links physical presence and digital writing, a data visualization project, and a digital archive research assignment) are sketched out rather than fully formed—these assignments can thus serve a heuristic function for instructors who want to design their own variants, informed by their own local contexts. 
 
 ### Assignment: (C).omprehensive (O).nline (D).ocument (E).valuation
 ![Screenshot: CODE assignment Kairos webtext](images/rhetoric-code.png)
@@ -152,9 +152,9 @@ Ramage, John D. _Rhetoric: A User's Guide_. Boston: Longman, 2006. Print.
 
 Handa, Carolyn. _Visual Rhetoric in a Digital World: A Critical Sourcebook_. Boston: Bedford/St. Martin's, 2004. Print.
 
-Zappen, James P. "Digital rhetoric: Toward an integrated theory." _Technical Communication Quarterly_ 14.3 (2005): 319-325. Print.
+Zappen, James P. "Digital rhetoric: Toward an integrated theory." _Technical Communication Quarterly_ 14.3 (2005): 319–325. Print.
 
-DigiRhet.Net "Teaching Digital Rhetoric: Community, Critical Engagement, and Application."  _Pedagogy: Critical Approaches to Teaching Literature, Language, Composition, and Culture_ 6.2 (2006): 231-259. Print. 
+DigiRhet.Net "Teaching Digital Rhetoric: Community, Critical Engagement, and Application."  _Pedagogy: Critical Approaches to Teaching Literature, Language, Composition, and Culture_ 6.2 (2006): 231–259. Print. 
  
 Gayle Morris Sweetland Digital Rhetoric Collaborative. 2014. Web. 1 November 2014. \<  http://www.digitalrhetoriccollaborative.org \>
 
@@ -167,7 +167,7 @@ Burton, Gideon. _Silva Rhetoricae: The Forest of Rhetoric_. 2007. Web. 1 Novembe
 
 DeVoss, Dànielle. "Digital Rhetoric and Document Design." Syllabus. 2014. Web. 1 November 2014. \< https://www.msu.edu/user/devossda/360/index.html \>
 
-DigiRhet.Net "Teaching Digital Rhetoric: Community, Critical Engagement, and Application."  _Pedagogy: Critical Approaches to Teaching Literature, Language, Composition, and Culture_ 6.2 (2006): 231-259. Print.
+DigiRhet.Net "Teaching Digital Rhetoric: Community, Critical Engagement, and Application."  _Pedagogy: Critical Approaches to Teaching Literature, Language, Composition, and Culture_ 6.2 (2006): 231–259. Print.
 
 Dougherty, Tim. "Toward A Decolonial Digital Progymnasmata." 2011. Web. 1 November 2014. \< http://www.timothyrdougherty.net/toward-a-decolonial-digital-progymnasmata/ \>
 
@@ -193,4 +193,4 @@ Turner, Tim. "Guide to Teaching Visual Rhetoric." _viz. Visual Rhetoric, Visual 
 
 University of Kentucky Writing, Rhetoric, and Digital Studies. (2013). Teaching Materials Database. Web. 1 November 2014. \< https://wrd.as.uky.edu/teaching-materials-database \>
 
-Zappen, James P. "Digital rhetoric: Toward an integrated theory." _Technical Communication Quarterly_ 14.3 (2005): 319-325. Print.
+Zappen, James P. "Digital rhetoric: Toward an integrated theory." _Technical Communication Quarterly_ 14.3 (2005): 319–325. Print.
