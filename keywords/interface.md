@@ -114,7 +114,7 @@ Many people have heard of <em>Map of Early Modern London</em>, now in its fiftee
 * Copy of Artifact: forthcoming
 * Creator: Sonja S. Mongar (Universidad de Puerto Rico de Mayagüez)
 
-“Consider it not so much a canonic history—-constructed by class—-but a subjective personal history,” declares Sonja S. Mongar on the front door of *Esta Vida Boricua* ("This Puerto Rican Life").  The huge number of life writing stories housed in this wiki are "ethnically rich with threads to Cuba, Dominican Republic, South America, England, Germany, Italy, France, China, United States, Israel, Palestine, Egypt [and] Australia," presents Puerto Rico as a "fertile ground for world Diaspora."  In Spanish and English, this wiki features just one-third of its collected materials because the underfunded project hasn't the staff support to load its multimodal assets.  It seeks volunteers who might edit and post from remote locations.  *Esta Vida Boricua* has a strong pedagogical orientation with a tab specifically for educators: http://estavidaboricua.com/for-educators/  "Notes on Life Narrative," for example, presents fifty-two life writing classifications adapted from Sidonie Smith and Julia Watson's *Reading Autobiography*.  The project developers invite classes to participate in content creation by taking some of the raw materials (mostly audio interviews) and preparing them for web distribution via the wiki.
+“Consider it not so much a canonic history—constructed by class—but a subjective personal history,” declares Sonja S. Mongar on the front door of *Esta Vida Boricua* ("This Puerto Rican Life").  The huge number of life writing stories housed in this wiki are "ethnically rich with threads to Cuba, Dominican Republic, South America, England, Germany, Italy, France, China, United States, Israel, Palestine, Egypt [and] Australia," presents Puerto Rico as a "fertile ground for world Diaspora."  In Spanish and English, this wiki features just one-third of its collected materials because the underfunded project hasn't the staff support to load its multimodal assets.  It seeks volunteers who might edit and post from remote locations.  *Esta Vida Boricua* has a strong pedagogical orientation with a tab specifically for educators: http://estavidaboricua.com/for-educators/  "Notes on Life Narrative," for example, presents fifty-two life writing classifications adapted from Sidonie Smith and Julia Watson's *Reading Autobiography*.  The project developers invite classes to participate in content creation by taking some of the raw materials (mostly audio interviews) and preparing them for web distribution via the wiki.
 
 ### Participatory, Short-Form Critical Essay Writing 
 ![screenshot](images/interface-Twitter-bird-Stommel.jpg)
@@ -154,7 +154,7 @@ Burgess, Helen.  "Shakespeare in Code: Sonnet Conversion." http://helenburgess.c
 
 Cordell, Ryan.  "Grad ProSeminar Guest Talk: Not Reading."  http://ryancordell.org/personal/grad-proseminar-guest-talk-not-reading/.  Web.  Accessed 15 November 2014.
 
------.  "Simulating the Scriptorium."  http://f14tot.ryancordell.org/2014/09/16/lab-3-simulating-the-scriptorium/.  Web.  Accessed 15 November 2014.
+———.  "Simulating the Scriptorium."  http://f14tot.ryancordell.org/2014/09/16/lab-3-simulating-the-scriptorium/.  Web.  Accessed 15 November 2014.
 
 Cramer, Florian and Matthew Fuller.  "Interface."  *Software Studies: a Lexicon*, ed. Matthew Fuller.  Cambridge: M.I.T. Press.  2008.
 
@@ -186,7 +186,7 @@ Rheingold, Howard.  *The Peeragogy Handbook.* http://peeragogy.org/  Web. Access
 
 Stommel, Jesse.  "12 Steps for Creating a Digital Assignment or Hybrid Class," http://www.jessestommel.com/blog/files/12-step-digital-assignment-hybrid-class.html
 
------.  "The Twitter Essay."  http://www.hybridpedagogy.com/journal/the-twitter-essay/  Web.  Accessed 15 November 2014.			
+———.  "The Twitter Essay."  http://www.hybridpedagogy.com/journal/the-twitter-essay/  Web.  Accessed 15 November 2014.			
 
 Wittig, Rob and Mark C. Marino. *1WkNoTech.* http://1wknotech.tumblr.com/  Web.  Accessed 14 November 2014.  
 
