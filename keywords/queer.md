@@ -35,7 +35,7 @@ Foremost queer digital pedagogy understands that technology is never neutral and
 To queer the digital means to challenge the very idea that there are those who belong online or naturally "get tech" and those who are merely observers, visitors, or worst yet, unwelcome interlopers. 
 Though the language of "native" and "immigrant" likely came from John Perry Barlow's ["A Declaration of Independence of Cyberspace"](https://projects.eff.org/~barlow/Declaration-Final.html), Mark Prensky extends the problematic and techno-orientalizing metaphor, saying:
 
-> What should we call these "new" students of today? Some refer to them as the N-[for Net]-gen or D-[for digital]-gen. But the most useful designation I have found for them is *Digital Natives*. Our students today are all "native speakers" of the digital language of computers, video games and the Internet. So what does that make the rest of us? Those of us who were not born into the digital world but have, at some later point in our lives, become fascinated by and adopted many or most aspects of the new technology are, and always will be compared to them, *Digital Immigrants* (1-2).  
+> What should we call these "new" students of today? Some refer to them as the N-[for Net]-gen or D-[for digital]-gen. But the most useful designation I have found for them is *Digital Natives*. Our students today are all "native speakers" of the digital language of computers, video games and the Internet. So what does that make the rest of us? Those of us who were not born into the digital world but have, at some later point in our lives, become fascinated by and adopted many or most aspects of the new technology are, and always will be compared to them, *Digital Immigrants* (1–2).  
 
 Queer digital pedagogy noisily refuses the "digital native" and "digital immigrant" narratives (now turned teaching philosophies and institutional policies), which rely on stereotypes and norms about race, gender, class, ability, and even pleasure. Queering the digital and queering pedagogy then is, in the words of Eve Sedgwick, about "promises to make invisible possibilities and desires visible; to make the tacit things explicit; to smuggle queer representation in where it must be smuggled and . . . to challenge queer-eradicating impulses frontally where they are to be so challenged" (3). 
 
@@ -51,7 +51,7 @@ If queer pedagogy is about "the problem of curriculum [becoming] one of prolifie
 
 > Queerness is a structuring and educated mode of desiring that allows us to see and feel beyond the quagmire of the present . . . Queerness is that thing that lets us feel that this world is not enough, that indeed something is 
 missing . . . Queerness is also a performative because it is not simply a being but a doing for and toward the future. Queerness is essentially about the rejection of a here and now and an insistence on potentiality or concrete 
-possibility for another world. --Jose Esteban Munoz, *Cruising Utopia*
+possibility for another world. —Jose Esteban Munoz, *Cruising Utopia*
 
 ## CURATED ARTIFACTS
 
@@ -62,7 +62,7 @@ possibility for another world. --Jose Esteban Munoz, *Cruising Utopia*
 * Copy of Artifact: forthcoming
 * Creator: [Southern Law Poverty Center](http://www.splcenter.org/)
 
-Part of the Teaching Tolerance project, this website offers a list of resources and best practices for teachers, administartors, and schools to give them "the knowledge they need to create a climate in which their most vulnerable students feel safe and valued . . . to build an educational environment that is truly welcoming to all students." Though the resource is aimed at middle and secondary schools, the "LGBT 101"-style material and inclusive policies are a necessary starting point in developing vocabularies, course rationales, teaching philosophies, and ways to think about the institution.  
+Part of the Teaching Tolerance project, this website offers a list of resources and best practices for teachers, administartors, and schools to give them "the knowledge they need to create a climate in which their most vulnerable students feel safe and valued . . . to build an educational environment that is truly welcoming to all students." Though the resource is aimed at middle and secondary schools, the "LGBT 101"–style material and inclusive policies are a necessary starting point in developing vocabularies, course rationales, teaching philosophies, and ways to think about the institution.  
 
 ### "Digital Pedagogy: Twitter, Close Reading, and Learning/Teaching in Public"
 ![screenshot](images/screenshot03_twitter.jpg)
@@ -156,7 +156,7 @@ O'Riordan, Kate and David J. Phillips. *Queer Online: Media, Technology, and Sex
 
 *Queer Technologies*. 2013. [http://www.queertechnologies.info/](http://www.queertechnologies.info/).
 
-Queerness and Games Conference Videos. 2013-14. [http://www.twitch.tv/qgcon/profile](http://www.twitch.tv/qgcon/profile).
+Queerness and Games Conference Videos. 2013–14. [http://www.twitch.tv/qgcon/profile](http://www.twitch.tv/qgcon/profile).
 
 ## WORKS CITED
 
@@ -164,11 +164,11 @@ Queerness and Games Conference Videos. 2013-14. [http://www.twitch.tv/qgcon/prof
  
 "Blogging (as) Feminist Digital Pedagogy." *Media Praxis*. 27 Jan. 2014.  [https://aljean.wordpress.com/2014/01/27/blogging-as-feminist-digital-pedagogy/](https://aljean.wordpress.com/2014/01/27/blogging-as-feminist-digital-pedagogy/).
 
-Britzman, Deborah P. "Is There a Queer Pedagogy? Or, Stop Reading Straight." *Curriculum: Toward New Identities*. Ed. William F. Pinar. New York: Routledge, 1998. 211-227.
+Britzman, Deborah P. "Is There a Queer Pedagogy? Or, Stop Reading Straight." *Curriculum: Toward New Identities*. Ed. William F. Pinar. New York: Routledge, 1998. 211–227.
 
-Bryson, Mary and Suzanne de Castell. "Queer Pedagogy: Praxis Makes Im/Perfect." *Canadian Journal of Education* 18:3 (Summer 1993): 285-305.  
+Bryson, Mary and Suzanne de Castell. "Queer Pedagogy: Praxis Makes Im/Perfect." *Canadian Journal of Education* 18:3 (Summer 1993): 285–305.  
 
-Butler, Judith. "Critically Queer." *GLQ* 1:1 (Nov. 1993): 17-32.  
+Butler, Judith. "Critically Queer." *GLQ* 1:1 (Nov. 1993): 17–32.  
 
 Chang, Edmond Y. "Assignments: Identity Logs." Winter 2013.  [http://www.edmondchang.com/466/assignments.html](http://www.edmondchang.com/466/assignments.html).
 
@@ -181,7 +181,7 @@ Fink, Marty. "ENGL 1102: Queer New Media." Spring 2014. [http://queergatech.tumb
 
 Fotopoulou, Aristea and Kate O'Riordan, Eds. "Queer Feminist Media Practice." *Ada: A Journal of Gender, New Media, and Technology*. Jul. 2014. [http://adanewmedia.org/issues/issue-archives/issue5/](http://adanewmedia.org/issues/issue-archives/issue5/).
 
-Halberstam, Judith. "Reflections on Queer Studies and Queer Pedagogy." *Journal of Homosexuality*. 45:2-4 (Oct. 2008): 361-364.
+Halberstam, Judith. "Reflections on Queer Studies and Queer Pedagogy." *Journal of Homosexuality*. 45:2–4 (Oct. 2008): 361–364.
 
 Kopas, Merritt. *Lim*. Aug. 2012. [http://mkopas.net/files/Lim/](http://mkopas.net/files/Lim/).
 
@@ -197,10 +197,10 @@ Prensky, Marc. "Digital Natives, Digital Immigrants." *marcprensky.com*. 2001. [
 
 Queer Technologies. 2013. [http://www.queertechnologies.info/](http://www.queertechnologies.info/).
 
-Queerness and Games Conference Videos. 2013-14. [http://www.twitch.tv/qgcon/profile](http://www.twitch.tv/qgcon/profile).
+Queerness and Games Conference Videos. 2013–14. [http://www.twitch.tv/qgcon/profile](http://www.twitch.tv/qgcon/profile).
 
-Sedgwick, Eve Kosofsky. "Queer and Now." *Tendencies*. Durham, NC: Duke University Press, 1993. 1-20.
+Sedgwick, Eve Kosofsky. "Queer and Now." *Tendencies*. Durham, NC: Duke University Press, 1993. 1–20.
 
-Somerville, Siobhan.  "Queer." *Keywords for American Cultural Studies*. Eds. Bruce Burgett and Glenn Hendler. New York: NYU Press, 2007. 187-191.
+Somerville, Siobhan.  "Queer." *Keywords for American Cultural Studies*. Eds. Bruce Burgett and Glenn Hendler. New York: NYU Press, 2007. 187–191.
 
 TransformDH. [http://transformdh.org/](http://transformdh.org/).
