@@ -82,7 +82,7 @@ Finally, we felt it important to select resources that demonstrate the interconn
 ### “Extraordinary Materials”
 ![screen shot](images/extraordinary-materials.jpg)
 
-* Source URL: [http://dada.cca.edu/~drosner/materials/syllabus.html](http://dada.cca.edu/~drosner/materials/syllabus.html)
+* Source URL: [http://dada.cca.edu/\~drosner/materials/syllabus.html](http://dada.cca.edu/\~drosner/materials/syllabus.html)
 * Copy of Artifact: forthcoming
 * Creator: [Daniela K. Rosner](http://danielarosner.com) (University of Washington)
 
@@ -145,7 +145,7 @@ Graham describes an in-class assignment designed to "explore how knowledge is cr
 ### “Writing on Clay”
 ![screen shot](images/writing-on-clay.jpg)
 
-* Source URL: [http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA74#v=onepage&q=modeling%20clay&f=false](http://books.google.com/books?id=VWzgtZMJCwgC&lpg=PP1&dq=better%20pencil&pg=PA74#v=onepage&q=modeling%20clay&f=false)
+* Source URL: [http://books.google.com/books?id=VWzgtZMJCwgC&pg=PA74](http://books.google.com/books?id=VWzgtZMJCwgC&pg=PA74)
 * Copy of Artifact: forthcoming
 * Creator: [Dennis E.  Baron](http://www.english.illinois.edu/-people-/faculty/debaron/) (University of Illinois)
 
