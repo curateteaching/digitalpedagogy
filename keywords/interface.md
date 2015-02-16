@@ -73,7 +73,7 @@ It's ambitious to assign <em>House of Leaves</em> in an introductory literature 
 ![screenshot](images/interface-Wordle-fr-open-source-Fyfe.jpg)
 
 * Source URL: http://ryancordell.org/personal/grad-proseminar-guest-talk-not-reading/
-* Copy of Artifact: (link to artifact) http://www.tandfonline.com/doi/abs/10.1080/13555502.2011.554678#.VOIqRHZeRK5
+* Copy of Artifact: forthcoming
 * Creators: Paul Fyfe (North Carolina State University); Ryan Cordell (Northeastern University)
 
 Paul Fyfe's 4-page field note about teaching senior undergraduate English majors to read Victorian novels "distantly" provides the the best introduction I've found to distant reading techniques.  Fyfe's "interrogative stance" invites students to use the sometimes confusing outputs to ask better questions that exploit the "distant" view.  Students can get frustrated by being untethered from what Marcus and Best have called the "symptomatic reading" endemic to close reading.  Fyfe teaches how to parse word frequency, concordance, and collocation to defamiliarize narrative as the primary means of knowing a novel.  Unfortunately Fyfe's article is locked in a subscription-fee publication.  Hunting for resources, I found that Ryan Cordell led a graduate workshop applying Fyfe's techniques, and published his guide on his website.  I offer Cordell's variation on Fyfe's article as a means of framing two aspects of Digital Humanities interface: forking and the importance of open-access scholarship.
