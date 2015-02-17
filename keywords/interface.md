@@ -69,6 +69,7 @@ It's ambitious to assign <em>House of Leaves</em> in an introductory literature 
 ### Distant Reading Exercise
 ![screenshot](images/interface-Wordle-fr-open-source-Fyfe.jpg)
 * Source URL: http://ryancordell.org/personal/grad-proseminar-guest-talk-not-reading/
+* Source URL: open-access pre-print of the original article http://diginole.lib.fsu.edu/eng_faculty_publications/2/
 * Copy of Artifact: forthcoming
 * Creators: Paul Fyfe (North Carolina State University); Ryan Cordell (Northeastern University)
 
