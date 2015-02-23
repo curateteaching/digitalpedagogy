@@ -108,8 +108,7 @@ Drawing on the work of Robin Williams and Anne Wysocki, among others, DeVoss's s
 
 ### Assignment: Narrative Title Sequence
 ![Screenshot: Craig Stroupe's Visual Rhetoric Assignment](images/rhetoric-stroupe.png)
-
-* http://www.d.umn.edu/~cstroupe/f11/4260/narrative\_title/narrative\_title\_sequence.html 
+* http://www.d.umn.edu/~cstroupe/f11/4260/narrative_title/narrative_title_sequence.html
 * Craig Stroupe
 * Visual Rhetoric and Culture, University of Minnesota at Duluth
 
