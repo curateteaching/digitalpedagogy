@@ -91,7 +91,7 @@ This blog post provides a provocative consideration of the relationship between 
 ### Guide to Teaching Visual Rhetoric
 ![Screenshot: Viz entry on Guide to Teaching Visual Rhetoric ](images/rhetoric-viz.png)
 
-* http://viz.cwrl.utexas.edu/node/411 
+* https://web.archive.org/web/20111013163034/http://viz.cwrl.utexas.edu/node/411
 * Author: Tim Turner
 * _viz. Visual Rhetoric - Visual Culture - Pedagogy_
 
