@@ -101,6 +101,7 @@ Created in collaboration among four departments at the Rochester Institute of Te
 
 ### New Undergraduate Pedagogical Partnerships for Large Archival Project
 ![screenshot](images/interface-MoEML-Ped-Partners-Jenstad.png)
+
 * Source URL: http://mapoflondon.uvic.ca/pedagogical_partnership.htm
 * Copy of Artifact: forthcoming
 * Creator: Janelle Jenstad (University of Victoria)
@@ -190,5 +191,3 @@ Stommel, Jesse.  "12 Steps for Creating a Digital Assignment or Hybrid Class," h
 ———.  "The Twitter Essay."  http://www.hybridpedagogy.com/journal/the-twitter-essay/  Web.  Accessed 15 November 2014.			
 
 Wittig, Rob and Mark C. Marino. *1WkNoTech.* http://1wknotech.tumblr.com/  Web.  Accessed 14 November 2014.  
-
-
