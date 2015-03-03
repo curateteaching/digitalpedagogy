@@ -11,7 +11,7 @@
 
 # Set the page ID for the page "List of Keywords". This will be used to make
 # the keywords child pages of this page.  
-KEYWORD_LIST_ID=242
+KEYWORD_LIST_ID=39
 
 # Get the basename 
 BASENAME=$(basename "$1")
@@ -31,9 +31,13 @@ KEYWORD=1
 #Make a temporary copy that we can modify without worrying about corrputing the original.  
 cp $1 $1.edited 
 
-
 #Remove leading YAML block, props to http://stackoverflow.com/a/28222257/584121  
 sed -i '1 { /^---/ { :a N; /\n---/! ba; d} }' $1.edited
+
+#Remove markdown title, since we're actually going to use the filename. 
+#This removes the first line that starts with #. 
+#Props to http://stackoverflow.com/a/3502386/584121
+sed -i '0,/^#.*/s/^#.*//' $1.edited
 
 if [ $SHORTNAME = 'welcome' ]
 then
@@ -73,11 +77,13 @@ then
 	#Make keywords child pages of the page called List of Keywords
 	KEYWORD_PARAM="--post_parent=$KEYWORD_LIST_ID"
 
+	YEAR=$(date +%Y)
+	MONTH=$(date +%m)
 	#Change image locations to ones that WP will understand. Change this if it's not January 2015. 
-	sed -i 's#(images#(../../files/2015/01#g' $1.edited
+	sed -i "s#(images#(../../files/$YEAR/$MONTH#g" $1.edited
 
 	#Change /files locations to ones that WP will understand. 
-	sed -i 's#(files#(../../files/2015/01#g' $1.edited
+	sed -i "s#(files#(../../files/$YEAR/$MONTH#g" $1.edited
 else 
 	KEYWORD_PARAM=""
 fi
