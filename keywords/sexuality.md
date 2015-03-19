@@ -17,6 +17,7 @@ type: book
 
 ## Alexis Lothian 
 University of Maryland College Park | [Website](http://www.queergeektheory.org/)
+
 ---
 
 ##### Publication Status:
