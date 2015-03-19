@@ -13,17 +13,17 @@ publisher: Modern Language Association
 type: book
 ---
 
-# SEXUALITY
+# SEXUALITY (Draft)
 
 ## Alexis Lothian 
 University of Maryland College Park | [Website](http://www.queergeektheory.org/)
-
+---
 ##### Publication Status:
-
 * **unreviewed draft**
 * draft version undergoing editorial review
 * draft version undergoing peer-to-peer review
 * published 
+---
 
 ## CURATORIAL STATEMENT 
 
