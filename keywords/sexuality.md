@@ -18,11 +18,13 @@ type: book
 ## Alexis Lothian 
 University of Maryland College Park | [Website](http://www.queergeektheory.org/)
 ---
+
 ##### Publication Status:
 * **unreviewed draft**
 * draft version undergoing editorial review
 * draft version undergoing peer-to-peer review
-* published 
+* published
+ 
 ---
 
 ## CURATORIAL STATEMENT 
