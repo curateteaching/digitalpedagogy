@@ -79,7 +79,7 @@ People often ask which software is best to use for project management to which n
 While this may seem like a surprising choice for a list such as this, this resource provides a summary of outcomes from the first round of National Endowment of the Humanities Digital Humanities Start-up Grants, including a survey of project directors and a summary of end-of-grant “white papers” which distilled the lessons learned from the projects.  Among other things, respondents reflected on the importance of goal setting, team work, and contingencies planning.  Anyone planning their first project and applying for funding would find this report an interesting read.
 
 ### The Praxis Program at the Scholar’s Lab
-![screenshot](images/summaryFindingsNEH.png)
+![screenshot](images/praxisProgram.png)
 
 * Source URL: http://praxis.scholarslab.org
 * Creator: The Scholars’ Lab (University of Virginia) 
