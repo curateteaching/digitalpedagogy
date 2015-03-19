@@ -13,7 +13,7 @@ publisher: Modern Language Association
 type: book
 ---
 
-# PROJECT MANAGMENT 
+# PROJECT MANAGMENT (Draft)
 
 ## Lynne Siemens
 University of Victoria | [Website](https://lynnesiemens.wordpress.com)
