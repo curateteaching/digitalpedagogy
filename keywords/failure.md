@@ -1,6 +1,6 @@
 ---
 title: Digital Pedagogy in the Humanities
-subtitle: Concepts, Models, and Experiments 
+subtitle: Concepts, Models, and Experiments
 chapter: Failure
 URL: keywords/failure.md
 author: 
@@ -22,7 +22,10 @@ Emory University | Emory Center for Digital Scholarship| [Website](#)(http://bri
 Virginia Tech | The Center for Applied Technologies in the Humanities| [Website](#)(http://quinnwarnick.com)
 
 ##### Publication Status:
-* unreviewed draft
+* **unreviewed draft**
+* draft version undergoing editorial review
+* draft version undergoing peer-to-peer review
+* published 
 
 ## CURATORIAL STATEMENT
 "Failure" is a complicated word to include in a volume that examines and highlights professional praxes. Although no one wants to be "a failure" in her work, failing takes on a different meaning when it happens in the context of pedagogy. Teachers know, through long experience in the classroom, that failure is intertwined with learning (Blackburn and Cushman; Hjortshoj; Myers, Staats, and Gino; Shaughnessy). These failures can include difficulties students have in grasping a concept as well as our own failures to present the material effectively to a particular set of personalities. Moreover, a failure to immediately grasp a concept often positions our students—or ourselves—to better teach the concept to others who might have similar difficulties. As such, failure is not only a prerequisite to learning but also to teaching. 
