@@ -18,8 +18,9 @@ type: book
 # FAILURE (Draft)
 
 ## Brian Croxall and Quinn Warnick
-Emory University | Emory Center for Digital Scholarship| [Website](#)(http://briancroxall.net)
-Virginia Tech | The Center for Applied Technologies in the Humanities| [Website](#)(http://quinnwarnick.com)
+Emory University | Emory Center for Digital Scholarship| [Website](http://briancroxall.net)
+
+Virginia Tech | The Center for Applied Technologies in the Humanities| [Website](http://quinnwarnick.com)
 
 ##### Publication Status:
 * **unreviewed draft**
@@ -54,7 +55,7 @@ The artifacts selected below represent objects from the different tiers of failu
 
 ### “Google Wave: Pedagogical Success, Technological Failure?”
 * Artifact Type: Reflective essay and assignment
-![screen shot](#)(images/failure-fitzpatrick.png)
+![screenshot](images/failure-fitzpatrick.png)
 
 * Source URL: [http://learningthroughdigitalmedia.net/google-wave-pedagogical-success-technological-failure](#)(http://learningthroughdigitalmedia.net/google-wave-pedagogical-success-technological-failure)
 * Copy of Artifact:
