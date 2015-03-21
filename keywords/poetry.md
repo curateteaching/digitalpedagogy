@@ -72,7 +72,6 @@ In short, the selected artifacts, while new, also feel like a logical next step 
 
 ### "Topic Modeling and Figurative Language"
 ![screenshot](images/poetry-Topic-Modeling-and-Figurative-Language.jpg)
-![screenshot](images/poetry-Topic-Modeling-and-Figurative-Language2.jpg)
 
 * Source URL: http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/
 * Type: Published Article
@@ -99,7 +98,6 @@ In short, the selected artifacts, while new, also feel like a logical next step 
 
 ### "Using Google Spreadsheets for a Generated-Text Twitter Bot"
 ![screenshot](images/poetry-Google-Spreadsheets-for-Text-Generated-Twitter-Bot.jpg)
-![screenshot](images/poetry-Google-Spreadsheets-for-Text-Generated-Twitter-Bot2.jpg)
 
 * Source URL: http://www.zachwhalen.net/posts/using-google-spreadsheets-for-a-generated-text-twitter-bot
 * Type: Assignment
