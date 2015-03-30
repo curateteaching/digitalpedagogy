@@ -1,11 +1,9 @@
 #Presentations on Digital Pedagogy 
 ##by General Editors, Davis, Gold, Harris, Sayers
 
-##Upcoming
-* Davis, Rebecca Frost, “Liberal Education Unbound: The Life of Signature Student Work in the Emerging Digital Learning Environment,” panelist with Randy Bass, Jennifer Ebbeler, and J. Elizabeth Clark. The Centennial Annual Meeting: Liberal Education, Global Flourishing, and the Equity Imperative. Association of American Colleges and Universities. January 22, 2015.
-
 ##Past Presentations 
-
+* Gold, Matthew K. "Books Matter: Circulating Digital and Printed Texts." Ph.D. Program in English, Graduate Center, CUNY. March 27, 2015.
+* Davis, Rebecca Frost, “Liberal Education Unbound: The Life of Signature Student Work in the Emerging Digital Learning Environment,” panelist with Randy Bass, Jennifer Ebbeler, and J. Elizabeth Clark. The Centennial Annual Meeting: Liberal Education, Global Flourishing, and the Equity Imperative. Association of American Colleges and Universities. January 22, 2015.
 * Harris, Katherine D., “[Successful Collaboration is Fueled by Failure in Digital Humanities](http://triproftri.wordpress.com/2014/11/11/adhc-talk-collaboration-failure-must-haves-in-digital-humanities-projects/),” Alabama Digital Humanities Center Speaker Series, University of Alabama, Tuscaloosa, November 2014.
 * Davis, Rebecca Frost, “Engaging Undergraduates with Digital Scholarship Projects,” Digital Humanities in Practice, October 22, 2014, Temple University. http://rebeccafrostdavis.wordpress.com/2014/10/22/engaging-undergraduates-with-digital-scholarship-projects/
 * Davis, Rebecca Frost, “Big Ideas in Digital Pedagogy,” (keynote) Digital Pedagogy Institute: Digital Pedagogy and the Undergraduate Experience, August 11, 2014, University of Toronto, Scarborough, http://rebeccafrostdavis.wordpress.com/2014/08/11/big-ideas-in-digital-pedagogy/
