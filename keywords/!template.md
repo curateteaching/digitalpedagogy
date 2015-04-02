@@ -43,6 +43,7 @@ For each of your ten artifacts, please provide:
 * Artifact Type: Pedagogical artifacts may include (but are not limited to) syllabi, teaching guidelines, assignments, lesson plans, course sites, learning objective, collaborative projects, and even student work.
 * Screenshot (PNG or JPG), titled “keyword artifact title,” e.g. “work-AfAm-syllabus.png”
 * Source URL 
+* Artifact Permissions (note whether content is shared under a Creative Commons license)
 * Copy of the Artifact (in HTML, PDF, DOCX, TXT, MD, RTF, MP3, MP4, MOV, PNG, or JPG), if possible 
 * Creator and Affiliation
 * An annotation of **no more than 150 words** that includes:
