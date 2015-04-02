@@ -11,7 +11,7 @@
 
 # Set the page ID for the page "List of Keywords". This will be used to make
 # the keywords child pages of this page.  
-KEYWORD_LIST_ID=39
+KEYWORD_LIST_ID=13
 
 # Get the basename 
 BASENAME=$(basename "$1")
@@ -92,7 +92,7 @@ fi
 pandoc -o $SHORTNAME.html $1.edited 
 
 #Post!
-wp post create $SHORTNAME.html --post_type=page --post_status=publish $KEYWORD_PARAM --menu_order="$ORDER" --post_title="$TITLE" --url=digitalpedagogy.sinclair.mlacommons.org 
+wp post create $SHORTNAME.html --post_type=page --post_status=publish $KEYWORD_PARAM --menu_order="$ORDER" --post_title="$TITLE" --url=digitalpedagogy.commons.mla.org 
 
 #Clean up.
 rm $SHORTNAME.html $1.edited 
