@@ -11,7 +11,7 @@
 
 # Set the page ID for the page "List of Keywords". This will be used to make
 # the keywords child pages of this page.  
-KEYWORD_LIST_ID=13
+KEYWORD_LIST_ID=108
 
 # Get the basename 
 BASENAME=$(basename "$1")
@@ -78,7 +78,7 @@ then
 	KEYWORD_PARAM="--post_parent=$KEYWORD_LIST_ID"
 
 	YEAR=$(date +%Y)
-	MONTH=$(date +%m)
+	MONTH=03
 	#Change image locations to ones that WP will understand. Change this if it's not January 2015. 
 	sed -i "s#(images#(../../files/$YEAR/$MONTH#g" $1.edited
 
