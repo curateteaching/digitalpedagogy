@@ -15,4 +15,4 @@ The first set of keywords from the anthology is now available for open peer revi
  * Katherine D. Harris, San José State University ([dr.katherine.harris@gmail.com](mailto:dr.katherine.harris@gmail.com))
  * Jentery Sayers, University of Victoria ([jentery@uvic.ca](mailto:jentery@uvic.ca))
 
-The source code for this work may be found [on the project's GitHub repository](https://github.com/curateteaching/digitalpedagogy). 
+The source code for this work may be found on [the project's GitHub repository](https://github.com/curateteaching/digitalpedagogy). 
