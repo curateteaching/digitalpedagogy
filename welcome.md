@@ -10,12 +10,9 @@ The first set of keywords from the anthology is now available for open peer revi
 
 ## GENERAL EDITORS
 
-Rebecca Frost Davis, Saint Edward's University ([rebeccad@stedwards.edu](mailto:rebeccad@stedwards.edu))
-
-Matthew K. Gold, City Tech and Graduate Center, City University of New York ([mgold@gc.cuny.edu](mailto:mgold@gc.cuny.edu))
-
-Katherine D. Harris, San José State University ([dr.katherine.harris@gmail.com](mailto:dr.katherine.harris@gmail.com))
-
-Jentery Sayers, University of Victoria ([jentery@uvic.ca](mailto:jentery@uvic.ca))
+ * Rebecca Frost Davis, Saint Edward's University ([rebeccad@stedwards.edu](mailto:rebeccad@stedwards.edu))
+ * Matthew K. Gold, City Tech and Graduate Center, City University of New York ([mgold@gc.cuny.edu](mailto:mgold@gc.cuny.edu))
+ * Katherine D. Harris, San José State University ([dr.katherine.harris@gmail.com](mailto:dr.katherine.harris@gmail.com))
+ * Jentery Sayers, University of Victoria ([jentery@uvic.ca](mailto:jentery@uvic.ca))
 
 The source code for this work may be found [on the project GitHub repository](https://github.com/curateteaching/digitalpedagogy). 
