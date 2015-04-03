@@ -92,7 +92,7 @@ fi
 pandoc -o $SHORTNAME.html $1.edited 
 
 #Post!
-wp post create $SHORTNAME.html --post_type=page --post_status=publish $KEYWORD_PARAM --menu_order="$ORDER" --post_title="$TITLE" --url=digitalpedagogy.commons.mla.org 
+wp post create $SHORTNAME.html --post_type=page --post_status=publish $KEYWORD_PARAM --menu_order="$ORDER" --post_title="$TITLE" --url=digitalpedagogy.$SERVER 
 
 #Clean up.
 rm $SHORTNAME.html $1.edited 
