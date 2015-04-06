@@ -15,8 +15,8 @@ type: book
 
 # INTERFACE (Draft)
 
-### Kathi Inman Berens
-University of Southern California | Annenberg School of Communication | [Website](http://kathiiberens.com)
+### [Kathi Inman Berens](http://kathiiberens.com)
+University of Southern California | Annenberg School of Communication
 
 ---
 
