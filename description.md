@@ -57,7 +57,7 @@ Several of our selected keywords form complementary pairs. “Play” and “wor
 
 ## ADVISORY BOARD
 
-The advisory board helped shape this project by giving advice on the initial proposal, the list of keywords, and potential curators. As the project developed, they gave feedback on the curator model, publication venue, possible partners, and platform. As *Digital Pedagogy in the Humanities* moves into open peer review, the board will play a key role in offering peer review and encouraging the wider community to do so as well. Finally, the Advisory Board will review keywords and curated examples for consistency, coverage, and gaps. Their input will ensure that the project continues to reflect the current state of digital pedagogy.
+The advisory board helped shape this project by giving advice on the initial proposal, the list of keywords, and potential curators. As the project developed, the board gave feedback on the curator model, publication venue, possible partners, and platform. As *Digital Pedagogy in the Humanities* moves into open peer review, the board will play a key role in offering peer review and encouraging the wider community to do so as well. Finally, the advisory board will review keywords and curated examples for consistency, coverage, and gaps. Its input will ensure that the project continues to reflect the current state of digital pedagogy.
 
 * [Cheryl Ball](https://commons.mla.org/members/s2ceball/), West Virginia University
 * Bryan Carter, University of Arizona
