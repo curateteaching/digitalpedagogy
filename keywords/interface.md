@@ -67,7 +67,7 @@ Does it matter if a classroom is a little rectangle in a building or a little re
 * Copy of Artifact: [files/interface-Douglass-Pok-ENGL-10-HoL-Remix.pdf](files/interface-Douglass-Pok-ENGL-10-HoL-Remix.pdf)
 * Creators: Jeremy Douglass (University of California Santa Barbara) and Steven Pokornowski (University of California Santa Barbara)
 
-It's ambitious to assign <em>House of Leaves</em> in an introductory literature class. Desultory, evasive and iconic, <em>HoL</em> will frustrate almost any reader who aims to read this text closely as Humanists are trained to do. Jeremy Douglass and Steven Pokornowski create a two-part assignment interface. The prompt procedurally guides students through making a remix of one page--and only one page--in <em> HoL</em>. Making their collages, students can work with digital image tools or work with the other "digital," their fingers, making collage from arts and craft supplies. Handmade remixes are photographed; all remixes are tagged and uploaded to the class's Tumblr site which itself remixes the individual pages into a fragmentary collective. Their heterogeneity perfectly complements the source text's unfinalizability.  
+It's ambitious to assign <em>House of Leaves</em> in an introductory literature class. Desultory, evasive and iconic, <em>HoL</em> will frustrate almost any reader who aims to read this text closely as Humanists are trained to do. Jeremy Douglass and Steven Pokornowski create a two-part assignment interface. The prompt procedurally guides students through making a remix of one page--and only one page--in <em> HoL</em>. Making their collages, students can work with digital image tools or work with the other "digital," their fingers, making collage from arts and craft supplies. Handmade remixes are photographed; all remixes are tagged and uploaded to the class's Tumblr site which itself remixes the individual pages into a fragmentary collective. Their heterogeneity perfectly complements the source text's unfinalizability. 
 
 ### Distant Reading Exercise
 ![screenshot](images/interface-Wordle-fr-open-source-Fyfe.jpg)
@@ -86,7 +86,7 @@ Paul Fyfe's 4-page field note about teaching senior undergraduate English majors
 * Copy of Artifact: forthcoming
 * Creator: Katherine D. Harris (San Jose State University)
 
-Lower-division literature majors are new to devising substantial research projects. To author one collaboratively makes knowledge production more complex, but also radically expands the amount of work the team can accomplish. Harris's "Collaborative Project on 19th-Century Materials" expertly introduces students to the materiality of textual scholarship, then trains students in project management, a vital skill for any Digital Humanities collaborative project. Harris makes available the Association of American Colleges and Universities rubrics for Teamwork/Collaboration to ground students' attention in specific tasks they must perform to advance the larger project. As they toggle between embodied classroom space and work in Google Docs, student writers assess the rare book's material attributes and then move to more complex questions of content and interpretation. One resulting project, about Louisa Henrietta Sheridan's *The Comic Offering: Satire Without Bite* is seamless, univocal prose.  
+Lower-division literature majors are new to devising substantial research projects. To author one collaboratively makes knowledge production more complex, but also radically expands the amount of work the team can accomplish. Harris's "Collaborative Project on 19th-Century Materials" expertly introduces students to the materiality of textual scholarship, then trains students in project management, a vital skill for any Digital Humanities collaborative project. Harris makes available the Association of American Colleges and Universities rubrics for Teamwork/Collaboration to ground students' attention in specific tasks they must perform to advance the larger project. As they toggle between embodied classroom space and work in Google Docs, student writers assess the rare book's material attributes and then move to more complex questions of content and interpretation. One resulting project, about Louisa Henrietta Sheridan's *The Comic Offering: Satire Without Bite* is seamless, univocal prose. 
 
 ### Historically-Based, Geographically Situated Role Playing Game 
 ![screenshot](images/interface-Hergenrader-Steampunk-Rochester-map.png)
@@ -138,56 +138,55 @@ Netprov, the text/image art game installed in social media platforms, is an idea
 ## RELATED MATERIALS 
 
 Lori Emerson, *Reading Writing Interfaces: From the Digital to the Bookbound*, 
-https://www.upress.umn.edu/book-division/books/reading-writing-interfaces
+<https://www.upress.umn.edu/book-division/books/reading-writing-interfaces>
 
-Jason Farman, "Hands On Explorations for Mobile Storytelling," *The Mobile Story: Narrative Practices With Locative Technologies.* http://themobilestory.com/explorations/
+Jason Farman, "Hands On Explorations for Mobile Storytelling," *The Mobile Story: Narrative Practices With Locative Technologies.* <http://themobilestory.com/explorations/>
 
-Alan Liu, "DH Tools Wiki," http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools					
+Alan Liu, "DH Tools Wiki," <http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools>
 
-Miriam Posner, "How Did They Make That? The Video!" http://miriamposner.com/blog/how-did-they-make-that-the-video/	
+Miriam Posner, "How Did They Make That? The Video!" <http://miriamposner.com/blog/how-did-they-make-that-the-video/>
 
-Howard Rheingold, "The Peeragogy Handbook," http://peeragogy.org/
+Howard Rheingold, "The Peeragogy Handbook," <http://peeragogy.org/>
 
 
 ## WORKS CITED
 
-Burgess, Helen. "Shakespeare in Code: Sonnet Conversion." http://helenburgess.com/395sonnets/. Web. Accessed 15 November 2014.
+Burgess, Helen. "Shakespeare in Code: Sonnet Conversion." <http://helenburgess.com/395sonnets/>. Web. Accessed 15 November 2014.
 
-Cordell, Ryan. "Grad ProSeminar Guest Talk: Not Reading." http://ryancordell.org/personal/grad-proseminar-guest-talk-not-reading/. Web. Accessed 15 November 2014.
+Cordell, Ryan. "Grad ProSeminar Guest Talk: Not Reading." <http://ryancordell.org/personal/grad-proseminar-guest-talk-not-reading/> Web. Accessed 15 November 2014.
 
-———. "Simulating the Scriptorium." http://f14tot.ryancordell.org/2014/09/16/lab-3-simulating-the-scriptorium/. Web. Accessed 15 November 2014.
+———. "Simulating the Scriptorium." <http://f14tot.ryancordell.org/2014/09/16/lab-3-simulating-the-scriptorium/> Web. Accessed 15 November 2014.
 
 Cramer, Florian and Matthew Fuller. "Interface." *Software Studies: a Lexicon*, ed. Matthew Fuller. Cambridge: M.I.T. Press. 2008.
 
-Douglass, Jeremy and Steven Pokornowski. "English 10 Introduction to Lit: *House of Leaves* Remix Assignment." http://english10introductiontolit.tumblr.com/. Web. Accessed 15 November 2014.
+Douglass, Jeremy and Steven Pokornowski. "English 10 Introduction to Lit: *House of Leaves* Remix Assignment." <http://english10introductiontolit.tumblr.com/> Web. Accessed 15 November 2014.
 
 Emerson, Lori. *Reading Writing Interfaces: From the Digital to the Bookbound.* Minneapolis: University of Minnesota Press. 2014. Print. 
 
-Engard, Nicole C. "Open Source Wordle." Photograph. Flickr. Creative Commons license. 24 May 2011. https://www.flickr.com/photos/nengard/5755231642/in/photolist-9Lz4RL-53R7ce-7uXbL4-55ffYS-5nDNfb-5Dgro7-5DgrpW-5DcajT-5Dcana-5nkvGJ-4VqXVU-8djbH5-57YHrp-51emGt-5q6wAg-4YZG7E-5jbNP7-4Wi7Qp-5iQ7ap-5123jf-5nkvzC-4W5TdR-53Vkg3-5nDNff-65Uc9A-4WUKcq-69F2qW-5jyMZe-56NoFi-5YeG25-4ZQfPS-86hLUv-5iQE7c-4XkEyj-5jDeBh-59GNqR-5Y2H8A-4ZWCgc-5biXNd-5jfpZC-6TzvKt-6TDwXU-63re73-8D7BKF-51we2f-4Y81JQ-khtR6X-89Cm4U-5ZeqRv-8Vzj5T. Web. Accessed 18 November 2014. 
+Engard, Nicole C. "Open Source Wordle." Photograph. Flickr. Creative Commons license. 24 May 2011. <https://www.flickr.com/photos/nengard/5755231642/in/photolist-9Lz4RL-53R7ce-7uXbL4-55ffYS-5nDNfb-5Dgro7-5DgrpW-5DcajT-5Dcana-5nkvGJ-4VqXVU-8djbH5-57YHrp-51emGt-5q6wAg-4YZG7E-5jbNP7-4Wi7Qp-5iQ7ap-5123jf-5nkvzC-4W5TdR-53Vkg3-5nDNff-65Uc9A-4WUKcq-69F2qW-5jyMZe-56NoFi-5YeG25-4ZQfPS-86hLUv-5iQE7c-4XkEyj-5jDeBh-59GNqR-5Y2H8A-4ZWCgc-5biXNd-5jfpZC-6TzvKt-6TDwXU-63re73-8D7BKF-51we2f-4Y81JQ-khtR6X-89Cm4U-5ZeqRv-8Vzj5T>. Web. Accessed 18 November 2014. 
 
 Farman, Jason. *The Mobile Story: Narrative Practices With Locative Technologies.* Routledge: Cambridge. 2013.
 
 Fyfe, Paul. "How Not To Read a Victorian Novel." *Journal of Victorian Culture.* Vol. 16, No.1, April 2011, 84-88.
 
-Harris, Katherine D. "Collaborative Assignment on Nineteenth-Century Materials Project." http://triproftri.wordpress.com/2012/12/03/collaborative-project-on-19th-century-materials-assignment/#more-1191. Web. Accessed 15 November 2014.
+Harris, Katherine D. "Collaborative Assignment on Nineteenth-Century Materials Project." <http://triproftri.wordpress.com/2012/12/03/collaborative-project-on-19th-century-materials-assignment/#more-1191> Web. Accessed 15 November 2014.
 
-Hergenrader, Trent. *Steampunk Rochester.* http://steampunkrochester.wikispaces.com/Steampunk+Rochester. Web. Accessed 17 November 2014.
+Hergenrader, Trent. *Steampunk Rochester.* <http://steampunkrochester.wikispaces.com/Steampunk+Rochester> Web. Accessed 17 November 2014.
 
+Jenstad, Janelle. *Map of Early Modern London: Pedagogical Partners Project.* <http://mapoflondon.uvic.ca/pedagogical_partnership.htm> Web. Accessed 14 November 2014.
 
-Jenstad, Janelle. *Map of Early Modern London: Pedagogical Partners Project.* http://mapoflondon.uvic.ca/pedagogical_partnership.htm. Web. Accessed 14 November 2014.
+Liu, Alan. *DH Tools Wiki.* <http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools> Web. Accessed 14 November 2014.
 
-Liu, Alan. *DH Tools Wiki.* http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools. Web. Accessed 14 November 2014.
+Louisa Henrietta Sheridan's *The Comic Offering: Satire Without the Bite.* <http://scottfengl56b.wordpress.com/2012/10/11/louisa-henrietta-sheridans-the-comic-offering-satire-without-bite/> Web. Accessed 18 November 2014. 
 
-Louisa Henrietta Sheridan's *The Comic Offering: Satire Without the Bite.* http://scottfengl56b.wordpress.com/2012/10/11/louisa-henrietta-sheridans-the-comic-offering-satire-without-bite/ Web. Accessed 18 November 2014. 
+Mongar, Sonja S. *Esta Vida Boricua.* <http://estavidaboricua.com> Web. Accessed 15 November 2014.
 
-Mongar, Sonja S. *Esta Vida Boricua.* http://estavidaboricua.com Web. Accessed 15 November 2014.
+Posner, Miriam. "How Did They Make That? The Video!" <http://miriamposner.com/blog/how-did-they-make-that-the-video/> Web. Accessed 15 November 2014.
 
-Posner, Miriam. "How Did They Make That? The Video!" http://miriamposner.com/blog/how-did-they-make-that-the-video/ Web. Accessed 15 November 2014.
+Rheingold, Howard. *The Peeragogy Handbook.* <http://peeragogy.org/> Web. Accessed 15 November 2014.
 
-Rheingold, Howard. *The Peeragogy Handbook.* http://peeragogy.org/ Web. Accessed 15 November 2014.
+Stommel, Jesse. "12 Steps for Creating a Digital Assignment or Hybrid Class," <http://www.jessestommel.com/blog/files/12-step-digital-assignment-hybrid-class.html>
 
-Stommel, Jesse. "12 Steps for Creating a Digital Assignment or Hybrid Class," http://www.jessestommel.com/blog/files/12-step-digital-assignment-hybrid-class.html
+———. "The Twitter Essay." <http://www.hybridpedagogy.com/journal/the-twitter-essay/> Web. Accessed 15 November 2014.			
 
-———. "The Twitter Essay." http://www.hybridpedagogy.com/journal/the-twitter-essay/ Web. Accessed 15 November 2014.			
-
-Wittig, Rob and Mark C. Marino. *1WkNoTech.* http://1wknotech.tumblr.com/ Web. Accessed 14 November 2014.  
+Wittig, Rob and Mark C. Marino. *1WkNoTech.* <http://1wknotech.tumblr.com/> Web. Accessed 14 November 2014.  

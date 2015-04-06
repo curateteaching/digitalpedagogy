@@ -156,41 +156,41 @@ Zappen, James P. "Digital rhetoric: Toward an integrated theory." _Technical Com
 
 DigiRhet.Net "Teaching Digital Rhetoric: Community, Critical Engagement, and Application."  _Pedagogy: Critical Approaches to Teaching Literature, Language, Composition, and Culture_ 6.2 (2006): 231–259. Print. 
  
-Gayle Morris Sweetland Digital Rhetoric Collaborative. 2014. Web. 1 November 2014. \<  http://www.digitalrhetoriccollaborative.org \>
+Gayle Morris Sweetland Digital Rhetoric Collaborative. 2014. Web. 1 November 2014.  <http://www.digitalrhetoriccollaborative.org> 
 
 
 ## Works Cited  
 
-Aristotle. _On Rhetoric_. Ed. Lee Honeycutt. Trans. W. Rhys Roberts. 2011. Web. 1 November 2014. \<  http://rhetoric.eserver.org/aristotle/  \>
+Aristotle. _On Rhetoric_. Ed. Lee Honeycutt. Trans. W. Rhys Roberts. 2011. Web. 1 November 2014. <http://rhetoric.eserver.org/aristotle/>
 
-Burton, Gideon. _Silva Rhetoricae: The Forest of Rhetoric_. 2007. Web. 1 November 2014. \<   http://rhetoric.byu.edu/  \>
+Burton, Gideon. _Silva Rhetoricae: The Forest of Rhetoric_. 2007. Web. 1 November 2014. <http://rhetoric.byu.edu/>
 
-DeVoss, Dànielle. "Digital Rhetoric and Document Design." Syllabus. 2014. Web. 1 November 2014. \< https://www.msu.edu/user/devossda/360/index.html \>
+DeVoss, Dànielle. "Digital Rhetoric and Document Design." Syllabus. 2014. Web. 1 November 2014. <https://www.msu.edu/user/devossda/360/index.html>
 
 DigiRhet.Net "Teaching Digital Rhetoric: Community, Critical Engagement, and Application."  _Pedagogy: Critical Approaches to Teaching Literature, Language, Composition, and Culture_ 6.2 (2006): 231–259. Print.
 
-Dougherty, Tim. "Toward A Decolonial Digital Progymnasmata." 2011. Web. 1 November 2014. \< http://www.timothyrdougherty.net/toward-a-decolonial-digital-progymnasmata/ \>
+Dougherty, Tim. "Toward A Decolonial Digital Progymnasmata." 2011. Web. 1 November 2014. <http://www.timothyrdougherty.net/toward-a-decolonial-digital-progymnasmata/>
 
-Gayle Morris Sweetland Digital Rhetoric Collaborative. 2014. Web. 1 November 2014. \< http://www.digitalrhetoriccollaborative.org \>
+Gayle Morris Sweetland Digital Rhetoric Collaborative. 2014. Web. 1 November 2014. <http://www.digitalrhetoriccollaborative.org>
 
 Handa, Carolyn. _Visual Rhetoric in a Digital World: A Critical Sourcebook_. Boston: Bedford/St. Martin's, 2004. Print.
 
 Lanhman, Richard. _Handlist of Rhetorical Terms_. Berkeley: University of California P., 1991. Print. 
 
-Legg, Emily, Strantz, Adam, and Alex Layne. Digital Rhetoric: A Syllabus Approach. 2010. Web. 1 November 2014. \< https://sites.google.com/site/digitalrhetoricssyllabus/ \>
+Legg, Emily, Strantz, Adam, and Alex Layne. Digital Rhetoric: A Syllabus Approach. 2010. Web. 1 November 2014. <https://sites.google.com/site/digitalrhetoricssyllabus/>
 
-Quintilian. _Institutes of Oratory_. Ed. Lee Honeycutt. Trans. John Selby Watson. 2011. Web. 1 November 2014. \< http://rhetoric.eserver.org/quintilian/ \>
+Quintilian. _Institutes of Oratory_. Ed. Lee Honeycutt. Trans. John Selby Watson. 2011. Web. 1 November 2014. <http://rhetoric.eserver.org/quintilian/>
 
 Ramage, John D. _Rhetoric: A User's Guide_. Boston: Longman, 2006. Print.
 
-Ridolfo, Jim. "(C).omprehensive (O).nline (D).ocument (E).valuationa" _Kairos: A Journal of Rhetoric, Technology, and Pedagogy 10.2 (2005). Web. 1 November 2014. \< http://kairos.technorhetoric.net/10.2/binder.html?praxis/ridolfo/index.html \>
+Ridolfo, Jim. "(C).omprehensive (O).nline (D).ocument (E).valuationa" _Kairos: A Journal of Rhetoric, Technology, and Pedagogy_ 10.2 (2005). Web. 1 November 2014. <http://kairos.technorhetoric.net/10.2/binder.html?praxis/ridolfo/index.html>
 
-Stroupe, Craig. "Narrative Title Sequence." (2011). Web. 1 November 2014. \< http://www.d.umn.edu/~cstroupe/f11/4260/narrative\_title/narrative\_title\_sequence.html \>
+Stroupe, Craig. "Narrative Title Sequence." (2011). Web. 1 November 2014. <http://www.d.umn.edu/~cstroupe/f11/4260/narrative\_title/narrative\_title\_sequence.html>
 
-The WIDE Research Center Collective. "Why Teach Digital Writing?" _Kairos: A Journal of Rhetoric, Technology, and Pedagogy_ 10.2 (2005). Web. 1 November 2014. \< http://kairos.technorhetoric.net/10.1/binder2.html?coverweb/wide/index.html \>
+The WIDE Research Center Collective. "Why Teach Digital Writing?" _Kairos: A Journal of Rhetoric, Technology, and Pedagogy_ 10.2 (2005). Web. 1 November 2014. <http://kairos.technorhetoric.net/10.1/binder2.html?coverweb/wide/index.html>
 
-Turner, Tim. "Guide to Teaching Visual Rhetoric." _viz. Visual Rhetoric, Visual Culture, Pedagogy_ (2014). Web. 1 November 2014. \< http://viz.cwrl.utexas.edu/node/411 \>
+Turner, Tim. "Guide to Teaching Visual Rhetoric." _viz. Visual Rhetoric, Visual Culture, Pedagogy_ (2014). Web. 1 November 2014. <http://viz.cwrl.utexas.edu/node/411>
 
-University of Kentucky Writing, Rhetoric, and Digital Studies. (2013). Teaching Materials Database. Web. 1 November 2014. \< https://wrd.as.uky.edu/teaching-materials-database \>
+University of Kentucky Writing, Rhetoric, and Digital Studies. (2013). Teaching Materials Database. Web. 1 November 2014. <https://wrd.as.uky.edu/teaching-materials-database>
 
 Zappen, James P. "Digital rhetoric: Toward an integrated theory." _Technical Communication Quarterly_ 14.3 (2005): 319–325. Print.

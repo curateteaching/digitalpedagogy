@@ -148,21 +148,21 @@ What is important about the #TransformDH blog and collaborative project is the i
 
 ## RELATED MATERIALS 
 
-"Blogging (as) Feminist Digital Pedagogy." *Media Praxis*.  27 Jan. 2014. [https://aljean.wordpress.com/2014/01/27/blogging-as-feminist-digital-pedagogy/](https://aljean.wordpress.com/2014/01/27/blogging-as-feminist-digital-pedagogy/).
+"Blogging (as) Feminist Digital Pedagogy." *Media Praxis*.  27 Jan. 2014. <https://aljean.wordpress.com/2014/01/27/blogging-as-feminist-digital-pedagogy/>.
 
 O'Riordan, Kate and David J. Phillips. *Queer Online: Media, Technology, and Sexuality*. New York: Peter Lang, 2007.
 
-"Queer Pedagogical Performance: Funded Project Evaluation." Simpson Center for the Humanities. University of Washington, 2012. [http://mkopas.net/files/2012_Report_QPP_Appended.pdf](http://mkopas.net/files/2012_Report_QPP_Appended.pdf).
+"Queer Pedagogical Performance: Funded Project Evaluation." Simpson Center for the Humanities. University of Washington, 2012. <http://mkopas.net/files/2012_Report_QPP_Appended.pdf>.
 
-*Queer Technologies*. 2013. [http://www.queertechnologies.info/](http://www.queertechnologies.info/).
+*Queer Technologies*. 2013. <http://www.queertechnologies.info/>.
 
-Queerness and Games Conference Videos. 2013–14. [http://www.twitch.tv/qgcon/profile](http://www.twitch.tv/qgcon/profile).
+Queerness and Games Conference Videos. 2013–14. <http://www.twitch.tv/qgcon/profile>.
 
 ## WORKS CITED
 
-"Best Practices: Creating an LGBT-inclusive School Climate." _Teaching Tolerance_. 2013. [http://www.tolerance.org/lgbt-best-practices](http://www.tolerance.org/lgbt-best-practices).
+"Best Practices: Creating an LGBT-inclusive School Climate." _Teaching Tolerance_. 2013. <http://www.tolerance.org/lgbt-best-practices>.
  
-"Blogging (as) Feminist Digital Pedagogy." *Media Praxis*. 27 Jan. 2014.  [https://aljean.wordpress.com/2014/01/27/blogging-as-feminist-digital-pedagogy/](https://aljean.wordpress.com/2014/01/27/blogging-as-feminist-digital-pedagogy/).
+"Blogging (as) Feminist Digital Pedagogy." *Media Praxis*. 27 Jan. 2014.  <https://aljean.wordpress.com/2014/01/27/blogging-as-feminist-digital-pedagogy/>.
 
 Britzman, Deborah P. "Is There a Queer Pedagogy? Or, Stop Reading Straight." *Curriculum: Toward New Identities*. Ed. William F. Pinar. New York: Routledge, 1998. 211–227.
 
@@ -170,37 +170,37 @@ Bryson, Mary and Suzanne de Castell. "Queer Pedagogy: Praxis Makes Im/Perfect." 
 
 Butler, Judith. "Critically Queer." *GLQ* 1:1 (Nov. 1993): 17–32.  
 
-Chang, Edmond Y. "Assignments: Identity Logs." Winter 2013.  [http://www.edmondchang.com/466/assignments.html](http://www.edmondchang.com/466/assignments.html).
+Chang, Edmond Y. "Assignments: Identity Logs." Winter 2013.  <http://www.edmondchang.com/466/assignments.html>.
 
 Dierkes-Thrun, Petra. "Digital Pedagogy: Twitter, Close Reading, and Learning/Teaching in Public." 31 Jan. 2014.  
-[http://litilluminations.wordpress.com/2014/01/31/digital-pedagogy-close-reading-and-learning-in-public/](http://litilluminations.wordpress.com/2014/01/31/digital-pedagogy-close-reading-and-learning-in-public/).
+<http://litilluminations.wordpress.com/2014/01/31/digital-pedagogy-close-reading-and-learning-in-public/>.
 
 "Digital Storytelling Project." *Queering the Museum*. [http://queeringthemuseum.org/current-projects/digital-storytelling-project/](http://queeringthemuseum.org/current-projects/digital-storytelling-project/).
 
-Fink, Marty. "ENGL 1102: Queer New Media." Spring 2014. [http://queergatech.tumblr.com/](http://queergatech.tumblr.com/).
+Fink, Marty. "ENGL 1102: Queer New Media." Spring 2014. <http://queergatech.tumblr.com/>.
 
-Fotopoulou, Aristea and Kate O'Riordan, Eds. "Queer Feminist Media Practice." *Ada: A Journal of Gender, New Media, and Technology*. Jul. 2014. [http://adanewmedia.org/issues/issue-archives/issue5/](http://adanewmedia.org/issues/issue-archives/issue5/).
+Fotopoulou, Aristea and Kate O'Riordan, Eds. "Queer Feminist Media Practice." *Ada: A Journal of Gender, New Media, and Technology*. Jul. 2014. <http://adanewmedia.org/issues/issue-archives/issue5/>.
 
 Halberstam, Judith. "Reflections on Queer Studies and Queer Pedagogy." *Journal of Homosexuality*. 45:2–4 (Oct. 2008): 361–364.
 
-Kopas, Merritt. *Lim*. Aug. 2012. [http://mkopas.net/files/Lim/](http://mkopas.net/files/Lim/).
+Kopas, Merritt. *Lim*. Aug. 2012. <http://mkopas.net/files/Lim/>.
 
-Lothian, Alexis. "Queer Geek Theory: Classes." Fall 2014.  [http://www.queergeektheory.org/teaching_main/classes/](http://www.queergeektheory.org/teaching_main/classes/).
+Lothian, Alexis. "Queer Geek Theory: Classes." Fall 2014.  <http://www.queergeektheory.org/teaching_main/classes/>.
 
-Moesch, Jarah. "Refracting Digital Humanities." *The Jarah Tree*. 5 Jul. 2014. [http://thejarahtree.com/2014/07/05/refracting-digital-humanities/](http://thejarahtree.com/2014/07/05/refracting-digital-humanities/).
+Moesch, Jarah. "Refracting Digital Humanities." *The Jarah Tree*. 5 Jul. 2014. <http://thejarahtree.com/2014/07/05/refracting-digital-humanities/>.
 
 O'Riordan, Kate and David J. Phillips. *Queer Online: Media, Technology, and Sexuality*. New York: Peter Lang, 2007.
 
-Prensky, Marc. "Digital Natives, Digital Immigrants." *marcprensky.com*. 2001. [http://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part1.pdf](http://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part1.pdf).
+Prensky, Marc. "Digital Natives, Digital Immigrants." *marcprensky.com*. 2001. <http://www.marcprensky.com/writing/Prensky%20-%20Digital%20Natives,%20Digital%20Immigrants%20-%20Part1.pdf>.
 
-"Queer Pedagogical Performance: Funded Project Evaluation." Simpson Center for the Humanities. University of Washington, 2012. [http://mkopas.net/files/2012_Report_QPP_Appended.pdf](http://mkopas.net/files/2012_Report_QPP_Appended.pdf).
+"Queer Pedagogical Performance: Funded Project Evaluation." Simpson Center for the Humanities. University of Washington, 2012. <http://mkopas.net/files/2012_Report_QPP_Appended.pdf>.
 
-Queer Technologies. 2013. [http://www.queertechnologies.info/](http://www.queertechnologies.info/).
+Queer Technologies. 2013. <http://www.queertechnologies.info/>.
 
-Queerness and Games Conference Videos. 2013–14. [http://www.twitch.tv/qgcon/profile](http://www.twitch.tv/qgcon/profile).
+Queerness and Games Conference Videos. 2013–14. <http://www.twitch.tv/qgcon/profile>.
 
 Sedgwick, Eve Kosofsky. "Queer and Now." *Tendencies*. Durham, NC: Duke University Press, 1993. 1–20.
 
 Somerville, Siobhan.  "Queer." *Keywords for American Cultural Studies*. Eds. Bruce Burgett and Glenn Hendler. New York: NYU Press, 2007. 187–191.
 
-TransformDH. [http://transformdh.org/](http://transformdh.org/).
+TransformDH. <http://transformdh.org/>.
