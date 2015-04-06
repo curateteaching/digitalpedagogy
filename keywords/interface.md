@@ -146,7 +146,7 @@ Alan Liu, "DH Tools Wiki," <http://dhresourcesforprojectbuilding.pbworks.com/w/p
 
 Miriam Posner, "How Did They Make That? The Video!" <http://miriamposner.com/blog/how-did-they-make-that-the-video/>
 
-Howard Rheingold, "The Peeragogy Handbook," <http://peeragogy.org/>
+Howard Rheingold, "The Peeragogy Handbook," [http://peeragogy.org/](http://peeragogy.org/)
 
 
 ## WORKS CITED
