@@ -15,8 +15,8 @@ type: book
 
 # QUEER (Draft)
 
-### Edmond Y. Chang
-Drew University | Department of English | [Website](http://www.edmondchang.com/)
+### [Edmond Y. Chang](http://www.edmondchang.com/)
+Drew University | Department of English
 
 ---
 

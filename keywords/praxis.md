@@ -20,7 +20,7 @@ type: book
 # PRAXIS  (Draft)
 
 ### Bethany Nowviskie, Jeremy Boggs, and J. K. Purdom Lindblad 
-University of Virginia | Scholars' Lab | [Website](http://scholarslab.org/)
+University of Virginia | [Scholars' Lab](http://scholarslab.org/)
 
 ---
 
