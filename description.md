@@ -6,10 +6,10 @@ Hashtag for news and updates: [\#curateteaching](https://twitter.com/hashtag/cu
 
 ## GENERAL EDITORS
 
-* Rebecca Frost Davis, Saint Edward's University ([rebeccad@stedwards.edu](mailto:rebeccad@stedwards.edu))
-* Matthew K. Gold, City Tech and Graduate Center, City University of New York ([mgold@gc.cuny.edu](mailto:mgold@gc.cuny.edu))
-* Katherine D. Harris, San José State University ([dr.katherine.harris@gmail.com](mailto:dr.katherine.harris@gmail.com))
-* Jentery Sayers, University of Victoria ([jentery@uvic.ca](mailto:jentery@uvic.ca))
+* [Rebecca Frost Davis](https://commons.mla.org/members/frostdavis/), Saint Edward's University ([rebeccad@stedwards.edu](mailto:rebeccad@stedwards.edu))
+* [Matthew K. Gold](https://commons.mla.org/members/mkgold/), City Tech and Graduate Center, City University of New York ([mgold@gc.cuny.edu](mailto:mgold@gc.cuny.edu))
+* [Katherine D. Harris](https://commons.mla.org/members/kdharris/), San José State University ([dr.katherine.harris@gmail.com](mailto:dr.katherine.harris@gmail.com))
+* [Jentery Sayers](https://commons.mla.org/members/jentery/), University of Victoria ([jentery@uvic.ca](mailto:jentery@uvic.ca))
 
 ## RATIONALE
 
@@ -59,14 +59,14 @@ Several of our selected keywords form complementary pairs. “Play” and “wor
 
 The advisory board helped shape this project by giving advice on the initial proposal, the list of keywords, and potential curators. As the project developed, they gave feedback on the curator model, publication venue, possible partners, and platform. As *Digital Pedagogy in the Humanities* moves into open peer review, the board will play a key role in offering peer review and encouraging the wider community to do so as well. Finally, the Advisory Board will review keywords and curated examples for consistency, coverage, and gaps. Their input will ensure that the project continues to reflect the current state of digital pedagogy.
 
-* Cheryl Ball, West Virginia University
+* [Cheryl Ball](https://commons.mla.org/members/s2ceball/), West Virginia University
 * Bryan Carter, University of Arizona
-* Tanya Clement, University of Texas, Austin
-* Brian Croxall, Emory University
+* [Tanya Clement](https://commons.mla.org/members/tclement/), University of Texas, Austin
+* [Brian Croxall](https://commons.mla.org/members/briancroxall/), Emory University
 * Douglas Eyman, George Mason University
-* Paul Fyfe, North Carolina State University
+* [Paul Fyfe](https://commons.mla.org/members/pfyfe/), North Carolina State University
 * Gail E. Hawisher, University of Illinois, Urbana (professor emeritus)
-* Jason B. Jones, Trinity College
-* Virginia Kuhn, University of Southern California
-* Cynthia Selfe, Ohio State University
-* Lisa Spiro, Rice University
+* [Jason B. Jones](https://commons.mla.org/members/jbjones/), Trinity College
+* [Virginia Kuhn](https://commons.mla.org/members/vkuhn/), University of Southern California
+* [Cynthia Selfe](https://commons.mla.org/members/selfe2/), Ohio State University
+* [Lisa Spiro](https://commons.mla.org/members/lspiro/), Rice University
