@@ -38,7 +38,7 @@ For our purposes, then, rather than focusing on professional knowledge used to s
 The "Five Year Resume" exercise offers students the opportunity to develop a multi-year plan for their career development. With eight core components (objectives, professional experience, volunteer experience, references, personal interests, professional activities, education, and personal information), the exercise serves as a stellar model for how to construct one's resume alongside sets of activities that students would need to undertake in order to fulfill their five-year career goals. Laker and Laker offer as well a resource assessment exercise to help students identify what support systems and other information they will need in order to achieve their five year goals. Instructors will find that students struggle with how to articulate the step-by-step activities they might need to develop beyond the initial goal of getting a job. You might find that it is useful to provide examples of five-year resumes to students to illustrate how large-scale tasks might need to be broken into constituent components.
 
 ### “Going Alt-Ac: How to Begin” 
-![screenshot](images/professionalism_Sanders_Going_Alt_Ac.tiff)
+![screenshot](images/professionalism_Sanders_Going_Alt_Ac.jpg)
 
 * Source URL: [https://www.insidehighered.com/blogs/gradhacker/going-alt-ac-how-begin](https://www.insidehighered.com/blogs/gradhacker/going-alt-ac-how-begin)
 * Copy of Artifact: [files/professionalism_Sanders_Going_Alt_Ac.pdf](files/Sanders_Going_Alt_Ac.pdf)
@@ -47,7 +47,7 @@ The "Five Year Resume" exercise offers students the opportunity to develop a mul
 "Going Alt-Ac: How to Begin" offers a few quick steps students can take to begin thinking about alternative academic careers. The blog helps student identify their own personal motivations, constraints, and awareness of professional outlets and environments. Importantly, while the blog assists in getting started, its focus on one's personal motivations will be very useful to those considering moving from their current employer to their next. Instructors using this resource might ask students to not only assess their own motivations but to interview professionals in their potential fields about how their decision-making articulated specific awareness and constraints.
 
 ### “Graduate Professionalism Seminar” Syllabus
-![screenshot](images/professionalism_Morisson_Hook_And_Eye.tiff)
+![screenshot](images/professionalism_Morisson_Hook_And_Eye.jpg)
 
 * Source URL: [http://www.hookandeye.ca/2013/09/graduate-professionalization-seminar.html](http://www.hookandeye.ca/2013/09/graduate-professionalization-seminar.html)
 * Copy of Artifact: [files/professionalism_Morrison_graduate_professionalism_seminar.pdf](files/professionalism_Morrison_graduate_professionalism_seminar.pdf)
@@ -56,7 +56,7 @@ The "Five Year Resume" exercise offers students the opportunity to develop a mul
 The "Graduate Professionalism Course" Syllabus provides a skills and culture-based course for those interested in addressing professionalism. The syllabus blends academic-specific professional development (e.g. formulating academic committees and navigating academic job searches) with alternative academic career paths. Morrison highlights how to "find meaningful and interesting work "post-academic" style, and how to translate all the hard-won academic skills for non-academic hiring managers." Importantly, the syllabus also introduces how to conduct assessments of personality type and how to network. This resource will be most useful to instructors who are working with graduate students to assist them in considering their graduate experiences as part of professional development. Students looking to understand how to constitute committees and initiate professional job searches will find this syllabus particularly useful.
 
 ### “Introduction to Public Speaking” Course
-![screenshot](images/professionalism_Coursera_Intro_Public_Speaking.tiff)
+![screenshot](images/professionalism_Coursera_Intro_Public_Speaking.jpg)
 
 * Source URL: [https://www.coursera.org/learn/public-speaking](https://www.coursera.org/learn/public-speaking)
 * Copy of Artifact: none
@@ -65,7 +65,7 @@ The "Graduate Professionalism Course" Syllabus provides a skills and culture-bas
 With eighteen hours of video, quizzes, and peer assessment, this coursera led by Matt McGarrity provides an opportunity for students to study the principles of public speaking, examine speeches through interactive assessment, and help students prepare speeches. Instructors might look to this course to provide a complete parallel educational experience, as a model to emulate how to teach non-written competancies, and/or as a way to develop peer assessment strategies. Students will find the coursera framework useful as it can be divided into increments as short as five minutes or as long as multiple hours. 
 
 ### National Survey on Professionalism
-![screenshot](images/professionalism_York_Professionalism.tiff)
+![screenshot](images/professionalism_York_Professionalism.jpg)
 
 * Source URL: [http://www.ycp.edu/media/york-website/cpe/2015-National-Professionalism-Survey---Recent-College-Graduates-Report.pdf](http://www.ycp.edu/media/york-website/cpe/2015-National-Professionalism-Survey---Recent-College-Graduates-Report.pdf)
 * Copy of Artifact: [files/professionalism_York_survey.pdf](files/professionalism_York_Survey.pdf)
@@ -83,7 +83,7 @@ When we usually approach the pedagogy of professionalism, we tend to use our own
 ORCID is an open, non-profit, community-driven effort to create and maintain a registry of unique researcher identifiers and a transparent method of linking research activities and outputs to these identifiers. ORCID connects researchers and research through the embedding of ORCID identifiers in key workflows, such as manuscript submissions, grant applications, and digital publications. As students are likely to maintain multiple professional and institutional affiliations throughout their careers, ORCID will allow them to link their professional social media and networking accounts (e.g. LinkedIn) to their changing professional affiliations. Importantly, within the classroom, the registration and development of one's ORCID profile is a useful activity to get students thinking about how to develop their career profiles.   
 
 ### Professionalism
-![screenshot](images/professionalism_DOL_Professionalism.tiff)
+![screenshot](images/professionalism_DOL_Professionalism.jpg)
 
 * Source URL: [http://www.dol.gov/odep/topics/youth/softskills/Professionalism.pdf](http://www.dol.gov/odep/topics/youth/softskills/Professionalism.pdf)
 * Copy of Artifact: [files/professionalism_DOL_Professionalism.pdf](professionalism_DOL_Professionalism.pdf)
@@ -92,7 +92,7 @@ ORCID is an open, non-profit, community-driven effort to create and maintain a r
 While this guide to professionalism is specific to the US context, the included exercises on identifying workplace bias, generational and cultural stereotypes, professional attitudes, and social dynamics within the workplace are invaluable. Each exercise offers a short activity, a journal or reflective activity, as well as suggested extension activities that instructors might build on to the particular topic. Importantly, little professionalism training in the academy focuses on social and cultural dynamics making these tutorials quite unique and useful for those looking to be successful in professional environments. Instructors will find these activities perfect for role-playing within the classroom while students will be able to work through their own responses to common workplace scenarios.
 
 ### “You Call It Professionalism, I Call It Oppression in a Three-Piece Suit” 
-![screenshot](images/Rios_You_Call_It.tiff)
+![screenshot](images/Rios_You_Call_It.jpg)
 
 * Source URL: [http://everydayfeminism.com/2015/02/professionalism-and-oppression/](http://everydayfeminism.com/2015/02/professionalism-and-oppression/)
 * Copy of Artifact: [files/professionalism_Rios_You_Call_It.pdf](files/professionalism_Rios_You_Call_It.pdf)
@@ -101,7 +101,7 @@ While this guide to professionalism is specific to the US context, the included 
 This reflective essay from Carmen Rios for everydayfeminism.com identifies the ways in which professionalism can used as languages and behaviors of oppression within the workplace. Rios writes, "professionalism is a tool of the elite to keep workforces “in their place” – and often, that place is defined in opposition to communities of color, queer culture, and the actual working class." From dress codes to workplace behaviors to social dynamics, Rios' essay offers an important way to open discussion with students about the implicit and explicit codes within the workplace that they might not only encounter but be complicit in via their conditions of employment. Instructors might ask students to not only reflect on their experiences but to offer strategies that might be used to confront systemic inequalities within workplace doctrines and behaviors.
 
 ### “Your Body Language Shapes Who You Are” 
-![screenshot](images/professionalism_Cuddy_Body_Language.tiff)
+![screenshot](images/professionalism_Cuddy_Body_Language.jpg)
 
 * Source URL: [https://www.youtube.com/watch?v=Ks-_Mh1QhMc](https://www.youtube.com/watch?v=Ks-_Mh1QhMc)
 * Copy of Artifact: [files/professionalism_Cuddy_Body_Language.mp4](files/professionalism_Cuddy_Body_Language.mp4)
