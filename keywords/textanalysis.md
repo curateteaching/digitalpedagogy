@@ -153,7 +153,7 @@ Singer's article examines the utility of the TEI (Text Encoding Initiative) XML 
 * Artifact Type: assignment
 * Source URL: NA
 * Artifact Permissions:
-* Copy of the Artifact: files/Malone-Annotation-Assignment.pdf
+* Copy of the Artifact: !(files/Malone-Annotation-Assignment.pdf)
 * Creator and Affiliation: Katherine Malone (South Dakota State University)
 
 This sequence of interrelated assignments guides students to work individually and in groups to create a critical edition of a text for use by future classes of their peers. Students define key terms to be annotated, research topics in digitized eighteenth- and nineteenth-century periodicals, and add research-based annotations to the text using [A.nnotate.com] (http://a.nnotate.com/). Exposing students to primary research with digitized materials deepens the context for their understanding of the text. Asking students to participate in the process of annotating a text in a collaborative digital environment reveals the research and editorial decisions that lie behind any classroom text. This clearly structured assignment could be adapted for a wide variety of literary or historical texts.  
@@ -178,7 +178,7 @@ Text analysis tools of all sorts can be useful for the process of composition as
 * Artifact Type: assignment
 * Source URL: http://www.leeannhunter.com/wp-content/uploads/2011/10/DigitalPoster.pdf
 * Artifact Permissions:
-* Copy of the Artifact: files/Hunter-Digital-Poster.pdf
+* Copy of the Artifact: !(files/Hunter-Digital-Poster.pdf)
 * Creator and Affiliation: Leeann Hunter (Washington State University)
 
 The digital environment offers new ways for students to communicate their analytic arguments about texts. This assignment neatly combines literary and cultural analysis of characters and physical space with rhetorical analysis both of the novel and of the student's own work. By requiring students to create a digital poster to present their arguments about Dickens's rhetorical strategies in the novel, Hunter asks them to reflect on the different affordances of the digital medium as compared with a print poster. Sequencing the poster assignment with drafts and peer review sessions means that students take it as seriously as a form for argument as they do essays in traditional formats. Because the results of computational text analysis are often best presented in graphs, the digital poster assignment could be usefully combined with other text analysis assignments included in this section. 
@@ -201,7 +201,7 @@ Fyfe, Paul. "How to Not Read a Victorian Novel." _Journal of Victorian Culture_ 
 
 Jockers, Matthew. _Text Analysis with R for Students of Literature_. Cham, Switzerland: Springer, 2014. 
 
-Selected Syllabi for Courses Including Computational Text Analysis. (files/text_analysis_syllabi.md)
+Selected Syllabi for Courses Including Computational Text Analysis. !(files/text_analysis_syllabi.md)
 
 Sinclair, St&eacute;fan and Geoffrey Rockwell. "Teaching Computer-Assisted Text Analysis." _Digital Humanities Pedagogy: Practices, Principles and Politics. Ed. Brett D. Hirsch. Open Book Publishers, 2012. Kindle file.
 
