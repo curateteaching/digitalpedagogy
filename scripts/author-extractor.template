@@ -1,3 +1,0 @@
-$for(author)$
-$if(author.given)$$author.given$$endif$ $if(author.family)$$author.family$$endif$
-$endfor$

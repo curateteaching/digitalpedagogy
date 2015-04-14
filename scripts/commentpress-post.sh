@@ -90,7 +90,7 @@ then
 	KEYWORD_PARAM="--post_parent=$KEYWORD_LIST_ID"
 
 	#Extract the author's name from the YAML metadata and append it to the title.
-	AUTHOR=$(pandoc $BASENAME --template=`dirname $0`/author-extractor.template)
+	AUTHOR=$(cat $BASENAME | ruby `dirname $0`/author-extractor.rb)
 
 	TITLE="$TITLE ($AUTHOR)"
 
