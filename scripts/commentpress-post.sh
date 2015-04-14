@@ -111,6 +111,7 @@ echo "Author: $AUTHOR"
 #Post!
 wp post create $SHORTNAME.html --post_type=page --post_status=publish $KEYWORD_PARAM --menu_order="$ORDER" --post_title="$TITLE" --url=digitalpedagogy.$SERVER > output.txt
 
+#Get the WP post ID for the page we just posted, so that we can reference it in the meta below. 
 POST_ID=$(cat output.txt | grep 'Success: Created post' | sed -e 's/[^0-9]//g')
 
 if [ -n "$AUTHOR" ]
