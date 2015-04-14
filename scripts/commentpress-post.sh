@@ -43,9 +43,6 @@ KEYWORD=1
 #Make a temporary copy that we can modify without worrying about corrputing the original.  
 cp $1 $1.edited 
 
-#Remove leading YAML block, props to http://stackoverflow.com/a/28222257/584121  
-#sed -i '1 { /^---/ { :a N; /\n---/! ba; d} }' $1.edited
-
 #Remove markdown title, since we're actually going to use the filename. 
 #This removes the first line that starts with #. 
 #Props to http://stackoverflow.com/a/3502386/584121
@@ -89,10 +86,12 @@ then
 	#Make keywords child pages of the page called List of Keywords
 	KEYWORD_PARAM="--post_parent=$KEYWORD_LIST_ID"
 
-	#Extract the author's name from the YAML metadata and append it to the title.
+	#Extract the author's name from the YAML metadata. 
 	AUTHOR=$(cat $BASENAME | ruby `dirname $0`/author-extractor.rb)
 
-	TITLE="$TITLE ($AUTHOR)"
+	#Remove leading YAML block, props to http://stackoverflow.com/a/28222257/584121  
+	sed -i '1 { /^---/ { :a N; /\n---/! ba; d} }' $1.edited
+
 
 	#Change image locations to ones that WP will understand.  
 	sed -i "s#(images#(../../files/$YEAR/$MONTH#g" $1.edited
@@ -110,7 +109,14 @@ echo "Title: $TITLE"
 echo "Author: $AUTHOR"
 
 #Post!
-wp post create $SHORTNAME.html --post_type=page --post_status=publish $KEYWORD_PARAM --menu_order="$ORDER" --post_title="$TITLE" --url=digitalpedagogy.$SERVER 
+wp post create $SHORTNAME.html --post_type=page --post_status=publish $KEYWORD_PARAM --menu_order="$ORDER" --post_title="$TITLE" --url=digitalpedagogy.$SERVER > output.txt
+
+POST_ID=$(cat output.txt | grep 'Success: Created post' | sed -e 's/[^0-9]//g')
+
+if [ -n "$AUTHOR" ]
+then 
+	wp post meta add $POST_ID author "$AUTHOR" --url=digitalpedagogy.$SERVER
+fi
 
 #Clean up.
-rm $SHORTNAME.html $1.edited 
+#rm $SHORTNAME.html $1.edited output.txt
