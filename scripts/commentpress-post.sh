@@ -5,13 +5,25 @@
 # review site. It's written for Linux, and because it uses a recent 
 # version of `sed`, it won't work on MacOS. 
 
-# It may be called like this (BASH):
+# It may be called like this (BASH/ZSH):
 
-# for file in hybrid interface praxis queer rhetoric video; do path/to/commentpress-post.sh $file; done
+# for file in hybrid interface praxis queer rhetoric video; do path/to/commentpress-post.sh $file.md; done
 
 # Set the page ID for the page "List of Keywords". This will be used to make
 # the keywords child pages of this page.  
+
+# Check to make sure $SERVER is set first. 
+if [ ! -n $SERVER ]
+then 
+	echo 'You must set the environment variable $SERVER for this script to work'
+	exit 1
+fi
+
 KEYWORD_LIST_ID=108
+
+# Set $YEAR and $MONTH to the year and month the file's images were posted.
+YEAR=2015
+MONTH=03
 
 # Get the basename 
 BASENAME=$(basename "$1")
@@ -32,7 +44,7 @@ KEYWORD=1
 cp $1 $1.edited 
 
 #Remove leading YAML block, props to http://stackoverflow.com/a/28222257/584121  
-sed -i '1 { /^---/ { :a N; /\n---/! ba; d} }' $1.edited
+#sed -i '1 { /^---/ { :a N; /\n---/! ba; d} }' $1.edited
 
 #Remove markdown title, since we're actually going to use the filename. 
 #This removes the first line that starts with #. 
@@ -77,9 +89,12 @@ then
 	#Make keywords child pages of the page called List of Keywords
 	KEYWORD_PARAM="--post_parent=$KEYWORD_LIST_ID"
 
-	YEAR=$(date +%Y)
-	MONTH=03
-	#Change image locations to ones that WP will understand. Change this if it's not January 2015. 
+	#Extract the author's name from the YAML metadata and append it to the title.
+	AUTHOR=$(pandoc $BASENAME --template=`dirname $0`/author-extractor.template)
+
+	TITLE="$TITLE ($AUTHOR)"
+
+	#Change image locations to ones that WP will understand.  
 	sed -i "s#(images#(../../files/$YEAR/$MONTH#g" $1.edited
 
 	#Change /files locations to ones that WP will understand. 
@@ -90,6 +105,9 @@ fi
 
 #Convert to HTML
 pandoc -o $SHORTNAME.html $1.edited 
+
+echo "Title: $TITLE" 
+echo "Author: $AUTHOR"
 
 #Post!
 wp post create $SHORTNAME.html --post_type=page --post_status=publish $KEYWORD_PARAM --menu_order="$ORDER" --post_title="$TITLE" --url=digitalpedagogy.$SERVER 
