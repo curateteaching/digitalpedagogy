@@ -45,7 +45,7 @@ Does it matter if a classroom is a little rectangle in a building or a little re
 ### Remediated Shakespeare Sonnets 
 ![screenshot](images/interface-Burgess-Sonnet.png)
 
-* Source URL: http://helenburgess.com/395sonnets/
+* Source URL: <http://helenburgess.com/395sonnets/>
 * Copy of Artifact: [files/interface-Burgess-Sonnet_1.pdf](files/interface-Burgess-Sonnet_1.pdf), [files/interface-Burgess-Sonnet_2.pdf](files/interface-Burgess-Sonnet_2.pdf) , [files/interface-Burgess-Sonnet_3.pdf](files/interface-Burgess-Sonnet_3.pdf)
 * Creator: Helen Burgess (North Carolina State University)
 
@@ -54,7 +54,7 @@ Does it matter if a classroom is a little rectangle in a building or a little re
 ### "Simulating the Scriptorium"
 ![screenshot](images/interface-Cordell-Scrivening.png)
 
-* Source URL: http://f14tot.ryancordell.org/2014/09/16/lab-3-simulating-the-scriptorium/
+* Source URL: <http://f14tot.ryancordell.org/2014/09/16/lab-3-simulating-the-scriptorium/>
 * Copy of Artifact: forthcoming
 * Creator: Ryan Cordell (Northeastern University)
 
@@ -63,7 +63,7 @@ Does it matter if a classroom is a little rectangle in a building or a little re
 ### Close Reading Exercise via Tumblr 
 ![screenshot](images/interface-HoL-Douglass-Pokornowski.png)
 
-* Source URL: http://english10introductiontolit.tumblr.com
+* Source URL: <http://english10introductiontolit.tumblr.com>
 * Copy of Artifact: [files/interface-Douglass-Pok-ENGL-10-HoL-Remix.pdf](files/interface-Douglass-Pok-ENGL-10-HoL-Remix.pdf)
 * Creators: Jeremy Douglass (University of California Santa Barbara) and Steven Pokornowski (University of California Santa Barbara)
 
@@ -72,8 +72,8 @@ It's ambitious to assign <em>House of Leaves</em> in an introductory literature 
 ### Distant Reading Exercise
 ![screenshot](images/interface-Wordle-fr-open-source-Fyfe.jpg)
 
-* Source URL: http://ryancordell.org/personal/grad-proseminar-guest-talk-not-reading/
-* Source URL: open-access pre-print of the original article http://diginole.lib.fsu.edu/eng_faculty_publications/2/
+* Source URL: <http://ryancordell.org/personal/grad-proseminar-guest-talk-not-reading/>
+* Source URL: open-access pre-print of the original article <http://diginole.lib.fsu.edu/eng_faculty_publications/2/>
 * Copy of Artifact: forthcoming
 * Creators: Paul Fyfe (North Carolina State University); Ryan Cordell (Northeastern University)
 
@@ -82,7 +82,7 @@ Paul Fyfe's 4-page field note about teaching senior undergraduate English majors
 ### Collaborative Undergraduate Research Project
 ![screenshot](images/interface-Harris-Collab-Project.jpg)
 
-* Source URL: http://triproftri.wordpress.com/2012/12/03/collaborative-project-on-19th-century-materials-assignment/#more-1191
+* Source URL: <http://triproftri.wordpress.com/2012/12/03/collaborative-project-on-19th-century-materials-assignment/#more-1191>
 * Copy of Artifact: forthcoming
 * Creator: Katherine D. Harris (San Jose State University)
 
@@ -91,7 +91,7 @@ Lower-division literature majors are new to devising substantial research projec
 ### Historically-Based, Geographically Situated Role Playing Game 
 ![screenshot](images/interface-Hergenrader-Steampunk-Rochester-map.png)
 
-* Source URL: http://steampunkrochester.wikispaces.com/Steampunk+Rochester
+* Source URL: <http://steampunkrochester.wikispaces.com/Steampunk+Rochester>
 * Copy of Artifact: forthcoming
 * Creator: Trent Hergenrader (Rochester Institute of Technology)
 
@@ -102,7 +102,7 @@ Created in collaboration among four departments at the Rochester Institute of Te
 ### New Undergraduate Pedagogical Partnerships for Large Archival Project
 ![screenshot](images/interface-MoEML-Ped-Partners-Jenstad.png)
 
-* Source URL: http://mapoflondon.uvic.ca/pedagogical_partnership.htm
+* Source URL: <http://mapoflondon.uvic.ca/pedagogical_partnership.htm>
 * Copy of Artifact: forthcoming
 * Creator: Janelle Jenstad (University of Victoria)
 
@@ -111,7 +111,7 @@ Many people have heard of <em>Map of Early Modern London</em>, now in its fiftee
 ### Giving Voice to Spanish-Language Life Histories
 ![screenshot](images/interface-Mongar-Esta-Vida.png)
 
-* Source URL: http://estavidaboricua.com/
+* Source URL: <http://estavidaboricua.com/>
 * Copy of Artifact: forthcoming
 * Creator: Sonja S. Mongar (Universidad de Puerto Rico de Mayagüez)
 
@@ -120,7 +120,7 @@ Many people have heard of <em>Map of Early Modern London</em>, now in its fiftee
 ### Participatory, Short-Form Critical Essay Writing 
 ![screenshot](images/interface-Twitter-bird-Stommel.jpg)
 
-* Source URL: http://www.hybridpedagogy.com/journal/the-twitter-essay/
+* Source URL: <http://www.hybridpedagogy.com/journal/the-twitter-essay/>
 * Copy of Artifact: forthcoming
 * Creator: Jesse Stommel (University of Wisconsin-Madison)
 
@@ -129,7 +129,7 @@ In the "Twitter Essay," Jesse Stommel exhorts students to convert their expertis
 ### Mobile Text-and-Image Collaborative Story 
 ![screenshot](images/interface-Wittig-1wknotech.png)
 
-* Source URL: http://1wknotech.tumblr.com/
+* Source URL: <http://1wknotech.tumblr.com/>
 * Copy of Artifact: forthcoming 
 * Creator: Rob Wittig (University of Minnesota Duluth Department of Art and Design); Mark C. Marino (University of Southern California)
 

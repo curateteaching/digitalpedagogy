@@ -47,7 +47,7 @@ Given these familiar and experimental possibilities combined with the increasing
 ### The Digital Writing and Research Lab 
 ![screenshotDWRL.jpg](http://siteslab.org/keywordvideo/screenshotDWRL.jpg)
 
-* Source URL: http://lessonplans.dwrl.utexas.edu/pedagogical-goals-digital-literacy/video
+* Source URL: <http://lessonplans.dwrl.utexas.edu/pedagogical-goals-digital-literacy/video>
 * Copy of Artifact: forthcoming
 * Creators: Cate Blouke, Lisa Gulesserian, Jenny Howell, Rachel Mazique, Scott Nelson, Sarah Riddick, Michael Roberts, Laura Thain, and Beck Wise (University of Texas at Austin)
 
@@ -56,7 +56,7 @@ This resource presents a collection of lesson plans filed under “video” in t
 ### *The JUMP* Journal
 ![screenshotJUMP.jpg](http://siteslab.org/keywordvideo/screenshotJUMP.jpg)
 
-* Source URL: http://jump.dwrl.utexas.edu
+* Source URL: <http://jump.dwrl.utexas.edu>
 * Copy of Artifact: forthcoming
 * Creators: Justin Hodgson and The JUMP Collective (Indiana University and The University of Texas at Austin)
 
@@ -65,7 +65,7 @@ This resource presents a collection of lesson plans filed under “video” in t
 ### “North Carolina Stories"
 ![screenshotENGL318.jpg](http://siteslab.org/keywordvideo/screenshotENGL318.jpg)
 
-* Source URL: http://www.unc.edu/~twtaylor/318/
+* Source URL: <http://www.unc.edu/~twtaylor/318/>
 * Copy of Artifact: forthcoming
 * Creator: Todd Taylor (The University of North Carolina at Chapel Hill)
 
@@ -74,7 +74,7 @@ Todd Taylor’s ENGL 318 course site features materials related to the productio
 ### "DV Lab: Documenting Science through Video and New Media"
 ![screenshotMITdvlab.jpg](http://siteslab.org/keywordvideo/screenshotMITdvlab.jpg)
 
-* Source URL: http://ocw.mit.edu/courses/anthropology/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/index.htm
+* Source URL: <http://ocw.mit.edu/courses/anthropology/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/index.htm>
 * Copy of Artifact: forthcoming
 * Creators: Christine Waley and Chris Boebel (Massachusetts Institute of Technology and MIT OpenCourseWare)
 
@@ -83,7 +83,7 @@ An entry to the archive of course materials made available through MIT’s Open 
 ### "MediaComp"
 ![screenshotMEDIACOMP.jpg](http://siteslab.org/keywordvideo/screenshotMEDIACOMP.jpg)
 
-* Source URL: http://teachmix.com/mediacomp/
+* Source URL: <http://teachmix.com/mediacomp/>
 * Copy of Artifact: forthcoming
 * Creators: Daniel Anderson and students (University of North Carolina at Chapel Hill) 
 
@@ -92,7 +92,7 @@ MediaComp is a website for a course focused on new media composing. As we offere
 ### "Filmic Texts and the Rise of the Fifth Estate"
 ![screenshotFILMICTEXTS.jpg](http://siteslab.org/keywordvideo/screenshotFILMICTEXTS.jpg)
 
-* Source URL: http://scalar.usc.edu/anvc/kuhn/index
+* Source URL: <http://scalar.usc.edu/anvc/kuhn/index>
 * Copy of Artifact: forthcoming
 * Creator: Virginia Kuhn (University of Southern California) and the *International Journal of Learning and Media*
 
@@ -101,7 +101,7 @@ This online text captures and reports on the work of a class: IML 340: "The Prax
 ### "Teaching Resources for Video and Emerging Media" 
 ![screenshotPROCTOR.jpg](http://siteslab.org/keywordvideo/screenshotPROCTOR.jpg)
 
-* Source URL: http://cargo.jenniferproctor.com/Teaching-Resources
+* Source URL: <http://cargo.jenniferproctor.com/Teaching-Resources>
 * Copy of Artifact: forthcoming
 * Creator: Jennifer Proctor (University of Michigan, Dearborn)
 
@@ -110,7 +110,7 @@ Jennifer Proctor’s “Teaching Resources” page offers a range of materials c
 ### "Post-Industrial Video 0.5"
 ![screenshotPIV.jpg](http://siteslab.org/keywordvideo/screenshotPIV.jpg)
 
-* Source URL: http://vogmae.net.au/piv/
+* Source URL: <http://vogmae.net.au/piv/>
 * Copy of Artifact: forthcoming
 * Creator: Adrian Miles (RMIT University, Melbourne)
 
@@ -119,7 +119,7 @@ With this site Adrian Miles presents his curriculum for “post-industrial video
 ### "Iterative Progress"
 ![screenshotNEWGENRES.jpg](http://siteslab.org/keywordvideo/screenshotNEWGENRES.jpg)
 
-* Source URL: http://fall2014beginningnewgenres.tumblr.com/
+* Source URL: <http://fall2014beginningnewgenres.tumblr.com/>
 * Copy of Artifact: forthcoming
 * Creator: Justin Lincoln (Whitman College)
 
@@ -128,7 +128,7 @@ This resource and the pedagogy it represents fall squarely on the post-cinematic
 ### "Introduction to Humanities Physical Computing w/Arduino and Processing"
 ![screenshotRIEDER.jpg](http://siteslab.org/keywordvideo/screenshotRIEDER.jpg)
 
-* Source URL: http://siteslab.org/resources/RIEDER_ENG583-798_FALL2011.pdf
+* Source URL: <http://siteslab.org/resources/RIEDER_ENG583-798_FALL2011.pdf>
 * Copy of Artifact: forthcoming
 * Creator: David M. Rieder (North Carolina State University)
 
