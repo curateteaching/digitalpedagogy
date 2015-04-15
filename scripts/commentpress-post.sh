@@ -19,7 +19,7 @@ then
 	exit 1
 fi
 
-KEYWORD_LIST_ID=134
+KEYWORD_LIST_ID=143
 
 # Set $YEAR and $MONTH to the year and month the file's images were posted.
 YEAR=2015
