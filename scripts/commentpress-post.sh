@@ -19,7 +19,7 @@ then
 	exit 1
 fi
 
-KEYWORD_LIST_ID=108
+KEYWORD_LIST_ID=134
 
 # Set $YEAR and $MONTH to the year and month the file's images were posted.
 YEAR=2015
@@ -120,4 +120,4 @@ then
 fi
 
 #Clean up.
-#rm $SHORTNAME.html $1.edited output.txt
+rm $SHORTNAME.html $1.edited output.txt
