@@ -7,18 +7,22 @@ author:
 - family: Kuhn
   given: Virginia
 editor: 
-- family: Sayers
-  given: Jentery
+- family: Davis
+  given: Rebecca Frost
 publisher: Modern Language Association
 type: book
 ---
 
-#MULITIMODAL
+# MULITIMODAL (Draft)
 
-## VIRGINIA KUHN
+### [Virginia Kuhn] (http://virginiakuhn.net)
 University of Southern California, School of Cinematic Arts, Division of Media Arts + Practice | [virginiakuhn.net](http://virginiakuhn.net) 
 
-##### Publication Status: unreviewed draft
+##### Publication Status:
+* **unreviewed draft**
+* draft version undergoing editorial review
+* draft version undergoing peer-to-peer review
+* published 
 
 ---
 
@@ -39,7 +43,7 @@ Video can also provide a somewhat stable means for documenting projects that are
 ## CURATED ARTIFACTS
 
 ### The Internet Archive
-![screenshot](images/path-to-screenshot.jpg)
+![screenshot](images/Multimodal-InternetArchive.png)
 
 * Source URL: [archive.org](https://archive.org)
 * Creator: Library of Congress
@@ -47,7 +51,7 @@ Video can also provide a somewhat stable means for documenting projects that are
 This Library of Congress-supported site is a crucial one for multimodal texts, functioning as both a place for assets of all kinds (filmic, aural, and textual) as well as a potential place house one’s own projects.  We might think of it as a form of a  dictionary of media texts given that it houses so many collections of television, sound recordings and books but I also use it as an alternative to YouTube given the way that corporate interests have resulted in copious and often wrongheaded take-down notices. The Internet Archive also includes The Wayback Machine, which crawls and archives web pages. Not only does this help one find expired pages, thus helping to battle link rot, it also can provide fodder for any number of lessons in the history of the internets.
 
 ### Speaking with Students: Profiles in Digital Pedagogy
-![screenshot](images/path-to-screenshot.jpg)
+![screenshot](images/Multimodal-SpkgWithStudents.png)
 
 * Source URL: [kairos.technorhetoric.net/14.2/interviews/kuhn](http://kairos.technorhetoric.net/14.2/interviews/kuhn/)
 * Creator: Virginia Kuhn
@@ -55,7 +59,7 @@ This Library of Congress-supported site is a crucial one for multimodal texts, f
 This webtext was published in the peer reviewed online journal *Kairos*, in order to document the natively digital, media rich thesis projects created by students in the first two cohorts of the Honors in Multimedia Scholarship program at USC. The Flash-based webtext includes a discussion of the program’s thesis parameters,  twelve brief videos in which students discuss their work which are intercut with screenshots from their projects.  Each video is accompanied by a textual abstract and a “notes on process” section that describes decisions made in representing the students and their work.  I typically show one or two of these videos at the start of class before launching a discussion about multimodal texts, the wide spectrum of subject matter they cover, the need for documentation of such work, the perils of applications like Flash, and finally, the controlled design decisions that went into creating the webtext.
 
 ### From Pencils to Pixels: the Stages of Literacy Technology
-![screenshot](images/path-to-screenshot.jpg)
+![screenshot](images/Multimodal-Pencils to Pixels.pdf)
 
 * Source URL: [english.illinois.edu/-people-/faculty/debaron/essays/pencils.htm](http://www.english.illinois.edu/-people-/faculty/debaron/essays/pencils.htm)
 * Creator: Dennis Baron    
@@ -63,27 +67,28 @@ This webtext was published in the peer reviewed online journal *Kairos*, in orde
 I assign this essay to give students a historical view of the tools necessary for constructing texts. While the Guttenberg press is often invoked as a touchstone in the evolution of print literacy, that invention made possible a broadcast model as only the very few could construct a manuscript that others might read. The pencil is a far more important tool in terms of allowing the average person to contribute to the discourse by constructing their own texts.
  
 ### *Ways of Seeing* (video)
-![screenshot](images/path-to-screenshot.jpg)
+![screenshot](images/pMultimodal-WaysSeeingFilm.png)
 
 * Creator: John Berger
 
 This is the digitized version of the BBC television series that appeared in 1972 in four parts. I show the first episode or two in class, and assign the rest of them as homework. Once we all have a chuckle about John Berger’s hip clothes and hair cut (retro is cool!), I use the ideas presented as a springboard to talk about the ideas of Walter Benjamin and the Frankfurt School; it is a far more accessible way to teach the tenets of cultural studies than reading the print based texts of Benjamin et al, even as it enacts its own theories.  It also fosters a conversation about the ways in which emergent technologies impact the production of knowledge.
 
 ### *Ways of Seeing* (book)
-![screenshot](images/path-to-screenshot.jpg)
+![screenshot](images/Multimodal-WaysSeeingBook.png)
 
 * Creator: John Berger
 
 This book was written after the television series of the same name and I am careful to assign it after students have viewed the filmic version. While adapting a book to a film is somewhat commonplace, the reverse is highly unusual, and certainly was over forty years ago when this book was published. This video-book sequence affords many lessons in contrastive rhetoric as we look at similar ideas expressed in the two versions asking how they shift based on the affordances of the medium. But the book also includes many of the  features we now consider hypertextual:  it consists of five essays which can be read in any order and two of which are pictorial only with no words whatsoever. The print is also remarkable: the default is bold text, with emphasis shown by un-bolding and sometimes italicising it. This sequence is ripe with lessons in multimodality  both formally and conceptually.  
 
 ### Remix Culture: Fair Use is Your Friend 
-![screenshot](images/path-to-screenshot.jpg)
+![screenshot](images/Multimodal-RemixCultureFairUseFriend.png)
 
 * Source URL: [youtube.com/watch?v=7wwQTjR1N9g](https://www.youtube.com/watch?v=7wwQTjR1N9g)
 
 Before we ever start making things, I show this video in class and discuss the four pillars of fair use. Afterwards,  I explain that the way we establish fair use in the projects we create is by using media elements as objects of analysis rather than decoration, by only using as much of an artifact as is necessary to make our point, and by citing all of our sources. This brings an appreciation, or at least an understanding of the rationale for the carefully crafted assignment sheets I give and their seemingly tedious requirements.
 
 ### Scalar
+![screenshot](images/Multimodal-Scalar.png)
 
 * Source URL: [scalar.usc.edu](scalar.usc.edu)
 * Creator: Alliance for Networking Visual Culture
@@ -91,18 +96,21 @@ Before we ever start making things, I show this video in class and discuss the f
 It is difficult to find a platform that can accommodate the diverse semiotic codes that make up multimodal texts. Most platforms are either word friendly or media friendly but seldom both. Scalar allows multimodal authoring with all media forms and since it does not privilege one over another, it affords a sophisticated relationship among the various elements of the multimodal text. Scalar is also quite flexible in its potential for customization yet it retains a low barrier of entry such that students generally need very little instruction to begin using it.  The composition interface invokes familiar user interfaces wherever possible (e.g. from blogging, video hosting sites) and there are several video archives that hook into Scalar, including the Internet Archive. Finally, Scalar is fully online so it is accessible without the need for users to host and maintain their texts.
 
 ### *Universal Principles of Design*
+![screenshot](images/Multimodal-UniversalPrinciplesDesign.png)
 
 * Creator: William Lidwell, et al
 
 Unlike academic texts that are print-based and, having been around for hundreds of years, have their visual aspects reified, multimodal texts are  emergent and reminds us of the visual aspects of all texts, even as they require authors to consider user interfaces. And yet, design issues are seldom part of humanities curricula. I use this book in many classes. When justifying their design choices,  I ask to integrate at least one concept from this text. They do not have to follow the rule of the concept but they do have to articulate why they have either adhered or deviated from it.  This book offers a really smart, research based overview of the most salient issues associated with design and UI issues while it also enacts its these concepts and attends to aesthetics in a way that few books that address the benefits of multimodal texts do.
 
 ### ccMixter
+![screenshot](images/Multimodal-ccMixter.png)
 
 * Source URL: [ccmixter.org](http://ccmixter.org/)
 
 This is a public repository of soundtracks that can be downloaded, combined, and remixed for use in multimodal projects. One of the most common mistakes I find in multimodal projects comes via the soundtrack: For instance, a project’s controlling idea will be subversive, perhaps calling attention to gender stereotypes in mainstream media, and the author will use the Beatles’ *Revolution* as a soundtrack.  The music, then, functions only decoratively and since the song is not transformed from its original meaning in any way, it is not a critical act, nor does it meet the standards of fair use.  Further, because sound is so easily detected with automatic identification software, the project will nearly always be flagged for copyright infringement if added to a public hosting site.  Faulty takedown notices are already difficult to fight, and so a valid claim of infringement is not only sloppy scholarship, it muddies the fair use waters. 
 
 ### Plot.ly
+![screenshot](images/Multimodal-Plotly.png)
 
 * Source URL: [plot.ly](https://plot.ly/)
 
