@@ -59,7 +59,7 @@ This Library of Congress-supported site is a crucial one for multimodal texts, f
 This webtext was published in the peer reviewed online journal *Kairos*, in order to document the natively digital, media rich thesis projects created by students in the first two cohorts of the Honors in Multimedia Scholarship program at USC. The Flash-based webtext includes a discussion of the program’s thesis parameters,  twelve brief videos in which students discuss their work which are intercut with screenshots from their projects.  Each video is accompanied by a textual abstract and a “notes on process” section that describes decisions made in representing the students and their work.  I typically show one or two of these videos at the start of class before launching a discussion about multimodal texts, the wide spectrum of subject matter they cover, the need for documentation of such work, the perils of applications like Flash, and finally, the controlled design decisions that went into creating the webtext.
 
 ### From Pencils to Pixels: the Stages of Literacy Technology
-![screenshot](images/Multimodal-Pencils to Pixels.pdf)
+![screenshot](images/Multimodal-Pencils-to-Pixels.png)
 
 * Source URL: [english.illinois.edu/-people-/faculty/debaron/essays/pencils.htm](http://www.english.illinois.edu/-people-/faculty/debaron/essays/pencils.htm)
 * Creator: Dennis Baron    
@@ -67,7 +67,7 @@ This webtext was published in the peer reviewed online journal *Kairos*, in orde
 I assign this essay to give students a historical view of the tools necessary for constructing texts. While the Guttenberg press is often invoked as a touchstone in the evolution of print literacy, that invention made possible a broadcast model as only the very few could construct a manuscript that others might read. The pencil is a far more important tool in terms of allowing the average person to contribute to the discourse by constructing their own texts.
  
 ### *Ways of Seeing* (video)
-![screenshot](images/pMultimodal-WaysSeeingFilm.png)
+![screenshot](images/Multimodal-WaysSeeingFilm.png)
 
 * Creator: John Berger
 
