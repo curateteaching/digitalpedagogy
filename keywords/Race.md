@@ -181,7 +181,7 @@ This archival project seeks to overturn the actual effectiveness of the "White A
 * Copy of Artifact: forthcoming
 * Creator: @tgirlinterruptd, @chiefelk, @bad_dominicana, @aurabogado, @so_treu, @blackamazon, @thetrudz 
 
-C&#35;ThisTweetCalledMyBack is a hashtag movement from late 2014, in which women of color activists on Twitter called attention to the appropriation of much of their work on social media by both journalists, activists and academic. The hashtag references the seminal book *This Bridge Called My Back: Writings by Radical Women of Color*, edited and first published in 1981 by Cherríe Moraga, Gloria Anzaldua and Toni Cade Bambara. The hashtag can be taught in conjunction with themes of the appropriation of work by women of color in feminist movements and in relation to hashtag activism and new social media feminist movements and in comparison to their pre-internet counterparts.
+&#35;ThisTweetCalledMyBack is a hashtag movement from late 2014, in which women of color activists on Twitter called attention to the appropriation of much of their work on social media by both journalists, activists and academic. The hashtag references the seminal book *This Bridge Called My Back: Writings by Radical Women of Color*, edited and first published in 1981 by Cherríe Moraga, Gloria Anzaldua and Toni Cade Bambara. The hashtag can be taught in conjunction with themes of the appropriation of work by women of color in feminist movements and in relation to hashtag activism and new social media feminist movements and in comparison to their pre-internet counterparts.
 
 ### #TransformDH 
 * Artifact Type: Tumblr blog
@@ -190,7 +190,7 @@ C&#35;ThisTweetCalledMyBack is a hashtag movement from late 2014, in which women
 * Copy of Artifact: forthcoming
 * Creator: Anne Cong-Huyen (Whittier College), Alexis Lothian (University of Maryland),  Amanda Phillips (University of California, Davis), Melanie Kohnen (New York University), Moya Bailey (Northeastern  University), Marta S. Rivera Monclova (PhDeviate), Tanner Higgin (Common Sense Media), Fiona Barnett (Duke University), Anna Everett (University of California, Santa Barbara), Lisa Nakamura (University of Michigan), Tara McPherson (University of Southern California), Natalia Cecire (University of Sussex), Jessica M. Johnson (Michigan State University)
 
-C&#35;TransformDH is a fluid collective of people and ideas invested in the representation and scholarship of marginalized communities in the digital humanities. The tumblr blog would be good as an assigned reading in digital humanities classes, particularly in relation to considering the relationship of its content to the field at large.  
+&#35;TransformDH is a fluid collective of people and ideas invested in the representation and scholarship of marginalized communities in the digital humanities. The tumblr blog would be good as an assigned reading in digital humanities classes, particularly in relation to considering the relationship of its content to the field at large.  
 
 
 ### Afro Free Culture Wikimedia (AfroCROWD) Kickoff Edit-a-thons
