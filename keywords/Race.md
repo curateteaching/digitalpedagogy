@@ -165,7 +165,7 @@ This is a 3D virtual representation of the black township of Soweto, South Afric
 
 ### Invisible Australians: The Real Face of White Australia 
 * Artifact Type: Archive/Exhibit 
-![screenshot](images/race-   )
+* artifact image forthcoming
 * Source URL: http://invisibleaustralians.org/faces/ 
 * Copy of Artifact: forthcoming
 * Creator: Kate Bagnall (ANU College of Asia and the Pacific), Tim Sherratt (National Library of Australia, University of Canberra)
