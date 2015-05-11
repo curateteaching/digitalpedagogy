@@ -60,7 +60,7 @@ the academy. It locates this work in activist politics, in new modes of crowdfun
 in private foundations, among others. The majority of this work has not
 received the sorts of governmental, federal and institutional support
 other less politicized work has. This is not a new critique; a variety
-of scholars (Earhart, Koh)have argued that the majority of the extant digital humanities
+of scholars (Earhart, Koh) have argued that the majority of the extant digital humanities
 corps overly focuses on authors and cultural producers of European descent. 
 
 Thus on first look, a visitor to this project may find some of the selections in
@@ -165,7 +165,7 @@ This is a 3D virtual representation of the black township of Soweto, South Afric
 
 ### Invisible Australians: The Real Face of White Australia 
 * Artifact Type: Archive/Exhibit 
-* artifact image forthcoming
+![screenshot](images/race-invisible-australians.png)
 * Source URL: http://invisibleaustralians.org/faces/ 
 * Copy of Artifact: forthcoming
 * Creator: Kate Bagnall (ANU College of Asia and the Pacific), Tim Sherratt (National Library of Australia, University of Canberra)
@@ -195,7 +195,7 @@ This archival project seeks to overturn the actual effectiveness of the "White A
 
 ### Afro Free Culture Wikimedia (AfroCROWD) Kickoff Edit-a-thons
 * Artifact Type: Wikipedia Edit-A-Thon 
-![screenshot](images/race-afroCROWD.png)
+![screenshot](images/race-wikipediameetup.png)
 * Source URL: https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/AfroCrowd
 * Copy of Artifact: forthcoming
 * Creator and Affiliation: Multiple Wikipedia editors
