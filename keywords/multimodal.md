@@ -26,7 +26,7 @@ University of Southern California, School of Cinematic Arts, Division of Media A
 
 ---
 
-REBECCA: Editorial comments by Rebecca Frost Davis are included inline below following "REBECCA:" for each paragraph of feedback.  I begin with overall feedback, then add more inline comments mostly following the paragraph to which it applies.
+REBECCA: Editorial comments by Rebecca Frost Davis are included inline below following "REBECCA:" for each paragraph of feedback. I begin with overall feedback before the curatorial statement, then add more inline comments mostly following the paragraph to which the feedback applies.
 
 REBECCA: This keyword offers valuable insights into how to teach multimodal work, especially for a key segment of our target audience--those instructors who might want to include a multimodal assignment but do not feel confident in that pedagogy.  In particular it makes the argument for the necessity of critical engagement by students in multimodal work in an age of digitally networked technologies. It also provides valuable resources and a model curriculum for instructors who want their students to engage in such work. My comments below are intended to help strengthen that argument and consider how it might be framed for instructors who do not regularly incorporate multimodal work into their pedagogy.
 
