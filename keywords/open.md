@@ -95,7 +95,7 @@ A technology for enabling  open peer review makes its way into the curriculum wi
 
 The promise of Open Textbooks is that they deliver savings to students, flexibility to instructors, and the chance to reclaim control over a portion of the academic publishing universe, allowing for a world of creative re-mix and re-purposing. While the utopian vision of a completely open world of textbooks seems many revisions of copyright laws away, examples such as Mitchell’s provide hope that the current rigid and expensive system is not the only alternative. Finding open textbooks to  adapt is easy, although the odds are that for most, it will be simpler to stay the course with the current mode of teaching from closed, proprietary sources. Creating open textbooks is far more complicated, doesn’t always count for much with tenure committees, but may very well as part of a larger project, shift the dial in the direction of a more open universe of educational resources. 
 
-### The American South: Its Stories, Music, and Art** (Massively Open Online Course )
+### The American South: Its Stories, Music, and Art (Massively Open Online Course )
 ![screenshot](images/Open-american-south.png)
 
 * Source URL [https://www.coursera.org/learn/the-south](https://www.coursera.org/learn/the-south) 
@@ -137,7 +137,7 @@ Students in Brian Croxall’s "Introduction to Digital Humanities" read Virginia
 
 Faculty needing to assess student language proficiency have moved to online assessments as a means of saving time and for the convenience of the students. Moodle's online assessment tools worked okay, but the Middlebury College  languages schools wanted a way to improve them in order to make them adaptive, allowing the student to move more quickly through the assessment. Because Moodle is open source, we were able to create an enhancement to the assessment that was adaptive, allowing the students to move much more quickly through the process, and delivering a better placement for the departments. Open source software and proprietary software with an open architecture can with some planning and some technical resources allow for more bespoke tweaks, improvements, and enhancements that can overcome some of the profound limitations of many digital platforms.  In this case, the open source nature of Moodle perhaps improved the LMS’s reputation as closed wall gardens that discourage sharing and the promise of remix culture. While most faculty simply use software as it is, the point about open here is that the right software (open source or open architecture) can be adapted to allow for it to better meet needs. While still "free as a free kitten", it does provide a level of freedom. (Would love more examples of how github, omeka, zotero have been used/adapted)
 
-### Wasting Time on the Internet (**course description)
+### Wasting Time on the Internet (course description)
 ![screenshot](images/Open-wasting-time.png)
 
 * Source URL [https://www.english.upenn.edu/courses/undergraduate/2015/spring/engl111.301](https://www.english.upenn.edu/courses/undergraduate/2015/spring/engl111.301) 
