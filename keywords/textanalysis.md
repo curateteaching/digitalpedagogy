@@ -22,8 +22,8 @@ Department of English | University of Massachusetts Lowell | [Website](http://nm
 ---
 
 ##### Publication Status:
-* **unreviewed draft**
-* draft version undergoing editorial review
+* unreviewed draft
+* **draft version undergoing editorial review**
 * draft version undergoing peer-to-peer review
 * published 
 
@@ -31,9 +31,7 @@ Department of English | University of Massachusetts Lowell | [Website](http://nm
 
 ##CURATORIAL STATEMENT
 
-We are always already analyzing text, whether we read unconsciously or with intention. From the moment we perceive something as a text, we are decoding its signals. We analyze and understand aspects of a text's bibliographic and visual signification through paratextual, somatic, material, and institutional encounters with the text, long before we read a word. We analyze a text's linguistic codes of syntax and semantics through a variety of cultural, disciplinary, and subjective frameworks and filters. Texts arrive in the classroom in forms that bear the marks of many analyses, from the textbook editor's decision to include a particular poem in an anthology, to the glosses and explanatory apparatus it receives, as well as the instructor's decision to include it on a syllabus. Within and outside the classroom, texts are encountered in material forms and environments that encourage different kinds of analysis. [KDH: THIS OPENING PARAGRAPH NEEDS TO PULL INTO THE POINT MORE SUCCINCTLY; SOME OF THE SENTENCES REPEAT THE IDEAS; ALSO THE USE OF FIRST PERSON PLURAL SEEMS OVER-USED HERE; CAN YOU REVISE THIS VOICE? THE OPENING PARAGRAPH DOESN'T SEEM TO BE AS TIGHT IN ITS RHETORIC AS THE REST OF THE ENTRY]
-
-Text analysis is fundamental to humanities scholarship and teaching. [KDH: WHY IS IT FUNDAMENTAL? CAN YOU STATE THAT SUCCINCTLY HERE?] Regardless of the time period, language, or form of the text, or the questions that motivate our approach, we frequently: 
+Text analysis is fundamental to humanities scholarship and teaching because readers are always already analyzing text, whether unconsciously or with intention. Readers analyze and understand aspects of a text's bibliographic and visual signification through paratextual, somatic, material, and institutional encounters with the text, long before reading a word. Readers analyze a text's linguistic codes of syntax and semantics through a variety of cultural, disciplinary, and subjective frameworks and filters. Regardless of the time period, language, or form of the text, or the questions that motivate our approach, humanists frequently: 
 
 * select or collect texts in order to explore an hypothesis;
 * look for patterns (of words, ideas, symbols, rhetorical or formal structures, etc) within an individual text and/or within sets of texts; 
@@ -41,7 +39,7 @@ Text analysis is fundamental to humanities scholarship and teaching. [KDH: WHY I
 * interpret the significance of these patterns, relationships, and texts; 
 * develop arguments for the larger significance of these interpretations.
 
-In humanities research, these steps are often iterative and recursive and are rarely labeled as hypothesis, data collection, experimentation, analysis, and argument. Instead, we call all [KDH: HERE TOO ABOUT THE USE OF "WE"; WHILE FIRST PERSON ISN'T OUT OF THE QUESTION, WE'D LIKE TO SEE IT USED SPARINGLY AND IN REGARDS TO THE CLASSROOM EXPERIENCES, IF APPLICABLE] of these things _reading_. This conflation of very different activities under one word has heightened recent debates between data driven approaches to large scale analysis, what Franco Moretti has termed distant reading, and the traditional formalist and hermeneutic approach called literary close reading (Moretti, Trumpener, Goodwin and Holbo). [<--KDH: GREAT SYNOPSIS OF THESE COMPLICATED THEORIES AND FIELDS] If reading is often hailed as a specific kind of pleasurable, human activity, the term _text analysis_ may seem in contrast to emphasize statistical approaches to quantifiable aspects of language (Hoover; Jockers 25). The specific disciplinary and institutional histories of computer-assisted text analysis, humanities computing, and computational linguistics variously intersect and diverge from those of literary studies more generally (Rockwell, Jockers, Ramsay 2011, Bonelli). 
+In humanities research, these steps are often iterative and recursive and are rarely labeled as hypothesis, data collection, experimentation, analysis, and argument. Instead, all of these things are called _reading_. This conflation of very different activities under one word has heightened recent debates between data driven approaches to large scale analysis, what Franco Moretti has termed distant reading, and the traditional formalist and hermeneutic approach called literary close reading (Moretti, Trumpener, Goodwin and Holbo). If reading is often hailed as a specific kind of pleasurable, human activity, the term _text analysis_ may seem in contrast to emphasize statistical approaches to quantifiable aspects of language (Hoover; Jockers 25). The specific disciplinary and institutional histories of computer-assisted text analysis, humanities computing, and computational linguistics variously intersect and diverge from those of literary studies more generally (Rockwell, Jockers, Ramsay 2011, Bonelli). 
 
 But other scholars have argued that computational analysis merely makes explicit the codes and rules already embedded in the nature of textuality itself. Michael Witmore explains:
 
@@ -55,11 +53,9 @@ Such abstractions include words, characters, themes, or phrases within a particu
 * the widespread availability of computational power and storage offer new ways of curating, displaying, and using collections of texts for human or machine analysis;
 * tools for data visualization and multimodal composition offer new ways of exploring texts and building arguments.
 
-[KDH: AH HA! THIS LIST ABOVE SEEMS TO ANSWER THE QUESTION ABOUT THE VALUE OF TEXT ANALYSIS TO THE HUMANITIES]
+Not only might the objects of humanist study be seen as always addressable, but also its methods of analysis can be understood as already aligned with computation. Stephen Ramsay points out that "critical reading practices already contain elements of the algorithmic" because critical interpretation "relies on a heuristic of radical transformation. The critic . . . puts forth not the text, but a new text in which the data has been paraphrased, elaborated, selected, truncated, and transduced" (Ramsay 2011, 16). Digital technologies can be used to expand the scale of traditional methods (and thereby transform them) or to open entirely new modes and possibilities for text analysis. 
 
-Stephen Ramsay points out that "critical reading practices already contain elements of the algorithmic" because critical interpretation "relies on a heuristic of radical transformation. The critic . . . puts forth not the text, but a new text in which the data has been paraphrased, elaborated, selected, truncated, and transduced" (Ramsay 2011, 16). Because the current digital environment alters our encounters with texts, it encourages us to reflect on what it is we think we are doing when we collect, explore, interpret, and argue about them. [KDH: WHO IS THE "WE" HERE? SCHOLARS? STUDENTS? FACULTY?]
-
-The artifacts presented here represent a broad specrum of approaches to teaching text analysis, which I have organized into four categories: rethinking the digital, text analysis tools and methods, textual editing as text analysis, and communicating text analysis digitally. [KDH: GREAT TAXONOMY] I have focused on assignments aimed at the undergraduate classroom, but many of these could be adapted for other levels. [KDH: GOOD! MANY WILL WANT TO KNOW THAT THEY CAN ADAPT THESE ASSIGNMENTS FOR VARIETY OF AUDIENCES] More specialized resources and syllabi for text analysis in courses involving programming languages can be found under Further Resources. 
+The artifacts presented here represent a broad spectrum of approaches to teaching text analysis, which I have organized into four categories: rethinking the digital, text analysis tools and methods, textual editing as text analysis, and communicating text analysis digitally. I have focused on assignments aimed at the undergraduate classroom, but many of these could be adapted for other levels. More specialized resources and syllabi for text analysis in courses involving programming languages can be found under Further Resources. 
 
 ###Rethinking the Digital
 
@@ -160,18 +156,16 @@ Singer's article examines the utility of the TEI (Text Encoding Initiative) XML 
 
 This sequence of interrelated assignments guides students to work individually and in groups to create a critical edition of a text for use by future classes of their peers. Students define key terms to be annotated, research topics in digitized eighteenth- and nineteenth-century periodicals, and add research-based annotations to the text using [A.nnotate.com] (http://a.nnotate.com/). Exposing students to primary research with digitized materials deepens the context for their understanding of the text. Asking students to participate in the process of annotating a text in a collaborative digital environment reveals the research and editorial decisions that lie behind any classroom text. This clearly structured assignment could be adapted for a wide variety of literary or historical texts.  
 
-####Collation and Writing Pedagogy
-![screenshot](images/text-analysis-collation-and-writing-ped.png)
+####Juxta Commons Revision/Collation Assignment
+![screenshot](images/text-analysis-Juxta-assignment.png)
 
-* Artifact Type: blog post 
-* Source URL: http://bmw9t.github.io/blog/2015/01/17/collation/
+* Artifact Type: assignment
+* Source URL: NA
 * Artifact Permissions:
-* Copy of the Artifact
+* Copy of the Artifact [files/textanalysis-Walsh-Juxta-Commons-Assignment.pdf](files/textanalysis-Walsh-Juxta-Commons-Assignment.pdf)
 * Creator and Affiliation: Brandon Walsh (University of Virginia)
 
-Text analysis tools of all sorts can be useful for the process of composition as well. Here, Walsh argues that the scholarly method of collation, the comparing of multiple copies or witnessess of a text, can be adapted for use by student writers during the composition process. Walsh suggests having students use Juxta Commons, an online collation tool, to compare multiple drafts of a particular paragraph or piece of writing. By analyzing the graphical display indicating the multiple changes between versions, a writer can arrive at a better understanding of what kinds of specific changes alter the writing's focus or tone. Walsh also describes an exercise in which a group of students each write out a new version of a draft sentence during a writing workshop in a shared Google Document. This process makes visible the many different choices available to a writer, and Walsh suggests it "trains students to internalize the practice of collation and reflect on the interpretive possibilities offered by such differences." 
-
-[KDH: The Walsh blog post, does it contain the actual assignment? The other articles that you use describe the assignment or offer the actual assignment itself. This one seems to be reflective.]
+Text analysis tools of all sorts can be useful for the process of composition as well. In this assignment, and in a related MLA talk [published on his blog](http://bmw9t.github.io/blog/2015/01/17/collation/), Walsh repurposes the scholarly method of collation, the comparing of multiple copies or witnesses of a text, for the teaching of writing. Walsh's assignment teaches students to use Juxta Commons, an online collation tool, to compare multiple drafts of one paragraph from their own essay. By analyzing the graphical display indicating the multiple changes between versions, student writers can arrive at a better understanding of what kinds of specific changes alter the writing's focus or tone. On his blog, Walsh also describes an exercise in which a group of students each write out a new version of a draft sentence during a writing workshop in a shared Google Document. These exercises make visible the many different choices available to a writer, and Walsh suggests it "trains students to internalize the practice of collation and reflect on the interpretive possibilities offered by such differences."
 
 
 ###Communicating Text Analysis Digitally
