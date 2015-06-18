@@ -160,7 +160,8 @@ Combining a text-based game structure with video, music, spoken word, and dance,
     more important than anything else:
     connected, connecting.” 
 
-    JENTERY: Thanks again! If you've used it, would you be willing to speak to your own use of Scalar in the classroom? Or, more generally, to your use of it? I wonder if readers will know it's something they can use for teaching, gaming, and writing, or how it facilitates work such as cardenas's.
+
+  JENTERY: Thanks again! If you've used it, would you be willing to speak to your own use of Scalar in the classroom? Or, more   generally, to your use of it? I wonder if readers will know it's something they can use for teaching, gaming, and writing, or   how it facilitates work such as cardenas's.
 
 ## RELATED MATERIALS
 
