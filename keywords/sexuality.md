@@ -150,16 +150,15 @@ This 2012 article, published in the open access journal, *Transformative Works a
 
 Combining a text-based game structure with video, music, spoken word, and dance, micha cardenas’s game uses Scalar to map the movement of a trans woman of color through a science fiction future. Highlighting the inseparability of sexuality and gender from disability, colonialism, race, and the environment with elliptical, player-driven storytelling, cardenas’s game offers a pedagogy, unbounded by the requirements of courses and classrooms, for ethical inhabitation of a poisoned, violent, yet still pleasure-filled world in which sexuality names one of many inseparable modes of connection.
 
-    “We cannot just split endlessly into smaller and smaller atoms, 
-    more specific groupings,
-    tiny electron clouds,
-    because that would only lead to individualism,
-    we have to help each other,
-    to be able to survive the tearing winds of these worlds,
-    and travel across the stars together,
-    more important than anything else:
-    connected, connecting.” 
-
+“We cannot just split endlessly into smaller and smaller atoms, 
+more specific groupings,
+tiny electron clouds,
+because that would only lead to individualism,
+we have to help each other,
+to be able to survive the tearing winds of these worlds,
+and travel across the stars together,
+more important than anything else:
+connected, connecting.” 
 
     JENTERY: Thanks again! If you've used it, would you be willing to speak to your own use of Scalar in the classroom? Or, more   generally, to your use of it? I wonder if readers will know it's something they can use for teaching, gaming, and writing, or   how it facilitates work such as cardenas's.
 
