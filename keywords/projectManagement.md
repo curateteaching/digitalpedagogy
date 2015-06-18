@@ -15,8 +15,8 @@ type: book
 
 # PROJECT MANAGEMENT (Draft)
 
-## [Lynne Siemens](https://lynnesiemens.wordpress.com)
-University of Victoria
+### [Lynne Siemens](https://lynnesiemens.wordpress.com)
+University of Victoria, School of Public Administration 
 
 ---
 
