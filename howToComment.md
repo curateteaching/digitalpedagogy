@@ -1,7 +1,6 @@
 #How to Comment**
 
-This site is powered
-by[](http://futureofthebook.org/commentpress/)[CommentPress](http://futureofthebook.org/commentpress/),
+This site is powered by [CommentPress](http://futureofthebook.org/commentpress/),
 which allows comments to be attached to individual paragraphs, whole
 pages, or an entire document. To comment on a keyword, click on its
 title in the right-hand navigation. To comment on a paragraph, click on
