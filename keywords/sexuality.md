@@ -1,12 +1,12 @@
---- 
+---
 title: Digital Pedagogy in the Humanities
-subtitle: Concepts, Models, and Experiments 
+subtitle: Concepts, Models, and Experiments
 chapter: Sexuality
 URL: keywords/sexuality.md
-author: 
+author:
 - family: Lothian
   given: Alexis
-editor: 
+editor:
 - family: Sayers
   given: Jentery
 publisher: Modern Language Association
@@ -25,10 +25,10 @@ University of Maryland College Park, Women's Studies
 * **draft version undergoing editorial review**
 * draft version undergoing peer-to-peer review
 * published
- 
+
 ---
 
-## CURATORIAL STATEMENT 
+## CURATORIAL STATEMENT
 
 “Sexuality” is a slippery subject. On one hand, as part of the trifecta “race, gender, and sexuality,” or in “Gender and Sexuality Studies,” it stands for identities and communities defined by relationships and object choices that deviate from a heterosexual norm. On the other, it names the inchoate affects of desire itself: who and what we want or don't want, and why those wantings matter. As an academic subject, sexuality and its overdetermined referents make for frequent discomfort; the very idea of studying sexuality sounds risky to some. "Sexuality" does not appear in the title of the program in which I teach, (LGBT Studies, part of the Women's Studies department at the University of Maryland College Park), but my students still tell me that they field concerned questions from family and friends wondering why they would sign up for such a class. Working in one of the country's longest established LGBT Studies programmes (Lindemann), I feel these concerns less acutely than the faculty at University of South Carolina Upstate who had funding pulled by a conservative legislature after inviting a lesbian comedian to campus (Piepmeier), or the gay high school teacher whose classroom has been vandalized with homophobic abuse (Friend). Yet I still hear from students that career advisers have recommended they drop LGBTQ classes and activities from their resumes when applying for jobs.
 
@@ -44,7 +44,7 @@ The set of artifacts gathered below aims to speak to the processes that are most
 ![screenshot](images/sexualityIntroToLgbtStudies.jpg)
 
 * Source URL: http://lgbtqintro.queergeektheory.org/category/instructor-posts/
-* Creator: Alexis Lothian (University of Maryland College Park) 
+* Creator: Alexis Lothian (University of Maryland College Park)
 
 This is the website from my Fall 2014 200-level LGBT Studies class, whose digital pedagogy elements included an anonymous "ask" feature that gave students the opportunity to pose confidential questions at any time. The most successful digital element, though, turned out to be my use of Prezi in class. To highlight the class’s development of its own archive of shared knowledge, I would take notes directly into an online presentation I had created with images, topics of discussion, and so forth. The transcription of student comments makes them easier to unpack and contextualize, while separating their content from the person who has spoken them. It also enables any students who have difficulty processing oral discussions to participate more fully. While this practice is not only useful for the study of sexuality, it proved especially well suited to situations where students are analyzing personal experiences, and it is a technique that could be adapted to classrooms of many levels and sizes. The Prezi that combines discussions of [bisexuality and asexuality](https://prezi.com/4cztizkbjyjx/bisexuality-and-asexuality/) shows the way that student contributions have been gathered. A class-created archive such as this one could offer a tantalizing starting point for further research projects, as students might explore the origins and consequences of the examples their peers have shared.
 
@@ -68,7 +68,7 @@ This is one element of the collective work of the Selfie Researchers Network, a 
 ![screenshot](images/sexualityQueerLiterature.jpg)
 
 * Source URL: https://queerlitfilm.wordpress.com/teaching-projects-and-tools/
-* Creator: Petra Dierkes-Thrun (Stanford University) 
+* Creator: Petra Dierkes-Thrun (Stanford University)
 
 This is an assignment from a mixed graduate and undergraduate class, cross listed in Comparative Literature and in Feminist, Gender, and Sexuality studies at Stanford. Groups of students were asked to create a “mini crash course . . . designed as a compact three-week syllabus package complete with texts, handouts, assignments, and visual or video excerpts.” Many chose aspects of sexuality studies that are underrepresented in both scholarly writing and in available online resources for teaching. A student-designed advanced four-week syllabus in trans of color studies is one of the best resources I have found. For graduate classes in particular, it is the examples of student-originated pedagogical rationales (including a suggested curriculum for a Gay-Straight Alliance in a high school) that will be especially useful. It is also an exemplary work of public scholarship, making the digital pedagogy of sexuality both a subject and a method.
  

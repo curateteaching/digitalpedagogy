@@ -1,16 +1,16 @@
---- 
+---
 title: Digital Pedagogy in the Humanities
-subtitle: Concepts, Models, and Experiments 
+subtitle: Concepts, Models, and Experiments
 chapter: Praxis
 URL: keywords/praxis.md
-author: 
+author:
 - family: Nowviskie
   given: Bethany
 - family: Boggs
   given: Jeremy
 - family: Lindblad
   given: J. K. Purdom
-editor: 
+editor:
 - family: Sayers
   given: Jentery
 publisher: Modern Language Association
@@ -19,7 +19,7 @@ type: book
 
 # PRAXIS  (Draft)
 
-### Bethany Nowviskie, Jeremy Boggs, and J. K. Purdom Lindblad 
+### Bethany Nowviskie, Jeremy Boggs, and J. K. Purdom Lindblad
 University of Virginia | [Scholars' Lab](http://scholarslab.org/)
 
 ---
@@ -32,7 +32,7 @@ University of Virginia | [Scholars' Lab](http://scholarslab.org/)
 
 --- 
 
-## CURATORIAL STATEMENT 
+## CURATORIAL STATEMENT
 
 We understand praxis as thoughtful performance: a way of making and building less oriented toward the construction of end-products and more concerned with exposing the processes through which ideas become objects in space or actions in time. In the classroom, a praxis-oriented pedagogy helps students engage with theory through concrete action, and promotes understanding of the complex, playful, and materially-grounded ways in which theoretical or ideological concepts can be realized, exposed, critiqued, and iteratively generated. The pedagogical resources gathered here connect with praxis as an opportunity to:
 
@@ -45,7 +45,7 @@ Attention to praxis can encourage students to look beyond academic literature in
 
 #### Our Own Pedagogy
 
-We have compiled these resources from the perspective of three digital humanities practitioners engaged in the extra-curricular mentoring and methodological training of graduate students across disciplines at a digital scholarship center: the University of Virginia [Scholars' Lab](http://scholarslab.org/). Almost everything we offer at the Scholars' Lab—from the contributions made by our internal research projects to our workshops and partnerships with faculty, our support of undergraduate research, and our hosted graduate fellowship programs—features praxis as [a central concern](http://scholarslab.org/about/charter/). We take an uncommon position for a library-based service unit, in that we are more oriented toward building up people, as mentors and partners, than toward building websites or tools as an on-request service. In our teaching, we are therefore always careful to emphasize *how* and *why* to make or do things, and to promote design thinking and reflective practice. Praxis is core to the ethos of the Scholars' Lab and to nearly all of our interactions with collaborators. We take this tack because we feel that students, scholars, and cultural heritage or information professionals alike need to engage more deeply with making and building as a way of knowing, in preparation for active and hopeful futures for 21st-century humanities. 
+We have compiled these resources from the perspective of three digital humanities practitioners engaged in the extra-curricular mentoring and methodological training of graduate students across disciplines at a digital scholarship center: the University of Virginia [Scholars' Lab](http://scholarslab.org/). Almost everything we offer at the Scholars' Lab—from the contributions made by our internal research projects to our workshops and partnerships with faculty, our support of undergraduate research, and our hosted graduate fellowship programs—features praxis as [a central concern](http://scholarslab.org/about/charter/). We take an uncommon position for a library-based service unit, in that we are more oriented toward building up people, as mentors and partners, than toward building websites or tools as an on-request service. In our teaching, we are therefore always careful to emphasize *how* and *why* to make or do things, and to promote design thinking and reflective practice. Praxis is core to the ethos of the Scholars' Lab and to nearly all of our interactions with collaborators. We take this tack because we feel that students, scholars, and cultural heritage or information professionals alike need to engage more deeply with making and building as a way of knowing, in preparation for active and hopeful futures for 21st-century humanities.
 
 A pedagogy of praxis appreciates built objects and working systems, but attends equally to processes and manners of making, and ensures that both are instructive.
 
