@@ -94,7 +94,7 @@ fi
 
 if [ $KEYWORD = 1 ]
 then
-	KEYWORD_LIST_ID=`wp post list --post-type=page --url=digitalpedagogy.$SERVER | grep keywords | cut -d' ' -f1`
+	KEYWORD_LIST_ID=`wp post list --post_type=page --url=digitalpedagogy.$SERVER | grep keywords | cut -f1`
 
 	if [ ! -n "$KEYWORD_LIST_ID" ]
 	then
