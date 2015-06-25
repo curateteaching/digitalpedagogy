@@ -68,11 +68,23 @@ then
 	sed -i 's#(keywords/!template.md)#(https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/!template.md)#g' $1.edited
 fi
 
-#In listOfKeywords.md, expand the title and fix local links.
-if [ $SHORTNAME = 'listOfKeywords' ]
+
+#In howToComment, expand the title and fix local links.
+if [ $SHORTNAME = 'howToComment' ]
 then
 	#This document comes third.
 	ORDER=-2
+	#This document is not a keyword.
+	KEYWORD=0
+	# Expand the title.
+	TITLE='How to Comment'
+fi
+
+#In listOfKeywords.md, expand the title and fix local links.
+if [ $SHORTNAME = 'listOfKeywords' ]
+then
+	#This document comes fourth.
+	ORDER=-1
 	#This document is not a keyword.
 	KEYWORD=0
 	# Expand the title.
@@ -80,17 +92,6 @@ then
 	# Make local links into WP-friendly links
 	sed -i 's#(keywords/\(.*\)\.md)#(../\1)#g' $1.edited
 
-fi
-
-#In howToComment, expand the title and fix local links.
-if [ $SHORTNAME = 'howToComment' ]
-then
-	#This document comes fourth.
-	ORDER=-1
-	#This document is not a keyword.
-	KEYWORD=0
-	# Expand the title.
-	TITLE='How to Comment'
 fi
 
 if [ $KEYWORD = 1 ]
