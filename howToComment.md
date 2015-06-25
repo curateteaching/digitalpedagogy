@@ -12,4 +12,4 @@ CommentPress also presents three ways of reading comments on the text.  By click
 
 If you have questions about the text's format, please feel free to leave them here.
 
-(Adapted from “How to Read This Report” [*Sustaining Scholarly Publishing*; MediaCommons Press, n.d; Web; <<http://mcpress.media-commons.org/sustaining/how-to-read-this-report/>\>; 8 June 2016].)
+(Adapted from “How to Read This Report” [*Sustaining Scholarly Publishing*; MediaCommons Press, n.d; Web; \<<http://mcpress.media-commons.org/sustaining/how-to-read-this-report/>\>; 8 June 2016].)
