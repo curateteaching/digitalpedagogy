@@ -6,10 +6,10 @@ Each keyword entry that you see on the right column of this site is curated by a
 
 Eventually, fifty keywords will compose the project, which is currently undergoing public peer review. New keywords will be added in batches throughout 2015. We invite you to read through and respond to each of these entries, and we welcome feedback from a wide range of practitioners at all levels of experience. When commenting on keywords, please consider the following:
 
-1. Clarity of curator’s statement: Is the curator’s rationale clear? Do the artifacts below it fulfill the promises of the curatorial statement?
+1. Clarity of curator's statement: Is the curator's rationale clear? Do the artifacts below it fulfill the promises of the curatorial statement?
 2. Selection and presentation of artifacts: Does the keyword provide a broad range of sample artifacts? Are those artifacts annotated well? Are there any major gaps that should be addressed?
 3. Applicability: Does the keyword provide a wide range of starting points for a scholar interested in engaging in digital pedagogy work?
 
-While anyone may comment, we hope you’ll join the MLA and become part of the Commons community.
+While anyone may comment, we hope you'll join the MLA and become part of the Commons community.
 
 Thank you in advance for your feedback. Please visit our [link]how to comment[/link] page if you have further questions about the process.
