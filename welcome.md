@@ -1,18 +1,17 @@
 # Welcome
 
-Published in a publicly available format by the Modern Language Association, _Digital Pedagogy in the Humanities: Concepts, Models, and Experiments_ is a curated collection of reusable and remixable pedagogical artifacts for humanities scholars. Ranging across the intersections of digital technologies with teaching and learning, it consists of approximately fifty keywords that connect humanities pedagogy with new media, computation, and digital culture. Before publication, keyword entries went through open peer review. Each keyword is curated by an experienced practitioner of digital pedagogy who briefly contextualizes a pedagogical concept and then provides ten supporting artifacts, such as syllabi, prompts, exercises, lesson plans, and student work drawn from courses, classrooms, and projects across the humanities. These artifacts are annotated and accompanied by lists of related materials for further reading. The collection is published under a Creative Commons BY-NC license to encourage circulation, editing, and repurposing by other practitioners.
+Welcome to the open peer-review site for Digital Pedagogy in the Humanities: Concepts, Models, and Experiments, a curated collection of reusable and remixable pedagogical artifacts for humanities scholars published by the Modern Language Association.
 
-<div class="invite-box">
+Each keyword entry that you see on the right column of this site is curated by an experienced practitioner of digital pedagogy, who briefly contextualizes a pedagogical concept and then provides ten supporting artifacts, such as syllabi, prompts, exercises, lesson plans, and student work drawn from courses, classrooms, and projects across the humanities. These artifacts are annotated and accompanied by lists of related materials for further reading. The collection is published under a Creative Commons BY-NC license to encourage circulation, editing, and repurposing by other practitioners.
 
-The first set of keywords from the anthology is now available for open peer review. The editors invite you to participate in open review by commenting on the overall quality and persuasiveness of the curated keywords. You may wish to first read the [description](/description) of the anthology and the [list of key words](/keywords).
+Eventually, fifty keywords will compose the project, which is currently undergoing public peer review. New keywords will be added in batches throughout 2015. We invite you to read through and respond to each of these entries, and we welcome feedback from a wide range of practitioners at all levels of experience. When commenting on keywords, please consider the following:
 
-</div>
+1. Clarity of curator’s statement: Is the curator’s rationale clear? Do the artifacts below it fulfill the promises of the curatorial statement?
+2. Selection and presentation of artifacts: Does the keyword provide a broad range of sample artifacts? Are those artifacts annotated well? Are there any major gaps that should be addressed?
+3. Applicability: Does the keyword provide a wide range of starting points for a scholar interested in engaging in digital pedagogy work?
 
-## GENERAL EDITORS
+While anyone may comment, we hope you’ll join the MLA and become part of the Commons community.
 
- * [Rebecca Frost Davis](https://commons.mla.org/members/frostdavis/), Saint Edward's University ([rebeccad@stedwards.edu](mailto:rebeccad@stedwards.edu))
- * [Matthew K. Gold](https://commons.mla.org/members/mkgold/), City Tech and Graduate Center, City University of New York ([mgold@gc.cuny.edu](mailto:mgold@gc.cuny.edu))
- * [Katherine D. Harris](https://commons.mla.org/members/kdharris/), San José State University ([dr.katherine.harris@gmail.com](mailto:dr.katherine.harris@gmail.com))
- * [Jentery Sayers](https://commons.mla.org/members/jentery/), University of Victoria ([jentery@uvic.ca](mailto:jentery@uvic.ca))
 
-The source code for this work may be found on [the project's GitHub repository](https://github.com/curateteaching/digitalpedagogy). 
+Thank you in advance for your feedback. Please visit our [link]how to comment[/link] page if you have further questions about the process.
+
