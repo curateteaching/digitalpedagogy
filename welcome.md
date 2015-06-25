@@ -12,6 +12,4 @@ Eventually, fifty keywords will compose the project, which is currently undergoi
 
 While anyone may comment, we hope you’ll join the MLA and become part of the Commons community.
 
-
 Thank you in advance for your feedback. Please visit our [link]how to comment[/link] page if you have further questions about the process.
-
