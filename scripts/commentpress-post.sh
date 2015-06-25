@@ -13,7 +13,7 @@
 # the keywords child pages of this page.
 
 # Check to make sure $SERVER is set first.
-if [ ! -n $SERVER ]
+if [ ! -n "$SERVER" ]
 then
 	echo 'You must set the environment variable $SERVER for this script to work.'
 	echo 'E.g., commons.mla.org, or hardy.dev.'
