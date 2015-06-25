@@ -13,11 +13,11 @@ Please visit [https://digitalpedagogy.commons.mla.org](https://digitalpedagogy.c
 
 ## 17 December 2014
 
-Today we [publicly announced](announcement.md) the project. Looking forward to next steps! 
+Today we [publicly announced](announcement.md) the project. Looking forward to next steps!
 
-## 25 November 2014 
+## 25 November 2014
 
-With the Modern Language Association, we've agreed to build *Digital Pedagogy in the Humanities* via this open GitHub repository, meaning audiences can follow the project as it emerges over time. The project will also undergo an open review. Details soon.  
+With the Modern Language Association, we've agreed to build *Digital Pedagogy in the Humanities* via this open GitHub repository, meaning audiences can follow the project as it emerges over time. The project will also undergo an open review. Details soon.
 
 ## 11 November 2014
 

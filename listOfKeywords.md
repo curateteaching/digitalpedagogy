@@ -1,10 +1,10 @@
-# Draft List of Keywords for DIGITAL PEDAGOGY IN THE HUMANITIES: CONCEPTS, MODELS, AND EXPERIMENTS  
+# Draft List of Keywords for DIGITAL PEDAGOGY IN THE HUMANITIES: CONCEPTS, MODELS, AND EXPERIMENTS
 
 *A curated collection of downloadable, reusable, and remixable pedagogical resources.*
 
 Hashtag for news and updates: [#curateteaching](https://twitter.com/hashtag/curateteaching?f=realtime&src=hash)
 
-## GENERAL EDITORS 
+## GENERAL EDITORS
 
  * [Rebecca Frost Davis](https://commons.mla.org/members/frostdavis/), Saint Edward's University ([rebeccad@stedwards.edu](mailto:rebeccad@stedwards.edu))
  * [Matthew K. Gold](https://commons.mla.org/members/mkgold/), City Tech and Graduate Center, City University of New York ([mgold@gc.cuny.edu](mailto:mgold@gc.cuny.edu))
@@ -19,11 +19,11 @@ Hashtag for news and updates: [#curateteaching](https://twitter.com/hashtag/cura
 * Attention
 * Audio
 * Blogging
-* Classroom 
+* Classroom
 * Coding
 * Collaboration
 * Community-Based
-* Composition 
+* Composition
 * Curation
 * Design
 * Disability
@@ -37,7 +37,7 @@ Hashtag for news and updates: [#curateteaching](https://twitter.com/hashtag/cura
 * Information
 * [Interface](keywords/interface.md)
 * Makerspace
-* Multimodal 
+* Multimodal
 * Open
 * Peer Review
 * Play

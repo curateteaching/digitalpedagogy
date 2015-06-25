@@ -1,8 +1,8 @@
-#Presentations on Digital Pedagogy 
+#Presentations on Digital Pedagogy
 
 by General Editors, Davis, Gold, Harris, Sayers
 
-##Past Presentations 
+##Past Presentations
 * Gold, Matthew K. "Books Matter: Circulating Digital and Printed Texts." Ph.D. Program in English, Graduate Center, CUNY. March 27, 2015. http://cunydhi.commons.gc.cuny.edu/2015/03/26/books-matter-circulating-digital-and-printed-texts-32715/
 * Davis, Rebecca Frost, “Liberal Education Unbound: The Life of Signature Student Work in the Emerging Digital Learning Environment,” panelist with Randy Bass, Jennifer Ebbeler, and J. Elizabeth Clark. The Centennial Annual Meeting: Liberal Education, Global Flourishing, and the Equity Imperative. Association of American Colleges and Universities. January 22, 2015.
 * Harris, Katherine D., “[Successful Collaboration is Fueled by Failure in Digital Humanities](http://triproftri.wordpress.com/2014/11/11/adhc-talk-collaboration-failure-must-haves-in-digital-humanities-projects/),” Alabama Digital Humanities Center Speaker Series, University of Alabama, Tuscaloosa, November 2014.
@@ -14,7 +14,7 @@ by General Editors, Davis, Gold, Harris, Sayers
 *Davis, Rebecca Frost, “The Future of Undergraduate Digital Humanities.” 2013 Digital Humanities Conference, July 17, 2013, Lincoln, NE (with Cheryl Ball, Ryan Cordell, Jarom McDonald, Miriam Posner, John Theibault and organized by Brian Croxall and Kate Singer). http://rebeccafrostdavis.wordpress.com/2013/08/19/surveying-digital-humanities-at-small-liberal-arts-colleges/
 * Davis, Rebecca Frost, “Digital Pedagogy Keywords,” NITLE Online Seminar, April 10, 2013. http://rebeccafrostdavis.wordpress.com/2013/04/10/digital-pedagogy-keywords-nitle-seminar/
 * Davis, Rebecca Frost, “Mapping Technology Use for Teaching and Learning at Liberal Arts Colleges,” Plenary Address, “Hybrid Thinking About The Role of Technology For Liberal Education.” Great Lakes Colleges Association, Faculty Workshop, April 6, 2013. http://rebeccafrostdavis.wordpress.com/2013/04/06/mapping-technology-use-for-teaching-and-learning/
-* Davis, Rebecca Frost, “Digital Pedagogy Keywords,” Plenary Address. Austin College Digital Humanities Colloquium, Sherman, Texas, USA. February 20, 2013. http://rebeccafrostdavis.wordpress.com/2013/02/20/digital-pedagogy-keywords/ 
+* Davis, Rebecca Frost, “Digital Pedagogy Keywords,” Plenary Address. Austin College Digital Humanities Colloquium, Sherman, Texas, USA. February 20, 2013. http://rebeccafrostdavis.wordpress.com/2013/02/20/digital-pedagogy-keywords/
 * Harris, Katherine D., “[It’s Not About the Tools: Weaving Digital Humanities into Literature Courses](http://triproftri.wordpress.com/2013/02/20/its-not-about-the-tools-austin-college/),” Digital Humanities Colloquium, Austin College, February 19-21, 2013.
 * Harris, Katherine D., “[Original to Digital Surrogates: Using Rare Books in Student-Driven Digital Projects](http://triproftri.wordpress.com/2012/07/12/original-to-digital/)” (video) co-presented with Danelle Moon (Director, Special Collections, King Library, SJSU), Rare Book & Manuscript Pre-Conference Panel, “Future of Discussion and Outreach.” June 21, 2012.
 * Sayers, Jentery, Katherine D. Harris & Diane Jakacki co-taught course on Digital Pedagogy, Digital Humanities Summer Institute, University of Victoria. June 4-8, 2012. Resulting website with workshops & resources: http://web.uvic.ca/~englblog/pedagogydhsi/about/

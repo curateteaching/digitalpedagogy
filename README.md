@@ -4,7 +4,7 @@ A repository of scholarly materials for *Digital Pedagogy in the Humanities: Con
 
 ## General Editors
 
-* Rebecca Frost Davis, St. Edward's University 
+* Rebecca Frost Davis, St. Edward's University
 * Matthew K. Gold, City Tech & Graduate Center, City University of New York
 * Katherine D. Harris, San José State University
 * Jentery Sayers, University of Victoria
