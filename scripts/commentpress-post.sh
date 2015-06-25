@@ -20,8 +20,6 @@ then
 	exit 1
 fi
 
-KEYWORD_LIST_ID=143
-
 # Set $YEAR and $MONTH to the year and month the file's images were posted.
 YEAR=2015
 MONTH=03
@@ -96,6 +94,16 @@ fi
 
 if [ $KEYWORD = 1 ]
 then
+	KEYWORD_LIST_ID=`wp post list --post-type=page --url=digitalpedagogy.$SERVER | grep keywords | cut -d' ' -f1`
+
+	if [ ! -n "$KEYWORD_LIST_ID" ]
+	then
+		echo "Couldn't get the post ID of the Keywords page. Did you remember to post the Keywords page first?"
+		exit 1
+	fi
+
+	echo "File $SHORTNAME is a keyword. Making this a child post of the Keyword page, which has the ID $KEYWORD_LIST_ID"
+
 	#Make keywords child pages of the page called List of Keywords
 	KEYWORD_PARAM="--post_parent=$KEYWORD_LIST_ID"
 
@@ -104,7 +112,6 @@ then
 
 	#Remove leading YAML block, props to http://stackoverflow.com/a/28222257/584121
 	sed -i '1 { /^---/ { :a N; /\n---/! ba; d} }' $1.edited
-
 
 	#Change image locations to ones that WP will understand.
 	sed -i "s#(images#(../../files/$YEAR/$MONTH#g" $1.edited
