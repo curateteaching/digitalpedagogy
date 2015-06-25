@@ -1,4 +1,4 @@
-#How to Comment**
+#How to Comment
 
 This site is powered by [CommentPress](http://futureofthebook.org/commentpress/), which allows comments to be attached to individual paragraphs, whole pages, or an entire document. To comment on a keyword, click on its title in the right-hand navigation. To comment on a paragraph, click on the paragraph or on the speech bubble to its right; to comment on an entire page, click the link to Comments on the Whole Page, in the right-hand column. To leave general comments on the entire project, click the single comment bubble icon in the navigation bar.
 
