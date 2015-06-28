@@ -1,3 +1,18 @@
+---
+title: Digital Pedagogy in the Humanities
+subtitle: Concepts, Models, and Experiments
+chapter: Sound
+URL: keywords/sound.md
+author: 
+- family: Ceraso
+  given: Steph
+editor: 
+- family: Sayers
+  given: Jentery
+publisher: Modern Language Association
+type: book
+---
+
 # SOUND (Draft)
  
 ### Steph Ceraso
