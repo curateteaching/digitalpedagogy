@@ -24,6 +24,8 @@ fi
 YEAR=2015
 MONTH=03
 
+BLUE_BOX='blueBox.md'
+
 # Get the basename
 BASENAME=$(basename "$1")
 
@@ -104,6 +106,12 @@ then
 
 	echo "File $SHORTNAME is a keyword. Making this a child post of the Keyword page, which has the ID $KEYWORD_LIST_ID"
 
+	if [ ! -f "$BLUE_BOX" ]
+	then
+		echo "Couldn't find the blue box text, which is usually blueBox.md. Is that file in this directory?"
+		exit 1
+	fi
+
 	#Make keywords child pages of the page called List of Keywords
 	KEYWORD_PARAM="--post_parent=$KEYWORD_LIST_ID"
 
@@ -118,6 +126,13 @@ then
 
 	#Change /files locations to ones that WP will understand.
 	sed -i "s#(files#(../../files/$YEAR/$MONTH#g" $1.edited
+
+	#Replace --- blocks with blue box text
+	cat $1.edited | ruby -e 'print STDIN.read.sub(/^---.*?---/m, File.read(ARGV[0]))' $BLUE_BOX > $1.replaced
+
+	#Resuse the same filename for simplicity
+	cat $1.replaced > $1.edited
+
 else
 	KEYWORD_PARAM=""
 fi
@@ -127,6 +142,8 @@ pandoc -o $SHORTNAME.html $1.edited
 
 echo "Title: $TITLE"
 echo "Author: $AUTHOR"
+
+exit 1
 
 #Post!
 wp post create $SHORTNAME.html --post_type=page --post_status=publish $KEYWORD_PARAM --menu_order="$ORDER" --post_title="$TITLE" --url=digitalpedagogy.$SERVER > output.txt
@@ -140,4 +157,4 @@ then
 fi
 
 #Clean up.
-rm $SHORTNAME.html $1.edited output.txt
+rm $SHORTNAME.html $1.edited $1.replaced output.txt
