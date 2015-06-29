@@ -143,8 +143,6 @@ pandoc -o $SHORTNAME.html $1.edited
 echo "Title: $TITLE"
 echo "Author: $AUTHOR"
 
-exit 1
-
 #Post!
 wp post create $SHORTNAME.html --post_type=page --post_status=publish $KEYWORD_PARAM --menu_order="$ORDER" --post_title="$TITLE" --url=digitalpedagogy.$SERVER > output.txt
 
