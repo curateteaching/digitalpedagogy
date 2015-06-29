@@ -133,6 +133,9 @@ then
 	#Resuse the same filename for simplicity
 	cat $1.replaced > $1.edited
 
+	#Clean up
+	rm $1.replaced
+
 else
 	KEYWORD_PARAM=""
 fi
