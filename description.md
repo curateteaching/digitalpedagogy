@@ -33,7 +33,7 @@ The open-access collection *Learning through Digital Media* (ed. R. Trebor Sch
 
 As the only consistent source for scholarly discussion about digital pedagogy, the journal *Kairos* has begun to archive pertinent sessions from both the Conference on College Composition and Communication (CCCC) and the Computers and Writing Conference. Finally, *Digital Humanities Pedagogy: Practices, Principles and Politics* (ed. Brett D. Hirsch [Open Humanities, 2012]) is a compelling collection but also privileges reflective essays over the everyday artifacts and resources of teaching and learning.
 
-Though all these projects point to growing interest in digital pedagogy, none of them provides a central, high-profile venue for work in the field across and outside disciplines. Major scholarly societies, such as the Modern Language Association, the American History Association, and the CCCC, have already embraced the need for critical approaches to digital pedagogy. *Digital Pedagogy in the Humanities* will offer a new way of preserving syllabi, assignments, projects, results, assessment strategies, and experiments that complement and extend the growing body of resources in this area.
+Though all these projects point to growing interest in digital pedagogy, none of them provides a central, high-profile venue for work in the field across and outside disciplines. Major scholarly societies, such as the MLA, the American History Association, and the CCCC, have already embraced the need for critical approaches to digital pedagogy. *Digital Pedagogy in the Humanities* will offer a new way of preserving syllabi, assignments, projects, results, assessment strategies, and experiments that complement and extend the growing body of resources in this area.
 
 ## STRUCTURE
 
