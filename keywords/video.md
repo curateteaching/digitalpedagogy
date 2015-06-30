@@ -28,7 +28,7 @@ University of North Carolina at Chapel Hill
 * **draft version undergoing peer-to-peer review** https://digitalpedagogy.commons.mla.org/
 * published 
 
---- 
+---
 
 ## CURATORIAL STATEMENT
 
@@ -123,7 +123,7 @@ With this site Adrian Miles presents his curriculum for “post-industrial video
 * Copy of Artifact: forthcoming
 * Creator: Justin Lincoln (Whitman College)
 
-This resource and the pedagogy it represents fall squarely on the post-cinematic side of our digital video collection. Assignments range from glitching images to processing-based animations to remix video responses. The materials provide an invitation to experiment with the dynamics of signal and noise, using videos to explore the role of machinic processing and social media in composing. By using sites like Tumblr as collection engines for video materials and by teaching students non-traditional methods of composing, Lincoln’s pedagogy enacts a video paradigm built around the shifting relationships between humans and technology. While instructors might cull assignments or examples from the Tumblr, the site (and Lincoln’s [Notational Tumblr](http://notational.tumblr.com) might best be used as illustrative examples/enactments of how video pedagogy and the New Aesthetic can come together. In describing the New Aesthetic, Bruce Sterling asserts that “[w]e’re surrounded by systems, devices and machineries generating heaps of raw graphic novelty. We built them, we programmed them, we set them loose for a variety of motives, but they do some unexpected and provocative things” (n.p.). With this in mind, the pedagogical outcome(s) for a blending of video pedagogy and the New Aesthetic is an increased awareness of how these systems, devices, and machineries, along with ourselves, might participant in a larger field of relations.
+This resource and the pedagogy it represents fall squarely on the post-cinematic side of our digital video collection. Assignments range from glitching images to processing-based animations to remix video responses. The materials provide an invitation to experiment with the dynamics of signal and noise, using videos to explore the role of machinic processing and social media in composing. By using sites like Tumblr as collection engines for video materials and by teaching students non-traditional methods of composing, Lincoln’s pedagogy enacts a video paradigm built around the shifting relationships between humans and technology. While instructors might cull assignments or examples from the Tumblr, the site (and Lincoln’s [Notational Tumblr](http://notational.tumblr.com) might best be used as illustrative examples/enactments of how video pedagogy and the New Aesthetic can come together. In describing the New Aesthetic, Bruce Sterling asserts that “[w]e’re surrounded by systems, devices and machineries generating heaps of raw graphic novelty. We built them, we programmed them, we set them loose for a variety of motives, but they do some unexpected and provocative things” (n.p.). With this in mind, the pedagogical outcome(s) for a blending of video pedagogy and the New Aesthetic is an increased awareness of how these systems, devices, and machineries, along with ourselves, might participate in a larger field of relations.
 
 ### "Introduction to Humanities Physical Computing w/Arduino and Processing"
 ![screenshotRIEDER.jpg](http://siteslab.org/keywordvideo/screenshotRIEDER.jpg)
