@@ -1,6 +1,6 @@
 # Welcome
 
-Welcome to the open peer-review site for _Digital Pedagogy in the Humanities: Concepts, Models, and Experiments_, a curated collection of reusable and remixable pedagogical artifacts for humanities scholars published by the Modern Language Association.
+Welcome to the open peer-review site for _Digital Pedagogy in the Humanities: Concepts, Models, and Experiments_, a curated collection of reusable and remixable pedagogical artifacts for humanities scholars in development by the Modern Language Association.
 
 Each keyword entry that you see on the right column of this site is curated by an experienced practitioner of digital pedagogy, who briefly contextualizes a pedagogical concept and then provides ten supporting artifacts, such as syllabi, prompts, exercises, lesson plans, and student work drawn from courses, classrooms, and projects across the humanities. These artifacts are annotated and accompanied by lists of related materials for further reading. The collection is published under a Creative Commons BY-NC license to encourage circulation, editing, and repurposing by other practitioners.
 
