@@ -158,4 +158,4 @@ then
 fi
 
 #Clean up.
-rm $SHORTNAME.html $1.edited $1.replaced output.txt
+rm $SHORTNAME.html $1.edited output.txt
