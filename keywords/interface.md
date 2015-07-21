@@ -16,7 +16,7 @@ type: book
 # INTERFACE (Draft)
 
 ### [Kathi Inman Berens](http://kathiiberens.com)
-University of Southern California | Annenberg School of Communication
+[Portland State University English Department] (http://publishing.pdx.edu/faculty/)
 
 ---
 
