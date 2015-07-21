@@ -16,7 +16,7 @@ type: book
 # INTERFACE (Draft)
 
 ### [Kathi Inman Berens](http://kathiiberens.com)
-[Portland State University English Department] (http://publishing.pdx.edu/faculty/)
+Portland State University | [English Department - Book Publishing] (http://publishing.pdx.edu/faculty/)
 
 ---
 
