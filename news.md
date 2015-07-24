@@ -2,7 +2,7 @@
 
 ## 24 July 2015
 
-Open Peer Review for First Batch of Keywords Ends August 3
+### Open Peer Review for First Batch of Keywords Ends August 3
 
 *Digital Pedagogy in the Humanities: Concepts, Models, and Experiments*, edited by Rebecca Frost Davis, Matthew K. Gold, Katherine D. Harris, and Jentery Sayers, is a dynamic open-access collection currently in development on MLA Commons. The editors invite your participation in the open peer review of this collection. 
 
