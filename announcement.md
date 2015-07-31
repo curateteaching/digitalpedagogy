@@ -11,21 +11,21 @@ As we move forward, we will update this GitHub repository with keyword drafts, i
 
 For now, please follow *Digital Pedagogy in the Humanities* on Twitter through the hashtag [#curateteaching](https://twitter.com/hashtag/curateteaching?f=realtime&src=hash) and visit our [news page](https://github.com/curateteaching/digitalpedagogy/blob/master/news.md) for updates.
 
-## General Editors 
-* Rebecca Frost Davis, St. Edward's University (rebeccafrostdavis@gmail.com) 
+## General Editors
+* Rebecca Frost Davis, St. Edward's University (rebeccafrostdavis@gmail.com)
 * Matthew K. Gold, City Tech & Graduate Center, City University of New York (mgold@gc.cuny.edu)
 * Katherine D. Harris, San José State University (dr.katherine.harris@gmail.com)
 * Jentery Sayers, University of Victoria (jentery@uvic.ca)
 
 ## Advisory Board
-* Cheryl Ball, West Virginia University 
-* Bryan Carter, University of Arizona 
-* Tanya Clement, University of Texas, Austin 
-* Brian Croxall, Emory University 
-* Douglas Eyman, George Mason University 
-* Paul Fyfe, North Carolina State University 
-* Gail E. Hawisher, University of Illinois at Urbana-Champaign (Professor Emeritus) 
-* Jason B. Jones, Trinity College 
-* Virginia Kuhn, University of Southern California 
-* Cynthia Selfe, Ohio State University 
+* Cheryl Ball, West Virginia University
+* Bryan Carter, University of Arizona
+* Tanya Clement, University of Texas, Austin
+* Brian Croxall, Emory University
+* Douglas Eyman, George Mason University
+* Paul Fyfe, North Carolina State University
+* Gail E. Hawisher, University of Illinois at Urbana-Champaign (Professor Emeritus)
+* Jason B. Jones, Trinity College
+* Virginia Kuhn, University of Southern California
+* Cynthia Selfe, Ohio State University
 * Lisa Spiro, Rice University

@@ -1,16 +1,16 @@
---- 
+---
 title: Digital Pedagogy in the Humanities
-subtitle: Concepts, Models, and Experiments 
+subtitle: Concepts, Models, and Experiments
 chapter: Praxis
 URL: keywords/praxis.md
-author: 
+author:
 - family: Nowviskie
   given: Bethany
 - family: Boggs
   given: Jeremy
 - family: Lindblad
   given: J. K. Purdom
-editor: 
+editor:
 - family: Sayers
   given: Jentery
 publisher: Modern Language Association
@@ -19,7 +19,7 @@ type: book
 
 # PRAXIS  (Draft)
 
-### Bethany Nowviskie, Jeremy Boggs, and J. K. Purdom Lindblad 
+### Bethany Nowviskie, Jeremy Boggs, and J. K. Purdom Lindblad
 University of Virginia | [Scholars' Lab](http://scholarslab.org/)
 
 ---
@@ -32,7 +32,7 @@ University of Virginia | [Scholars' Lab](http://scholarslab.org/)
 
 --- 
 
-## CURATORIAL STATEMENT 
+## CURATORIAL STATEMENT
 
 We understand praxis as thoughtful performance: a way of making and building less oriented toward the construction of end-products and more concerned with exposing the processes through which ideas become objects in space or actions in time. In the classroom, a praxis-oriented pedagogy helps students engage with theory through concrete action, and promotes understanding of the complex, playful, and materially-grounded ways in which theoretical or ideological concepts can be realized, exposed, critiqued, and iteratively generated. The pedagogical resources gathered here connect with praxis as an opportunity to:
 
@@ -45,7 +45,7 @@ Attention to praxis can encourage students to look beyond academic literature in
 
 #### Our Own Pedagogy
 
-We have compiled these resources from the perspective of three digital humanities practitioners engaged in the extra-curricular mentoring and methodological training of graduate students across disciplines at a digital scholarship center: the University of Virginia [Scholars' Lab](http://scholarslab.org/). Almost everything we offer at the Scholars' Lab—from the contributions made by our internal research projects to our workshops and partnerships with faculty, our support of undergraduate research, and our hosted graduate fellowship programs—features praxis as [a central concern](http://scholarslab.org/about/charter/). We take an uncommon position for a library-based service unit, in that we are more oriented toward building up people, as mentors and partners, than toward building websites or tools as an on-request service. In our teaching, we are therefore always careful to emphasize *how* and *why* to make or do things, and to promote design thinking and reflective practice. Praxis is core to the ethos of the Scholars' Lab and to nearly all of our interactions with collaborators. We take this tack because we feel that students, scholars, and cultural heritage or information professionals alike need to engage more deeply with making and building as a way of knowing, in preparation for active and hopeful futures for 21st-century humanities. 
+We have compiled these resources from the perspective of three digital humanities practitioners engaged in the extra-curricular mentoring and methodological training of graduate students across disciplines at a digital scholarship center: the University of Virginia [Scholars' Lab](http://scholarslab.org/). Almost everything we offer at the Scholars' Lab—from the contributions made by our internal research projects to our workshops and partnerships with faculty, our support of undergraduate research, and our hosted graduate fellowship programs—features praxis as [a central concern](http://scholarslab.org/about/charter/). We take an uncommon position for a library-based service unit, in that we are more oriented toward building up people, as mentors and partners, than toward building websites or tools as an on-request service. In our teaching, we are therefore always careful to emphasize *how* and *why* to make or do things, and to promote design thinking and reflective practice. Praxis is core to the ethos of the Scholars' Lab and to nearly all of our interactions with collaborators. We take this tack because we feel that students, scholars, and cultural heritage or information professionals alike need to engage more deeply with making and building as a way of knowing, in preparation for active and hopeful futures for 21st-century humanities.
 
 A pedagogy of praxis appreciates built objects and working systems, but attends equally to processes and manners of making, and ensures that both are instructive.
 
@@ -64,7 +64,7 @@ Finally, we felt it important to select resources that demonstrate the interconn
 ### “Bibliocircuitry and the Design of the Alien Everyday”
 ![screenshot](images/bibliocircuitry.jpg)
 
-* Source URL: [http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051](http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051)
+* Source URL: <http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051>
 * Copy of Artifact: [files/bibliocircuitry.pdf](files/bibliocircuitry.pdf)
 * Creators: Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, [Kari Kraus](http://www.karikraus.com/), Cameron Mozafari, and Kathryn Skutlin (University of Maryland)
 
@@ -73,7 +73,7 @@ Finally, we felt it important to select resources that demonstrate the interconn
 ### "Doing Feminist Theory Through Digital Video"
 ![screen shot](images/feminist-theory.jpg)
 
-* Source URL: [http://adanewmedia.org/2014/07/issue5-hurst/](http://adanewmedia.org/2014/07/issue5-hurst/)
+* Source URL: <http://adanewmedia.org/2014/07/issue5-hurst/>
 * Copy of Artifact: forthcoming
 * Creator: [Rachel Alpha Johnston Hurst](http://www.rachelhurst.ca/Dr._Rachel_Alpha_Johnston_Hurst/Welcome%21.html) (St. Francis Xavier University)
 
@@ -82,7 +82,7 @@ Finally, we felt it important to select resources that demonstrate the interconn
 ### “Extraordinary Materials”
 ![screen shot](images/extraordinary-materials.jpg)
 
-* Source URL: [http://dada.cca.edu/\~drosner/materials/syllabus.html](http://dada.cca.edu/\~drosner/materials/syllabus.html)
+* Source URL: <http://dada.cca.edu/~drosner/materials/syllabus.html>
 * Copy of Artifact: forthcoming
 * Creator: [Daniela K. Rosner](http://danielarosner.com) (University of Washington)
 
@@ -91,7 +91,7 @@ Finally, we felt it important to select resources that demonstrate the interconn
 ### “How Did They Make That?”
 ![screenshot](images/how-did-they-make-that.png)
 
-* Source URL: [http://miriamposner.com/blog/how-did-they-make-that/](http://miriamposner.com/blog/how-did-they-make-that/)
+* Source URL: <http://miriamposner.com/blog/how-did-they-make-that/>
 * Copy of Artifact: forthcoming
 * Creator: [Miriam Posner](http://miriamposner.com/) (University of California, Los Angeles)
 
@@ -100,7 +100,7 @@ Miriam Posner offers a modest gallery of various digital projects, virtually dis
 ### "The Kits for Cultural History at HASTAC 2014"
 ![screenshot](images/kits-for-cultural-history.png)
 
-* Source URL: [http://maker.uvic.ca/lima/](http://maker.uvic.ca/lima/)
+* Source URL: <http://maker.uvic.ca/lima/>
 * Copy of Artifact: forthcoming
 * Creator: [Nina Belojevic](http://maker.uvic.ca/author/nbelojevic/) (University of Victoria)
 
@@ -109,7 +109,7 @@ Nina Belojevic provides an introduction and rationale for the *Kits for Cultural
 ### “Lying about the Past”
 ![screenshot](images/lying-about-the-past.png)
 
-* Source URL: [http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf](http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf)
+* Source URL: <http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf>
 * Copy of Artifact: [files/lying-about-the-past.pdf](files/lying-about-the-past.pdf)
 * Creator: [T. Mills Kelly](http://edwired.org/) (George Mason University)
 
@@ -118,7 +118,7 @@ Mills Kelly has taught several iterations of an undergraduate history course ent
 ### The Scholars' Lab Praxis Program and Praxis Network
 ![screenshot](images/praxisnetwork.jpg)
 
-* Source URL: [http://praxis-network.org/](http://praxis-network.org/)
+* Source URL: <http://praxis-network.org/>
 * Copy of Artifact: forthcoming
 * Creator: [Scholars' Lab](http://scholarslab.org/) (University of Virigina)
 
@@ -127,7 +127,7 @@ The [Praxis Program](http://praxis.scholarslab.org) is an extracurricular attemp
 ### “Victorian Literature + Victorian Informatics”
 ![screenshot](images/victorian-literature.jpg)
 
-* Source URL: [http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/](http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/)
+* Source URL: <http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/>
 * Copy of Artifact: forthcoming
 * Creator: [Rachel Sagner Buurma](http://rachelsagnerbuurma.org/) (Swarthmore College)
 
@@ -136,7 +136,7 @@ Victorian Literature and Victorian Informatics is a richly detailed English syll
 ### “The Wikiblitz: A Wikipedia Editing Assignment in a First Year Undergraduate Class”
 ![screen shot](images/wikiblitz.jpg)
 
-* Source URL: [http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/]( http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/)
+* Source URL: <http://writinghistory.trincoll.edu/crowdsourcing/graham-2012-spring/>
 * Copy of Artifact: forthcoming
 * Creator: [Shawn Graham](http://www.graeworks.net/) (Carleton University)
 
@@ -145,7 +145,7 @@ Graham describes an in-class assignment designed to "explore how knowledge is cr
 ### “Writing on Clay”
 ![screen shot](images/writing-on-clay.jpg)
 
-* Source URL: [http://books.google.com/books?id=VWzgtZMJCwgC&pg=PA74](http://books.google.com/books?id=VWzgtZMJCwgC&pg=PA74)
+* Source URL: <http://books.google.com/books?id=VWzgtZMJCwgC&pg=PA74>
 * Copy of Artifact: forthcoming
 * Creator: [Dennis E.  Baron](http://www.english.illinois.edu/-people-/faculty/debaron/) (University of Illinois)
 

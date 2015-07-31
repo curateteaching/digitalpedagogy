@@ -1,12 +1,12 @@
---- 
+---
 title: Digital Pedagogy in the Humanities
-subtitle: Concepts, Models, and Experiments 
+subtitle: Concepts, Models, and Experiments
 chapter: Hybrid
 URL: keywords/hybrid.md
-author: 
+author:
 - family: Stommel
   given: Jesse
-editor: 
+editor:
 - family: Davis
   given: Rebecca Frost
 publisher: Modern Language Association
@@ -33,7 +33,7 @@ Assistant Professor, University of Wisconsin-Madison
 
 There is an important way in which our roles as teachers and learners are bound up in who we are as humans (including our life experience, cultural background, race, gender, and sexuality). In *Hybridity*, Marwan M. Kraidy writes, “hybridity has proven a useful concept to describe multipurpose electronic gadgets, designer agricultural seeds, environment-friendly cars with dual combustion and electrical engines, companies that blend American and Japanese management practices, multiracial people, dual citizens, and postcolonial cultures” (1). For Kraidy, and for me, the term is powerful exactly because it resists easy signification.
 
-In a broad sense, my own scholarly work is about the (sometimes wondrous, sometimes horrifying) relationship between bodies and technology. I’ve taught in various disciplines since 1999, including literature, rhetoric and composition, education, film, and new media. Thinking about how we occupy physical and increasingly digital spaces has been the thread that connects my work across these disciplines. In 2011, I founded [*Hybrid Pedagogy*](http://www.hybridpedagogy.com): a digital journal of learning, teaching, and technology. My hypothesis is that all learning is necessarily hybrid. In classroom-based pedagogy, it is important to engage the digital selves of students. And, in online learning environments, it is equally important to engage students' physical selves. With digital pedagogy and online education, our challenge is not to merely replace (or offer substitutes for) face-to-face instruction, but to find new and innovative ways to engage students in the practice of learning. 
+In a broad sense, my own scholarly work is about the (sometimes wondrous, sometimes horrifying) relationship between bodies and technology. I’ve taught in various disciplines since 1999, including literature, rhetoric and composition, education, film, and new media. Thinking about how we occupy physical and increasingly digital spaces has been the thread that connects my work across these disciplines. In 2011, I founded [*Hybrid Pedagogy*](http://www.hybridpedagogy.com): a digital journal of learning, teaching, and technology. My hypothesis is that all learning is necessarily hybrid. In classroom-based pedagogy, it is important to engage the digital selves of students. And, in online learning environments, it is equally important to engage students' physical selves. With digital pedagogy and online education, our challenge is not to merely replace (or offer substitutes for) face-to-face instruction, but to find new and innovative ways to engage students in the practice of learning.
 
 At a philosophical level, my own thinking about hybridity is influenced, in part, by the heated discussion of hybridity among postcolonial theorists. In “The Commitment to Theory,” from *The Location of Culture*, Homi Bhabha describes “the space of hybridity” as “the construction of a political object that is new, neither the one nor the other.” In [“A Cyborg Manifesto,”](http://www.egs.edu/faculty/donna-haraway/articles/donna-haraway-a-cyborg-manifesto/) Donna Haraway makes an explicit connection between postcolonial theory and what she describes as the colonizing work of machines: “By the late twentieth century, our time, a mythic time, we are all chimeras, theorized and fabricated hybrids of machine and organism, in short, we are cyborgs.”
 
@@ -50,7 +50,7 @@ The keyword "hybrid" suggests a methodology for teachers to employ in constructi
 ### "A Million Blue Pages"
 ![screenshot](images/hybrid-million-blue-pages-screenshot.jpg)
 
-* Source URL: http://amillionbluepages.net/ 
+* Source URL: <http://amillionbluepages.net/>
 * Copy of Artifact: forthcoming
 * Creator: Zach Whalen (University of Mary Washington)
 
@@ -59,7 +59,7 @@ The keyword "hybrid" suggests a methodology for teachers to employ in constructi
 ### "A 12-week Assignment to Write a Wikipedia Article"
 ![screenshot](images/hybrid-wiki-site.jpg)
 
-* Source URL: http://outreach.wikimedia.org/wiki/Education/Syllabi
+* Source URL: <http://outreach.wikimedia.org/wiki/Education/Syllabi>
 * Copy of Artifact: forthcoming
 * Creator: Wikimedia Foundation
 
@@ -68,7 +68,7 @@ This assignment offers a guide to having students contribute to Wikipedia. Orien
 ### "Twitter vs. Zombies"
 ![screenshot](images/hybrid-tvsz-site.jpg)
 
-* Source URL: http://twittervszombies.com/
+* Source URL: <http://twittervszombies.com/>
 * Copy of Artifact: forthcoming
 * Creators: Pete Rorabaugh (Southern Polytechnic State University) and Jesse Stommel (University of Wisconsin-Madison)
 
@@ -77,7 +77,7 @@ This assignment offers a guide to having students contribute to Wikipedia. Orien
 ### "Occupy Class"
 ![screenshot](images/hybrid-occupy-site.jpg)
 
-* Source URL: http://occupyclass.org/
+* Source URL: <http://occupyclass.org/>
 * Copy of Artifact: forthcoming
 * Creator: Pete Rorabaugh (Southern Polytechnic State University)
 
@@ -86,7 +86,7 @@ This assignment offers a guide to having students contribute to Wikipedia. Orien
 ### "Note Tweeting"
 ![screenshot](images/hybrid-note-tweeting-site.jpg)
 
-* Source URL: http://chuckrybak.com/tweeting-class-discussions-and-notes
+* Source URL: <http://chuckrybak.com/tweeting-class-discussions-and-notes>
 * Copy of Artifact: forthcoming
 * Creator: Chuck Rybak (University of Wisconsin-Green Bay)
 
@@ -95,7 +95,7 @@ Chuck Rybak offers an excellent example of how students can use a tool like Twit
 ### "A Public Literary Twitter Role-Play"
 ![screenshot](images/hybrid-literary-roleplay-site.jpg)
 
-* Source URL: http://shelleysfrankenstein.wordpress.com/frankenstein-a-public-literary-twitter-role-play-on-twitter/
+* Source URL: <http://shelleysfrankenstein.wordpress.com/frankenstein-a-public-literary-twitter-role-play-on-twitter/>
 * Copy of Artifact: forthcoming
 * Creator: Petra Dierkes-Thrun (Stanford University)
 
@@ -104,7 +104,7 @@ Petra Dierkes-Thrun has run several iterations of the Public Literary Twitter Ro
 ### "Social Media Design and Build"
 ![screenshot](images/hybrid-social-media-design-screenshot.jpg)
 
-* Source URL: http://kathiiberens.com/teaching/sample-syllabi/design-build/
+* Source URL: <http://kathiiberens.com/teaching/sample-syllabi/design-build/>
 * Copy of Artifact: forthcoming
 * Creator: Kathi Inman Berens (USC Annenberg)
 
@@ -113,29 +113,29 @@ In her hybrid USC Annenberg course, Kathi Inman Berens works with students face-
 ### "Spine Poetry"
 ![screenshot](images/hybrid-spine-poetry-screenshot.jpg)
 
-* Source URL: http://spinepoetry.com/
+* Source URL: <http://spinepoetry.com/>
 * Copy of Artifact: forthcoming
 * Creator: Kathi Inman Berens (USC Annenberg), Lans Pacifico, Carrie Padian, Ken Schultz, Jesse Stommel (University of Wisconsin-Madison), Jessica Zisa
 
 A hybrid learning environment deconstructs hierarchies, giving students a fuller sense of their own agency. In winter 2013, I co-taught with Kathi Inman Berens a small seminar with four non-traditional undergraduate students. Together, the students worked with the Library of Congress in Washington D.C. to build a social media campaign promoting the LOC's first exhibit of electronic literature. The students also coordinated a physical event at the Lake Oswego Library outside Portland, OR. Their goal was to bring the Library of Congress to Portland and the Web—and to bring Portland and the Web to the Library of Congress, using digital technology to connect physical work happening at two remote locations. From the [artist statement](http://spinepoetry.com/about): “Spine poems bridge the physical world of books with stories that are born digitally.” The project was the course, designed and developed by the students from the start with the teachers participating as co-learners.
 
-### "Modern and Contemporary American Poetry" 
+### "Modern and Contemporary American Poetry"
 ![screenshot](images/hybrid-modpo-screenshot.jpg)
 
-* Source URL: https://www.coursera.org/course/modernpoetry
+* Source URL: <https://www.coursera.org/course/modernpoetry>
 * Copy of Artifact: forthcoming
 * Creator: Al Filreis (University of Pennsylvania)
 
-A truly "Hybrid" Massive Open Online Course that Al Filreis began offering in 2012. The course experiments with the MOOC format and hacks the Coursera platform to create opportunities for students to have a central role in both their own learning but also in the teaching of the course. Instead of focusing on video lectures at the head of each unit, Filreis hosts live discussions at the Kelly Writers House that feature himself, University of Pennsylvania students, as well as students from around the world that call in (and sometimes make visits to PA). The physical place of the Kelly Writers house becomes the fulcrum around which the online course pivots. The success of the course has less to do with inherent potentials of the MOOC platform and more to do with the way Filreis uses the platform to realize the mission and pedagogies of the Kelly Writers House. 
+A truly "Hybrid" Massive Open Online Course that Al Filreis began offering in 2012. The course experiments with the MOOC format and hacks the Coursera platform to create opportunities for students to have a central role in both their own learning but also in the teaching of the course. Instead of focusing on video lectures at the head of each unit, Filreis hosts live discussions at the Kelly Writers House that feature himself, University of Pennsylvania students, as well as students from around the world that call in (and sometimes make visits to PA). The physical place of the Kelly Writers house becomes the fulcrum around which the online course pivots. The success of the course has less to do with inherent potentials of the MOOC platform and more to do with the way Filreis uses the platform to realize the mission and pedagogies of the Kelly Writers House.
 
 ### "Guidelines for Public, Student Class Blogs: Ethics, Legalities, FERPA and More"
 ![screenshot](images/hybrid-FERPA-guidelines.jpg)
 
-* Source URL: http://www.hastac.org/blogs/cathy-davidson/2012/11/30/guidelines-public-student-class-blogs-ethics-legalities-ferpa-and-mo
+* Source URL: <http://www.hastac.org/blogs/cathy-davidson/2012/11/30/guidelines-public-student-class-blogs-ethics-legalities-ferpa-and-mo>
 * Copy of Artifact: forthcoming
 * Creator: Kevin Smith (Duke University)
 
-I’ve said elsewhere that [Ferpa is not an excuse for bad pedagogy](https://twitter.com/Jessifer/status/441755367924436992). In this set of guidelines, Kevin Smith, Duke University’s Director of Copyright and Scholarly Communication, offers information (not a legal opinion, as noted) on the ethics and legalities of having students doing public work. Specifically, he tackles various methods for addressing FERPA concerns when having students working on public blogs. In short, inform students of the requirement from the start, offer the option of anonymity, remind them not to post private information, and offer alternatives if a student has major concerns about doing public work even under an alias. FERPA is in place to protect students, not to put artificial limits on their learning. As with any pedagogical decision, I suggest our first concern be on protecting student agency—learners not teachers should make the critical choices about what, when, how, and where they learn. 
+I’ve said elsewhere that [Ferpa is not an excuse for bad pedagogy](https://twitter.com/Jessifer/status/441755367924436992). In this set of guidelines, Kevin Smith, Duke University’s Director of Copyright and Scholarly Communication, offers information (not a legal opinion, as noted) on the ethics and legalities of having students doing public work. Specifically, he tackles various methods for addressing FERPA concerns when having students working on public blogs. In short, inform students of the requirement from the start, offer the option of anonymity, remind them not to post private information, and offer alternatives if a student has major concerns about doing public work even under an alias. FERPA is in place to protect students, not to put artificial limits on their learning. As with any pedagogical decision, I suggest our first concern be on protecting student agency—learners not teachers should make the critical choices about what, when, how, and where they learn.
 
 ## RELATED MATERIALS
 
@@ -151,48 +151,48 @@ Rheingold, Howard. [*Net Smart*](rheingold.com/books/net-smart/) rheingold.com/b
 
 ## WORKS CITED
 
-Bali, Maha. *REFLECTING ALLOWED: Maha Bali's blog about education.* http://blog.mahabali.me/blog/
+Bali, Maha. *REFLECTING ALLOWED: Maha Bali's blog about education.* <http://blog.mahabali.me/blog/>
 
 Bhabha, Homi. "The Commitment to Theory." *The Location of Culture*. Routledge: London, 2004.
 
-Cormier, Dave. "Rhizomatic Education: Community as Curriculum." http://davecormier.com/edblog/2008/06/03/rhizomatic-education-community-as-curriculum/
+Cormier, Dave. "Rhizomatic Education: Community as Curriculum." <http://davecormier.com/edblog/2008/06/03/rhizomatic-education-community-as-curriculum/>
 
-Dierkes-Thrun, Petra. "A Public Literary Twitter Role-play." http://shelleysfrankenstein.wordpress.com/frankenstein-a-public-literary-twitter-role-play-on-twitter/
+Dierkes-Thrun, Petra. "A Public Literary Twitter Role-play." <http://shelleysfrankenstein.wordpress.com/frankenstein-a-public-literary-twitter-role-play-on-twitter/>
 
-Friend, Chris. "On Vocabulary: 'Blended Learning' vs. 'Hybrid Pedagogy.'" http://chrisfriend.us/Blog/files/blended-vs-hybrid.php
+Friend, Chris. "On Vocabulary: 'Blended Learning' vs. 'Hybrid Pedagogy.'" <http://chrisfriend.us/Blog/files/blended-vs-hybrid.php>
 
-Haraway, Donna. "A Cyborg Manifesto." http://www.egs.edu/faculty/donna-haraway/articles/donna-haraway-a-cyborg-manifesto/
+Haraway, Donna. "A Cyborg Manifesto." <http://www.egs.edu/faculty/donna-haraway/articles/donna-haraway-a-cyborg-manifesto/>
 
-Inman Berens, Kathi. "The New Learning is Ancient." http://kathiiberens.com/teaching/philosophy/
+Inman Berens, Kathi. "The New Learning is Ancient." <http://kathiiberens.com/teaching/philosophy/>
 
-Inman Berens, Kathi. "Social Media Design and Build." http://kathiiberens.com/teaching/sample-syllabi/design-build/
+Inman Berens, Kathi. "Social Media Design and Build." <http://kathiiberens.com/teaching/sample-syllabi/design-build/>
 
-Inman Berens, Kathi, Lans Pacifico, Carrie Padian, Ken Schultz, Jesse Stommel, and Jessica Zisa. "Spine Poetry." http://www.spinepoetry.com
+Inman Berens, Kathi, Lans Pacifico, Carrie Padian, Ken Schultz, Jesse Stommel, and Jessica Zisa. "Spine Poetry." <http://www.spinepoetry.com>
 
-Koh, Adeline. "Seminar in Feminist Theory" http://www.adelinekoh.org/blog/2014/08/20/syllabus-draft-gis-3614-seminar-in-feminist-theory-fall-2014/
+Koh, Adeline. "Seminar in Feminist Theory" <http://www.adelinekoh.org/blog/2014/08/20/syllabus-draft-gis-3614-seminar-in-feminist-theory-fall-2014/>
 
 Kraidy, Marwan M. *Hybridity*.
 
-Morris, Sean Michael and Jesse Stommel. "The Discussion Forum is Dead; Long Live the Discussion Forum." http://www.hybridpedagogy.com/journal/the-discussion-forum-is-dead-long-live-the-discussion-forum/
+Morris, Sean Michael and Jesse Stommel. "The Discussion Forum is Dead; Long Live the Discussion Forum." <http://www.hybridpedagogy.com/journal/the-discussion-forum-is-dead-long-live-the-discussion-forum/>
 
-Rheingold, Howard. *Net Smart*. 
+Rheingold, Howard. *Net Smart*.
 
-Rio, Rick and Mark Sample. "Twitter Adoption Matrix." http://chronicle.com/blogs/profhacker/a-framework-for-teaching-with-twitter/26223
+Rio, Rick and Mark Sample. "Twitter Adoption Matrix." <http://chronicle.com/blogs/profhacker/a-framework-for-teaching-with-twitter/26223>
 
-Rorabaugh, Pete. "Occupy Class." http://occupyclass.org.
+Rorabaugh, Pete. "Occupy Class." <http://occupyclass.org.>
 
-Rorabaugh, Pete and Jesse Stommel. "Twitter vs. Zombies." http://www.twittervszombies.com 
+Rorabaugh, Pete and Jesse Stommel. "Twitter vs. Zombies." <http://www.twittervszombies.com >
 
-Rybak, Chuck. "Note Tweeting." http://chuckrybak.com/tweeting-class-discussions-and-notes
+Rybak, Chuck. "Note Tweeting." <http://chuckrybak.com/tweeting-class-discussions-and-notes>
 
-Smith, Kevin. "Guidelines for Public, Student Class Blogs: Ethics, Legalities, FERPA and More." *HASTAC*. http://www.hastac.org/blogs/cathy-davidson/2012/11/30/guidelines-public-student-class-blogs-ethics-legalities-ferpa-and-mo
+Smith, Kevin. "Guidelines for Public, Student Class Blogs: Ethics, Legalities, FERPA and More." *HASTAC*. <http://www.hastac.org/blogs/cathy-davidson/2012/11/30/guidelines-public-student-class-blogs-ethics-legalities-ferpa-and-mo>
 
-University of Central Florida. "Blended Learning Toolkit." http://blended.online.ucf.edu
+University of Central Florida. "Blended Learning Toolkit." <http://blended.online.ucf.edu>
 
-Whalen, Zach. "A Million Blue Pages." http://amillionbluepages.net
+Whalen, Zach. "A Million Blue Pages." <http://amillionbluepages.net>
 
-Wikimedia Foundation. "A 12-week assignment to write a Wikipedia article." http://outreach.wikimedia.org/wiki/Education/Syllabi
+Wikimedia Foundation. "A 12-week assignment to write a Wikipedia article." <http://outreach.wikimedia.org/wiki/Education/Syllabi>
 
-*Some language in the Curatorial Statement is drawn directly from:* 
+*Some language in the Curatorial Statement is drawn directly from:*
 
-Stommel, Jesse. "Hybridity, pt. 2: What is Hybrid Pedagogy?" *Hybrid Pedagogy*. http://www.hybridpedagogy.com/Journal/hybridity-pt-2-what-is-hybrid-pedagogy/
+Stommel, Jesse. "Hybridity, pt. 2: What is Hybrid Pedagogy?" *Hybrid Pedagogy*. <http://www.hybridpedagogy.com/Journal/hybridity-pt-2-what-is-hybrid-pedagogy/>
