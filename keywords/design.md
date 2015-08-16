@@ -109,7 +109,7 @@ In this three-part assignment, Jeff Kuure asks his students to develop a set of 
 Bill Wolff asks his students to engage with Edward Tufte’s and Ellen Lupton’s theories of design, typography, and evidence presentation through creating infographics with Piktochart (a free online infographic creator). Along with producing an infographic, students also write a reflection in which they describe their objective, their rhetorical strategies, and the ways in which they engaged with Tufte and Lupton’s theories of information design. While we’ve categorized this assignment into producing designs, it includes a nice balance of both producing and reflecting, thus enacting critical self reflection, our third pedagogical commitment to design pedagogy as defined above.
 
 ### Informational Campaign
-![screenshot](images/design-produce-arola.png)
+![screenshot](images/design-production-arola.png)
 
 * Source URL: http://arola.kuurola.com/355/fall14/project4.html
 * Creator: Kristin Arola
@@ -137,7 +137,7 @@ As the authors of this textbook and this entry, we understand ourselves not so m
 IX is an online resource that provides thirteen concepts for exploring designed texts. Each tutorial defines the concept, provides examples, and then asks students to engage with that concept through small assignments. The concepts include the rhetorical situation (audience, purpose, context) along with rhetorical design strategies (alignment, color, contrast, emphasis, framing, organization, proximity, and sequence). Such language helps provide students a vocabulary for talking what works, and what doesn't work, in both the texts they encounter and the texts they design.
 
 ### Thinking With Type
-![screenshot](images/design-terminology-lupton.png)
+![screenshot](images/design-production-lupton.png)
 
 * Source URL: http://www.thinkingwithtype.com/
 * Creators: Ellen Lupton and Christopher Clark
