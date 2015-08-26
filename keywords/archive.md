@@ -3,7 +3,7 @@ title: Digital Pedagogy in the Humanities
 subtitle: Concepts, Models, and Experiments 
 chapter: Archive
 URL: keywords/archive.md
-author: 
+authors: 
 - family: Coats 
   given: Lauren 
 - family: Dean
