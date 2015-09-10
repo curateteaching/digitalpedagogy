@@ -16,7 +16,7 @@ type: book
 # QUEER (Draft)
 
 ### [Edmond Y. Chang](http://www.edmondchang.com/)
-Drew University | Department of English
+University of Oregon | Department of Women's and Gender Studies
 
 ---
 
