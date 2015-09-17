@@ -170,7 +170,7 @@ A suggested assignment could be for students to do a comparative close reading o
     
 ### Soweto76
 * Artifact Type: 3D digital archive
-![screenshot](images/race-soweto76.png)
+![screenshot](images/race-soweto76archive.jpg)
 * Source URL: http://www.soweto76archive.org/ 
 * Copy of Artifact: forthcoming
 * Creator: Angel David Nieves (Hamilton College) 
