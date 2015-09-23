@@ -113,7 +113,7 @@ humanities” and “digital pedagogy.”
 ![screenshot](images/race-adphd.png)
 * Source URL: http://africandiasporaphd.com/ 
 * Copy of Artifact: forthcoming
-* Creator: Jessica Marie Johnson (Michigan State University) and Kidada Williams (Wayne State University)
+* Creator: Jessica Marie Johnson (Michigan State University)
 
 African Diaspora, Ph.D. is a curated blog that highlights scholarship and scholars in the field of Atlantic African diaspora history. This valuable resource is useful for students to gain an overview of current issues in Atlantic African diaspora history, and its relevance to contemporary race issues. It also provides a useful index of scholars working on this topic, many of whom are people of color. Students could be tasked with creating a literature review on this topic through researching this directory. This artifact represents scholarly activist technology in that it encourages students to be pulled into a larger network of Afrodiasporic knowledge production, and to discover that faculty of color are plentiful throughout the academy.  Sample assignments: 1) students could be tasked with creating a literature review on topics within Atlantic African diaspora history through researching this directory. 2) Students can be assigned to research the profile of Afrodisasporic scholars who work on contemporary race issues and reach out to them for interviews. 
 
@@ -142,7 +142,7 @@ This archival project seeks to overturn the actual effectiveness of the "White A
 * Copy of Artifact: forthcoming
 * Creator: Deray McKesson, Netta, Samuel Sinyangwe, all of WeTheProtestors.org
 
-This site offers easy to read and to use visualizations of crowdsourced data on people who have been shot and/or killed by police. The collaborators draw their data from databases such as [FatalEncounters.org](http://www.fatalencounters.org/), the U.S. Police Shootings Database and [KilledByPolice.net](http://killedbypolice.net/), along with original research from the team. The visuals clearly show that the number of black and Hispanic people killed by the police since May 2013 is inordinately high as compared with other races and ethnicities. This artifact engages students with communities, represents activist technology, and encourages students to participate in a larger network of knowledge construction. *Mapping Police Violence’s*  easy to use tables and data could provide an interesting classroom project investigating police shootings in a certain region, as well as course projects involving race and state violence.  It can be easily used in conjunction with the analysis of the police [Stop and Frisk public database analysis assignment](https://docs.google.com/document/d/1hAes7gK2s5w_pmyg6cnv1R0Jm350ZxA9Ddt97JTKoss/edit#heading=h.tnglmrae3sjl) developed by  Faith Adichie, Anne Cong-Huyen, Elizabeth Constable, John Locke, Andrew Lucchesi and Heidi Knoblauch in [Digital Pedagogy Lab 2015](http://digitalpedagogylab.com), which trains students on how to do close readings of datasets and to visualize this data using different tools. Integrating the Mapping Police Violence project along with the Stop and Frisk public database analysis assignment exemplifies how the classroom as a community constructs and deconstructs the social, material and political relationships within the classroom and outside of it.  
+This site offers easy to read and to use visualizations of crowdsourced data on people who have been shot and/or killed by police. The collaborators draw their data from databases such as [FatalEncounters.org](http://www.fatalencounters.org/), the U.S. Police Shootings Database and [KilledByPolice.net](http://killedbypolice.net/), along with original research from the team. The visuals clearly show that the number of black and Hispanic people killed by the police since May 2013 is inordinately high as compared with other races and ethnicities. This artifact engages students with communities, represents activist technology, and encourages students to participate in a larger network of knowledge construction. *Mapping Police Violence’s*  easy to use tables and data could provide an interesting classroom project investigating police shootings in a certain region, as well as course projects involving race and state violence.  It can be easily used in conjunction with the analysis of the police [Stop and Frisk public database analysis assignment](https://docs.google.com/document/d/1hAes7gK2s5w_pmyg6cnv1R0Jm350ZxA9Ddt97JTKoss/edit#heading=h.tnglmrae3sjl) developed by  Faith Adichie, Anne Cong-Huyen, Elizabeth Constable, John Locke, Andrew Lucchesi, Heidi Knoblauch, and Andrea Rehn in [Digital Pedagogy Lab 2015](http://digitalpedagogylab.com), which trains students on how to do close readings of datasets and to visualize this data using different tools. Integrating the Mapping Police Violence project along with the Stop and Frisk public database analysis assignment exemplifies how the classroom as a community constructs and deconstructs the social, material and political relationships within the classroom and outside of it.  
 
 ### Mukurtu 
 * Artifact Type: Content Management System for indigenous communities to preserve and share cultural heritage digitally
@@ -236,7 +236,7 @@ Instructors who are teaching more racially and ethnically diverse classes can al
 
 ## WORKS CITED
 
-Adichie, Faith, Anne Cong-Huyen, Elizabeth Constable, John Locke, Andrew Lucchesi and Heidi Knoblauch. [Stop and Frisk Public Database Analysis Social Justice Assignment](https://docs.google.com/document/d/1hAes7gK2s5w_pmyg6cnv1R0Jm350ZxA9Ddt97JTKoss/edit#heading=h.tnglmrae3sjl).  [Digital Pedagogy Lab](http://www.digitalpedagogylab.com/identity). Web. 1 Sep. 2015
+Adichie, Faith, Anne Cong-Huyen, Elizabeth Constable, John Locke, Andrew Lucchesi, Heidi Knoblauch, and Andrea Rehn. [Stop and Frisk Public Database Analysis Social Justice Assignment](https://docs.google.com/document/d/1hAes7gK2s5w_pmyg6cnv1R0Jm350ZxA9Ddt97JTKoss/edit#heading=h.tnglmrae3sjl).  [Digital Pedagogy Lab](http://www.digitalpedagogylab.com/identity). Web. 1 Sep. 2015
 
 *AfroCROWD* Web. [<https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/AfroCrowd>](https://en.wikipedia.org/wiki/Wikipedia:Meetup/NYC/AfroCrowd) 3 Apr. 2015. 
 
@@ -261,7 +261,7 @@ Harding, Sandra, ed. *The Postcolonial Science and Technology Reader* Durham: Du
 
 hooks, bell. *Teaching to Transgress: Education as the Practice of Freedom.* New York: Routledge, 1994.
 
-Johnson, Jessica M. and Kidada Williams. *African Diaspora PhD* Web. [<http://africandiasporaphd.com/>](http://africandiasporaphd.com/) 3 Apr. 2015.
+Johnson, Jessica M. *African Diaspora PhD* Web. [<http://africandiasporaphd.com/>](http://africandiasporaphd.com/) 3 Apr. 2015.
 
 Kim, Dorothy. “The Rules of Twitter.” Hybrid Pedagogy. http://www.hybridpedagogy.com/journal/rules-twitter/ 4. Dec 2014. Web.
 
