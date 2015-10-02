@@ -23,9 +23,9 @@ type: book
 ---
 
 ##### Publication Status:
-* **unreviewed draft
+* unreviewed draft
 * **draft version undergoing editorial review**
-* draft version undergoing peer-to-peer review** https://digitalpedagogy.commons.mla.org/
+* draft version undergoing peer-to-peer review https://digitalpedagogy.commons.mla.org/
 * published 
 
 --- 	
@@ -96,13 +96,13 @@ What kinds of experiences can archival materials generate?  Students get to play
 
 
 ### *A Guide for Using Primary Source or Original Source Documents: Origins, Purpose, Values, Limitations (OPVL)*
-![screenshot](archive-guide using primary sources.jpg)
+![screenshot](images/archive-guide using primary sources.jpg)
  
-*Artifact type: teaching guidelines
-*Source URL: http://www.minnesotahumanities.org/Resources/A%20Guide%20for%20Using%20Primary%20Source%20Documents.pdf
-*Copy of Artifact:
-*Creator: Minnesota Humanities Center
-*Permissions: no copyright or license information given; fair use
+* Artifact type: teaching guidelines
+* Source URL: http://www.minnesotahumanities.org/Resources/A%20Guide%20for%20Using%20Primary%20Source%20Documents.pdf
+* Copy of Artifact:
+* Creator: Minnesota Humanities Center
+* Permissions: no copyright or license information given; fair use
 
 A basic object analysis exercise can turn a student's initial wonder about an object — "what is it?" — into a foundation for further research by providing a scaffolding for observation and the pursuit of evidence. The resource models how much students can learn about an object through careful examination of its paratexts and bibliographic information.  Although the "original source document" is presumed to be paper-based, the OPVL exercise is easily adapted to digital materials, just as the analog exercise can be extended by digital means, such as a class blog or online annotation tool. In our own classes, we have supplemented the exercise with specific questions about a textual object’s materiality: packaging, design, evidence of use. Teachers can find similar pedagogical resources within some digital collections, such as the [National Archives Docs Teach](http://docsteach.org/) that offers a suite of educational activities.
  
@@ -122,11 +122,11 @@ A student-curated digital exhibit is a foundational and flexible archival exerci
 ### "Media, Materiality, and Archives" Syllabus
 ![screenshot](images/archive-media materiality archives.jpg)
 
-*Artifact type: syllabus
-*Source URL: http://blogs.iac.gatech.edu/archives14/syllabus/ 
-*Copy of Artifact:
-*Creator: Lauren Klein (Georgia Tech)
-*Permissions: Used with permission of Lauren Klein. 
+* Artifact type: syllabus
+* Source URL: http://blogs.iac.gatech.edu/archives14/syllabus/ 
+* Copy of Artifact:
+* Creator: Lauren Klein (Georgia Tech)
+* Permissions: Used with permission of Lauren Klein. 
 
 This course integrates literary study of contemporary texts with archival theory and practice. The course texts include a pulp thriller, a work of "serious" literary fiction, a graphic novel, and an ephemeral electronic book; embodying a variety of forms, they address and enact the "concept of 'the archive.'" As students interrogate the relationship between archival formations and textual materiality, they gain fluency in a set of questions which they then transfer to digital projects: a class blog and a digital archive of sci-fi fanzines made from a library collection. Students thus engage with the challenges of mediation and curation both as consumers of literature and as producers of literary history.
 
@@ -156,7 +156,7 @@ In this class, students read early twentieth-century and contemporary Caribbean 
 
 
 ### "Your House or School in 100 Years"
-![screenshot](archive-your house or school.jpg)
+![screenshot](images/archive-your house or school.jpg)
 
 * Artifact type: student activity
 * Source URL: https://docs.google.com/document/d/13Ay2Dzx1AnnOMlfbr12qMblO24eJdvETIrLw1hKu6Vk/edit
