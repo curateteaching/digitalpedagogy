@@ -34,7 +34,7 @@ As a whole, these digital tools, methods, and pedagogical approaches are essenti
 ## Digital Tools
 
 ### "Distant Reading Duffy"
-![screenshot](images/ .jpg)
+![screenshot](images/poetry-Distant-Reading-Duffy.jpg)
 
 * Source URL: http://www.briancroxall.net/s15dh/assignments/distant-reading-duffy/
 *  Type: Assignment
@@ -42,7 +42,7 @@ As a whole, these digital tools, methods, and pedagogical approaches are essenti
 *  This assignment, from Brian Croxall's "Introduction to Digital Humanities" course, immediately positions poetry as data for the purposes of distant reading (as opposed to close reading). Students collectively transcribe two volumes of Carol Ann Duffy's poetry--which they have already read and discussed--and then input that data into Voyant Tools, developed by Geoffrey Rockwell and Stéfan Sinclair. In the assignment description, Croxall writes, "it's important to recognize that we might not learn anything new....We're operating here under the principle of experimentation that has guided our class." Furthermore, the goal is to have fun experimenting with the different tools Voyant offers, such as Bubblelines and Scatterplots, with the hope that interesting discoveries emerge during the process. One group of students who completed this exploratory assignment analyzed word frequencies between the two volumes, while another group used Voyant's "Links" tool to search for trends emerging around the mention of body parts.    
 
 ### "Songs of the Victorians"
-![screenshot](images/ .jpg)
+![screenshot](images/poetry-Songs-of-the-Victorians.jpg)
 
 * Source URL: http://www.songsofthevictorians.com/
 * Type: Online Archive/Resource
@@ -50,7 +50,7 @@ As a whole, these digital tools, methods, and pedagogical approaches are essenti
 * This interdisciplinary resource was conceived and created by Joanna Swafford. While definitely a specialized resource, the content and chronological overlap with often-taught British literature survey courses is ripe with potential. Interdisciplinarity and close reading are this resource's heartbeat, as it exposes students to poetry as songs--meaning, literally set to music--providing the audio of the music and vocals, as well as sheet music and written verse. Thanks to Swafford's expert programming, the interface allows you to listen to the song while a visual aid moves along in time, showing the current location on the visible sheet music. In addition, each of the four songs represented includes essay-length analysis that interprets the song's rendering of the poem. However, what "Songs of the Victorians" models most clearly is a way of thinking about poetry, especially in how it applies digital tools to the solution of a specific problem. 
 
 ### "for better for verse"
-![screenshot](images/ .jpg)
+![screenshot](images/poetry-for-better-for-verse.jpg)
 
 * Source URL: http://prosody.lib.virginia.edu/
 * Type: Teaching resource 
@@ -58,7 +58,7 @@ As a whole, these digital tools, methods, and pedagogical approaches are essenti
 * "for better for verse" is simply a wonder, as the site takes on the most challenging element of poetry pedagogy: teaching rhythm and meter. Authored by Herbert Tucker, this site is beautifully designed, interactive, intuitive, and most importantly, succeeds in its objectives. For any student who wishes to test and build their skills with scansion, the site provides a sizable number of poems that may be be selected according to difficulty, type, or author. Once a poem is selected, users mark stressed and unstressed syllables (simple mouse clicks), divisions between metric feet, rhyme, and identify meter by type and length (for example, anapestic trimeter). The submitted scansion is automatically checked for accuracy. Beyond these essential nuts and bolts, for better for verse also includes notes that help explain how specific elements of the rhythm and meter connect to the poem's overall content, which is the larger pedagogical aim.
 
 ### "Prism"
-![screenshot](images/ .jpg)
+![screenshot](images/poetry-PRISM.jpg)
 
 * Source URL: http://prism.scholarslab.org/
 * Type: Online Tool/Resource
@@ -68,7 +68,7 @@ As a whole, these digital tools, methods, and pedagogical approaches are essenti
 ## Decoding and Encoding
 
 ### "Topic Modeling and Figurative Language"
-![screenshot](images/ .jpg)
+![screenshot](images/poetry-Topic-Modeling-and-Figurative-Language.jpg)
 
 * Source URL: http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/
 * Type: Published Article
@@ -76,7 +76,7 @@ As a whole, these digital tools, methods, and pedagogical approaches are essenti
 * Lisa Rhody is one of the few who apply topic modeling to poetry, specifically ekphrastic poems. Rhody is unconventional from the start, as her dataset, when compared with those most often modeled, is tiny. Furthermore, Rhody works with texts heavy with figurative language (poetry), which is yet another departure.  What's most valuable is Rhody's gentle introduction to topic modeling, which concentrates on its ideas (via a farmers' market metaphor and Anne Sexton's "The Starry Night") rather than deep mathematics; the material is still mighty challenging, but the mixture of close reading and computational context are fascinating. Even more valuable is Rhody's thinking laid bare: she thinks through the digital tool (MALLET) to arrive at questions she didn't have when starting the process, hence she describes them as "alternatives." This is pedagogy as discovery. Topic Modeling can be intimidating, and Rhody's work, both its scale and tone, invite exploration.   
 
 ### "Digital Close Reading: TEI for Teaching Poetic Vocabularies"
-![screenshot](images/ .jpg)
+![screenshot](images/poetry-TEI-for-Teaching-Poetic-Vocabularies.jpg)
 
 * Source URL: http://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/
 * Type: Published Article
@@ -86,7 +86,7 @@ As a whole, these digital tools, methods, and pedagogical approaches are essenti
 ## Creative Writing        
     
 ### "Anatomy of an I ♥ E-Poetry Entry"
-![screenshot](images/ .jpg)
+![screenshot](images/poetry-Anatomy_of_an_e-poetry_entry.jpg)
 
 * Source URL: http://iloveepoetry.com/?p=5387
 * Type: Curated Resource
@@ -94,7 +94,7 @@ As a whole, these digital tools, methods, and pedagogical approaches are essenti
 * The relationship between digital humanities and e-lit is rhetorically ambiguous; while the existence of these categories indicates difference, my preference is to view both as embraced by a larger, more general definition of digital humanities. Given this connection, primary digital texts are equally suitable for analysis involving digital tools. Enter "I ♥ E-Poetry." Curated by Leonardo Flores, this website collects hundreds of original works of e-poetry and allows teachers to easily introduce these primary texts into class environments, whether it be for analysis or creation. This particular assignment, "Anatomy of an I ♥ E-Poetry Entry" is a perfect introduction to the genre and the new terminology required. The assignment's included example provides guidance on not only how to analyze poetry as new media, but also how to write about that work in new-media contexts. The pedagogical payoff is guidance for both thinking and writing about the material.  
 
 ### "Using Google Spreadsheets for a Generated-Text Twitter Bot"
-![screenshot](images/ .jpg)
+![screenshot](images/poetry-Google-Spreadsheets-for-Text-Generated-Twitter-Bot.jpg)
 
 * Source URL: http://www.zachwhalen.net/posts/using-google-spreadsheets-for-a-generated-text-twitter-bot
 * Type: Assignment
@@ -102,7 +102,8 @@ As a whole, these digital tools, methods, and pedagogical approaches are essenti
 * I consider Twitter bots to be found poetry where the lens of discovery shifts to accommodate the digital medium. Twitter bots take different forms, some more complex than others, and Zach Whalen's Google Spreadsheet version is perfect for novice students (and instructors) looking to not only create their first bot, but also  understand its mechanics. The assignment describes bot varieties, then moves to the "random text-generating bot running without the need to write any code or have access to a web server." A pre-formatted Google spreadsheet is provided, and one simply has to populate the fields accordingly. Also included is a smooth introduction to creating Twitter apps, obtaining the necessary keys, and authentication. In starting with a spreadsheet model, you must focus on the language of individual cells, how they will eventually synthesize with surrounding cells, as well as maintaining the required brevity for the randomized tweet.  
 
 ### "'Deep' Textual Hacks"
-![screenshot](images/ .jpg)
+![screenshot](images/poetry-Deep-Textual-Hacks.jpg)
+![screenshot](images/poetry-Deep-Textual-Hacks2.jpg)
 
 * Source URL: http://www.samplereality.com/2015/02/11/deep-textual-hacks/
 * Type: Assignment
@@ -112,7 +113,7 @@ As a whole, these digital tools, methods, and pedagogical approaches are essenti
 ## Pedagogical History
 
 ### "Princeton Prosody Archive"
-![screenshot](images/ .jpg)
+![screenshot](images/poetry-Princeton-Prosody-Archive.jpg)
 
 * Source URL: https://digitalhumanities.princeton.edu/ppa/
 * Type: Online database
