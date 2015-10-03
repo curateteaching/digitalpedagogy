@@ -103,7 +103,7 @@ As a whole, these digital tools, methods, and pedagogical approaches are essenti
 
 ### "'Deep' Textual Hacks"
 ![screenshot](images/poetry-Deep-Textual-Hacks.jpg)
-![screenshot](images/poetry-Deep-Textual-Hacks2.jpg)
+![screenshot](images/poetry-Deep-textual-Hacks2.jpg)
 
 * Source URL: http://www.samplereality.com/2015/02/11/deep-textual-hacks/
 * Type: Assignment
