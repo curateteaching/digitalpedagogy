@@ -38,7 +38,7 @@ As a whole, these digital tools, methods, and pedagogical approaches are essenti
 
 * Source URL: http://www.briancroxall.net/s15dh/assignments/distant-reading-duffy/
 *  Type: Assignment
-*  Creator: Brian Croxall (Emory University) 
+*  Creator: Brian Croxall (Brown University) 
 *  This assignment, from Brian Croxall's "Introduction to Digital Humanities" course, immediately positions poetry as data for the purposes of distant reading (as opposed to close reading). Students collectively transcribe two volumes of Carol Ann Duffy's poetry--which they have already read and discussed--and then input that data into Voyant Tools, developed by Geoffrey Rockwell and Stéfan Sinclair. In the assignment description, Croxall writes, "it's important to recognize that we might not learn anything new....We're operating here under the principle of experimentation that has guided our class." Furthermore, the goal is to have fun experimenting with the different tools Voyant offers, such as Bubblelines and Scatterplots, with the hope that interesting discoveries emerge during the process. One group of students who completed this exploratory assignment analyzed word frequencies between the two volumes, while another group used Voyant's "Links" tool to search for trends emerging around the mention of body parts.    
 
 ### "Songs of the Victorians"
@@ -115,7 +115,7 @@ As a whole, these digital tools, methods, and pedagogical approaches are essenti
 ### "Princeton Prosody Archive"
 ![screenshot](images/poetry-Princeton-Prosody-Archive.jpg)
 
-* Source URL: https://digitalhumanities.princeton.edu/ppa/
+* Source URL: http://prosody.princeton.edu/
 * Type: Online database
 * Creators: Meredith Martin and Meagan Wilson (Princeton University)
 * The Princeton Prosody Archive, a coming attraction, is ambitious and long overdue for those interested in poetry and pedagogy. Meredith Martin, the project's leader, pursued her interest in the technology (or prosody) of reading poems, and how this technology has been in flux for centuries. Evidence for these changes exists in "historical bibliographies, educational treatises, curricular documents, and the popular press," and thus the Princeton Prosody Archive. The project's current website describes the project as follows: "Using digital media to historicize the technology of reading a poem, the Princeton Prosody Archive is a full-text searchable database of over 10,000 digitized records on the teaching of poetry as both a popular and highly specialized genre between 1750-1923." As a teacher of creative writing and literature, I find the classroom promise for this material beyond promising. For example, students could "read" a single poem through the established conventions of various centuries.
