@@ -6,8 +6,8 @@ University of Mary Washington | http://mcclurken.org
 ---
 
 ##### Publication Status:
-* **unreviewed draft**
-* draft version undergoing editorial review
+* unreviewed draft
+* **draft version undergoing editorial review**
 * draft version undergoing peer-to-peer review
 * published 
 
