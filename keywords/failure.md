@@ -18,7 +18,7 @@ type: book
 # FAILURE (Draft)
 
 ## Brian Croxall and Quinn Warnick
-Emory University | Emory Center for Digital Scholarship| [Website](http://briancroxall.net)
+Brown University | Brown University Library and the Brown Center for Digital Scholarship | [Website](http://briancroxall.net)
 
 Virginia Tech | The Center for Applied Technologies in the Humanities| [Website](http://quinnwarnick.com)
 
