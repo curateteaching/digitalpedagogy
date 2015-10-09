@@ -40,6 +40,7 @@ This list of differences is incomplete and meant to be merely suggestive. The ar
 ### Ivanhoe
 * Artifact Type: Classroom Game
 ![screenshot](images/play-ivanhoe.png)
+
 * Source URL: http://ivanhoe.scholarslab.org/index.html
 * Creators: Johanna Drucker, Jerome McGann, and Bethany Nowviskie (University of Virginia)
 
@@ -52,16 +53,19 @@ Ivanhoe began as a turn-based textual game, in which students assume the roles o
 * This open access version of "How to Not Read a Victorian Novel" first appeared in the *Journal of Victorian Culture." In it, Fyfe describes an assignment that can be readily adapted for any public domain text. 
 
 ### Teaching with Makey Makeys
-* Image: makeymakey.jpg (courtesy of Flickr user [Pete Prodoehl](https://www.flickr.com/photos/raster/8605560001/in/photolist-e7rKba-e7xosf-e7rGha-e7xjyU-dcthwC-dQ6xWj-dmFMNQ-dQ6CCj-ny4kr7-d25er3-dQ13n6-dsFbNo-dsFbP3-dsFb9N-dsFb5j-dsF2vB-dsfkXn-dsFcY3-dsFcWy-dsFcVo-dsF3Ug-dsF3Te-dsF3RV-dsFcR1-dsFcPQ-dsF3Nr-dsF3Mn-dsFcKN-dsFcJL-dsFcHb-dsF3FZ-dsFcEC-dsFcD1-dsF3Bp-dsFcA3-dsF3yV-dsF3xB-dsF3vZ-dsF3v6-dsFcuo-dsFcsY-dsF3rg-dsF3pP-dsF3oz-dsF3mK-dsF3ki-dsF3je-dsFcjb-dsFchL-dsFcgy)
+![screenshot](images/play-makeymakey.jpg) 
+(image courtesy of Flickr user [Pete Prodoehl](https://www.flickr.com/photos/raster/8605560001/in/photolist-e7rKba-e7xosf-e7rGha-e7xjyU-dcthwC-dQ6xWj-dmFMNQ-dQ6CCj-ny4kr7-d25er3-dQ13n6-dsFbNo-dsFbP3-dsFb9N-dsFb5j-dsF2vB-dsfkXn-dsFcY3-dsFcWy-dsFcVo-dsF3Ug-dsF3Te-dsF3RV-dsFcR1-dsFcPQ-dsF3Nr-dsF3Mn-dsFcKN-dsFcJL-dsFcHb-dsF3FZ-dsFcEC-dsFcD1-dsF3Bp-dsFcA3-dsF3yV-dsF3xB-dsF3vZ-dsF3v6-dsFcuo-dsFcsY-dsF3rg-dsF3pP-dsF3oz-dsF3mK-dsF3ki-dsF3je-dsFcjb-dsFchL-dsFcgy)
+
 * Source URL: http://www.slj.com/2015/04/opinion/test-drive/slj-reviews-the-makey-makey-test-drive/
 * Creator: Chad Sansing
 * A Makey Makey is an inexpensive microcontroller that replaces typical computer inputs (mouse, arrows, keyboard controls) with any object that conducts electricity. YouTube abounds with videos of bananas turned into electronic piano keys, but such experiments only scratch the surface of Makey Makeys. For instance, Makey Makeys can be used to dramatize Donna Haraway's still-important "Cyborg Manifesto" or to create alternative reading interfaces for poetry. In this review Chad Sansing explains why teachers might want to teach literature and the arts using Makey Makeys. Though framed for middle school students, the playful pedagogy highlighted here transfers well to higher education.
 
 ### How to make a Twitter Bot with Google Spreadsheets
-* Screenshot: hacking-howtomakeatwitterbot.png
+![screenshot](images/play-twitterbot.png)
+
 * Source URL: http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04
 * Creator: Zach Whalen (University of Mary Washington) 
-* Twitter bots are small autonomous programs that algorithmically generate tweets. Bots are most often associated with spam and online marketing, but they can also be creative endeavors, playful monsters (evoking "hopeful monsters"). Zach Whalen provides a classroom-ready way for students to create bots. This method is not an introduction to programming so much as an introduction to procedural thinking.
+* Twitter bots are small autonomous programs that algorithmically generate tweets. Bots are most often associated with spam and online marketing, but they can also be creative endeavors that help us to understand texts, authorship, and originality more deeply. Zach Whalen provides a classroom-ready way for students to create bots, using only Google Spreadsheets. This method is not an introduction to programming so much as an introduction to playful thinking with words.
 
 ### Hack for Humanities THATCamp Hackathon
 * Screenshot: activity-hackforhumanities.png
