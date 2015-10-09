@@ -99,11 +99,6 @@ Anna Anthropy
 * Amanda Phillips (University of California-Davis)
 * Thoughts on Teaching Literature and Games is also a model of reflective thinking about teaching. Phillips conducts--to use a term from game development--a post-mortem on her course, dissecting what went wrong, what went right, and what she might change in the future. Readers (and players) can see for themselves the changes between the [2010 version](https://gamertrouble.wordpress.com/courses/engl165lg.blogspot.com) of the class and the [2012 version](http://engl165lg.wordpress.com/). Also of interest is the comment thread following the blog post. 
 
-### if (!isNative()){return false;}: De-People-ing Native Peoples in Sid Meier’s Colonization
-* Screenshot
-* Source URL: http://www.playthepast.org/?p=2509
-* Creator: Trevor Owens (ILMS)
-* Beyond Owens' post, the Play the Past blog is a rich resource, full of insightful analysis and discussion at the intersection of games and learning.
 
 ## Related Materials
 
