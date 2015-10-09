@@ -41,7 +41,7 @@ This list of differences is incomplete and meant to be merely suggestive. The ar
 * Artifact Type: Classroom Game
 ![screenshot](images/play-ivanhoe.png)
 
-* Source URL: http://ivanhoe.scholarslab.org/index.html
+* Source URL: [http://ivanhoe.scholarslab.org/index.html](http://ivanhoe.scholarslab.org/index.html)
 * Creators: Johanna Drucker, Jerome McGann, and Bethany Nowviskie (University of Virginia)
 
 Ivanhoe began as a turn-based textual game, in which students assume the roles of characters—or possible characters—in a novel or other cultural artifact. Each player makes a "move," describing an action or decision their character makes, and the next player makes a move in response. The original Ivanhoe was Java-based, but that game environment no longer functions. In 2014 the Scholars' Lab at the Uiversity of Virginia released a new version of Ivanhoe as a WordPress theme. One of the unique features of Ivanhoe is that the game doesn't actually require _any_ technology. For an example of digital pedagogy inspiring analog pedagogy, see Jason Jones' low tech adaption in [Teaching Literature with Ivanhoe](http://www.jbj.wordherders.net/2008/06/16/teaching-literature-with-ivanhoe/). Similarly, Chandler Sansing describes using [Ivanhoe](http://texttechnology.mcmaster.ca/pdf/vol12_2_04.pdf) in a middle school classroom.
@@ -63,12 +63,76 @@ Ivanhoe began as a turn-based textual game, in which students assume the roles o
 ### How to make a Twitter Bot with Google Spreadsheets
 ![screenshot](images/play-twitterbot.png)
 
-* Source URL: http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04
+* Source URL: [http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04)
 * Creator: Zach Whalen (University of Mary Washington) 
 * Twitter bots are small autonomous programs that algorithmically generate tweets. Bots are most often associated with spam and online marketing, but they can also be creative endeavors that help us to understand texts, authorship, and originality more deeply. Zach Whalen provides a classroom-ready way for students to create bots, using only Google Spreadsheets. This method is not an introduction to programming so much as an introduction to playful thinking with words.
 
 ### Hack for Humanities THATCamp Hackathon
-* Screenshot: activity-hackforhumanities.png
-* Source URL: https://docs.google.com/presentation/d/15t6hjDLGZR_slg-6ztVqDF21buk_1eeUmfqnBTph5VY/pub?start=true&loop=false&delayms=5000#slide=id.p6
+![screenshot](images/play-hackforhumanities.png)
+
+* Source URL: [https://docs.google.com/presentation/d/15t6hjDLGZR_slg-6ztVqDF21buk_1eeUmfqnBTph5VY/pub?start=true&loop=false&delayms=5000#slide=id.p6](https://docs.google.com/presentation/d/15t6hjDLGZR_slg-6ztVqDF21buk_1eeUmfqnBTph5VY/pub?start=true&loop=false&delayms=5000#slide=id.p6)
 * Creator: Liss LaFleur (University of North Texas)
-* A hackathon is a crystalization of maker culture, and have become quite common in community makerspaces, code camps, and so on. The idea is simple: a disparate group of people with varying skills assemble and in the space of a day or weekend, come up with a "hack"b
+* Hackathons are discrete crystallizations of maker culture, and they have become quite common in community makerspaces, coding camps, and so on. The idea is simple: a disparate group of people with varying skills assemble and in the space of a day or weekend, come up with a "hack"—a hastily assembled yet elegant solution to a problem, and not necessarily a digital problem. Liss LaFleur's presentation and guidelines for a "Hack for Humanities" at a THATCamp is both an excellent introduction to the idea of a hackathan and a set of concrete instructions for a specific hackathon theme.
+
+### DS106 Assignment Bank
+* Creator: Jim Groom, Adam Levine, and others (University of Mary Washington)
+* DS106 is the longstanding online version of Digital Storytelling 106, an immensely popular online companion to a digital storytelling course at the University of Mary Washington. The DS106 assignment is a collection of hundreds of digital storytelling assignments that focus on digital fluency and creativity. Video mashups, remixes, Photoshop collages, soundscapes, animated GIFs, and much more. Perhaps the best part of the assignment bank are the same responses that DS106 students have shared. DS106 is a model of connected learning, community creation, and 
+
+### Games in the Classroom
+* Screenshot: activities-gamesinclassroom.png
+* Source URLs: http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-1/35596, http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-2/36075, http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-3/36217, http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-4/36294
+* Creator: Anastasia Salter (University of Central Florida)
+* Games in the Classroom is a series of blog posts by Anastasia Salter on Profhacker. The four posts range from teaching with digital games to designing paper prototypes.
+
+### Student Work James Brown class
+* http://courses.jamesjbrownjr.net/blowntobitsgames
+
+### How to Make Games with Twine
+Easily adapted to a literature classroom.
+http://www.auntiepixelante.com/twine/
+Anna Anthropy
+
+
+### Thoughts on Teaching Literature and Games
+* Screenshot: reflection-thoughtsonteachinggames.png
+* Source URL: http://www.hastac.org/blogs/amanda-phillips/thoughts-teaching-literature-and-gaming
+* Amanda Phillips (University of California-Davis)
+* Thoughts on Teaching Literature and Games is also a model of reflective thinking about teaching. Phillips conducts--to use a term from game development--a post-mortem on her course, dissecting what went wrong, what went right, and what she might change in the future. Readers (and players) can see for themselves the changes between the [2010 version](https://gamertrouble.wordpress.com/courses/engl165lg.blogspot.com) of the class and the [2012 version](http://engl165lg.wordpress.com/). Also of interest is the comment thread following the blog post. 
+
+### if (!isNative()){return false;}: De-People-ing Native Peoples in Sid Meier’s Colonization
+* Screenshot
+* Source URL: http://www.playthepast.org/?p=2509
+* Creator: Trevor Owens (ILMS)
+* Beyond Owens' post, the Play the Past blog is a rich resource, full of insightful analysis and discussion at the intersection of games and learning.
+
+## Related Materials
+
+Davies, Russell. “Playful.” http://russelldavies.typepad.com/planning/2009/11/playful.html. 9 Nov. 2009. Web. 5 May 2010.
+
+Flanagan, Mary. *Critical Play: Radical Game Design.* Cambridge, Mass: MIT Press, 2009. Print.
+
+Ramsay, Stephen. “The Hermeneutics of Screwing Around; Or, What You Do with a Million Books.” *Pastplay: Teaching and Learning History with Technology.* Ed. Kevin Kee. Ann Arbor: University of Michigan Press, 2014. 111–120. Print. Digital Humanities.
+
+Salen, Katie, and Zimmerman Eric. *The Game Design Reader: A Rules of Play Anthology.* Cambridge, Mass.: MIT Press, 2006. Print.
+
+Sawyer, R. Keith. *Explaining Creativity: The Science of Human Innovation.* Oxford University Press, USA, 2011. Print.
+
+## Works Cited
+
+Bogost, Ian. *Alien Phenomenology, Or, What It’s Like to Be a Thing.* Minneapolis: University of Minnesota Press, 2012. Print.
+
+Caillois, Roger. *Man, Play, and Games.* Trans. Meyer Barash. New York: The Free Press, 2003. Print.
+
+Gee, James Paul Gee. *What Video Games Have to Teach Us About Learning and Literacy*
+
+Huizinga, Johan. *Homo Ludens: A Study of the Play-Element in Culture.* London: Routledge and Kegan Paul, 1949. Print.
+
+Csikszentmihalyi, Mihaly. Flow. Harper Collins, 2009. Print.
+
+Pope, Rob. *Textual Intervention: Critical and Creative Strategies for Literary Studies.*
+
+Ramsay, Stephen. *Reading Machines: Toward and Algorithmic Criticism.* University of Illinois Press, 2011. Print.
+
+Ratto, Matt. “Critical Making: Conceptual and Material Studies in Technology and Social Life.” *The Information Society* 27.4 (2011): 252–260. Web.
+
+Samuels, Lisa, and Jerome McGann. "Deformance and Interpretation." *New Literary History* 30.1 (1999): 25–56. Print.
