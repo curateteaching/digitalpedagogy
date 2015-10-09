@@ -1,4 +1,4 @@
-﻿# PLAY
+# PLAY
 
 ## Mark Sample
 Davidson College | Digital Studies | [Website](http://www.samplereality.com)
@@ -44,12 +44,6 @@ This list of differences is incomplete and meant to be merely suggestive. The ar
 * Creators: Johanna Drucker, Jerome McGann, and Bethany Nowviskie (University of Virginia)
 
 Ivanhoe began as a turn-based textual game, in which students assume the roles of characters—or possible characters—in a novel or other cultural artifact. Each player makes a "move," describing an action or decision their character makes, and the next player makes a move in response. The original Ivanhoe was Java-based, but that game environment no longer functions. In 2014 the Scholars' Lab at the Uiversity of Virginia released a new version of Ivanhoe as a WordPress theme. One of the unique features of Ivanhoe is that the game doesn't actually require _any_ technology. For an example of digital pedagogy inspiring analog pedagogy, see Jason Jones' low tech adaption in [Teaching Literature with Ivanhoe](http://www.jbj.wordherders.net/2008/06/16/teaching-literature-with-ivanhoe/). Similarly, Chandler Sansing describes using [Ivanhoe](http://texttechnology.mcmaster.ca/pdf/vol12_2_04.pdf) in a middle school classroom.
-
-### Deep Textual Hacks
-* Screenshot: activity-deeptextualhack.png
-* Source URL: http://www.samplereality.com/2015/02/11/deep-textual-hacks/
-* Creator: Mark Sample
-* Deep Textual Hacks is a collection of short exercises for hacking texts through substitution, remixing, and other acts of deformance. The activities build on a similar assignment for a class called [Hacking, Remixing, and Design](http://sites.davidson.edu/hacking/course-guidelines/hack-1-text/), but are geared more towards a general audience, with no expectation of coding experience. The hacks use Javascript, which means all that's needed to experiment with them is a web browser and a plain text editor. 
 
 ### How to Not Read a Victorian Novel
 * Screenshot: reflection-handmadeweb.png
