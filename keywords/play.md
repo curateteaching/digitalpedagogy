@@ -42,7 +42,7 @@ This list of differences is incomplete and meant to be merely suggestive. The ar
 ![screenshot](images/play-ivanhoe.png)
 
 * Source URL: [http://ivanhoe.scholarslab.org/index.html](http://ivanhoe.scholarslab.org/index.html)
-* Creators: Johanna Drucker, Jerome McGann, and Bethany Nowviskie (University of Virginia)
+* Creators: Johanna Drucker, Jerome McGann, Bethany Nowviskie, and the Scholars' Lab (University of Virginia)
 
 Ivanhoe began as a turn-based textual game, in which students assume the roles of characters—or possible characters—in a novel or other cultural artifact. Each player makes a "move," describing an action or decision their character makes, and the next player makes a move in response. The original Ivanhoe was Java-based, but that game environment no longer functions. In 2014 the Scholars' Lab at the Uiversity of Virginia released a new version of Ivanhoe as a WordPress theme. One of the unique features of Ivanhoe is that the game doesn't actually require _any_ technology. For an example of digital pedagogy inspiring analog pedagogy, see Jason Jones' low tech adaption in [Teaching Literature with Ivanhoe](http://www.jbj.wordherders.net/2008/06/16/teaching-literature-with-ivanhoe/). Similarly, Chandler Sansing describes using [Ivanhoe](http://texttechnology.mcmaster.ca/pdf/vol12_2_04.pdf) in a middle school classroom.
 
@@ -75,8 +75,11 @@ Ivanhoe began as a turn-based textual game, in which students assume the roles o
 * Hackathons are discrete crystallizations of maker culture, and they have become quite common in community makerspaces, coding camps, and so on. The idea is simple: a disparate group of people with varying skills assemble and in the space of a day or weekend, come up with a "hack"—a hastily assembled yet elegant solution to a problem, and not necessarily a digital problem. Liss LaFleur's presentation and guidelines for a "Hack for Humanities" at a THATCamp is both an excellent introduction to the idea of a hackathan and a set of concrete instructions for a specific hackathon theme.
 
 ### DS106 Assignment Bank
+![screenshot](images/play-ds106.png)
+
+* Source URL: [http://assignments.ds106.us/](http://assignments.ds106.us/)
 * Creator: Jim Groom, Adam Levine, and others (University of Mary Washington)
-* DS106 is the longstanding online version of Digital Storytelling 106, an immensely popular online companion to a digital storytelling course at the University of Mary Washington. The DS106 assignment is a collection of hundreds of digital storytelling assignments that focus on digital fluency and creativity. Video mashups, remixes, Photoshop collages, soundscapes, animated GIFs, and much more. Perhaps the best part of the assignment bank are the same responses that DS106 students have shared. DS106 is a model of connected learning, community creation, and 
+* DS106 is the longstanding online version of Digital Storytelling 106, an immensely popular online companion to a digital storytelling course at the University of Mary Washington. The DS106 assignment bank is a ready-to-use collection of hundreds of playful assignments that focus on digital fluency and creativity. Assignment types include video mashups, remixes, photo collages, soundscapes, animated GIFs, and much more. The DS106 Assignment Bank should be the first place to look for innovative new media assignments, as well as illustrative examples of completed student work. 
 
 ### Games in the Classroom
 * Screenshot: activities-gamesinclassroom.png
@@ -117,6 +120,8 @@ Sawyer, R. Keith. *Explaining Creativity: The Science of Human Innovation.* Oxfo
 Bogost, Ian. *Alien Phenomenology, Or, What It’s Like to Be a Thing.* Minneapolis: University of Minnesota Press, 2012. Print.
 
 Caillois, Roger. *Man, Play, and Games.* Trans. Meyer Barash. New York: The Free Press, 2003. Print.
+
+Drucker, Johanna, Jerome McGann, Bethany Nowviskie, and the Scholars' Lab. *Ivanhoe*. Charlottesville, VA, 2014.
 
 Gee, James Paul Gee. *What Video Games Have to Teach Us About Learning and Literacy*
 
