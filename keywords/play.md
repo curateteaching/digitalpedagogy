@@ -81,8 +81,12 @@ Ivanhoe began as a turn-based textual game, in which students assume the roles o
 * Creator: Jim Groom, Adam Levine, and others (University of Mary Washington)
 * DS106 is the longstanding online version of Digital Storytelling 106, an immensely popular online companion to a digital storytelling course at the University of Mary Washington. The DS106 assignment bank is a ready-to-use collection of hundreds of playful assignments that focus on digital fluency and creativity. Assignment types include video mashups, remixes, photo collages, soundscapes, animated GIFs, and much more. The DS106 Assignment Bank should be the first place to look for innovative new media assignments, as well as illustrative examples of completed student work. 
 
-### Student Work James Brown class
-* http://courses.jamesjbrownjr.net/blowntobitsgames
+### Game Design Project
+![screenshot](images/play-gamedesign.png)
+
+* Source URL: [http://courses.jamesjbrownjr.net/node/3372](http://courses.jamesjbrownjr.net/node/3372)
+* Creator: James Brown, Jr. (Rutgers Camden)
+* In a class called "Writing and Coding," undergraduate students must design a game that makes a procedural argument about the book *Blown to Bits* (2008). The assignment builds on Ian Bogost's  concept of procedural rhetoric, the implicit or explicit argument a computer model makes about the world. Rather than using words like a book, or images like a film, a game "makes a claim about how something works by modeling its processes" (Bogost 2009). Brown's assignment highlights the way an easy-to-use game design platform (Scratch, in this case) can be used to represent and complicate historical and cultural concepts. Brown has also shared some examples of [student work](http://courses.jamesjbrownjr.net/blowntobitsgames) from this assignment.
 
 ### How to Make Games with Twine
 Easily adapted to a literature classroom.
@@ -115,7 +119,13 @@ Sheldon, Lee. "Gaming the Classroom Syllabus." Indiana University, Bloomington. 
 
 ## Works Cited
 
+Abelson, Hal, Ken Ledeen, and Harry Lewis. *Blown to Bits: Your Life, Liberty, and Happiness After the Digital Explosion*. Upper Saddle River, NJ: Addison-Wesley, 2008. Print.
+
+Bogost, Ian. "The Proceduralist Style." Gamasutra. 21 Jan. 2009. Web. 1 Feb. 2009.
+
 Bogost, Ian. *Alien Phenomenology, Or, What It’s Like to Be a Thing.* Minneapolis: University of Minnesota Press, 2012. Print.
+
+Brown, James, Jr. "Game Design Project." Inter-L&S 102: Writing and Coding. 2012. Web.
 
 Caillois, Roger. *Man, Play, and Games.* Trans. Meyer Barash. New York: The Free Press, 2003. Print.
 
