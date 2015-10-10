@@ -93,13 +93,12 @@ Easily adapted to a literature classroom.
 http://www.auntiepixelante.com/twine/
 Anna Anthropy
 
+### Literature and Gaming
+![screenshot](images/play-literatureandgames.png)
 
-### Thoughts on Teaching Literature and Games
-* Screenshot: reflection-thoughtsonteachinggames.png
-* Source URL: http://www.hastac.org/blogs/amanda-phillips/thoughts-teaching-literature-and-gaming
+* Source URL: [http://engl165lg.wordpress.com/](http://engl165lg.wordpress.com/)
 * Amanda Phillips (University of California-Davis)
-* Thoughts on Teaching Literature and Games is also a model of reflective thinking about teaching. Phillips conducts--to use a term from game development--a post-mortem on her course, dissecting what went wrong, what went right, and what she might change in the future. Readers (and players) can see for themselves the changes between the [2010 version](https://gamertrouble.wordpress.com/courses/engl165lg.blogspot.com) of the class and the [2012 version](http://engl165lg.wordpress.com/). Also of interest is the comment thread following the blog post. 
-
+* Literature and Gaming is an undergraduate course at UC-Davis taught by Dr. Amanda Phillips. This syllabus makes connections between print-based narratives and video game-based narratives, explicitly questioning assumptions about the differences between the two. In particular, the students explore the five categories of play, narrative, space, time, and avatar across both media. 
 
 ## Related Materials
 
@@ -107,9 +106,13 @@ Davies, Russell. “Playful.” http://russelldavies.typepad.com/planning/2009/1
 
 Flanagan, Mary. *Critical Play: Radical Game Design.* Cambridge, Mass: MIT Press, 2009. Print.
 
+Phillips, Amanda. "Thoughts on Teaching Literature and Gaming." HASTAC. 20 Oct. 2010. Web. 1 Oct. 2015. [https://www.hastac.org/blogs/amanda-phillips/2010/10/20/thoughts-teaching-literature-and-gaming](https://www.hastac.org/blogs/amanda-phillips/2010/10/20/thoughts-teaching-literature-and-gaming).
+
 Ramsay, Stephen. “The Hermeneutics of Screwing Around; Or, What You Do with a Million Books.” *Pastplay: Teaching and Learning History with Technology.* Ed. Kevin Kee. Ann Arbor: University of Michigan Press, 2014. 111–120. Print. Digital Humanities.
 
-Salen, Katie, and Zimmerman Eric. *The Game Design Reader: A Rules of Play Anthology.* Cambridge, Mass.: MIT Press, 2006. Print.
+Salen, Katie, and Eric Zimmerman. *Rules of Play: Game Design Fundamentals*. Cambridge, Mass.: MIT Press, 2004. Print.
+
+Salen, Katie, and Eric Zimmerman. *The Game Design Reader: A Rules of Play Anthology.* Cambridge, Mass.: MIT Press, 2006. Print.
 
 Salter, Anastasia Salter. "Games in the Classroom." *Profhacker.* 2011. Web. [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-1/35596](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-1/35596), [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-2/36075](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-2/36075), [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-3/36217](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-3/36217), [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-4/36294](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-4/36294).
 
