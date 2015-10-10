@@ -81,12 +81,6 @@ Ivanhoe began as a turn-based textual game, in which students assume the roles o
 * Creator: Jim Groom, Adam Levine, and others (University of Mary Washington)
 * DS106 is the longstanding online version of Digital Storytelling 106, an immensely popular online companion to a digital storytelling course at the University of Mary Washington. The DS106 assignment bank is a ready-to-use collection of hundreds of playful assignments that focus on digital fluency and creativity. Assignment types include video mashups, remixes, photo collages, soundscapes, animated GIFs, and much more. The DS106 Assignment Bank should be the first place to look for innovative new media assignments, as well as illustrative examples of completed student work. 
 
-### Games in the Classroom
-* Screenshot: activities-gamesinclassroom.png
-* Source URLs: http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-1/35596, http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-2/36075, http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-3/36217, http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-4/36294
-* Creator: Anastasia Salter (University of Central Florida)
-* Games in the Classroom is a series of blog posts by Anastasia Salter on Profhacker. The four posts range from teaching with digital games to designing paper prototypes.
-
 ### Student Work James Brown class
 * http://courses.jamesjbrownjr.net/blowntobitsgames
 
@@ -113,7 +107,11 @@ Ramsay, Stephen. “The Hermeneutics of Screwing Around; Or, What You Do with a 
 
 Salen, Katie, and Zimmerman Eric. *The Game Design Reader: A Rules of Play Anthology.* Cambridge, Mass.: MIT Press, 2006. Print.
 
+Salter, Anastasia Salter. "Games in the Classroom." *Profhacker.* 2011. Web. [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-1/35596](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-1/35596), [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-2/36075](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-2/36075), [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-3/36217](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-3/36217), [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-4/36294](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-4/36294).
+
 Sawyer, R. Keith. *Explaining Creativity: The Science of Human Innovation.* Oxford University Press, USA, 2011. Print.
+
+Sheldon, Lee. "Gaming the Classroom Syllabus." Indiana University, Bloomington. 2010. Web.
 
 ## Works Cited
 
