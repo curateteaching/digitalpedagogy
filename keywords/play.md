@@ -29,9 +29,9 @@ A comparison between playful pedagogy and serious pedagogy highlights distinctio
 
 This list of differences is incomplete and meant to be merely suggestive. The artifacts presented here share one or more of these characteristics, and then some. The artifacts are grouped according to several categories of playful pedagogy: 
 
-1. **Interventions.** These pedagogical strategies are the most recognizable, for they begin with conventional pedagogies, but pivot upon an activist or constructivist intervention into that pedagogical principle, taking it into surprising directions. An example of an interventionist strategy is deformance—the deliberate misreading of a text or cultural artifact, such as reading a poem backwards (Samuels). Interventions such as these have a long history, but digital texts and digital tools have made them readily available (Ramsay).
+1. **Interventions.** These pedagogical strategies are the most recognizable, for they begin with conventional pedagogies, but pivot upon an activist or constructivist intervention into that pedagogical principle, taking it into surprising directions. An example of an interventionist strategy is deformance—the deliberate misreading of a text or cultural artifact, such as reading a poem backwards (Samuels and McGann 29). Interventions such as these have a long history, but digital texts and digital tools have made them readily available (Ramsay).
 
-2. **Crafting.** Constructivist pedagogies—in which students create knowledge rather than merely absorb or duplicate knowledge—are nothing new (Paypert? Freire?). What *is* new is the range of tools that make them possible. The term crafting conjures up the core mechanic of games like *Minecraft*, but also signals a connection to pre-digital forms of making and construction. Whether it's called crafting (?), critical making (Ratto), carpentry (Bogost), or hacking (Hacker Ethos), crafting transfers the classical rhetorical values of argumention and persuasion to domains beyond writing and language.
+2. **Crafting.** Approaches to learning in which students create knowledge rather than merely absorb or duplicate knowledge have a history stretching back to Dewey (Richardson 1637). Constructivist pedagogies are nothing new. What *is* new is the range of tools that make them possible. The term crafting conjures up the core mechanic of games like *Minecraft*, but also signals a connection to pre-digital forms of making and construction. Whether it's called crafting (Sennett 280), critical making (Ratto), carpentry (Bogost), or hacking (Hacker Ethos), crafting transfers the classical rhetorical values of argumention and persuasion to domains beyond writing and language.
 
 3. **Gaming.** These artifacts represent the most literal meaning of play. The pedagogical value of games and simulations has long been known, but it was James Paul Gee's *What Video Games Have to Teach Us about Learning and Literacy* that raised awareness about gaming's potential as a pedagogical tool. The artifacts in this category either treat games as objects of study in their own right alongside literature, or provide examples of games as pedagogical tools.
 
@@ -48,7 +48,7 @@ Ivanhoe began as a turn-based textual game, in which students assume the roles o
 
 ### Glitching Files for Understanding
 * Artifact Type: Tutorial
-![screenshot](image/play-glitching.png)
+![screenshot](images/play-glitching.png)
 
 * Source URL: [http://blogs.loc.gov/digitalpreservation/2012/11/glitching-files-for-understanding-avoiding-screen-essentialism-in-three-easy-steps/](http://blogs.loc.gov/digitalpreservation/2012/11/glitching-files-for-understanding-avoiding-screen-essentialism-in-three-easy-steps/)
 * Creator: [Trevor Owens](www.trevorowens.org/) (Institute of Museum and Library Services)
@@ -170,22 +170,26 @@ Brown, James, Jr. "Game Design Project." Inter-L&S 102: Writing and Coding. 2012
 
 Caillois, Roger. *Man, Play, and Games.* Trans. Meyer Barash. New York: The Free Press, 2003. Print.
 
-Csikszentmihalyi, Mihaly. Flow. Harper Collins, 2009. Print.
+Csikszentmihalyi, Mihaly. *Flow.* Harper Collins, 2009. Print.
 
 Drucker, Johanna, Jerome McGann, Bethany Nowviskie, and the Scholars' Lab. *Ivanhoe*. Charlottesville, VA, 2014.
 
 Ellison, Cara. "Anna Anthropy and the Twine Revolution." *The Guardian* 10 Apr. 2013. Web. 11 Oct. 2015.
 
-Gee, James Paul Gee. *What Video Games Have to Teach Us About Learning and Literacy*
+Gee, James Paul. *What Video Games Have to Teach Us About Learning and Literacy.* 2nd ed. New York: Macmillan, 2003. Print.
 
 Huizinga, Johan. *Homo Ludens: A Study of the Play-Element in Culture.* London: Routledge and Kegan Paul, 1949. Print.
 
 Owens, Trevor. "Glitching Files for Understanding: Avoiding Screen Essentialism in Three Easy Steps." The Signal. 5 Nov. 2012. Web. 11 Oct. 2015.
 
-Pope, Rob. *Textual Intervention: Critical and Creative Strategies for Literary Studies.*
+Pope, Rob. *Textual Intervention: Critical and Creative Strategies for Literary Studies.* London: Routledge, 1994. Print.
 
 Ramsay, Stephen. *Reading Machines: Toward and Algorithmic Criticism.* University of Illinois Press, 2011. Print.
 
 Ratto, Matt. “Critical Making: Conceptual and Material Studies in Technology and Social Life.” *The Information Society* 27.4 (2011): 252–260. Web.
 
+Richardson, Virginia. "Constructivist Pedagogy." *The Teachers College Record* 105.9 (2003): 1623–1640. Print.
+
 Samuels, Lisa, and Jerome McGann. "Deformance and Interpretation." *New Literary History* 30.1 (1999): 25–56. Print.
+
+Sennett, Richard. *The Craftsman.* New Haven: Yale University Press, 2008. Print.
