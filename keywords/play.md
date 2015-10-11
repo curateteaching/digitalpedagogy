@@ -54,12 +54,13 @@ Ivanhoe began as a turn-based textual game, in which students assume the roles o
 
 ### Teaching with Makey Makeys
 * Artifact Type: Classroom Activity
-![screenshot](images/play-makeymakey.jpg) 
+![screenshot](images/play-makeymakey.jpg)
+
 (image courtesy of Flickr user [Pete Prodoehl](https://www.flickr.com/photos/raster/8605560001/in/photolist-e7rKba-e7xosf-e7rGha-e7xjyU-dcthwC-dQ6xWj-dmFMNQ-dQ6CCj-ny4kr7-d25er3-dQ13n6-dsFbNo-dsFbP3-dsFb9N-dsFb5j-dsF2vB-dsfkXn-dsFcY3-dsFcWy-dsFcVo-dsF3Ug-dsF3Te-dsF3RV-dsFcR1-dsFcPQ-dsF3Nr-dsF3Mn-dsFcKN-dsFcJL-dsFcHb-dsF3FZ-dsFcEC-dsFcD1-dsF3Bp-dsFcA3-dsF3yV-dsF3xB-dsF3vZ-dsF3v6-dsFcuo-dsFcsY-dsF3rg-dsF3pP-dsF3oz-dsF3mK-dsF3ki-dsF3je-dsFcjb-dsFchL-dsFcgy)
 
 * Source URL: http://www.slj.com/2015/04/opinion/test-drive/slj-reviews-the-makey-makey-test-drive/
 * Creator: Chad Sansing
-* A Makey Makey is an inexpensive microcontroller that replaces typical computer inputs (mouse, arrows, keyboard controls) with any object that conducts electricity. YouTube abounds with videos of bananas turned into electronic piano keys, but such experiments only scratch the surface of Makey Makeys. For instance, Makey Makeys can be used to dramatize Donna Haraway's still-important "Cyborg Manifesto" or to create alternative reading interfaces for poetry. In this review Chad Sansing explains why teachers might want to teach literature and the arts using Makey Makeys. Though framed for middle school students, the playful pedagogy highlighted here transfers well to higher education.
+A Makey Makey is an inexpensive microcontroller that replaces typical computer inputs (mouse, arrows, keyboard controls) with any object that conducts electricity. YouTube abounds with videos of bananas turned into electronic piano keys, but such experiments only scratch the surface of Makey Makeys. For instance, Makey Makeys can be used to dramatize Donna Haraway's still-important "Cyborg Manifesto" or to create alternative reading interfaces for poetry. In this review Chad Sansing explains why teachers might want to teach literature and the arts using Makey Makeys. Though framed for middle school students, the playful pedagogy highlighted here transfers well to higher education.
 
 ### How to make a Twitter Bot with Google Spreadsheets
 * Artifact Type: Classroom Activity
@@ -67,7 +68,7 @@ Ivanhoe began as a turn-based textual game, in which students assume the roles o
 
 * Source URL: [http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04)
 * Creator: Zach Whalen (University of Mary Washington) 
-* Twitter bots are small autonomous programs that algorithmically generate tweets. Bots are most often associated with spam and online marketing, but they can also be creative endeavors that help us to understand texts, authorship, and originality more deeply. Zach Whalen provides a classroom-ready way for students to create bots, using only Google Spreadsheets. This method is not an introduction to programming so much as an introduction to playful thinking with words.
+Twitter bots are small autonomous programs that algorithmically generate tweets. Bots are most often associated with spam and online marketing, but they can also be creative endeavors that help us to understand texts, authorship, and originality more deeply. Zach Whalen provides a classroom-ready way for students to create bots, using only Google Spreadsheets. This method is not an introduction to programming so much as an introduction to playful thinking with words.
 
 ### Hack for Humanities THATCamp Hackathon
 * Artifact Type: Collaborative Project
@@ -75,7 +76,7 @@ Ivanhoe began as a turn-based textual game, in which students assume the roles o
 
 * Source URL: [https://docs.google.com/presentation/d/15t6hjDLGZR_slg-6ztVqDF21buk_1eeUmfqnBTph5VY/pub?start=true&loop=false&delayms=5000#slide=id.p6](https://docs.google.com/presentation/d/15t6hjDLGZR_slg-6ztVqDF21buk_1eeUmfqnBTph5VY/pub?start=true&loop=false&delayms=5000#slide=id.p6)
 * Creator: Liss LaFleur (University of North Texas)
-* Hackathons are discrete crystallizations of maker culture, and they have become quite common in community makerspaces, coding camps, and so on. The idea is simple: a disparate group of people with varying skills assemble and in the space of a day or weekend, come up with a "hack"—a hastily assembled yet elegant solution to a problem, and not necessarily a digital problem. Liss LaFleur's presentation and guidelines for a "Hack for Humanities" at a THATCamp is both an excellent introduction to the idea of a hackathan and a set of concrete instructions for a specific hackathon theme.
+Hackathons are discrete crystallizations of maker culture, and they have become quite common in community makerspaces, coding camps, and so on. The idea is simple: a disparate group of people with varying skills assemble and in the space of a day or weekend, come up with a "hack"—a hastily assembled yet elegant solution to a problem, and not necessarily a digital problem. Liss LaFleur's presentation and guidelines for a "Hack for Humanities" at a THATCamp is both an excellent introduction to the idea of a hackathan and a set of concrete instructions for a specific hackathon theme.
 
 ### DS106 Assignment Bank
 * Artifact Type: Assignment
@@ -83,7 +84,7 @@ Ivanhoe began as a turn-based textual game, in which students assume the roles o
 
 * Source URL: [http://assignments.ds106.us/](http://assignments.ds106.us/)
 * Creator: Jim Groom, Adam Levine, and others (University of Mary Washington)
-* DS106 is the longstanding online version of Digital Storytelling 106, an immensely popular online companion to a digital storytelling course at the University of Mary Washington. The DS106 assignment bank is a ready-to-use collection of hundreds of playful assignments that focus on digital fluency and creativity. Assignment types include video mashups, remixes, photo collages, soundscapes, animated GIFs, and much more. The DS106 Assignment Bank should be the first place to look for innovative new media assignments, as well as illustrative examples of completed student work. 
+DS106 is the longstanding online version of Digital Storytelling 106, an immensely popular online companion to a digital storytelling course at the University of Mary Washington. The DS106 assignment bank is a ready-to-use collection of hundreds of playful assignments that focus on digital fluency and creativity. Assignment types include video mashups, remixes, photo collages, soundscapes, animated GIFs, and much more. The DS106 Assignment Bank should be the first place to look for innovative new media assignments, as well as illustrative examples of completed student work. 
 
 ### Game Design Project
 * Artifact Type: Assignment
@@ -91,12 +92,15 @@ Ivanhoe began as a turn-based textual game, in which students assume the roles o
 
 * Source URL: [http://courses.jamesjbrownjr.net/node/3372](http://courses.jamesjbrownjr.net/node/3372)
 * Creator: James Brown, Jr. (Rutgers Camden)
-* In a class called "Writing and Coding," undergraduate students must design a game that makes a procedural argument about the book *Blown to Bits* (2008). The assignment builds on Ian Bogost's  concept of procedural rhetoric, the implicit or explicit argument a computer model makes about the world. Rather than using words like a book, or images like a film, a game "makes a claim about how something works by modeling its processes" (Bogost 2009). Brown's assignment highlights the way an easy-to-use game design platform (Scratch, in this case) can be used to represent and complicate historical and cultural concepts. Brown has also shared some examples of [student work](http://courses.jamesjbrownjr.net/blowntobitsgames) from this assignment.
+In a class called "Writing and Coding," undergraduate students must design a game that makes a procedural argument about the book *Blown to Bits* (2008). The assignment builds on Ian Bogost's  concept of procedural rhetoric, the implicit or explicit argument a computer model makes about the world. Rather than using words like a book, or images like a film, a game "makes a claim about how something works by modeling its processes" (Bogost 2009). Brown's assignment highlights the way an easy-to-use game design platform (Scratch, in this case) can be used to represent and complicate historical and cultural concepts. Brown has also shared some examples of [student work](http://courses.jamesjbrownjr.net/blowntobitsgames) from this assignment.
 
 ### How to Make Games with Twine
-Easily adapted to a literature classroom.
-http://www.auntiepixelante.com/twine/
-Anna Anthropy
+* Artifact Type: Activity
+![screenshot](images/play-twine.png)
+
+* Source URL: [http://www.auntiepixelante.com/twine/](http://www.auntiepixelante.com/twine/)
+* Creator: Anna Anthropy (Independent Game Designer)
+Anthropy's book *Rise of the Videogame Zinesters* (2012) launched what has come to be known as the "Twine Revolution" (Ellison 2013), in which indie game designers have used the open source platform Twine to create personally expressive and politically powerful hybrids of games and narrative. Twine is increasingly being used as a writing platform in literature classrooms, and this introduction to Twine by Anthropy is a great place for students to begin.
 
 ### Literature and Gaming
 * Artifact Type: Syllabus
@@ -112,7 +116,7 @@ Anna Anthropy
 
 * Source URL: `[http://stephanieboluk.com/teaching/HMS540F13/blog/?page_id=2](http://stephanieboluk.com/teaching/HMS540F13/blog/?page_id=2)
 * Creator: Stephanie Boluk (University of California-Davis)
-* Metagames is a course about games about games. While metafiction is a staple of postmodern literature, it is less common to think about games—and by extension, play—in these terms. Boluk's syllabus provides a theoretical frame for thinking about play in unfamiliar contexts, including the practices and counter-practices of play. A PDF version of [the syllabus](http://stephanieboluk.com/teaching/HMS540F13/docs/HMS540-Metagames_Syllabus.pdf) is also available.
+Metagames is a course about games about games. While metafiction is a staple of postmodern literature, it is less common to think about games—and by extension, play—in these terms. Boluk's syllabus provides a theoretical frame for thinking about play in unfamiliar contexts, including the practices and counter-practices of play. A PDF version of [the syllabus](http://stephanieboluk.com/teaching/HMS540F13/docs/HMS540-Metagames_Syllabus.pdf) is also available.
 
 ## Related Materials
 
@@ -138,6 +142,10 @@ Sheldon, Lee. "Gaming the Classroom Syllabus." Indiana University, Bloomington. 
 
 Abelson, Hal, Ken Ledeen, and Harry Lewis. *Blown to Bits: Your Life, Liberty, and Happiness After the Digital Explosion*. Upper Saddle River, NJ: Addison-Wesley, 2008. Print.
 
+Anthropy, Anna. *Rise of the Videogame Zinesters: How Freaks, Normals, Amateurs, Artists, Dreamers, Dropouts, Queers, Housewives, and People Like You Are Taking Back an Art Form.* New York: Seven Stories Press, 2012. Print.
+
+Anthropy, Anna. "How to Make Games with Twine." auntiepixelante.com. Web. 1 Oct. 2015.
+
 Bogost, Ian. "The Proceduralist Style." Gamasutra. 21 Jan. 2009. Web. 1 Feb. 2009.
 
 Bogost, Ian. *Alien Phenomenology, Or, What It’s Like to Be a Thing.* Minneapolis: University of Minnesota Press, 2012. Print.
@@ -149,6 +157,8 @@ Brown, James, Jr. "Game Design Project." Inter-L&S 102: Writing and Coding. 2012
 Caillois, Roger. *Man, Play, and Games.* Trans. Meyer Barash. New York: The Free Press, 2003. Print.
 
 Drucker, Johanna, Jerome McGann, Bethany Nowviskie, and the Scholars' Lab. *Ivanhoe*. Charlottesville, VA, 2014.
+
+Ellison, Cara. "Anna Anthropy and the Twine Revolution." *The Guardian* 10 Apr. 2013. Web. 11 Oct. 2015.
 
 Gee, James Paul Gee. *What Video Games Have to Teach Us About Learning and Literacy*
 
