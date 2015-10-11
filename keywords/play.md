@@ -46,11 +46,15 @@ This list of differences is incomplete and meant to be merely suggestive. The ar
 
 Ivanhoe began as a turn-based textual game, in which students assume the roles of characters—or possible characters—in a novel or other cultural artifact. Each player makes a "move," describing an action or decision their character makes, and the next player makes a move in response. The original Ivanhoe was Java-based, but that game environment no longer functions. In 2014 the Scholars' Lab at the Uiversity of Virginia released a new version of Ivanhoe as a WordPress theme. One of the unique features of Ivanhoe is that the game doesn't actually require _any_ technology. For an example of digital pedagogy inspiring analog pedagogy, see Jason Jones' low tech adaption in [Teaching Literature with Ivanhoe](http://www.jbj.wordherders.net/2008/06/16/teaching-literature-with-ivanhoe/). Similarly, Chandler Sansing describes using [Ivanhoe](http://texttechnology.mcmaster.ca/pdf/vol12_2_04.pdf) in a middle school classroom.
 
-### How to Not Read a Victorian Novel
-* Screenshot: reflection-handmadeweb.png
-* Source URL: http://diginole.lib.fsu.edu/cgi/viewcontent.cgi?article=1002&context=eng_faculty_publications
-* Creator: Paul Fyfe
-* This open access version of "How to Not Read a Victorian Novel" first appeared in the *Journal of Victorian Culture." In it, Fyfe describes an assignment that can be readily adapted for any public domain text. 
+### Glitching Files for Understanding
+* Artifact Type: Tutorial
+![screenshot](image/play-glitching.png)
+
+* Source URL: [http://blogs.loc.gov/digitalpreservation/2012/11/glitching-files-for-understanding-avoiding-screen-essentialism-in-three-easy-steps/](http://blogs.loc.gov/digitalpreservation/2012/11/glitching-files-for-understanding-avoiding-screen-essentialism-in-three-easy-steps/)
+* Creator: [Trevor Owens](www.trevorowens.org/) (Institute of Museum and Library Services)
+
+Written while Owens was a digital archivist at the Library of Congress, this tutorial introduces the idea of glitching—intentionally corrupting a digital artifact—as a kind of playful deformance. Such intrusive digital interventions can serve a forensics purpose by exposing underlying metadata, but they can also defamiliarize the digital media in question. Owens walks through the glitching of music and image files. This process could be easily expanded to include other media types, including audiobooks, PDFs, and EPUBs, all very much of interest in a literature classroom.
+
 
 ### Teaching with Makey Makeys
 * Artifact Type: Classroom Activity
@@ -100,7 +104,7 @@ DS106 is the longstanding online version of Digital Storytelling 106, an immense
 In a class called "Writing and Coding," undergraduate students must design a game that makes a procedural argument about the book *Blown to Bits* (2008). The assignment builds on Ian Bogost's  concept of procedural rhetoric, the implicit or explicit argument a computer model makes about the world. Rather than using words like a book, or images like a film, a game "makes a claim about how something works by modeling its processes" (Bogost 2009). Brown's assignment highlights the way an easy-to-use game design platform (Scratch, in this case) can be used to represent and complicate historical and cultural concepts. Brown has also shared some examples of [student work](http://courses.jamesjbrownjr.net/blowntobitsgames) from this assignment.
 
 ### How to Make Games with Twine
-* Artifact Type: Activity
+* Artifact Type: Tutorial
 ![screenshot](images/play-twine.png)
 
 * Source URL: [http://www.auntiepixelante.com/twine/](http://www.auntiepixelante.com/twine/)
@@ -131,6 +135,8 @@ Metagames is a course about games about games. While metafiction is a staple of 
 Davies, Russell. “Playful.” http://russelldavies.typepad.com/planning/2009/11/playful.html. 9 Nov. 2009. Web. 5 May 2010.
 
 Flanagan, Mary. *Critical Play: Radical Game Design.* Cambridge, Mass: MIT Press, 2009. Print.
+
+PBS Digital Studios. *The Art of Glitch.* 2012. Film. Off Book. https://youtu.be/gr0yiOyvas4.
 
 Phillips, Amanda. "Thoughts on Teaching Literature and Gaming." HASTAC. 20 Oct. 2010. Web. 1 Oct. 2015. [https://www.hastac.org/blogs/amanda-phillips/2010/10/20/thoughts-teaching-literature-and-gaming](https://www.hastac.org/blogs/amanda-phillips/2010/10/20/thoughts-teaching-literature-and-gaming).
 
@@ -164,6 +170,8 @@ Brown, James, Jr. "Game Design Project." Inter-L&S 102: Writing and Coding. 2012
 
 Caillois, Roger. *Man, Play, and Games.* Trans. Meyer Barash. New York: The Free Press, 2003. Print.
 
+Csikszentmihalyi, Mihaly. Flow. Harper Collins, 2009. Print.
+
 Drucker, Johanna, Jerome McGann, Bethany Nowviskie, and the Scholars' Lab. *Ivanhoe*. Charlottesville, VA, 2014.
 
 Ellison, Cara. "Anna Anthropy and the Twine Revolution." *The Guardian* 10 Apr. 2013. Web. 11 Oct. 2015.
@@ -172,7 +180,7 @@ Gee, James Paul Gee. *What Video Games Have to Teach Us About Learning and Liter
 
 Huizinga, Johan. *Homo Ludens: A Study of the Play-Element in Culture.* London: Routledge and Kegan Paul, 1949. Print.
 
-Csikszentmihalyi, Mihaly. Flow. Harper Collins, 2009. Print.
+Owens, Trevor. "Glitching Files for Understanding: Avoiding Screen Essentialism in Three Easy Steps." The Signal. 5 Nov. 2012. Web. 11 Oct. 2015.
 
 Pope, Rob. *Textual Intervention: Critical and Creative Strategies for Literary Studies.*
 
