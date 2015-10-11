@@ -53,6 +53,7 @@ Ivanhoe began as a turn-based textual game, in which students assume the roles o
 * This open access version of "How to Not Read a Victorian Novel" first appeared in the *Journal of Victorian Culture." In it, Fyfe describes an assignment that can be readily adapted for any public domain text. 
 
 ### Teaching with Makey Makeys
+* Artifact Type: Classroom Activity
 ![screenshot](images/play-makeymakey.jpg) 
 (image courtesy of Flickr user [Pete Prodoehl](https://www.flickr.com/photos/raster/8605560001/in/photolist-e7rKba-e7xosf-e7rGha-e7xjyU-dcthwC-dQ6xWj-dmFMNQ-dQ6CCj-ny4kr7-d25er3-dQ13n6-dsFbNo-dsFbP3-dsFb9N-dsFb5j-dsF2vB-dsfkXn-dsFcY3-dsFcWy-dsFcVo-dsF3Ug-dsF3Te-dsF3RV-dsFcR1-dsFcPQ-dsF3Nr-dsF3Mn-dsFcKN-dsFcJL-dsFcHb-dsF3FZ-dsFcEC-dsFcD1-dsF3Bp-dsFcA3-dsF3yV-dsF3xB-dsF3vZ-dsF3v6-dsFcuo-dsFcsY-dsF3rg-dsF3pP-dsF3oz-dsF3mK-dsF3ki-dsF3je-dsFcjb-dsFchL-dsFcgy)
 
@@ -61,6 +62,7 @@ Ivanhoe began as a turn-based textual game, in which students assume the roles o
 * A Makey Makey is an inexpensive microcontroller that replaces typical computer inputs (mouse, arrows, keyboard controls) with any object that conducts electricity. YouTube abounds with videos of bananas turned into electronic piano keys, but such experiments only scratch the surface of Makey Makeys. For instance, Makey Makeys can be used to dramatize Donna Haraway's still-important "Cyborg Manifesto" or to create alternative reading interfaces for poetry. In this review Chad Sansing explains why teachers might want to teach literature and the arts using Makey Makeys. Though framed for middle school students, the playful pedagogy highlighted here transfers well to higher education.
 
 ### How to make a Twitter Bot with Google Spreadsheets
+* Artifact Type: Classroom Activity
 ![screenshot](images/play-twitterbot.png)
 
 * Source URL: [http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04)
@@ -68,6 +70,7 @@ Ivanhoe began as a turn-based textual game, in which students assume the roles o
 * Twitter bots are small autonomous programs that algorithmically generate tweets. Bots are most often associated with spam and online marketing, but they can also be creative endeavors that help us to understand texts, authorship, and originality more deeply. Zach Whalen provides a classroom-ready way for students to create bots, using only Google Spreadsheets. This method is not an introduction to programming so much as an introduction to playful thinking with words.
 
 ### Hack for Humanities THATCamp Hackathon
+* Artifact Type: Collaborative Project
 ![screenshot](images/play-hackforhumanities.png)
 
 * Source URL: [https://docs.google.com/presentation/d/15t6hjDLGZR_slg-6ztVqDF21buk_1eeUmfqnBTph5VY/pub?start=true&loop=false&delayms=5000#slide=id.p6](https://docs.google.com/presentation/d/15t6hjDLGZR_slg-6ztVqDF21buk_1eeUmfqnBTph5VY/pub?start=true&loop=false&delayms=5000#slide=id.p6)
@@ -75,6 +78,7 @@ Ivanhoe began as a turn-based textual game, in which students assume the roles o
 * Hackathons are discrete crystallizations of maker culture, and they have become quite common in community makerspaces, coding camps, and so on. The idea is simple: a disparate group of people with varying skills assemble and in the space of a day or weekend, come up with a "hack"—a hastily assembled yet elegant solution to a problem, and not necessarily a digital problem. Liss LaFleur's presentation and guidelines for a "Hack for Humanities" at a THATCamp is both an excellent introduction to the idea of a hackathan and a set of concrete instructions for a specific hackathon theme.
 
 ### DS106 Assignment Bank
+* Artifact Type: Assignment
 ![screenshot](images/play-ds106.png)
 
 * Source URL: [http://assignments.ds106.us/](http://assignments.ds106.us/)
@@ -82,6 +86,7 @@ Ivanhoe began as a turn-based textual game, in which students assume the roles o
 * DS106 is the longstanding online version of Digital Storytelling 106, an immensely popular online companion to a digital storytelling course at the University of Mary Washington. The DS106 assignment bank is a ready-to-use collection of hundreds of playful assignments that focus on digital fluency and creativity. Assignment types include video mashups, remixes, photo collages, soundscapes, animated GIFs, and much more. The DS106 Assignment Bank should be the first place to look for innovative new media assignments, as well as illustrative examples of completed student work. 
 
 ### Game Design Project
+* Artifact Type: Assignment
 ![screenshot](images/play-gamedesign.png)
 
 * Source URL: [http://courses.jamesjbrownjr.net/node/3372](http://courses.jamesjbrownjr.net/node/3372)
@@ -94,11 +99,20 @@ http://www.auntiepixelante.com/twine/
 Anna Anthropy
 
 ### Literature and Gaming
+* Artifact Type: Syllabus
 ![screenshot](images/play-literatureandgames.png)
 
 * Source URL: [http://engl165lg.wordpress.com/](http://engl165lg.wordpress.com/)
-* Amanda Phillips (University of California-Davis)
+* Creator: Amanda Phillips (University of California-Davis)
 * Literature and Gaming is an undergraduate course at UC-Davis taught by Dr. Amanda Phillips. This syllabus makes connections between print-based narratives and video game-based narratives, explicitly questioning assumptions about the differences between the two. In particular, the students explore the five categories of play, narrative, space, time, and avatar across both media. 
+
+### Metagames
+* Artifact Type: Syllabus
+![screenshot](images/play-metagames.png)
+
+* Source URL: `[http://stephanieboluk.com/teaching/HMS540F13/blog/?page_id=2](http://stephanieboluk.com/teaching/HMS540F13/blog/?page_id=2)
+* Creator: Stephanie Boluk (University of California-Davis)
+* Metagames is a course about games about games. While metafiction is a staple of postmodern literature, it is less common to think about games—and by extension, play—in these terms. Boluk's syllabus provides a theoretical frame for thinking about play in unfamiliar contexts, including the practices and counter-practices of play. A PDF version of [the syllabus](http://stephanieboluk.com/teaching/HMS540F13/docs/HMS540-Metagames_Syllabus.pdf) is also available.
 
 ## Related Materials
 
@@ -127,6 +141,8 @@ Abelson, Hal, Ken Ledeen, and Harry Lewis. *Blown to Bits: Your Life, Liberty, a
 Bogost, Ian. "The Proceduralist Style." Gamasutra. 21 Jan. 2009. Web. 1 Feb. 2009.
 
 Bogost, Ian. *Alien Phenomenology, Or, What It’s Like to Be a Thing.* Minneapolis: University of Minnesota Press, 2012. Print.
+
+Boluk, Stephanie. "Metagames: Games about Games and the Practice of Play." HMS 540, Pratt Institute. 2013. Web.
 
 Brown, James, Jr. "Game Design Project." Inter-L&S 102: Writing and Coding. 2012. Web.
 
