@@ -37,14 +37,17 @@ This list of differences is incomplete and meant to be merely suggestive. The ar
 
 
 ## CURATED ARTIFACTS
-### Ivanhoe
-* Artifact Type: Classroom Game
-![screenshot](images/play-ivanhoe.png)
 
-* Source URL: [http://ivanhoe.scholarslab.org/index.html](http://ivanhoe.scholarslab.org/index.html)
-* Creators: Johanna Drucker, Jerome McGann, Bethany Nowviskie, and the Scholars' Lab (University of Virginia)
+## Interventions
 
-Ivanhoe began as a turn-based textual game, in which students assume the roles of characters—or possible characters—in a novel or other cultural artifact. Each player makes a "move," describing an action or decision their character makes, and the next player makes a move in response. The original Ivanhoe was Java-based, but that game environment no longer functions. In 2014 the Scholars' Lab at the Uiversity of Virginia released a new version of Ivanhoe as a WordPress theme. One of the unique features of Ivanhoe is that the game doesn't actually require _any_ technology. For an example of digital pedagogy inspiring analog pedagogy, see Jason Jones' low tech adaption in [Teaching Literature with Ivanhoe](http://www.jbj.wordherders.net/2008/06/16/teaching-literature-with-ivanhoe/). Similarly, Chandler Sansing describes using [Ivanhoe](http://texttechnology.mcmaster.ca/pdf/vol12_2_04.pdf) in a middle school classroom.
+### DS106 Assignment Bank
+* Artifact Type: Assignment
+![screenshot](images/play-ds106.png)
+
+* Source URL: [http://assignments.ds106.us/](http://assignments.ds106.us/)
+* Creator: Jim Groom, Adam Levine, and others (University of Mary Washington)
+
+DS106 is the longstanding online version of Digital Storytelling 106, an immensely popular online companion to a digital storytelling course at the University of Mary Washington. The DS106 assignment bank is a ready-to-use collection of hundreds of playful assignments that focus on digital fluency and creativity. Assignment types include video mashups, remixes, photo collages, soundscapes, animated GIFs, and much more. The DS106 Assignment Bank should be the first place to look for innovative new media assignments, as well as illustrative examples of completed student work. 
 
 ### Glitching Files for Understanding
 * Artifact Type: Tutorial
@@ -54,6 +57,35 @@ Ivanhoe began as a turn-based textual game, in which students assume the roles o
 * Creator: [Trevor Owens](www.trevorowens.org/) (Institute of Museum and Library Services)
 
 Written while Owens was a digital archivist at the Library of Congress, this tutorial introduces the idea of glitching—intentionally corrupting a digital artifact—as a kind of playful deformance. Such intrusive digital interventions can serve a forensics purpose by exposing underlying metadata, but they can also defamiliarize the digital media in question. Owens walks through the glitching of music and image files. This process could be easily expanded to include other media types, including audiobooks, PDFs, and EPUBs, all very much of interest in a literature classroom.
+
+### Ivanhoe
+* Artifact Type: Classroom Game
+![screenshot](images/play-ivanhoe.png)
+
+* Source URL: [http://ivanhoe.scholarslab.org/index.html](http://ivanhoe.scholarslab.org/index.html)
+* Creators: Johanna Drucker, Jerome McGann, Bethany Nowviskie, and the Scholars' Lab (University of Virginia)
+
+Ivanhoe began as a turn-based textual game, in which students assume the roles of characters—or possible characters—in a novel or other cultural artifact. Each player makes a "move," describing an action or decision their character makes, and the next player makes a move in response. The original Ivanhoe was Java-based, but that game environment no longer functions. In 2014 the Scholars' Lab at the Uiversity of Virginia released a new version of Ivanhoe as a WordPress theme. One of the unique features of Ivanhoe is that the game doesn't actually require _any_ technology. For an example of digital pedagogy inspiring analog pedagogy, see Jason Jones' low tech adaption in [Teaching Literature with Ivanhoe](http://www.jbj.wordherders.net/2008/06/16/teaching-literature-with-ivanhoe/). Similarly, Chandler Sansing describes using [Ivanhoe](http://texttechnology.mcmaster.ca/pdf/vol12_2_04.pdf) in a middle school classroom.
+
+## Crafting
+
+### Hack for Humanities THATCamp Hackathon
+* Artifact Type: Collaborative Project
+![screenshot](images/play-hackforhumanities.png)
+
+* Source URL: [https://docs.google.com/presentation/d/15t6hjDLGZR_slg-6ztVqDF21buk_1eeUmfqnBTph5VY/pub?start=true&loop=false&delayms=5000#slide=id.p6](https://docs.google.com/presentation/d/15t6hjDLGZR_slg-6ztVqDF21buk_1eeUmfqnBTph5VY/pub?start=true&loop=false&delayms=5000#slide=id.p6)
+* Creator: Liss LaFleur (University of North Texas)
+
+Hackathons are discrete crystallizations of maker culture, and they have become quite common in community makerspaces, coding camps, and so on. The idea is simple: a disparate group of people with varying skills assemble and in the space of a day or weekend, come up with a "hack"—a hastily assembled yet elegant solution to a problem, and not necessarily a digital problem. Liss LaFleur's presentation and guidelines for a "Hack for Humanities" at a THATCamp is both an excellent introduction to the idea of a hackathan and a set of concrete instructions for a specific hackathon theme.
+
+### How to make a Twitter Bot with Google Spreadsheets
+* Artifact Type: Classroom Activity
+![screenshot](images/play-twitterbot.png)
+
+* Source URL: [http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04)
+* Creator: Zach Whalen (University of Mary Washington) 
+
+Twitter bots are small autonomous programs that algorithmically generate tweets. Bots are most often associated with spam and online marketing, but they can also be creative endeavors that help us to understand texts, authorship, and originality more deeply. Zach Whalen provides a classroom-ready way for students to create bots, using only Google Spreadsheets. This method is not an introduction to programming so much as an introduction to playful thinking with words.
 
 
 ### Teaching with Makey Makeys
@@ -67,32 +99,7 @@ Written while Owens was a digital archivist at the Library of Congress, this tut
 
 A Makey Makey is an inexpensive microcontroller that replaces typical computer inputs (mouse, arrows, keyboard controls) with any object that conducts electricity. YouTube abounds with videos of bananas turned into electronic piano keys, but such experiments only scratch the surface of Makey Makeys. For instance, Makey Makeys can be used to dramatize Donna Haraway's still-important "Cyborg Manifesto" or to create alternative reading interfaces for poetry. In this review Chad Sansing explains why teachers might want to teach literature and the arts using Makey Makeys. Though framed for middle school students, the playful pedagogy highlighted here transfers well to higher education.
 
-### How to make a Twitter Bot with Google Spreadsheets
-* Artifact Type: Classroom Activity
-![screenshot](images/play-twitterbot.png)
-
-* Source URL: [http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04)
-* Creator: Zach Whalen (University of Mary Washington) 
-
-Twitter bots are small autonomous programs that algorithmically generate tweets. Bots are most often associated with spam and online marketing, but they can also be creative endeavors that help us to understand texts, authorship, and originality more deeply. Zach Whalen provides a classroom-ready way for students to create bots, using only Google Spreadsheets. This method is not an introduction to programming so much as an introduction to playful thinking with words.
-
-### Hack for Humanities THATCamp Hackathon
-* Artifact Type: Collaborative Project
-![screenshot](images/play-hackforhumanities.png)
-
-* Source URL: [https://docs.google.com/presentation/d/15t6hjDLGZR_slg-6ztVqDF21buk_1eeUmfqnBTph5VY/pub?start=true&loop=false&delayms=5000#slide=id.p6](https://docs.google.com/presentation/d/15t6hjDLGZR_slg-6ztVqDF21buk_1eeUmfqnBTph5VY/pub?start=true&loop=false&delayms=5000#slide=id.p6)
-* Creator: Liss LaFleur (University of North Texas)
-
-Hackathons are discrete crystallizations of maker culture, and they have become quite common in community makerspaces, coding camps, and so on. The idea is simple: a disparate group of people with varying skills assemble and in the space of a day or weekend, come up with a "hack"—a hastily assembled yet elegant solution to a problem, and not necessarily a digital problem. Liss LaFleur's presentation and guidelines for a "Hack for Humanities" at a THATCamp is both an excellent introduction to the idea of a hackathan and a set of concrete instructions for a specific hackathon theme.
-
-### DS106 Assignment Bank
-* Artifact Type: Assignment
-![screenshot](images/play-ds106.png)
-
-* Source URL: [http://assignments.ds106.us/](http://assignments.ds106.us/)
-* Creator: Jim Groom, Adam Levine, and others (University of Mary Washington)
-
-DS106 is the longstanding online version of Digital Storytelling 106, an immensely popular online companion to a digital storytelling course at the University of Mary Washington. The DS106 assignment bank is a ready-to-use collection of hundreds of playful assignments that focus on digital fluency and creativity. Assignment types include video mashups, remixes, photo collages, soundscapes, animated GIFs, and much more. The DS106 Assignment Bank should be the first place to look for innovative new media assignments, as well as illustrative examples of completed student work. 
+## Gaming
 
 ### Game Design Project
 * Artifact Type: Assignment
