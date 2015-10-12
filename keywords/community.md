@@ -16,7 +16,7 @@ Assistant Professor and Director of Communication Across the Curriculum, Monmout
  
 ## CURATORIAL STATEMENT (roughly 750-800 words, MLA Format)
 
-Community is a term that has suffered from its own niceness. In Keywords for American Cultural Studies, Miranda Joseph points out the problems with a term like “community”--a term that is too easily used without critical consideration. She frames the term at best as “nearly meaningless” in its overuse and at worst as a tool of manipulative persuasion in its empty signification of “a sense of belonging, understanding, caring, cooperation, equality.” 
+Community is a term that has suffered from its own niceness. In *Keywords for American Cultural Studies*, Miranda Joseph points out the problems with a term like “community”--a term that is too easily used without critical consideration. She frames the term at best as “nearly meaningless” in its overuse and at worst as a tool of manipulative persuasion in its empty signification of “a sense of belonging, understanding, caring, cooperation, equality.” 
  
 When I introduce my undergraduate students to work like Joseph’s, they retaliate. They love to question and interrogate social norms and assumptions, but they are deeply uncomfortable with pushing back on the inherent goodness of concepts like community. And part of me can’t help but admire their well-articulated resistance, their commitment to identifying shared investment with those around them. While there is value in critical questions like Joseph’s, there is also something worth celebrating in the reverence that “community” inspires. 
 
