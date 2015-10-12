@@ -1,5 +1,20 @@
-Curator’s Statement
+# Community (Draft)
 
+## Bridget Draxler
+TILE, INSTITUTION | YOUR PORTFOLIO URL
+
+---
+
+##### Publication Status:
+
+* **unreviewed draft**
+* draft version undergoing editorial review
+* draft version undergoing peer-to-peer review
+* published
+
+--- 
+ 
+## CURATORIAL STATEMENT (roughly 750-800 words, MLA Format)
 
 Community is a term that has suffered from its own niceness. In Keywords for American Cultural Studies, Miranda Joseph points out the problems with a term like “community”--a term that is too easily used without critical consideration. She frames the term at best as “nearly meaningless” in its overuse and at worst as a tool of manipulative persuasion in its empty signification of “a sense of belonging, understanding, caring, cooperation, equality.” 
  
@@ -23,47 +38,23 @@ The artifacts below highlight this link between digital humanities and civic eng
 
 For the twenty-first-century humanist, the community is not our audience but our collaborator. If it is the role of the humanist to interrogate a term like community, it is also our deeper calling to fortify concepts like community that point to our shared humanity. The stories we tell and the questions we ask as humanists, especially digital humanists, can help us to find new reasons and ways to invest in our communities. 
 
+## CURATED ARTIFACTS
 
+### 18th Connect
+![screenshot](images/community-18th-Connect.png)
 
+* Soure URL: http://www.18thconnect.org/
+* Type: crowdsourced database
+* Creator: Laura Mandell (Texas A&M)
+* 18th Connect is a database of eighteenth-century texts driven by values of sharing and service. Along with features typical of online communities (discussions, groups) and scholarly communities (peer review, searchable archives), it offers scholars an opportunity to receive plain and TEI-encoded copies of texts from ProQuest and Gale in exchange for correcting any OCR errors in these texts. In addition to widening the circle of scholars and readers who have access to eighteenth-century texts, 18th Connect is also opening new opportunities for students to work with archival sources and create digital publications. For instance, Danielle Spratt’s graduate students at California State University - Northridge created a digital scholarly edition of Sarah Fielding’s The Countess of Dellwyn http://thecountessofdellwyn.weebly.com/, which simultaneously invited students to engage in collaborative research within the classroom community and to contribute to scholarly work within the online community. The collaboratively annotated text is accessible for undergraduate students to read, or could provide a model for students to create their own digital scholarly editions of texts. 
 
+### Grinnell Beowulf
+![screenshot](images/community-grinnell-beowulf.png)
 
-
-
-
-
-
-
-
-________________
-
-
-Curated Artifacts
-
-
-18th Connect
- 18th Connect.png 
-
-Artifact type: crowdsourced database
-URL: http://www.18thconnect.org/
-Permissions:
-Creator/Affiliation: Laura Mandell (director), Texas A&M
-Annotation:
-18th Connect is a database of eighteenth-century texts driven by values of sharing and service. Along with features typical of online communities (discussions, groups) and scholarly communities (peer review, searchable archives), it offers scholars an opportunity to receive plain and TEI-encoded copies of texts from ProQuest and Gale in exchange for correcting any OCR errors in these texts. In addition to widening the circle of scholars and readers who have access to eighteenth-century texts, 18th Connect is also opening new opportunities for students to work with archival sources and create digital publications. For instance, Danielle Spratt’s graduate students at California State University - Northridge created a digital scholarly edition of Sarah Fielding’s The Countess of Dellwyn http://thecountessofdellwyn.weebly.com/, which simultaneously invited students to engage in collaborative research within the classroom community and to contribute to scholarly work within the online community. The collaboratively annotated text is accessible for undergraduate students to read, or could provide a model for students to create their own digital scholarly editions of texts. 
-
-
-
-
-________________
-
-
-Grinnell Beowulf
- Screen Shot 2015-07-29 at 11.00.16 AM.png 
-
-Artifact type: student project
-URL: https://digital.grinnell.edu/islandora/object/grinnell:3615
-Permissions:
-Creator/Affiliation: Grinnell College Assistant Professor of English Tim Arner, and students Eva Dawson ’14, Emily Johnson ’14, Jeanette Miller ’14, Logan Shearer ’14, Aniela Wendt ’14, and Kate Whitman ’14 
-Annotation: Engaging students in the task of translating and annotating Beowulf for modern readers, Tim Arner (Grinnell College) created a for-students, by-students teaching edition of the early English text. The digital text offers an example of how public digital humanities projects can reframe students as teachers, democratizing not only access to but production of knowledge online. With even more multimedia elements, Digital Dubliners http://digitaldubliners.com/ (developed by students at Boston College) offers another example of students creating texts for other students--in this case, emphasizing the cultural context of Joyce’s Dublin. In this way, students develop a sense of community not only with their co-editors but also with imagined, future peer readers of these texts. 
+* Soure URL: https://digital.grinnell.edu/islandora/object/grinnell:3615
+* Type: student project
+* Creator: Grinnell College Assistant Professor of English Tim Arner, and students Eva Dawson ’14, Emily Johnson ’14, Jeanette Miller ’14, Logan Shearer ’14, Aniela Wendt ’14, and Kate Whitman ’14 
+* Engaging students in the task of translating and annotating Beowulf for modern readers, Tim Arner (Grinnell College) created a for-students, by-students teaching edition of the early English text. The digital text offers an example of how public digital humanities projects can reframe students as teachers, democratizing not only access to but production of knowledge online. With even more multimedia elements, Digital Dubliners http://digitaldubliners.com/ (developed by students at Boston College) offers another example of students creating texts for other students--in this case, emphasizing the cultural context of Joyce’s Dublin. In this way, students develop a sense of community not only with their co-editors but also with imagined, future peer readers of these texts. 
 
 
 
