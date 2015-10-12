@@ -17,9 +17,9 @@
 
 ##### **Publication Status:**
 
-* **unreviewed draft**
+* unreviewed draft
 
-* draft version undergoing editorial review
+* **draft version undergoing editorial review**
 
 * draft version undergoing peer-to-peer review
 
