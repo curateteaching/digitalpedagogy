@@ -7,8 +7,8 @@ Assistant Professor and Director of Communication Across the Curriculum, Monmout
 
 ##### Publication Status:
 
-* **unreviewed draft**
-* draft version undergoing editorial review
+* unreviewed draft
+* **draft version undergoing editorial review**
 * draft version undergoing peer-to-peer review
 * published
 
