@@ -1,7 +1,7 @@
 # Community (Draft)
 
 ## Bridget Draxler
-TILE, INSTITUTION | YOUR PORTFOLIO URL
+Assistant Professor and Director of Communication Across the Curriculum, Monmouth University | http://www.monmouthcollege.edu/academics/faculty.aspx?id=0768977
 
 ---
 
@@ -43,7 +43,7 @@ For the twenty-first-century humanist, the community is not our audience but our
 ### 18th Connect
 ![screenshot](images/community-18th-Connect.png)
 
-* Soure URL: http://www.18thconnect.org/
+* Source URL: http://www.18thconnect.org/
 * Type: crowdsourced database
 * Creator: Laura Mandell (Texas A&M)
 
@@ -52,166 +52,82 @@ For the twenty-first-century humanist, the community is not our audience but our
 ### Grinnell Beowulf
 ![screenshot](images/community-grinnell-beowulf.png)
 
-* Soure URL: https://digital.grinnell.edu/islandora/object/grinnell:3615
+* Source URL: https://digital.grinnell.edu/islandora/object/grinnell:3615
 * Type: student project
 * Creator: Grinnell College Assistant Professor of English Tim Arner, and students Eva Dawson ’14, Emily Johnson ’14, Jeanette Miller ’14, Logan Shearer ’14, Aniela Wendt ’14, and Kate Whitman ’14 
 
 Engaging students in the task of translating and annotating Beowulf for modern readers, Tim Arner (Grinnell College) created a for-students, by-students teaching edition of the early English text. The digital text offers an example of how public digital humanities projects can reframe students as teachers, democratizing not only access to but production of knowledge online. With even more multimedia elements, Digital Dubliners http://digitaldubliners.com/ (developed by students at Boston College) offers another example of students creating texts for other students--in this case, emphasizing the cultural context of Joyce’s Dublin. In this way, students develop a sense of community not only with their co-editors but also with imagined, future peer readers of these texts. 
 
+### The Digital Studio for the Public Arts & Humanities
+ ![screenshot](images/community-The-Studio.png) 
 
+* Type: digital humanities center
+* Source URL: http://thestudio.uiowa.edu/_wp/
+* Creator: The University of Iowa
 
+The Digital Studio for the Public Arts & Humanities is unique among digital humanities centers, by explicitly focusing on the intersection between digital humanities and civic engagement. The Studio has supported the development of several pedagogy-focused public digital humanities projects and events, including the City of Lit mobile app and the Rewiring the Classroom conference (http://thestudio.uiowa.edu/_wp/projects/). See especially the Passport Project http://thestudio.uiowa.edu/passport/, an innovative first-year course that asks students to blog about community events representing the arts, humanities, sciences, along with political events and performances in dance, theater, and music. Peer Mentors, recent graduates of the program, lead small group discussions. The course could be easily adapted to a variety of technological platforms and communities, and encourages students to identify, early on, not only as members of the campus community but also the broader local community. 
 
-________________
+### eCollaboration Worksheet 
+![screenshot](images/community-eCollaboration-Worksheet.png) 
 
+* Type: group assignment
+* Source URL: https://docs.google.com/document/d/1J59ki10mKW4eLZoGpvrTbzkEnm0WPo236NdHap3rANk/edit
+* Creator: Ned Kock, Texas A&M (author)
 
-The Digital Studio for the Public Arts & Humanities
- The Studio.png 
+This helpful worksheet, developed by Ned Kock, helps students to make thoughtful decisions when beginning collaborative, digital projects. By asking our students to be intentional in these decisions, we help them to move beyond default uses of technology and default roles in a group project. Asking students to develop and sign group contracts or create a formal proposal justifying their choice of digital tools can also help teams to develop a sense of community and trust with one another. 
 
-Artifact type: digital humanities center
-URL: http://thestudio.uiowa.edu/_wp/
-Permissions:
-Creator/Affiliation: The University of Iowa
-Annotation: The Digital Studio for the Public Arts & Humanities is unique among digital humanities centers, by explicitly focusing on the intersection between digital humanities and civic engagement. The Studio has supported the development of several pedagogy-focused public digital humanities projects and events, including the City of Lit mobile app and the Rewiring the Classroom conference (http://thestudio.uiowa.edu/_wp/projects/). See especially the Passport Project http://thestudio.uiowa.edu/passport/, an innovative first-year course that asks students to blog about community events representing the arts, humanities, sciences, along with political events and performances in dance, theater, and music. Peer Mentors, recent graduates of the program, lead small group discussions. The course could be easily adapted to a variety of technological platforms and communities, and encourages students to identify, early on, not only as members of the campus community but also the broader local community. 
+### Hacking the Academy
+ ![screenshot](images/community-Hacking-the-Academy.png) 
 
+* Type: book
+* Source URL: http://hackingtheacademy.org/ 
+* Creator: Daniel J. Cohen and Tom Scheinfeldt (editors), University of Michigan Press
 
+A book that was crowdsourced in the course of one week, Hacking the Academy is itself an innovative example of authoring in community. In addition, it offers resources and advice on digital pedagogy that, while beneficial for teachers, can be even more valuable when shared and discussed with students in a classroom community. In particular, I recommend Gideon Burton’s provocative “Dear Students,” which argues that the identities and communities we create online, rather than the classroom, are what matter most to students’ lives.  
 
+### HASTAC
+ ![screenshot](images/community-HASTAC.png) 
 
-________________
+* Type: online community
+* Source URL: http://www.hastac.org/
+* Creator: Cathy Davidson and David Theo Goldberg (co-founders), Duke University and CUNY
 
-
-eCollaboration Worksheet 
- eCollaboration Worksheet.png 
-
-Artifact type: group assignment
-URL: https://docs.google.com/document/d/1J59ki10mKW4eLZoGpvrTbzkEnm0WPo236NdHap3rANk/edit
-Permissions:
-Creator/Affiliation: Ned Kock, Texas A&M (author)
-Annotation: This helpful worksheet, developed by Ned Kock, helps students to make thoughtful decisions when beginning collaborative, digital projects. By asking our students to be intentional in these decisions, we help them to move beyond default uses of technology and default roles in a group project. Asking students to develop and sign group contracts or create a formal proposal justifying their choice of digital tools can also help teams to develop a sense of community and trust with one another. 
-
-
-
-
-________________
-
-
-Hacking the Academy
- Hacking the Academy.png 
-
-Artifact type: book
-URL: http://hackingtheacademy.org/ 
-Permissions:
-Creator/Affiliation: Daniel J. Cohen and Tom Scheinfeldt (editors), University of Michigan Press
-Annotation: A book that was crowdsourced in the course of one week, Hacking the Academy is itself an innovative example of authoring in community. In addition, it offers resources and advice on digital pedagogy that, while beneficial for teachers, can be even more valuable when shared and discussed with students in a classroom community. In particular, I recommend Gideon Burton’s provocative “Dear Students,” which argues that the identities and communities we create online, rather than the classroom, are what matter most to students’ lives.  
-
-
-
-
-________________
-
-
-HASTAC
- HASTAC.png 
-
-Artifact type: online community
-URL: http://www.hastac.org/
-Permissions:
-Creator/Affiliation: Cathy Davidson and David Theo Goldberg (co-founders), Duke University and CUNY
-Annotation: HASTAC is an example of an online community it its best form, with a diverse and active readership. It has hosted some of the most exciting recent conversations about collaborations between educational institutions and GLAMs (galleries, libraries, archives and museums), partnerships that highlight the potential for reciprocity and student engagement in community-based digital humanities research and teaching. For more information on student involvement on HASTAC, see especially the HASTAC Scholars program, which has increasingly involved undergraduate student participants. 
-
+HASTAC is an example of an online community it its best form, with a diverse and active readership. It has hosted some of the most exciting recent conversations about collaborations between educational institutions and GLAMs (galleries, libraries, archives and museums), partnerships that highlight the potential for reciprocity and student engagement in community-based digital humanities research and teaching. For more information on student involvement on HASTAC, see especially the HASTAC Scholars program, which has increasingly involved undergraduate student participants. 
 
 NITLE (http://www.nitle.org/), which hosts Academic Commons (http://www.academiccommons.org/), is another online community with a deep interest in the intersection of the digital humanities, pedagogy, and civic engagement, with particular focus on liberal arts education. 
 
+### Intro to Public Arts & Humanities
+ ![screenshot](images/community-intro-public-arts-humanities.png) 
 
+* Type: syllabus/lesson plans
+* Source URL: 
+* Creator: Beth Goodhue, UCLA
 
+In Beth Goodhue’s Intro to Public Arts & Humanities course, undergraduate students spend a week discussing the intersection of community engagement and digital humanities. Students begin by reading Jeffrey Schnapp’s “A Short Guide to Digital Humanities” (https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf),  emphasizing passages about how digital humanities redefines community and fosters a notion of “citizen scholars,” building on earlier readings like Gregory Jay’s “The Engaged Humanities: Principles and Practices for Public Scholarship and Teaching” (http://jces.ua.edu/the-engaged-humanities-principles-and-practices-for-public-scholarship-and-teaching/). Goodhue also introduces students to a carefully curated list of scholarly projects that foreground the intersection of digital humanities and public humanities. The worksheet attached here, an adaptation of Brian Croxall’s project evaluation assignment (http://www.briancroxall.net/dh/assignments/digital-humanities-project-evaluation/), guides small and large group discussion. 
 
+### Mapping the Republic of Letters
+![screenshot](images/community-Mapping-the-Republic-of-Letters.png) 
 
+* Type: digital project/tool
+* Source URL: http://republicofletters.stanford.edu/ 
+* Creator: Humanities+Design at CESTA, Stanford University
 
-________________
-
-
-Intro to Public Arts & Humanities
- Screen Shot 2015-07-30 at 7.00.17 AM.png 
-
-Artifact type: syllabus/lesson plans
-URL: 
-
-
-Permissions:
-Creator/Affiliation: Beth Goodhue, UCLA
-Annotation: In Beth Goodhue’s Intro to Public Arts & Humanities course, undergraduate students spend a week discussing the intersection of community engagement and digital humanities. Students begin by reading Jeffrey Schnapp’s “A Short Guide to Digital Humanities” (https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf),  emphasizing passages about how digital humanities redefines community and fosters a notion of “citizen scholars,” building on earlier readings like Gregory Jay’s “The Engaged Humanities: Principles and Practices for Public Scholarship and Teaching” (http://jces.ua.edu/the-engaged-humanities-principles-and-practices-for-public-scholarship-and-teaching/). Goodhue also introduces students to a carefully curated list of scholarly projects that foreground the intersection of digital humanities and public humanities. The worksheet attached here, an adaptation of Brian Croxall’s project evaluation assignment (http://www.briancroxall.net/dh/assignments/digital-humanities-project-evaluation/), guides small and large group discussion. 
-Mapping the Republic of Letters
- Mapping the Republic of Letters.png 
-
-Artifact type: digital project/tool
-URL: http://republicofletters.stanford.edu/ 
-Permissions:
-Creator/Affiliation: Humanities+Design at CESTA, Stanford University
-
-
-Annotation: Digital tools can not only help us engage with our own communities, but also help us to understand historical communities better. One of the best examples of this is Mapping the Republic of Letters, a Stanford project with numerous partners that contextualizes the intellectual network of key early modern thinkers. By identifying moments of exchange and influence, the tool reframes Western thought from a series of important figures to a rich intellectual community. The site includes course descriptions of classes that have used or even contributed to the project (http://republicofletters.stanford.edu/teaching.html). 
-
+Digital tools can not only help us engage with our own communities, but also help us to understand historical communities better. One of the best examples of this is Mapping the Republic of Letters, a Stanford project with numerous partners that contextualizes the intellectual network of key early modern thinkers. By identifying moments of exchange and influence, the tool reframes Western thought from a series of important figures to a rich intellectual community. The site includes course descriptions of classes that have used or even contributed to the project (http://republicofletters.stanford.edu/teaching.html). 
 
 For more examples of public digital humanities research that focuses on historical communities, see The University of Virginia’s The Valley of the Shadow (http://valley.lib.virginia.edu/), a history of two communities during the American Civil War, which includes useful teaching materials (http://www2.vcdh.virginia.edu/teaching/vclassroom/vclasscontents.html), or Locating
 London’s Past (http://www.locatinglondon.org/index.html), a geotagged archive based on John Rocque's 1746 map of London. 
 
+### Our Marathon
+ ![screenshot](images/community-Our-Marathon.png)  
 
+* Type: digital project/tool
+* Source URL: http://marathon.neu.edu/
+* Creator: Elizabeth Maddock Dillon and Ryan Cordell (Primary Investigators), Northeastern University [NOTE: This is a great example of how "project partners" might be more appropriate for these “community” projects than creator/affiliation... see the long list of staff plus the project partners here: http://marathon.neu.edu/about]
 
+Our Marathon is a community-owned project that models the the collaborative and democratic potential of the digital humanities and civic engagement in enriching our communities. Developed in the wake of the Boston Marathon bombings of 2013, Our Marathon invites community contributors to share stories, images, and other media of their experiences. The crowd-sourced storytelling archive is intended explicitly as a tool for community healing, and a means of creating an organic memorial. 
 
+### Related Materials
 
-
-
-
-________________
-
-
-Our Marathon
- Our Marathon.png 
-
-Artifact type: digital project/tool
-URL: http://marathon.neu.edu/
-Permissions:
-Creator/Affiliation: Elizabeth Maddock Dillon and Ryan Cordell (Primary Investigators), Northeastern University [NOTE: This is a great example of how "project partners" might be more appropriate for these “community” projects than creator/affiliation... see the long list of staff plus the project partners here: http://marathon.neu.edu/about]
-
-
-Annotation: Our Marathon is a community-owned project that models the the collaborative and democratic potential of the digital humanities and civic engagement in enriching our communities. Developed in the wake of the Boston Marathon bombings of 2013, Our Marathon invites community contributors to share stories, images, and other media of their experiences. The crowd-sourced storytelling archive is intended explicitly as a tool for community healing, and a means of creating an organic memorial. 
-
-
-
-
-
-
-________________
-
-
-
-
-
-
-Related Materials
-
-
-Works Cited
-
+### Works Cited
 
 Joseph, Miranda. “Community” in Keywords for American Cultural Studies. Ed. Bruce Burgett and Glenn Hendler. 
-
-
-
-
-
-
-
-
-Ideas for alternative artifacts:
-
-
-AnnoTate https://anno.tate.org.uk/?utm_source=Newsletter&utm_medium=Email&utm_campaign=TateLaunch#/ (part of Zooniverse citizen scholarship: https://www.zooniverse.org/?_ga=1.201763090.200005926.1441125093#/) 
-
-
-http://www.adelinekoh.org/blog/2015/07/24/getting-started-in-activist-digital-humanities/
-
-
-http://mit.us1.list-manage1.com/track/click?u=441802f75b344eb94cf268ec5&id=6bdb53acff&e=79cd34a8eb
-
-
-http://chronicle.com/blognetwork/theubiquitouslibrarian/2015/07/12/building-knowledge-together-interactive-course-exhibits-as-project-based-learning/?cid=wc&utm_source=wc&utm_medium=en
