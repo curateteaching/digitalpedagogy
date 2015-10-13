@@ -65,7 +65,7 @@ Written while Owens was a digital archivist at the Library of Congress, this tut
 * Source URL: [http://ivanhoe.scholarslab.org/index.html](http://ivanhoe.scholarslab.org/index.html)
 * Creators: Johanna Drucker, Jerome McGann, Bethany Nowviskie, and the Scholars' Lab (University of Virginia)
 
-Ivanhoe began as a turn-based textual game, in which students assume the roles of characters—or possible characters—in a novel or other cultural artifact. Each player makes a "move," describing an action or decision their character makes, and the next player makes a move in response. The original Ivanhoe was Java-based, but that game environment no longer functions. In 2014 the Scholars' Lab at the Uiversity of Virginia released a new version of Ivanhoe as a WordPress theme. One of the unique features of Ivanhoe is that the game doesn't actually require _any_ technology. For an example of digital pedagogy inspiring analog pedagogy, see Jason Jones' low tech adaption in [Teaching Literature with Ivanhoe](http://www.jbj.wordherders.net/2008/06/16/teaching-literature-with-ivanhoe/). Similarly, Chandler Sansing describes using [Ivanhoe](http://texttechnology.mcmaster.ca/pdf/vol12_2_04.pdf) in a middle school classroom.
+Ivanhoe began as a turn-based game of textual interventions, in which students assume the roles of characters—or possible characters—in a novel or other cultural artifact. Each player makes a "move," describing an action or decision their character makes, and the next player makes a move in response. The original Ivanhoe was Java-based, but that game environment no longer functions. In 2014 the Scholars' Lab at the University of Virginia released a new version of Ivanhoe as a WordPress theme. One of the unique features of Ivanhoe is that the game doesn't actually require _any_ technology. For an example of digital pedagogy inspiring analog pedagogy, see Jason Jones' low tech adaption in [Teaching Literature with Ivanhoe](http://www.jbj.wordherders.net/2008/06/16/teaching-literature-with-ivanhoe/). Similarly, Chandler Sansing describes using [Ivanhoe](http://texttechnology.mcmaster.ca/pdf/vol12_2_04.pdf) in a middle school classroom.
 
 ## Crafting
 
@@ -94,10 +94,10 @@ Twitter bots are small autonomous programs that algorithmically generate tweets.
 
 (image courtesy of Flickr user [Pete Prodoehl](https://www.flickr.com/photos/raster/8605560001/in/photolist-e7rKba-e7xosf-e7rGha-e7xjyU-dcthwC-dQ6xWj-dmFMNQ-dQ6CCj-ny4kr7-d25er3-dQ13n6-dsFbNo-dsFbP3-dsFb9N-dsFb5j-dsF2vB-dsfkXn-dsFcY3-dsFcWy-dsFcVo-dsF3Ug-dsF3Te-dsF3RV-dsFcR1-dsFcPQ-dsF3Nr-dsF3Mn-dsFcKN-dsFcJL-dsFcHb-dsF3FZ-dsFcEC-dsFcD1-dsF3Bp-dsFcA3-dsF3yV-dsF3xB-dsF3vZ-dsF3v6-dsFcuo-dsFcsY-dsF3rg-dsF3pP-dsF3oz-dsF3mK-dsF3ki-dsF3je-dsFcjb-dsFchL-dsFcgy)
 
-* Source URL: http://www.slj.com/2015/04/opinion/test-drive/slj-reviews-the-makey-makey-test-drive/
-* Creator: Chad Sansing
+* Source URL: [http://www.slj.com/2015/04/opinion/test-drive/slj-reviews-the-makey-makey-test-drive/](http://www.slj.com/2015/04/opinion/test-drive/slj-reviews-the-makey-makey-test-drive/)
+* Creator: Chad Sansing (Mozilla Foundation)
 
-A Makey Makey is an inexpensive microcontroller that replaces typical computer inputs (mouse, arrows, keyboard controls) with any object that conducts electricity. YouTube abounds with videos of bananas turned into electronic piano keys, but such experiments only scratch the surface of Makey Makeys. For instance, Makey Makeys can be used to dramatize Donna Haraway's still-important "Cyborg Manifesto" or to create alternative reading interfaces for poetry. In this review Chad Sansing explains why teachers might want to teach literature and the arts using Makey Makeys. Though framed for middle school students, the playful pedagogy highlighted here transfers well to higher education.
+A Makey Makey is an inexpensive microcontroller that replaces typical computer inputs (mouse, arrows, keyboard controls) with any object that conducts electricity. YouTube abounds with videos of bananas turned into electronic piano keys, but such experiments only scratch the surface of Makey Makeys. For instance, Makey Makeys can be used to dramatize Donna Haraway's still-important "Cyborg Manifesto" or to create alternative reading interfaces for poetry. In this article Chad Sansing explains why teachers might want to teach literature and the arts using Makey Makeys. Though framed for middle school students, the playful pedagogy highlighted here transfers well to higher education.
 
 ## Gaming
 
@@ -117,7 +117,7 @@ In a class called "Writing and Coding," undergraduate students must design a gam
 * Source URL: [http://www.auntiepixelante.com/twine/](http://www.auntiepixelante.com/twine/)
 * Creator: Anna Anthropy (Independent Game Designer)
 
-Anthropy's book *Rise of the Videogame Zinesters* (2012) launched what has come to be known as the "Twine Revolution" (Ellison 2013), in which indie game designers have used the open source platform Twine to create personally expressive and politically powerful hybrids of games and narrative. Twine is increasingly being used as a writing platform in literature classrooms, and this introduction to Twine by Anthropy is a great place for students to begin.
+Anthropy's book *Rise of the Videogame Zinesters* (2012) launched what has come to be known as the "Twine Revolution" (Ellison 2013), in which indie game designers have used the open source platform [Twine](http://twinery.org/) to create personally expressive and politically powerful hybrids of games and narrative. Twine is increasingly being used as a writing platform in literature classrooms, and this introduction to Twine by Anthropy is a great place for students to begin. The latest version of Twine (2.x) runs entirely within a web browser, making the game design platform even more accessible to students.
 
 ### Literature and Gaming
 * Artifact Type: Syllabus
@@ -126,38 +126,38 @@ Anthropy's book *Rise of the Videogame Zinesters* (2012) launched what has come 
 * Source URL: [http://engl165lg.wordpress.com/](http://engl165lg.wordpress.com/)
 * Creator: Amanda Phillips (University of California-Davis)
 
-Literature and Gaming is an undergraduate course at UC-Davis taught by Dr. Amanda Phillips. This syllabus makes connections between print-based narratives and video game-based narratives, explicitly questioning assumptions about the differences between the two. In particular, the students explore the five categories of play, narrative, space, time, and avatar across both media. 
+Literature and Gaming is an undergraduate course at UC-Davis taught by Dr. Amanda Phillips. This syllabus makes connections between print-based narratives and video game-based narratives, explicitly questioning assumptions about the differences between the two. In particular, the students explore the five categories of play, narrative, space, time, and avatar across both media.  
 
 ### Metagames
 * Artifact Type: Syllabus
 ![screenshot](images/play-metagames.png)
 
-* Source URL: `[http://stephanieboluk.com/teaching/HMS540F13/blog/?page_id=2](http://stephanieboluk.com/teaching/HMS540F13/blog/?page_id=2)
+* Source URL: [http://stephanieboluk.com/teaching/HMS540F13/blog/?page_id=2](http://stephanieboluk.com/teaching/HMS540F13/blog/?page_id=2)
 * Creator: Stephanie Boluk (University of California-Davis)
 
-Metagames is a course about games about games. While metafiction is a staple of postmodern literature, it is less common to think about games—and by extension, play—in these terms. Boluk's syllabus provides a theoretical frame for thinking about play in unfamiliar contexts, including the practices and counter-practices of play. A PDF version of [the syllabus](http://stephanieboluk.com/teaching/HMS540F13/docs/HMS540-Metagames_Syllabus.pdf) is also available.
+Metagames is a course about games about games. While metafiction is a staple of postmodern literature, it is less common to think about  videogames—and by extension, play—in these terms. Boluk's syllabus provides a theoretical frame for thinking about play in unfamiliar contexts, including the practices and counter-practices of play. The [reading schedule](http://stephanieboluk.com/teaching/HMS540F13/blog/?page_id=2) for Metagames calls attention to the playfullest of playful games, including avant-garde videogames, art videogames, and what Boluk calls "eccentric" games. A PDF version of [the syllabus](http://stephanieboluk.com/teaching/HMS540F13/docs/HMS540-Metagames_Syllabus.pdf) is also available.
 
 ## Related Materials
 
-Davies, Russell. “Playful.” http://russelldavies.typepad.com/planning/2009/11/playful.html. 9 Nov. 2009. Web. 5 May 2010.
+Davies, Russell. “Playful.” 9 Nov. 2009. Web. 5 May 2010. <[http://russelldavies.typepad.com/planning/2009/11/playful.html](http://russelldavies.typepad.com/planning/2009/11/playful.html)>.
+
+Kee, Kevin, ed. *Pastplay: Teaching and Learning History with Technology.* Digital Culture Books. Ann Arbor: University of Michigan Press, 2014. Web. <[http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12544152.0001.001;rgn=full%20text;view=toc;xc=1;g=dculture](http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12544152.0001.001;rgn=full%20text;view=toc;xc=1;g=dculture)>.
 
 Flanagan, Mary. *Critical Play: Radical Game Design.* Cambridge, Mass: MIT Press, 2009. Print.
 
-PBS Digital Studios. *The Art of Glitch.* 2012. Film. Off Book. https://youtu.be/gr0yiOyvas4.
+PBS Digital Studios. *The Art of Glitch.* Off Book. 2012. Film. 1 Sept. 2015. <[https://youtu.be/gr0yiOyvas4](https://youtu.be/gr0yiOyvas4)>.
 
 Phillips, Amanda. "Thoughts on Teaching Literature and Gaming." HASTAC. 20 Oct. 2010. Web. 1 Oct. 2015. [https://www.hastac.org/blogs/amanda-phillips/2010/10/20/thoughts-teaching-literature-and-gaming](https://www.hastac.org/blogs/amanda-phillips/2010/10/20/thoughts-teaching-literature-and-gaming).
-
-Ramsay, Stephen. “The Hermeneutics of Screwing Around; Or, What You Do with a Million Books.” *Pastplay: Teaching and Learning History with Technology.* Ed. Kevin Kee. Ann Arbor: University of Michigan Press, 2014. 111–120. Print. Digital Humanities.
 
 Salen, Katie, and Eric Zimmerman. *Rules of Play: Game Design Fundamentals*. Cambridge, Mass.: MIT Press, 2004. Print.
 
 Salen, Katie, and Eric Zimmerman. *The Game Design Reader: A Rules of Play Anthology.* Cambridge, Mass.: MIT Press, 2006. Print.
 
-Salter, Anastasia Salter. "Games in the Classroom." *Profhacker.* 2011. Web. [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-1/35596](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-1/35596), [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-2/36075](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-2/36075), [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-3/36217](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-3/36217), [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-4/36294](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-4/36294).
+Salter, Anastasia Salter. "Games in the Classroom." *Profhacker.* 2011. Web. 1 Aug. 2015. <[http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-1/35596](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-1/35596)>, <[http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-2/36075](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-2/36075)>, <[http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-3/36217](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-3/36217)>, <[http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-4/36294](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-4/36294)>.
 
 Sawyer, R. Keith. *Explaining Creativity: The Science of Human Innovation.* Oxford University Press, USA, 2011. Print.
 
-Sheldon, Lee. "Gaming the Classroom Syllabus." Indiana University, Bloomington. 2010. Web.
+Sheldon, Lee. "Gaming the Classroom Syllabus." Indiana University, Bloomington. 2010. Web. 1 Aug. 2015. <[https://gamingtheclassroom.wordpress.com/syllabus/](https://gamingtheclassroom.wordpress.com/syllabus/)>.
 
 ## Works Cited
 
@@ -165,29 +165,45 @@ Abelson, Hal, Ken Ledeen, and Harry Lewis. *Blown to Bits: Your Life, Liberty, a
 
 Anthropy, Anna. *Rise of the Videogame Zinesters: How Freaks, Normals, Amateurs, Artists, Dreamers, Dropouts, Queers, Housewives, and People Like You Are Taking Back an Art Form.* New York: Seven Stories Press, 2012. Print.
 
-Anthropy, Anna. "How to Make Games with Twine." auntiepixelante.com. Web. 1 Oct. 2015.
+Anthropy, Anna. "How to Make Games with Twine." auntiepixelante.com. Web. 1 Oct. 2015. <[http://www.auntiepixelante.com/twine/](http://www.auntiepixelante.com/twine/)>.
 
 Bogost, Ian. "The Proceduralist Style." Gamasutra. 21 Jan. 2009. Web. 1 Feb. 2009.
 
 Bogost, Ian. *Alien Phenomenology, Or, What It’s Like to Be a Thing.* Minneapolis: University of Minnesota Press, 2012. Print.
 
-Boluk, Stephanie. "Metagames: Games about Games and the Practice of Play." HMS 540, Pratt Institute. 2013. Web.
+Boluk, Stephanie. "Metagames: Games about Games and the Practice of Play." HMS 540, Pratt Institute. 2013. Web. 1 Aug. 2015.
 
-Brown, James, Jr. "Game Design Project." Inter-L&S 102: Writing and Coding. 2012. Web.
+Brown, James, Jr. "Game Design Project." Inter-L&S 102: Writing and Coding. 2012. Web. 1 Aug. 2015. <[http://courses.jamesjbrownjr.net/node/3372](http://courses.jamesjbrownjr.net/node/3372)>.
 
 Caillois, Roger. *Man, Play, and Games.* Trans. Meyer Barash. New York: The Free Press, 2003. Print.
 
 Csikszentmihalyi, Mihaly. *Flow.* Harper Collins, 2009. Print.
 
+Davies, Russell. “Playful.” 9 Nov. 2009. Web. 5 May 2010. <[http://russelldavies.typepad.com/planning/2009/11/playful.html](http://russelldavies.typepad.com/planning/2009/11/playful.html)>.
+
+DS106 Assignmenet Bank. DS106 Digital Storytelling Team. Web. 1 Oct. 2015. <[http://assignments.ds106.us/](http://assignments.ds106.us/)>.
+
 Drucker, Johanna, Jerome McGann, Bethany Nowviskie, and the Scholars' Lab. *Ivanhoe*. Charlottesville, VA, 2014.
 
 Ellison, Cara. "Anna Anthropy and the Twine Revolution." *The Guardian* 10 Apr. 2013. Web. 11 Oct. 2015.
+
+Flanagan, Mary. *Critical Play: Radical Game Design.* Cambridge, Mass: MIT Press, 2009. Print.
 
 Gee, James Paul. *What Video Games Have to Teach Us About Learning and Literacy.* 2nd ed. New York: Macmillan, 2003. Print.
 
 Huizinga, Johan. *Homo Ludens: A Study of the Play-Element in Culture.* London: Routledge and Kegan Paul, 1949. Print.
 
-Owens, Trevor. "Glitching Files for Understanding: Avoiding Screen Essentialism in Three Easy Steps." The Signal. 5 Nov. 2012. Web. 11 Oct. 2015.
+Kee, Kevin, ed. *Pastplay: Teaching and Learning History with Technology.* Digital Culture Books. Ann Arbor: University of Michigan Press, 2014. Web. <[http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12544152.0001.001;rgn=full%20text;view=toc;xc=1;g=dculture](http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12544152.0001.001;rgn=full%20text;view=toc;xc=1;g=dculture)>.
+
+LaFleur, Liss. "Hack for Humanities." THATCamp Piedmont. 2014. Web. 1 Aug. 2015. <[https://docs.google.com/presentation/d/15t6hjDLGZR_slg-6ztVqDF21buk_1eeUmfqnBTph5VY/pub?start=true&loop=false&delayms=5000#slide=id.p3](https://docs.google.com/presentation/d/15t6hjDLGZR_slg-6ztVqDF21buk_1eeUmfqnBTph5VY/pub?start=true&loop=false&delayms=5000#slide=id.p3)>.
+
+Owens, Trevor. "Glitching Files for Understanding: Avoiding Screen Essentialism in Three Easy Steps." The Signal. 5 Nov. 2012. Web. 11 Oct. 2015. <[http://blogs.loc.gov/digitalpreservation/2012/11/glitching-files-for-understanding-avoiding-screen-essentialism-in-three-easy-steps/](http://blogs.loc.gov/digitalpreservation/2012/11/glitching-files-for-understanding-avoiding-screen-essentialism-in-three-easy-steps/)>.
+
+Phillips, Amanda. "ENGL 165LG: Literature and Gaming." 2012. Web. 1 Aug. 2015. <[http://engl165lg.wordpress.com/](http://engl165lg.wordpress.com/)>.
+
+Phillips, Amanda. "Thoughts on Teaching Literature and Gaming." HASTAC. 20 Oct. 2010. Web. 1 Oct. 2015. [https://www.hastac.org/blogs/amanda-phillips/2010/10/20/thoughts-teaching-literature-and-gaming](https://www.hastac.org/blogs/amanda-phillips/2010/10/20/thoughts-teaching-literature-and-gaming).
+
+PBS Digital Studios. *The Art of Glitch.* Off Book. 2012. Film. 1 Sept. 2015. <[https://youtu.be/gr0yiOyvas4](https://youtu.be/gr0yiOyvas4)>.
 
 Pope, Rob. *Textual Intervention: Critical and Creative Strategies for Literary Studies.* London: Routledge, 1994. Print.
 
@@ -197,6 +213,22 @@ Ratto, Matt. “Critical Making: Conceptual and Material Studies in Technology a
 
 Richardson, Virginia. "Constructivist Pedagogy." *The Teachers College Record* 105.9 (2003): 1623–1640. Print.
 
+Salen, Katie, and Eric Zimmerman. *Rules of Play: Game Design Fundamentals*. Cambridge, Mass.: MIT Press, 2004. Print.
+
+Salen, Katie, and Eric Zimmerman. *The Game Design Reader: A Rules of Play Anthology.* Cambridge, Mass.: MIT Press, 2006. Print.
+
+Salter, Anastasia Salter. "Games in the Classroom." *Profhacker.* 2011. Web. 1 Aug. 2015. <[http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-1/35596](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-1/35596)>, <[http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-2/36075](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-2/36075)>, <[http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-3/36217](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-3/36217)>, <[http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-4/36294](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-4/36294)>.
+
 Samuels, Lisa, and Jerome McGann. "Deformance and Interpretation." *New Literary History* 30.1 (1999): 25–56. Print.
 
+Sansing, Chad. “SLJ Reviews the MaKey MaKey.” *School Library Journal.* 17 Apr. 2015. Web. 31 July 2015. <[http://www.slj.com/2015/04/opinion/test-drive/slj-reviews-the-makey-makey-test-drive/](http://www.slj.com/2015/04/opinion/test-drive/slj-reviews-the-makey-makey-test-drive/)>.
+
+Sawyer, R. Keith. *Explaining Creativity: The Science of Human Innovation.* Oxford University Press, USA, 2011. Print.
+
+Scholars' Lab. *Ivanhoe*. University of Virginia. 2014. Web. 1 Aug. 2015. <[http://ivanhoe.scholarslab.org/index.html](http://ivanhoe.scholarslab.org/index.html)>.
+
 Sennett, Richard. *The Craftsman.* New Haven: Yale University Press, 2008. Print.
+
+Sheldon, Lee. "Gaming the Classroom Syllabus." Indiana University, Bloomington. 2010. Web. 1 Aug. 2015. <[https://gamingtheclassroom.wordpress.com/syllabus/](https://gamingtheclassroom.wordpress.com/syllabus/)>.
+
+Whalen, Zach. "How to Make a Twitter Bot with Google Spreadsheets (Version 0.4)." zachwhalen.net. 17 May 2015. Web. 1 Aug. 2015. <[http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/)>.
