@@ -64,7 +64,7 @@ In this transcription exercise, students both use and build archives, which has 
 
 * Artifact type:  assignment
 * Source URL: http://www.rci.rutgers.edu/~ag978/355/commonplace/single.html
-* Copy of Artifact: (files/archive-commonplacing%20assignment-copy.htm)
+* Copy of Artifact: [files/archive-commonplacing%20assignment-copy.htm](files/archive-commonplacing%20assignment-copy.htm)
 * Creator: Andrew Goldstone (Rutgers University)
 * Permissions: CC-BY-NC 3.0 Unported
 
@@ -76,7 +76,7 @@ A commonplace book is a form of personal archive, a means of recording and arran
 
 * Artifact type: syllabus
 * Source URL: http://www.digitaltrishacampbell.com/cdm_citizen.html
-* Copy of Artifact: (files/archive-composing%20digital%20media-copy.htm)
+* Copy of Artifact: [files/archive-composing%20digital%20media-copy.htm](files/archive-composing%20digital%20media-copy.htm)
 * Creator: Trisha Campbell (Salisbury University)
 * Permissions: no license or copyright information given; fair use
 
@@ -88,7 +88,7 @@ This course demonstrates one way to focus students’ attention on what is left 
 
 * Artifact type: game
 * Source URL: http://beautifuldata.metalab.harvard.edu/wp-content/uploads/2014/09/BD_Game_Cards.pdf 
-* Copy of Artifact: (files/archive-designing%20object%20based%20experiences-copy.pdf)
+* Copy of Artifact: [files/archive-designing%20object%20based%20experiences-copy.pdf](files/archive-designing%20object%20based%20experiences-copy.pdf)
 * Creator: metaLAB (Harvard University)
 * Permissions: Creative Commons Attribution 3.0 Unported 
 
@@ -100,7 +100,7 @@ What kinds of experiences can archival materials generate?  Students get to play
  
 * Artifact type: teaching guidelines
 * Source URL: http://www.minnesotahumanities.org/Resources/A%20Guide%20for%20Using%20Primary%20Source%20Documents.pdf
-* Copy of Artifact: (files/archive-guide%20using%20primary%20sources-copy.pdf)
+* Copy of Artifact: [files/archive-guide%20using%20primary%20sources-copy.pdf)](files/archive-guide%20using%20primary%20sources-copy.pdf)
 * Creator: Minnesota Humanities Center
 * Permissions: no copyright or license information given; fair use
 
@@ -112,7 +112,7 @@ A basic object analysis exercise can turn a student's initial wonder about an ob
 
 * Artifact type: lesson plan
 * Source URL: http://amandafrench.net/2013/11/12/introduction-to-omeka-lesson-plan
-* Copy of Artifact: (files/archive-introduction%20to%20omeka-copy.pdf)
+* Copy of Artifact: [files/archive-introduction%20to%20omeka-copy.pdf](files/archive-introduction%20to%20omeka-copy.pdf)
 * Creator: Amanda French (Virginia Tech)
 * Permissions: Creative Commons Attribution 3.0 Unported 
 
@@ -124,7 +124,7 @@ A student-curated digital exhibit is a foundational and flexible archival exerci
 
 * Artifact type: syllabus
 * Source URL: http://blogs.iac.gatech.edu/archives14/syllabus/ 
-* Copy of Artifact: (files/archive-media%20materiality%20archives-copy.htm)
+* Copy of Artifact: [files/archive-media%20materiality%20archives-copy.htm](files/archive-media%20materiality%20archives-copy.htm)
 * Creator: Lauren Klein (Georgia Tech)
 * Permissions: Used with permission of Lauren Klein. 
 
@@ -136,7 +136,7 @@ This course integrates literary study of contemporary texts with archival theory
 
 * Artifact type: set of games
 * Source URL: http://www.metadatagames.org/#games 
-* Copy of Artifact: (files/archive-metadata%20games-copy.htm)
+* Copy of Artifact: [files/archive-metadata%20games-copy.htm](files/archive-metadata%20games-copy.htm)
 * Creator: Mary Flanagan (Tiltfactor Laboratory Dartmouth College), Peter Carini (Rauner Library Dartmouth College), et al
 * Permissions: "Metadata Games is a free and open source software (FOSS) online game system"; the website is copyrighted. 
 
@@ -148,7 +148,7 @@ It can be difficult to suture the sense of wonder that archives can produce to p
 
 * Artifact type: syllabus and related assignments
 * Source URL: http://ufdc.ufl.edu/AA00013935/00001
-* Copy of Artifact: (files/archive-panama%20silver-copy.pdf)
+* Copy of Artifact: [files/archive-panama%20silver-copy.pdf](files/archive-panama%20silver-copy.pdf)
 * Creator : Leah Rosenberg (University of Florida), in collaboration with Rhonda Cobham Sander (Amherst College) and Donette Francis (University of Miami)
 * Permissions:  CC-BY-NC-SA 3.0 Unported 
 
@@ -160,7 +160,7 @@ In this class, students read early twentieth-century and contemporary Caribbean 
 
 * Artifact type: student activity
 * Source URL: https://docs.google.com/document/d/13Ay2Dzx1AnnOMlfbr12qMblO24eJdvETIrLw1hKu6Vk/edit
-* Copy of Artifact: (files/archive-your%20house%20or%20school.pdf)
+* Copy of Artifact: [files/archive-your%20house%20or%20school.pdf](files/archive-your%20house%20or%20school.pdf)
 * Creator: Kari Kraus (University of Maryland) 
 * Permissions: open source (NSF funded project)
 
