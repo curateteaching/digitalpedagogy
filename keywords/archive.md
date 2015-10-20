@@ -52,7 +52,7 @@ The objects we have collected below embrace a decidedly vernacular understanding
 
 * Artifact type: assignment and student work
 * Source URL: http://digital.lib.lehigh.edu/remain/con/lit376_over.html
-* Copy of Artifact: (files/archive-archive%20project-copy.htm)
+* Copy of Artifact: [files/archive-archive%20project-copy.htm](files/archive-archive%20project-copy.htm)
 * Creator: Ed Gallagher (Lehigh University) and Meg Norcia (State University of New York - Brockport)
 * Permissions:  fair use
 
