@@ -1,16 +1,33 @@
-# PLAY
+title: Digital Pedagogy in the Humanities
+subtitle: Concepts, Models, and Experiments 
+chapter: Play
+URL: keywords/play.md
+authors: 
+- family: Sample 
+  given: Mark 
+editor: 
+- family: Harris
+  given: Katherine D.
+publisher: Modern Language Association
+type: book
+---
 
-## Mark Sample
+# PLAY (Draft)
+
+## AUTHOR: Mark Sample
 Davidson College | Digital Studies | [Website](http://www.samplereality.com)
 
 ---
 
 ##### Publication Status:
 * unreviewed draft
+* **draft version undergoing editorial review**
+* draft version undergoing peer-to-peer review https://digitalpedagogy.commons.mla.org/
+* published 
 	
 ---
 
-## Curatorial Statement 
+## CURATORIAL STATEMENT
 
 Play is commonly thought to be the domain of children, or of adults engaged in child-like activities—games, performances, and other "not serious" pursuits that stand "outside 'ordinary' life," as the Dutch historian Johan Huizinga put it in his classic study of play (13). Nearly twenty years later the French sociologist Roger Caillois expanded upon Huizinga's theory of play, suggesting that play is defined by six key elements: play is voluntary, separate from other aspects of life, uncertain, unproductive, governed by rules, and simultaneously more or less dependent upon make-believe (9-10). When any one of these elements is violated, play is no longer play. It is work.
 
@@ -49,6 +66,9 @@ This list of differences is incomplete and meant to be merely suggestive. The ar
 
 DS106 is the longstanding online version of Digital Storytelling 106, an immensely popular online companion to a digital storytelling course at the University of Mary Washington. The DS106 assignment bank is a ready-to-use collection of hundreds of playful assignments that focus on digital fluency and creativity. Assignment types include video mashups, remixes, photo collages, soundscapes, animated GIFs, and much more. The DS106 Assignment Bank should be the first place to look for innovative new media assignments, as well as illustrative examples of completed student work. 
 
+[KDH: THIS IS A FANTASTIC COLLECTION OF ASSIGNMENTS, BUT IT WILL BE OVERWHELMING FOR THOSE WHO HAVE NO BACKGROUND IN THIS AREA. CAN YOU CHOOSE A SINGLE ASSIGNMENT TO CURATE AND THEN REFERENCE THE ASSIGNMENT BANK IN THE ANNOTATION? ALSO, HOW IS THIS PART OF INTERVENTION? THOUGH YOU'VE DESCRIBED THE CATEGORIES ABOVE QUITE WELL, FOR EACH ARTIFACT, MAKE THAT CONNECTION TO THE CATEGORIES MORE EXPLICIT.]
+
+
 ### Glitching Files for Understanding
 * Artifact Type: Tutorial
 ![screenshot](images/play-glitching.png)
@@ -56,7 +76,8 @@ DS106 is the longstanding online version of Digital Storytelling 106, an immense
 * Source URL: [http://blogs.loc.gov/digitalpreservation/2012/11/glitching-files-for-understanding-avoiding-screen-essentialism-in-three-easy-steps/](http://blogs.loc.gov/digitalpreservation/2012/11/glitching-files-for-understanding-avoiding-screen-essentialism-in-three-easy-steps/)
 * Creator: [Trevor Owens](www.trevorowens.org/) (Institute of Museum and Library Services)
 
-Written while Owens was a digital archivist at the Library of Congress, this tutorial introduces the idea of glitching—intentionally corrupting a digital artifact—as a kind of playful deformance. Such intrusive digital interventions can serve a forensics purpose by exposing underlying metadata, but they can also defamiliarize the digital media in question. Owens walks through the glitching of music and image files. This process could be easily expanded to include other media types, including audiobooks, PDFs, and EPUBs, all very much of interest in a literature classroom.
+Written while Owens was a digital archivist at the Library of Congress, this tutorial introduces the idea of glitching—intentionally corrupting a digital artifact—as a kind of playful deformance. [<--KDH: GOOD! YES! THIS PROVIDES THE READER/USER AN IDEA ABOUT INTERVENTIONS] 
+Such intrusive digital interventions can serve a forensics purpose by exposing underlying metadata, but they can also defamiliarize the digital media in question. Owens walks through the glitching of music and image files. This process could be easily expanded to include other media types, including audiobooks, PDFs, and EPUBs, all very much of interest in a literature classroom.
 
 ### Ivanhoe
 * Artifact Type: Classroom Game
@@ -65,7 +86,9 @@ Written while Owens was a digital archivist at the Library of Congress, this tut
 * Source URL: [http://ivanhoe.scholarslab.org/index.html](http://ivanhoe.scholarslab.org/index.html)
 * Creators: Johanna Drucker, Jerome McGann, Bethany Nowviskie, and the Scholars' Lab (University of Virginia)
 
-Ivanhoe began as a turn-based game of textual interventions, in which students assume the roles of characters—or possible characters—in a novel or other cultural artifact. Each player makes a "move," describing an action or decision their character makes, and the next player makes a move in response. The original Ivanhoe was Java-based, but that game environment no longer functions. In 2014 the Scholars' Lab at the University of Virginia released a new version of Ivanhoe as a WordPress theme. One of the unique features of Ivanhoe is that the game doesn't actually require _any_ technology. For an example of digital pedagogy inspiring analog pedagogy, see Jason Jones' low tech adaption in [Teaching Literature with Ivanhoe](http://www.jbj.wordherders.net/2008/06/16/teaching-literature-with-ivanhoe/). Similarly, Chandler Sansing describes using [Ivanhoe](http://texttechnology.mcmaster.ca/pdf/vol12_2_04.pdf) in a middle school classroom.
+Ivanhoe began as a turn-based game of textual interventions, in which students assume the roles of characters—or possible characters—in a novel or other cultural artifact. Each player makes a "move," describing an action or decision their character makes, and the next player makes a move in response. The original Ivanhoe was Java-based, but that game environment no longer functions. In 2014 the Scholars' Lab at the University of Virginia released a new version of Ivanhoe as a WordPress theme. One of the unique features of Ivanhoe is that the game doesn't actually require _any_ technology. For an example of digital pedagogy inspiring analog pedagogy, see Jason Jones' low tech adaption in [Teaching Literature with Ivanhoe](http://www.jbj.wordherders.net/2008/06/16/teaching-literature-with-ivanhoe/). Similarly, Chandler Sansing describes using [Ivanhoe](http://texttechnology.mcmaster.ca/pdf/vol12_2_04.pdf) in a middle school classroom. 
+
+[KDH: BUT HOW IS THIS PART OF INTERVENTION? BE EXPLICIT IN YOUR ANNOTATION]
 
 ## Crafting
 
@@ -78,6 +101,8 @@ Ivanhoe began as a turn-based game of textual interventions, in which students a
 
 Hackathons are discrete crystallizations of maker culture, and they have become quite common in community makerspaces, coding camps, and so on. The idea is simple: a disparate group of people with varying skills assemble and in the space of a day or weekend, come up with a "hack"—a hastily assembled yet elegant solution to a problem, and not necessarily a digital problem. Liss LaFleur's presentation and guidelines for a "Hack for Humanities" at a THATCamp is both an excellent introduction to the idea of a hackathan and a set of concrete instructions for a specific hackathon theme.
 
+[KDH: HOW DOES HACKATHON RELATE TO CRAFTING? MAKE THE CONNECTION EXPLICIT]
+
 ### How to make a Twitter Bot with Google Spreadsheets
 * Artifact Type: Classroom Activity
 ![screenshot](images/play-twitterbot.png)
@@ -85,7 +110,7 @@ Hackathons are discrete crystallizations of maker culture, and they have become 
 * Source URL: [http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04)
 * Creator: Zach Whalen (University of Mary Washington) 
 
-Twitter bots are small autonomous programs that algorithmically generate tweets. Bots are most often associated with spam and online marketing, but they can also be creative endeavors that help us to understand texts, authorship, and originality more deeply. Zach Whalen provides a classroom-ready way for students to create bots, using only Google Spreadsheets. This method is not an introduction to programming so much as an introduction to playful thinking with words.
+Twitter bots are small autonomous programs that algorithmically generate tweets. Bots are most often associated with spam and online marketing, but they can also be creative endeavors that help understand texts, authorship, and originality more deeply. Zach Whalen provides a classroom-ready way for students to create bots, using only Google Spreadsheets. This method is not an introduction to programming so much as an introduction to playful thinking with words. [<--KDH: YES; GOOD; CAN YOU MAKE IT MORE EXPLICIT BY CONNECTING TO CRAFTING?]
 
 
 ### Teaching with Makey Makeys
@@ -97,7 +122,7 @@ Twitter bots are small autonomous programs that algorithmically generate tweets.
 * Source URL: [http://www.slj.com/2015/04/opinion/test-drive/slj-reviews-the-makey-makey-test-drive/](http://www.slj.com/2015/04/opinion/test-drive/slj-reviews-the-makey-makey-test-drive/)
 * Creator: Chad Sansing (Mozilla Foundation)
 
-A Makey Makey is an inexpensive microcontroller that replaces typical computer inputs (mouse, arrows, keyboard controls) with any object that conducts electricity. YouTube abounds with videos of bananas turned into electronic piano keys, but such experiments only scratch the surface of Makey Makeys. For instance, Makey Makeys can be used to dramatize Donna Haraway's still-important "Cyborg Manifesto" or to create alternative reading interfaces for poetry. In this article Chad Sansing explains why teachers might want to teach literature and the arts using Makey Makeys. Though framed for middle school students, the playful pedagogy highlighted here transfers well to higher education.
+A Makey Makey is an inexpensive microcontroller that replaces typical computer inputs (mouse, arrows, keyboard controls) with any object that conducts electricity. YouTube abounds with videos of bananas turned into electronic piano keys, but such experiments only scratch the surface of Makey Makeys. For instance, Makey Makeys can be used to dramatize Donna Haraway's still-important "Cyborg Manifesto" or to create alternative reading interfaces for poetry. In this article Chad Sansing explains why teachers might want to teach literature and the arts using Makey Makeys. Though framed for middle school students, the playful pedagogy highlighted here transfers well to higher education. [KDH: HOW DOES IT TRANSFER? BE EXPLICIT]
 
 ## Gaming
 
@@ -117,7 +142,11 @@ In a class called "Writing and Coding," undergraduate students must design a gam
 * Source URL: [http://www.auntiepixelante.com/twine/](http://www.auntiepixelante.com/twine/)
 * Creator: Anna Anthropy (Independent Game Designer)
 
-Anthropy's book *Rise of the Videogame Zinesters* (2012) launched what has come to be known as the "Twine Revolution" (Ellison 2013), in which indie game designers have used the open source platform [Twine](http://twinery.org/) to create personally expressive and politically powerful hybrids of games and narrative. Twine is increasingly being used as a writing platform in literature classrooms, and this introduction to Twine by Anthropy is a great place for students to begin. The latest version of Twine (2.x) runs entirely within a web browser, making the game design platform even more accessible to students.
+Anthropy's book *Rise of the Videogame Zinesters* (2012) launched what has come to be known as the "Twine Revolution" (Ellison 2013), in which indie game designers have used the open source platform [Twine](http://twinery.org/) to create personally expressive and politically powerful hybrids of games and narrative. Twine is increasingly being used as a writing platform in literature classrooms, and this introduction to Twine by Anthropy is a great place for students to begin. 
+
+[KDH: WHY IS THIS A GOOD PLACE TO START FOR STUDENTS? IS THERE A FACULTY VERSION? BE MORE EXPLICIT IN THIS CONNECTION INSTEAD OF ARTICULATING "GREAT"]
+
+The latest version of Twine (2.x) runs entirely within a web browser, making the game design platform even more accessible to students.
 
 ### Literature and Gaming
 * Artifact Type: Syllabus
