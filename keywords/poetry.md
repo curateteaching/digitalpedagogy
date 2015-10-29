@@ -96,7 +96,7 @@ As a whole, these digital tools, methods, and pedagogical approaches are essenti
 ### "Using Google Spreadsheets for a Generated-Text Twitter Bot"
 ![screenshot](images/poetry-Google-Spreadsheets-for-Text-Generated-Twitter-Bot.jpg)
 
-* Source URL: http://www.zachwhalen.net/posts/using-google-spreadsheets-for-a-generated-text-twitter-bot
+* Source URL: http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/
 * Type: Assignment
 * Creator: Zach Whalen (University of Mary Washington)
 * I consider Twitter bots to be found poetry where the lens of discovery shifts to accommodate the digital medium. Twitter bots take different forms, some more complex than others, and Zach Whalen's Google Spreadsheet version is perfect for novice students (and instructors) looking to not only create their first bot, but also  understand its mechanics. The assignment describes bot varieties, then moves to the "random text-generating bot running without the need to write any code or have access to a web server." A pre-formatted Google spreadsheet is provided, and one simply has to populate the fields accordingly. Also included is a smooth introduction to creating Twitter apps, obtaining the necessary keys, and authentication. In starting with a spreadsheet model, you must focus on the language of individual cells, how they will eventually synthesize with surrounding cells, as well as maintaining the required brevity for the randomized tweet.  
