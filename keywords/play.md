@@ -57,16 +57,14 @@ This list of differences is incomplete and meant to be merely suggestive. The ar
 
 ## Interventions
 
-### DS106 Assignment Bank
+### Spreadsheet Invastion
 * Artifact Type: Assignment
-![screenshot](images/play-ds106.png)
+![screenshot](images/play-softwareinvasion.png)
 
-* Source URL: [http://assignments.ds106.us/](http://assignments.ds106.us/)
-* Creator: Jim Groom, Adam Levine, and others (University of Mary Washington)
+* Source URL: [http://assignments.ds106.us/assignments/spreadsheet-invasion/](http://assignments.ds106.us/assignments/spreadsheet-invasion/)
+* Creator: Tom Woodward
 
-DS106 is the longstanding online version of Digital Storytelling 106, an immensely popular online companion to a digital storytelling course at the University of Mary Washington. The DS106 assignment bank is a ready-to-use collection of hundreds of playful assignments that focus on digital fluency and creativity. Assignment types include video mashups, remixes, photo collages, soundscapes, animated GIFs, and much more. The DS106 Assignment Bank should be the first place to look for innovative new media assignments, as well as illustrative examples of completed student work. 
-
-[KDH: THIS IS A FANTASTIC COLLECTION OF ASSIGNMENTS, BUT IT WILL BE OVERWHELMING FOR THOSE WHO HAVE NO BACKGROUND IN THIS AREA. CAN YOU CHOOSE A SINGLE ASSIGNMENT TO CURATE AND THEN REFERENCE THE ASSIGNMENT BANK IN THE ANNOTATION? ALSO, HOW IS THIS PART OF INTERVENTION? THOUGH YOU'VE DESCRIBED THE CATEGORIES ABOVE QUITE WELL, FOR EACH ARTIFACT, MAKE THAT CONNECTION TO THE CATEGORIES MORE EXPLICIT.]
+The "Spreadsheet Invasion" is a playful intervention into the software conceit of productivity. This assignment asks students to animate cells in Excel, turning Microsoft Office into a playground. An inspiration for the more generalized [Software Invasion](http://sites.davidson.edu/hacking/course-guidelines/hack-2-software-invasion/) assignment, the spreadsheet assignment is part of DS106, an immensely popular online companion to a digital storytelling course at the University of Mary Washington. The [DS106 assignment bank](http://assignments.ds106.us/) is a ready-to-use collection of hundreds of other assignments that similarly demand critical and creative interventions into digital media. Assignment types include video mashups, remixes, photo collages, soundscapes, animated GIFs, and much more. The DS106 Assignment Bank should be the first place to look for innovative new media assignments, as well as illustrative examples of completed student work. 
 
 
 ### Glitching Files for Understanding
@@ -210,8 +208,6 @@ Csikszentmihalyi, Mihaly. *Flow.* Harper Collins, 2009. Print.
 
 Davies, Russell. “Playful.” 9 Nov. 2009. Web. 5 May 2010. <[http://russelldavies.typepad.com/planning/2009/11/playful.html](http://russelldavies.typepad.com/planning/2009/11/playful.html)>.
 
-DS106 Assignmenet Bank. DS106 Digital Storytelling Team. Web. 1 Oct. 2015. <[http://assignments.ds106.us/](http://assignments.ds106.us/)>.
-
 Drucker, Johanna, Jerome McGann, Bethany Nowviskie, and the Scholars' Lab. *Ivanhoe*. Charlottesville, VA, 2014.
 
 Ellison, Cara. "Anna Anthropy and the Twine Revolution." *The Guardian* 10 Apr. 2013. Web. 11 Oct. 2015.
@@ -259,5 +255,7 @@ Scholars' Lab. *Ivanhoe*. University of Virginia. 2014. Web. 1 Aug. 2015. <[http
 Sennett, Richard. *The Craftsman.* New Haven: Yale University Press, 2008. Print.
 
 Sheldon, Lee. "Gaming the Classroom Syllabus." Indiana University, Bloomington. 2010. Web. 1 Aug. 2015. <[https://gamingtheclassroom.wordpress.com/syllabus/](https://gamingtheclassroom.wordpress.com/syllabus/)>.
+
+Woodward, Tom. "Spreadsheet Invasion." DS106 Assignment Bank. Web. 1 Oct. 2015. <[http://assignments.ds106.us/assignments/spreadsheet-invasion/](http://assignments.ds106.us/assignments/spreadsheet-invasion/)>.
 
 Whalen, Zach. "How to Make a Twitter Bot with Google Spreadsheets (Version 0.4)." zachwhalen.net. 17 May 2015. Web. 1 Aug. 2015. <[http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/)>.
