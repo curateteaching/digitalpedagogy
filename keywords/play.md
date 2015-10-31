@@ -103,11 +103,11 @@ Hackathons are discrete crystallizations of maker culture, and they have become 
 * Source URL: [http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04)
 * Creator: Zach Whalen (University of Mary Washington) 
 
-Twitter bots are small autonomous programs that algorithmically generate tweets. Bots are most often associated with spam and online marketing, but they can also be creative endeavors that help understand texts, authorship, and originality more deeply. Zach Whalen provides a classroom-ready way for students to create bots, using only Google Spreadsheets. This method is not an introduction to programming so much as an introduction to playful thinking with words. [<--KDH: YES; GOOD; CAN YOU MAKE IT MORE EXPLICIT BY CONNECTING TO CRAFTING?]
-
+Twitter bots are small autonomous programs that algorithmically generate tweets. Bots are most often associated with spam and online marketing, but they can also be creative endeavors that help understand texts, authorship, and originality more deeply. Zach Whalen provides a classroom-ready way for students to create bots, using only Google Spreadsheets. This method is not an introduction to programming so much as an introduction to playful thinking with words. Crafting is often associated with *things*, but disassembling and reassembling language through computer models reveals that crafting can also be performed with *words*. What is writing, after all, but a craft? Building a bot reveals the seams and stitches of that craft.
 
 ### Teaching with Makey Makeys
 * Artifact Type: Classroom Activity
+
 ![screenshot](images/play-makeymakey.jpg)
 
 (image courtesy of Flickr user [Pete Prodoehl](https://www.flickr.com/photos/raster/8605560001/in/photolist-e7rKba-e7xosf-e7rGha-e7xjyU-dcthwC-dQ6xWj-dmFMNQ-dQ6CCj-ny4kr7-d25er3-dQ13n6-dsFbNo-dsFbP3-dsFb9N-dsFb5j-dsF2vB-dsfkXn-dsFcY3-dsFcWy-dsFcVo-dsF3Ug-dsF3Te-dsF3RV-dsFcR1-dsFcPQ-dsF3Nr-dsF3Mn-dsFcKN-dsFcJL-dsFcHb-dsF3FZ-dsFcEC-dsFcD1-dsF3Bp-dsFcA3-dsF3yV-dsF3xB-dsF3vZ-dsF3v6-dsFcuo-dsFcsY-dsF3rg-dsF3pP-dsF3oz-dsF3mK-dsF3ki-dsF3je-dsFcjb-dsFchL-dsFcgy)
@@ -115,7 +115,7 @@ Twitter bots are small autonomous programs that algorithmically generate tweets.
 * Source URL: [http://www.slj.com/2015/04/opinion/test-drive/slj-reviews-the-makey-makey-test-drive/](http://www.slj.com/2015/04/opinion/test-drive/slj-reviews-the-makey-makey-test-drive/)
 * Creator: Chad Sansing (Mozilla Foundation)
 
-A Makey Makey is an inexpensive microcontroller that replaces typical computer inputs (mouse, arrows, keyboard controls) with any object that conducts electricity. YouTube abounds with videos of bananas turned into electronic piano keys, but such experiments only scratch the surface of Makey Makeys. For instance, Makey Makeys can be used to dramatize Donna Haraway's still-important "Cyborg Manifesto" or to create alternative reading interfaces for poetry. In this article Chad Sansing explains why teachers might want to teach literature and the arts using Makey Makeys. Though framed for middle school students, the playful pedagogy highlighted here transfers well to higher education. [KDH: HOW DOES IT TRANSFER? BE EXPLICIT]
+A Makey Makey is an inexpensive microcontroller that replaces typical computer inputs (mouse, arrows, keyboard controls) with any object that conducts electricity. YouTube abounds with videos of bananas turned into electronic piano keys, but such experiments only scratch the surface of Makey Makeys. For instance, Makey Makeys can be used to dramatize Donna Haraway's still-important "Cyborg Manifesto" or to create alternative reading interfaces for poetry. In this article Chad Sansing explains why teachers might want to teach literature and the arts using Makey Makeys. Though framed for middle school students, the playful pedagogy highlighted here transfers well to higher education. In particular, Makey Makeys emphasize discovery and divergent thinking; working with these devices thrusts students into such unfamiliar territory, they have no choice but to approach problems from new perspectives.
 
 ## Gaming
 
@@ -135,11 +135,7 @@ In a class called "Writing and Coding," undergraduate students must design a gam
 * Source URL: [http://www.auntiepixelante.com/twine/](http://www.auntiepixelante.com/twine/)
 * Creator: Anna Anthropy (Independent Game Designer)
 
-Anthropy's book *Rise of the Videogame Zinesters* (2012) launched what has come to be known as the "Twine Revolution" (Ellison 2013), in which indie game designers have used the open source platform [Twine](http://twinery.org/) to create personally expressive and politically powerful hybrids of games and narrative. Twine is increasingly being used as a writing platform in literature classrooms, and this introduction to Twine by Anthropy is a great place for students to begin. 
-
-[KDH: WHY IS THIS A GOOD PLACE TO START FOR STUDENTS? IS THERE A FACULTY VERSION? BE MORE EXPLICIT IN THIS CONNECTION INSTEAD OF ARTICULATING "GREAT"]
-
-The latest version of Twine (2.x) runs entirely within a web browser, making the game design platform even more accessible to students.
+Anthropy's book *Rise of the Videogame Zinesters* (2012) launched what has come to be known as the "Twine Revolution" (Ellison 2013), in which indie game designers have used the open source platform [Twine](http://twinery.org/) to create personally expressive and politically powerful hybrids of games and narrative. Twine is increasingly being used as a writing platform in literature and composition classrooms, and this introduction to Twine by Anthropy is a good place for students to begin. Anthropy explains the Twine interface, walks through the writing and linking mechanisms, and details the publishing process. Anthropy also highlights more advanced features, such as using images and variables. The latest version of Twine (2.x) runs entirely within a web browser, making the game design platform even more accessible to students.
 
 ### Literature and Gaming
 * Artifact Type: Syllabus
@@ -210,6 +206,8 @@ Ellison, Cara. "Anna Anthropy and the Twine Revolution." *The Guardian* 10 Apr. 
 Flanagan, Mary. *Critical Play: Radical Game Design.* Cambridge, Mass: MIT Press, 2009. Print.
 
 Gee, James Paul. *What Video Games Have to Teach Us About Learning and Literacy.* 2nd ed. New York: Macmillan, 2003. Print.
+
+Haraway, Donna. "A Cyborg Manifesto." *Simians, Cyborgs, and Women: The Reinvention of Nature*. New York, NY: Routledge, 1991. 149–182. Print.
 
 Huizinga, Johan. *Homo Ludens: A Study of the Play-Element in Culture.* London: Routledge and Kegan Paul, 1949. Print.
 
