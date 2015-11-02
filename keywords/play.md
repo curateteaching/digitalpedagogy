@@ -1,3 +1,4 @@
+---
 title: Digital Pedagogy in the Humanities
 subtitle: Concepts, Models, and Experiments 
 chapter: Play
@@ -57,7 +58,7 @@ This list of differences is incomplete and meant to be merely suggestive. The ar
 
 ## Interventions
 
-### Spreadsheet Invastion
+### Spreadsheet Invasion
 * Artifact Type: Assignment
 ![screenshot](images/play-softwareinvasion.png)
 
