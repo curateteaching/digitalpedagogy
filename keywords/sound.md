@@ -56,7 +56,7 @@ JENTERY: Here, I wonder if readers may expect a reference to field recording. Wh
 
 *Critical Listening:* Rather than taking listening for granted as something that people simply do, this approach involves teaching students to cultivate critical listening habits and practices. Asking students to reflect on their own listening practices and consider how listening practices have changed over time in response to cultural, historical, and technological developments is a crucial part of sonic education.  
 
-JENTERY: I really appreciate the second sentence. So important! In the first sentence, would you be willing to revise the use of "critical listening" to define "critical listening"? In other words, would another adjective work there? Or perhaps that half of the sentence is unnecessary? You could cut directly to the next sentence, which articulates (to me) what critical listening is?
+JENTERY: I really appreciate the second sentence. So important! In the first sentence, would you be willing to revise the use of "critical listening" to define "critical listening"? In other words, would another adjective work there? Or perhaps that portion ("cultivate ... practices") of the sentence is unnecessary? You could cut directly to the next sentence, which articulates (to me) what critical listening is?
 
 ## CURATED ARTIFACTS
 
