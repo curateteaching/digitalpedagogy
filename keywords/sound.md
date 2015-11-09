@@ -66,9 +66,10 @@ The artifacts listed below are intended to provide a starting point for developi
 Casey Boyle’s undergraduate rhetoric course explores the rhetorical affordances of sound as a form of writing, focusing specifically on sound in digital environments. Boyle takes a multidisciplinary approach by drawing on readings and audio texts from sound studies, critical theory, rhetoric and composition, journalism, and pop culture. What I admire most about Boyle’s pedagogy is his careful scaffolding. Each week the assigned readings and listenings are layered with and informed by new technical practices for students to learn. As the semester progresses, then, students cultivate a deeper understanding of sonic theories and practices and are able to apply that knowledge in the production of their own sonic projects. The nice balance of analysis and production in the course schedule allows students to develop technical skills with digital audio tools over an extended period of time, thus making a potentially unfamiliar mode of composing more manageable and less overwhelming. Boyle’s innovative course provides an excellent road map for teachers interested in developing semester-long courses on sound as a communicative medium. 
 
 ### Sonic Remediations of the News
-IMAGE FORTHCOMING
-*Copy of Artifact: Forthcoming
-*Creator: Jonathan Stone (The University of Utah)
+Note: Need to add screen grab
+
+* Copy of Artifact: Forthcoming
+* Creator: Jonathan Stone (The University of Utah)
 
 Jonathan Stone's innovative assignment "Sonic Remediations of the News" invites students to transform a print news article into a "layered sonic artifact" using digital audio editing software. In the process of creating a sonic version of the print article--which includes recording a vocal track, adding music, sound effects, ambient noise, etc.--students experiment with the possibilities and constraints of both print and audio media. Stone's remediation project is a great model for developing assignments that call attention to how different compositional modes and technologies profoundly shape the ways that writers present information. For teachers who are new to assigning sonic projects like this, I would recommend asking students to use Audacity, an open source multi-track digital audio editor and recording application. The Audacity Manual is also a helpful supplemental resource because it provides comprehensive information about how to use Audacity, including tutorials, tips, instructions about recording technologies, and explanations of the program’s various effects and technical features. Because of its intuitive, boombox-like interface, I have had much success teaching this application to students with no prior audio editing experience. Between referring to the Audacity Manual and watching video tutorials on YouTube, students are able to make fairly sophisticated and professional sounding compositions. For instructors who may be worried about the technical learning curve involved in teaching students to make digital sound projects, Audacity and its thorough accompanying manual will prove to be a valuable (and free) resource. 
 
@@ -89,14 +90,15 @@ Steven Hammer’s undergraduate communication course on “Audio Design & Produc
 
 The Third Coast International Audio Festival (TCIAF) is an annual Chicago-based event that curates and celebrates the best audio stories from around the world. The website for the festival contains information about TCIAF’s podcast, local and national radio shows, and listening events. There are several elements of the site that make it a helpful teaching resource. First, it has a searchable audio library, including noteworthy and award-winning radio shows and podcasts, audio documentaries, experimental sound art, sonic portraits, recordings of past TCIAF conference speakers, and more. The audio library is a good place to find high quality examples, and it can also provide students with a sense of the wide range of sonic genres and styles that they might experiment with in their own work. Additionally, the curated archive can serve as a starting point for discussions about what is valued or not in audio journalism and entertainment. For example, having students identify similarities (in themes, voices, technical features) across award-winning podcasts could lead to conversations about which kinds of cultural, gendered, and racial experiences are represented and which are left out; or perhaps discussions about when and why it is acceptable to use experimental narrative structures or digital audio effects. Generally speaking, the site is filled with interesting sonic material that could be used for pedagogical purposes.  
 
-###Sonic Dictionary
-IMAGE FORTHCOMING
-*Source URL: http://sonicdictionary.fhi.duke.edu/about 
-*Creator: Mary Caton Lingold (Duke University)
+### Sonic Dictionary
+Note: Need to add screen grab
+
+* Source URL: http://sonicdictionary.fhi.duke.edu/about 
+* Creator: Mary Caton Lingold (Duke University)
 
 Sonic Dictionary is an archive of over 500 sound recordings collected by students at Duke University and collaborating institutions. More than 200 undergraduates from 20 classes have contributed to the Sonic Dictionary. Mary Caton Lingold initiated this project when she discovered that her students had trouble identifying particular musical sounds correctly. When students do not know the meaning of a word, they can easily look it up in a dictionary. Lingold wanted students to have a similar reference guide for looking up what specific sounds sound like, so she had her students create one using the open source publishing platform Omeka. The goal of this ongoing project is to "enhance the vocabulary of sonic experience," and Lingold encourages other instructors to design assignments that ask students to engage with and contribute to the Sonic Dictionary. The website also contains a range of student curated exhibits that explore the cultural significance of sound (e.g. "Sounds of the South"). Additionally, there are guidelines for contributors, sample lesson plans, and detailed instructor notes. Sonic Dictionary is a fantastic resource for students and instructors interested in audio culture and archival practices.   
 
-###Open Sound New Orleans 
+### Open Sound New Orleans 
 ![screenshot](images/openSound.png)
 
 * Source URL: <http://www.opensoundneworleans.com/core/>
@@ -113,7 +115,7 @@ Open Sound New Orleans is a large-scale community sound mapping project that enc
 In this engaging piece of multimodal scholarship, Kati Fargo Ahern and Jordan Frith explore the ways that mobile technologies allow listeners to participate in the production of everyday soundscapes. The authors identify a trend called “Social Soundscaping,” or “contributing, geo-locating, sharing, and modifying sounds uploaded and tagged to specific public spaces.” Using apps on mobile devices, people can upload the sounds of their choosing to maps of physical locations. The idea is that interested individuals can wear headphones and use their WiFi-connected mobile devices to listen to location-specific soundscapes in a virtual environment while they are physically drifting through urban spaces. Additionally, listeners can add new sounds and modify or delete other contributors’ sounds, thus creating sonic environments that constantly change and evolve. Social soundscaping practices are significant because they enable people to have more control over the soundscapes of the public spaces they inhabit. Indeed, the authors’ Prezi presentation provides important contextual information about increasingly corporatized and privatized soundscapes in everyday life, which can give students a sense of how and why soundscaping or sound mapping projects can be used for different goals and purposes. Thus, “Speaking Back to Our Spaces” might be productively paired with Open Sound New Orleans or other digital sound maps. On a related note, “FoundSounds” is an excellent free sound app for instructors interested in designing their own social soundscaping projects.
 
 ### *Touch the Sound*
-Note: Need different screen grab
+Note: Need to add screen grab
 
 * Source URL: <http://www.imdb.com/title/tt0424509/>
 * Creator: Thomas Riedelsheimer (Director)
