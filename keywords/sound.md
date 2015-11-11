@@ -145,16 +145,28 @@ Yergeau, Melanie et al. “Multimodality in Motion: Disability & Kairotic Spaces
 
 ## WORKS CITED
 
-Jensenius, David. “FoundSounds.” 2015. Web. June 24 2015. <https://foundsounds.me/>
+"Audacity." The Audacity Team. n.d. Web. 8 Nov. 2015. <http://audacityteam.org/>
+
+"The Audacity Manual." The Audacity Team. n.d. Web. 8 Nov. 2015. <http://manual.audacityteam.org/man/Main_Page>
+
+“FoundSounds.” David Jensenius. 2015. Web. 24 June 2015. <https://foundsounds.me/>
 
 “London Sound Survey.” n.d. Web. 20 June 2015. <http://www.soundsurvey.org.uk/>
 
-“SoundCities.” Stanza. 2000. Web. 23 June 2015. <http://www.soundcities.com/>
+“Museum of Endangered Sounds.” Brendan Chilcutt. January 2012. Web. 24 June 2015. <http://savethesounds.info/>
+
+"Omeka." Roy Rosenzweig Center for History and New Media. George Mason Univeresity. 2007. Web. 8 Nov. 2015. <http://omeka.org/>
+
+"The Roaring 'Twenties: An Interactive Exploration of the Historical Soundscape of New York City." Emily Thompson. Design by Scott Mahoy. *Vectors Journal* (2013) <http://vectors.usc.edu/projects/index.php?project=98>
+
+"The Sonic Memorial Project." Davia Nelson and Nikki Silva. n.d. Web. 24 June 2015. <http://www.sonicmemorial.org/sonic/public/index.html>
+
+"SoundCities." Stanza. 2000. Web. 23 June 2015. <http://www.soundcities.com/>
 
 Sterne, Jonathan, Ed. *The Sound Studies Reader*. New York: Routledge, 2012. 
 
-Sullivan, John Jeremiah. “The Ballad of Geeshie and Elvie.” *The New York Times*. April 13, 2014. Web. 17 May 2015. <http://www.nytimes.com/interactive/2014/04/13/magazine/blues.html?_r=0>
+Stoever, Jennifer. "Splicing the Sonic Color-Line: Tony Schwartz Remixes Postwar Nueva York." *Social Text* 28.1 (2010): 59-85.
 
-“Western Soundscape Archive.” J. Willard Marriott Library. The University of Utah. November 2007. Web. 24 June 2015. <http://westernsoundscape.org/>
+Stone, Jonathan. "Listening to the Sonic Archive: Rhetoric, Representation, and Race in the Lomax Prison Recordings." *Enculturation* 19 (2015) <http://enculturation.net/listening-to-the-sonic-archive>
 
-Wilson, Carl. *Let's Talk About Love: A Journey to the End of Taste*. London: Bloomsbury Academic, 2014. 
+"Western Soundscape Archive." J. Willard Marriott Library. The University of Utah. November 2007. Web. 24 June 2015. <http://westernsoundscape.org/>
