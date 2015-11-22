@@ -1,14 +1,14 @@
 # Community (Draft)
 
 ## Bridget Draxler
-TILE, INSTITUTION | YOUR PORTFOLIO URL
+Assistant Professor and Director of Communication Across the Curriculum, Monmouth University | http://www.monmouthcollege.edu/academics/faculty.aspx?id=0768977
 
 ---
 
 ##### Publication Status:
 
-* **unreviewed draft**
-* draft version undergoing editorial review
+* unreviewed draft
+* **draft version undergoing editorial review**
 * draft version undergoing peer-to-peer review
 * published
 
