@@ -72,7 +72,7 @@ With even more multimedia elements, Digital Dubliners http://digitaldubliners.co
 The Passport Project is an innovative first-year course that asks students to blog about community events representing the arts, humanities, sciences, along with political events and performances in dance, theater, and music. Peer Mentors, recent graduates of the program, lead small group discussions. The course could be easily adapted to a variety of technological platforms and communities, and encourages students to identify, early on, not only as members of the campus community but also the broader local community.
 
 ### Intro to Public Arts & Humanities
- ![screenshot](images/community-intro-public-arts-humanities) 
+ ![screenshot](images/community-intro-public-arts-humanities.png) 
 
 * Type: syllabus/lesson plans
 * Source URL: (insert PDF)
@@ -81,7 +81,7 @@ The Passport Project is an innovative first-year course that asks students to bl
 In Elizabeth Goodhue’s Intro to Public Arts & Humanities course, undergraduate students spend a week discussing the intersection of community engagement and digital humanities. Students begin by reading Jeffrey Schnapp’s “A Short Guide to Digital Humanities” (https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), emphasizing passages about how digital humanities redefines community and fosters a notion of “citizen scholars,” building on earlier readings like Gregory Jay’s “The Engaged Humanities: Principles and Practices for Public Scholarship and Teaching” (http://jces.ua.edu/the-engaged-humanities-principles-and-practices-for-public-scholarship-and-teaching/). Goodhue also introduces students to a carefully curated list of scholarly projects that foreground the intersection of digital humanities and public humanities. The worksheet attached here, an adaptation of Brian Croxall’s project evaluation assignment (http://www.briancroxall.net/dh/assignments/digital-humanities-project-evaluation/), guides small and large group discussion. 
 
 ### AnnoTate
- ![screenshot](images/community-annotate) 
+ ![screenshot](images/community-annotate.png) 
 
 * Type: citizen scholarship
 * Source URL: https://anno.tate.org.uk/?utm_source=Newsletter&utm_medium=Email&utm_campaign=TateLaunch#/ 
