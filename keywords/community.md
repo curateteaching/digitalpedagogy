@@ -63,7 +63,7 @@ Engaging students in the task of translating and annotating Beowulf for modern r
 With even more multimedia elements, Digital Dubliners http://digitaldubliners.com/ (developed by students at Boston College) offers another example of students creating texts for other students--in this case, emphasizing the cultural context of Joyce’s Dublin. In this way, students develop a sense of community not only with their co-editors but also with imagined, future peer readers of these texts.
 
 ### The Passport Project
- ![screenshot](images/community-passport-project.png) 
+ ![screenshot](images/community-Passport-Project.png) 
 
 * Type: course
 * Source URL: http://thestudio.uiowa.edu/passport/
@@ -81,7 +81,7 @@ The Passport Project is an innovative first-year course that asks students to bl
 In Elizabeth Goodhue’s Intro to Public Arts & Humanities course, undergraduate students spend a week discussing the intersection of community engagement and digital humanities. Students begin by reading Jeffrey Schnapp’s “A Short Guide to Digital Humanities” (https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), emphasizing passages about how digital humanities redefines community and fosters a notion of “citizen scholars,” building on earlier readings like Gregory Jay’s “The Engaged Humanities: Principles and Practices for Public Scholarship and Teaching” (http://jces.ua.edu/the-engaged-humanities-principles-and-practices-for-public-scholarship-and-teaching/). Goodhue also introduces students to a carefully curated list of scholarly projects that foreground the intersection of digital humanities and public humanities. The worksheet attached here, an adaptation of Brian Croxall’s project evaluation assignment (http://www.briancroxall.net/dh/assignments/digital-humanities-project-evaluation/), guides small and large group discussion. 
 
 ### AnnoTate
- ![screenshot](images/community-annotate.png) 
+ ![screenshot](images/community-annotate.jpg) 
 
 * Type: citizen scholarship
 * Source URL: https://anno.tate.org.uk/?utm_source=Newsletter&utm_medium=Email&utm_campaign=TateLaunch#/ 
