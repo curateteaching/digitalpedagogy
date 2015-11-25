@@ -1,5 +1,12 @@
 # News: DIGITAL PEDAGOGY IN THE HUMANITIES: CONCEPTS, MODELS, AND EXPERIMENTS
 
+## 25 November 2015
+
+### Join Us for "Curating Digital Pedagogy in the Humanities" at MLA 2016
+
+Join three of the project editors and seven curators for this Electronic Roundtable on Sunday, January 10, 2016, 10:15 - 11:30 AM in Lone Start G, JW Marriott at the 2016 Annual Convention of the Modern Language Association in Austin, Texas.  Abstract, twitter handles, and more information available here: [https://github.com/curateteaching/digitalpedagogy/blob/master/MLA2016.md](https://github.com/curateteaching/digitalpedagogy/blob/master/MLA2016.md)
+
+
 ## 24 July 2015
 
 ### Open Peer Review for First Batch of Keywords Ends August 3
