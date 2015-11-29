@@ -1,7 +1,7 @@
 # Community (Draft)
 
 ## Bridget Draxler
-Assistant Professor and Director of Communication Across the Curriculum, Monmouth University | http://www.monmouthcollege.edu/academics/faculty.aspx?id=0768977
+Assistant Professor and Director of Communication Across the Curriculum, Monmouth College | http://www.monmouthcollege.edu/academics/faculty.aspx?id=0768977
 
 ---
 
