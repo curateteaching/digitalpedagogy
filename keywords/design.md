@@ -14,7 +14,14 @@ editor:
 publisher: Modern Language Association
 type: book
 ---
+# DESIGN (Draft)
+ 
+### Jennifer Sheppard 
+San Diego State University 
+### [Kristin L. Arola](http://arola.kuurola.com) 
+Washington State University
 
+---
 ##### Publication Status:
 * unreviewed draft  
 **draft version undergoing editorial review** 
@@ -92,9 +99,6 @@ remixing-to-kill-a-mockingbird)
 Redesigning asks students to consider how the design of a text encourages a certain understanding of that text. In this assignment, Traci Gardner asks her students to take an existing story told through the written word and translate it into a multimodal version. By asking students to think creatively about how to redesign and represent text in a new format, students must consider how the design choices they make have rhetorical effects. This assignment can be used in literature courses as a way of interrogating how a story is told, shaped, read, and understood through the modal choices used.
 
 ### Autobiographical Icons
-![screenshot](images/design-produce-kuure.png)
-
-* Artifact Type: Icon Development Assignment
 ![screenshot](images/design-produce-kuure.png)
 
 * Source URL: 
