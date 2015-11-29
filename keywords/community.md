@@ -1,7 +1,7 @@
 # Community (Draft)
 
 ## Bridget Draxler
-Assistant Professor and Director of Communication Across the Curriculum, Monmouth University | http://www.monmouthcollege.edu/academics/faculty.aspx?id=0768977
+Assistant Professor and Director of Communication Across the Curriculum, Monmouth College | http://www.monmouthcollege.edu/academics/faculty.aspx?id=0768977
 
 ---
 
@@ -49,7 +49,7 @@ For the twenty-first-century humanist, the community is not our audience but our
 
 18th Connect is a database of eighteenth-century texts driven by values of sharing and service. Along with features typical of online communities (discussions, groups) and scholarly communities (peer review, searchable archives), it offers scholars and advanced students an opportunity to receive plain and TEI-encoded copies of texts from ProQuest and Gale in exchange for correcting any OCR errors in these texts. 
 
-In addition to widening the circle of scholars and readers who have access to eighteenth-century texts, 18th Connect is also opening new opportunities for students to work with archival sources and create digital publications. For instance, Danielle Spratt’s graduate students at California State University - Northridge created a digital scholarly edition of Sarah Fielding’s The Countess of Dellwyn http://thecountessofdellwyn.weebly.com/, which simultaneously invited students to engage in collaborative research within the classroom community and to contribute to scholarly work within the online community. The collaboratively annotated text is accessible for undergraduate students to read, or could provide a model for students to create their own digital scholarly editions of texts. 
+In addition to widening the circle of scholars and readers who have access to eighteenth-century texts, 18th Connect is also opening new opportunities for students to work with archival sources and create digital publications. For instance, Danielle Spratt’s graduate students at California State University - Northridge created a digital scholarly edition of Sarah Fielding’s The Countess of Dellwyn http://thecountessofdellwyn.weebly.com/, which simultaneously invited students to engage in collaborative research within the classroom community and to contribute to scholarly work within the online community. The collaboratively annotated text is accessible for undergraduate students to read, or could provide a model for students to create their own digital scholarly editions of texts. 18thConnect hosts other peer-reviewed exhibits and texts, though the current database is largely uncorrected texts awaiting student or scholar edits. 
 
 ### Grinnell Beowulf
 ![screenshot](images/community-grinnell-beowulf.png)
@@ -60,7 +60,7 @@ In addition to widening the circle of scholars and readers who have access to ei
 
 Engaging students in the task of translating and annotating Beowulf for modern readers, Tim Arner (Grinnell College) created a for-students, by-students teaching edition of the early English text. The digital text offers an example of how public digital humanities projects can reframe students as teachers, democratizing not only access to but production of knowledge online. 
 
-With even more multimedia elements, Digital Dubliners http://digitaldubliners.com/ (developed by students at Boston College) offers another example of students creating texts for other students--in this case, emphasizing the cultural context of Joyce’s Dublin. In this way, students develop a sense of community not only with their co-editors but also with imagined, future peer readers of these texts.
+In this way, students develop a sense of community not only with their co-editors but also with imagined, future peer readers of a text.
 
 ### The Passport Project
  ![screenshot](images/community-Passport-Project.png) 
@@ -111,8 +111,7 @@ For more information on student involvement on HASTAC, see especially the HASTAC
 
 Digital tools can not only help us engage with our own communities, but also help us to understand historical communities better. One of the best examples of this is Mapping the Republic of Letters, a Stanford project with numerous partners that contextualizes the intellectual network of key early modern thinkers. By identifying moments of exchange and influence, the tool reframes Western thought from a series of important figures to a rich intellectual community. The site includes course descriptions of classes that have used or even contributed to the project (http://republicofletters.stanford.edu/teaching.html). 
 
-For more examples of public digital humanities research that focuses on historical communities, see The University of Virginia’s The Valley of the Shadow (http://valley.lib.virginia.edu/), a history of two communities during the American Civil War, which includes useful teaching materials (http://www2.vcdh.virginia.edu/teaching/vclassroom/vclasscontents.html), or Locating
-London’s Past (http://www.locatinglondon.org/index.html), a geotagged archive based on John Rocque's 1746 map of London. 
+Following the examples here, students could use "network theory to analyze key individuals and key moments in intellectual history," contextualizing individual thinkers within a community of correspondence. 
 
 ### Our Marathon
  ![screenshot](images/community-Our-Marathon.png)  
