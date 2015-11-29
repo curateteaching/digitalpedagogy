@@ -102,10 +102,10 @@ Redesigning asks students to consider how the design of a text encourages a cert
 ![screenshot](images/design-produce-kuure.png)
 
 * Source URL: 
-..* Part 1, http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_1
-..* Part 2, http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_2
-..* Part 3, http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_3
-..* Assessment, http://baddayeveryday.com/teaching/docs/dtc336/DTC336_project_2_grading_sheet.pdf
+  * Part 1, http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_1
+  * Part 2, http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_2
+  * Part 3, http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_3
+  * Assessment, http://baddayeveryday.com/teaching/docs/dtc336/DTC336_project_2_grading_sheet.pdf
 * Creator: Jeff Kuure
 
 In this three-part assignment, Jeff Kuure asks his students to develop a set of personalized icons that represent actions taken throughout the day. Students are asked to consider how icons function as design cues for particular audiences in particular situations. While the final project includes icons drawn through Adobe Illustrator, this assignment is easily modified for less technical courses where students could simply hand-draw the icon with a written description. Producing icons allows students to consider the ways in which simple design choices, when done well, can convey complicated meaning. It also helps students think through the ways they as audience members understand and use icons in their daily lives.
