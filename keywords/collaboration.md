@@ -10,7 +10,7 @@
 
 ## Danica Savonick
 
-**The Graduate Center, CUNY | [danicasavonick.commons.gc.cuny.edu](http://danicasavonick.commons.gc.cuny.edu)**
+**The Graduate Center, CUNY | [danicasavonick.com](http://danicasavonick.com)**
 
 * * *
 
