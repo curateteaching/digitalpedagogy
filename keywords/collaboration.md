@@ -183,7 +183,7 @@ The Pedagogy Project is a crowd-sourced collection of more than 80 projects and 
 
 * Keith, Melissa, and Joy Palmer. “CompFAQs from CompPile | What Is Collaboration?” Web. 22 July 2015. [http://compfaqs.org/BasicWritingCollaboration/Defined](http://compfaqs.org/BasicWritingCollaboration/Defined)
 
-* "Special Issue: Mentorship and Collaboration." *The Journal of Interactive Technology and Pedagogy* 7 (2015).
+* "Special Issue: Mentorship and Collaboration." *The Journal of Interactive Technology and Pedagogy* 7 (2015). [http://jitp.commons.gc.cuny.edu/category/issues/issue-7/](http://jitp.commons.gc.cuny.edu/category/issues/issue-7/)
 
 * Spiro, Lisa. "Zotero | Groups > Collaborative Scholarship in the Digital Humanities." Web. 22 July 2015. [https://www.zotero.org/groups/collaborative_scholarship_in_the_digital_humanities](https://www.zotero.org/groups/collaborative_scholarship_in_the_digital_humanities) 
 
