@@ -16,7 +16,7 @@ type: book
 ---
 # DESIGN (Draft)
  
-### Jennifer Sheppard 
+### [Jennifer Sheppard](http://jennysheppard.com/) 
 San Diego State University 
 ### [Kristin L. Arola](http://arola.kuurola.com) 
 Washington State University
