@@ -24,8 +24,8 @@ Virginia Tech | The Center for Applied Technologies in the Humanities| [Website]
 
 ##### Publication Status:
 * unreviewed draft
-* **draft version undergoing editorial review**
-* draft version undergoing peer-to-peer review
+* draft version undergoing editorial review
+* **draft version undergoing peer-to-peer review**
 * published 
 
 ## CURATORIAL STATEMENT
