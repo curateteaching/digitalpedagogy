@@ -6,8 +6,8 @@ State University of New York at Geneseo | http://www.geneseo.edu/english/schacht
 ---
 
 ##### Publication Status:
-* **unreviewed draft**
-* draft version undergoing editorial review
+* unreviewed draft
+* **draft version undergoing editorial review**
 * draft version undergoing peer-to-peer review
 * published 
 
