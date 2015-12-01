@@ -1,7 +1,7 @@
 # Community (Draft)
 
 ## Bridget Draxler
-Assistant Professor and Director of Communication Across the Curriculum, Monmouth College | http://www.monmouthcollege.edu/academics/faculty.aspx?id=0768977
+Assistant Professor and Director of Communication Across the Curriculum, Monmouth University | http://www.monmouthcollege.edu/academics/faculty.aspx?id=0768977
 
 ---
 
@@ -124,6 +124,26 @@ Our Marathon is a community-owned project that models the the collaborative and 
 
 As a classroom tool, Our Marathon could be a fruitful “text” for a course on memory and memorialization, or a model for students to develop their own digital memorial for tragedies in their own communities.
 
+### Public Matters
+ ![screenshot](images/community-public-matters.png) 
+ 
+* Type: project hub
+* Source URL: http://www.publicmattersgroup.com/
+* Creator: Mike Blockstein
+
+Public Matters is "an interdisciplinary, social enterprise" dedicated to designing and implementing "innovative programs that build social, creative, and civic capital in communities." By engaging various stakeholders to create "Neighborhood Narratives," and developing young leaders through the Urban Futures Lab https://www.youtube.com/watch?v=1HVZ3rX86M4], they offer a model of long-term, project-driven, mutually beneficial partnerships between institutions of higher education and local communities. Though based in L.A., Public Matters serves as a model for creating a networked hub of civic engagement activity that could be replicated in other communities and classrooms.
+ 
+### Intermedia Artists in Community
+ ![screenshot](images/community-intermedia-artists-in-community.png) 
+ 
+* Type: course
+* Source URL: none
+* Creator: Jon Winet, The University of Iowa
+
+Artists in Community is an interdisciplinary class centered on students participating in internships at Iowa City-Coralville|Johnson County non-profit organizations. The class is comprised of fieldwork and class seminars. Readings and discussion focus on ‘the artist as citizen,’ ‘the artist as activist,’ relational aesthetics, art in public and the challenges and opportunities of civic engagement in the Digital Age.
+
+Artists in Community serves as a model of a discipline-specific community engagement project that capitalizes on digital technology and relationship building to create partnerships between students and non-profit agencies.
+ 
 ### Related Materials
 
 “New Self-Guided Curriculum for Digitization.” Digital Public Library of America. http://dp.la/info/2015/10/07/new-self-guided-curriculum-for-digitization/ 
