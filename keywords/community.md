@@ -98,7 +98,7 @@ By transcribing texts as citizen scholars, students learn important research ski
 * Source URL: http://www.hastac.org/
 * Creator: Cathy Davidson and David Theo Goldberg (co-founders), Duke University and CUNY
 
-HASTAC is an example of an online community it its best form, with a diverse and active readership. It has hosted some of the most exciting recent conversations about collaborations between educational institutions and GLAMs (galleries, libraries, archives and museums), partnerships that highlight the potential for reciprocity and student engagement in community-based digital humanities research and teaching. 
+HASTAC is an example of an online community in its best form, with a diverse and active readership. It has hosted some of the most exciting recent conversations about collaborations between educational institutions and GLAMs (galleries, libraries, archives and museums), partnerships that highlight the potential for reciprocity and student engagement in community-based digital humanities research and teaching. 
 
 For more information on student involvement on HASTAC, see especially the HASTAC Scholars program, which has increasingly involved undergraduate student participants. While difficult to implement into an entire section of a course, the HASTAC Scholars program would be a good fit for one student or a small group of students to blog about digital humanities projects on their home campus. 
 
