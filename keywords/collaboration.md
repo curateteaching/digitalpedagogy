@@ -190,6 +190,8 @@ The Pedagogy Project is a crowd-sourced collection of more than 80 projects and 
 
 ## WORKS CITED
 
+Arola, Kristin L., et al. *Writer/Designer: A Guide to Making Multimodal Projects.* New York, NY: Bedford/St. Martin's, 2014. Print.
+
 "B-Social." Communication Studies Department, Saint Joseph's University. Web. 22 July 2015. [http://beautifulsocial.org/](http://beautifulsocial.org/)
 
 Blackmon, Samantha, et al. "Not Your Mama’s Gamer." Web. 22 July 2015. [http://www.nymgamer.com/?page_id=2](http://www.nymgamer.com/?page_id=2) 
