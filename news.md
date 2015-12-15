@@ -1,5 +1,9 @@
 # News: DIGITAL PEDAGOGY IN THE HUMANITIES: CONCEPTS, MODELS, AND EXPERIMENTS
 
+## 15 December 2015
+
+### The editors get interviewed by Nicky Agate, MLA Commons, about the history, process, experimentation, and innovation of an open publishing and open peer review project, available here: [https://scholcomm.commons.mla.org/in-development/an-interview-with-the-editors-of-digital-pedagogy-in-the-humanities-2](https://scholcomm.commons.mla.org/in-development/an-interview-with-the-editors-of-digital-pedagogy-in-the-humanities-2)
+
 ## 25 November 2015
 
 ### Join Us for "Curating Digital Pedagogy in the Humanities" at MLA 2016
