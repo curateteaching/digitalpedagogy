@@ -13,7 +13,7 @@ For now, please follow *Digital Pedagogy in the Humanities* on Twitter through t
 
 ## General Editors
 * Rebecca Frost Davis, St. Edward's University (rebeccafrostdavis@gmail.com)
-* Matthew K. Gold, City Tech & Graduate Center, City University of New York (mgold@gc.cuny.edu)
+* Matthew K. Gold, The Graduate Center, City University of New York (mgold@gc.cuny.edu)
 * Katherine D. Harris, San José State University (dr.katherine.harris@gmail.com)
 * Jentery Sayers, University of Victoria (jentery@uvic.ca)
 

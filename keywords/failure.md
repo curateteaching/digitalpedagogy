@@ -18,14 +18,14 @@ type: book
 # FAILURE (Draft)
 
 ## Brian Croxall and Quinn Warnick
-Emory University | Emory Center for Digital Scholarship| [Website](http://briancroxall.net)
+Brown University | Brown University Library and the Brown Center for Digital Scholarship | [Website](http://briancroxall.net)
 
 Virginia Tech | The Center for Applied Technologies in the Humanities| [Website](http://quinnwarnick.com)
 
 ##### Publication Status:
-* **unreviewed draft**
+* unreviewed draft
 * draft version undergoing editorial review
-* draft version undergoing peer-to-peer review
+* **draft version undergoing peer-to-peer review**
 * published 
 
 ## CURATORIAL STATEMENT
