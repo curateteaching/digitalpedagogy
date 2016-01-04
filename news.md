@@ -1,5 +1,11 @@
 # News: DIGITAL PEDAGOGY IN THE HUMANITIES: CONCEPTS, MODELS, AND EXPERIMENTS
 
+## 4 January 2016
+
+### Open Peer Review for First Batch of Keywords Ends January 18
+
+The second set of keywords from *Digital Pedagogy in the Humanities: Concepts, Models, and Experiments* is now available for open peer review until 18 January 2016. The editors invite you to participate in open review by commenting on the overall quality and persuasiveness of the curated keywords. Please visit [https://digitalpedagogy.commons.mla.org](https://digitalpedagogy.commons.mla.org) to read through and respond to the second set of keywords: Failure, Multimodal, Poetry, Professionalization, Project Management, Race, Sexuality, and Text Analysis
+
 ## 15 December 2015
 
 ### Interview with MLA Commons
