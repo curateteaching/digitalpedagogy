@@ -1,5 +1,9 @@
 # News: DIGITAL PEDAGOGY IN THE HUMANITIES: CONCEPTS, MODELS, AND EXPERIMENTS
 
+##9 January 2016
+
+### Tell us your definition of ["digital pedagogy"](https://t.co/ZarF67Cz1s). Results to be projected during the MLA Session on January 10, 2016 and analyzed using Voyant tools.
+
 ## 4 January 2016
 
 ### Open Peer Review for Second Batch of Keywords Ends January 18
