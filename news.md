@@ -2,7 +2,7 @@
 
 ##9 January 2016
 
-### Tell us your definition of ["digital pedagogy"](https://t.co/ZarF67Cz1s). Results to be projected during the MLA Session on January 10, 2016 and analyzed using Voyant tools.
+Tell us your definition of ["digital pedagogy"](https://t.co/ZarF67Cz1s). Results to be projected during the MLA Session on January 10, 2016 and analyzed using Voyant tools. See [Rebecca Frost Davis' blog post](https://rebeccafrostdavis.wordpress.com/2016/01/09/defining-digital-pedagogy/) on why we're inviting you to participate in this defining
 
 ## 4 January 2016
 
