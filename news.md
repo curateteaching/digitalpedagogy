@@ -1,8 +1,10 @@
 # News: DIGITAL PEDAGOGY IN THE HUMANITIES: CONCEPTS, MODELS, AND EXPERIMENTS
 
-##9 January 2016
+##9-10 January 2016
 
-Tell us your definition of ["digital pedagogy"](https://t.co/ZarF67Cz1s). Results to be projected during the MLA Session on January 10, 2016 and analyzed using Voyant tools. See [Rebecca Frost Davis' blog post](https://rebeccafrostdavis.wordpress.com/2016/01/09/defining-digital-pedagogy/) on why we're inviting you to participate in this defining
+Tell us your definition of ["digital pedagogy"](https://t.co/ZarF67Cz1s). Results to be analyzed using Voyant tools. See [Rebecca Frost Davis' blog post](https://rebeccafrostdavis.wordpress.com/2016/01/09/defining-digital-pedagogy/) on why we're inviting you to participate in this defining
+
+See Katherine D. Harris's blog post with [slides and images from MLA 16 session #736, Sunday, January 10, 2015](https://triproftri.wordpress.com/2016/01/10/mla2016-dig-ped/)
 
 ## 4 January 2016
 
