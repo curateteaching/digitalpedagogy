@@ -23,8 +23,8 @@ Department of English | University of Massachusetts Lowell | [Website](http://nm
 
 ##### Publication Status:
 * unreviewed draft
-* **draft version undergoing editorial review**
-* draft version undergoing peer-to-peer review
+* draft version undergoing editorial review
+* **draft version undergoing peer-to-peer review**
 * published 
 
 --- 

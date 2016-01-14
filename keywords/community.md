@@ -1,7 +1,10 @@
 # Community (Draft)
 
 ## Bridget Draxler
-Assistant Professor and Director of Communication Across the Curriculum, Monmouth University | http://www.monmouthcollege.edu/academics/faculty.aspx?id=0768977
+Assistant Professor and Director of Communication Across the Curriculum, Monmouth College | http://www.monmouthcollege.edu/academics/faculty.aspx?id=0768977
+
+## Jon Winet
+Professor, University of Iowa | http://informatics.grad.uiowa.edu/faculty/jon-winet
 
 ---
 
@@ -49,7 +52,7 @@ For the twenty-first-century humanist, the community is not our audience but our
 
 18th Connect is a database of eighteenth-century texts driven by values of sharing and service. Along with features typical of online communities (discussions, groups) and scholarly communities (peer review, searchable archives), it offers scholars and advanced students an opportunity to receive plain and TEI-encoded copies of texts from ProQuest and Gale in exchange for correcting any OCR errors in these texts. 
 
-In addition to widening the circle of scholars and readers who have access to eighteenth-century texts, 18th Connect is also opening new opportunities for students to work with archival sources and create digital publications. For instance, Danielle Spratt’s graduate students at California State University - Northridge created a digital scholarly edition of Sarah Fielding’s The Countess of Dellwyn http://thecountessofdellwyn.weebly.com/, which simultaneously invited students to engage in collaborative research within the classroom community and to contribute to scholarly work within the online community. The collaboratively annotated text is accessible for undergraduate students to read, or could provide a model for students to create their own digital scholarly editions of texts. 
+In addition to widening the circle of scholars and readers who have access to eighteenth-century texts, 18th Connect is also opening new opportunities for students to work with archival sources and create digital publications. For instance, Danielle Spratt’s graduate students at California State University - Northridge created a digital scholarly edition of Sarah Fielding’s The Countess of Dellwyn http://thecountessofdellwyn.weebly.com/, which simultaneously invited students to engage in collaborative research within the classroom community and to contribute to scholarly work within the online community. The collaboratively annotated text is accessible for undergraduate students to read, or could provide a model for students to create their own digital scholarly editions of texts. 18thConnect hosts other peer-reviewed exhibits and texts, though the current database is largely uncorrected texts awaiting student or scholar edits. 
 
 ### Grinnell Beowulf
 ![screenshot](images/community-grinnell-beowulf.png)
@@ -60,7 +63,7 @@ In addition to widening the circle of scholars and readers who have access to ei
 
 Engaging students in the task of translating and annotating Beowulf for modern readers, Tim Arner (Grinnell College) created a for-students, by-students teaching edition of the early English text. The digital text offers an example of how public digital humanities projects can reframe students as teachers, democratizing not only access to but production of knowledge online. 
 
-With even more multimedia elements, Digital Dubliners http://digitaldubliners.com/ (developed by students at Boston College) offers another example of students creating texts for other students--in this case, emphasizing the cultural context of Joyce’s Dublin. In this way, students develop a sense of community not only with their co-editors but also with imagined, future peer readers of these texts.
+In this way, students develop a sense of community not only with their co-editors but also with imagined, future peer readers of a text.
 
 ### The Passport Project
  ![screenshot](images/community-Passport-Project.png) 
@@ -78,7 +81,7 @@ The Passport Project is an innovative first-year course that asks students to bl
 * Source URL: (insert PDF)
 * Creator: Elizabeth Goodhue, UCLA
 
-In Elizabeth Goodhue’s Intro to Public Arts & Humanities course, undergraduate students spend a week discussing the intersection of community engagement and digital humanities. Students begin by reading Jeffrey Schnapp’s “A Short Guide to Digital Humanities” (https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), emphasizing passages about how digital humanities redefines community and fosters a notion of “citizen scholars,” building on earlier readings like Gregory Jay’s “The Engaged Humanities: Principles and Practices for Public Scholarship and Teaching” (http://jces.ua.edu/the-engaged-humanities-principles-and-practices-for-public-scholarship-and-teaching/). Goodhue also introduces students to a carefully curated list of scholarly projects that foreground the intersection of digital humanities and public humanities. The worksheet attached here, an adaptation of Brian Croxall’s project evaluation assignment (http://www.briancroxall.net/dh/assignments/digital-humanities-project-evaluation/), guides small and large group discussion. 
+In Elizabeth Goodhue’s Intro to Public Arts & Humanities course, undergraduate students spend a week discussing the intersection of community engagement and digital humanities. Students begin by reading Jeffrey Schnapp et al.’s “A Short Guide to Digital Humanities” (https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), emphasizing passages about how digital humanities redefines community and fosters a notion of “citizen scholars,” building on earlier readings like Gregory Jay’s “The Engaged Humanities: Principles and Practices for Public Scholarship and Teaching” (http://jces.ua.edu/the-engaged-humanities-principles-and-practices-for-public-scholarship-and-teaching/). Goodhue also introduces students to a carefully curated list of scholarly projects that foreground the intersection of digital humanities and public humanities. The worksheet attached here, an adaptation of Brian Croxall’s project evaluation assignment (http://www.briancroxall.net/dh/assignments/digital-humanities-project-evaluation/), guides small and large group discussion. 
 
 ### AnnoTate
  ![screenshot](images/community-annotate.jpg) 
@@ -98,7 +101,7 @@ By transcribing texts as citizen scholars, students learn important research ski
 * Source URL: http://www.hastac.org/
 * Creator: Cathy Davidson and David Theo Goldberg (co-founders), Duke University and CUNY
 
-HASTAC is an example of an online community it its best form, with a diverse and active readership. It has hosted some of the most exciting recent conversations about collaborations between educational institutions and GLAMs (galleries, libraries, archives and museums), partnerships that highlight the potential for reciprocity and student engagement in community-based digital humanities research and teaching. 
+HASTAC is an example of an online community in its best form, with a diverse and active readership. It has hosted some of the most exciting recent conversations about collaborations between educational institutions and GLAMs (galleries, libraries, archives and museums), partnerships that highlight the potential for reciprocity and student engagement in community-based digital humanities research and teaching. 
 
 For more information on student involvement on HASTAC, see especially the HASTAC Scholars program, which has increasingly involved undergraduate student participants. While difficult to implement into an entire section of a course, the HASTAC Scholars program would be a good fit for one student or a small group of students to blog about digital humanities projects on their home campus. 
 
@@ -111,8 +114,7 @@ For more information on student involvement on HASTAC, see especially the HASTAC
 
 Digital tools can not only help us engage with our own communities, but also help us to understand historical communities better. One of the best examples of this is Mapping the Republic of Letters, a Stanford project with numerous partners that contextualizes the intellectual network of key early modern thinkers. By identifying moments of exchange and influence, the tool reframes Western thought from a series of important figures to a rich intellectual community. The site includes course descriptions of classes that have used or even contributed to the project (http://republicofletters.stanford.edu/teaching.html). 
 
-For more examples of public digital humanities research that focuses on historical communities, see The University of Virginia’s The Valley of the Shadow (http://valley.lib.virginia.edu/), a history of two communities during the American Civil War, which includes useful teaching materials (http://www2.vcdh.virginia.edu/teaching/vclassroom/vclasscontents.html), or Locating
-London’s Past (http://www.locatinglondon.org/index.html), a geotagged archive based on John Rocque's 1746 map of London. 
+Following the examples here, students could use "network theory to analyze key individuals and key moments in intellectual history," contextualizing individual thinkers within a community of correspondence. 
 
 ### Our Marathon
  ![screenshot](images/community-Our-Marathon.png)  
@@ -125,6 +127,26 @@ Our Marathon is a community-owned project that models the the collaborative and 
 
 As a classroom tool, Our Marathon could be a fruitful “text” for a course on memory and memorialization, or a model for students to develop their own digital memorial for tragedies in their own communities.
 
+### Public Matters
+ ![screenshot](images/community-public-matters.png) 
+ 
+* Type: project hub
+* Source URL: http://www.publicmattersgroup.com/
+* Creator: Mike Blockstein
+
+Public Matters is "an interdisciplinary, social enterprise" dedicated to designing and implementing "innovative programs that build social, creative, and civic capital in communities." By engaging various stakeholders to create "Neighborhood Narratives," and developing young leaders through the Urban Futures Lab https://www.youtube.com/watch?v=1HVZ3rX86M4], they offer a model of long-term, project-driven, mutually beneficial partnerships between institutions of higher education and local communities. Though based in L.A., Public Matters serves as a model for creating a networked hub of civic engagement activity that could be replicated in other communities and classrooms.
+ 
+### Intermedia Artists in Community
+ ![screenshot](images/community-intermedia-artists-in-community.png) 
+ 
+* Type: course
+* Source URL: none
+* Creator: Jon Winet, The University of Iowa
+
+Artists in Community is an interdisciplinary class centered on students participating in internships at Iowa City-Coralville|Johnson County non-profit organizations. The class is comprised of fieldwork and class seminars. Readings and discussion focus on ‘the artist as citizen,’ ‘the artist as activist,’ relational aesthetics, art in public and the challenges and opportunities of civic engagement in the Digital Age.
+
+Artists in Community serves as a model of a discipline-specific community engagement project that capitalizes on digital technology and relationship building to create partnerships between students and non-profit agencies.
+ 
 ### Related Materials
 
 “New Self-Guided Curriculum for Digitization.” Digital Public Library of America. http://dp.la/info/2015/10/07/new-self-guided-curriculum-for-digitization/ 
