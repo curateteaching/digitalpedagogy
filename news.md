@@ -2,7 +2,7 @@
 
 ## 20 January 2016
 
-### Open Peer Review for Third Batch of Keywords Ends February 22
+### Open Peer Review for Third Batch of Keywords NOW OPEN - Ends February 22
 
 At this year’s MLA convention in Austin, the editors of *Digital Pedagogy in the Humanities: Concepts, Models, and Experiments*, Rebecca Frost Davis, Matthew K. Gold, Katherine D. Harris, and Jentery Sayers, demonstrated the project’s innovative platform to an enthusiastic crowd. Now they invite you to continue the conversation by participating in the open peer-review process of the anthology’s third set of curated keywords. Each entry in the collection focuses on a keyword in the practice of digital pedagogy (ranging from “play” to “collaboration” to “design”), is curated by an experienced practitioner of digital pedagogy, and is supported by ten pedagogical artifacts, such as syllabi, prompts, exercises, lesson plans, Web sites, and student work drawn from courses, classrooms, and projects across the humanities.
 
