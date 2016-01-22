@@ -7,8 +7,8 @@ State University of New York at Geneseo | http://www.geneseo.edu/english/schacht
 
 ##### Publication Status:
 * unreviewed draft
-* **draft version undergoing editorial review**
-* draft version undergoing peer-to-peer review
+* draft version undergoing editorial review
+* **draft version undergoing peer-to-peer review https://digitalpedagogy.commons.mla.org/**
 * published 
 
 --- 
