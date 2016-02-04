@@ -59,36 +59,45 @@ Research is at the heart of all scholarly work, including teaching. Assessment i
 ## CURATED ARTIFACTS 
 
 ### Changing the Paradigm for Higher Education: Pedagogy and Assessment
-[https://www.hastac.org/collections/hastac-guide-future-higher-education-chapter-5](https://www.hastac.org/collections/hastac-guide-future-higher-education-chapter-5)
+![screenshot](images/assessmentHASTAC.png)
+
+* Source: [https://www.hastac.org/collections/hastac-guide-future-higher-education-chapter-5](https://www.hastac.org/collections/hastac-guide-future-higher-education-chapter-5)
 * Copy of Artifact: forthcoming
 * Creators: HASTAC, Collaborative Authors 
 
 HASTAC, has played a central role in documenting changing notions of pedagogy and a 21st century classroom. This collection of practices considers assessment from the following perspectives: makerspaces, creative contributions, student leadership, diversity, digital badging, aligning assessments with pedagogy, and focusing on learning and mastery rather than testing. 
 
 ### Introduction to Digital Humanities Syllabus
-* Source: [http://dhcu.ca/pages/syllabus] (http://dhcu.ca/pages/syllabus)
-* Copy of Artifact: fortcoming
-* Creator: Dr. Shawn Graham
+![screenshot](images/assessmentGraham.png)
+
+* Source: [http://dhcu.ca/pages/syllabus](http://dhcu.ca/pages/syllabus)
+* Copy of Artifact: forthcoming
+* Creator: Shawn Graham
 
 This syllabus is a prime example of structuring digital content with multiple digital assessments. The presentation of the course models the kind of work students will be doing, from a video introduction to the use of digital tools such as Slack, Github, and Pecha Kucha presentations. Significantly, Dr. Graham also addresses the importance of "public-facing" work, articulating a central shift in student work. Here, the public nature of student work is central to both the course design and course outcomes. 
 
 ### "Introduction to Narrative": A Collaborative, Experimental Intellectual Adventure
-* Source: [https://www.hastac.org/blogs/danicasavonick/2015/05/18/introduction-narrative-collaborative-experimental-intellectual] (https://www.hastac.org/blogs/danicasavonick/2015/05/18/introduction-narrative-collaborative-experimental-intellectual)
+![screenshot](images/assessmentSavonic.png)
+
+* Source: [https://www.hastac.org/blogs/danicasavonick/2015/05/18/introduction-narrative-collaborative-experimental-intellectual](https://www.hastac.org/blogs/danicasavonick/2015/05/18/introduction-narrative-collaborative-experimental-intellectual)
 * Copy of Artifact: forthcoming 
 * Creator: Danica Savonick
 
 This syllabus on narrative begins with a very clear relationship between the content of the course, the mode of work production, and assessment. The course engaged students in collaborative projects including crowd-sourced class notes using Sound Cloud, public writing in blogs, and collaborative final projects. You can view student examples and reflections on the  original source, demonstrating both how students are engaging in highly sophisticated multimodal projects and critique with student-designed evaluations. This syllabus demonstrates several key aspects of the changing nature of assessment: collaborative projects, student leadership in their own assessment and evaluation, and the critical importance of public writing and public work in digital scholarship for both faculty and students. 
 
 ### Evaluating Digital Humanities Projects: Collaborative Course Assessment
+![screenshot](images/assessmentGould.png)
 
-* Source: [http://sites.duke.edu/lit80s_01_f2014/evaluating-digital-humanities-projects-collaborative-course-assessment/] (http://sites.duke.edu/lit80s_01_f2014/evaluating-digital-humanities-projects-collaborative-course-assessment/)
+* Source: [http://sites.duke.edu/lit80s_01_f2014/evaluating-digital-humanities-projects-collaborative-course-assessment/](http://sites.duke.edu/lit80s_01_f2014/evaluating-digital-humanities-projects-collaborative-course-assessment/)
 * Copy of Artifact: forthcoming 
 * Creator: Amanda Starling Gould
 
 This assignment includes multiple measures, collaboration, integration of concepts outside of the classroom, and modeling professional expectations for students in the discipline. Students are not only evaluating digital humanities projects, they are also using digital mark up tools to learn how to collaboratively evaluate and respond to digital work. This is a key example of learning by doing: the form and content of the assignment and the assessment work together seamlessly.  
 
 ### La Mentira
-* Source: [www.mentira.org] (www.mentira.org)
+![screenshot](images/assessmentLaMentira.jpg)
+
+* Source: [http://www.mentira.org/](www.mentira.org)
 * Copy of Artifact: forthcoming
 * Creators: Chris Holden and Julie Sykes, University of New Mexico, Lead Designers; Linda Lemus, Aaron Salinger, Derek Roff, University of New Mexico, Game Designers
 
@@ -96,13 +105,17 @@ The creators of La Mentira explain, "The backbone of this project is a focus on 
 
 
 ### Notre Dame E2B2 Badge
-* Source: [http://eportfolio.nd.edu/directory/badge-directory/] (http://eportfolio.nd.edu/directory/badge-directory/)
+![screenshot](assessmentND.png)
+
+* Source: [http://eportfolio.nd.edu/directory/badge-directory/](http://eportfolio.nd.edu/directory/badge-directory/)
 * Copy of Artifact: forthcoming 
 * Creator: Alex Ambrose
 
 The badging project at Notre Dame explores new ways of making learning transparent by quickly identifying the transferable skills connected with each course or co-curricular experience. Badges have a practical application and serve to document student learning in classroom and co-curricular settings. 
 
 ### Reflection from Emblematica Online
+![screenshot](images/assessmentHeim.png)
+
 * Source: [https://emblematicaonlineuiuc.wordpress.com/heidi-heim/](https://emblematicaonlineuiuc.wordpress.com/heidi-heim/)
 * Copy of Artifact: forthcoming 
 * Creator: Heidi Heim
@@ -110,23 +123,31 @@ The badging project at Notre Dame explores new ways of making learning transpare
 Ms. Heim is one of several Emblem Scholars at the University of Illinois at Urbana-Champaign who engaged in undergraduate digital humanities research. Student researchers "create metadata by transcribing emblem mottos and associating this data with their respective emblems in their book for scholarly and pedagogical purposes. This digital humanities project focuses on Renaissance Emblem books." Ms. Heim's personal narrative provides a self-assessment of key skills and concepts learned in the context of this collaborative research project. Further, this project is a prime example of modeling professional expectations for students as Ms. Heim and her Emblem Scholars' cohort worked alongside faculty as participatory researchers. 
 
 ### Structuring Reflection
-* Source: [https://www.hastac.org/blogs/taxomania/2014/01/28/02-using-zines-classroom] (https://www.hastac.org/blogs/taxomania/2014/01/28/02-using-zines-classroom)
+![screenshot](images/assessmentLuther.png)
+
+* Source: [https://www.hastac.org/blogs/taxomania/2014/01/28/02-using-zines-classroom](https://www.hastac.org/blogs/taxomania/2014/01/28/02-using-zines-classroom)
 * Copy of Artifact: forthcoming 
 * Creator: Jason Luther
 
 The previous student example of reflection demonstrates how a student might approach narratively describing the skills and concepts learned during in connection with a particular project, assignment, course, or series of courses. A key question in reflective assignments is, how do you get students to reflect meaningfully? Luther's assignment shows the careful use of guiding questions that allow students to consider what they produced (a zine), what they learned, and how they self-assess their learning.
 
 ### Catalyst for Learning ePortfolio Site
-* Source: [http://c2l.mcnrc.org/oa/] (http://c2l.mcnrc.org/oa/)
+![screenshot](images/assessmentCatalyst.png)
+
+* Source: [http://c2l.mcnrc.org/oa/](http://c2l.mcnrc.org/oa/)
 * Copy of Artifact: forthcoming 
 * Creators: Bret Eynon, Laura Gambino, Randy Bass, Helen Chen, principal investigators and C2L Campus Teams
 
 The Catalyst for Learning site is an extensive resource for learning more about ePortfolios structured in several ways: thematically, via campus stories, and through the lens of a principal investigator, the site provides multiple views of ePortfolios on campuses across the country. The result of a three year research project, key campuses using ePortfolios studied their practices and work and documented it on the site. The principal investigators then studied that work and wrote analyses of each theme. One of those themes is assessment. By following through the assessment portion of the site, ePortfolios demonstrate a rich potential to provide authentic assessment of longitudinal student learning. 
 
 ### Holding for Darryl Draper app project
-* Source:
-* Copy of Artifact:
-* Creators:
+IMAGE FORTHCOMING 
+
+* Source: forthcoming
+* Copy of Artifact: forthcoming 
+* Creators: forthcoming 
+
+ANNOTATION FORTHCOMING.
 
 ## RELATED MATERIALS 
 
