@@ -131,7 +131,7 @@ JENTERY: Great to see Gould's work in your list, too. Here, I'll just echo some 
 ### La Mentira
 ![screenshot](images/assessmentLaMentira.jpg)
 
-* Source: [http://www.mentira.org/](www.mentira.org)
+* Source: [http://www.mentira.org/](http://www.mentira.org)
 * Copy of Artifact: forthcoming
 * Creators: Chris Holden and Julie Sykes, University of New Mexico, Lead Designers; Linda Lemus, Aaron Salinger, Derek Roff, University of New Mexico, Game Designers
 
