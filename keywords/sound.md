@@ -13,7 +13,7 @@ publisher: Modern Language Association
 type: book
 ---
 
-# SOUND (Draft)
+# Sound
  
 ### Steph Ceraso
 University of Maryland, Baltimore County
@@ -51,7 +51,7 @@ The artifacts listed below are intended to provide a starting point for developi
 ### *Sounding Out!* Blog
 ![screenshot](images/soundingout.png)
 
-* Source URL: http://soundstudiesblog.com/
+* Source URL: [http://soundstudiesblog.com/](http://soundstudiesblog.com/)
 * Creator: Jennifer Stoever (SUNY Binghamton)
 
 *Sounding Out!* blog provides a vast archive of media-rich writing aimed at bringing together academics, artists, professionals, and general readers interested in the cultural politics of sound and listening. This publication is a useful teaching resource because it offers complex and insightful perspectives on sound in relation to embodiment, identity, power, culture, and technology. *Sounding Out!*'s engaging, reader-friendly style makes it a particularly great source for exposing students to critical considerations of sound and listening for the first time. Topics discussed on this searchable, well-organized blog range from the histories of sonic technologies to the politics of pop music. In addition to its weekly featured posts, *Sounding Out!* has an affiliated podcast and hosts special series and forums. For example, in a provocative interdisciplinary forum on “Gendered Voices,” contributors explore subjects such as gendered music in the TV show *Scandal*, voice in transgendered experience, and cultural conceptions of gender and loudness. I've used this forum in my own classes to introduce an assignment called "My Listening Body." This project invites students to create an autobiographical piece of digital media in which they examine a past sonic experience that made them very aware of their bodies. Embodied experience in this assignment might refer to a particular physical (felt) sonic encounter and how it affected a student's emotions, behaviors, and thoughts; and/or to a sonic experience that caused a student to be hyper-aware of his or her race, class, gender, or another part of their embodied identities. The aim of this project is to heighten students' awareness of the various ways that sound can shape and inform one's bodily experiences and notions of self--something that the "Gendered Voices" forum models quite well.    
@@ -59,7 +59,7 @@ The artifacts listed below are intended to provide a starting point for developi
 ### "Writing with Sound" Syllabus
 ![screenshot](images/writingWithSound.png)
 
-* Source URL: http://caseyboyle.net/fall2014-writing-with-sound-course/
+* Source URL: [http://caseyboyle.net/fall2014-writing-with-sound-course/](http://caseyboyle.net/fall2014-writing-with-sound-course/)
 * Copy of Artifact: Forthcoming
 * Creator: Casey Boyle (University of Texas, Austin)
 
@@ -76,7 +76,7 @@ Jonathan Stone's innovative assignment "Sonic Remediations of the News" invites 
 ### "Audio Documentary”
 ![screenshot](images/audioDoc.png)
 
-* Source URL: http://www.stevenrhammer.com/com473/
+* Source URL: [http://www.stevenrhammer.com/com473/](http://www.stevenrhammer.com/com473/)
 * Copy of Artifact: Forthcoming
 * Creator: Steven Hammer (Saint Joseph’s University)
 
@@ -85,7 +85,7 @@ Steven Hammer’s undergraduate communication course on “Audio Design & Produc
 ### Third Coast International Audio Festival (TCIAF) Website
 ![screenshot](images/thirdCoast.png)
 
-* Source URL: http://www.thirdcoastfestival.org/library
+* Source URL: [http://www.thirdcoastfestival.org/library](http://www.thirdcoastfestival.org/library)
 * Creator: Johanna Zorn (Executive Director and Founder of Third Coast)
 
 The Third Coast International Audio Festival (TCIAF) is an annual Chicago-based event that curates and celebrates the best audio stories from around the world. The website for the festival contains information about TCIAF’s podcast, local and national radio shows, and listening events. There are several elements of the site that make it a helpful teaching resource. First, it has a searchable audio library, including noteworthy and award-winning radio shows and podcasts, audio documentaries, experimental sound art, sonic portraits, recordings of past TCIAF conference speakers, and more. The audio library is a good place to find high quality examples, and it can also provide students with a sense of the wide range of sonic genres and styles that they might experiment with in their own work. Additionally, the curated archive can serve as a starting point for discussions about what is valued or not in audio journalism and entertainment. For example, having students identify similarities (in themes, voices, technical features) across award-winning podcasts could lead to conversations about which kinds of cultural, gendered, and racial experiences are represented and which are left out; or perhaps discussions about when and why it is acceptable to use experimental narrative structures or digital audio effects. Generally speaking, the site is filled with interesting sonic material that could be used for pedagogical purposes.  
@@ -93,7 +93,7 @@ The Third Coast International Audio Festival (TCIAF) is an annual Chicago-based 
 ### Sonic Dictionary
 ![screenshot](images/soundSonicDictionary.png)
 
-* Source URL: http://sonicdictionary.fhi.duke.edu/about 
+* Source URL: [http://sonicdictionary.fhi.duke.edu/about ](http://sonicdictionary.fhi.duke.edu/about )
 * Creator: Mary Caton Lingold (Duke University)
 
 Sonic Dictionary is an archive of over 500 sound recordings collected by students at Duke University and collaborating institutions. More than 200 undergraduates from 20 classes have contributed to the Sonic Dictionary. Mary Caton Lingold initiated this project when she discovered that her students had trouble identifying particular musical sounds correctly. When students do not know the meaning of a word, they can easily look it up in a dictionary. Lingold wanted students to have a similar reference guide for looking up what specific sounds sound like, so she had her students create one using the open source publishing platform Omeka. The goal of this ongoing project is to "enhance the vocabulary of sonic experience," and Lingold encourages other instructors to design assignments that ask students to engage with and contribute to the Sonic Dictionary. The website also contains a range of student curated exhibits that explore the cultural significance of sound (e.g. "Sounds of the South"). Additionally, there are guidelines for contributors, sample lesson plans, and detailed instructor notes. Sonic Dictionary is a fantastic resource for students and instructors interested in audio culture and archival practices.   
@@ -101,7 +101,7 @@ Sonic Dictionary is an archive of over 500 sound recordings collected by student
 ### Open Sound New Orleans 
 ![screenshot](images/openSound.png)
 
-* Source URL: <http://www.opensoundneworleans.com/core/>
+* Source URL: [http://www.opensoundneworleans.com/core/](http://www.opensoundneworleans.com/core/)
 * Creators: Heather Booth and Jacob Brancasi (Project Directors)
 
 Open Sound New Orleans is a large-scale community sound mapping project that encourages New Orleanians to capture the sounds of their lives and neighborhoods. Contributors upload digital sound files to the project website, which then become part of a map of the rich sonic culture of New Orleans. Because contributors tag their sonic information, it is easy for users to search for specific sounds, themes, or locations. This project is unique because, unlike most sound mapping initiatives, it provides dispatches throughout the city that offer free training and recording equipment to interested individuals. Regardless of their economic or educational status, it is possible for all community members to participate in the project. In addition to being an effective model for similar community projects, Open Sound New Orleans is a wonderful teaching resource for discussing the ways that sound is used to represent particular geographies and cultural experiences. For example, when I included this project in one of my multimedia authoring courses, students discussed which neighborhoods they thought were “safe” or “dangerous” based on the sounds alone. This exercise initiated a conversation about the racial and cultural assumptions that are attached to sound. I also use Open Sound New Orleans (along with the “London Sound Survey” and the “Western Soundscapes Archive,” among others) to introduce collaborative sound mapping assignments. Open source digital mapping platforms like “SoundCities” now make it easy for students to produce their own soundscape projects, which can be used in a variety of ways in the classroom.
@@ -109,7 +109,7 @@ Open Sound New Orleans is a large-scale community sound mapping project that enc
 ### “Speaking Back to Our Spaces: The Rhetoric of Social Soundscaping”
 ![screenshot](images/speakingBack.png)
 
-* Source URL: http://harlotofthearts.org/index.php/harlot/article/view/150/122
+* Source URL: [http://harlotofthearts.org/index.php/harlot/article/view/150/122](http://harlotofthearts.org/index.php/harlot/article/view/150/122)
 * Creators: Kati Fargo Ahern (Long Island University) and Jordan Frith (University of North Texas)
 
 In this engaging piece of multimodal scholarship, Kati Fargo Ahern and Jordan Frith explore the ways that mobile technologies allow listeners to participate in the production of everyday soundscapes. The authors identify a trend called “Social Soundscaping,” or “contributing, geo-locating, sharing, and modifying sounds uploaded and tagged to specific public spaces.” Using apps on mobile devices, people can upload the sounds of their choosing to maps of physical locations. The idea is that interested individuals can wear headphones and use their WiFi-connected mobile devices to listen to location-specific soundscapes in a virtual environment while they are physically drifting through urban spaces. Additionally, listeners can add new sounds and modify or delete other contributors’ sounds, thus creating sonic environments that constantly change and evolve. Social soundscaping practices are significant because they enable people to have more control over the soundscapes of the public spaces they inhabit. Indeed, the authors’ Prezi presentation provides important contextual information about increasingly corporatized and privatized soundscapes in everyday life, which can give students a sense of how and why soundscaping or sound mapping projects can be used for different goals and purposes. Thus, “Speaking Back to Our Spaces” might be productively paired with Open Sound New Orleans or other digital sound maps. On a related note, “FoundSounds” is an excellent free sound app for instructors interested in designing their own social soundscaping projects.
@@ -117,7 +117,7 @@ In this engaging piece of multimodal scholarship, Kati Fargo Ahern and Jordan Fr
 ### *Touch the Sound*
 ![screenshot](images/soundTouchTheSound.jpg)
 
-* Source URL: <http://www.imdb.com/title/tt0424509/>
+* Source URL: [http://www.imdb.com/title/tt0424509/](http://www.imdb.com/title/tt0424509/)
 * Creator: Thomas Riedelsheimer (Director)
 
 This 2004 documentary film features deaf percussionist Evelyn Glennie, a world-renowned Scottish musician. Due to her deafness, Glennie relies on sight and touch (vibration) to listen. Touch the Sound follows Glennie through her everyday life to explore the multisensory ways that she experiences the sonic world. This film is a fantastic teaching resource for several reasons. First, *Touch the Sound* encourages viewers to reflect upon their own and others’ listening practices. Second, Glennie exemplifies how touch, sight, and sound work together during sonic interactions, making explicit the multisensory aspects of listening that most hearing people take for granted. In this way, the film has the potential to expand and enrich students’ conceptions of and approaches to listening. Lastly, the beyond-the-ears listening practices demonstrated in this film provide a perfect opportunity to talk to students about designing more accessible sonic projects, or projects that account for a range of listeners with different bodily capacities and needs. Indeed, teaching students to create sonic work that can be engaged with via multiple modes and pathways (as opposed to the ears only) is vitally important for encouraging more inclusive practices in digital pedagogy. 
@@ -125,7 +125,7 @@ This 2004 documentary film features deaf percussionist Evelyn Glennie, a world-r
 ### "Digital Music and Sound" Syllabus
 ![screenshot](images/digitaMusicSound.png)
 
-* Source URL: http://www.analogtara.net/wp/teaching/digital-music-sound/
+* Source URL: [http://www.analogtara.net/wp/teaching/digital-music-sound/](http://www.analogtara.net/wp/teaching/digital-music-sound/)
 * Copy of Artifact: Forthcoming
 * Creator: Tara Rogers (University of Maryland, College Park)
 
@@ -139,34 +139,34 @@ Oliveros, Pauline. *Deep Listening: A Composer's Sound Practice*. Bloomington, I
 
 Schafer, R. Murray. *The Soundscape: Our Sonic Environment and the Tuning of the World*. 1977. Rochester, VT: Destiny Books, 1994.  
 
-"SoundCite." Tyler Fisher and Jeremy Gilbert, Creators. 2013. Web. 20 June 2015. Knight Lab. Northwestern University. <https://soundcite.knightlab.com/>  
+"SoundCite." Tyler Fisher and Jeremy Gilbert, Creators. 2013. Web. 20 June 2015. Knight Lab. Northwestern University. [https://soundcite.knightlab.com/](https://soundcite.knightlab.com/) 
 
-Yergeau, Melanie et al. “Multimodality in Motion: Disability & Kairotic Spaces.” *Kairos: A Journal of Rhetoric, Technology, and Pedagogy* 18.1 (2013). Web. 4 June 2015. <http://kairos.technorhetoric.net/18.1/coverweb/yergeau-et-al/index.html>
+Yergeau, Melanie et al. “Multimodality in Motion: Disability & Kairotic Spaces.” *Kairos: A Journal of Rhetoric, Technology, and Pedagogy* 18.1 (2013). Web. 4 June 2015. [http://kairos.technorhetoric.net/18.1/coverweb/yergeau-et-al/index.html](http://kairos.technorhetoric.net/18.1/coverweb/yergeau-et-al/index.html)
 
 ## WORKS CITED
 
-"Audacity." The Audacity Team. n.d. Web. 8 Nov. 2015. <http://audacityteam.org/>
+"Audacity." The Audacity Team. n.d. Web. 8 Nov. 2015. [http://audacityteam.org/](http://audacityteam.org/)
 
-"The Audacity Manual." The Audacity Team. n.d. Web. 8 Nov. 2015. <http://manual.audacityteam.org/man/Main_Page>
+"The Audacity Manual." The Audacity Team. n.d. Web. 8 Nov. 2015. [http://manual.audacityteam.org/man/Main_Page](http://manual.audacityteam.org/man/Main_Page)
 
-“FoundSounds.” David Jensenius. 2015. Web. 24 June 2015. <https://foundsounds.me/>
+“FoundSounds.” David Jensenius. 2015. Web. 24 June 2015. [https://foundsounds.me/](https://foundsounds.me/)
 
-“London Sound Survey.” n.d. Web. 20 June 2015. <http://www.soundsurvey.org.uk/>
+“London Sound Survey.” n.d. Web. 20 June 2015. [http://www.soundsurvey.org.uk/](http://www.soundsurvey.org.uk/)
 
-“Museum of Endangered Sounds.” Brendan Chilcutt. January 2012. Web. 24 June 2015. <http://savethesounds.info/>
+“Museum of Endangered Sounds.” Brendan Chilcutt. January 2012. Web. 24 June 2015. [http://savethesounds.info/](http://savethesounds.info/)
 
-"Omeka." Roy Rosenzweig Center for History and New Media. George Mason Univeresity. 2007. Web. 8 Nov. 2015. <http://omeka.org/>
+"Omeka." Roy Rosenzweig Center for History and New Media. George Mason Univeresity. 2007. Web. 8 Nov. 2015. [http://omeka.org/](http://omeka.org/)
 
-"The Roaring 'Twenties: An Interactive Exploration of the Historical Soundscape of New York City." Emily Thompson. Design by Scott Mahoy. *Vectors Journal* (2013) <http://vectors.usc.edu/projects/index.php?project=98>
+"The Roaring 'Twenties: An Interactive Exploration of the Historical Soundscape of New York City." Emily Thompson. Design by Scott Mahoy. *Vectors Journal* (2013) [http://vectors.usc.edu/projects/index.php?project=98](http://vectors.usc.edu/projects/index.php?project=98)
 
-"The Sonic Memorial Project." Davia Nelson and Nikki Silva. n.d. Web. 24 June 2015. <http://www.sonicmemorial.org/sonic/public/index.html>
+"The Sonic Memorial Project." Davia Nelson and Nikki Silva. n.d. Web. 24 June 2015. [http://www.sonicmemorial.org/sonic/public/index.html](http://www.sonicmemorial.org/sonic/public/index.html)
 
-"SoundCities." Stanza. 2000. Web. 23 June 2015. <http://www.soundcities.com/>
+"SoundCities." Stanza. 2000. Web. 23 June 2015. [http://www.soundcities.com/](http://www.soundcities.com/)
 
 Sterne, Jonathan, Ed. *The Sound Studies Reader*. New York: Routledge, 2012. 
 
 Stoever, Jennifer. "Splicing the Sonic Color-Line: Tony Schwartz Remixes Postwar Nueva York." *Social Text* 28.1 (2010): 59-85.
 
-Stone, Jonathan. "Listening to the Sonic Archive: Rhetoric, Representation, and Race in the Lomax Prison Recordings." *Enculturation* 19 (2015) <http://enculturation.net/listening-to-the-sonic-archive>
+Stone, Jonathan. "Listening to the Sonic Archive: Rhetoric, Representation, and Race in the Lomax Prison Recordings." *Enculturation* 19 (2015) [http://enculturation.net/listening-to-the-sonic-archive](http://enculturation.net/listening-to-the-sonic-archive)
 
-"Western Soundscape Archive." J. Willard Marriott Library. The University of Utah. November 2007. Web. 24 June 2015. <http://westernsoundscape.org/>
+"Western Soundscape Archive." J. Willard Marriott Library. The University of Utah. November 2007. Web. 24 June 2015. [http://westernsoundscape.org/](http://westernsoundscape.org/)
