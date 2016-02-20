@@ -1,29 +1,12 @@
 # PROTOTYPE
 
-## Stan Ruecker
-IIT Institute of Design | www.id.iit.edu
-
-## Celso Scaletsky
-Unisinos | www.unisinos.br/design
-
-## Guilherme Meyer
-Unisinos | www.unisinos.br/design
-
-## Chiara Del Gaudio
-Unisinos | www.unisinos.br/design
-
-## Piotr Michura
-Jan Matejko Academy of Fine Arts in Krakow | www.asp.krakow.pl/
-
-## Gerry Derksen
-Winthrop University | www.winthrop.edu/cba/digitalinformationdesign/default.aspx?id=11776
-
+## Stan Ruecker (IIT Institute of Design | [http://www.id.iit.edu](http://www.id.iit.edu)), Celso Scaletsky (Unisinos | [http://www.unisinos.br/design](http://www.unisinos.br/design)), Guilherme Meyer (Unisinos | [http://www.unisinos.br/design](http://www.unisinos.br/design)), Chiara Del Gaudio (Unisinos | [http://www.unisinos.br/design](http://www.unisinos.br/design)), Piotr Michura (Jan Matejko Academy of Fine Arts in Krakow | [http://www.asp.krakow.pl](http://www.asp.krakow.pl)), and Gerry Derksen (Winthrop University | [http://www.winthrop.edu/cba/digitalinformationdesign/default.aspx?id=11776](http://www.winthrop.edu/cba/digitalinformationdesign/default.aspx?id=11776))
 
 ---
 
 ##### Publication Status:
 * unreviewed draft
-* draft version undergoing editorial review
+* **draft version undergoing editorial review**
 * draft version undergoing peer-to-peer review
 * published 
 
