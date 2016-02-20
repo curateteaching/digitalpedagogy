@@ -71,7 +71,7 @@ To return to the main point, however, what does it mean to have a prototype addr
 
 # "Prototypes as Steps Toward Production"
 ![screenshot](images/prototype--design-project-project-management.jpg)
-# Assignment
+* Type: Assignment
 * Copy of the artifact: 
 * MDes students, IIT Institute of Design, Chicago
 When most people hear the word "prototype," this is the kind that comes to mind. The students are tasked with solving a problem, and create a series of prototypes that increasingly converge on a solution. The primary goal is to address the design brief, rather than inform a research question. In this example, students were asked to create a prototype system for managing digital images throughout the design process. This photo shows several of them working on a touch surface running their prototype software system.
@@ -80,7 +80,7 @@ When most people hear the word "prototype," this is the kind that comes to mind.
 
 # "Prototypes as Models of Article Content"
 ![screenshot](images/prototype--model-of-article-content.jpg)
-# Assignment
+* Type: Assignment
 * Copy of the artifact: 
 * MDes students, Unisinos, Porto Alegre, Brazil
 A prototype is a kind of model, and in this case the assignment is to create a prototype that models the contents of an academic article. The class will have previously read the paper; the content model is sketched in order to facilitate discussion.
@@ -89,7 +89,7 @@ A prototype is a kind of model, and in this case the assignment is to create a p
 
 # "Prototypes Responding to an Article"
 ![screenshot](images/prototype--baby-bottles.jpg)
-# Assignment
+* Type: Assignment
 * Copy of the artifact: 
 * Xinyue Zhou, MDes student, IIT Institute of Design, Chicago
 For this assignment, students are asked to read a paper, then create a prototype that can help the class think about the implications of the topic. In this case, the students had read Langdon Winner's (1986) chapter "Do Artifacts Have Politics?" in The Whale and the Reactor, but any article will do. The exercise has several steps that can be spread over multiple weeks: (1) discuss the paper (2) generate sketches for at least 3 concepts (3) produce a prototype of the selected concept (4) revise the prototype based on feedback.
@@ -100,7 +100,7 @@ The "baby bottles" interrogate the idea of teaching children about national iden
 
 # "Prototypes for Developing a Research Topic"
 ![screenshot](images/prototype--helmets.jpg)
-# Assignment
+* Type: Assignment
 * Copy of the artifact: 
 * MDes students, Unisinos, Porto Alegre, Brazil
 * This exercise is for graduate students developing a thesis topic. They are asked to create a prototype whose features can help them think about specific aspects of the research question.
@@ -111,7 +111,7 @@ Thinking about what this kind of mental contact would mean led the team to reali
 
 # "Prototypes as Objects of Study"
 ![screenshot](images/prototype--4-research-tools.pdf)
-# Assignment
+* Type: Assignment
 * Copy of the artifact: 
 * Maryam Heidaripour, PhD student, IIT Institute of Design, Chicago
 * In the sciences and social sciences, researchers must occasionally design research instruments that will help them to investigate an existing object of study. For example, if we want to know about people's opinions, we can design an opinion survey. If we want to know about the ether, we design the Michelson-Morley experiment.
@@ -119,7 +119,7 @@ For many disciplines, however, the object of study does not yet exist--it is a p
 
 # "Prototypes to Strengthen Empathy"
 ![screenshot](images/prototype--memory-game.jpg)
-# Assignment
+* Type: Assignment
 * Copy of the artifact: 
 * MDes students, Unisinos, Porto Alegre, Brazil
 * In this project, students are asked to design a prototype that will give its users an experience analogous to an actual experience, in order to gain additional understanding.
@@ -132,7 +132,7 @@ However, there was a card in the pack labeled "go to school" which had no partne
 
 # "Prototyping Experience"
 ![screenshot](images/prototype--rap-student-work)
-# Assignment
+* Type: Assignment
 * Copy of the artifact: 
 * MDes students, IIT Institute of Design, Chicago
 * Although a prototype to help increase empathetic understanding is one form of experience prototype, it is not the only form. In this assignment, students were asked to design a positive experience for people interested in thinking about issues of sustainable innovation.
@@ -143,21 +143,21 @@ The stakeholders were randomly chosen: a child, a senior, parents, the c-suite, 
 
 # "Balsamiq"
 ![screenshot](images/prototype--balsamiq.png)
-# Programming resources for visual interfaces
+* Type: Programming resources for visual interfaces
 * Copy of the artifact: 
 * [https://balsamiq.com/](https://balsamiq.com/)
 * Balsamiq is a commercial online wireframing tool for people mocking up more or less conventional websites. It is intended to help get the interaction model right. Their slogan is: "Life's Too Short for Bad Software!"
 
 # "Marvel"
 ![screenshot](images/prototype--marvel-app.png)
-# Programming resources for visual interfaces
+* Type: Programming resources for visual interfaces
 * Copy of the artifact: 
 * [https://marvelapp.com/](https://marvelapp.com/)
 Marvel is a free online prototyping tool for multiple devices. It allows the designer to use their own imagery for all components and link them up to show how the system will move among pages.
 
 # "D3"
 ![screenshot](images/prototype--D3.png)
-# Programming resources for visual interfaces
+* Type: Programming resources for visual interfaces
 * Copy of the artifact: 
 * [http://d3js.org/](http://d3js.org/)
 * Mike Bostock, D3 
