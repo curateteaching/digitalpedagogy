@@ -15,23 +15,36 @@
 ## CURATORIAL STATEMENT
 
 # Why Students Need Prototypes: to engage with ideas 
+
 Having students develop prototypes in the classroom is a good way of having them engage with ideas. A prototype can be used for interrogating a concept. Further, it will involve a particular strategy for addressing the concept. This is important in its own right, but it is also useful for students who may not agree with the approach taken. Because they have seen one strategy, they can begin to think of others.
+
+| MATT: This is a great start, but I think you should consider defining what you mean by "prototype" very earlier on in this piece -- ideally in this first paragraph. A very short gloss is all you need
+
 Third, a prototype has specific details that can serve as topics for discussion. Fourth, as Dobson et al. (2015) point out, prototypes can also give us ideas about other concepts, because they start people thinking not just about the concept in front of them, but also adjacent ones.
+
 Going further, we have argued (Ruecker and INKE 2015) that prototypes can exist for three reasons, which are experiment, development, and provocation. They overlap a bit, but are distinct enough to provide some pins in the map. An experimental prototype is one created in order to get at ideas. By contrast, a development prototype would be one in a series that would result in a polished version at the end. The rough drawings would get refined; the features would be formalized; there would need to be packaging and a catchy name and so on. None of those crucial issues for a development prototype are important for an experimental prototype: the goals are different.
+
 Finally, there are provocative prototypes (e.g. Mogensen 1992), which are to help people change their point of view, or perhaps even realize that they have one. 
+
 Some people  might argue that all prototypes are part of a development process, and that the provocative ones are just closer to the beginning, followed by the experimental ones, and ending with the development ones. If that’s the case, and it could very well be, then not all projects involve all three kinds, nor should they.
 
 # Why Graduate Students and Other Researchers Need Prototypes: to address research questions
+
 What many disciplines don’t have is the concept of generative knowledge, by which we mean that the goal of the research is to learn something about what does not yet exist. We might be learning how something that doesn’t yet exist might work or how it could fit into society. We might be learning how better to create something new, so that it is easier, more effective, smarter, and so on.
+
 Whereas in the sciences people might create a research instrument to try to figure out what is, in the generative disciplines they can start to learn about what does not yet exist by creating prototypes of it.
 A prototype, like a design or a scenario, is a model of something that might exist in the future. The word has two meanings: it could be a model that exists as a template for copying; it could also be an expression of some aspect of what might exist. For example, one series of physical prototypes might explore possible forms, while others look at alternative finishes. One experience prototype might deal with what people will see, while another focuses on what they are hearing. In computer science, we also speak of horizontal vs vertical prototypes – the former shows all features but they can’t be used yet; the latter shows only some of the features, but they are developed enough to try out. Many projects create T-shaped prototypes, where (on the crossbar of the T) everything is there at a superficial level, and some parts (the trunk of the T) work.
 In the case of experimental prototypes to help us address research questions, the features of the prototype should express aspects of the research question.
+
 To return to the main point, however, what does it mean to have a prototype address a research question? How can they be designed and used in this way? 
+
 1. Prototype as object of user study. We design a system and get a lot of people to try it, observe them, vary the parameters, try again.
+
 2. Prototype as tool for thinking. 
 * We learn a lot about the topic just by designing the system and thinking about it once we have it in front of us.
 * We learn something further by observing one group using it.
 * We don’t even finish designing the system, but learn from the process of designing the first iterations.
+
 3. Prototype as a model of the topic area.
 
 ## CURATED ARTIFACTS
