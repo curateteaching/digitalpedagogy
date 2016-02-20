@@ -110,9 +110,9 @@ Their response was that a design process that gave the designer more insight int
 Thinking about what this kind of mental contact would mean led the team to realize that the process is not about perfect knowledge of the user, but instead about negotiation.
 
 # "Prototypes as Objects of Study"
-![screenshot](images/prototype--4-research-tools.pdf)
+![screenshot](images/prototype-object-of-study.png)
 * Type: Assignment
-* Copy of the artifact: 
+* Copy of the artifact: [files/prototype--4-research-tools.pdf](files/prototype--4-research-tools.pdf)
 * Maryam Heidaripour, PhD student, IIT Institute of Design, Chicago
 * In the sciences and social sciences, researchers must occasionally design research instruments that will help them to investigate an existing object of study. For example, if we want to know about people's opinions, we can design an opinion survey. If we want to know about the ether, we design the Michelson-Morley experiment.
 For many disciplines, however, the object of study does not yet exist--it is a possible future. In this assignment, PhD students are asked to design a set of research tools consisting of a prototype, pilot study, experimental design, and quasi-experimental design (which mines existing data for factors that would have been controlled had the researcher set up the original study).
@@ -131,7 +131,7 @@ This team was interested in the obstacles preventing children in under-resourced
 However, there was a card in the pack labeled "go to school" which had no partner in the cards that were face down on the table. Their idea was that the frustration experienced by the players as they were repeatedly confronted with obstacles but could never actually get to school would be instructive.
 
 # "Prototyping Experience"
-![screenshot](images/prototype--rap-student-work)
+![screenshot](images/prototype--rap-student-work.png)
 * Type: Assignment
 * Copy of the artifact: 
 * MDes students, IIT Institute of Design, Chicago
