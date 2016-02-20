@@ -103,7 +103,7 @@ The "baby bottles" interrogate the idea of teaching children about national iden
 # Assignment
 * Copy of the artifact: 
 * MDes students, Unisinos, Porto Alegre, Brazil
-This exercise is for graduate students developing a thesis topic. They are asked to create a prototype whose features can help them think about specific aspects of the research question.
+* This exercise is for graduate students developing a thesis topic. They are asked to create a prototype whose features can help them think about specific aspects of the research question.
 In this case, a student team was asked to design a prototype related to the question: "how can the interpretation of the user more clearly match the intention of the designer?"
 
 Their response was that a design process that gave the designer more insight into the user's thinking would help. The prototype imagines telepathic communication among stakeholders, each of whom is wearing a different hat. 
@@ -114,7 +114,7 @@ Thinking about what this kind of mental contact would mean led the team to reali
 # Assignment
 * Copy of the artifact: 
 * Maryam Heidaripour, PhD student, IIT Institute of Design, Chicago
-In the sciences and social sciences, researchers must occasionally design research instruments that will help them to investigate an existing object of study. For example, if we want to know about people's opinions, we can design an opinion survey. If we want to know about the ether, we design the Michelson-Morley experiment.
+* In the sciences and social sciences, researchers must occasionally design research instruments that will help them to investigate an existing object of study. For example, if we want to know about people's opinions, we can design an opinion survey. If we want to know about the ether, we design the Michelson-Morley experiment.
 For many disciplines, however, the object of study does not yet exist--it is a possible future. In this assignment, PhD students are asked to design a set of research tools consisting of a prototype, pilot study, experimental design, and quasi-experimental design (which mines existing data for factors that would have been controlled had the researcher set up the original study).
 
 # "Prototypes to Strengthen Empathy"
@@ -122,7 +122,7 @@ For many disciplines, however, the object of study does not yet exist--it is a p
 # Assignment
 * Copy of the artifact: 
 * MDes students, Unisinos, Porto Alegre, Brazil
-In this project, students are asked to design a prototype that will give its users an experience analogous to an actual experience, in order to gain additional understanding.
+* In this project, students are asked to design a prototype that will give its users an experience analogous to an actual experience, in order to gain additional understanding.
 
 For this example, the students created a paper prototype consisting of a "memory game" where cards placed face down need to be paired with cards drawn from a pack.
 
@@ -135,7 +135,7 @@ However, there was a card in the pack labeled "go to school" which had no partne
 # Assignment
 * Copy of the artifact: 
 * MDes students, IIT Institute of Design, Chicago
-Although a prototype to help increase empathetic understanding is one form of experience prototype, it is not the only form. In this assignment, students were asked to design a positive experience for people interested in thinking about issues of sustainable innovation.
+* Although a prototype to help increase empathetic understanding is one form of experience prototype, it is not the only form. In this assignment, students were asked to design a positive experience for people interested in thinking about issues of sustainable innovation.
 
 The game involved 2 teams, each given a brief about a sustainability project that they had to sell to stakeholders. My team had to pitch local production for McDonalds; the other team got new cell phones from Motorola that had readily serviceable parts. 
 
@@ -146,7 +146,7 @@ The stakeholders were randomly chosen: a child, a senior, parents, the c-suite, 
 # Programming resources for visual interfaces
 * Copy of the artifact: 
 * [https://balsamiq.com/](https://balsamiq.com/)
-Balsamiq is a commercial online wireframing tool for people mocking up more or less conventional websites. It is intended to help get the interaction model right. Their slogan is: "Life's Too Short for Bad Software!"
+* Balsamiq is a commercial online wireframing tool for people mocking up more or less conventional websites. It is intended to help get the interaction model right. Their slogan is: "Life's Too Short for Bad Software!"
 
 # "Marvel"
 ![screenshot](images/prototype--marvel-app.png)
