@@ -4,7 +4,7 @@ by General Editors, Davis, Gold, Harris, Sayers
 
 ##Presentations
 * Harris, Katherine D. “Putting the ‘Digital’ into Pedagogy." Center for Teaching Innovation & Education, Marymount Manhattan College. April 20, 2016.
-* Davis, Rebecca Frost; Gold, Matthew K.; Harris, Katherine D. (presiding); Edmond Chang, Brian Croxall, Kathi Inman Berens, Virginia Kuhn, Jason Loan, Chuck Rybak, Jesse Stommel. "Curating Digital Pedagogy in the Humanities." Electronic Roundtable. Modern Language Association 2016 Annual Convention, January 10, 2016, Austin, TX. 
+* Davis, Rebecca Frost; Gold, Matthew K.; Harris, Katherine D. (presiding); Edmond Chang, Brian Croxall, Kathi Inman Berens, Virginia Kuhn, Jason Loan, Chuck Rybak, Jesse Stommel. "[Curating Digital Pedagogy in the Humanities](https://github.com/curateteaching/digitalpedagogy/blob/master/MLA2016.md)." Electronic Roundtable. Modern Language Association 2016 Annual Convention, January 10, 2016, Austin, TX. 
 * Gold, Matthew K. "Opening Access: The Reinvention of the Academic Book." Association of American University Presses. November 10, 2015.
 * Gold, Matthew K. "CUNY DHI Lightning Talks." November 10, 2015.
 * Harris, Katherine D. “Faculty Perspective on Open Educational Materials,” on the panel “Open and Affordable: Choosing The Right Resources For Your Classroom and Research,” Innovation and Collaboration Expo, San Jose State University. Oct 1, 2015.
