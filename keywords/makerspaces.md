@@ -33,7 +33,7 @@ While makerspaces were started outside of a formal, educational context, the inf
 
 >MATT: please add all works mentioned here to the works cited. Please also correct your last parenthetical citation
 
->MAATT: Overall, this is a good introduction to makerspaces, but as mentioned above, I'd like to see more explicit connections to humanities classrooms. As a Curator's Statement, too, there should be some explanation of your principles of selection of the artifacts below. Why did you choose what you chose? 
+>MATT: Overall, this is a good introduction to makerspaces, but as mentioned above, I'd like to see more explicit connections to humanities classrooms. As a Curator's Statement, too, there should be some explanation of your principles of selection of the artifacts below. Why did you choose what you chose? 
 
 ## CURATED ARTIFACTS
 
