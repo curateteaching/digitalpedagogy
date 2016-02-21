@@ -154,8 +154,44 @@ From the National History Education Clearinghouse, this site offers a great rang
 
 ## RELATED MATERIALS
 
-JENTERY: I'll just need a list of related materials for furthering consultation on this keyword. Thanks, Joyce! 
+Handy Jam (for the W.A. Schaffer Pen Company). “The Twenty-six Old Characters.” Original Video, 1947. (made available through the Prelinger Internet Archive).  Feb. 16, 2016. https://archive.org/details/TwentySi1947 
+
+Mitra, Sugata. "Kids Can Teach Themselves." TED: Ideas Worth Spreading. TED Conferences LLC, Feb. 2007. Web. 19 Feb. 2016. <https://www.ted.com/talks/sugata_mitra_shows_how_kids_teach_themselves?language=en>. 
+
+Shalaway, Linda. "Classroom Organization: The Physical Environment."Teachers: Where Teachers Come First. Scholastic, Inc. Web. 19 Feb. 2016. <http://www.scholastic.com/teachers/article/classroom-organization-physical-environment>.
+
+TED Topics: Education (a Channel for TED talks related to education and learning): http://www.ted.com/topics/education 
+
+The Word Bird. "Activity Theory: Because Things Are Actors Too." YouTube. YouTube, 20 Aug. 2014. Web. 19 Feb. 2016. <https://www.youtube.com/watch?v=mb-3ufwK6U0>. 
+ 
+Wright-Dottore, Michelle. "CHAT: How Sweet It Is! Mapping Out the Activity of Writing." YouTube. The Illinois State University Writing Program, 10 Nov. 2015. Web. 19 Feb. 2016. <https://www.youtube.com/watch?v=MJya9zQoMuw>. 
 
 ## WORKS CITED 
 
-JENTERY: I'll need a works cited, too, including items in your curated artifacts section. Thanks again! 
+Barret, Peter, Fay Davis, Yufan Zhang, Lucinda Barrett. “The impact of classroom design on pupils' learning: Final results of a holistic, multi-level analysis.” Building and Environment. Volume 89, July 2015, Pages 118–133. 
+
+Beasley, Keri-Lee. "Classroom Design Matters." Tip of the Iceberg. 16 Aug. 2015. Web. 19 Feb. 2016. <http://kerileebeasley.com/2015/08/16/classroom-design-matters/>.
+
+Byrne, Richard. "Free Technology for Teachers." Free Technology for Teachers. Feb. 2016. Web. 19 Feb. 2016. <http://www.freetech4teachers.com/>. 
+
+Gonzalez, Jennifer. "Classroom Design." Cult of Pedagogy. 19 Nov. 2015. Web. 19 Feb. 2016. <http://www.cultofpedagogy.com/category/classroom-design/>.
+
+Heppell, Stephen. "Stephen Heppell: Possible Futures." 9 Nov. 2011. Web. 19 Feb. 2016. <https://www.youtube.com/watch?v=HpwTV0iTG5k>.
+
+Heppell, Stephen. "Space, The Final Frontier." 17 Apr. 2009. Web. 19 Feb. 2016. <https://www.youtube.com/watch?v=kemWMuaHjBs>.
+
+Locke, Matt. "Six Spaces of Social Media." TEST: Notes on How to Make Culture in the Age of Digital Attention. 10 Aug. 2007. Web. 19 Feb. 2016. <https://test.org.uk/2007/08/10/six-spaces-of-social-media/>.
+
+McIntosh, Ewan. "The Seven Spaces of Technology in School Environments."Vimeo. 18 Oct. 2010. Web. 19 Feb. 2016. <https://vimeo.com/15945912>.
+
+McIntosh, Ewan. "Clicks & Bricks: When Digital, Learning and Physical Space Meet." Design Thinking, Education & Learning. 03 Oct. 2010. Web. 19 Feb. 2016. <http://edu.blogs.com/edublogs/2010/10/-cefpi-clicks-bricks-when-digital-learning-and-space-met.html>. 
+
+Moorehead, Laura. "There's No App for Good Teaching." Ideas.ted.com. 03 Sept. 2014. Web. 19 Feb. 2016. <http://ideas.ted.com/theres-no-app-for-good-teaching/>. 
+
+Oblinger, Diana, ed. Learning Spaces. Louisville, CO: Educause, 2006. Web. 19 Feb. 2016. <http://www.educause.edu/research-and-publications/books/learning-spaces>.
+
+Prior, Paul, Janine Solberg, Patrick Berry, Hannah Bellwoar, Bill Chewning, Karen J. Lunsford, Liz Rohan, Kevin Roozen, Mary P. Sheridan-Rabideau, Jody Shipka, Derek Van Ittersum, and Joyce R. Walker. "Re-situating and Re-mediating the Canons: A Cultural-Historical Remapping of Rhetorical Activity." Kairos 11.3 (2007). Kairos: A Journal of Rhetoric, Technology, and Pedagogy. Karios, 2007. Web. 19 Feb. 2016. <http://kairos.technorhetoric.net/11.3/binder.html?topoi/prior-et-al/index.html>.
+
+"Tech for Teachers." Teaching History.org. The National History Education Clearinghouse, Feb. 2016. Web. 19 Feb. 2016. <http://teachinghistory.org/digital-classroom/tech-for-teachers>. 
+
+Walker, Joyce R. "Classroom_Activity Syllabus and Materials."Classroom_Activity. 1 Feb. 2016. Web. 19 Feb. 2016. <https://drive.google.com/folderview?id=0B0vrL-DffM_dZ200b1FPYnR5Ujg> 
