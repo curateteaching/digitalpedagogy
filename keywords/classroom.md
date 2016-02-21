@@ -48,117 +48,109 @@ For this collection I have brought together a handful of resources that cross bo
 
 ## CURATED ARTIFACTS 
 
-### Physical Classroom Design and Its Impacts on Learning
+### Section One: Classroom Design and Its Impacts on Learning
 
-In this section I have gathered some links that are related to the design of physical classrooms. Interestingly, most of the resources I found that focused on helping instructors think about physical classroom spaces were discussions of K-12 classrooms. However, I have also included one resource (an edited collection of articles) that focuses on learning spaces in higher education.
-
-#### Scholastic Resources article on Organizing the Physical Classroom Space
-![screenshot](images/)
-
-* Source: [http://www.scholastic.com/teachers/article/classroom-organization-physical-environment](http://www.scholastic.com/teachers/article/classroom-organization-physical-environment)
-* Copy of Artifact: forthcoming
-* Creators: forthcoming
-
-This link is interesting because it offers advice about thinking about the physical space of classrooms. In particular, the connection between the teacher and the space is interesting because it implies that teachers have control over their classroom spaces and can use that control to impact learning.
+This section includes three artifacts. The first is a teacher-resource blog by Jennifer Gonzalez that includes a section on classroom spaces designed by K-12 instructors. I have also included an edited collection of articles, published by Educause, that focuses on learning spaces in higher education. Finally, I included a study on physical classroom environments that found that difference in light, space, color, and other factors had an impact on student learning.
 
 #### The Cult of Pedagogy: Classroom Eye Candy
-![screenshot](images/)
+![screenshot](images/Classroom_Artifact_1_Classroom_Eye_Candy.png)
 
 * Source: [http://www.cultofpedagogy.com/category/classroom-design/](http://www.cultofpedagogy.com/category/classroom-design/)
 * Copy of Artifact: forthcoming
-* Creators: forthcoming
+* Creators: Jennifer Gonzalez
 
-There are currently only two entries included in this larger blog that focuses on a wide range of K-12 teaching issues. But these two examples show how creatively some teachers are able to think about the spaces where their students learn.
+Classroom Eye Candy is a relatively new section of a teacher-resource blog created by Jennifer Gonzalez. Although there are currently only two entries on classroom design and organization included in this larger blog that focuses on a wide range of K-12 teaching issues, these two examples show how creatively some teachers are able to think about the spaces where their students learn.
 
 #### Learning Spaces
-![screenshot](images/)
+![screenshot](images/Classroom_Artifact_2_Learning_Spaces.png)
 
 * Source: [http://www.educause.edu/research-and-publications/books/learning-spaces](http://www.educause.edu/research-and-publications/books/learning-spaces)
 * Copy of Artifact: forthcoming
 * Creators: forthcoming
 
-This edited collection of articles, published by Educause, is available as a free PDF. It offers a look at the issues of physical classroom design in university settings.
+This edited collection of articles, published by Educause, is available as a free PDF. It offers a look at the issues of the design of learning spaces in university settings. The edited collection includes one section of articles devoted to principles and issues of learning space design, while a second section offers case studies from various educational settings worldwide.
 
-### The Impact of Classroom Design On Student Learning
+#### The Impact of Classroom Design On Student Learning
+![screenshot](images/Classroom_Artifact_3_Impact_of_Design.png)
 
-The first of these links is an article that offers an overview of a study (which is the 2nd link) that found that differences in physical environments had a measurable impact on student learning. The study operationalized components related to aspects of the environment such as air quality and light as well as issues such as available stimulation and flexibility of learning space.
-
-#### Study Proves Classrooms Design Really Does Matter
-![screenshot](images/)
-
-* Source: [http://www.salford.ac.uk/built-environment/about-us/news-and-events/news/study-proves-classroom-design-really-does-matter](http://www.salford.ac.uk/built-environment/about-us/news-and-events/news/study-proves-classroom-design-really-does-matter)
+* Source: http://www.sciencedirect.com/science/article/pii/S0360132315000700
 * Copy of Artifact: forthcoming
-* Creators: forthcoming
+* Creators: Peter Barrett, Fay Davies, Yufan Zhang & Lucinda Barrett 
 
-#### The Impact of Classroom Design on Pupils' Learning
-![screenshot](images/)
+This study found that differences in physical environments had a measurable impact on student learning. The study operationalized components related to aspects of the environment such as air quality and light as well as issues such as available stimulation and flexibility of learning space.
 
-* Source: [http://www.sciencedirect.com/science/article/pii/S0360132315000700](http://www.sciencedirect.com/science/article/pii/S0360132315000700)
-* Copy of Artifact: forthcoming
-* Creators: forthcoming
+### Section Two: Designing Technology Infused Classrooms
 
-### Designing Technology Infused Classrooms
-The following links focus on how technology can be used to enhance classroom learning, but the sites I’ve selected don’t just focus on technological tools.  Instead, they try to get a holistic view of all of the spaces where learning can/might/should happen and what kinds of tools (composing tools, furniture, lighting) impact that learning.
+The following artifacts focus on how technology can be used to enhance classroom learning, but the items I have selected do not just focus on technological tools. Instead, they try to get a holistic view of all of the spaces where learning can/might/should happen and what kinds of tools (composing tools, furniture, lighting) impact that learning.
 
 #### Classroom Design Matters
-![screenshot](images/)
+![screenshot](images/Classroom_Artifact_4_Classroom_Design_Matters.png)
 
-* Source: [http://kerileebeasley.com/2015/08/16/classroom-design-matters/](http://kerileebeasley.com/2015/08/16/classroom-design-matters/), including https://www.youtube.com/watch?v=kemWMuaHjBs and https://vimeo.com/15945912 and 
+* Source: [http://kerileebeasley.com/2015/08/16/classroom-design-matters/](http://kerileebeasley.com/2015/08/16/classroom-design-matters/)
 * Copy of Artifact: forthcoming
-* Creators: Keri-Lee Beasley, Stephen Heppell, and Ewan McIntosh 
+* Creators: Keri-Lee Beasley
 
-This blog site by digital literacy coach, Keri-Lee Beasley, includes a post titled, "Classroom Design Matters, which offers a range of links that cross the boundary between digital and physical issues in classroom design.
+This blog site by digital literacy coach, Keri-Lee Beasley, includes a post titled, "Classroom Design Matters," which offers a range of links that cross the boundary between digital and physical issues in classroom design.  Although Beasley’s work focuses primarily on K-12 settings, instructors and administrators in university settings might also find these links useful when thinking about the productive design of learning spaces.
 
-#### Writing Tools:  Video from the Prelinger Archive
-![screenshot](images/)
+#### “Space, The Final Frontier” and “Possible Futures” 
+![screenshot](images/Classroom_artifact_5_Stephen_Heppell.png)
 
-* Source: [https://archive.org/details/TwentySi1947](https://archive.org/details/TwentySi1947)
+* Sources: https://www.youtube.com/watch?v=kemWMuaHjBs and https://www.youtube.com/watch?v=HpwTV0iTG5k 
 * Copy of Artifact: forthcoming
-* Creators: forthcoming
+* Creator: Stephen Heppell
 
-I really just loved this historic piece, which discusses the evolution of writing as a human activity. As someone who focuses on literate activity, the story of how our use of literacy tools has evolved is always compelling to me. It also reminds me that when we think about writing technologies, we can think across thousands of years.
+These two videos by Stephen Heppell are really thought provoking resources for thinking about the design of learning spaces in ways that move beyond not only the online/face-to-face divide but our basic understanding of classrooms as "four wall" spaces. As Heppell notes, "If you say to a group of students, 'Bring in a piece of furniture from home or from your digs that you think will improve your learning,' not one of them will bring in a hard kitchen chair. You know, they’ll bring in comfortable chairs, they’ll bring in chairs where they can work with others" (n. pag.). Heppell offers both some ideas about how learning spaces are currently evolving and a look at the possible future of learning space design.
 
-### Attending to Space and Activity
-CONTENT FORTHCOMING 
+#### "Clicks & Bricks: When Digital, Learning and Physical Space Meet" and "The Seven Spaces of Technology in School Environments" 
+![screenshot](images/Classroom_artifact_6_Ewan_McIntosh.png)
 
-#### Learning Spaces Course Plan  
-![screenshot](images/)
-
-* Source: [https://drive.google.com/folderview?id=0B0vrL-DffM_dZ200b1FPYnR5Ujg&usp=sharing](https://drive.google.com/folderview?id=0B0vrL-DffM_dZ200b1FPYnR5Ujg&usp=sharing)
+* Sources:http://edu.blogs.com/edublogs/2010/10/-cefpi-clicks-bricks-when-digital-learning-and-space-met.html and https://vimeo.com/15945912
 * Copy of Artifact: forthcoming
-* Creators: Joyce R. Walker 
+* Creator: Ewan McIntosh
+
+In both of these artifacts (but especially the video), Ewan McIntosh expands on the notion of the six spaces of social media, originally developed by Matt Locke. McIntosh adds a seventh component of what he calls "life in digital spaces" and then superimposes these concepts onto an analysis of learning spaces more generally. On his blog, McIntosh develops these ideas further and offers a range of resources for thinking about the interrelation of the physical and virtual spaces where people live, work, and learn. McIntosh's analyses offer an interesting focus on learning activity as the central component around which learning spaces can be designed.
+
+### Section Three: Attending to Space and Activity
+
+#### Learning Spaces Course Plan 
+![screenshot](images/Classroom_Artifact_7_Learning_spaces_syllabus.png)
+
+* Source: https://drive.google.com/folderview?id=0B0vrL-DffM_dZ200b1FPYnR5Ujg&usp=sharing
+* Copy of Artifact: forthcoming
+* Creator: Joyce R. Walker
 
 The following course plan is designed for a course that takes activity theory and learning spaces as its two key themes. The course content is designed for an upper level undergraduate or graduate course, but the readings and projects could be adapted for courses from First Year Writing to various kinds of upper level and graduate level pedagogy courses. The readings for this course offer a much clearer articulation of the connection between activity theory and how it can help us to consider the complex ways people learn in various environments. It also includes an additional reading list.
 
-### Classroom Tools for Composing (print and digital)
-Although this topic is also addressed by curators of other keywords, I wanted to include at least a couple of links to pages that offer different software tools instructors can use to create more technology-infused learning.  For many teachers whose classrooms include either school-sponsored computing (desktop, laptop, tablet or other technologies) or student-driven computing (which can include all of the above as well as cell phones), these digitally mediated learning spaces must be considered as part of their classroom designs.  The following sites offer some interesting lists of different tools for instructors to consider:
+### Section Four: Classroom Tools for Learning and Composing
 
-#### Eight Ways to Think about Tech
-![screenshot](images/)
+Although this topic is also addressed by curators of other keywords in this collection, I wanted to include at least a couple of links to sites that offer different software tools instructors can use to create more technology-infused learning. For many teachers whose classrooms include either school-sponsored computing (desktop, laptop, tablet, or other technologies) or student-driven computing (which can include all of the above as well as cell phones), these digitally mediated learning spaces must be considered as part of their classroom designs. The following sites offer some interesting conceptualization of technology in the classroom, as well as lists of different tools for instructors to consider.
 
-* Source: [http://ideas.ted.com/theres-no-app-for-good-teaching/](http://ideas.ted.com/theres-no-app-for-good-teaching/)
+#### There’s No App for Good Teaching: Eight Ways to Think about Tech
+![screenshot](images/Classroom_artifact_8_No_Good_App_for_Teaching.png) 
+
+* Source: http://ideas.ted.com/theres-no-app-for-good-teaching/
 * Copy of Artifact: forthcoming
-* Creators: forthcoming
+* Creators: Laura Moorhead
 
-This TED article focuses on thinking about technology wisely in the classroom. It’s  a useful article for  instructors because it helps them to consider how to use technology to specifically encourage and facilitiate learning in areas that will have the most benefit for their students.
+This TED article focuses on thinking about technology wisely in the classroom. It is a useful article for instructors because it helps them to consider how to use technologies that will specifically encourage and facilitate learning in areas that will have the most benefit for their students.
 
-#### Free Tech for Teachers
-![screenshot](images/)
+#### Free Tech for Teachers 
+![screenshot](images/Classroom_artifact_9_Bryne_Free_Tech_For_Teachers.png)
 
-* Source: [http://www.freetech4teachers.com/](http://www.freetech4teachers.com/ )
+* Source: http://www.freetech4teachers.com/
 * Copy of Artifact: forthcoming
-* Creators: forthcoming
+* Creator: Richard Byrne
 
-Once instructors have considered what kinds of activities they might want to foster through the use of technology, this site offers a wide range of choices for technologies that can be used without cost. 
+Once instructors have considered what kinds of learning activities they might want to foster through the use of technology, sites like this one can offer a wide range of choices for technologies that can be used without cost. I find that browsing sites like this one (and the next artifact as well) can help generate ideas about learning activities. In this way the possible tools and the learning goals can move into a more productive synergy.
 
 #### Tech for Teachers
-![screenshot](images/)
+![screenshot](images/Classroom_artifact_10_History_Tech_for_Teachers.png)
 
-* Source: [http://teachinghistory.org/digital-classroom/tech-for-teachers ](http://teachinghistory.org/digital-classroom/tech-for-teachers)
+* Source: http://teachinghistory.org/digital-classroom/tech-for-teachers
 * Copy of Artifact: forthcoming
-* Creators: forthcoming
+* Creators: The Roy Rosenzweig Center for History and New Media at George Mason University
 
-From the National History Education Clearinghouse, this site offers a great range of different computer technologies that instructors can used.  When considered within the framework of “how does this technology impact the activity of learning,”  the various tools become an interesting part of any instructors considerations of the kind of classroom environment they are working to create.
+From the National History Education Clearinghouse, this site offers a great range of different computer technologies that instructors can used. When considered within the framework of "how does this technology impact the activity of learning," the various tools become an interesting part of any instructors considerations of the kind of classroom environment they are working to create. 
 
 ## RELATED MATERIALS
 
