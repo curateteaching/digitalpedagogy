@@ -164,9 +164,6 @@ Moving from the lived conditions of incarceration to the realm of conceptual art
 
 ## RELATED MATERIALS
 
-Crymble, Adam et al. *The Programming Historian.*
-http://programminghistorian.org/
-
 Chun, Wendy Hui Kyong. "On Software, or the Persistence of Visual Knowledge." http://www.brown.edu/Departments/MCM/people/chun/papers/software.pdf
 
 Marino, Mark C. "Critical Code Studies." 
@@ -197,16 +194,25 @@ http://www.computerhistory.org/internethistory/
 "Computational Media."
 http://cm.lmc.gatech.edu
 
+Crymble, Adam et al. *The Programming Historian.*
+http://programminghistorian.org/
+
 "Digital Humanities Summer Institute."
 http://www.dhsi.org/
 
 Duran, J., Adam Trowbridge, and Jessica Parris Westbrook. Array Project. http://www.arrayproject.com/
+
+Ensmenger, Nathan. *The Computer Boys Take Over.*
+http://thecomputerboys.com/
 
 Ford, Paul. "What is Code?"
 http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
 
 "Foxconn: Operations"
 https://en.wikipedia.org/wiki/Foxconn#Operations
+
+Freeman, Jason, Brian Magerko, Douglas Edwards, et al., "Earsketch."
+http://earsketch.gatech.edu/landing/
 
 Goldstone, Andrew. "Literary Data: Some Approaches."
 http://www.rci.rutgers.edu/~ag978/litdata/
@@ -226,14 +232,14 @@ http://dhdebates.gc.cuny.edu/debates/text/20
 Loukissas, Yanni. "Introduction to Computational Media."
 https://docs.google.com/document/d/1I2XUqH7d_JDLe3abZglKYnHXd7kgE-ip9qW9Geg689Y/edit
 
-Freeman, Jason, Brian Magerko, Douglas Edwards, et al., "Earsketch."
-http://earsketch.gatech.edu/landing/
-
 McCandless, David. "Codebases: Millions of Lines of Code"
 http://www.informationisbeautiful.net/visualizations/million-lines-of-code/ 
 
 McPherson, Tara. "Why are the Digital Humanities So White? or Thinking the Histories of Race and Computing"
 http://dhdebates.gc.cuny.edu/debates/text/29
+
+Meloni, Julie. "Introduction to Programming (well, kind of.)"
+http://www.slideshare.net/jcmeloni/introduction-to-programming-well-kind-of
 
 Parikka, Jussi. "The Geology of Media."
 http://www.theatlantic.com/technology/archive/2013/10/the-geology-of-media/280523/
@@ -251,6 +257,9 @@ https://www.hastac.org/blogs/arielle-schlesinger/2013/11/26/feminism-and-program
 
 "Science, Technology, Engineering, and Math: Education for Global Leadership"
 http://www.ed.gov/stem
+
+Scratch.
+https://scratch.mit.edu/
 
 Swisher, Kara. "Obama: The Re/Code Interview"
 http://recode.net/2015/02/14/obama-everybodys-got-to-learn-how-to-code/
