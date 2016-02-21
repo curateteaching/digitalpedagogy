@@ -69,9 +69,7 @@ Research is at the heart of all scholarly work, including teaching. Assessment i
 * Copy of Artifact: forthcoming
 * Creators: HASTAC, Collaborative Authors 
 
-HASTAC has played a central role in documenting changing notions of pedagogy and a 21st-century classroom. This collection of practices considers assessment from the following perspectives: makerspaces, creative contributions, student leadership, diversity, digital badging, aligning assessments with pedagogy, and focusing on learning and mastery rather than testing. 
-
-JENTERY: Great to see HASTAC, and this project in particular, included among your curated artifacts. Would you be willing to elaborate on the annotation, either pointing readers to specific aspects of this collection or mentioning what from it you've used in your own teaching practices? 
+HASTAC has played a central role in documenting changing notions of pedagogy and a 21st-century classroom. This collection of practices considers assessment from the following perspectives: makerspaces, creative contributions, student leadership, diversity, digital badging, aligning assessments with pedagogy, and focusing on learning and mastery rather than testing. This collection also exemplifies the examples I spoke about in my curatorial statement: here, you can see assignments and assessments emerging that push the boundaries of digital spaces. For example, two of my favorites in this collection are "Teaching Annotation Using MIT's Annotation Studio Interface" and "Digitally Annotating the Graphic Novel," particularly because, in my own teaching, this is an area I struggle with: how to get my students to be better readers and thinkers about what they read and to learn to annotate the texts they read. I love the collaborative nature of these assignments so that students can work together. Both of them introduced me to new tools I immediately experimented with in my classroom. Seeing a case study by another faculty member helped me to think about how I could adjust and reframe the tool (and or a similar assignment) for my teaching context.
 
 ### Introduction to Digital Humanities Syllabus
 ![screenshot](images/assessmentGraham.png)
@@ -80,20 +78,7 @@ JENTERY: Great to see HASTAC, and this project in particular, included among you
 * Copy of Artifact: forthcoming
 * Creator: Shawn Graham
 
-This syllabus is a prime example of structuring digital content with multiple digital assessments. The presentation of the course models the kind of work students will be doing, from a video introduction to the use of digital tools, such as Slack, Github, and Pecha Kucha presentations. Significantly, Graham also addresses the importance of "public-facing" work, articulating a central shift in student work. Here, the public nature of student work is central to both the course design and course outcomes. 
-
-JENTERY: I find this syllabus very compelling, too. Would you be willing to add a sentence or two about how exactly public work is assessed in this course? Not just that it's central, but how it's valued or graded? 
-
-### "Introduction to Narrative": A Collaborative, Experimental Intellectual Adventure
-![screenshot](images/assessmentSavonic.png)
-
-* Source: [https://www.hastac.org/blogs/danicasavonick/2015/05/18/introduction-narrative-collaborative-experimental-intellectual](https://www.hastac.org/blogs/danicasavonick/2015/05/18/introduction-narrative-collaborative-experimental-intellectual)
-* Copy of Artifact: forthcoming 
-* Creator: Danica Savonick
-
-This syllabus on narrative begins with a very clear relationship between the content of the course, the mode of work production, and assessment. The course engaged students in collaborative projects including crowd-sourced class notes using SoundCloud, public writing in blogs, and collaborative final projects. You can view student examples and reflections on the original source, demonstrating both how students are engaging in highly sophisticated multimodal projects and critique with student-designed evaluations. This syllabus demonstrates several key aspects of the changing nature of assessment: collaborative projects, student leadership in their own assessment and evaluation, and the critical importance of public writing and public work in digital scholarship for both faculty and students. 
-
-JENTERY: Another compelling example. Thanks! Here again, would you be willing to add a sentence or two about how exactly work is assessed in this course?
+This syllabus is a prime example of structuring digital content with multiple digital assessments. The presentation of the course models the kind of work students will be doing, from a video introduction to the use of digital tools, such as Slack, GitHub, and Pecha Kucha presentations. Significantly, Graham also addresses the importance of "public-facing" work, articulating a central shift in student work. Here, the public nature of student work is central to both the course design and course outcomes. These digital assessments form 80% of the course grade along with a pass/fail requirement for community building in the course. The assignments and assessments here rely on collaboration and the public nature of work in a way that shifts our traditional assessment narrative from the private professor-student narrative to the idea that knowledge should be contributed to a wider community. 
 
 ### Evaluating Digital Humanities Projects: Collaborative Course Assessment
 ![screenshot](images/assessmentGould.png)
@@ -102,9 +87,7 @@ JENTERY: Another compelling example. Thanks! Here again, would you be willing to
 * Copy of Artifact: forthcoming 
 * Creator: Amanda Starling Gould
 
-This assignment includes multiple measures, collaboration, integration of concepts outside of the classroom, and modeling professional expectations for students in the discipline. Students are not only evaluating digital humanities projects; they are also using digital markup tools to learn how to collaboratively evaluate and respond to digital work. This is a key example of learning by doing: the form and content of the assignment and the assessment work together seamlessly.  
-
-JENTERY: Great to see Gould's work in your list, too. Here, I'll just echo some of my remarks on other artifacts. Would you be willing to address not only the interesting projects students are doing in these classes but also how they are being assessed? Is there a way to point readers to specific assessment techniques, and then underscore why these techniques are persuasive or appropriate for the project at hand? 
+This assignment includes multiple measures, collaboration, integration of concepts outside of the classroom, and modeling professional expectations for students in the discipline. Students are not only evaluating digital humanities projects; they are also using digital markup tools to learn how to collaboratively evaluate and respond to digital work. This is a key example of learning by doing: the form and content of the assignment and the assessment work together seamlessly. Students are assessed on how they mark up the digital work, how they work in a group collaboratively, and how they respond to digital work. What I particularly like about this assessment is that the task itself models how they will be evaluated, and it is a precursor to how students will work and engage on a professional level after this course. 
 
 ### La Mentira
 ![screenshot](images/assessmentLaMentira.jpg)
@@ -113,9 +96,16 @@ JENTERY: Great to see Gould's work in your list, too. Here, I'll just echo some 
 * Copy of Artifact: forthcoming
 * Creators: Chris Holden and Julie Sykes, University of New Mexico, Lead Designers; Linda Lemus, Aaron Salinger, Derek Roff, University of New Mexico, Game Designers
 
-The creators of La Mentira explain, "The backbone of this project is a focus on a natural context, outside the classroom, for the study of Spanish, and the development of materials for use in that context. We chose the Los Griegos neighborhood in Albuquerque/Los Ranchos for its connection to the Spanish language, documented history, diverse use and architecture, and walkability. We used information collected from neighborhood contacts, documentary archives, and a thesis written about the area, as well as multiple site visits from which to build the story and setting for our game." This game offers students a vehicle for practicing language acquisition skills, history, and culture in an interactive digital environment.
+The creators of La Mentira explain, "The backbone of this project is a focus on a natural context, outside the classroom, for the study of Spanish, and the development of materials for use in that context. We chose the Los Griegos neighborhood in Albuquerque/Los Ranchos for its connection to the Spanish language, documented history, diverse use and architecture, and walkability." Not every student is going to have the opportunity to study abroad. While games cannot replace the experience of travel in a foreign country, they can provide students with a challenging experience of being in an immersive environment that offers a vehicle for practicing language acquisition skills, history, and culture in an interactive digital environment. Students are immediately immersed in the culture and have the opportunity to practice the Spanish in a real life context. Student assessment is focused on how well students navigate that space and the challenges they meet as they interact in Spanish.
 
-JENTERY: This is also great. Thank you for including an artifact anchored in the study of Spanish. Would you be willing to elaborate on its assessment techniques? I also wonder if, for the sake of annotation, the quotation could be either reduced (in length) or paraphrased. That is, it would be great to get more of your perspective here.  
+### The Gaming Hub
+![IMAGE FORTHCOMING]()
+
+* Source: http://www.maceandcrown.com/2014/11/21/gaming-hub-interdisciplinary-initiative-social-change/
+* Copy of Artifact: forthcoming
+* Creators: Tom Chapman, Wie Usuf, Kevin Moberly, Yuzhong Shen, Tim Anderson, and Deri Draper
+
+This project is one of my favorites at the moment. Faculty at Old Dominion University have collaborated to bring several courses together for an interdisciplinary project to create a mobile app on the history of Norfolk, with historic figures, narratives about each stop on the walking trail, and a look at how Norfolk has changed throughout its history. Students work on particular aspects of the app that are related to their courses. For example, Deri Draper's "Communication and Technology" class focused on digital media and visual literacy skills. Students collaborated across disciplines to effectively use technology through the development of their WordPress sites, use of social media, and high stakes writing assignment. This work all became part of the larger app project. In this example, students are being assessed on the work they are doing in individual courses, and faculty are modeling the integrative work of collaboration across disciplines. The students and faculty together, as co-creators, participate in the production of the app. I love how this project brings together the current moment: integrative learning, technology, the interdependence of knowledge on multiple disciplines, and the resulting app that allows Old Dominion to give back to its local community by contributing a concrete product that is useful to everyone. In addition to the grades students earn on particular pieces of this project, when the app is released, there will be further real-life assessment as the community of users responds to the app when using it. 
 
 ### Notre Dame E2B2 Badge
 ![screenshot](images/assessmentND.png)
@@ -124,9 +114,7 @@ JENTERY: This is also great. Thank you for including an artifact anchored in the
 * Copy of Artifact: forthcoming 
 * Creator: Alex Ambrose
 
-The badging project at Notre Dame explores new ways of making learning transparent by quickly identifying the transferable skills connected with each course or co-curricular experience. Badges have a practical application and serve to document student learning in classroom and co-curricular settings. 
-
-JENTERY: I'm glad to see this entry addressing badges, which have also been criticized (for gamification, e.g.). Would you be willing to address such concerns? Also, echoing remarks above, would you be willing to speak more specifically to badges as assessment techniques? Thanks, Liz! 
+The badging project at Notre Dame identifies the transferable skills connected with a course or co-curricular experience. Badges have a practical application and serve to document student learning in classroom and co-curricular settings. While badging has been criticized in some quarters for gamification, it is gaining grounds specifically for this reason: it helps people to make sense of students' experiences and/or coursework. A transcript notation for a course like "Liberal Arts Capstone Seminar" (a course I teach) is not immediately transparent for anyone outside of the Liberal Arts program at my college.  Particularly when used with other forms of assessment or credentialing, badging can provide an alternative view of a student's skills or knowledge. For example, the immediate usefulness of a semester abroad studying the Amazon can be difficult to communicate on a resume. Badging can provide a way for an institution or employer to see what a student learned and how that translates into a skill or concept. Some institutions also find the verification of particular criteria to earn the badge helpful. Just as students earn a course grade by meeting certain criteria, a thoughtful badging system can provide a similarly structured understanding of a student's progress in demonstrating certain skills or knowledge. 
 
 ### Reflection from Emblematica Online
 ![screenshot](images/assessmentHeim.png)
@@ -135,9 +123,7 @@ JENTERY: I'm glad to see this entry addressing badges, which have also been crit
 * Copy of Artifact: forthcoming 
 * Creator: Heidi Heim
 
-Heim is one of several Emblem Scholars at the University of Illinois at Urbana-Champaign who engaged in undergraduate digital humanities research. Student researchers "create metadata by transcribing emblem mottos and associating this data with their respective emblems in their book for scholarly and pedagogical purposes. This digital humanities project focuses on Renaissance Emblem books." Heim's personal narrative provides a self-assessment of key skills and concepts learned in the context of this collaborative research project. Further, this project is a prime example of modeling professional expectations for students as Heim and her Emblem Scholars cohort worked alongside faculty as participatory researchers. 
-
-JENTERY: Wonderful to see undergraduate research included here. Would you be willing to elaborate on how this participatory research was assessed? 
+Heim is one of several Emblem Scholars at the University of Illinois at Urbana-Champaign who engaged in undergraduate digital humanities research as they created metadata for Renaissance Emblem books as part of a collaborative research team. Heim's personal narrative provides a self-assessment of key skills and concepts learned in the context of this collaborative research project. Like other assessment examples in this curation, Heim's assessment narrative provides the foundation for understanding what she learned and what she contributed to the project. Reflection, as seen previously, is a key element in participatory assessment. Students are able to articulate their understanding of a project, course, or learning objective and then provide evidence for how they have achieved those goals. Heim comments that "The outcomes from Emblematica Online and the intellectual and practical skills and knowledge attained by its students relate not only to Emblem research in the digital humanities but also individually to our approaches towards our education, relationships, and future. For example, next semester one objective is to advance our knowledge of Iconclass and html indexing. Not only would this enhance our skills as metadata scholars but also in a society becoming ever more technological, coding would advance our potential in whatever industry we chose." She discusses the skills she has learned and how she has showcased them in this project, and she also points to future skills that she now knows she needs to learn. Further, this project is a prime example of modeling professional expectations for students as Heim and her Emblem Scholars cohort worked alongside faculty as participatory researchers. 
 
 ### Structuring Reflection
 ![screenshot](images/assessmentLuther.png)
@@ -146,9 +132,7 @@ JENTERY: Wonderful to see undergraduate research included here. Would you be wil
 * Copy of Artifact: forthcoming 
 * Creator: Jason Luther
 
-The previous student example of reflection demonstrates how a student might approach narratively describing the skills and concepts learned in connection with a particular project, assignment, course, or series of courses. A key question in reflective assignments is how you get students to reflect meaningfully. Luther's assignment shows the careful use of guiding questions that allow students to consider what they produced (a zine), what they learned, and how they self-assess their learning.
-
-JENTERY: I especially appreciate the last sentence of this annotation. Would you be willing to elaborate on it? How does self-assessment happen, and how is it prompted? 
+The previous student example of reflection demonstrates how a student might approach narratively describing the skills and concepts learned in connection with a particular project, assignment, course, or series of courses. A key question in reflective assignments is how you get students to reflect meaningfully. Luther's assignment shows the careful use of guiding questions that allow students to consider what they produced (a zine), what they learned, and how they self-assess their learning. This course relied on the use of student grading contracts as part of the process. At the end of the course, students returned to those contracts, along with a set of reflective questions provided by the instructor, to think about what they had learned. Guiding reflective questions included both the process of creating the zine and the material results in the form of a grade. Students answered questions such as: "What goals did you have for this zine and did you meet them?"; "Talk about the limitations and choices you made with regard to the materials of your zine and the tools required?"; and "What was your vision and how was it compromised by these tool and technologies?" Such reflective questions engage students in a conversation about their own expectations and the results in a helpful analysis of the end product.
 
 ### Catalyst for Learning ePortfolio Site
 ![screenshot](images/assessmentCatalyst.png)
@@ -157,20 +141,17 @@ JENTERY: I especially appreciate the last sentence of this annotation. Would you
 * Copy of Artifact: forthcoming 
 * Creators: Bret Eynon, Laura Gambino, Randy Bass, Helen Chen, principal investigators and C2L Campus Teams
 
-The Catalyst for Learning site is an extensive resource for learning more about e-portfolios structured in several ways: thematically, via campus stories, and through the lens of a principal investigator. The site provides multiple views of e-portfolios on campuses across the country. The result of a three-year research project, key campuses using e-portfolios studied their own practices and documented them on the site. The principal investigators then studied that work and wrote analyses of each theme. One of those themes is assessment. By following through the assessment portion of the site, e-portfolios demonstrate a rich potential to provide authentic assessment of longitudinal student learning. 
+The Catalyst for Learning site is an extensive resource for learning more about e-portfolios structured in several ways: thematically, via campus stories, and through the lens of a principal investigator. The site provides multiple views of e-portfolios on campuses across the country. The result of a three-year research project, key campuses using e-portfolios studied their own practices and documented them on the site. The principal investigators then studied that work and wrote analyses of each theme. One of those themes is assessment. By following through the assessment portion of the site, e-portfolios demonstrate a rich potential to provide authentic assessment of longitudinal student learning. Many of the campuses whose work is represented here use the e-portfolio as a space for students to document and reflect on work from their first course through a capstone course at the institution. The student work, coupled with the metacognitive aspects of reflection, provide a powerful multimodal transcript of student development, integration, and learning across the curriculum. We use Catalyst for Learning in our professional development seminars at LaGuardia Community College as a jumping off point for seeing best practice in action and then applying it to our own classroom and departmental/programmatic work. There are varied understandings of e-portfolios as assessment tools. The value of the Catalyst for Learning site is that it offers a wide overview of common practices among power e-portfolio users in the United States higher education community.  
 
-JENTERY: Thanks for this, Liz! Would you be willing to elaborate on how longitudinal student learning is assessed via e-portfolios? Have you used Catalyst for Learning in your own work? If so, then would you be willing to speak to its use for assessment? 
+### Taking College Teaching Seriously
 
-### Holding for Darryl Draper app project
-IMAGE FORTHCOMING 
+![IMAGE FORTHCOMING]()
 
-* Source: forthcoming
-* Copy of Artifact: forthcoming 
-* Creators: forthcoming 
+* Source: https://takingcollegeteachingseriously.kpublic.net/dev2/
+* Copy of Artifact: forthcoming
+* Creators: Gail Mellow, Diana D. Woolis, Marisa Klages-Bombich, and Susan C. Restler, lead creators
 
-ANNOTATION FORTHCOMING.
-
-JENTERY: Looking forward to reading this one! 
+The Taking College Teaching Seriously public face is the third iteration of a reflective professional development community for faculty to document their teaching. Starting as a project focused on faculty teaching developmental writing and math students, each iteration has become increasingly sophisticated and intuitive based on its community of learners. In the current iteration, participants document their teaching using the online notebook. They use tags to focus on particular aspects of teaching emphasized in a particular lesson or approach. The tags were crowdsourced by faculty in the first two iterations of the project as they explored the categories of teaching that were most important to emphasize in this context. For example, in the teaching of both basic writing and basic math, "affective teaching" is an important component that was highlighted by faculty participants. Their pedagogy circles, a small subset of the larger community, provide feedback and commentary on both the notebook entry and the data that the tags record to help faculty members think about ways to improve the lesson. This is an example of online, longitudinal, and community-based professional development that models engaged learning for faculty. What I particularly like about this project is that it is a professional example of the kind of careful, reflective, digitally enabled assessment work we ask of students. The assessment measures (here, tags and reflective dialogue in pedagogy circles) were co-created by the faculty and their coaches. (Full disclosure: I was a participant in the first iteration of this project and an online coach for other faculty in the most recent iteration.) 
 
 ## RELATED MATERIALS 
 
@@ -189,6 +170,10 @@ Richard-Schuster, Katie, Mary Ruffle, Kerri Leyda Nicoll, Catherine Distelrath, 
 Davidson, Cathy N. _Now You See It: How the Brain Science of Attention Will Transform the Way We Live, Work, and Learn_. New York: Viking, 2011. Print.
 
 Eggers, Dave. _The Circle: A Novel_. New York: Alfred A. Knopf, 2013. Print.
+
+Gilbreth, Frank B. and Ernestine Gilbreth Carey. *Cheaper By the Dozen*. New York: T.Y. Crowell Co., 1948. Print. 
+
+Scobey, David. "Meaning and Metrics." *Inside Higher Ed*. 19 March 2009. Web.
 
 Sorapure, Madeleine. "[Between Modes: Assessing Students' New Media Compositions](http://kairos.technorhetoric.net/10.2/binder2.html?coverweb/sorapure/index.html)." _Kairos_ 10:2 (2005). Web.
 
