@@ -11,6 +11,9 @@ editor:
   given: Jentery
 publisher: Modern Language Association
 type: book
+tags: 
+  - portfolios
+  - gamification
 ---
 
 # ASSESSMENT (Draft)
