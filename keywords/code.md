@@ -164,111 +164,111 @@ Moving from the lived conditions of incarceration to the realm of conceptual art
 
 ## RELATED MATERIALS
 
-Chun, Wendy Hui Kyong. "On Software, or the Persistence of Visual Knowledge." http://www.brown.edu/Departments/MCM/people/chun/papers/software.pdf
+Chun, Wendy Hui Kyong. "On Software, or the Persistence of Visual Knowledge." *Grey Room*. 18 Winter (2004): 26–51. Web. http://www.brown.edu/Departments/MCM/people/chun/papers/software.pdf
 
-Marino, Mark C. "Critical Code Studies." 
+Marino, Mark C. "Critical Code Studies." *electronic book review*. 4 December 2006. Web.
 http://www.electronicbookreview.com/thread/electropoetics/codology
 
-Montfort, Nick. *Exploratory Programming for the Arts and Humanities.* https://mitpress.mit.edu/books/exploratory-programming-arts-and-humanities
+Montfort, Nick. *Exploratory Programming for the Arts and Humanities.* Boston: MIT Press, 2016. Print. https://mitpress.mit.edu/books/exploratory-programming-arts-and-humanities
 
-Nowviskie, Bethany et al. "Speaking in Code: Bibliography." 
+Nowviskie, Bethany et al. "Speaking in Code: Bibliography." *scholarslab/codespeakkit* 1 July 2014. Web.
 https://github.com/scholarslab/codespeakkit/blob/master/bibliography.md
 
 ## WORKS CITED
 
-Ahmed, Manan, Zeinab Aina, Thomas Brown III, et al., "Rikers Bot."
+Ahmed, Manan, Zeinab Aina, Thomas Brown III, et al., "Rikers Bot." *Columbia's Group for Experimental Methods in the Humanities* n.d. Web.
 http://xpmethod.plaintext.in/public-discourse/rikersbot.html
 
-Blas, Zach. "TransCoder: A Queer Programming Anti-Language"
+Blas, Zach. "TransCoder: A Queer Programming Anti-Language" n.d. Web.
 http://users.design.ucla.edu/~zblas/artwork/transcoder_archive/transcoder_archive.htm
 
-Buurma, Rachel. "The Rise of the Novel" (Github repository)
+Buurma, Rachel. "The Rise of the Novel" (Github repository) n.d. Web.
 https://github.com/rbuurma/rise-2015
 
-Buurma, Rachel. "The Rise of the Novel" (Course blog)
+Buurma, Rachel. "The Rise of the Novel" (Course blog) n.d. Web.
 http://rise2015.rachelsagnerbuurma.org/
 
-The Computer History Museum. "Internet History, 1962-1992"
+The Computer History Museum. "Internet History, 1962-1992" n.d. Web.
 http://www.computerhistory.org/internethistory/
 
-"Computational Media."
+"Computational Media." n.d. Web.
 http://cm.lmc.gatech.edu
 
-Crymble, Adam et al. *The Programming Historian.*
+Crymble, Adam et al. *The Programming Historian.* n.d. Web.
 http://programminghistorian.org/
 
-"Digital Humanities Summer Institute."
+"Digital Humanities Summer Institute." n.d. Web.
 http://www.dhsi.org/
 
-Duran, J., Adam Trowbridge, and Jessica Parris Westbrook. Array Project. http://www.arrayproject.com/
+Duran, J., Adam Trowbridge, and Jessica Parris Westbrook. Array Project. n.d. Web. http://www.arrayproject.com/
 
-Ensmenger, Nathan. *The Computer Boys Take Over.*
+Ensmenger, Nathan. *The Computer Boys Take Over.* n.d. Web.
 http://thecomputerboys.com/
 
-Ford, Paul. "What is Code?"
+Ford, Paul. "What is Code?" n.d. Web.
 http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
 
-"Foxconn: Operations"
+"Foxconn: Operations" n.d. Web.
 https://en.wikipedia.org/wiki/Foxconn#Operations
 
-Freeman, Jason, Brian Magerko, Douglas Edwards, et al., "Earsketch."
+Freeman, Jason, Brian Magerko, Douglas Edwards, et al., "Earsketch."n.d. Web.
 http://earsketch.gatech.edu/landing/
 
-Goldstone, Andrew. "Literary Data: Some Approaches."
+Goldstone, Andrew. "Literary Data: Some Approaches." n.d. Web.
 http://www.rci.rutgers.edu/~ag978/litdata/
 
-"HASTAC."
+"HASTAC." n.d. Web.
 http://www.hastac.org
 
-Johnson, Jessica Marie. "The Codex."
+Johnson, Jessica Marie. "The Codex." n.d. Web.
 http://diasporahypertext.com/2012/11/29/new-project-the-codex/
 
-Johnson, Jessica Marie and Mark Anthony Neal. "CFP: Black Code Studies."
+Johnson, Jessica Marie and Mark Anthony Neal. "CFP: Black Code Studies." n.d. Web.
 http://diasporahypertext.com/2015/02/13/cfp-black-code-studies/
 
-Liu, Alan. "Where is Cultural Criticism in the Digital Humanities?"
+Liu, Alan. "Where is Cultural Criticism in the Digital Humanities?" *Debates in the Digital Humanities*. Ed. Matthew K. Gold. Minneapolis: University of Minnesota Press, 2012. Web.
 http://dhdebates.gc.cuny.edu/debates/text/20
 
-Loukissas, Yanni. "Introduction to Computational Media."
+Loukissas, Yanni. "Introduction to Computational Media." n.d. Web.
 https://docs.google.com/document/d/1I2XUqH7d_JDLe3abZglKYnHXd7kgE-ip9qW9Geg689Y/edit
 
-McCandless, David. "Codebases: Millions of Lines of Code"
+McCandless, David. "Codebases: Millions of Lines of Code" n.d. Web.
 http://www.informationisbeautiful.net/visualizations/million-lines-of-code/ 
 
-McPherson, Tara. "Why are the Digital Humanities So White? or Thinking the Histories of Race and Computing"
+McPherson, Tara. "Why are the Digital Humanities So White? or Thinking the Histories of Race and Computing" *Debates in the Digital Humanities*. Ed. Matthew K. Gold. Minneapolis: University of Minnesota Press, 2012. Web.
 http://dhdebates.gc.cuny.edu/debates/text/29
 
-Meloni, Julie. "Introduction to Programming (well, kind of.)"
+Meloni, Julie. "Introduction to Programming (well, kind of.)" n.d. Web.
 http://www.slideshare.net/jcmeloni/introduction-to-programming-well-kind-of
 
-Parikka, Jussi. "The Geology of Media."
+Parikka, Jussi. "The Geology of Media." *The Atlantic*. 11 October 2013. Web.
 http://www.theatlantic.com/technology/archive/2013/10/the-geology-of-media/280523/
 
-Posner, Miriam. "Some things to think about before you exhort everyone to code." http://miriamposner.com/blog/some-things-to-think-about-before-you-exhort-everyone-to-code/
+Posner, Miriam. "Some things to think about before you exhort everyone to code." 29 February 2012. Web. http://miriamposner.com/blog/some-things-to-think-about-before-you-exhort-everyone-to-code/
 
-Posner, Miriam. "A better way to teach technical skills to a group."
+Posner, Miriam. "A better way to teach technical skills to a group." 9 December 2015. Web.
 http://miriamposner.com/blog/a-better-way-to-teach-technical-skills-to-a-group/
 
-Ramsay, Stephen. "On Building"
+Ramsay, Stephen. "On Building" 11 January 2011. Web.
 http://stephenramsay.us/text/2011/01/11/on-building/
 
-Schlesinger, Arielle. "Feminism and Programming Languages." 
+Schlesinger, Arielle. "Feminism and Programming Languages." *HASTAC* 26 November 2013. Web.
 https://www.hastac.org/blogs/arielle-schlesinger/2013/11/26/feminism-and-programming-languages
 
-"Science, Technology, Engineering, and Math: Education for Global Leadership"
+"Science, Technology, Engineering, and Math: Education for Global Leadership" n.d. Web.
 http://www.ed.gov/stem
 
-Scratch.
+Scratch. n.d. Web.
 https://scratch.mit.edu/
 
-Swisher, Kara. "Obama: The Re/Code Interview"
+Swisher, Kara. "Obama: The Re/Code Interview" n.d. Web.
 http://recode.net/2015/02/14/obama-everybodys-got-to-learn-how-to-code/
 
-Temkin, Daniel. "Esolangs as an Experiential Practice."
+Temkin, Daniel. "Esolangs as an Experiential Practice." 16 December 2014. Web.
 http://esoteric.codes/post/105355658088/esolangs-as-an-experiential-practice
 
-Wernimont, Jacque and Elizabeth Losh. "Feminist Digital Humanities: Theoretical, Social, and Material Engagements around Making and Breaking Computational Media."
+Wernimont, Jacque and Elizabeth Losh. "Feminist Digital Humanities: Theoretical, Social, and Material Engagements around Making and Breaking Computational Media." 2 June 2014. Web.
 https://jwernimont.wordpress.com/2014/06/02/feminist-digital-humanities-theoretical-social-and-material-engagements-around-making-and-breaking-computational-media/
 
-Woolf, Brock. "What Languages are Windows, Mac OS X, and Linux written in?"
+Woolf, Brock. "What Languages are Windows, Mac OS X, and Linux written in?" n.d. Web.
 http://stackoverflow.com/questions/580292/what-languages-are-windows-mac-os-x-and-linux-written-in
