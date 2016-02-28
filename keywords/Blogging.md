@@ -1,10 +1,28 @@
-# BLOGGING
+---
+title: Digital Pedagogy in the Humanities
+subtitle: Concepts, Models, and Experiments
+chapter: Blogging
+URL: keywords/blogging.md
+author: 
+- family: Jakacki
+  given: Diane K. 
+editor: 
+- family: Harris
+  given: Katherine D.
+publisher: Modern Language Association
+type: book
+---
+
+# BLOGGING (Draft)
 
 ## Diane K. Jakacki
 Bucknell University | http://dianejakacki.net
 ---
 ##### Publication Status:
 * unreviewed draft
+* **draft version undergoing editorial review**
+* draft version undergoing peer-to-peer review
+* published 
 --- 
 ## CURATORIAL STATEMENT
 
