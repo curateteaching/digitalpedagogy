@@ -191,38 +191,61 @@ There are two blogging assignments in this Literature course: one scaffolded acr
 The Blogging Rubric is clearly articulated: evaluation is on a four-point scale. Students are expected to comment on one another's posts, but commenting is not broken out in the rubric or given any kind of separate completion mark.
 
 ## RELATED MATERIALS
-* Croxall, Brian. "Assignments and Architecture." Video recording. Penn State Liberal Arts Scholarship and Technology Summit, 2014. 27 February 2016. https://www.youtube.com/watch?v=xHAfQ9fEJiU.
-* Gorges, Boone. "Hub-and-Spoke Blogging with Lots of Students". 2009. Web. 27 February 2016. 
-https://teleogistic.net/2009/08/20/hub-and-spoke-blogging-with-lots-of-students/
-* McClurcken, Jeff and Julie Meloni. "'How Are You Going to Grade This?' Evaluating Classroom Blogs." Profhacker - Chronicle of Higher Education. 21 June 2010. 27 February 2016.
-http://chronicle.com/blogs/profhacker/how-are-you-going-to-grade-this-evaluating-classroom-blogs/24935
-* Owens, Trevor. "The Public Course Blog: The Required Reading We Write Ourselves for the Course That Never Ends." Debates in the Digital Humanities. 2013. Web. 27 February 2016.
-http://dhdebates.gc.cuny.edu/debates/text/6 
-* Sample, Mark. "Pedagogy and the Class Blog". samplereality.com August 14, 2009. Web. 27 February 2016. http://www.samplereality.com/2009/08/14/pedagogy-and-the-class-blog/
+Croxall, Brian. "Assignments and Architecture." Video recording. Penn State Liberal Arts Scholarship and Technology Summit, 2014. 27 February 2016. https://www.youtube.com/watch?v=xHAfQ9fEJiU.
+
+Gorges, Boone. "Hub-and-Spoke Blogging with Lots of Students". 2009. Web. 27 February 2016.  https://teleogistic.net/2009/08/20/hub-and-spoke-blogging-with-lots-of-students/
+
+McClurcken, Jeff and Julie Meloni. "'How Are You Going to Grade This?' Evaluating Classroom Blogs." Profhacker - Chronicle of Higher Education. 21 June 2010. 27 February 2016. http://chronicle.com/blogs/profhacker/how-are-you-going-to-grade-this-evaluating-classroom-blogs/24935
+
+Owens, Trevor. "The Public Course Blog: The Required Reading We Write Ourselves for the Course That Never Ends." Debates in the Digital Humanities. 2013. Web. 27 February 2016. http://dhdebates.gc.cuny.edu/debates/text/6 
+
+Sample, Mark. "Pedagogy and the Class Blog". samplereality.com August 14, 2009. Web. 27 February 2016. http://www.samplereality.com/2009/08/14/pedagogy-and-the-class-blog/
 
 ## WORKS CITED
-* Cordell, Ryan. "Texts, Maps, Networks: Digital Literary Studies." http://f14tmn.ryancordell.org/. Web. Accessed February 2016. 
-* Crompton, Constance. "Dr. Constance Crompton on Composition and Digital Tools." Digital Communitas: Academic Publics and Digital Spaces. 2012. https://digitalcommunitas.wordpress.com/how-to-videos/dr-constance-crompton-postdoctoral-fellow-university-of-victoria/. Web. Accessed 27 February 2016.
-* Crowther, Kathryn. "Putting Students to Work: Guest Hosting a "Best Blog" Round-Up." TECHStyle. November 12, 2011. http://techstyle.lmc.gatech.edu/putting-students-to-work-guest-hosting-a-best-blog-round-up/. Web. Accessed. 27 February 2016. 
-* ---. "Punking the Victorians, Punking Pedagogy: Steampunk and Creative Assignments in the Composition Classroom." Journal of Victorian Culture Online. September 6, 2012. http://blogs.tandf.co.uk/jvc/2012/09/06/punking-the-victorians-punking-pedagogy-steampunk-and-creative-assignments-in-the-composition-classroom/. Web. Accessed 27 February 2016. 
-* Croxall "Introduction to Digital Humanities." http://www.briancroxall.net/dh/. Web. Accessed 27 February 2016. 
-* ---. "Assignments and Architecture." Penn State Liberal Arts Scholarship and Technology Summit, 2014. https://www.youtube.com/watch?v=xHAfQ9fEJiU. Web. Accessed 27 February 2016. 
-* Gorges, Boone. "Thinking Goodly: Introduction to Ethics." https://boonebgorges.wordpress.com/. Web. Accessed 27 February 2016. 
-* ---. "Hub-and-Spoke Blogging with Lots of Students". https://teleogistic.net/2009/08/20/hub-and-spoke-blogging-with-lots-of-students/. Web. Accessed 27 February 2016. 
-* Jakacki, Diane. "Digging into the Digital." http://diggingdigital.blogs.bucknell.edu/. Web. Accessed 27 February 2016. 
-* ---. "Shakespeare's (English) Histories." http://blogs.iac.gatech.edu/henriad/. Web. Accessed 27 February 2016. 
-* Klein, Lauren. "Media, Materiality, and Archives." http://blogs.iac.gatech.edu/archives16/. Web. Accessed 27 February 2016. 
-* McClurcken, Jeff and Julie Meloni. "'How Are You Going to Grade This?' Evaluating Classroom Blogs." Profhacker - Chronicle of Higher Education. 21 June 2010. http://chronicle.com/blogs/profhacker/how-are-you-going-to-grade-this-evaluating-classroom-blogs/24935. Web. Accessed 27 February 2016.
-* Owens, Trevor. "The Public Course Blog: The Required Reading We Write Ourselves for the Course That Never Ends." Debates in the Digital Humanities. 2013. http://dhdebates.gc.cuny.edu/debates/text/6. Web. 27 February 2016.
-* Posner, Miriam. "Selfies, Snapchat, & Cyberbullies: Coming of Age Online." http://miriamposner.com/dh150w15/. Web. Accessed 27 February 2016. 
-* Salter, Anastasia. "Re-evaluating the Risks of Public Scholarship." ProfHacker - The Chronicle of Higher Education. June 4, 2015. http://chronicle.com/blogs/profhacker/re-evaluating-the-risks-of-public-scholarship/60229. Web. Accessed 27 February 2016.
-* ---. "Revisiting Your Learning Management System." Profhacker - The Chronicle of Higher Education. April 18, 2013. http://chronicle.com/blogs/profhacker/revisiting-your-lms/48441. Web. Accessed 27 February 2016.  
-* Sample, Mark. "History & Future of the Book." http://sites.davidson.edu/dig350/. Web. Accessed 27 February 2016. 
-* ---. "A Better Blogging Assignment." ProfHacker - The Chronicle of Higher Education. July 3, 2012.  http://chronicle.com/blogs/profhacker/a-better-blogging-assignment/41127. Web. Accessed 27 February 2016.
-* ---. "Pedagogy and the Class Blog". samplereality.com August 14, 2009. http://www.samplereality.com/2009/08/14/pedagogy-and-the-class-blog/. Web. Accessed 27 February 2016. 
-* Sayers, Jentery. "Tools, Techniques & Culture." http://jenteryteaches.com/2011/150/. Web. Accessed 27 February 2016. 
-* ---. "Huma 150: Intro to Digital Humanities Fall 2011 (28 Students). jenterysayers.com. 2011. http://www.jenterysayers.com/2011/150/. Web. Accessed 27 February 2016.
-* Schulman, Martha and Gwen Hyman. "In Defense of Essays." Inside Higher Ed. Feb. 19, 2016. 
+Cordell, Ryan. "Texts, Maps, Networks: Digital Literary Studies." http://f14tmn.ryancordell.org/. Web. Accessed February 2016. 
+
+Crompton, Constance. "Dr. Constance Crompton on Composition and Digital Tools." Digital Communitas: Academic Publics and Digital Spaces. 2012. https://digitalcommunitas.wordpress.com/how-to-videos/dr-constance-crompton-postdoctoral-fellow-university-of-victoria/. Web. Accessed 27 February 2016.
+
+Crowther, Kathryn. "Putting Students to Work: Guest Hosting a "Best Blog" Round-Up." TECHStyle. November 12, 2011. http://techstyle.lmc.gatech.edu/putting-students-to-work-guest-hosting-a-best-blog-round-up/. Web. Accessed. 27 February 2016. 
+
+---. "Punking the Victorians, Punking Pedagogy: Steampunk and Creative Assignments in the Composition Classroom." Journal of Victorian Culture Online. September 6, 2012. http://blogs.tandf.co.uk/jvc/2012/09/06/punking-the-victorians-punking-pedagogy-steampunk-and-creative-assignments-in-the-composition-classroom/. Web. Accessed 27 February 2016. 
+
+Croxall "Introduction to Digital Humanities." http://www.briancroxall.net/dh/. Web. Accessed 27 February 2016. 
+
+---. "Assignments and Architecture." Penn State Liberal Arts Scholarship and Technology Summit, 2014. https://www.youtube.com/watch?v=xHAfQ9fEJiU. Web. Accessed 27 February 2016. 
+
+Gorges, Boone. "Thinking Goodly: Introduction to Ethics." https://boonebgorges.wordpress.com/. Web. Accessed 27 February 2016. 
+
+---. "Hub-and-Spoke Blogging with Lots of Students". https://teleogistic.net/2009/08/20/hub-and-spoke-blogging-with-lots-of-students/. Web. Accessed 27 February 2016. 
+
+Jakacki, Diane. "Digging into the Digital." http://diggingdigital.blogs.bucknell.edu/. Web. Accessed 27 February 2016. 
+---. "Shakespeare's (English) Histories." http://blogs.iac.gatech.edu/henriad/. Web. Accessed 27 February 2016. 
+
+Klein, Lauren. "Media, Materiality, and Archives." http://blogs.iac.gatech.edu/archives16/. Web. Accessed 27 February 2016. 
+
+McClurcken, Jeff and Julie Meloni. "'How Are You Going to Grade This?' Evaluating Classroom Blogs." Profhacker - Chronicle of Higher Education. 21 June 2010. http://chronicle.com/blogs/profhacker/how-are-you-going-to-grade-this-evaluating-classroom-blogs/24935. Web. Accessed 27 February 2016.
+
+Owens, Trevor. "The Public Course Blog: The Required Reading We Write Ourselves for the Course That Never Ends." Debates in the Digital Humanities. 2013. http://dhdebates.gc.cuny.edu/debates/text/6. Web. 27 February 2016.
+
+Posner, Miriam. "Selfies, Snapchat, & Cyberbullies: Coming of Age Online." http://miriamposner.com/dh150w15/. Web. Accessed 27 February 2016. 
+
+Salter, Anastasia. "Re-evaluating the Risks of Public Scholarship." ProfHacker - The Chronicle of Higher Education. June 4, 2015. http://chronicle.com/blogs/profhacker/re-evaluating-the-risks-of-public-scholarship/60229. Web. Accessed 27 February 2016.
+
+---. "Revisiting Your Learning Management System." Profhacker - The Chronicle of Higher Education. April 18, 2013. http://chronicle.com/blogs/profhacker/revisiting-your-lms/48441. Web. Accessed 27 February 2016.  
+
+Sample, Mark. "History & Future of the Book." http://sites.davidson.edu/dig350/. Web. Accessed 27 February 2016. 
+
+---. "A Better Blogging Assignment." ProfHacker - The Chronicle of Higher Education. July 3, 2012.  http://chronicle.com/blogs/profhacker/a-better-blogging-assignment/41127. Web. Accessed 27 February 2016.
+
+---. "Pedagogy and the Class Blog". samplereality.com August 14, 2009. http://www.samplereality.com/2009/08/14/pedagogy-and-the-class-blog/. Web. Accessed 27 February 2016. 
+
+Sayers, Jentery. "Tools, Techniques & Culture." http://jenteryteaches.com/2011/150/. Web. Accessed 27 February 2016. 
+
+---. "Huma 150: Intro to Digital Humanities Fall 2011 (28 Students). jenterysayers.com. 2011. http://www.jenterysayers.com/2011/150/. Web. Accessed 27 February 2016.
+
+Schulman, Martha and Gwen Hyman. "In Defense of Essays." Inside Higher Ed. Feb. 19, 2016. 
 https://www.insidehighered.com/views/2016/02/19/colleges-should-invest-more-teaching-students-how-write-essay. Web. Accessed 27 February 2016.
-* Swafford, Annie. "Virtually London: Literature and Laptops." https://hawksites.newpaltz.edu/virtuallylondon/. Web. Accessed 27 February 2016.  
-* Warner, John. "Kill the 5-Paragraph Essay." Inside Higher Ed. Feb. 22, 2016. https://www.insidehighered.com/blogs/just-visiting/kill-5-paragraph-essay. Web. Accessed 27 February 2016.  
+
+Swafford, Annie. "Virtually London: Literature and Laptops." https://hawksites.newpaltz.edu/virtuallylondon/. Web. Accessed 27 February 2016.  
+
+Warner, John. "Kill the 5-Paragraph Essay." Inside Higher Ed. Feb. 22, 2016. https://www.insidehighered.com/blogs/just-visiting/kill-5-paragraph-essay. Web. Accessed 27 February 2016.  
