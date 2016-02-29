@@ -67,7 +67,7 @@ KDH: THERE’S ONLY 9 ARTIFACTS. CAN YOU ADD ONE MORE? A LOT OF THESE ARTIFACTS 
 ## CURATED ARTIFACTS:
 
 * Title of Artifact: "Texts, Maps, Networks: Digital Literary Studies" 
-* Artifact Type: Course site: Assignment
+* Artifact Type: Assignment
 * Screenshot: blogging-Cordell-assignment.png
 * Source URL: http://f14tmn.ryancordell.org/assignments/class-blogging/
 * Artifact Permissions: [to come]
@@ -81,7 +81,7 @@ KDH: WHY IS THIS ASSIGNMENT ENGAGING FOR BLOGGING? WHAT DOES IT REPRESENT IN TER
 
 
 * Title of Artifact: "Blogging about Duffy's Manuscripts" 
-* Artifact Type: Course site: Assignment
+* Artifact Type: Assignment
 * Screenshot: blogging-Croxall-instructions.png
 * Source URL: http://www.briancroxall.net/dh/assignments/blogging-about-duffys-manuscripts/
 * Artifact Permissions: [to come]
@@ -104,10 +104,11 @@ This straightforward assignment could be readily adapted for a literature course
 While this assignment is "old" by digital pedagogy standards, <—WHAT DOES THIS MEAN “OLD?” BE SPECIFIC 
 Gorges's use of the "hub-and-spoke" <—WHAT DOES THIS MEAN? 
 blogging system offers an interesting approach to public writing. The mechanisms (prompt, commentary, and links to student posts) are still available, inline with other course assignments on the course site. Post and comment submission deadlines are staggered, giving students time to comment upon one another's work. Gorges reads a selection of posts twice weekly, and aggregates several posts into the course site (the twice weekly "In the blogs" posts), which he notes results in better reading and commenting on specific posts. It is unclear whether Gorges manages grading this way, or just models good posting. Without access to the syllabus it is difficult to determine the number of posts or weight of the assignment. <—NOT SURE THIS LAST SENTENCE IS NECESSARY; IF THIS IS AN EXAMPLE OF SCALABILITY, THAT’S ALL YOU HAVE TO DEAL WITH
+
 This is an ambitious assignment, and Gorges acknowledges that it is not for the faint of heart (Gorges 2009). <—GOOD; THIS IS GREAT INFORMATION FOR ANYONE WANTING TO INCORPORATE THE ASSIGNMENT
 
 * Title of Artifact: "Digging into the Digital" 
-* Artifact Type: Course site: Assignment and rubric
+* Artifact Type: Assignment and rubric
 * Screenshot: blogging-Jakacki1-description.png
 * Source URL: http://diggingdigital.blogs.bucknell.edu/reflection-posts/
 * Artifact Permission: given by author (will either get all student permission or lock off access to student work)
@@ -118,7 +119,7 @@ This semester-long assignment (five posts) is a reflection/project presentation 
 The assignment reinforces the idea that student work exists along a spectrum with work produced by established scholars. They experiment with voice and visual rhetoric while they discuss process and product. What it doesn't do well is emphasize how students should critique one another's work or foreground the readings. A revision should focus on incorporating strong peer review and reshaping prompts. <—SO THIS IS AN EXAMPLE OF BREAKING FREE FROM THE ESSAY PARADIGM? ALSO, IS THE CRITIQUE NECESSARY AT THE CONCLUSION? 
 
 * Title of Artifact: "Shakespeare's (English) Histories”
-* Artifact Type: Assignment and rubric.
+* Artifact Type: Assignment and rubric
 * Screenshot: blogging-Jakacki2-description.png
 * Source URL: http://blogs.iac.gatech.edu/henriad/short-research-project/
 * Artifact Permission: given (no access to student work)
