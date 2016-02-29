@@ -66,7 +66,7 @@ KDH: THERE’S ONLY 9 ARTIFACTS. CAN YOU ADD ONE MORE? A LOT OF THESE ARTIFACTS 
 
 ## CURATED ARTIFACTS:
 
-### ”Texts, Maps, Networks: Digital Literary Studies" 
+### “Texts, Maps, Networks: Digital Literary Studies" 
 ![screenshot](images/blogging-Cordell-assignment.png)
 
 * Artifact Type: Assignment
@@ -138,7 +138,7 @@ This is one of two blog assignments in the course and is related to a research p
 This assignment uses the blog to bridge the gap between in-class and written work, and reinforces the importance of constructive peer review.
 
 ### Title of Artifact: "Media, Materiality, and Archives" 
-![screenshot](images/blogging-Klein-syllabus)
+![screenshot](images/blogging-Klein-syllabus.png)
 
 * Artifact Type: Syllabus
 * http://blogs.iac.gatech.edu/archives16/syllabus/
@@ -181,7 +181,7 @@ This is a straightforward blogging assignment, with ten 400-500 word posts over 
 This type of assignment is easily adaptable to various course environments. The rubric and grading methodology is also one that an instructor new to blogging could adopt with confidence. One thing to consider about any blog, and to which Sample alludes, is that this type of assignment involves a significant amount of writing: ten posts are worth 20% of the grade: approximately 5,000 words over the course of the semester equals a 10-12 page essay.  <—GREAT RATIONALE THAT TIES TO THE STATEMENT
 
 ### Title of Artifact: "Tools, Techniques & Culture" 
-![screenshot](images/blogging-Sayers-guidelines.png)
+![screenshot](images/blogging-Sayers-description.png)
 
 * Artifact type: Assignment
 * Source URL: http://jenteryteaches.com/2011/150/assignments/
@@ -194,7 +194,7 @@ This assignment is included specifically because it keeps student work public an
 Entries and commentaries comprise a significant (30%) portion of the student grade, with three grades given over the course of the term: Sayers explains that each grade consists of a minimum of two blog entries and a comment.
 
 ### Title of Artifact: "Virtually London: Literature and Laptops" 
-![screenshot](blogging-Swafford-rubric.png)
+![screenshot](images/blogging-Swafford-rubric.png)
  
 * Artifact Type: Rubric
 * Source URL: https://hawksites.newpaltz.edu/virtuallylondon/grading-rubric/
