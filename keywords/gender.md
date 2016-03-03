@@ -52,6 +52,17 @@ As Alexis Lothian notes in her curatorial statement of the keyword Sexuality, �
 More broadly, a digital pedagogy attuned to gender must be reflexive of our own genders, our gendered practice, the genders of our students, and the gendering that happens in the classroom. <—AH YES! SO USING DIGITAL PEDAGOGY REGARDING THIS KEYWORD IS FRAUGHT WITH ALL KINDS OF DOUBLED EXPECTATIONS, EXCEPTIONS, IMPERATIVES FOR ALL PARTIES INVOLVED. Central to this reflexivity is a sensitivity to the experiential knowledge of each person in the room. Such a pedagogy should also aspire to be a feminist pedagogy, <—WHY? WHAT IF A PRACTITIONER DOESN’T WANT TO TAKE THIS BIG STEP BUT WANTS TO TEST THE WATERS WITH 1 ASSIGNMENT AT FIRST? CAN YOU THINK ALONG THE LINES OF CREATING A HIERARCHY OF ARTIFACTS (FOR BEGINNER, INTERMEDIATE, ADVANCED PRACTITIONERS AND FOR A VARIETY OF LEVELS OF UNDGRADUATE AND GRADUATE STUDENTS)? 
 one that strives to be emancipatory, non-hierarchical, transparent, and advancing social justice. In the service of such praxis, I have gathered here an array of artifacts that range from digital projects to networks of pedagogues to help those who want to practice a digital pedagogy of gender. Each artifact is, or has been, the labor of feminists committed to addressing the historical phallogocentricism and heteronormativity of our disiplines. These artifacts can be used to diversify and complicate existing courses. <—HOW? BE EXPLICIT HERE; YOU’RE CONVINCING THEM TO USE THE MATERIALS Perhaps more importantly, they can be used by teachers who want to examine their own praxis, the text they assign, the courses they design, and work to be cognizant and egalitarian in their gendered practice. <—HOW? 
 
+OVERALL COMMENTS:
+FOR new artifacts, if you could follow our naming protocol, that would be very helpful.
+Screenshot (PNG or JPG), titled “keyword artifact title,” e.g. “work-AfAm-syllabus.png”
+
+Ok, now to the editing stuff:
+This is a great start -- and "gender" is hard! Primarily because there are so many focuses for this critical field of study. I could see it pulling your curatorial statement in all directions in order to encapsulate all facets of critical scholarship. But, and this is just a suggestion, you might consider focusing on a few areas that are most important to you and providing a link to a list of recommended readings about scholarship (is there a good bibliography out there that also delineates all the fields?).
+
+It seemed to me that what you would like to highlight is not just gender but the consequences of gender in an online environment AND as a teaching environment (to consider instructor, student identify politics as well as how that's manipulated online to become a strength or a liability). If you want to pursue this area with a cursory overview in the curatorial statement about gender scholarship in gender, please feel free to do so. I think what would really help both you and the potential user of this keyword is to lay out a rationale for choosing the artifacts. Kathi Berens clusters her artifacts into categories. So, too do Gabrielle and Lauren for "archive." And Mark Sample for "play."
+
+There are so many ways to go with gender in a critical engagement. Like Mark, you may have to define it clearly and then say what you're going to discuss and what you won't. But, don't feel pressure to provide an encyclopedic definition of the keyword. (Way too much pressure on you if you took that up!)
+
 
 ## CURATED ARTIFACTS 
 
