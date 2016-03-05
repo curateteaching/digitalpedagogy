@@ -74,6 +74,8 @@ There are so many ways to go with gender in a critical engagement. Like Mark, yo
 *Creator and Affiliation: María Cotera and Linda Garcia Merchant in collaboration with The Institute for Computing in Humanities Arts and Sciences at the University of Illinois Urbana Champaign.
 
 Chicana Por Mi Raza is a digital archive of Chicana feminism spanning 1965 to 1985. The collective has recorded over fifty-nine oral histories and gathered roughly 2500 documents, 60 percent of which have been digitized and cataloged. The collection includes a range of materials chronicling Chicana feminist theory and literature, including hours of oral history recordings, publications, notes, correspondences, photographs, and newspaper clippings. The archived materials are organized around important figures, and is also searchable. Additionally, the site makes histories of the Chicano movement more legible through several thematic timelines. This project is of note for its relevance for both K-12 and higher-ed classes to broaden courses in history, feminist and gender studies, literature, and political science. The project’s materials can be used to round out units on 1960s social movements by highlighting discussions of gendered experience in activist movements through access to primary texts by little-known Chicana feminists.
+KDH: THIS IS A GREAT COLLECTION, BUT WHAT WOULD STUDENTS DO WITH IT? HOW WILL FACULTY ENGAGE WITH IT? I’M NOT ASKING FOR YOU TO CREATE AN ASSIGNMENT; DOES SOMEONE HAVE ONE OUT THERE? 
+
 
 ###"Digitizing Chinese Englishmen"
 *Artifact Type: Digital Archive
@@ -83,6 +85,8 @@ Chicana Por Mi Raza is a digital archive of Chicana feminism spanning 1965 to 19
 *Creator and Affiliation: Adeline Koh (Stockton University)
 
 A project still in its early phases, Digitizing Chinese Englishmen is an ambitious project to digitize and archive the Straits Chinese Magazine, a journal published by diasporic Chinese in Southeast Asia at the turn of the 20th century. The project offers glimpses into colonial Southeast Asia through primary texts. These texts, though limited at the moment, are valuable resources for teaching about gender as it relates to colonialism, imperialism, and race, as the “Victorian Chinesemen” at the heart of the publication present a complex portrait of masculinity and precarious power in Imperial Britain. The decolonial imperative of the project, which is still seeking collaborators, can prove to be important training in praxis for graduate students and advanced undergraduate students in if woven into courses on British Empire or for graduate training in theoretically informed digital projects. Students could gain valuable experience in digitizing, markup, critical annotation and digital project maintenance.
+KDH: HERE, TOO, DO YOU HAVE AN EXPLICIT ASSIGNMENT? PERHAPS THIS COULD BE COMBINED WITH ANOTHER ASSIGNMENT THAT’S NOT SPECIFICALLY ABOUT THIS ARCHIVE? KIRSTYN LEUNER HAS SOME WORK ON THIS; PERHAPS SHE HAS AN ASSIGNMENT TO SHARE? 
+
 
 ###"Early Broadside Ballad Archive"
 *Artifact Type: Digital archive
@@ -92,6 +96,8 @@ A project still in its early phases, Digitizing Chinese Englishmen is an ambitio
 *Creator and Affiliation: The Early Modern Center, Department of English at University of California, Santa Barbara
 
 The most established of the digital archives presented here, the Early Broadside Ballad Project (EBBA) has digitized over 7,000 broadside ballads as textual, visual, and audio artifact. Broadside ballads, a form of 17th century English popular culture ephemera, are significant as cultural texts that reflect the social mores of the day. The archive makes these ballads available as digital facsimiles, modern transcriptions, and recordings. More importantly, for the purposes of this collection, the holdings of the archive are meticulously assigned metadata, tagged, marked up, and made searchable, so teachers can assign and students can perform original research and analysis. In this case, using the Advanced Search function students can perform searches using EBBA’s keywords--which include gender, sex/sexuality, and race--and produce research, close reading or distant reading, focused around gender formation, gender roles, and expectations.
+KDH: HERE, TOO, AN ASSIGNMENT TO GO WITH IT? THIS IS A GREAT ARCHIVE FOR THOSE WHO ARE ENGAGED IN TRADITIONAL CANONICAL LITERARY STUDIES COURSES; YOU CAN GAIN SOME NASCENT DIGITAL PEDAGOGY POINTS IF YOU CAN ADD AN ASSIGNMENT TO IT.
+
 
 ###"Fat, Ugly or Slutty"
 *Artifact Type: Website, blog
@@ -101,6 +107,8 @@ The most established of the digital archives presented here, the Early Broadside
 *Creator and Affiliation: Writers working under pseudonyms
 
 One of the truths of the Internet is that given the chance, people will be trolls. Most often, they will troll to those who do not present as heteronormative, cisgender (white) men. Fat, Ugly or Slutty is a blog that archives the harassment female gamers receive from other (mostly male) gamers, and draws attention to the rampant sexism and rape culture that has become a part of gamer culture. The site itself documents the very gender specific harassment that women gamers tend to receive. The site is an ongoing project (though currently on hiatus as it undergoes some updates) that anyone can submit to, and those submissions are organized according to categories ranging from “Crudely Creative” to “Unprovoked Rage.” As a pedagogical tool, this site gives students an example of a user-created platform for community building, raising awareness, and it offers a store of primary materials for everyday analysis.
+KDH: HERE, TOO, BUT ALSO BE EXPLICIT. CHOOSE A CLUSTER OF POSTS INSTEAD OF THE ENTIRE THING. GIVE AN INSTRUCTOR THE TOOLS TO IMMEDIATELY ALLOW STUDENTS TO ENGAGE — AN ASSIGNMENT OR SYLLABUS WOULD BE HELPFUL
+
 
 ###"FemTechNet"
 *Artifact Type: Pedagogical network
@@ -110,6 +118,9 @@ One of the truths of the Internet is that given the chance, people will be troll
 *Creator and Affiliation: Distributed network of feminist technologists and teachers
 
 FemTechNet describes itself as “is an activated network of scholars, artists, and students working on, with, and at the borders of technology, science, and feminism in a variety of fields including Science & Technology Studies (STS), Media and Visual Studies, Art, Gender, Queer, and Ethnic Studies.” Working almost entirely virtually, these teachers and scholars have developed a wealth of resources to teach gender, feminism, and technology. The network’s biggest accomplishment includes a Distributed Open Collaborative Course (DOCC), developed as a critique of MOOCs (Massive Open Online Course), that feature a number of Key Learning Projects (from Feminist Mapping to Wiki Storming) that can be woven into any course, and are used to connect nodal DOCC courses. The network also maintains the Critical Race and Ethnic Studies Pedagogy Workbook, a repository of syllabi, learning activities, readings, and videos, to aid in the teaching of race, gender, intersectionality, and technology.
+KDH: THIS IS A GREAT RESOURCE, BUT IT CAN BE OVERWHELMING FOR THE NEW OR EXPERIMENTER. WHAT WOULD YOU CHOOSE SPECIFICALLY TO WORK WITH? IS THERE A RANGE THAT YOU CAN RECOMMEND FOR A VARIETY OF LEVELS OF COURSES? 
+
+
  
 ###"Gender Bias on Wikipedia Page"
 *Artifact Type: Wiki page
@@ -120,6 +131,9 @@ FemTechNet describes itself as “is an activated network of scholars, artists, 
 
 For several years now, feminist Wikipedians, led initially by Adrianne Wadewitz, have been organizing edit-a-thons to training women, queer communities, and people of color to edit Wikipedia to address gender and racial bias that has resulted in the skewed demographics of Wikipedians, who, according to a survey conducted by the Wikimedia Foundation, are overwhelmingly young, male, and white. As a text for analysis, the “Gender Bias on Wikipedia” page proves a fascinating artifact that documents the controversy in several ways: its published content, the discusses visible on the attendant Talk Page, and in the WikiProjects that are associated with the page. As Wikipedia’s gender based issues seem to prevail, despite the work of volunteers and staff, this page and the related discussions and controversies can be an important text to assign students. Such an activity serves several purposes, least of which is debunking the infallibility of Wikipedia, and training students to critically analyze Wikipedia pages in productive ways.
 
+KDH: THIS ONE, SIMILAR TO THE EBB MENTION, FOCUSES ON ASSESSING GENDERED LANGUAGE AND USE OF INFORMATION TO CRITICALLY ANALYZE THE PRODUCTION OF KNOWLEDGE. IS THERE AN ASSIGNMENT HERE? OR PERHAPS YOU COULD CLUSTER TOGETHER ASSIGNMENTS SUCH AS THIS IN TERMS OF WHAT YOU’D LIKE TO CONVEY VIA GENDER. FOR EXAMPLE, THIS ONE AND THE EBB SEEM TO FOCUS ON REPRESENTATIONS OF GENDER IN WRITING AND THEN IN THE PRODUCTION OF WRITING (WIKIPEDIA). MIGHT THAT BE A CLUSTER OF ASSIGNMENTS THAT COULD BE A GROUPING — AND ALSO HELP YOUR CURATORIAL STATEMENT WITH FOCUS?
+
+
 ###"Regender"
 *Artifact Type: Web tool
 *Screenshot “Regender.png”
@@ -127,7 +141,10 @@ For several years now, feminist Wikipedians, led initially by Adrianne Wadewitz,
 *Artifact Permissions: Copyright Ka-Ping Yee, 2005
 *Creator and Affiliation, Ka-Ping Yee
 
-Regender is a web-based tool designed by a computer scientist that performs what the developer calls a “gender hack” on existing websites. Specifically, it highlights the use of gender pronouns in  English-language sites by switching those pronouns. This is a simple, yet great, tool for revealing bias, and for opening up space to unpack gender binaries. Additionally, Regender exposes what Jill Walker Rettberg calls “technological filters” (tools that allow us to change expressions of ourselves) and “cultural filters” (“norms, expectations, normative discursive strategies” that influence our behaviors) that shape our daily lives online. This serves as an excellent illustration of how code can be used to challenge built-in assumptions of the web and the cultural values expressed in web content. The tool is not perfect and can be buggy, but its flaws (difficulty in determining gender in some cases) also make it good example for discussions of algocentrism.
+Regender is a web-based tool designed by a computer scientist that performs what the developer calls a “gender hack” on existing websites. Specifically, it highlights the use of gender pronouns in  English-language sites by switching those pronouns. This is a simple, yet great, tool for revealing bias, and for opening up space to unpack gender binaries. Additionally, Regender exposes what Jill Walker Rettberg calls “technological filters” (tools that allow us to change expressions of ourselves) and “cultural filters” (“norms, expectations, normative discursive strategies” that influence our behaviors) that shape our <—KDH: LEAVE OUT FIRST PERSON EVEN HERE; IT ASSUMES THAT THE READER IS ALREADY PART OF THE DISCUSSION SURROUNDING GENDER daily lives online. This serves as an excellent illustration of how code can be used to challenge built-in assumptions of the web and the cultural values expressed in web content. The tool is not perfect and can be buggy, but its flaws (difficulty in determining gender in some cases) also make it good example for discussions of algocentrism.
+KDH: THIS IS REALLY IMPORTANT; I WOULD SAY HERE TOO THAT IT NEEDS AN ASSIGNMENT OR SOMETHING THAT AN INSTRUCTOR CAN ADOPT IMMEDIATELY. WITH THIS ONE, YOU BRING UP A VERY IMPORTANT ASPECT OF SEEMINGLY HIDDEN GENDER BIAS — IN CODING. IT’S A GREAT WAY TO GET INSTRUCTORS THINKING ABOUT WHAT’S BEHIND THE CURTAIN, BUT HOW WILL YOU ASK THEM TO INCORPORATE THIS KIND OF ARTIFACT?
+
+
  
 ###“Sociological Images”
 *Artifact Type: Web page, teaching resources, Pinterest collections
@@ -137,6 +154,7 @@ Regender is a web-based tool designed by a computer scientist that performs what
 *Creator and Affiliation: Lisa Wade, The Society Pages
 
 The Sociological Images is a section of The Society Pages, an open-access social science project from the Department of Sociology at the University of Minnesota, curated by Lisa Wade (Occidental College). In Sociological Images, Wade shares a collection of resources to help teach and build analytical skills, in particular “sociological imagination.” The materials gathered include a sociological blog; a Pinterest board that curates over 14,500 images from advertisements, pop culture, and other visual culture with blog-length analyses and discussions; course guides; and more. Where the collection excels is in its assemblage of media documenting problematic gendered practices: “pinkwashing”, sexuality in advertisement, and rape culture, among others. Used jointly with the course guides, especially Mary Nell Trautner’s expansive Course Guide for the Sociology of Gender Sociological Images offers a rich resource for teaching about gender and drawing awareness to everyday practice.
+KDH: AH HA, MARY NELL’S GUIDE COULD BE THE IN TO THIS GREAT RESOURCE; IF YOU LIST HER WORK AS THE LOCUS FOR THIS PARTICULAR ARTIFACT, YOU GIVE THE INSTRUCTOR SOMETHING CONCRETE TO LOOK AT BEFORE TAKING A DEEPER DIVE INTO THE OTHER RESOURCES. CAN YOU MAKE THE SWITCH FOR THIS ONE?
 
 ###“Trans Women and the New Hypertext” 
 *Artifact Type: Article
@@ -145,7 +163,9 @@ The Sociological Images is a section of The Society Pages, an open-access social
 *Artifact Permissions: Copyright Lambda Literary
 *Creator and Affiliation: Merrit Kopas, in Lambda Literary
 
-Merritt Kopas, multimedia artist and game designer, writes about independent games with trans narratives. Kopas argues, “hypertext and digital games are totally trans genres”, and she offers a sampling of games produced by trans women who trouble binary gender constructions. The games shared in this article are diverse in subject matter, form, and genre, offering nuanced, first person narratives that interrogating the themes of family, embodiment, love, sex, pleasure and pain. Whether incorporated in literature or gender studies courses, these games broaden the canon of women’s fiction, science fiction, games studies, or electronic literature. In addition, these texts ask students and teachers engage with texts in a different manner, by immersing themselves in the role of another by making choices that can change the outcome of the narrative. The subtle effects, the excitement or poignancy elicited can be profoundly effective for communicating the trans experience, or complicating the heteronormative one.
+Merritt Kopas, multimedia artist and game designer, writes about independent games with trans narratives. Kopas argues, “hypertext and digital games are totally trans genres”, and she offers a sampling of games produced by trans women who trouble binary gender constructions. The games shared in this article are diverse in subject matter, form, and genre, offering nuanced, first person narratives that interrogating the themes of family, embodiment, love, sex, pleasure and pain. Whether incorporated in literature or gender studies courses, these games broaden the canon of women’s fiction, science fiction, games studies, or electronic literature. In addition, these texts ask students and teachers to engage with texts in a different manner, by immersing themselves in the role of another by making choices that can change the outcome of the narrative. The subtle effects, the excitement or poignancy elicited can be profoundly effective for communicating the trans experience, or complicating the heteronormative one.
+KDH: YOU MAY CERTAINLY INCLUDE AN ARTICLE, AND THIS ONE SEEMS IMPORTANT. 
+
 
 ###"The Shoah Foundation Visual History Archive"
 *Artifact Type: Digital archive
@@ -154,7 +174,9 @@ Merritt Kopas, multimedia artist and game designer, writes about independent gam
 *Artifact Permissions: All rights reserved USC Shoah Foundation: http://vhaonline.usc.edu/TermsOfUse.aspx
 *Creator and Affiliation: USC Shoah Foundation
 
-The Shoah Foundation's Visual History Archive (VHA) collects testimonies from survivors of the Holocaust, Rwandan, Nanjing, Cambodian, and Armenian genocides. They currently have 52,000 video testimonies indexed. The database features subtitled videos that are searchable by collection (organized by historical event), language, gender, group, end keyword tags. The archive itself is a rich resource for studying periods of historical genocide, and provides a powerful resource for research in the area of holocaust and genocide. While researchers can perform large-scale quantitative analysis on the huge dataset, the videos lend themselves to in-depth analyses. The specificity of the latter, with emphasis on gender and gendered experiences, can draw stark contrast to historical accounts that flatten human experience with the use of statistics. Instead, using the archive’s search tools, designed to enable this type of research, can add complexity to historical and narrative research of testimonios.
+The Shoah Foundation's Visual History Archive (VHA) collects testimonies from survivors of the Holocaust, Rwandan, Nanjing, Cambodian, and Armenian genocides. They currently have 52,000 video testimonies indexed. The database features subtitled videos that are searchable by collection (organized by historical event), language, gender, group, end keyword tags. The archive itself is a rich resource for studying periods of historical genocide, and provides a powerful resource for research in the area of holocaust and genocide. While researchers can perform large-scale quantitative analysis on the huge dataset, the videos lend themselves to in-depth analyses. The specificity of the latter, with emphasis on gender and gendered experiences, can draw stark contrast to historical accounts that flatten human experience with the use of statistics. Instead, using the archive’s search tools, designed to enable this type of research, can add complexity to historical and narrative research of testimonials.
+KDH: HERE, TOO, THIS IS TOO LARGE TO MENTION ALL AT ONCE; IS THERE A SPECIFIC EXERCISE OR ASSIGNMENT YOU CAN FOCUS ON INSTEAD? 
+
 
 ## RELATED MATERIALS
 
