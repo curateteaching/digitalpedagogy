@@ -1,4 +1,4 @@
-﻿# MAKERSPACES (DRAFT)
+# MAKERSPACES (DRAFT)
 
 ## David M. Rieder and Jessica Elam-Handloff (North Carolina State University)
 
@@ -15,146 +15,130 @@
 
 ## CURATORIAL STATEMENT
 
-Makerspaces are community-oriented places in which an ethos of do-it-yourself (DIY) experimentation with new technologies and materials coalesces with the goals of sharing knowledge and do-it-with-others (DIWO) collaborations on projects. They are spaces in which high and low tech are combined, where computing and crafting can be combined - where a 3D printer might share counter space with a sewing machine, a touchscreen and stylus with sketch paper and charcoal pencil, and where tools serving the space could include wire cutters and fabric scissors, soldering filament and Mod Podge, as well as broad range of micro-sensors, lights, and motors, various kinds of wood and metal, safety glasses and reciprocating saw . As a sign of the eclecticism of many makerspaces, it is not uncommon to find a white board covered in anything from technical diagrams, storyboarded drawings, and lines of code, to poetic verse, mathematical equations, and wireframe mockups. They are spaces in which the historic division between the sciences and the humanities, which C.P Snow once characterized as the “two cultures,” are increasingly blurred. Related to the goals of sharing knowledge, makerspaces promote the ideals of the open software and hardware movements; the right to copy is always toward the left, i.e., toward the public domain.
+Makerspaces are community-oriented places in which an ethos of do-it-yourself (DIY) experimentation with new technologies and materials coalesces with the goals of sharing knowledge and collaborating on project design and development. They are spaces in which high and low tech are combined, where computing and crafting can share space on the same workbench - where a 3D printer might share counter space with a sewing machine, a touchscreen and stylus with sketch paper and charcoal pencil, and where tools serving the space could include wire cutters and fabric scissors, soldering filament and Mod Podge, as well as a broad range of micro-sensors, lights, and motors, various kinds of wood and metal, safety glasses and a reciprocating saw. As a sign of the eclecticism of many makerspaces, it is not uncommon to find a white board covered in anything from technical diagrams, storyboarded drawings, and lines of code, to poetic verse, mathematical equations, and wireframe mockups. 
 
->MATT: nice intro. Two things: 1. Please add CP Snow to works cited; and 2. Please keep the "digital pedagogy in the humanities" context -- and particularly "the humanities" in mind. Ie., the keyword should include some exploration not just of makerspaces in generally, but more specifically makerspaces in the context of digital pedagogy in the humanities.
+Makerspaces are an increasingly important location for digital pedagogy in the humanities for several reasons. First, makerspaces promote an inquiry-based approach to learning that values experimentation, tinkering, and play as important means of discovery. Massimo Banzi, who is cofounder of the Arduino project, underscores the importance of this approach to learning. He  argues that “it is essential to play with technology, exploring different possibilities directly on hardware and software – sometimes without a very defined goal” (Banzi and Shiloh 6). Within these spaces, the bricoleur has a home in which to explore what Claude Levi-Strauss once characterized as a ‘science of the concrete’ (Levi-Strauss). 
 
-Makerspaces can be found across the Americas, Europe, and in a growing number of locations in Asia and Africa. They are established in residential garages, community centers, schools, libraries, and museums. While there may be presently over 100 makerspaces in name across the world, when they are combined with hackerspaces or hack labs, fab(rication) labs, TechShops, and Men’s Sheds, which all share a related mission, their numbers grow into the thousands. Some proponents of the maker movement with which makerspaces are associated, argue that its practitioners are engaging in industrial revolution – one in which desktop computing technologies and the web contribute to a shared and open approach to micro-manufacturing (Anderson).
+Second, these spaces promote cross-disciplinary collaboration, which helps students and faculty move beyond the historic division between the sciences and the humanities. In the late-1950s,  C.P Snow gave a lecture titled “The Two Cultures” during which he spoke about the “gulf of mutual incomprehension” that separated humanists from scientists (Snow 4). He lamented the gulf, characterizing it as a “sheer loss to us as people, and to our society” (Snow 12). Snow may have been excited to witness the rise of makerspaces because of the ways in which the gulf is made more comprehensible, the rift separating the disciplines ameliorated. Related to the goals of sharing knowledge, makerspaces promote the ideals of the open software and hardware movements; the right to copy is always toward the left, i.e., toward the public domain. 
 
->MATT: Again, great -- but can you relate it to the classroom here or in the ensuing paragraphs? What are the implications of this work and these spaces for humanities pedagogy? 
+Third, makerspaces empower students and faculty in the humanities to expand their notion of what it means to think and engage critically with the world. Matt Ratto introduces the context for this point of empowerment as follows: “most people consider thinking a linguistic practice – an internal monologue in which we use conceptual categories to make sense of the world around us. Similarly, we tend to think of criticality as a particular form of thinking, one in which we pause to reflect, and step briefly away from action in the world in order to reason and consider these actions” (Hertz). The problem with this persistent bias in the humanities is that it holds back students and faculty from engaging creatively and critically with the wide range of non-linguistic materials comprising the built environments in which we increasingly live as well as with new forms of creativity and critical expression. Makerspaces promote an engagement with new forms of critical thinking through the process of making. 
 
-The philosophical and counter-cultural origins of makerspaces can be traced back to the late-1960s when publisher and author Stewart Brand helped popularize the ideal of hacker culture. In the late-1960s, hackers were promoted by Brand as a burgeoning techno-elitist class of creatives and ‘outlaw’ experimentalists. It is for this reason that makerspaces are considered an off-shoot of the hackerspaces and hack labs that preceded them in name. More recently, makerspaces are associated with maker culture and the Maker Movement, which since 2005, have been promoted by bimonthly periodical Make Magazine and the Maker Faires associated with them. Make Magazine has promoted a culture of DIY and DIWO project development by featuring hundreds of projects in its print magazine and website, publishing step-by-step technical guides, a “skill builder” section for learning everything from how to operate a laser cut wood, sew leather with an awl, or 3D print objects, to name a few.  
+Makerspaces can be found across the Americas, Europe, and in a growing number of locations in Asia and Africa. They are established in residential garages, community centers, schools, libraries, and museums. While there may be presently over 100 makerspaces in name across the world, when they are combined with hackerspaces or hack labs, fab(rication) labs, TechShops, and Men’s Sheds, which all share a related mission, their numbers grow into the thousands (Halverson and Sheridan).  The philosophical and counter-cultural origins of makerspaces can be traced back to the late-1960s when publisher and author Stewart Brand helped popularize the ideal of hacker culture. In the late-1960s, hackers were promoted by Brand as a burgeoning techno-elitist class of creatives and ‘outlaw’ experimentalists. It is for this reason that makerspaces are considered an off-shoot of the hackerspaces and hack labs that preceded them in name. More recently, makerspaces are associated with maker culture and the Maker Movement, which, since 2005, has been promoted by the bimonthly periodical Make Magazine and the Maker Faires associated with them. Make Magazine has promoted a culture of DIY and do-it-with-others (DIWO) project development by featuring hundreds of projects in its print magazine and website, publishing step-by-step technical guides, a “skill builder” section for learning everything from how to operate a laser cutter, sew leather with an awl, or 3D print objects, to name a few.
 
->MATT: please add Brand to Works Cited. Please take another look at the last sentence here -- "how to operate a laser cut wood" should be reprased
+While makerspaces and maker culture are lauded for their democratizing potential, they have also been criticized for recreating some of the historic biases toward male-oriented. In an essay titled “Why I am Not a Maker,” Debbie Chachra recontextualizes the excitement to make and build within a social history in which women are marginalized: “The cultural primacy of making, especially in tech culture . . . is informed by the gendered history of who made things, and in particular, who made things that were shared with the world, not merely for hearth and home” (Chachra). Related to Chachra’s argument, Beth Buchholz et al argue that the maker “movement’s potential to transform education rests in our ability to address notable gender disparities” (278).  Makerspaces are a compelling location in a digital humanities curriculum for promoting new, cross-disciplinary forms of innovation and creativity, but it is important to realize that specific materials, tools, and technical processes are linked to social histories that have marginalized women and other groups. It is incumbent on digital pedagogues to consider these concerns as they work to promote the positive values of these spaces. 
 
->MATT: also: perhaps its important to include a reference to a work that critiques, or at least complicates/interrogates the hacker/maker/DIY construct? Perhaps *Fred Turner's [From Counterculture to Cyberculture](http://fredturner.stanford.edu/books/from-counterculture-to-cyberculture/)* could be helpful here.
+Stephen Ramsay once wrote, “to me, there’s always been a profound – and profoundly exciting and enabling – commonality to everyone who finds their way to [the digital humanities]. And that commonality, I think, involves moving from reading and critiquing to building and making” (“On Building”). Makerspaces are a locations in which the profound excitement about which Ramsay wrote can be found. For students and faculty in the humanities, makerspaces empower us to explore the potential of new materials, so that we can connect and communicate with broader audiences both in and outside of the university. 
 
-While makerspaces were started outside of a formal, educational context, the informal, DIY approach to learning, the DIWO approach to project development, and the ethos of the bricoleur that is exemplified by the wide range of tools, technologies, and materials comprising these spaces, have been increasingly valued by academics – as well as have the ways in which makerspaces point toward new, interdisciplinary configurations (Rosenfeld Halverson and Sheridan). Extending Stephen Ramsay’s argument about the essential role of “building” in digital humanities work, makerspaces participate in a similarly novel “kind hermeneutic of – one that is quite a bit more radical than taking the traditional methods of humanistic inquiry and applying them to digital objects” (On Buil).
+The selection of artifacts that follow are meant to represent broadly the kinds of coursework, projects, and work spaces comprising the pedagogical shift to making and maker culture in the digital humanities.
 
->MATT: please add all works mentioned here to the works cited. Please also correct your last parenthetical citation
-
->MATT: Overall, this is a good introduction to makerspaces, but as mentioned above, I'd like to see more explicit connections to humanities classrooms. As a Curator's Statement, too, there should be some explanation of your principles of selection of the artifacts below. Why did you choose what you chose? 
 
 ## CURATED ARTIFACTS
 
->MATT: A few global notes on your selections: 1. We have recently instituted a requirement that at least two artifacts should be syllabi or assignments. Can you please add two such artifacts to your list (keeping the overall limit of 10)? 2. Your keyword is interesting, as it focuses on a type of space. But rather than offer the Lab itself as the artifact, I think it might be worthwhile to focus on a **specific** project in each location that you want to highlight, as the principle aim here is to give people ideas that they can use in our teaching. 3. Having said that, you may want to have a few entries where you focus specifically on space, and so the design/set-up of an entire lab might be important. If you want to go that way, perhaps include no more than three such listings. 4. You might consider grouping your entries into sub-categories, especially if "Spaces" is one of the categories you want to explore. 5. Finally, I that for each artifact below, clear connections to pedagogy should be made in each of the annotations. Again, the central question people should find answered is "How can I use this in my own teaching practice?"
+## Syllabi
 
+### Introduction to Digital Humanities
+![screenshot](images/sayers_dh_syllabus.png)
+* Artifact Type: syllabus 
+* Source URL: [http://jenteryteaches.com/2011/150/syllabus_huma150.pdf](http://jenteryteaches.com/2011/150/syllabus_huma150.pdf)
+* Creator: Jentery Sayers
 
-### D.H. Hill Library Makerspace
-![screenshot](images/makerspaces-dh-hill.jpg)
+The Introduction to Digital Humanities course taught by Jentery Sayers, Assistant Professor in the Department of English at the University of Victoria, combines critical analysis, material engagement, and collaborative research to expose students to the Digital Humanities. This foundational course includes integral sections on cultural and political issues within DH and overviews of tools and technologies, building a critical framework and knowledge base for further digital scholarship.
 
-* Artifact Type: university makerspace
-* Source URL: http://www.lib.ncsu.edu/do/make-at-hill
-* Creator: D.H. Hill Library, North Carolina State University
-
-The D.H. Hill Library Makerspace at North Carolina State University is a free to access DIY space equipped with maker tools like 3D printers, 3D scanners, sewing machines, soldering irons, electronics prototyping kits, a laser cutter and more. The space is part of a larger project within the NCSU libraries to cultivate a maker community and ensure the tools, technology, and support involved with making is accessible to all of campus. Libraries staff involved with the Hill Makerspace also facilitate classes, teach workshops, and provide consultations with students and faculty on their projects.
-
-
-## WAAG Society FabLab - Amsterdam
-![screenshot](images/makerspaces-waag-society-fablab.png)
-
-* Artifact Type: public fabrication laboratory
-* Source URL: http://fablab.waag.org/
-* Creator: The WAAG Society
-
-The WAAG Society is a grassroots organization devoted to participatory action projects, working toward social improvement through art, research, and development. Their FabLab (short for fabrication laboratory) in Amsterdam offers equipment and support for a variety of maker projects to businesses, schools, and individuals. The WAAG FabLab offers access to industrial grade equipment, curates a digital collection of projects with technical documentation accessible to the community, and offers hands-on workshops. As part of the larger [international community of FabLabs](http://www.fabfoundation.org/fab-labs/what-is-a-fab-lab/) held in charter by MIT faculty, the FabLab is considered “a place to play, to create, to learn, to mentor, to invent” with an emphasis on entrepreneurial endeavors, especially in local communities. 
-
-##The Tinkering Studio
-![screenshot](images/makerspaces-tinkering-studio.png)
-
-* Artifact Type: public DIY space
-* Source URL: http://tinkering.exploratorium.edu/
-* Creator: Karen Wilkinson & Mike Petrich
-
-Bringing tinkering to the masses, the Tinkering Studio in the Exploratorium, the museum of science, art, and human perception in San Fransisco, offers ”entry level” making projects via e-textiles, paper circuits, light painting, toy deconstruction and more. The Tinkering Studio brands itself as a space for constructivist learning, engaging museum visitors in hands-on experiences regardless of age or skill level. Beyond its branding, many makerspaces have adopted ideas and projects from The Art of Tinkering, written by the curators and facilitators of the Tinkering Studio, for hands-on gateway projects to entice people into spaces.
-
-##The Maker Lab in the Humanities (MLab)
-![screenshot](images/makerspaces-maker-lab.png)
-
-* Artifact Type: university makerspace
-* Source URL: http://maker.uvic.ca/
-* Creator: Jentery Sayers, Director
-
-The Maker Lab in the Humanities (MLab) at the University of Victoria facilitates critical scholarship for teams of humanities faculty and students through physical computing, digital fabrication, and other digital humanities endeavors. MLab teams emphasize a critical approach to making and research, focusing on the processes of engaging with material components. Work emerging from the MLab has found its way to international conferences, publications, galleries, and exhibits.
-
->MATT: See my comments above in relation to the first four artifacts here
-
-##Adafruit Industries
-![screenshot](images/makerspaces-adafruit.png)
-
-* Artifact Type: community site
-* Source URL: http://adafruit.com
-* Creator: Limor Fried
-
-Maker community sites are abundant (e.g. Arduino Playground, Instructables.com) to share, modify, and inspire. Adafruit Industries, founded by MIT engineer Limor Fried, is an online source for tutorials, guides, and other learning resources for electronics and other maker projects. The site also sells kits, materials, and components for a wide variety of projects ranging in skill level. Adafruit also partners with educators to provide resources and support to encourage making in the classroom at all levels of education.
-
->MATT: Again, what is the connection to humanities pedagogy? How might this be used in the classroom? 
-
-## Hyperrhiz 13 & Rutgers-Camden Exhibit
-![screenshot](images/makerspaces-hyperrhiz.png)
-
-* Artifact Type: publication & gallery exhibition
-* Source URL: http://hyperrhiz.io/hyperrhiz13/ & https://digitalstudies.camden.rutgers.edu/2015/10/05/hyperrhiz-kits-plans-and-schematics/
-* Creator: Helen J. Burgess and David M. Rieder, eds.
-
-Issue 13 of the journal Hyperrhiz, themed “Kits, Plans, and Schematics,” curated nine projects that combined DIY maker culture with humanities scholarship. These projects were later displayed in an exhibit at Rutgers University-Camden Digital Scholarship Center, inviting visitors to engage with the projects, while Hyperrhiz hosts the open access documentation and guides for others to explore, build, play, and modify. The combined publication and exhibit represented one answer to questions surrounding the navigation of traditional scholarly publications and project-based digital scholarship.
-
->MATT: This is good but just needs an additional sentence or two re pedagogy 
-
-## The Foundry
-![screenshot](images/makerspaces-foundry-duke.png)
-
-* Artifact Type: university makerspace
-* Source URL: http://pratt.duke.edu/foundry
-* Creator: Duke University, Pratt School of Engineering
-
-Built in response to a need for a facility with a wider range of resources for collaborative projects, the Foundry at Duke University-Pratt School of Engineering offers meeting spaces, tools and equipment, optics and electronics shops, and more for Duke faculty and students to develop projects and explore ideas. The Foundry emphasizes that its size, modularity, and range of applications enables team-based, multi-disciplinary activities. The space focuses on hands-on learning, embracing DIY culture with a focus on “from-the-ground-up design-build ethos.”
-
-## TechShop
-![screenshot](images/makerspaces-tech-shop.png)
-
-* Artifact Type: public makerspace
-* Source URL: http://www.techshop.ws/
-* Creator: Jim Newton & Ridge McGhee, founders
-
-Branded and billed as a “playground…part fabrication and prototyping studio, part hackerspace and part learning center,” TechShops are member-based workshops with location around the U.S. and internationally. These workshops offer tools, equipment, software, classes and other events on a membership or pay basis. TechShops also sell materials and provides 3D printing services. Venues such as these provide space for exploration and access to equipment that is generally neither affordable nor accessible to the public. 
-
-## Critical Making Lab
-![screenshot](images/makerspaces-critical-making-lab.png)
-
-* Artifact Type: university makerspace
-* Source URL: http://criticalmaking.com/
+### Critical Making
+![screenshot](images/ratto_critical_making_syllabus.png)
+* Artifact Type: syllabus 
+* Source URL: [http://criticalmaking.com/courses/](http://criticalmaking.com/courses/)
 * Creator: Matt Ratto
 
-Like the MLab at the University of Victoria, the Critical Making Lab facilitates critical scholarship through hands-on engagement with the material and process-based learning rather than a focus on end products. Projects in the Critical Making Lab often involve a range of disciplines and modes of exploration, physical computing endeavors combining design, rapid prototyping, manufacturing, and crafting. The lab team also hosts a Critical Making course, and boasts prolific publications on the projects emerging from the space.
+The Critical Making course developed by Matt Ratto, Associate Professor in the Faculty of Information at the University of Toronto, merges theory and practice in a seminar-and-lab setting. The course is open to and encourages novice participation, employing a scaffolded approach to learning new physical computing technologies in parallel with literature covering critical and emerging issues in information systems.
 
->MATT: see my comments at the top of this section re spaces
+### Introduction to Humanities Physical Computing
+![screenshot](images/rieder_physcom_syllabus.png)
+* Artifact Type: syllabus
+* Source URL: [http://siteslab.org/resources/RIEDER_ENG583-798_FALL2011.pdf](http://siteslab.org/resources/RIEDER_ENG583-798_FALL2011.pdf)
+* Creator: David Rieder
 
-##Makezine.com & Makerspace.com
-![screenshot](images/makerspaces-makezine.png)
+David Rieder's graduate-level seminar invites students with little or no technical background to engage with software and code studies in digital humanities contexts in order to confer greater technical and conceptual comprehension of physical computing. This course offers a mix of theoretical, textual, and hands-on engagements in order to enhance students’ ability to think with technologies and invent through programming languages for a deeper understanding of the tools and techniques of the digital humanities. The course assignments begin with the basics and lead up to inventive projects and presentations, including critical essays, that demonstrate critical-technical scholarship.
 
-* Artifact Type: community site
-* Source URL: http://makezine.com/ & https://makerspace.com/
-* Creator: Maker Media, Inc.
+## Projects
 
-Makezine.com is an example of a maker community site that curates projects and hosts forums, wikis, and guides for open access to documentation and instructions for a wide range of projects and tools. They also sell kits and components, and publish Make Magazine and the Make: series of books. Makerspace.com is one of the social media components of Make, offering a feed of photos, info, and links posted by users under a variety of tags. 
+### SmoothSketch
+![screenshot](images/smoothsketch.jpg)
+* Artifact Type: project
+* Source URL: [http://tinyurl.com/smoothsketch](http://tinyurl.com/smoothsketch)
+* Creator: Eddie Lohmeyer
 
->MATT: again, connection to pedagogical practices should be much more explicit here.
+SmoothSketch is a Makey Makey powered easel and graphite game controller created by Eddie Lohmeyer, a doctoral student in the Communication, Rhetoric, and Digital Media (CRDM) program at North Carolina State University. Created partly in the Circuit Research Studio media lab at NCSU, the SmoothSketch installation explores non-representational interventions in digital gameplay through a reading of Gilles Deleuze’s concepts of smooth and striated space. SmoothSketch was created for a graduate game studies seminar with an open-ended final project requirement that opened exploration of the course theme of digital gaming and embodiment to multiple avenues of scholarly production. Incorporating opportunities for material engagement into assignments for traditional seminars expands the ways in which theory and practice become enmeshed in the classroom.
+
+### Interpretive Machines
+![screenshot](images/interpretive_machines.png)
+* Artifact Type: course assignment/projects
+* Source URL: [http://www.lib.ncsu.edu/sites/default/files/files/pdfs/Vol.31no.3.Focus.online.pdf](http://www.lib.ncsu.edu/sites/default/files/files/pdfs/Vol.31no.3.Focus.online.pdf) (pp. 18-19)
+* Creator: Paul Fyfe
+
+Paul Fyfe, Associate Professor in the Department of English at North Carolina State University, taught an Honors English seminar titled “Interpretive Machines” in Fall 2015. The course focused on rethinking modes of cultural communication from historical, theoretical, and hands-on perspectives. The seminar’s final project involved the ground-up building of an object that incorporated course themes and explorations. These projects included, among others, an arduino-powered tone-typing QWERTY keyboard exploring textual and aural modalities of composition, an arduino-powered surveillance book that registered motion and location, and a Makey Makey powered conductive tape and Play Doh keyboard embedded in an old thesaurus challenging participants to consider algorithmic text input. Along with design documents and reflection journals, these projects encompass traditional texts and material engagement with new media through classroom learning and hands-on experience in sessions facilitated by the university’s makerspace. Such an approach to teaching and learning enmeshes theory and practice to extend student learning beyond the traditional text.
+
+### AutomaTiles
+![screenshot](images/automatiles.png)
+* Artifact Type: project
+* Source URL: [http://cargo.jonathanbobrow.com/AutomaTiles](http://cargo.jonathanbobrow.com/AutomaTiles)
+* Creator: Jonathan Bobrow
+
+Emerging from the MIT Media Lab, AutomaTiles is composed of individual, interlocking electronic components responding to touch, proximity to other tiles, and sound to produce different emergent outputs. Intended to explore systems thinking, AutomaTiles creator Jonathan Bobrow emphasizes the gestalt notion that the sum is other the whole of its parts through engagement with physical objects rather than just through digital simulation. AutomaTiles is not only a maker project from which students might learn systems thinking and processes through exploration and play with both the tiles and the digital design tool, but also illustrates an example of the ways in which maker projects and material engagement might be harnessed for innovative scholarly practices within the digital humanities.
+
+### Hyperrhiz 13 & Rutgers-Camden Exhibit
+![screenshot](images/hyperrhiz13.png)
+* Artifact Type: publication & gallery exhibition
+* Source URL: [http://hyperrhiz.io/hyperrhiz13/](http://hyperrhiz.io/hyperrhiz13/) & [https://digitalstudies.camden.rutgers.edu/2015/10/05/hyperrhiz-kits-plans-and-schematics/](https://digitalstudies.camden.rutgers.edu/2015/10/05/hyperrhiz-kits-plans-and-schematics/)
+* Creators: Helen J. Burgess & David M. Rieder, eds.
+
+Issue 13 of the journal Hyperrhiz, themed “Kits, Plans, and Schematics,” curated nine projects that combined DIY maker culture with humanities scholarship. These projects were later displayed in an exhibit at Rutgers University-Camden Digital Scholarship Center, inviting visitors to engage with the projects, while Hyperrhiz hosts the open access documentation and guides. The combined publication and exhibit represent one answer to questions surrounding the navigation of traditional scholarly publications and project-based digital scholarship. These projects may serve as a range of examples for project-based course assignments in introductory digital humanities courses. Additionally, the open-source documentation offers students the opportunity to explore, build, modify, or reimagine these projects as an introduction to what’s possible through maker tools and technologies, and perhaps inspiration for their own explorations of particular theoretical insights and course themes.
+
+## Spaces
+
+### D.H. Hill Library Makerspace
+![screenshot](images/dhhill_library_makerspace.jpg)
+* Artifact Type: university makerspace
+* Source URL: [http://www.lib.ncsu.edu/do/make-at-hill](http://www.lib.ncsu.edu/do/make-at-hill)
+* Creator: D.H. Hill Library, North Carolina State University
+
+The D.H. Hill Library Makerspace at North Carolina State University is a free to access DIY space equipped with maker tools like 3D printers, 3D scanners, sewing machines, soldering irons, electronics prototyping kits, a laser cutter and more. The space is part of a larger project within the NCSU libraries to cultivate a maker community and ensure the tools, technology, and support involved with making are accessible to all of campus. Libraries staff involved with the Hill Makerspace also facilitate classes, teach workshops, and provide consultations with students and faculty on their projects. These collaborations offer faculty and students the opportunity for hands-on experience with tools and tech that might otherwise seem intimidating without instruction. Bringing the classroom to the makerspace opens the range of possibilities for project-based coursework and demonstrates the cross-disciplinary nature of makerspace-facilitated learning.
+
+### The Maker Lab in the Humanities (MLab)
+![screenshot](images/maker_lab_uvic.png)
+* Artifact Type: university makerspace
+* Source URL: [http://maker.uvic.ca/](http://maker.uvic.ca/)
+* Creator: Jentery Sayers, Director
+
+The Maker Lab in the Humanities (MLab) at the University of Victoria facilitates critical scholarship for teams of humanities faculty and students through physical computing, digital fabrication, and other digital humanities endeavors. MLab teams emphasize a critical approach to making and research, focusing on the processes of engaging with material components. Work emerging from the MLab has found its way to international conferences, publications, galleries, and exhibits. The experimental ethos inherent in the MLab takes coursework to interesting places, offering insights into the range of material engagements pedagogial strategies might draw upon to ask and/or reveal new and different types of questions in the course of Digital Humanities scholarship.
+
+### Critical Making Lab
+![screenshot](images/critical_making_lab.png)
+* Artifact Type: university makerspace
+* Source URL: [http://criticalmaking.com/](http://criticalmaking.com/)
+* Creator: Matt Ratto
+
+The Critical Making Lab facilitates critical scholarship through hands-on engagement with the material and process-based learning rather than a focus on end products. Projects in the Critical Making Lab often involve a range of disciplines and modes of exploration, physical computing endeavors combining design, rapid prototyping, manufacturing, and crafting. The lab team boasts prolific publications on the projects emerging from the space, and also hosts a Critical Making course (see artifact #2 for syllabus). The cross-disciplinary collaboration in the Critical Making Lab empowers students and faculty alike to critically engage with the material in order to overcome the linguistic bias of "thinking," offering the opportunity for critical exploration and play. 
 
 
 ## RELATED MATERIALS
 
-"Arduino, the Documentary."
-
->MATT: This list could be expanded. Please see if you can pull together 5 links to related materials
+- Adafruit Industries Educator Resources. [https://www.adafruit.com/educators/](https://www.adafruit.com/educators/)
+- “Arduino, the Documentary." [https://www.youtube.com/watch?v=lGkpWWY3JHk](https://www.youtube.com/watch?v=lGkpWWY3JHk)
+- Arduino Software (IDE) download. [https://www.arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software)
+- Make: Magazine articles, project ideas, and guides. [http://makezine.com/](http://makezine.com/)
+- Processing Software download. [https://processing.org/](https://processing.org/)
 
 
 ## WORKS CITED
 
-Anderson, Chris. Makers: The New Industrial Revolution. New York: Crown Business, 2014. Print.
 
-Ramsay, Stephen. “On Building.” Web.
-
-Rosenfeld Halverson, Erica and Kimberly M. Sheridan. “The Maker Movement in Education.” Harvard Educational Review (Winter 2014): 495 - 504. Print.
-
->MATT: Please see my notes in the Curator's Statement re items to add to this list
+- Anderson, Chris. Makers: The New Industrial Revolution. New York: Crown Business, 2014. Print.
+- Banzi, Massimo and Michael Shiloh. Make: Getting Started with Arduino. 3rd Ed. Sebastopol, CA: Maker Media, Inc, 2015. Print.
+- Chachra, Debbie. “Why I Am Not a Maker.” The Atlantic. 23 Jan 2015. Web.
+- Halverson, Erica Rosenfeld and Kimberly M. Sheridan. “The Maker Movement in Education.” Harvard Educational Review. 84:4 (Winter) 2014. Print.
+- Levi-Strauss, Claude. The Savage Mind. Chicago: The University of Chicago Press, 1966. Print.
+- Ramsay, Stephen. “On Building.” Stephen Ramsay Blog. 11 January 2011. 1 March 2016. Web.
+- Hertz, Garnet and Matt Ratto. “Conversations in Critical Making.” Blueshift Series. Ctheory: 21C008C (May 2015). Web.
+- Rosenfeld Halverson, Erica and Kimberly M. Sheridan. “The Maker Movement in Education.” Harvard Educational Review (Winter 2014): 495 - 504. Print.
+- Snow, C.P. “The Two Cultures and The Scientific Revolution.” The Rede Lecture. New York: Cambridge University Press, 1961. Web. 
