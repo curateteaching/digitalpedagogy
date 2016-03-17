@@ -37,7 +37,7 @@ The selection of artifacts that follow are meant to represent broadly the kinds 
 ## Syllabi
 
 ### Introduction to Digital Humanities
-![screenshot](images/sayers_dh_syllabus.png)
+![screenshot](images/makerspaces-sayers_dh_syllabus.png)
 * Artifact Type: syllabus 
 * Source URL: [http://jenteryteaches.com/2011/150/syllabus_huma150.pdf](http://jenteryteaches.com/2011/150/syllabus_huma150.pdf)
 * Creator: Jentery Sayers
@@ -45,7 +45,7 @@ The selection of artifacts that follow are meant to represent broadly the kinds 
 The Introduction to Digital Humanities course taught by Jentery Sayers, Assistant Professor in the Department of English at the University of Victoria, combines critical analysis, material engagement, and collaborative research to expose students to the Digital Humanities. This foundational course includes integral sections on cultural and political issues within DH and overviews of tools and technologies, building a critical framework and knowledge base for further digital scholarship.
 
 ### Critical Making
-![screenshot](images/ratto_critical_making_syllabus.png)
+![screenshot](images/makerspaces-ratto_critical_making_syllabus.png)
 * Artifact Type: syllabus 
 * Source URL: [http://criticalmaking.com/courses/](http://criticalmaking.com/courses/)
 * Creator: Matt Ratto
@@ -53,7 +53,7 @@ The Introduction to Digital Humanities course taught by Jentery Sayers, Assistan
 The Critical Making course developed by Matt Ratto, Associate Professor in the Faculty of Information at the University of Toronto, merges theory and practice in a seminar-and-lab setting. The course is open to and encourages novice participation, employing a scaffolded approach to learning new physical computing technologies in parallel with literature covering critical and emerging issues in information systems.
 
 ### Introduction to Humanities Physical Computing
-![screenshot](images/rieder_physcom_syllabus.png)
+![screenshot](images/makerspaces-rieder_physcom_syllabus.png)
 * Artifact Type: syllabus
 * Source URL: [http://siteslab.org/resources/RIEDER_ENG583-798_FALL2011.pdf](http://siteslab.org/resources/RIEDER_ENG583-798_FALL2011.pdf)
 * Creator: David Rieder
@@ -63,7 +63,7 @@ David Rieder's graduate-level seminar invites students with little or no technic
 ## Projects
 
 ### SmoothSketch
-![screenshot](images/smoothsketch.jpg)
+![screenshot](images/makerspaces-smoothsketch.jpg)
 * Artifact Type: project
 * Source URL: [http://tinyurl.com/smoothsketch](http://tinyurl.com/smoothsketch)
 * Creator: Eddie Lohmeyer
@@ -71,7 +71,7 @@ David Rieder's graduate-level seminar invites students with little or no technic
 SmoothSketch is a Makey Makey powered easel and graphite game controller created by Eddie Lohmeyer, a doctoral student in the Communication, Rhetoric, and Digital Media (CRDM) program at North Carolina State University. Created partly in the Circuit Research Studio media lab at NCSU, the SmoothSketch installation explores non-representational interventions in digital gameplay through a reading of Gilles Deleuze’s concepts of smooth and striated space. SmoothSketch was created for a graduate game studies seminar with an open-ended final project requirement that opened exploration of the course theme of digital gaming and embodiment to multiple avenues of scholarly production. Incorporating opportunities for material engagement into assignments for traditional seminars expands the ways in which theory and practice become enmeshed in the classroom.
 
 ### Interpretive Machines
-![screenshot](images/interpretive_machines.png)
+![screenshot](images/makerspaces-interpretive_machines.png)
 * Artifact Type: course assignment/projects
 * Source URL: [http://www.lib.ncsu.edu/sites/default/files/files/pdfs/Vol.31no.3.Focus.online.pdf](http://www.lib.ncsu.edu/sites/default/files/files/pdfs/Vol.31no.3.Focus.online.pdf) (pp. 18-19)
 * Creator: Paul Fyfe
@@ -79,7 +79,7 @@ SmoothSketch is a Makey Makey powered easel and graphite game controller created
 Paul Fyfe, Associate Professor in the Department of English at North Carolina State University, taught an Honors English seminar titled “Interpretive Machines” in Fall 2015. The course focused on rethinking modes of cultural communication from historical, theoretical, and hands-on perspectives. The seminar’s final project involved the ground-up building of an object that incorporated course themes and explorations. These projects included, among others, an arduino-powered tone-typing QWERTY keyboard exploring textual and aural modalities of composition, an arduino-powered surveillance book that registered motion and location, and a Makey Makey powered conductive tape and Play Doh keyboard embedded in an old thesaurus challenging participants to consider algorithmic text input. Along with design documents and reflection journals, these projects encompass traditional texts and material engagement with new media through classroom learning and hands-on experience in sessions facilitated by the university’s makerspace. Such an approach to teaching and learning enmeshes theory and practice to extend student learning beyond the traditional text.
 
 ### AutomaTiles
-![screenshot](images/automatiles.png)
+![screenshot](images/makerspaces-automatiles.png)
 * Artifact Type: project
 * Source URL: [http://cargo.jonathanbobrow.com/AutomaTiles](http://cargo.jonathanbobrow.com/AutomaTiles)
 * Creator: Jonathan Bobrow
@@ -87,7 +87,7 @@ Paul Fyfe, Associate Professor in the Department of English at North Carolina St
 Emerging from the MIT Media Lab, AutomaTiles is composed of individual, interlocking electronic components responding to touch, proximity to other tiles, and sound to produce different emergent outputs. Intended to explore systems thinking, AutomaTiles creator Jonathan Bobrow emphasizes the gestalt notion that the sum is other the whole of its parts through engagement with physical objects rather than just through digital simulation. AutomaTiles is not only a maker project from which students might learn systems thinking and processes through exploration and play with both the tiles and the digital design tool, but also illustrates an example of the ways in which maker projects and material engagement might be harnessed for innovative scholarly practices within the digital humanities.
 
 ### Hyperrhiz 13 & Rutgers-Camden Exhibit
-![screenshot](images/hyperrhiz13.png)
+![screenshot](images/makerspaces-hyperrhiz13.png)
 * Artifact Type: publication & gallery exhibition
 * Source URL: [http://hyperrhiz.io/hyperrhiz13/](http://hyperrhiz.io/hyperrhiz13/) & [https://digitalstudies.camden.rutgers.edu/2015/10/05/hyperrhiz-kits-plans-and-schematics/](https://digitalstudies.camden.rutgers.edu/2015/10/05/hyperrhiz-kits-plans-and-schematics/)
 * Creators: Helen J. Burgess & David M. Rieder, eds.
@@ -97,7 +97,7 @@ Issue 13 of the journal Hyperrhiz, themed “Kits, Plans, and Schematics,” cur
 ## Spaces
 
 ### D.H. Hill Library Makerspace
-![screenshot](images/dhhill_library_makerspace.jpg)
+![screenshot](images/makerspaces-dhhill_library_makerspace.jpg)
 * Artifact Type: university makerspace
 * Source URL: [http://www.lib.ncsu.edu/do/make-at-hill](http://www.lib.ncsu.edu/do/make-at-hill)
 * Creator: D.H. Hill Library, North Carolina State University
@@ -105,7 +105,7 @@ Issue 13 of the journal Hyperrhiz, themed “Kits, Plans, and Schematics,” cur
 The D.H. Hill Library Makerspace at North Carolina State University is a free to access DIY space equipped with maker tools like 3D printers, 3D scanners, sewing machines, soldering irons, electronics prototyping kits, a laser cutter and more. The space is part of a larger project within the NCSU libraries to cultivate a maker community and ensure the tools, technology, and support involved with making are accessible to all of campus. Libraries staff involved with the Hill Makerspace also facilitate classes, teach workshops, and provide consultations with students and faculty on their projects. These collaborations offer faculty and students the opportunity for hands-on experience with tools and tech that might otherwise seem intimidating without instruction. Bringing the classroom to the makerspace opens the range of possibilities for project-based coursework and demonstrates the cross-disciplinary nature of makerspace-facilitated learning.
 
 ### The Maker Lab in the Humanities (MLab)
-![screenshot](images/maker_lab_uvic.png)
+![screenshot](images/makerspaces-maker_lab_uvic.png)
 * Artifact Type: university makerspace
 * Source URL: [http://maker.uvic.ca/](http://maker.uvic.ca/)
 * Creator: Jentery Sayers, Director
@@ -113,7 +113,7 @@ The D.H. Hill Library Makerspace at North Carolina State University is a free to
 The Maker Lab in the Humanities (MLab) at the University of Victoria facilitates critical scholarship for teams of humanities faculty and students through physical computing, digital fabrication, and other digital humanities endeavors. MLab teams emphasize a critical approach to making and research, focusing on the processes of engaging with material components. Work emerging from the MLab has found its way to international conferences, publications, galleries, and exhibits. The experimental ethos inherent in the MLab takes coursework to interesting places, offering insights into the range of material engagements pedagogial strategies might draw upon to ask and/or reveal new and different types of questions in the course of Digital Humanities scholarship.
 
 ### Critical Making Lab
-![screenshot](images/critical_making_lab.png)
+![screenshot](images/makerspaces-critical_making_lab.png)
 * Artifact Type: university makerspace
 * Source URL: [http://criticalmaking.com/](http://criticalmaking.com/)
 * Creator: Matt Ratto
