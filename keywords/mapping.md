@@ -46,4 +46,113 @@ At the same time, a rise in DIY map-making applications and affiliated tutorials
 
 Mapping and geographical thinking offer tremendous potential to enrich humanities studies and lines of inquiry.To increase the chances of satisfying outcomes and decrease the chances of frustration and being over- or under-whelmed, have the inquiry drive the data, and not the other way around. Experiment with low tech methods (paper and colored pencils) while the questions and data models are being developed. Be prepared to spend three times as much time as you had allocated, and be creative with learning outcomes and assessments to allow for exploring and accommodating the mixture of content-knowledge and technical-knowledge acquisition.  
 
+## CURATED ARTIFACTS 
+
+### Digital Mapping & Geospatial Humanities
+![screenshot](images/)
+
+* Source: http://fredgibbs.net/courses/digital-mapping/
+* Copy of Artifact: forthcoming
+* Creator: Fred Gibbs, History Department, University of New Mexico
+
+This syllabus is for a short-but-intense 5-day course on digital mapping, using open-source tools and aimed at a humanities’ audience. This class took place in June 2014, thus its audience was likely a mix of students, faculty, and other scholars eager for an opportunity for professional development in this area. For its 40-45 hours of scheduled time, the instructor (Fred Gibbs) is ambitious enough to have the students experiment with multiple methods of digital mapping platforms but also includes references and content relevant to broader issues of place, representation, and uncertainty, all essential issues of digital mapping endeavors from a humanities’ perspective. The group project of working on a series of historical data layers for Albuquerque, New Mexico, is a wise choice as it is a venue the class participants likely have in common and will present clear exemplars of the types of issues that historians will likely confront when developing digital mapping projects. This could be a very good model for a short course, recognizing that the instructor must have both confidence and competence with a mix of digital technologies. 
+
+### Special Topics: Mapping the Digital Humanities
+![screenshot](images/)
+
+* Source: http://www.jenterysayers.com/2009/498/  
+* Copy of Artifact: forthcoming
+* Creator: Jentery Sayers, University of Victoria 
+
+This course was the product of a collaboration between two graduate students at the University of Washington, Jentery Sayers (English) and Matt Wilson (Geography), supported to develop the course through a teaching fellowship. As the product of those two instructors, who had the luxury of additional time for development, it stands as an exemplar of an inter-disciplinary, humanities-focused mapping course. The parallelism of having students work on "mapping" a geographical location as well as "mapping" a text is a novel structure that the collaboration affords. The Modules and Prompts have extensive and interesting commentary and suggestions for readings and ideas about mapping topics (cartographic generalization, data structure and organization, critical cartography, etc). It also provides an understanding of “geography” itself, and does not limit the geographical emphasis to only maps as a tool and outcome. 
+
+### The Silk Road
+![screenshot](images/)
+
+* Copy of Artifact: forthcoming
+* Creator: Ruth Mostern, UC Merced
+
+Students in this 100-level class recreate the trajectory of an historical route via the Google Earth virtual globe. The choice of the 3-D Earth platform (versus the 2-D Google Maps) provides a sense of topographical relief that would have affected all aspects of travel across that route. Students are expected to go beyond a simple recreation of the geometric “line” of the Silk Road itself by integrating other digital media (images, timelines, text) to annotate their geographical points. Though the rubric does not indicate what would constitute inferior or superior grades, the author has distinguished between the various technical, cartographic, and textual interpretive elements of the final project.
+
+### Historical Map Analysis
+![screenshot](images/)
+
+* Copy of Artifact: forthcoming
+* Creator: Anne K. Knowles, University of Maine
+
+This assignment prompts students with a series of questions that guide them through a structured critique of an historical map. The questions cover themes of genre, author and probable audience, historical context of the map, and the map as a source for historical geography. This activity prepares students for a subsequent assignment of researching, designing, and constructing a page for a collaboratively-produced Atlas. The questions are drafted with a historical map in mind, but they can could also be modified for application to any map. They structure lines of inquiry about cartography, cartographers, and cartographic products that many students have never systematically thought through before.  
+
+
+### Historical Atlas Assignment
+![screenshot](images/)
+
+* Copy of Artifact: forthcoming 
+* Creator: Patrick Rael, History, Bowdoin College
+
+Rael has students delve into historical Census data to each produce a small Atlas that addresses questions about race and slavery in mid-19th century America. They need to produce not only maps, but also tables and charts, consistent with the Census emphasis on quantitative data. Students are prompted to begin with a question that they wish to answer, comparing variables across different geographies, across time, or for exploring possible correlations. This models a good practice for dealing with Census data: to have a specific question that data will help address. Otherwise, Census data can readily become overwhelming in its specificity and abundance. The GIS “Code Book” facilitates the use of the “real” data, which is necessarily obtuse and confusing in its authenticity. Rael choose to do extensive out-of-class work to prepare supporting instructional materials so that the students focus on the questions and analysis while minimizing time spent grappling with data. Though this assignment is focused on historical work, it could be adapted for Census data from any time period. 
+
+
+### TITLE
+![screenshot](images/)
+
+* Copy of Artifact: forthcoming 
+* Creator: Lillian Larsen, University of Redlands
+
+Annotation forthcoming. 
+
+### Texts and Contexts: American Women's Bestsellers: Digital Humanities Perspectives
+![screenshot](images/)
+
+* Source: http://202s15.cesaunders.net/ 
+* Copy of Artifact: forthcoming 
+* Creator: Catherine Saunders, George Mason University
+
+Students in this course created a series of map-mashups, using the increasingly popular Neatline product, that provide point locations with annotated information for four novels they read. In the Exhibit Assignment, the workshop systematically guides students on how to weigh the options for deciding point placement on the map. The Final Exam writing assignment takes geographical perspectives into consideration, and the first prompt draws from different map scales and extents of the maps created. Unlike some other map-mashups that detail the content and context of an historical book, the creator has not chosen to place (i.e., georeference) an era-specific historical map over the built-in, default maps. So, when the map viewer is asked to consider Mr. Phillip’s circa 1850 experience in Rio de Janeiro (from Cummins’ The Lamplighter), in its “terrible state … of chaos and death,” the viewer instead only sees the standard Open Street map. circa 2015, background map of Rio. This is a standard conundrum with making map-mashups, unfortunately, and can be mitigated but not without some effort.
+
+
+### Provenance Project, ARTH 230: Introduction to Museum Studies
+![screenshot](images/)
+
+* Copy of Artifact: forthcoming 
+* Creator: Leah Niederstadt, Department of Art History, Wheaton College, Massachusetts
+
+In her Introduction to Museum Studies class, Leah Niederstadt has students conduct research on the provenance of items that are part of the permanent collection of Wheaton College’s art museum. The assignment involves students compiling detailed citation information for the art pieces themselves, and then they create a "StoryMap" that chronicles the “provenance narrative” for the pieces. For the Fall 2015 iteration of the class, students used StoryMap JS for their projects. The application is simple enough that a minimum of student training was necessary. An earlier instance of this course taught as a First Year Seminar, Google Earth was used, but StoryMaps was a more desirable option for its functionality and design options.
+
+
+### Mapping the Lakes: A Literary GIS
+![screenshot](images/)
+
+* Source: http://www.lancaster.ac.uk/mappingthelakes/ 
+* Copy of Artifact: forthcoming 
+* Creators: David Cooper and Ian Gregory
+
+This project is the example of the "middle ground" between a grand, large scale research activity and a simple map mashup. It is noteworthy for posing a question that is of interest to literary scholars (How does the corpus of these two scholars differ, though they are often regarded as dealing with similar places?) and then suggesting an answer to that question that was actually derived via spatial analysis. The authors recognized that they could maintain aims and objectives that were concurrently “writer-specific, geo-specific, and theoretical,” and explain their process and arguments with both mapped images and text.  
+
+This project models what a student would be able to achieve if they were able to use GIS software at a more advanced level, and they had a disciplinary question that they were able to envision a way to "measure," or be innovative in how to imagine what a quantifiable proxy could be for their study. The structure of the project lends itself to a classroom experience. 
+
+### DHi Interns & CLASS Fellows Skills
+![screenshot](images/)
+
+* Source: http://www.dhinitiative.org/about/interns-class-skills
+* Copy of Artifact: Forthcoming 
+* Creators: Angel Nieves and Janet Simons, Hamilton College
+
+This useful information provides descriptive and explicit details about a technical skill set, placed within its relevant humanities contexts, that undergraduate students may encounter while doing work with DH projects. Though the list is not specific only for mapping & GIS related activities, examples and elements of mapping, GIS, 3D modeling, and spatial visualization are included in almost of the categories. Several examples of student mapping work are referenced here, such as Following the River. The types of activities and skills listed would also be the same ones that a faculty could model for a single classroom-activity. Or, they could become the basis for a “DH research methods” with a focus on mapping placed within a richer DH context.  
+
 The artifacts chosen here reflect materials and resources from individuals and groups who have put thoughtful ideas into having maps, and the acts of mapping, be a meaningful pedagogical tool and practice within their classroom. Examples built with open source and proprietary software are both included, though sometimes it may just be a digital copy of a single map, produced itself by traditional analog methods, that is the focus of an artifact. The intent is to suggest a range of types of pedagogical contexts and support that can make map usage and production a more meaningful educational experience. 
+
+## RELATED MATERIALS
+
+Bodenhamer, David J., John Corrigan, and Trevor M. Harris, eds. *The Spatial Humanities*. Bloomington: Indiana University Press, 2010. 
+
+Drucker, Johanna. "GIS Analysis and Critical Issues." http://dh101.humanities.ucla.edu/?page_id=66
+
+Guldi, Jo. "What is the Spatial Turn?" http://spatial.scholarslab.org/spatial-turn/ 
+
+Jessop, Martyn. "The Inhibition of Geographical Information in Digital Humanities Scholarship." *Literary and Linguistic Computing*. 23.1 (2008): 39-50. Print. 
+
+Knowles, Anne K. "A Case for Teaching Geographic Visualization without GIS." *Cartographic Perspectives*. 36 (2000): 24-37. Print. 
+
+## WORKS CITED
+
+Cresswell, Tim. *Place: A Short Introduction*. 2nd Edition. Chichester, Sussex: Wiley Blackwell, 2015. Print. 
