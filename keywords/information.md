@@ -6,7 +6,6 @@ URL: keywords/information.md
 author: 
 - family: Clement
   given: Tanya
-author:
 - family: Carter
   given: Daniel
 editor: 
@@ -49,7 +48,7 @@ We have chosen pedagogical lessons and artifacts that reflect this critical stan
 ### DH101: Intro to DH
 ![screenshot](images/drucker.png)
 
-* Source: [*http://dh101.humanities.ucla.edu/*](http://dh101.humanities.ucla.edu/?page_id=148)
+* Source: [http://dh101.humanities.ucla.edu/](http://dh101.humanities.ucla.edu/?page_id=148)
 * Copy of artifact: forthcoming
 * Creator: Johanna Drucker (University of California, Los Angeles)
 
@@ -82,180 +81,59 @@ The central objective of this course is to “investigate how the notion of resi
 
 Information is not just about contextualizing data. The machines we use to generate, manage, understand, and share our views of the world are also part of how we think critically about the information landscape. This assignment for graduate and undergraduate students asks them to consider how 3D printing errors may be inspirational and spur innovative design. Students make an argument about Philip K. Dick’s "Pay for the Printer" through 3D printed things. Asked to design their own versions of the deformed artifacts, tools, and objects described in Dick's post-apocalyptic world and display them in a diorama, students use a "taxonomy of errors" to systematically document and classify 3-D printing errors that eventually form the basis of their designs. This process of collection and categorization includes documenting one or more 3-D printers (make and model) associated with the error; a description of the error; the cause of it; an image of it; and the source for more details about it. In addition to contributing entries to the spreadsheet, all of the students are asked to organize, group, or classify the errors into a meaningful system. Through this assignment, students are introduced to a critical perspective on the value of noticing and interrogating a technology’s "break down" or the moments in which the processes or algorithms of an information system such as a 3-D printer become apparent to the user.
 
-**Source URL:
-http://cyborganthropology.com/Infomation\_and\_Contemplation:\_University\_of\_Washington\_Information\_School**
+### Information and Contemplation
+![screenshot](images/levy.png)
 
-**Type:
-Assignment**[](https://digitalpedagogy.commons.mla.org/files/2015/03/bibliocircuitry.pdf)
+* Source: http://cyborganthropology.com/Infomation\_and\_Contemplation:\_University\_of\_Washington\_Information\_School
+* Copy of artifact: forthcoming
+* Creator: David Levy (University of Washington)
 
-**Creators: David Levy (University of Washington)**
+This assignment is part of a course on information and contemplation designed to investigate contemporary questions of information overload and the fragmentation of attention. Unlike other artifacts collected here, the assignment focuses on the lived experience of systems such as email and social media platforms, asking students to consider not just what these systems are but how they structure their days and makes themselves felt on a bodily level. Students examine their information practices by keeping a journal of their email use and later reflecting on patterns found there, as well as alternative practices that might respond to these patterns. Throughout the assignment, attention is specifically called to compulsive behavior and the feeling of being overwhelmed. By highlighting the lived experience of contemporary technologies, the assignment invites students to critically consider their own practices and the extended networks (social, phenomenological, technical) in which information participates. In this way, it reminds that information is not just a thing but also a process and that the process of becoming informed has differed in important ways through time.
 
-**“Information and Contemplation”**
+### The Life and Death of Data
+![screenshot](images/loukissas.png)
 
-This assignment is part of a course on information and contemplation
-designed to investigate contemporary questions of information overload
-and the fragmentation of attention. Unlike other artifacts collected
-here, the assignment focuses on the lived experience of systems such as
-email and social media platforms, asking students to consider not just
-what these systems are but how they structure their days and makes
-themselves felt on a bodily level. Students examine their information
-practices by keeping a journal of their email use and later reflecting
-on patterns found there, as well as alternative practices that might
-respond to these patterns. Throughout the assignment, attention is
-specifically called to compulsive behavior and the feeling of being
-overwhelmed. By highlighting the lived experience of contemporary
-technologies, the assignment invites students to critically consider
-their own practices and the extended networks (social, phenomenological,
-technical) in which information participates. In this way, it reminds
-that information is not just a thing but also a process and that the
-process of becoming informed has differed in important ways through
-time.
+* Source: [http://lifeanddeathofdata.org/](http://lifeanddeathofdata.org/)
+* Copy of artifact: forthcoming
+* Creator: Yanni Loukissas (Georgia Tech)
 
-**Source URL:**
-[*http://lifeanddeathofdata.org/*](http://lifeanddeathofdata.org/)
+This project, titled “The Life and Death of Data” and described by its creator as a “data documentary,” is included here as an example of how data, seen through processes of collection and transformation, can be not only an object of inquiry but also a means of communicating or informing. The project focuses on accession records of the Arnold Arboretum, a collection of trees and other plants managed by Harvard University. Accompanied by a visualization of these data, the text draws on interviews with arboretum staff to construct an institutional narrative that centers on the organizational structures and values that influence collection and documentation practices. Within this narrative, somewhere between digital records and personal interviews, the workings of information-as-process become visible. In this way, the project serves as an argument about the expansive contexts pertinent to studying information as well as about how data or information-as-thing can inform through narrative. In a classroom setting, the project could serve as an example of the kind of critical reflection on data, information and representation that Lauren Klein’s “Data-Based Project and Analysis” assignment, included here, asks students to perform.
 
-**Type:
-Project**[](https://digitalpedagogy.commons.mla.org/files/2015/03/bibliocircuitry.pdf)
+### Performing the Algorithm
+![screenshot](images/moesch.png)
 
-**Creators: Yanni Loukissas (Georgia Tech)**
+* Source: [https://www.hastac.org/blogs/jarah/2011/10/10/code-concepts-i-performing-algorithm](https://www.hastac.org/blogs/jarah/2011/10/10/code-concepts-i-performing-algorithm)
+* Copy of artifact: forthcoming
+* Creator: Jarah Moesch (University of Maryland, College Park) 
 
-**“The Life and Death of Data” **
+“Performing the Algorithm” is an activity developed for the Digital Cultures and Creativity program at the University of Maryland, College Park. Intended to give students a basic conceptual understanding of algorithms, the activity also gives non-technical students a foundation on which to build a critical stance toward information processes. Groups of students create algorithms, or sets of instructions, for moving through and engaging space (defined broadly—physical, virtual and conceptual space are all given as examples). Examples of algorithms created in this way include instructions to play a game, perform a play or enact a programming principle. These algorithms are then passed to another group for enactment and documentation. Rather than asking students to directly critique existing information processes, this activity focuses on giving them the conceptual understanding, gained through practice, on which future critiques might build.
 
-This project, titled “The Life and Death of Data” and described by its
-creator as a “data documentary,” is included here as an example of how
-data, seen through processes of collection and transformation, can be
-not only an object of inquiry but also a means of communicating or
-informing. The project focuses on accession records of the Arnold
-Arboretum, a collection of trees and other plants managed by Harvard
-University. Accompanied by a visualization of these data, the text draws
-on interviews with arboretum staff to construct an institutional
-narrative that centers on the organizational structures and values that
-influence collection and documentation practices. Within this narrative,
-somewhere between digital records and personal interviews, the workings
-of information-as-process become visible. In this way, the project
-serves as an argument about the expansive contexts pertinent to studying
-information as well as about how data or information-as-thing can inform
-through narrative. In a classroom setting, the project could serve as an
-example of the kind of critical reflection on data, information and
-representation that Lauren Klein’s “Data-Based Project and Analysis”
-assignment, included here, asks students to perform.
+### Data Critique
+![screenshot](images/sample.png)
 
-**Source URL:**
-[*https://www.hastac.org/blogs/jarah/2011/10/10/code-concepts-i-performing-algorithm*](https://www.hastac.org/blogs/jarah/2011/10/10/code-concepts-i-performing-algorithm)
+* Source: [http://courses.digitaldavidson.net/dig210/guidelines/data-critique/](http://courses.digitaldavidson.net/dig210/guidelines/data-critique/)
+* Copy of artifact: forthcoming 
+* Creator: Mark Sample (Davidson College)
 
-**Type:
-Assignment**[](https://digitalpedagogy.commons.mla.org/files/2015/03/bibliocircuitry.pdf)
+This assignment is part of a larger undergraduate course in the Digital Studies interdisciplinary minor at Davidson College. It seeks to teach students to think critically about how an understanding of data and databases ties to the ways in which we understand the world. The assignment, “Data Critique,” asks students to think about datasets as “articulations of power, with built-in assumptions, silences, and even anxieties.” Students are asked to find a dataset (or to consider a dataset they may have created themselves), and to interrogate its origins, what that dataset foregrounds and what it occludes, what impact those inclusions and omissions may have on who can interact with it and to what ends. The end result is a paper that discusses the social and cultural context of the dataset. The strength behind this assignment is the extent to which it requires students to consider how we can think about data in terms of its implicit claims about the world.
 
-**Creators: Jarah Moesch (University of Maryland, College Park)**
+### Designing a State Machine
+![screenshot](images/shaw.png)
 
-“Performing the Algorithm”
+* Source: https://aeshin.org/teaching/inls-620/2015/fa/assignments/
+* Copy of artifact: forthcoming
+* Creator: Ryan Shaw (University of North Carolina) 
 
-“Performing the Algorithm” is an activity developed for the Digital
-Cultures and Creativity program at the University of Maryland, College
-Park. Intended to give students a basic conceptual understanding of
-algorithms, the activity also gives non-technical students a foundation
-on which to build a critical stance toward information processes. Groups
-of students create algorithms, or sets of instructions, for moving
-through and engaging space (defined broadly—physical, virtual and
-conceptual space are all given as examples). Examples of algorithms
-created in this way include instructions to play a game, perform a play
-or enact a programming principle. These algorithms are then passed to
-another group for enactment and documentation. Rather than asking
-students to directly critique existing information processes, this
-activity focuses on giving them the conceptual understanding, gained
-through practice, on which future critiques might build.
+Ryan Shaw’s “Designing a State Machine” assignment asks students to consider how real-world interactions such as ordering a cup of coffee at Starbucks could be modeled as information systems and implemented using contemporary web technologies such as HTTP. The assignment consists of several steps: students first describe a context and identify the interactions (e.g., ordering a drink), resources (e.g., an order, a drink, a payment) and dependencies (e.g., a customer cannot pay for a drink before it is ordered). Students then diagram the “states” involved and how they are traversed—for example, moving from the “order placed” state to the “payment received” state is accomplished through the action of paying. The final step of the project calls for students to describe how the system could be implemented using contemporary internet protocols. While not explicitly critical, this assignment is valuable, first, for making explicit the information processes involved in everyday activities and, second, for contextualizing those activities in relation to contemporary information technologies.
 
-**Source URL:**
-[***http://courses.digitaldavidson.net/dig210/guidelines/data-critique/***](http://courses.digitaldavidson.net/dig210/guidelines/data-critique/)
+### Descriptive Schema
+![screenshot](images/wickett.png)
 
-**Type:
-Assignment**[](https://digitalpedagogy.commons.mla.org/files/2015/03/bibliocircuitry.pdf)
+* Source: [https://utexas.instructure.com/courses/1160641/assignments/3735626](https://utexas.instructure.com/courses/1160641/assignments/3735626)
+* Copy of artifact: forthcoming 
+* Creators: Karen Wickett (University of Texas at Austin)
 
-**Creators: Mark Sample (Davidson College)**
-
-“Data Critique”
-
-This assignment is part of a larger undergraduate course in the Digital
-Studies interdisciplinary minor at Davidson College. It seeks to teach
-students to think critically about how an understanding of data and
-databases ties to the ways in which we understand the world. The
-assignment, “Data Critique,” asks students to think about datasets as
-“articulations of power, with built-in assumptions, silences, and even
-anxieties.” Students are asked to find a dataset (or to consider a
-dataset they may have created themselves), and to interrogate its
-origins, what that dataset foregrounds and what it occludes, what impact
-those inclusions and omissions may have on who can interact with it and
-to what ends. The end result is a paper that discusses the social and
-cultural context of the dataset. The strength behind this assignment is
-the extent to which it requires students to consider how we can think
-about data in terms of its implicit claims about the world.
-
-**Source URL:
-https://aeshin.org/teaching/inls-620/2015/fa/assignments/**
-
-**Type:
-Assignment**[](https://digitalpedagogy.commons.mla.org/files/2015/03/bibliocircuitry.pdf)
-
-**Creators: Ryan Shaw (University of North Carolina)**
-
-**“Designing a State Machine” **
-
-Ryan Shaw’s “Designing a State Machine” assignment asks students to
-consider how real-world interactions such as ordering a cup of coffee at
-Starbucks could be modeled as information systems and implemented using
-contemporary web technologies such as HTTP. The assignment consists of
-several steps: students first describe a context and identify the
-interactions (e.g., ordering a drink), resources (e.g., an order, a
-drink, a payment) and dependencies (e.g., a customer cannot pay for a
-drink before it is ordered). Students then diagram the “states” involved
-and how they are traversed—for example, moving from the “order placed”
-state to the “payment received” state is accomplished through the action
-of paying. The final step of the project calls for students to describe
-how the system could be implemented using contemporary internet
-protocols. While not explicitly critical, this assignment is valuable,
-first, for making explicit the information processes involved in
-everyday activities and, second, for contextualizing those activities in
-relation to contemporary information technologies.
-
-**Source URL:**
-[*https://utexas.instructure.com/courses/1160641/assignments/3735626*](https://utexas.instructure.com/courses/1160641/assignments/3735626)
-
-**Type:
-Assignment**[](https://digitalpedagogy.commons.mla.org/files/2015/03/bibliocircuitry.pdf)
-
-**Creators: Karen Wickett (University of Texas at Austin)**
-
-**“Descriptive Schema”**
-
-This assignment is part of a larger graduate course on organizing
-information at the School of Information at the University of Texas at
-Austin. In the assignment, students are asked to define a set of
-entities, articulate a motivating purpose for describing them, and then
-outline a structure of attributes and associated values to
-systematically represent their entities as metadata. When defining the
-class of entities, students are required to think critically about the
-range of possible instances that would fit into their sets and possible
-“border” cases: “For example, is a photo in the airport an acceptable
-instance of Scotland vacation photo? Is an establishment that serves
-burritos but no tacos an acceptable instance of taqueria?” This
-consideration for border cases encourages students to create attributes
-that apply equally to a more various membership of entities. Further,
-students are asked to articulate the purpose and associated target
-audience that motivated their choices. In these ways, students are asked
-to consider how varied contexts or situations might suggest a different
-set of attributes for the same entity set. For the assignment, students
-produce a set of 10-15 attributes to define their entities in support of
-the purpose. They label and describe each attribute in sufficient detail
-such that others could assign values for entities of the type that they
-have described and for each attribute, they set parameters for
-acceptable values, provide guidelines that show how values should be
-expressed. A brief critical reflection includes their understandings of
-their design process and the resulting product. In this assignment,
-students are taught to think critically about designing an initial
-attribute set that contributes to a defined purpose for description,
-when and how it does and does not necessitate changes, and how these
-changes reflect shifts in perspectives.
-
+This assignment is part of a larger graduate course on organizing information at the School of Information at the University of Texas at Austin. In the assignment, students are asked to define a set of entities, articulate a motivating purpose for describing them, and then outline a structure of attributes and associated values to systematically represent their entities as metadata. When defining the class of entities, students are required to think critically about the range of possible instances that would fit into their sets and possible “border” cases: “For example, is a photo in the airport an acceptable instance of Scotland vacation photo? Is an establishment that serves burritos but no tacos an acceptable instance of taqueria?” This consideration for border cases encourages students to create attributes that apply equally to a more various membership of entities. Further, students are asked to articulate the purpose and associated target audience that motivated their choices. In these ways, students are asked to consider how varied contexts or situations might suggest a different set of attributes for the same entity set. For the assignment, students produce a set of 10-15 attributes to define their entities in support of the purpose. They label and describe each attribute in sufficient detail such that others could assign values for entities of the type that they have described and for each attribute, they set parameters for acceptable values, provide guidelines that show how values should be expressed. A brief critical reflection includes their understandings of their design process and the resulting product. In this assignment, students are taught to think critically about designing an initial attribute set that contributes to a defined purpose for description, when and how it does and does not necessitate changes, and how these changes reflect shifts in perspectives.
 
 ## RELATED MATERIALS 
 
