@@ -137,6 +137,17 @@ This assignment is part of a larger graduate course on organizing information at
 
 ## RELATED MATERIALS 
 
+In MLA format, list five related items that are informative for teaching with your keyword in mind. **Please only include five items. No more, no less.**
+
+For each item, include Author, Title, and URL, in alphabetical order.
+
+Items may include, but are not limited to: 
+* Scholarly journal article
+* Book 
+* Video, audio, or other dynamic media
+* Crowdsourced document 
+* Blog post 
+
 ## WORKS CITED 
 
 Buckland, Michael K. “Information as Thing.” *Journal of the American Society for Information Science* 42.5 (1991): 351–360. Print.
