@@ -3,6 +3,7 @@ title: Digital Pedagogy in the Humanities
 subtitle: Concepts, Models, and Experiments
 chapter: Praxis
 URL: keywords/praxis.md
+tags: hands-on, experiential, practical, making, performance
 author:
 - family: Nowviskie
   given: Bethany
@@ -41,13 +42,13 @@ We understand praxis as thoughtful performance: a way of making and building les
 * **critique an idea.** Students challenge or question existing concepts or ideologies by building or performing new alternatives.
 * **generate an idea.** New theories or concepts arise, often iteratively and playfully, through performance, construction of objects or systems, and embodied understanding.
 
-Attention to praxis can encourage students to look beyond academic literature in developing an understanding of the content of a course. It can inspire them to contribute to knowledge representation and creation in new ways, and to move with confidence across disciplinary and professional boundaries. (See, for instance, the work of hairdresser Janet Stephens, now a published experimental archaeologist who has [untangled the mysteries](http://online.wsj.com/news/articles/SB10001424127887324900204578286272195339456) of Roman coiffures.) It can also foster life-long learning, as students learn to negotiate more fluidly and at earlier stages between practices of classroom spaces and those of the working world.
+Attention to praxis can encourage students to look beyond academic literature in developing an understanding of the content of a course. It can inspire them to contribute to knowledge representation and creation in new ways, and to move with confidence across disciplinary and professional boundaries. (See, for instance: the work of hairdresser Janet Stephens, now a published experimental archaeologist who has [untangled the mysteries](http://online.wsj.com/news/articles/SB10001424127887324900204578286272195339456) of Roman coiffures; dancer Anni Brøgger, whose [interpretation](http://en.natmus.dk/historical-knowledge/denmark/prehistoric-period-until-1050-ad/the-bronze-age/the-belt-plate-from-langstrup/bronze-age-dance/) of the kinetic properties of the burial costume of the Egtved Girl helped shift scholarly debates; or the collaboration between micro-brewery *Dogfish Head* and biomolecular archaeologist Patrick E. McGovern on a line of "[ancient ales](http://www.dogfish.com/ancientales)," based on historical research, analysis of residue from unearthed pottery fragments, and ingredients-sourcing from contemporary, indigenous cultures.) Project-based learning can also foster life-long learning, as students learn to negotiate more fluidly and at earlier stages between the practices of classroom spaces and those of the working world.
 
 #### Our Own Pedagogy
 
 We have compiled these resources from the perspective of three digital humanities practitioners engaged in the extra-curricular mentoring and methodological training of graduate students across disciplines at a digital scholarship center: the University of Virginia [Scholars' Lab](http://scholarslab.org/). Almost everything we offer at the Scholars' Lab—from the contributions made by our internal research projects to our workshops and partnerships with faculty, our support of undergraduate research, and our hosted graduate fellowship programs—features praxis as [a central concern](http://scholarslab.org/about/charter/). We take an uncommon position for a library-based service unit, in that we are more oriented toward building up people, as mentors and partners, than toward building websites or tools as an on-request service. In our teaching, we are therefore always careful to emphasize *how* and *why* to make or do things, and to promote design thinking and reflective practice. Praxis is core to the ethos of the Scholars' Lab and to nearly all of our interactions with collaborators. We take this tack because we feel that students, scholars, and cultural heritage or information professionals alike need to engage more deeply with making and building as a way of knowing, in preparation for active and hopeful futures for 21st-century humanities.
 
-A pedagogy of praxis appreciates built objects and working systems, but attends equally to processes and manners of making, and ensures that both are instructive.
+A pedagogy based in praxis can appreciate and analyze built objects or working systems, but also attends to the processes, underlying theories, and methods of making that lead to them. It helps students understand the humanities both in terms of finished products and limitless paths. 
 
 #### Rationale and Criteria
 
@@ -57,7 +58,7 @@ First, we chose resources that were [open-access](http://en.wikipedia.org/wiki/O
 
 Second, we wanted to include a range of resources: syllabi that discuss, organize, and present praxis-oriented theories and activities to students; sample lessons that themselves embody praxis in the sense that they detail processes and outline possible, theoretically-informed outcomes; reflective demonstrations of completed projects or showcases of the tools and processes that have gone into making a particular project, object, or system; and articles that discuss the importance of praxis for teaching and learning. It was important to us to include resources that varied in type or format and in domain of application, to show that praxis can enter the classroom in a variety of ways.
 
-Finally, we felt it important to select resources that demonstrate the interconnected, symbiotic relationships among praxis, theory, and product. All of these resources highlight this importance: that none can or should be understood to exist in isolation, and exploring one should necessarily mean exploring the others. We feature resources that, in our view, succeed in demonstrating that the best way to learn is through active engagement. These resources do not just talk about the importance of praxis in the abstract: they provide examples of embodied, theoretically-informed learning in action.
+Finally, we sought "artifacts" that demonstrate symbiotic relationships among praxis, theory, and product. All of the resources we offer here highlight the importance and interconnectedness of these relations: none can or should be understood to exist in isolation, and exploring one aspect of an object or exercise should necessarily mean exploring the others. We feature resources that, in our view, succeed in demonstrating that the best way to learn is through active engagement. These entries do not just talk about the importance of praxis in the abstract: they provide examples of embodied, theoretically-informed learning in action.
 
 ## CURATED ARTIFACTS
 
@@ -97,10 +98,10 @@ Finally, we felt it important to select resources that demonstrate the interconn
 
 Miriam Posner offers a modest gallery of various digital projects, virtually disassembling them according to the tools and techniques used in their production. Her goal is to show how each is made, so that others might feel empowered to build similar projects or extend the ones highlighted. The site is a helpful starting point for students beginning their own digital projects. Have students explore the site, then visit each example project, to see how the list of parts and techniques correspond to and are manifested in specific results. Get a feel for the affordances of different types of digital projects. In addition to the post, Posner also offers a [video version](http://miriamposner.com/blog/how-did-they-make-that-the-video/) of "How Did They Make That."
 
-### "The Kits for Cultural History at HASTAC 2014"
+### "Kits for Cultural History"
 ![screenshot](images/kits-for-cultural-history.png)
 
-* Source URL: <http://maker.uvic.ca/lima/>
+* Source URL: <http://maker.uvic.ca/kch/>
 * Copy of Artifact: forthcoming
 * Creator: [Nina Belojevic](http://maker.uvic.ca/author/nbelojevic/) (University of Victoria)
 
