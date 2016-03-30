@@ -141,7 +141,7 @@ HitRECord is an online open community that encourages participants to contribute
 
 
 ## RELATED MATERIALS
-\
+
 Ito, Mizuko, et al. *Hanging Out, Messing Around, and Geeking Out: Kids Living and Learning with New Media.* Cambridge, MA: MIT Press, 2010. Web. [https://mitpress.mit.edu/sites/default/files/titles/free_download/9780262013369_Hanging_Out.pdf](https://mitpress.mit.edu/sites/default/files/titles/free_download/9780262013369_Hanging_Out.pdf)
 
 Manovich, Lev. *The Language of New Media.* Cambridge, MA: MIT Press, 2001. Print.
