@@ -107,7 +107,7 @@ Part of the larger 2013 collection [*Digital Writing, Assessment and Evaluation*
 * Artifact Type: Exhibition of student work
 * Source URL: [http://cyberhouse.arted.psu.edu/811/](http://cyberhouse.arted.psu.edu/811/)
 * Artifact Permissions: permission of author
-* Creators and Affiliations: Karen Keifer-Boyd, Penn State University\
+* Creators and Affiliations: Karen Keifer-Boyd, Penn State University
 
 At its most basic level, Karen Keifer-Boyd's final class project for her graduate course in Art Education provides a varied set of student remixes. On the whole, however, the course is far more ambitious, situating remix in a larger series of interactions. The course itself is one node on a larger network of individuals teaching FemTechNet's Distributed Open Collaborative Course, which is designed to forward "a feminist approach for 21st century learning and teaching in the age of social media connectivity" (a more detailed description of the FTN DOCC can be found in their [*Roadshow Blog Series*[(http://femtechnet.org/2015/05/ftn-roadshow-blog-series-course/). The Exquisite Engendering Remix students spent a semester in conversation with students at the University of Helsinki, a collaboration which clearly contributed to the spirit of openness and dialogue about their remixes. The participatory nature of their work is evident in the final exhibition, which encourages the audience to comment on the videos; in fact, the website offers a series of prompts to focus those comments toward the exhibition's theme of gender. The [detailed assignment](http://cyberhouse.arted.psu.edu/visualculture/projects/Remix_Assignment.pdf) for the remix also offers a wealth of resources to inform students' understanding of approaches and digital tools.
 
@@ -130,7 +130,7 @@ Published in 2008, the CMSI report and resources provide a thorough-yet-readable
 
 This short, four-part documentary film is a student-friendly overview of remix that frames the history of the genre in multiple fields (music, film, technology) with an over-arching thematic: "copy/transform/combine." These practices, Ferguson contends, are not just the fundamental building blocks of remix, but of creativity writ large. The film begins with side-by-side comparisons of music samples and builds to an analysis of intellectual property and copyright, and the future of creativity and ownership. The [companion website](http://everythingisaremix.info/) to the film houses a list of hardware and software used to make the film; a complete list of the texts that Ferguson references; and, perhaps most importantly as a model for student remixes, a comprehensive list complete with time stamps and links to the original sources of the samples used throughout. 
 
-### hitRECord\
+### hitRECord
 ![screenshot](images/remix-middleton-hitrecord.png)
 * Artifact Type: Creative online community/production company
 * Source URL: [https://www.hitrecord.org/](https://www.hitrecord.org/)
