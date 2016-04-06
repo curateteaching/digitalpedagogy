@@ -30,15 +30,13 @@ Portland State University | [English Department - Book Publishing] (http://publi
 
 ## CURATORIAL STATEMENT
 
-Anyone who has rearranged classroom chairs from rows into a circle knows that the physical space of the classroom shapes the dynamic interaction of learning. Now that digital interfaces have untethered collaborative learning from the physical classroom, "the classroom" is a heuristic that manifests itself more variously than it did when it was primarily an efficient oral distribution system for learning. Florian Cramer and Matthew Fuller remind us that interface is a term "borrowed from chemistry, where it means 'a surface forming a common boundary of two bodies, spaces, phases'" (149). Digital interfaces offer humanists many new "common boundaries" where traditional goals of humanist inquiry such as "the interrogative as a condition of knowing" (Fyfe) can be practiced and realized through innovative use of digital tools.
+Anyone who has rearranged classroom chairs from rows into a circle knows that the physical space of the classroom shapes the dynamic interaction of learning. So too digital interfaces shape how students articulate what’s thinkable. "The classroom" is a heuristic that manifests itself more variously today than when the classroom was a meeting space bound by walls and directing student gaze to the lecturn or around a table. In this keyword, "interface" refers to the meeting points between people and technologies that facilitate learning such as books, screens, code, candlelight, a collaboration workflow, or even a roleplay game.  Like “classroom,” interface is itself a heuristic that illuminates the changing ways we encounter students digitally "that doesn’t preclude face-to-face, blended, or other modes of instruction," as Paul Fyfe observed in the open access peer review comments on this keyword draft.
 
-The ten resources featured in this curated entry make use of a broad range of pedagogical interfaces, which I define as the space where learners, curricula, digital environments and teachers constitute each other dynamically. The exemplary assignments and sustained projects featured here are both the prods and the byproducts of such interactivity. They highlight different aspects of pedagogical interface excellence. They share the common trait of mindful attention to use and reception. No one tool is the perfect solution for learning, which is why templatized online classroom modules should rouse our skepticism. Digital tools and even settings (such as video meeting software) are fungible. The best pedagogical uses of interface begin with a faculty member's hypothesis of specific things she wants students to learn through digital exploration and making; the best teachers tweak the assignment iteratively, learning how the students mis/use the interface.
+Building a webpage in HTML and CSS is a core interface literacy. No one today needs to write HTML to build a web presence; we select widgets from a small menu of template choices, and customize our webpages with images. Not coding, people miss critical engagement with markup language as a meeting space between human expression and nonhuman rulesets. We also miss the pressing need for, and rewards of, an open Web where a keyword search will instantly return code snippets and tutorials. The culture of workaround, of copying, sharing and repurposing, grew up around the Web because it is a dynamic patchwork of code. It's easy to lose sight of that and linger on the slick screen surface of Facebook or Medium. Miriam Posner’s brilliant, easy-to-use “DH 101” tutorials (see "Related Materials" below) restore critical attention to interface. Her handouts teach students how to build webpages, clean data, and make visualizations and timelines. More importantly, "DH 101" students become makers whose digital artifacts reject the passivity of just-go-limp-and-like interfaces.
 
-People who are made nervous by the notion that digital interfaces might replace face-to-face learning and its dynamics of critical examination and reflection may be heartened to see, in the ten artifacts featured here, digital tools invigorating the embodied classroom experience. Computational thinking enables a bi-focal view of the physical classroom as a workspace. Burgess' students "translate" a Shakespeare sonnet into various medial forms, for example, building in four iterations of the same sonnet beginning with tactile 3D art to authoring the sonnet as an executable computer program. Cordell's students in a history of technology course replicate the conditions of the medieval scriptorium, hand-transcribing letters by candlelight around a seminar table (with a Boston fire marshal observing from the periphery!). In the same way that e-books and electronic literature "enstrange" the printed book and permitted one to see the book as a unique medial artifact with its own distinct attributes, so too digital pedagogical interfaces reveal aspects of learning that might previously have been invisible. Synchronicity and physical co-presence are no longer necessary to learning, and more students are learning in "on-demand" settings. Such learning interfaces are suited to STEM disciplines, not humanism. The ten exemplars featured here demonstrate ways in which the phyisical classroom as digital interface is a remarkably efficient lab for collaboration and reflection.
-
-The ten curated artifacts and five related materials were selected to present a slate that faculty from a wide range of backgrounds would find valuable. Some featured assignments, such as those by Stommel, Douglass and Pokornowski, Wittig and Marino, and Cordell could be executed as stand-alone assignments even by faculty new to using digital interfaces pedagogically. Assignments by Burgess, Fyfe, and Harris are more advanced both in terms of target audience and level of digital skill required to teach them. Collaborative projects conceptualized and led by Jenstad, Mongar, and Hergenrader are large archival projects sustained semester-to-semester. They permit a wide range of interface applications, including cross-disciplinary collaboration and public availability to audiences well beyond the classroom. Such settings are particularly suited to immersing students in the work of professional scholarship. Working alongside faculty members in durable projects is an extraordinary experience that learners can't get outside a university setting. This is just one way that digital interfaces restore the humanities to its central role in a liberal education.
-
-Does it matter if a classroom is a little rectangle in a building or a little rectangle above one's keyboard? Doors are rectangles; rectangles are portals. We walk through. Our classrooms are defined not by walls or Windows, but by interfaces of human meaning-making: the new vistas of intellectual work that students can experience firsthand through faculty stewardship and mentoring.
+Deliberately I culled a wide range of assignments to address students in various contexts of DH support: from elite institutions to income-insecure places where the only access to digital tools might be free apps on a cell phone. There's a productive tension between the “task-oriented efficiency” (Drucker, 1) of interface's traditional work, and the more exploratory, metacritical uses of interface in the assignments I feature here. Helen Burgess’ students "translate" a Shakespeare sonnet into various medial forms, for example, building in four iterations of the same sonnet beginning with tactile 3D art to authoring the sonnet as an executable computer program. Ryan Cordell's students in a history of technology course replicate the conditions of the medieval scriptorium. These defamiliarizations of the physical classroom-as-interface let us "see" the classroom as a medium-specific environment where liveness is a unique feature of embodied university instruction.
+  
+Does it matter if a classroom is a little rectangle in a building or a little rectangle above one’s keyboard? Doors are rectangles; rectangles are portals. We walk through. Our classrooms are defined not by walls or Windows, but by interfaces of networked collaboration critically appraised.
 
 ## CURATED ARTIFACTS
 
@@ -51,6 +49,15 @@ Does it matter if a classroom is a little rectangle in a building or a little re
 
 "You're accustomed to doing 'readings' of literature and producing a specific kind of output: a paper," Helen Burgess tells her students. "In this exercise the 'input' will be the same . . . but the 'output' will be different. Thus it will require two sets of skills." Burgess's four-part "sonnet conversion" process asks students to deform Shakespeare's sonnets materially, and remediate them as: visual representations; an object comprised of fourteen parts; a schema comprised of encoding, composition and decoding (a student decodes someone else's composition); a program that builds a sonnet when it's executed. This exercise takes "deformance" a step further by reforming ("converting") the sonnet into a computational object. The progress through the four stages is to strip away the impressionistic and replace it with the procedural.
 
+### Italian Language Study Using Geospatial Methodology
+![screenshot](images/interface-italian-hip-hop-concept-map.png)
+
+* Source URL: <https://www.arcgis.com/apps/MapJournal/index.html?appid=36d80c623d9a4b4291eea52c9ae279ac>
+* Copy of Artifact: forthcoming
+* Creator: Clarissa Cló (San Diego State University)
+
+Students immersed themselves in the target language from the Italian Hip Hop Archive of San Diego State University library, which owns a collection of the 1990s Italian magazine **Aelle/AL**. Selecting articles and creating story map journals using Esri ArcGIS technology, students produced geographical-based narratives with accurate satellite locations, accompanied by pictures, videos and links. Coding was not required for this web-based open source system. Students worked through complex cross-cultural concepts and terminology and located them in time and place. They applied a geospatial methodology to their language learning, showcasing Italy's regional, cultural, and linguistic diversity. The study of Italian was contextual, integrated, and meaningful.
+
 ### "Simulating the Scriptorium"
 ![screenshot](images/interface-Cordell-Scrivening.png)
 
@@ -60,26 +67,26 @@ Does it matter if a classroom is a little rectangle in a building or a little re
 
 “The candle is a non-textual medium that has profoundly affected the texts we have inherited from previous generations," observes Ryan Cordell. Undergraduates in his "Technologies of Text" course write for a class period at a table lit by candles. Cordell reports that a fire marshal (with an extinguisher at his hip) monitored the entire scrivening, which was held in a windowless, enclosed room. Students discovered that bookmaking was a laborious process when they transcribed a text of their choice from the *Norton Anthology*. Hands cramped. Eyes strained. Backs tired. An aching body is a very interesting classroom interface. The point of this assignment, Cordell notes, is to "start students thinking about how canons and anthologies come to be, the complex, long textual histories that precede any piece appearing in the *Norton Anthology*'s Table of Contents."
 
-### Close Reading Exercise via Tumblr
+### Close Reading *House of Leaves* via Tumblr
 ![screenshot](images/interface-HoL-Douglass-Pokornowski.png)
 
 * Source URL: <http://english10introductiontolit.tumblr.com>
 * Copy of Artifact: [files/interface-Douglass-Pok-ENGL-10-HoL-Remix.pdf](files/interface-Douglass-Pok-ENGL-10-HoL-Remix.pdf)
 * Creators: Jeremy Douglass (University of California Santa Barbara) and Steven Pokornowski (University of California Santa Barbara)
 
-It's ambitious to assign <em>House of Leaves</em> in an introductory literature class. Desultory, evasive and iconic, <em>HoL</em> will frustrate almost any reader who aims to read this text closely as Humanists are trained to do. Jeremy Douglass and Steven Pokornowski create a two-part assignment interface. The prompt procedurally guides students through making a remix of one page--and only one page--in <em> HoL</em>. Making their collages, students can work with digital image tools or work with the other "digital," their fingers, making collage from arts and craft supplies. Handmade remixes are photographed; all remixes are tagged and uploaded to the class's Tumblr site which itself remixes the individual pages into a fragmentary collective. Their heterogeneity perfectly complements the source text's unfinalizability.
+It's ambitious to assign *House of Leaves* in an introductory literature class. Desultory, evasive and iconic, *HoL* will frustrate almost any reader who aims to read this text closely as Humanists are trained to do. Jeremy Douglass and Steven Pokornowski create a two-part assignment interface. The prompt procedurally guides students through making a remix of one page--and only one page--in *HoL*. Making their collages, students can work with digital image tools or work with the other "digital," their fingers, making collage from arts and craft supplies. Handmade remixes are photographed; all remixes are tagged and uploaded to the class's Tumblr site which itself remixes the individual pages into a fragmentary collective. Their heterogeneity perfectly complements the source text's unfinalizability.
 
-### Distant Reading Exercise
+### Distant Reading Victorian Novels
 ![screenshot](images/interface-Wordle-fr-open-source-Fyfe.jpg)
 
 * Source URL: <http://ryancordell.org/personal/grad-proseminar-guest-talk-not-reading/>
 * Source URL: open-access pre-print of the original article <http://diginole.lib.fsu.edu/eng_faculty_publications/2/>
 * Copy of Artifact: forthcoming
-* Creators: Paul Fyfe (North Carolina State University); Ryan Cordell (Northeastern University)
+* Creators: Paul Fyfe (North Carolina State University); forked by Ryan Cordell (Northeastern University)
 
-Paul Fyfe's 4-page field note about teaching senior undergraduate English majors to read Victorian novels "distantly" provides the the best introduction I've found to distant reading techniques. Fyfe's "interrogative stance" invites students to use the sometimes confusing outputs to ask better questions that exploit the "distant" view. Students can get frustrated by being untethered from what Marcus and Best have called the "symptomatic reading" endemic to close reading. Fyfe teaches how to parse word frequency, concordance, and collocation to defamiliarize narrative as the primary means of knowing a novel. Unfortunately Fyfe's article is locked in a subscription-fee publication. Hunting for resources, I found that Ryan Cordell led a graduate workshop applying Fyfe's techniques, and published his guide on his website. I offer Cordell's variation on Fyfe's article as a means of framing two aspects of Digital Humanities interface: forking and the importance of open-access scholarship.
+Paul Fyfe's 4-page field note about teaching senior undergraduate English majors to read Victorian novels "distantly" provides the the best introduction I've found to distant reading techniques. Fyfe's "interrogative stance" invites students to use the sometimes confusing outputs to ask better questions that exploit the "distant" view of novels they *haven't* read. Students can get frustrated by being untethered from what Marcus and Best have called the "symptomatic reading" endemic to close reading. Fyfe teaches how to parse word frequency, concordance, and collocation to defamiliarize narrative as the primary means of knowing a novel. Unfortunately Fyfe's article is locked in a subscription-fee publication. Hunting for resources, I found that Ryan Cordell led a graduate workshop applying Fyfe's techniques, and published his guide on his website. I offer Cordell's variation on Fyfe's article as a means of framing two aspects of Digital Humanities interface: forking and the importance of open-access scholarship.
 
-### Collaborative Undergraduate Research Project
+### Rare Books Collaborative Undergraduate Research Project
 ![screenshot](images/interface-Harris-Collab-Project.jpg)
 
 * Source URL: <http://triproftri.wordpress.com/2012/12/03/collaborative-project-on-19th-century-materials-assignment/#more-1191>
@@ -88,25 +95,16 @@ Paul Fyfe's 4-page field note about teaching senior undergraduate English majors
 
 Lower-division literature majors are new to devising substantial research projects. To author one collaboratively makes knowledge production more complex, but also radically expands the amount of work the team can accomplish. Harris's "Collaborative Project on 19th-Century Materials" expertly introduces students to the materiality of textual scholarship, then trains students in project management, a vital skill for any Digital Humanities collaborative project. Harris makes available the Association of American Colleges and Universities rubrics for Teamwork/Collaboration to ground students' attention in specific tasks they must perform to advance the larger project. As they toggle between embodied classroom space and work in Google Docs, student writers assess the rare book's material attributes and then move to more complex questions of content and interpretation. One resulting project, about Louisa Henrietta Sheridan's *The Comic Offering: Satire Without Bite* is seamless, univocal prose.
 
-### Historically-Based, Geographically Situated Role Playing Game
+### Historical Role Playing Game: Interdisciplinary Collaboration
 ![screenshot](images/interface-Hergenrader-Steampunk-Rochester-map.png)
 
 * Source URL: <http://steampunkrochester.wikispaces.com/Steampunk+Rochester>
 * Copy of Artifact: forthcoming
 * Creator: Trent Hergenrader (Rochester Institute of Technology)
 
-Three aspects of <em>Steampunk Rochester</em> make it an exceptional digital pedagogy interface. It blends real-life history of Rochester, New York 1915-25, site of the host university. This setting prompts student creation of fictional characters in a game setting where Rochester becomes a playable game space. The result is speculative fiction, a steampunk vision of the future that finds new technologic aspects in dynamic roleplay of the past.
+Three aspects of *Steampunk Rochester* make it an exceptional digital pedagogy interface. It blends real-life history of Rochester, New York 1915-25, site of the host university. Students create fictional characters where Rochester becomes an open-access playable game space. The result is speculative fiction that relies on the structured archive of wiki, a steampunk vision of the future that finds new technologic aspects in dynamic roleplay of the past.
 
-Created in collaboration among four departments at the Rochester Institute of Technology, English, Fine Arts, Imagine Arts and Interactive Games, <em>Steampunk Rochester</em> will feed the local community with engaging story even as it also turns the city into a game lab. The large <em>Steampunk Rochester</em> wiki is already well populated with the people, places, and things that will become the raw material for the interactive video game. Trent Hergenrader's students, nimbly moving between play and creative writing, are engaging colleagues across the university in a highly applicative part of the creative digital humanities, where interdisciplinary projects make a "classroom" that is equal parts off-campus physical location, embodied imagination, and game mechanic.
-
-### New Undergraduate Pedagogical Partnerships for Large Archival Project
-![screenshot](images/interface-MoEML-Ped-Partners-Jenstad.png)
-
-* Source URL: <http://mapoflondon.uvic.ca/pedagogical_partnership.htm>
-* Copy of Artifact: forthcoming
-* Creator: Janelle Jenstad (University of Victoria)
-
-Many people have heard of <em>Map of Early Modern London</em>, now in its fifteenth year, but fewer may know about its new “Pedagogical Partners” project which invites scholars and teachers to incorporate a MoEML module into their early modern literature and theatre courses. This is a superb opportunity to for disciplinary-specific scholarship available through digital interfaces. Reaching a broad audience of potential collaborators via a Facebook group, MoEML bring students into primary research and gives them opportunity to learn by emulating the professional scholars also engaged in annotating the map. Broad and participatory collaboration fuels MoEML's year-to-year sustainability. Observes Project Director Janelle Jenstad: "In some cases, the work of one student provides a project for another student. For example, Jennie Butler’s old-spelling text of <em> The Quenes Majesties Progress</em> awaits editorial annotation by another student. Indeed, I hope that the possibilities of the site will never be exhausted, for its pedagogical value lies in the creative process that brings students to link their work to the map."
+Created in collaboration among four departments at the Rochester Institute of Technology (English, Fine Arts, Imagine Arts and Interactive Games) *Steampunk Rochester* will feed the local community with engaging story even as it also turns the city into a game lab. The large *Steampunk Rochester* wiki is already well populated with the people, places, and things that will become the raw material for the interactive video game to be developed. Trent Hergenrader's students, nimbly moving between play and creative writing, are engaging colleagues across the university in applied creative arts, where interdisciplinary projects make a "classroom" that is equal parts off-campus physical location, embodied imagination, wiki, and game mechanic.
 
 ### Giving Voice to Spanish-Language Life Histories
 ![screenshot](images/interface-Mongar-Esta-Vida.png)
@@ -126,7 +124,7 @@ Many people have heard of <em>Map of Early Modern London</em>, now in its fiftee
 
 In the "Twitter Essay," Jesse Stommel exhorts students to convert their expertise texting and posting status updates into college writing concision. This is an ideal assignment for those new to digital interfaces because its instantaneous publication provides the possibility of immediate reception and feedback beyond the classroom. Faculty new to digital pedagogy should practice first on their own to learn firsthand the dynamics of such publication. Stommel's students hew to the usual compositional preparation sequence, with the catch that everything is done entirely in Tweets: brainstorming, composing, workshopping, and revising. An extra layer of interface savvy comes in Stommel's attention to audience, reception and post-publication circulation: a rare opportunity to trace the "afterlife" of a comp/rhet "paper." One essay prompt about #queer elicited from a Twitter neophyte: #queer #kwear #qu’eer #ckwewr #QuEeR #qr #kuere #CWEER #qawear #kwier #cawe’re #ckuere #cwear #qwere #chweir #q-u-e-e-r. In its profusion and perversion, such a Tweet "savvily disrupts how we tag ideas within a discourse."
 
-### Mobile Text-and-Image Collaborative Story
+### Mobile Text-and-Image Collaborative Story: 1WkNoTech
 ![screenshot](images/interface-Wittig-1wknotech.png)
 
 * Source URL: <http://1wknotech.tumblr.com/>
@@ -137,16 +135,15 @@ Netprov, the text/image art game installed in social media platforms, is an idea
 
 ## RELATED MATERIALS
 
-Lori Emerson, *Reading Writing Interfaces: From the Digital to the Bookbound*,
-<https://www.upress.umn.edu/book-division/books/reading-writing-interfaces>
+Janelle Jenstad, "*Early Modern Map of London*: Open Pedagogical Partnerships" <http://mapoflondon.uvic.ca/pedagogical_partnership.htm>
 
-Jason Farman, "Hands On Explorations for Mobile Storytelling," *The Mobile Story: Narrative Practices With Locative Technologies.* <http://themobilestory.com/explorations/>
+Alan Liu, "DH Tools Wiki" <http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools>
 
-Alan Liu, "DH Tools Wiki," <http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools>
+Anne McGrail, "Digital Humanities at the Community College: a Commons" <https://dhatthecc.lanecc.edu/>
 
-Miriam Posner, "How Did They Make That? The Video!" <http://miriamposner.com/blog/how-did-they-make-that-the-video/>
+Miriam Posner, "DH 101" <http://miriamposner.com/dh101f15/>
 
-Howard Rheingold, "The Peeragogy Handbook," [http://peeragogy.org/](http://peeragogy.org/)
+Howard Rheingold, "The Peeragogy Handbook" <http://peeragogy.org/>
 
 
 ## WORKS CITED
@@ -160,6 +157,8 @@ Cordell, Ryan. "Grad ProSeminar Guest Talk: Not Reading." <http://ryancordell.or
 Cramer, Florian and Matthew Fuller. "Interface." *Software Studies: a Lexicon*, ed. Matthew Fuller. Cambridge: M.I.T. Press. 2008.
 
 Douglass, Jeremy and Steven Pokornowski. "English 10 Introduction to Lit: *House of Leaves* Remix Assignment." <http://english10introductiontolit.tumblr.com/> Web. Accessed 15 November 2014.
+
+Drucker, Johanna. "Humanities Approaches to Interface Theory." *Culture Machine* 12 (2011).  <http://www.culturemachine.net/index.php/cm/article/viewArticle/434> Accessed 4 April 2016.
 
 Emerson, Lori. *Reading Writing Interfaces: From the Digital to the Bookbound.* Minneapolis: University of Minnesota Press. 2014. Print.
 
