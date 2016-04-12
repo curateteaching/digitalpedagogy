@@ -24,8 +24,8 @@ University of South Carolina Upstate | [http://georgehwilliams.net](http://georg
 ### Publication Status:
 
 * unreviewed draft
-* **draft version undergoing editorial review**
-* draft version undergoing peer-to-peer review
+* draft version undergoing editorial review**
+* **draft version undergoing peer-to-peer review**
 * published
 
 ---
@@ -57,7 +57,7 @@ Working to make information accessible involves re-thinking one’s own default 
 ## Planning
 
 ### Suggested Practices for Syllabus Accessibility Statements
-![screenshot](access-praxis-wiki-suggested-practices-for-syllabus-accessibility-statements.png)
+![screenshot](images/access-praxis-wiki-suggested-practices-for-syllabus-accessibility-statements.png)
 
 * Artifact Type: Article
 * Source URL: [http://kairos.technorhetoric.net/praxis/tiki-index.php?page=Suggested_Practices_for_Syllabus_Accessibility_Statements](http://kairos.technorhetoric.net/praxis/tiki-index.php?page=Suggested_Practices_for_Syllabus_Accessibility_Statements)
@@ -68,7 +68,7 @@ Working to make information accessible involves re-thinking one’s own default 
 This straightforward and well-organized essay discusses an important element of the syllabus that many instructors might be tempted to overlook: the statement of accessibility (often referred to by other terms, such as "Disability Statement" or "Accommodations Statement"). Institutions often provide boilerplate language to be copied and pasted into syllabi, language that is chosen not with pedagogy in mind but with the aim of legal compliance. Wood and Madden emphasize the rhetorical significance of the statement and encourage instructors to create their own, arguing that it "warrants closer attention from [those] who wish to create inclusive classrooms and meet their students' needs in flexible and comprehensive ways." They offer practical advice not only for how to word the statement of accessibility but also how to re-think pedagogy to take into account the needs of diverse students. Examples are provided from others, and further reading is recommended.
 
 ### Composing Access
-![screenshot](access-composing-access.png)
+![screenshot](images/access-composing-access.png)
 
 * Artifact Type: Guidelines
 * Source URL: [http://composingaccess.net](http://composingaccess.net)
@@ -79,7 +79,7 @@ This straightforward and well-organized essay discusses an important element of 
 This website provides extensive advice and specific guidelines for how to "enhance accessibility at [academic] conferences," but most of what can be found here is useful information for the classroom, either for instructors wishing to improve the accessibility of their teaching methods or for students who have been assigned a presentation for class. The information here is not presented dogmatically; instead, the authors write, "[w]e encourage you to shop around, pick up ideas as you like, and hopefully try something new." The section titled "Preparing Your Presentation" covers such topics as the physical space of the presentation, designing useful handouts, sharing presentation material online, and preparing a script to be shared with others such as sign-language interpreters and audience members who might have difficulty processing auditory information. There is also a section explaining what to do "During the Presentation" and a page with links to additional information.
 
 ### Executive Functioning in Online Environments
-![screenshot](access-executive-functioning-udl.png)
+![screenshot](images/access-executive-functioning-udl.png)
 
 * Artifact Type: Article
 * Source URL: [http://udloncampus.cast.org/page/teach_executive](http://udloncampus.cast.org/page/teach_executive)
@@ -90,7 +90,7 @@ This website provides extensive advice and specific guidelines for how to "enhan
 The *UDL on Campus* website is an exhaustive resource addressing universal design for learning at colleges and universities. This particular article explains the online challenges faced by students with cognitive disabilities, a population that is often overlooked in discussions of accessibility and digital educational environments. While face-to-face classroom environments can provide a variety of means to support a student's progress through the course content, in an online environment students can struggle with tasks such as "goal setting, planning, organization, and applying strategies to achieve goals." The article outlines specific strategies for supporting these tasks, including a logical semantic structure to the course website, opportunities for synchronous class events, a discussion environment where peers can ask and answer questions about the course, and a predictable routine for course activities and expectations.
 
 ### Constructing a POUR Website
-![screenshot](access-webaim-pour.png)
+![screenshot](images/access-webaim-pour.png)
 
 * Artifact Type: 
 * Source URL: [http://webaim.org/articles/pour/](http://webaim.org/articles/pour/)
@@ -101,7 +101,7 @@ The *UDL on Campus* website is an exhaustive resource addressing universal desig
 Utah State University’s Center for Persons with Disabilities is home to WebAIM (Web Accessibility in Mind), a non-profit organization whose mission is to improve the accessibility of the web through a variety of educational strategies. "Constructing a POUR Website" provides an in-depth but beginner-friendly explanation of how and why to create a website that is "Perceivable, Operable, Understandable, and Robust." Of particular value here is the emphasis upon what your website's users will need and expect rather than just upon the technical standards for coding and markup. The article would not only be very useful to an instructor working to ensure her course materials are accessible but would also make appropriate assigned reading in a course where students create digital resources.
 
 ### WordPress Accessibility Plugin
-![screenshot](access-wp-accessibility-plugin.png)
+![screenshot](images/access-wp-accessibility-plugin.png)
 
 * Artifact Type: Software
 * Source URL: [https://wordpress.org/plugins/wp-accessibility/](https://wordpress.org/plugins/wp-accessibility/)
@@ -114,7 +114,7 @@ The content-management system and blogging tool WordPress has been widely adopte
 ## Evaluating
 
 ### Accessibility Audit Assignment
-![screenshot](access-price-accessibility-audit.png)
+![screenshot](images/access-price-accessibility-audit.png)
 
 * Artifact Type: Assignment
 * Source URL: [https://drive.google.com/folderview?id=0B-h_I_KLxUTLaGpSX1NFMllmd0E&usp=sharing](https://drive.google.com/folderview?id=0B-h_I_KLxUTLaGpSX1NFMllmd0E&usp=sharing)
@@ -125,7 +125,7 @@ The content-management system and blogging tool WordPress has been widely adopte
 This assignment asks students to evaluate the accessibility of a given physical space on campus using a checklist that is composed in part of specific legal requirements and design recommendations and in part of suggestions and concerns created by students in the class. In this way, students are encouraged to think about accessibility in a holistic way and not just as a simple list of conditions that must be met. The digital aspect of the activity as described here is that students are encouraged to photograph the space they're evaluating. However, an instructor could easily incorporate additional technologies — such as audio and video — into the required final product. An especially ambitious adaptation of the assignment could require a redesign of the space using 3D digital modeling tools.
 
 ### Accessibility Report Assignment
-![screenshot](access-zdenek-website-accessibility.png)
+![screenshot](images/access-zdenek-website-accessibility.png)
 
 * Artifact Type: Assignment
 * Source URL: [https://docs.google.com/document/d/1Yf75OtOQ73iRs7S5NSljGNH-Rc2RHeyM47KPDiU3Tx0/edit?pref=2&pli=1](https://docs.google.com/document/d/1Yf75OtOQ73iRs7S5NSljGNH-Rc2RHeyM47KPDiU3Tx0/edit?pref=2&pli=1)
@@ -138,7 +138,7 @@ Given to students in a graduate-level class on "Web Accessibility and Disability
 ## Re-Thinking
 
 ### Audio/Visual Description Assignment
-![screenshot](access-vidali-blog-post-on-audio-visual-description.png)
+![screenshot](images/access-vidali-blog-post-on-audio-visual-description.png)
 
 * Artifact Type: Assignment
 * Source URL: [https://multimediacomp.wordpress.com/2012/02/29/blog-post-on-audiovisual-narration/](https://multimediacomp.wordpress.com/2012/02/29/blog-post-on-audiovisual-narration/)
@@ -149,7 +149,7 @@ Given to students in a graduate-level class on "Web Accessibility and Disability
 Many courses that once might have asked students to author text-only assignments now require them to create artifacts with a significant visual component, artifacts ranging from infographics to comics to digital stories. Potential readers of those artifacts who are blind or have low vision will, of course, find them more than a little challenging. In her course on multimedia composition &mdash; as part of her unit on "Thinking in Pictures" &mdash; Vidali has her students create a comic and then introduces them to the concept of "visual/audio description." She explains why multiple means of representation are important, distinguishes between interpretation and description, and provides several links to explanations and examples from various sources. This assignment requires students to publish their text-based description alongside their comic.
 
 ### YouDescribe: Testing Crowd-sourced Video Description for Service Learning at the City University of New York
-![screenshot](access-rodas-youdescribe.png)
+![screenshot](images/access-rodas-youdescribe.png)
 
 * Artifact Type: Review
 * Source URL: [http://jitp.commons.gc.cuny.edu/youdescribe-testing-crowd-sourced-video-description-for-service-learning-at-the-city-university-of-new-york/](http://jitp.commons.gc.cuny.edu/youdescribe-testing-crowd-sourced-video-description-for-service-learning-at-the-city-university-of-new-york/)
@@ -160,7 +160,7 @@ Many courses that once might have asked students to author text-only assignments
 Although as a video-sharing website YouTube is a primarily visual medium of information, the site is visited by a significant number of users who are blind or have low vision. For such users, the availability of video descriptions &mdash; an audio track where someone narrates the information that is only presented visually &mdash; makes a particular video much more accessible. Rodas reviews and reflects on YouDescribe, a free tool for crowdsourcing video descriptions of YouTube videos, noting that she was surprised to find herself less confident with the task of description than with the need to learn the tool’s interface. She concludes that an assignment requiring students to use YouDescribe might be discouraging to first-year students just being introduced to multimedia composition assignments but would be effective in a class of more-advanced and tech-confident students.
 
 ### Usability / Accessibility Protocols
-![screenshot](access-accessibility-usability-protocols.png)
+![screenshot](images/access-accessibility-usability-protocols.png)
 
 * Artifact Type: Assignment
 * Source URL: *temporary* [https://drive.google.com/open?id=0BziwFClCcZeJc2ZoaDlpWWpVd1E](https://drive.google.com/open?id=0BziwFClCcZeJc2ZoaDlpWWpVd1E)
