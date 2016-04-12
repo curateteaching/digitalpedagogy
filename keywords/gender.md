@@ -78,7 +78,7 @@ Regender is a web-based tool designed to perform what the developer calls a “g
 One of the truths of the Internet is that given the chance, people will be trolls. Most often, they will troll those who do not present as heteronormative, cisgender (white) men. Fat, Ugly or Slutty is a blog that archives the harassment female gamers receive from other (mostly male) gamers, and draws attention to the rampant sexism and rape culture that has become a part of gamer culture. The site itself documents the very gender-specific harassment that women gamers tend to receive. The site is a user-created platform for community building, raising awareness, and it offers a store of primary materials for everyday analysis. A sample pedagogical use of this site includes asking students to choose a post category (e.g.“Crudely Creative” to “Unprovoked Rage”) and perform rhetorical analysis of the collected posts for recurring tropes, language, images. Ask student to evaluate both the harrassing content and responses. Some questions to consider asking students as they evaluate the primary texts: What are the assumptions informing the interactions? How are bloggers holding trolls accountable? 
 
 
-####“Trans Women and the New Hypertext” 
+###“Trans Women and the New Hypertext” 
 *Artifact Type: Article
 *Screenshot: “LambdaLiterary.png”
 *Source URL: [http://www.lambdaliterary.org/features/07/08/trans-women-the-new-hypertext/](http://www.lambdaliterary.org/features/07/08/trans-women-the-new-hypertext/]
@@ -90,7 +90,7 @@ Merritt Kopas, multimedia artist and game designer, writes about independent gam
 
 ###Modules
 
-#####"Chicana Por Mi Raza"
+###"Chicana Por Mi Raza"
 *Artifact Type: public humanities project, digital archive
 *Screenshot: "ChicanaPorMiRaza.png”
 *Source URL: [http://www.chicanapormiraza.org](http://www.chicanapormiraza.org)
