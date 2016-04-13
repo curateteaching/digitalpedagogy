@@ -30,11 +30,11 @@ Portland State University | [English Department - Book Publishing] (http://publi
 
 ## CURATORIAL STATEMENT
 
-Anyone who has rearranged classroom chairs from rows into a circle knows that the physical space of the classroom shapes the dynamic interaction of learning. So too digital interfaces shape how students articulate what’s thinkable. "The classroom" is a heuristic that manifests itself more variously today than when the classroom was a meeting space bound by walls and directing student gaze to the lecturn or around a table. In this keyword, "interface" refers to the meeting points between people and technologies that facilitate learning such as books, screens, code, candlelight, a collaboration workflow, or even a roleplay game.  Like “classroom,” interface is itself a heuristic that illuminates the changing ways we encounter students digitally "that doesn’t preclude face-to-face, blended, or other modes of instruction," as Paul Fyfe observed in the open access peer review comments on this keyword draft.
+Anyone who has rearranged classroom chairs from rows into a circle knows that the physical space of a classroom shapes students' interaction. So too digital interfaces shape student engagement in online learning environments. "The classroom" is a heuristic that manifests itself more variously today than when the classroom was bound by walls and directed student gaze to the lecturn, or around a seminar table. Like “classroom,” "interface" is a heuristic that illuminates the changing ways students encounter learning digitally: synchronously in face-to-face or virtual/embodied blended classrooms; asynchronously in distance learning and open access platforms like iTunes U. or Coursera; or self-paced and -designed courses using YouTube tutorials and other "found" materials. In this keyword, "interface" refers to the meeting points between people and technologies that facilitate learning, from code to books to candlelight.  Preeminently in the digital humanities, "interface" is a function of code and markup, the human-readable language that translates bi-directionally between human command and machine output.
 
-Building a webpage in HTML and CSS is a core interface literacy. No one today needs to write HTML to build a web presence; we select widgets from a small menu of template choices, and customize our webpages with images. Not coding, people miss critical engagement with markup language as a meeting space between human expression and nonhuman rulesets. We also miss the pressing need for, and rewards of, an open Web where a keyword search will instantly return code snippets and tutorials. The culture of workaround, of copying, sharing and repurposing, grew up around the Web because it is a dynamic patchwork of code. It's easy to lose sight of that and linger on the slick screen surface of Facebook or Medium. Miriam Posner’s brilliant, easy-to-use “DH 101” tutorials (see "Related Materials" below) restore critical attention to interface. Her handouts teach students how to build webpages, clean data, and make visualizations and timelines. More importantly, "DH 101" students become makers whose digital artifacts reject the passivity of just-go-limp-and-like interfaces.
+Building a webpage in HTML and CSS remains a core interface literacy. No one today needs to write HTML to build a web presence. Unlike the early days of the Web, where all elements of the user interface (UI) were customized in hand-built webpages, today in social Web interfaces such as Facebook, Twitter, Medium and the like the UI is identical but for the modest customization afforded by user-uploaded images. These corporate interfaces of the social Web remove us further from the do-it-yourself culture of hobbyists and tinkerers who made the Web an open culture of shared resources; see Lori Emerson's second chapter in **Reading Writing Interfaces** to learn more about the implications of such a transformation. Not coding, people miss critical engagement with markup language as the bridge between human expression and nonhuman operations. We also miss the pressing need for and rewards of an open Web, where people teach each other in a gift economy. In "Related Materials," see **DML Central**, funded by the University of California at Irvine, for a great repository of collaboration prototypes, teaching with technology tips, and access to tools. Miriam Posner’s brilliant, easy-to-use “DH 101” tutorials restore critical attention to interface. Her handouts teach students how to build webpages using HTML and CSS, how to clean data, and how to make visualizations and timelines. Alan Liu's more advanced **DH Toychest** is a treasure trove. Janelle Jenstad's fifteen-year-old annotation project **Map of Early Modern London** now offers collaboration opportunities for undergraduate classes outside of the University of Victoria. Anne McGrail, a professor at Lane Community College in Eugene, Oregon, spearheads the new **DH in the CC** commons.
 
-Deliberately I culled a wide range of assignments to address students in various contexts of DH support: from elite institutions to income-insecure places where the only access to digital tools might be free apps on a cell phone. There's a productive tension between the “task-oriented efficiency” (Drucker, 1) of interface's traditional work, and the more exploratory, metacritical uses of interface in the assignments I feature here. Helen Burgess’ students "translate" a Shakespeare sonnet into various medial forms, for example, building in four iterations of the same sonnet beginning with tactile 3D art to authoring the sonnet as an executable computer program. Ryan Cordell's students in a history of technology course replicate the conditions of the medieval scriptorium. These defamiliarizations of the physical classroom-as-interface let us "see" the classroom as a medium-specific environment where liveness is a unique feature of embodied university instruction.
+For the ten plug-and-play assignments, I culled work that addresses a wide spectrum of student readiness and support for DH, from elite institutions to income-insecure places where the students' only access to digital tools might be free apps on a cell phone. There's a productive tension between the “task-oriented efficiency” (Drucker, 1) of interface's traditional work, and the more exploratory, metacritical uses of interface in the assignments I feature here. Helen Burgess’ students "translate" a Shakespeare sonnet into various medial forms, for example, building in four iterations of the same sonnet beginning with tactile 3D art to authoring the sonnet as an executable computer program. Ryan Cordell's students in a history of technology course replicate the conditions of the medieval scriptorium. These defamiliarizations of the physical classroom-as-interface let us "see" the classroom as a medium-specific environment where liveness is a unique feature of embodied university instruction.
   
 Does it matter if a classroom is a little rectangle in a building or a little rectangle above one’s keyboard? Doors are rectangles; rectangles are portals. We walk through. Our classrooms are defined not by walls or Windows, but by interfaces of networked collaboration critically appraised.
 
@@ -74,7 +74,7 @@ Students immersed themselves in the target language from the Italian Hip Hop Arc
 * Copy of Artifact: [files/interface-Douglass-Pok-ENGL-10-HoL-Remix.pdf](files/interface-Douglass-Pok-ENGL-10-HoL-Remix.pdf)
 * Creators: Jeremy Douglass (University of California Santa Barbara) and Steven Pokornowski (University of California Santa Barbara)
 
-It's ambitious to assign *House of Leaves* in an introductory literature class. Desultory, evasive and iconic, *HoL* will frustrate almost any reader who aims to read this text closely as Humanists are trained to do. Jeremy Douglass and Steven Pokornowski create a two-part assignment interface. The prompt procedurally guides students through making a remix of one page--and only one page--in *HoL*. Making their collages, students can work with digital image tools or work with the other "digital," their fingers, making collage from arts and craft supplies. Handmade remixes are photographed; all remixes are tagged and uploaded to the class's Tumblr site which itself remixes the individual pages into a fragmentary collective. Their heterogeneity perfectly complements the source text's unfinalizability.
+It's ambitious to assign *House of Leaves* in an introductory literature class. Desultory, evasive and iconic, *HoL* will frustrate almost any reader who aims to read this text closely as humanists are trained to do. Jeremy Douglass and Steven Pokornowski create a two-part assignment interface. The prompt procedurally guides students through making a remix of one page--and only one page--in *HoL*. Making their collages, students can work with digital image tools or work with the other "digital," their fingers, making collage from arts and craft supplies. Handmade remixes are photographed; all remixes are tagged and uploaded to the class's Tumblr site which itself remixes the individual pages into a fragmentary collective. Their heterogeneity perfectly complements the source text's unfinalizability.
 
 ### Distant Reading Victorian Novels
 ![screenshot](images/interface-Wordle-fr-open-source-Fyfe.jpg)
@@ -104,7 +104,7 @@ Lower-division literature majors are new to devising substantial research projec
 
 Three aspects of *Steampunk Rochester* make it an exceptional digital pedagogy interface. It blends real-life history of Rochester, New York 1915-25, site of the host university. Students create fictional characters where Rochester becomes an open-access playable game space. The result is speculative fiction that relies on the structured archive of wiki, a steampunk vision of the future that finds new technologic aspects in dynamic roleplay of the past.
 
-Created in collaboration among four departments at the Rochester Institute of Technology (English, Fine Arts, Imagine Arts and Interactive Games) *Steampunk Rochester* will feed the local community with engaging story even as it also turns the city into a game lab. The large *Steampunk Rochester* wiki is already well populated with the people, places, and things that will become the raw material for the interactive video game to be developed. Trent Hergenrader's students, nimbly moving between play and creative writing, are engaging colleagues across the university in applied creative arts, where interdisciplinary projects make a "classroom" that is equal parts off-campus physical location, embodied imagination, wiki, and game mechanic.
+Created in collaboration among four departments at the Rochester Institute of Technology (English, Fine Arts, Interactive Games and Media, and 3D Digital Design) *Steampunk Rochester* will feed the local community with engaging story even as it also turns the city into a game lab. The large *Steampunk Rochester* wiki is already well populated with the people, places, and things that will become the raw material for the interactive video game to be developed. Trent Hergenrader's students, nimbly moving between play and creative writing, are engaging colleagues across the university in applied creative arts, where interdisciplinary projects make a "classroom" that is equal parts off-campus physical location, embodied imagination, wiki, and game mechanic.
 
 ### Giving Voice to Spanish-Language Life Histories
 ![screenshot](images/interface-Mongar-Esta-Vida.png)
@@ -134,16 +134,15 @@ In the "Twitter Essay," Jesse Stommel exhorts students to convert their expertis
 Netprov, the text/image art game installed in social media platforms, is an ideal interface for teaching visual rhetoric, dramatic irony and mobility. Created as a collaboration across disciplines (art and writing) and across the country (Duluth and Los Angeles), Wittig and Marino teach students how to compose images, caption them, and collaborate with a large, crowdsourced group. Students and faculty author alongside each other. "Students have passive visual literacy. They understand natively how to compose shots; a Netprov activates that knowledge," Wittig notes. Netprov concepts should be immediately apprehensible in one definitive example. The image of Wittig taking a selfie of himself giving up technology while walking through the woods is a visually arresting, ironic, and mobile image. Netprovs look deceptively simple, but in fact they are literary games that require conceptual planning, image and Tweet build-up before installation, and game challenges issued mid-week to spur participation through the end of the installation.
 
 ## RELATED MATERIALS
+Digital Media and Learning Central, <http://dmlcentral.net/>
 
 Janelle Jenstad, "*Early Modern Map of London*: Open Pedagogical Partnerships" <http://mapoflondon.uvic.ca/pedagogical_partnership.htm>
 
-Alan Liu, "DH Tools Wiki" <http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools>
+Alan Liu, "DH Toychest" (DH "tools for project building") <http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools>
 
 Anne McGrail, "Digital Humanities at the Community College: a Commons" <https://dhatthecc.lanecc.edu/>
 
 Miriam Posner, "DH 101" <http://miriamposner.com/dh101f15/>
-
-Howard Rheingold, "The Peeragogy Handbook" <http://peeragogy.org/>
 
 
 ## WORKS CITED
@@ -156,15 +155,15 @@ Cordell, Ryan. "Grad ProSeminar Guest Talk: Not Reading." <http://ryancordell.or
 
 Cramer, Florian and Matthew Fuller. "Interface." *Software Studies: a Lexicon*, ed. Matthew Fuller. Cambridge: M.I.T. Press. 2008.
 
+Digital Media and Learning Research Hub.  "Digital Media and Learning Central: The Power of Participation." http://dmlcentral.net/  Web. Accessed 4 April 2016.
+
 Douglass, Jeremy and Steven Pokornowski. "English 10 Introduction to Lit: *House of Leaves* Remix Assignment." <http://english10introductiontolit.tumblr.com/> Web. Accessed 15 November 2014.
 
-Drucker, Johanna. "Humanities Approaches to Interface Theory." *Culture Machine* 12 (2011).  <http://www.culturemachine.net/index.php/cm/article/viewArticle/434> Accessed 4 April 2016.
+Drucker, Johanna. "Humanities Approaches to Interface Theory." *Culture Machine* 12 (2011).  <http://www.culturemachine.net/index.php/cm/article/viewArticle/434> Web. Accessed 4 April 2016.
 
 Emerson, Lori. *Reading Writing Interfaces: From the Digital to the Bookbound.* Minneapolis: University of Minnesota Press. 2014. Print.
 
 Engard, Nicole C. "Open Source Wordle." Photograph. Flickr. Creative Commons license. 24 May 2011. <https://www.flickr.com/photos/nengard/5755231642/in/photolist-9Lz4RL-53R7ce-7uXbL4-55ffYS-5nDNfb-5Dgro7-5DgrpW-5DcajT-5Dcana-5nkvGJ-4VqXVU-8djbH5-57YHrp-51emGt-5q6wAg-4YZG7E-5jbNP7-4Wi7Qp-5iQ7ap-5123jf-5nkvzC-4W5TdR-53Vkg3-5nDNff-65Uc9A-4WUKcq-69F2qW-5jyMZe-56NoFi-5YeG25-4ZQfPS-86hLUv-5iQE7c-4XkEyj-5jDeBh-59GNqR-5Y2H8A-4ZWCgc-5biXNd-5jfpZC-6TzvKt-6TDwXU-63re73-8D7BKF-51we2f-4Y81JQ-khtR6X-89Cm4U-5ZeqRv-8Vzj5T>. Web. Accessed 18 November 2014.
-
-Farman, Jason. *The Mobile Story: Narrative Practices With Locative Technologies.* Routledge: Cambridge. 2013.
 
 Fyfe, Paul. "How Not To Read a Victorian Novel." *Journal of Victorian Culture.* Vol. 16, No.1, April 2011, 84-88.
 
@@ -180,11 +179,9 @@ Louisa Henrietta Sheridan's *The Comic Offering: Satire Without the Bite.* <http
 
 Mongar, Sonja S. *Esta Vida Boricua.* <http://estavidaboricua.com> Web. Accessed 15 November 2014.
 
-Posner, Miriam. "How Did They Make That? The Video!" <http://miriamposner.com/blog/how-did-they-make-that-the-video/> Web. Accessed 15 November 2014.
+Posner, Miriam. "DH 101" <http://miriamposner.com/dh101f15/>. Web. Accessed 4 April 2016.
 
-Rheingold, Howard. *The Peeragogy Handbook.* <http://peeragogy.org/> Web. Accessed 15 November 2014.
-
-Stommel, Jesse. "12 Steps for Creating a Digital Assignment or Hybrid Class," <http://www.jessestommel.com/blog/files/12-step-digital-assignment-hybrid-class.html>
+Stommel, Jesse. "12 Steps for Creating a Digital Assignment or Hybrid Class," <http://www.jessestommel.com/blog/files/12-step-digital-assignment-hybrid-class.html> Web. Accessed 15 November 2014.
 
 ———. "The Twitter Essay." <http://www.hybridpedagogy.com/journal/the-twitter-essay/> Web. Accessed 15 November 2014.
 
