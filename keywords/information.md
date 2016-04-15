@@ -135,8 +135,6 @@ This assignment is part of a larger graduate course on organizing information at
 
 ## RELATED MATERIALS 
 
-In MLA format, list five related items that are informative for teaching with your keyword in mind. **Please only include five items. No more, no less.**
-
 Clement, Tanya. “An Information Science Question in DH Feminism.” 9.2 (2015): n. pag. Digital Humanities Quarterly. Web. 25 Feb. 2016.
 
 Feinberg, Melanie. "Two kinds of evidence: how information systems form rhetorical arguments," Journal of Documentation, 66.4 (2010): 491-512.
