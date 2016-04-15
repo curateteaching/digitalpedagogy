@@ -135,37 +135,37 @@ This assignment is part of a larger graduate course on organizing information at
 
 ## RELATED MATERIALS 
 
-Clement, Tanya. “An Information Science Question in DH Feminism.” 9.2 (2015): n. pag. Digital Humanities Quarterly. Web. 25 Feb. 2016.
+Clement, Tanya. "An Information Science Question in DH Feminism." *Digital Humanities Quarterly* 9.2 (2015): n. pag. Web. 25 Feb. 2016.
 
-Feinberg, Melanie. "Two kinds of evidence: how information systems form rhetorical arguments," Journal of Documentation, 66.4 (2010): 491-512.
+Feinberg, Melanie. "Two Kinds of Evidence: How Information Systems form Rhetorical Arguments." *Journal of Documentation* 66.4 (2010): 491-512.
 
-Galloway, Alexander. “Are Some Things Unrepresentable?” Theory, Culture & Society 28.7-8 (2011): 85–102.tcs.sagepub.com.ezproxy.lib.utexas.edu. Web.
+Galloway, Alexander. "Are Some Things Unrepresentable?" *Theory, Culture & Society* 28.7-8 (2011): 85–102.tcs.sagepub.com.ezproxy.lib.utexas.edu. Web.
 
-Ribes, David, and Steven J. Jackson. “Data Bite Man: The Work of Sustaining a Long-Term Study.” Raw Data Is an Oxymoron. Ed. Lisa Gitelman. Cambridge: MIT Press, 2013. 147–166. Print.
+Ribes, David, and Steven J. Jackson. "Data Bite Man: The Work of Sustaining a Long-Term Study." *Raw Data Is an Oxymoron*. Ed. Lisa Gitelman. Cambridge: MIT Press, 2013. 147–166. Print.
 
-Shaw, Ryan. “Big Data and Reality.” Big Data & Society 2.2 (2015): 2053951715608877. bds.sagepub.com. Web.
+Shaw, Ryan. "Big Data and Reality." *Big Data & Society* 2.2 (2015): 2053951715608877. bds.sagepub.com. Web.
 
 ## WORKS CITED 
 
-Buckland, Michael K. “Information as Thing.” *Journal of the American Society for Information Science* 42.5 (1991): 351–360. Print.
+Buckland, Michael K. "Information as Thing." *Journal of the American Society for Information Science* 42.5 (1991): 351–360. Print.
 
-Drucker, Johanna. “Humanities Approaches to Graphical Display.” *Digital Humanities Quarterly* 5.1 (2011): n. pag. Web.
+Drucker, Johanna. "Humanities Approaches to Graphical Display." *Digital Humanities Quarterly* 5.1 (2011): n. pag. Web.
 
-Edwards, Paul. “Infrastructure and Modernity: Force, Time, and Social Organization in the History of Sociotechnical Systems.” *Modernity and Technology*. Ed. Thomas J. Misa, Philip Brey, and Andrew Feenberg. MIT Press, 2004. 185–225. Print.
+Edwards, Paul. "Infrastructure and Modernity: Force, Time, and Social Organization in the History of Sociotechnical Systems." *Modernity and Technology*. Ed. Thomas J. Misa, Philip Brey, and Andrew Feenberg. MIT Press, 2004. 185–225. Print.
 
 Eliot, T. S. *The Rock; a Pageant Play*. London: Faber & Faber, 1934. Print.
 
-Foucault, Michel. Archaeology of Knowledge. New York: Routledge, 2002. Print.
+Foucault, Michel. *Archaeology of Knowledge*. New York: Routledge, 2002. Print.
 
-Marche, S. (2012, October 28). Literature is not Data: Against Digital Humanities. *The Los Angeles Times*. Retrieved from
+Marche, S. (2012, October 28). "Literature is not Data: Against Digital Humanities." *The Los Angeles Times*. Retrieved from
 https://lareviewofbooks.org/essay/literature-is-not-data-against-digital-humanities/.
 
-Nunberg, G. “Farewell to the Information Age.”  In Geoffrey Nunberg (Ed.), *The future of the book* Berkeley, CA:  University of California, 1996: 103-133.
+Nunberg, G. "Farewell to the Information Age." In Geoffrey Nunberg (Ed.), *The Future of the Book* Berkeley, CA. University of California, 1996: 103-133.
 
-Pound, Scott. “Kenneth Goldsmith and the Poetics of Information.” *PMLA* 130.2 (2015): 315–330.
+Pound, Scott. "Kenneth Goldsmith and the Poetics of Information." *PMLA* 130.2 (2015): 315–330.
 
-Sacasas, Michael. "Do Artifacts have Ethics" The Frailest Thing. 29 Nov. 2014. Retrieved from http://thefrailestthing.com/2014/11/29/do-artifacts-have-ethics/.
+Sacasas, Michael. "Do Artifacts Have Ethics?" *The Frailest Thing*. 29 Nov. 2014. Retrieved from http://thefrailestthing.com/2014/11/29/do-artifacts-have-ethics/.
 
 Sharma, N. (2004) http://www-personal.si.umich.edu/\~nsharma/dikw\_origin.htm accessed December 2004.
 
-Stein, Gertrude, and Gertrude Stein. *Reflection on the Atomic Bomb*. Los Angeles: Black Sparrow Press, 1973. Print. 
+Stein, Gertrude. *Reflection on the Atomic Bomb*. Los Angeles: Black Sparrow Press, 1973. Print. 
