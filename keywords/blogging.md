@@ -43,10 +43,9 @@ humanities courses, the assignments are adaptable enough to be used more broadly
 
 
 
-##     CURATED ARTIFACTS:
+## CURATED ARTIFACTS:
 
-* Title of Artifact: "Texts, Maps, Networks: Digital Literary
-### “Texts, Maps, Networks: Digital Literary Studies" 
+### "Texts, Maps, Networks: Digital Literary
 ![screenshot](images/blogging-Cordell-assignment.png)
 
 * Artifact Type: Assignment
@@ -67,7 +66,7 @@ rubric is general and evaluation is unclear, but Cordell indicates that
 he will supply more detailed feedback upon student request. 
 KDH: (same comment as previous) WHY IS THIS ASSIGNMENT ENGAGING FOR BLOGGING? WHAT DOES IT REPRESENT IN TERMS OF THE WAY YOU HAVE DEFINED BLOGGING ABOVE?
 
-### Title of Artifact: "Blogging about Duffy's Manuscripts" 
+### "Blogging about Duffy's Manuscripts" 
 ![screenshot](images/blogging-Croxall-instructions.png)
 
 * Artifact Type: Assignment
@@ -89,7 +88,7 @@ straightforward assignment could be readily adapted for a literature
 course with special emphasis on the relationship between manuscript
 and print. 
 
-### Title of Artifact: "Thinking Goodly: Introduction to Ethics" 
+### "Thinking Goodly: Introduction to Ethics" 
 ![screenshot](images/blogging-Gorges-site.png)
 
 * Artifact Type: Course site with blog comments and links <—KDH: IS THIS AN EXAMPLE OF STUDENT WORK?
@@ -111,7 +110,7 @@ reading and commenting on specific posts. It is unclear whether
 Gorges manages grading this way, or just models good posting. This is an ambitious assignment, and Gorges acknowledges
 that it is not for the faint of heart (Gorges 2009). 
 
-### Title of Artifact: "Digging into the Digital" 
+### "Digging into the Digital" 
 ![screenshot](images/blogging-Jakacki1-description.png)
 
 * Artifact Type: Assignment and rubric
@@ -154,7 +153,7 @@ assignment uses the blog to bridge the gap between in-class and
 written work, and reinforces the importance of constructive peer
 review.
 
-### Title of Artifact: "Media, Materiality, and Archives" 
+### "Media, Materiality, and Archives" 
 ![screenshot](images/blogging-Klein-syllabus.png)
 
 * Artifact Type: Syllabus
@@ -180,7 +179,7 @@ assigning collaborative online writing. Commitment to explaining
 different tasks would be crucial for student success for an
 assignment worth 24% of the course grade.
 
-###Title of Artifact: "Selfies, Snapchat, & Cyberbullies: Coming of Age Online" 
+### "Selfies, Snapchat, & Cyberbullies: Coming of Age Online" 
 ![screenshot](images/blogging-Posner-overview.png)
 
 * Artifact Type: Assignment
@@ -204,7 +203,7 @@ are marked as complete. This assignment would be easy to adapt to
 many courses, and the focus on student self-evaluation addresses
 concerns about granular feedback of many blog assignments.
 
-### Title of Artifact: "History & Future of the Book" 
+### "History & Future of the Book" 
 ![screenshot](images/blogging-Sample-guidelines.png)
 
 * Artifact Type: Assignment
@@ -229,7 +228,7 @@ type of assignment involves a significant amount of writing: ten
 posts are worth 20% of the grade: approximately 5,000 words over the
 course of the semester equals a 10-12 page essay. 
 
-### Title of Artifact: "Tools, Techniques & Culture" 
+### "Tools, Techniques & Culture" 
 ![screenshot](images/blogging-Sayers-description.png)
 
 * Artifact type: Assignment
