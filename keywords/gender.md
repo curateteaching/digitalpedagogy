@@ -81,15 +81,15 @@ Merritt Kopas, multimedia artist and game designer, writes about independent gam
 
 ### Modules
 
-### ”Chicana Por Mi Raza"
+### "Biography/Digital Curation Assignment"
 ![screenshot](images/gender-biocuration.png)
 
-* Artifact Type: public humanities project, digital archive
-* Source URL: [http://www.chicanapormiraza.org](http://www.chicanapormiraza.org)
+* Artifact Type: digital archive curation
+* Source URL: [http://chicanapormiraza.org/mujeres](http://chicanapormiraza.org/mujeres)
 * Artifact Permissions: Anyone may use the archive and ancillary materials so long as they agree to join the Chicana por mi Raza Digital Memory Collective. According to the site, “Members of the collective are granted access to the materials in the collection with the understanding that they will contribute in some way to the goals of the Chicana por mi Raza project.”
-* Creator and Affiliation: María Cotera and Linda Garcia Merchant in collaboration with The Institute for Computing in Humanities Arts and Sciences at the University of Illinois Urbana Champaign.
+* Creator and Affiliation: María Cotera, University of Michigan
 
-Chicana Por Mi Raza is a digital archive of Chicana feminism spanning 1965 to 1985. The collective has recorded over fifty-nine oral histories and gathered roughly 2500 documents, 60 percent of which have been digitized and cataloged. The collection includes a range of materials chronicling Chicana feminist theory and literature, including hours of oral history recordings, publications, notes, correspondences, photographs, newspaper clippings, and timelines.  This project is especially relevant for both K-12 and higher-ed classes in American Studies. Use the archive for  "filling the gap" activity and ask students to search for existing online timelines and US history narratives of the 1960s - 1980s. Then task students with identifying gaps in those accounts and fill them using material from the archive.  Using Timeline JS and writing original historical texts that incorporate interviews and primary materials from the archive. Modify requirements (use of digitized print texts, images, and information from interviews or profiles) to fit course objectives.
+Chicana Por Mi Raza is a digital archive of Chicana feminism spanning 1965 to 1985. The collective has recorded over fifty-nine oral histories and gathered roughly 2500 documents, 60 percent of which have been digitized and cataloged. The collection includes a range of materials chronicling Chicana feminist theory, literature, ephemera, and timelines. Though significant as an archive, it also serves as a useful site for advanced feminist pedagogy. In her "Biocuration" assignment, Maria Cotera, one of the founders of the archives, asks students to engage directly with the archive and create new content for the collection. As part of the project, students conduct original research, listen to oral histories, collect data, and write biographical and historical content that eventually populates the archive. Students then become important contributors to a public digital history project and have examples of their scholarship accessible to larger communities and publics.
 
 ### “Situated Knowledges Map"
 ![screenshot](images/gender-FTNMap.png)
@@ -115,22 +115,22 @@ For individuals who may already be immersed in digital life, it can be very diff
 ![screenshot](images/gender-twinegame.png)
 
 * Artifact Type: Assignment Prompt
-* Source URL: [http://www.digitalrhetoriccollaborative.org/wp-content/uploads/2015/05/Einstein-Vetter-Twine-Game-Assignment-.pdf](Einstein & Vetter Twine Game Assignment)
+* Source URL: [http://www.digitalrhetoriccollaborative.org/wp-content/uploads/2015/05/Einstein-Vetter-Twine-Game-Assignment-.pdf](http://www.digitalrhetoriccollaborative.org/wp-content/uploads/2015/05/Einstein-Vetter-Twine-Game-Assignment-.pdf)
 * Artifact Permissions: 
 * Creator and Affiliation: Sarah Einstein and Matthew Vetter
 
-This assignment was designed as a capstone to a larger unit on the politics and rhetoric of the #Gamergate controversy. It asked students to create their own choose-your-own adventure game that engaged "gender politics, identity, and narrative in the writing classroom" using the open-source Twine gaming engine. Students are asked to propose a game that addresses a social issue related to the course, perform research and produce an annotated bibliography, then to develop a game in groups. The purpose of the assignment was to create a narrative that revealed the complexity of a gender related issue (the students in Einstein and Vetter's course tackled street harassment, coming out as queer, and campus sexual assault) in the text where the player could make choices and reach differnt outcomes that can be negative, positive, or neutral. The assignment forces students to evaluate and inform their own understandings of the chosen topics and the surrounding social environment, reflect on potential dangers or opportunities, and determine how to present these to a general audience.
+This assignment was designed as a capstone to a larger unit on the politics and rhetoric of the #Gamergate controversy. It asked students to create their own choose-your-own adventure game that engaged "gender politics, identity, and narrative in the writing classroom" using the open-source Twine gaming engine. Students are asked to propose a game that addresses a social issue related to the course, perform research and produce an annotated bibliography, then to develop a game in groups. The purpose of the assignment is to create a narrative that revealed the complexity of a gender related issue (the students in Einstein and Vetter's course tackled street harassment, coming out as queer, and campus sexual assault) in the text where the player could make choices and reach differnt outcomes that can be negative, positive, or neutral. The assignment forces students to evaluate and inform their own understandings of the chosen topics and the surrounding social environment, reflect on potential dangers or opportunities, and determine how to present these to a general audience.
 
 
 ### "Feminist Wiki-storming"
 ![screenshot](images/gender-wikistorming.png)
 
 * Artifact Type: Activity
-* Source URL: [http://femtechnet.org/docc/feminist-wiki-storming/](http://femtechnet.org/docc/feminist-wiki-storming/)
+* Source URL: [http://losh.ucsd.edu/courses/assignmentone.html](http://losh.ucsd.edu/courses/assignmentone.html)
 * Artifact Permissions: CC BY-NC 2.0
-* Creator and Affiliation: Adrianne Wadewitz, Veronica Paredes, and FemTechNet Wikistorming Committee
+* Creator and Affiliation: Adrianne Wadewitz
 
-For several years now, feminist Wikipedians, led initially by Adrianne Wadewitz, have been organizing edit-a-thons to training women, queer communities, and people of color to edit Wikipedia to address gender and racial bias present among Wikipedians, who, according to a survey conducted by the Wikimedia Foundation, are overwhelmingly young, male, and white. Before her death, Wadewitz had worked with the WikiEd Foundation and FemTechNet to develop the assignments and teaching materials collected here. This includes rationale, learning objectives, types of assignments (ranging evaluating and copy editing of articles, to adding feminist scholarship to existing content, and creating new pages), an assignment builder, and tutorials. Wikipedia works best in longer scaffolded assignments, and over time students can become active participants in feminist Wikipedia editing projects, or at the very least learn to critique Wikipedia articles for gender bias.   
+Feminist Wikipedians, led initially by Adrianne Wadewitz, have been organizing edit-a-thons to train women, queer communities, and people of color to edit Wikipedia to address gender and racial bias. Wadewitz worked with the WikiEd Foundation and FemTechNet to develop a collection of assignments and teaching materials collected as part of the [http://femtechnet.org/docc/feminist-wiki-storming/](Feminist Wikistorming Key Learning Project). Here, we have an example of a smaller assignment focused around a course text. The assignment asks students to become familiar with Wikipedia as a platform, become proficient in writing in an encyclopedic style, and learn to author an entry that passes Wikipedia standards, while also being critical of Wikipedia's flaws. Elsewhere, the assignment has been adapted by FemTechNet to include critical questions about gender bias, inclusion and deletion debates in Wikipedia. Other artifacts in the  collection include learning objectives, sample assignments, an assignment builder, and tutorials. 
 
 ## Semester-long Feminist Pedagogical Experiments
 
