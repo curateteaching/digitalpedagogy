@@ -82,7 +82,7 @@ Merritt Kopas, multimedia artist and game designer, writes about independent gam
 ### Modules
 
 ### ”Chicana Por Mi Raza"
-![screenshot](images/gender-ChicanaPorMiRaza.png)
+![screenshot](images/gender-biocuration.png)
 
 * Artifact Type: public humanities project, digital archive
 * Source URL: [http://www.chicanapormiraza.org](http://www.chicanapormiraza.org)
@@ -123,7 +123,7 @@ This assignment was designed as a capstone to a larger unit on the politics and 
 
 
 ### "Feminist Wiki-storming"
-![screenshot](images/gender-FTNwikistorming.png)
+![screenshot](images/gender-wikistorming.png)
 
 * Artifact Type: Activity
 * Source URL: [http://femtechnet.org/docc/feminist-wiki-storming/](http://femtechnet.org/docc/feminist-wiki-storming/)
