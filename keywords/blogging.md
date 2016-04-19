@@ -20,52 +20,27 @@ Bucknell University | http://dianejakacki.net
 ---
 ##### Publication Status:
 * unreviewed draft
-* **draft version undergoing editorial review**
-* draft version undergoing peer-to-peer review
+* draft version undergoing editorial review
+* **draft version undergoing peer-to-peer review**
 * published 
 
 --- 
 ## CURATORIAL STATEMENT
 
 
-KDH: DIANE, THIS IS AWESOME. HOWEVER, THE CURATOR’S STATEMENT IS TWICE AS LONG AS ALLOWED. WE’VE GOT EVERYONE AT 750-800 WORDS (AND NEED TO BE STRICT ABOUT THIS). CAN YOU CUT THIS IN HALF? SOME OF THE EXPLANATIONS AND REFERENCES TO THE ARTIFACTS MIGHT ACTUALLY BE BETTER PLACED IN THE ARTIFACT’S EXPLANATION. CAN YOU CUT BASED ON THAT MOVE? (THE ENTIRE ENTRY NEEDS TO BE ROUGHLY 3000 WORDS INCLUDING WORKS CITED)
+Blogging offers instructors rich, dynamic environments that challenge students to focus on process and audience, and to disrupt patterns and habits developed when writing more traditional essay forms. In first-year composition courses instructors can use blogging assignments to introduce students to critical thinking, argument, and analysis. In more advanced literary and cultural studies courses, blogs help students to engage with complex subject matter, enhancing reflection through collaborative writing. In communications and professional writing courses, students experiment with different rhetorical approaches, voice, and consider degrees of public and private discourse. The most robust of these assignments are scaffolded across the semester, reinforcing course objectives and establishing new learning paradigms; the drafting process changes and emphasis shifts from revise-and-submit to cumulative improvement, with more moments for instructors to point out to students when and how they improve.
 
-Blogging offers instructors rich, dynamic environments in which to challenge students to focus on process and audience, and to disrupt the patterns and habits developed when writing more traditional essay forms - in particular those learned in high school. In first-year composition courses instructors can use blogging assignments to introduce students to critical thinking, argument, and analysis. In more advanced literary and cultural studies courses, instructors can incorporate blogs to help students to engage with complex subject matter through ongoing reflection, enhancing response through peer review and collaborative writing. In communications and professional writing courses, instructors can encourage students to experiment with different rhetorical approaches, voice, and to consider degrees of public and private discourse. The most robust of these assignments are scaffolded across the semester, reinforcing course objectives and establishing new learning paradigms. In cases where students post over time the drafting process changes; instructors create a process in which the emphasis changes from revise-and-submit to cumulative improvement, with more moments for instructors to point out to students when and how they improve.
+Blogging assignments are challenging for instructors because they require more attention to design, implementation, and evaluation than traditional essay formats. Instructors must be specific about what is expected: definition of success must be clearly articulated, integration of an often unfamiliar format must be explained, and students' discomfort with writing in this mode must be managed. Students may have trouble adjusting to a content management system dashboard environment; therefore, the instructor may incorporate preparatory exercises that help students to master the mechanics of blog writing before the first formal post is assigned, thus ensuring that students can succeed in unfamiliar writing environments. Emphasis on prompt clarity is also important. A prompt may be intentionally vague or prescriptive: vagary can be helpful when the goal is for students to experiment with voice and form; specificity is valuable when an assignment calls for students to conform to a particular style.  
 
-Blogging assignments, while rewarding, are challenging for instructors because they require more attention to assignment design, implementation, and evaluation than more traditional essay formats. The definition of success must be clearly articulated, the integration of an often unfamiliar format must be explained, and because of this the students' discomfort with writing must be managed at the beginning of the assignment. As with many digitally-inflected assignments, instructors must be specific about what is expected, but with blogs the specificity is in some ways mitigated because assignment descriptions and rubrics work with complementary vocabularies: for example, blog post length ranges are defined by word count rather than number of pages; evidence and citation are often associated with online as well as print sources; and format includes embedded images and aesthetically pleasing text presentation rather than margins and font-size. Students may have trouble adjusting to a content or learning management system dashboard environment. Therefore, the blog assignment is best served when the instructor incorporates exercises that help the student to master the mechanics of blog writing before the first formal post is assigned. Instructors like Annie Swafford include step-by-step tutorials on their course websites designed to help students learn how to compose in a blog interface. This adds another layer to assignment design but is crucial to ensuring that students can succeed in unfamiliar writing environments.
+Straightforward blog assignments may suggest easily implemented substitutes for short print-and-submit essays, and some instructors experiment with low-risk blog assignments to gain confidence. But as instructors gain confidence they should try more creative approaches. Assignments that encourage students to think about voice can become assignments in which students create personae and write as characters; assignments in which students focus on design can be expanded to those in which students build their own sites. Boone Gorges and Ryan Cordell have employed this model, and illustrate ways to effectively pull individual student blogs into one central "hub" space to effect community. Gorges participates as a blog contributor in the hub site, using his posts to call attention to and contextualize individual student posts. His posts thus serve as guides for further student consideration of their own and other students' posts.
 
-The emphasis on clarity in the prompt is also important. A prompt may be intentionally vague, such as Miriam Posner's day-in-the-life media reflections; or prescriptive, such as my research project abstract. Vagary can be helpful when the goal is for students to experiment with voice and form. Specificity is valuable when an assignment calls for students to conform to a particular style. In the same way, it is important to outline how students should comment upon one another's work. If the objective is to help students to see that the observations and experiences they express through blog writing are shared or approachable by others then the parameters for expectations can be left general. If the comment is meant to provide peer critique then what constitutes commented feedback must be more definite. 
+The instructor must think carefully about the type and degree of feedback they are able to provide to students. In large composition courses, instructors must provide meaningful qualitative assessment; a process-based blog assignment constituting multiple posts and comments is a challenge. Streamlining the review process helps the instructor to avoid  grading backlog that ultimately undermines the idea of developmental writing across the semester. Katy Crowther found a creative solution to the grading problem by incorporating a student editor component into her assignment. Crowther's students took turns serving as guest-editors, reading all posts and publishing an overview that tied them all together (“Putting Students to Work”; “Punking the Victorians”). Her students gained agency as well as insight into the assessment process, and she was able to let go of some  qualitative feedback.
 
-At first glance, straightforward blog assignments may suggest an easily implemented substitute for short print-and-submit essays, and some instructors experiment with low-risk blog assignments to gain confidence. Indeed, Mark Sample bemoans the seemingly ubiquitous blog component of a course, in which the online environment becomes little more than a technological substitute for otherwise printed essays (“Pedagogy and the Class Blog”). But as instructors gain confidence they might try more creative approaches to blogging. Assignments that encourage students to think about voice can become assignments in which students create personae and write as characters; assignments in which students focus on design can be expanded to those in which students build their own sites. Boone Gorges and Ryan Cordell have employed this model, and illustrate ways to effectively pull individual student blogs into one central "hub" space to effect community. Gorges participates as a blog contributor in the hub site and using his posts to call attention to and contextualize individual student posts that are particularly effective in responding to a prompt or presenting salient analysis of a reading. His posts thus serve as guides for further reading through which students reconsider their own and other students' posts.
+Blogging environments offer instructors ways to help student authors consider audience and degrees of privacy and publicity. Students begin to experiment with style when they realize that their classmates are also their readers. Because blogs are traditionally public-facing and openly readable, instructors can use blogging assignments to address the benefits and potential pitfalls of accessibility. While platforms such as WordPress offer authors flexibility in terms of audience, an instructor who is new to blogging may opt for more conservative, restricted readership, perhaps expanding audience as students gain confidence. Students should also have a voice in whether and how their work is published beyond the classroom. Anonymization may be an option, and is particularly valuable when concerns about identity are a factor. Jacqueline Wernimont has written about online acts of violence perpetrated against students and instructors, and how this is often directed at women (Wernimont 2016). Instructors must design assignments responsibly, especially when encouraging students to identify themselves in their posts. Instructors should also be aware of institutional policies and safeguards regarding the protection of students (and themselves) in online and social media environments, and understand what options are available if violence affects students. 
 
-Gorges's approach introduces the need for rubrics and evaluation. Here the instructor must think about the type and degree of feedback they are able to provide to students and what this mean in terms of reinforcing blogging's  distinctiveness from other forms of writing. In large composition courses, the need for instructors to provide meaningful qualitative assessment is made exponentially difficult when a process-based blog assignment constitutes multiple posts and comments. It is helpful to streamline the review process so as to avoid being overwhelmed with a post/comment grading backlog that ultimately undermines the idea of developmental writing across the semester. Katy Crowther found a creative solution to the grading problem by incorporating a student editor component into her assignment. Building upon Gorges's hub-and-spoke model, Crowther designed her assignment so that students took turns serving as guest-editors, reading all posts and publishing an overview that tied them all together (“Putting Students to Work”; “Punking the Victorians”). Her students gained agency as well as insight into the assessment process, and she was able to let go of some  qualitative feedback.
+The artifacts presented here offer a breadth of approach by instructors who encourage experimentation to students as they write and read. While the examples are all from
+humanities courses, the assignments are adaptable enough to be used more broadly in composition, literature, or media studies courses.
 
-Still the question remains: how does the instructor provide effective feedback, whether that involves pointing out grammatical errors or other areas for structural or stylistic improvement? Sometimes the easiest way is to print out blog posts and write penciled-in feedback in the margin. This can be problematic in that the format of the post is not maintained by a printer or scanner. An increasing number of annotation platforms offer effective mark-up of web pages (such as A.nnotate, Genius, and Diigo). Tools such as these can help to reinforce the value and difference of writing in an online environment. 
-
-Blogging environments offer instructors ways to help student authors consider audience and degrees of privacy and publicity. The shift to an audience of many  readers can be a revelation to students, who begin to experiment with style when they realize that their classmates are also their readers. Because blogs are traditionally public-facing and openly readable, instructors can use blogging assignments to address the benefits and potential pitfalls of accessibility. More robust content management systems such as WordPress offer authors more flexibility in terms of the constitution of the audience. It might be advisable, however, for an instructor who is new to the idea of blogging to opt for more conservative, restricted readership, perhaps expanding the audience as students gain confidence. It is also important to have a discussion with students at the assignment outset to determine whether, when, and how their work might be published to readers beyond the classroom. Some blogging platforms allow for anonymization, a feature that is particularly valuable when concerns about identity are a factor. Jacqueline Wernimont has written about the complexities inherent in online acts of violence perpetrated against students and instructors, and how this is often directed at women (Wernimont 2016). By encouraging students to post openly and identify by gender, as LGBTQ, or as members of groups who might be targeted for racial or religious reasons, instructors must design assignments responsibly. Instructors should always be aware of institutional policies and safeguards regarding the protection of students (and themselves) in online and social media environments, and understand what options are available if violence affects students. 
-
-The artifacts presented here provide a breadth of approach on the
-part of instructors who encourage experimentation and encouragement
-to students as they write and read. All of the examples are from
-humanities courses, with all but one offered to undergraduates. Six
-of the courses are identified in some way as being digital humanities
-in orientation, but the assignments are adaptable enough to be used
-more broadly in composition, literature, or media studies courses.
-
-The decisions made (public/private, analytical/reflective, degree
-of multimodality) offer the reader of this keyword recipes for how to
-experiment with their own assignment design, ranging from the most
-straightforward to the most complex. These assignments were not
-always successful - in fact, in some cases the pedagogical ambition
-of the instructor was hampered by an unanticipated problem that
-required a mid-semester assignment redesign, and it is important to
-call particular attention to them. It is humbling and invaluable to
-realize that no matter how comfortable we think we are with a type of
-assignment, we must prepare for the unexpected when we design
-nontraditional writing assignments. There will always be tech-fails,
-and there will always be students who resist and even rebel against
-the nontraditional. The challenge of creating balance between
-structure and experimentation in writing remains.
 
 
 ##     CURATED ARTIFACTS:
@@ -293,9 +268,7 @@ scaffolded across the semester and one related to the final mapping
 project. This annotation focuses on the scaffolded "Online
 Assignments." The blogging assignments are analytical in nature, and
 in aggregate constitute the largest component of the course grade
-(36%, or 4 pts. each for nine posts). A preliminary assignment allows
-students to acclimate to the blogging style and expectations, and
-then each subsequent prompt offers context and explicit instructions
+(36%, or 4 pts. each for nine posts). Swafford includes step-by-step tutorials designed to help students learn how to compose in a blog interface, to acclimate to the blogging style and expectations. Each subsequent prompt offers context and explicit instructions
 about what the post should include.
 
 The Blogging Rubric is clearly articulated: evaluation is on a
@@ -305,32 +278,24 @@ kind of separate completion mark.
 
 ## RELATED MATERIALS
 
-Croxall, Brian. "Assignments and Architecture." Video
+* Croxall, Brian. "Assignments and Architecture." Video
 recording. Penn State Liberal Arts Scholarship and Technology Summit, 2014. 27 February 2016. https://www.youtube.com/watch?v=xHAfQ9fEJiU.
 
-Gorges, Boone. "Hub-and-Spoke Blogging with Lots of Students". 2009. Web. 27 February 2016.
+* Gorges, Boone. "Hub-and-Spoke Blogging with Lots of Students". 2009. Web. 27 February 2016.
 https://teleogistic.net/2009/08/20/hub-and-spoke-blogging-with-lots-
-of-students/ * McClurcken, Jeff and Julie Meloni. "'How Are You Going
+of-students/ 
+
+* McClurcken, Jeff and Julie Meloni. "'How Are You Going
 to Grade This?' Evaluating Classroom Blogs." Profhacker - Chronicle
 of Higher Education. 21 June 2010. 27 February 2016.
 http://chronicle.com/blogs/profhacker/how-are-you-going-to-grade-this
--evaluating-classroom-blogs/24935 * Owens, Trevor. "The Public Course
-Blog: The Required Reading We Write Ourselves for the Course That
-Never Ends." Debates in the Digital Humanities. 2013. Web. 27
-February 2016. http://dhdebates.gc.cuny.edu/debates/text/6 
+-evaluating-classroom-blogs/24935 
 
-Sample, Mark. "Pedagogy and the Class Blog". samplereality.com August 14, 2009. Web. 27 February 2016.
+* Sample, Mark. "Pedagogy and the Class Blog". samplereality.com August 14, 2009. Web. 27 February 2016.
 http://www.samplereality.com/2009/08/14/pedagogy-and-the-class-blog/
 
 ## WORKS CITED
 Cordell, Ryan. "Texts, Maps, Networks: Digital Literary Studies." http://f14tmn.ryancordell.org/. Web. Accessed February 2016. 
-
-Crompton, Constance. "Dr. Constance Crompton on Composition
-and Digital Tools." Digital Communitas: Academic Publics and Digital
-Spaces. 2012.
-https://digitalcommunitas.wordpress.com/how-to-videos/dr-constance-
-crompton-postdoctoral-fellow-university-of-victoria/. Web. Accessed
-27 February 2016. 
 
 Crowther, Kathryn. "Putting Students to Work:
 Guest Hosting a "Best Blog" Round-Up." TECHStyle. November 12, 2011.
