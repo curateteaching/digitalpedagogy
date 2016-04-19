@@ -101,7 +101,7 @@ Chicana Por Mi Raza is a digital archive of Chicana feminism spanning 1965 to 19
 
 According to FemTechNet the "Situated Knowledges Map is an experiment in thinking about the relationship between space, place, mobility and knowledge production and circulation. By marking locations of significance to ourselves, we hope to get a sense of where we are coming from across the FemTechNet world." The assignment page includes a bibliography and uses Google Maps Engine to create a collaborative map where students drop annotated pins with reflections about the place with particular emphasis to how the place helped the individual come to understand keywords such as "power, class, gender, sex, assigned sex, race" or "migrant knowledges". The mapping activity hacks a commercial mapping platform for transformative and collective knowledge production works to link learning that is occurring in geographically disparate locations, while the collective mapping encourages participants to engage with the situated of knowledge of others. 
 
-### Hack Your Digital Sphere"
+### “Hack Your Digital Sphere"
 ![screenshot](images/gender-hack-digital-sphere.png)
 
 * Artifact Type: Project prompt
@@ -130,7 +130,7 @@ This assignment was designed as a capstone to a larger unit on the politics and 
 * Artifact Permissions: CC BY-NC 2.0
 * Creator and Affiliation: Adrianne Wadewitz, Veronica Paredes, and FemTechNet Wikistorming Committee
 
-For several years now, feminist Wikipedians, led initially by Adrianne Wadewitz, have been organizing edit-a-thons to training women, queer communities, and people of color to edit Wikipedia to address gender and racial bias present among Wikipedians, who, according to a survey conducted by the Wikimedia Foundation, are overwhelmingly young, male, and white. Before her death, Wadewitz had worked with the WikiEd Foundation and FemTechNet to develop the assignments and teaching materials collected here. This includes rationale, learning objectives, types of assignments (ranging evaluating and copy editing of articles, to adding feminist scholarship to existing content, and creating new pages), an assignment builder, and tutorials. Wikipedia works best in longer scaffolded assignments, and over time students can becOme active participants in feminist Wikipedia editing projects, or at the very least learn to critique Wikipedia articles for gender bias.   
+For several years now, feminist Wikipedians, led initially by Adrianne Wadewitz, have been organizing edit-a-thons to training women, queer communities, and people of color to edit Wikipedia to address gender and racial bias present among Wikipedians, who, according to a survey conducted by the Wikimedia Foundation, are overwhelmingly young, male, and white. Before her death, Wadewitz had worked with the WikiEd Foundation and FemTechNet to develop the assignments and teaching materials collected here. This includes rationale, learning objectives, types of assignments (ranging evaluating and copy editing of articles, to adding feminist scholarship to existing content, and creating new pages), an assignment builder, and tutorials. Wikipedia works best in longer scaffolded assignments, and over time students can become active participants in feminist Wikipedia editing projects, or at the very least learn to critique Wikipedia articles for gender bias.   
 
 ## Semester-long Feminist Pedagogical Experiments
 
