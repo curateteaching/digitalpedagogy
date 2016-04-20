@@ -35,14 +35,15 @@ Unless it draws upon your first-person experience in the classroom, please limit
 
 ## CURATED ARTIFACTS (ten artifacts, each with metadata, a screenshot, and a 150-word annotation)
 
-Select ten pedagogical artifacts (no more, no less) to feature for your keyword. The emphasis should be the everyday stuff of teaching, not after-the-fact reflections on teaching. These artifacts should demonstrate what you and others use to teach your keyword. What teaching and learning projects do you turn to when crafting your teaching materials? What prompts or assignments have inspired you? Which or whose syllabi have you borrowed from, revised, or built upon? Put this way, pedagogical artifacts may include (but are not limited to) syllabi, teaching guidelines, assignments, lesson plans, course sites, learning objective, collaborative projects, and even student work. A balanced variety of artifacts types is optimal.
+Select ten pedagogical artifacts (no more, no less) to feature for your keyword. The emphasis should be the everyday stuff of teaching, not after-the-fact reflections on teaching. These artifacts should demonstrate what you and others use to teach your keyword. What teaching and learning projects do you turn to when crafting your teaching materials? What prompts or assignments have inspired you? Which or whose syllabi have you borrowed from, revised, or built upon? Put this way, pedagogical artifacts may include (but are not limited to) syllabi, teaching guidelines, assignments, lesson plans, course sites, learning objective, collaborative projects, and even student work. A balanced variety of artifacts types is optimal. Please note, however, that of the ten annotated artifacts included in every keyword, at least two of them must be assignments or syllabi. 
 
 For each of your ten artifacts, please provide: 
 
 * Title of Artifact (as it appears on the actual "document")
 * Artifact Type: Pedagogical artifacts may include (but are not limited to) syllabi, teaching guidelines, assignments, lesson plans, course sites, learning objective, collaborative projects, and even student work.
-* Screenshot (PNG or JPG), titled “keyword artifact title,” e.g. “work AfAm syllabus.png”
+* Screenshot (PNG or JPG), titled “keyword artifact title,” e.g. “work-AfAm-syllabus.png”
 * Source URL 
+* Artifact Permissions (note whether content is shared under a Creative Commons license)
 * Copy of the Artifact (in HTML, PDF, DOCX, TXT, MD, RTF, MP3, MP4, MOV, PNG, or JPG), if possible 
 * Creator and Affiliation
 * An annotation of **no more than 150 words** that includes:
