@@ -47,7 +47,7 @@ In short, there are many ways to fail when engaged in digital pedagogy:
 In each of these cases, failure may well prove to be productive and engaging. In the end, it is only the fear of failure that one should always avoid.
 
 #### Selection Criteria
-The artifacts selected below represent objects from the different tiers of failure within digital pedagogy. These range from statements from practitioners about broken assignments—failure recollected in tranquility, to repurpose Wordsworth—to assignments that actively encourage failure of one sort or another from students. 
+The artifacts selected below represent objects from the different tiers of failure within digital pedagogy. As such, they range from statements from practitioners about broken assignments—failure recollected in tranquility, to repurpose Wordsworth—to assignments that actively encourage failure of one sort or another from students. 
 
 ## CURATED ARTIFACTS
 
