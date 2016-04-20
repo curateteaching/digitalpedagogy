@@ -103,7 +103,7 @@ To help students learn to see digital media as a product of design and choices, 
 
 * Source URL: [http://www.rooksbay.com/2015/03/creating-and-coding-a-professional-website/](http://www.rooksbay.com/2015/03/creating-and-coding-a-professional-website/) 
 * Copy of Artifact: 
-* Creator: [Ron Brooks](http://www.rooksbay.com)
+* Creator: [Ron Brooks](http://www.rooksbay.com) (Oklahoma State University)
 
 After students have created professional online portfolios using simple, free tools like [WordPress](http://wordpress.com) and [Weebly](http://www.weebly.com/), Ron Brooks asks them to re-create, or "reverse engineer," their websites from scratch using HTML and CSS. Given that most of his students have little to no experience with web design, Brooks acknowledges that "many of us are going to fail"; indeed, "failure is part of the point." A key aspect of the assignment, then, is for students to carefully document and reflect on the failures they encounter. By completing a series of short exercises that stretch their technical skill to (and beyond) the breaking point, students gain an appreciation for the complexity of professional websites and develop strategies for helping themselves and their classmates overcome—and sometimes accept—failure. Ultimately, the process of replicating a website helps students weigh the costs and benefits of using templates versus writing markup by hand. 
 
