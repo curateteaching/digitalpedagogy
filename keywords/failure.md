@@ -20,7 +20,7 @@ type: book
 ## Brian Croxall and Quinn Warnick
 Brown University | Brown University Library and the Brown Center for Digital Scholarship | [Website](http://briancroxall.net)
 
-Virginia Tech | The Center for Applied Technologies in the Humanities| [Website](http://quinnwarnick.com)
+Virginia Tech | Technology-enhanced Learning and Online Strategies| [Website](http://quinnwarnick.com)
 
 ##### Publication Status:
 * unreviewed draft
