@@ -44,7 +44,7 @@ In short, there are many ways to fail when engaged in digital pedagogy:
 2. Human Failure
 3. Failure as Artifact
 4. Failure as Epistemology
-In each of these cases, failure may well prove to be productive and engaging. In the end, it is only the fear of failure that one should always avoid.
+In each of these cases, failure may well prove to be productive and engaging. While we should not be "unduly optimistic" about failure or the feelings that it may engender, we are also well served to remember that it need not be only a "dead end" (Halberstam 24). In the end, it is only the fear of failure that one should always avoid.
 
 #### Selection Criteria
 The artifacts selected below represent objects from the different tiers of failure within digital pedagogy. As such, they range from statements from practitioners about broken assignments—failure recollected in tranquility, to repurpose Wordsworth—to assignments that actively encourage failure of one sort or another from students. 
