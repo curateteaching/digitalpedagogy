@@ -195,11 +195,11 @@ Harris, Katherine D. “Play, Collaborate, Break, Build, Share: ‘Screwing Arou
 
 Hjortshoj, Keith. *Understanding Writing Blocks*. New York: Oxford UP, 2001. Print.
 
+**Holmevik, Jan. "TBD."**
+
 Juul, Jesper. *The Art of Failure: An Essay on the Pain of Playing Video Games*. Cambridge, MA: MIT P, 2013. Print.
 
 Kapur, Manu. "Productive Failure." *Cognition and Instruction* 26.3 (2008): 379-424. Print. \<http://dx.doi.org/10.1080/07370000802212669\>
-
-**Holmevik, Jan. "TBD."**
 
 Kapur, Manu and Katerine Bielaczyc. "Designing for Productive Failure" *Journal of the Learning Sciences* 21.1 (2012): 45-83. Print. \<http://dx.doi.org/10.1080/10508406.2011.591717\>
 
