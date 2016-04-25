@@ -187,6 +187,8 @@ Fitzpatrick, Kathleen. “Google Wave: Pedagogical Success, Technological Failur
 
 Graham, Shawn. “The Wikiblitz: A *Wikipedia* Editing Assignment in a First-Year Undergraduate Class.” *Writing History in the Digital Age*. Eds. Kristen Nawrotzki and Jack Dougherty. DigitalCultureBooks. Ann Arbor: University of Michigan Press, 2013. Web. 28 February 2015. \<http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.3\> 
 
+Halberstam, Judith. *The Queer Art of Failure*. Durham, NC: Duke UP, 2011. Print.
+
 Harris, Katherine D. “Play, Collaborate, Break, Build, Share: ‘Screwing Around’ in Digital Pedagogy. The Debate to Define Digital Humanities...Again.” *Polymath* 3.3 (2013): n.p. Web. 28 February 2015. \<https://ojcs.siue.edu/ojs/index.php/polymath/article/view/2853/884\> 
 
 *Harvard Business Review*. Special Issue on Failure. (April 2011) Web. 2 March 2015. \<https://hbr.org/archive-toc/BR1104\> 
