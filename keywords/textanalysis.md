@@ -238,7 +238,7 @@ Ramsay, Stephen. _Reading Machines: Toward an Algorithmic Criticism_. Urbana: U 
 
 Rockwell, Geoffrey. "What is Text Analysis, Really?" _Literary and Linguistic Computing_ 18.2 (2003): 209-219. Print. 
 
-Sinclair, St&eacute;fan and Geoffrey Rockwell. "Teaching Computer-Assisted Text Analysis." _Digital Humanities Pedagogy: Practices, Principles and Politics. Ed. Brett D. Hirsch. Open Book Publishers, 2012. Kindle file.  
+Sinclair, St&eacute;fan and Geoffrey Rockwell. "Teaching Computer-Assisted Text Analysis." _Digital Humanities Pedagogy: Practices, Principles and Politics_. Ed. Brett D. Hirsch. Open Book Publishers, 2012. Kindle file.  
 
 Trumpener, Katie. "Paratext and Genre System: A Repsonse to Franco Moretti." _Critical Inquiry_ 36 (Autumn 2009): 159-171. Print.
 

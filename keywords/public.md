@@ -1,7 +1,7 @@
-# PUBLIC
+# Public
 
 ## Jeffrey W. McClurken
-University of Mary Washington | http://mcclurken.org
+University of Mary Washington | [http://mcclurken.org](http://mcclurken.org)
 
 ---
 
@@ -39,7 +39,7 @@ This brilliant text from a presentation that ed-tech journalist Audrey Watters g
 ### “Guidelines for Public, Student Class Blogs: Ethics, Legalities, FERPA and More"
 ![screenshot](images/public-ferpa.png) 
 * Artifact Type: Blog Post
-* [http://www.hastac.org/blogs/cathy-davidson/2012/11/30/guidelines-public-student-class-blogs-ethics-legalities-ferpa-and-mo](http://www.hastac.org/blogs/cathy-davidson/2012/11/30/guidelines-public-student-class-blogs-ethics-legalities-ferpa-and-mo)
+* [https://www.hastac.org/blogs/superadmin/2012/11/30/guidelines-public-student-class-blogs-ethics-legalities-ferpa-and-more](https://www.hastac.org/blogs/superadmin/2012/11/30/guidelines-public-student-class-blogs-ethics-legalities-ferpa-and-more)
 * Kevin Smith, Duke University, via HASTAC Blog 
 
 One of the barriers for some faculty in doing public projects with students is FERPA (Family Educational Rights and Privacy Act), the federal law about protecting student educational records. While this is on some level a legal issue, Kevin Smith’s brief advice in this post is very helpful in addressing most situations that would face faculty in working with students in public digital humanities class projects. Other relevant discussions of FERPA in the classroom include Jim Groom, “[You Can’t Spell FERPA without FEAR](http://bavatuesdays.com/you-cant-spell-ferpa-without-fear/),” and Ethan Watrall, “[Understanding FERPA & Educational Records Disclosure](http://chronicle.com/blogs/profhacker/understanding-ferpa-educational-records-disclosure/25002).”  But questions about FERPA should not prevent student work in public.  As faculty, our focus should be on providing students with a fair understanding of what it means to create in public but within the context of developing a public, thoughtful digital identity. 
@@ -122,7 +122,7 @@ This public project was done in partnership with the City of Alexandria.  Buildi
 * [http://goinnorth.org/](http://goinnorth.org/)   
 * Janneken Smucker, Charles Hardy, et.al., West Chester University 
 
-This ongoing Omeka project is the result of a collaboration between graduate and undergraduate students at West Chester University in a Digital Storytelling class ([Syllabus](http://goinnorth.org/files/original/cc9d2af8b4c8861ac33e0a3c3cc86c3f.pdf)) and a number of community institutions.  Students took existing interviews from the 1980s and used the [Oral History Metadata Synchronizer](http://www.oralhistoryonline.org/) to link them to a wide variety of other materials, including geospatial information, photographs, and digitized newspaper articles.  The students then created a series of curated stories from all these materials.  In particular, this project shows the value that students can bring in linking and making public materials that exist in various places with varying degrees of access, providing a model for others to follow.
+This ongoing Omeka project is the result of a collaboration between graduate and undergraduate students at West Chester University in a Digital Storytelling class ([Syllabus](http://goinnorth.org/items/show/490")) and a number of community institutions.  Students took existing interviews from the 1980s and used the [Oral History Metadata Synchronizer](http://www.oralhistoryonline.org/) to link them to a wide variety of other materials, including geospatial information, photographs, and digitized newspaper articles.  The students then created a series of curated stories from all these materials.  In particular, this project shows the value that students can bring in linking and making public materials that exist in various places with varying degrees of access, providing a model for others to follow.
 
 
 
