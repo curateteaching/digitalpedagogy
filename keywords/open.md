@@ -145,7 +145,7 @@ Students in Brian Croxall’s "Introduction to Digital Humanities" read Virginia
 ![screenshot](images/open-API-twitterbot.png)
 
 * Artifact Type: assignment
-* Source URL ** ****[https://www.youtube.com/watch?v=WNUazuo2w0**U](https://www.youtube.com/watch?v=WNUazuo2w0U) 
+* Source URL: [https://www.youtube.com/watch?v=WNUazuo2w0**U](https://www.youtube.com/watch?v=WNUazuo2w0U) 
 * Artifact Permissions: TBD
 * Copy of the Artifact: forthcoming
 * Creator:  Mark Sample, Davidson College 
