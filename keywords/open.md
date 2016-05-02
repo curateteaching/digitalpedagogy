@@ -120,7 +120,7 @@ In order to provide flexibility for his teaching, and to save his students money
 Sarah Hogan’s students contribute to  the open access "Map of Early Modern London" through a class assignment that is in her words “ a rare opportunity for undergraduates to engage in serious, knowledge-producing, interdisciplinary research; to collaboratively draft, fact-check, edit, and revise our writing; and to write for a public readership in a digital environment. As such, it will likely be an opportunity to practice the kind of scholarship and writing that many of you will go on to do after graduation.” The larger map project in its [mission](http://mapoflondon.uvic.ca/mission_statement.htm) makes clear that its commitment to open is deep, enabling and in fact enabled by this sort of work by Hogan’s students.
 
 ### Middlebury’s Virtual Sports Museum
-![image alt text](open-middlebury-college-athletic-history-gallery.png)
+![screenshot](images/open-middlebury-college-athletic-history-gallery.png)
 
 * Artifact Type: syllabus
 * Source URL: [http://sites.middlebury.edu/fieldhousemuseum/course-description-2/requirements/](http://sites.middlebury.edu/fieldhousemuseum/course-description-2/requirements/)
