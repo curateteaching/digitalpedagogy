@@ -13,7 +13,7 @@ publisher: Modern Language Association
 type: book
 ---
 
-# INTERFACE (Draft)
+# INTERFACE (Final)
 
 ### [Kathi Inman Berens](http://kathiiberens.com)
 Portland State University | [English Department - Book Publishing] (http://publishing.pdx.edu/faculty/)
@@ -23,14 +23,15 @@ Portland State University | [English Department - Book Publishing] (http://publi
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review** https://digitalpedagogy.commons.mla.org/
+* draft version undergoing peer-to-peer review
+* **awaiting pre-print copy**
 * published 
 
 --- 
 
 ## CURATORIAL STATEMENT
 
-Anyone who has rearranged classroom chairs from rows into a circle knows that the physical space of a classroom shapes students' interaction. So too digital interfaces shape student engagement in online learning environments. "The classroom" is a heuristic that manifests itself more variously today than when the classroom was bound by walls and directed student gaze to the lecturn, or around a seminar table. Like “classroom,” "interface" is a heuristic that illuminates the changing ways students encounter learning digitally: synchronously in face-to-face or virtual/embodied blended classrooms; asynchronously in distance learning and open access platforms like iTunes U. or Coursera; or self-paced and -designed courses using YouTube tutorials and other "found" materials. In this keyword, "interface" refers to the meeting points between people and technologies that facilitate learning, from code to books to candlelight.  Preeminently in the digital humanities, "interface" is a function of code and markup, the human-readable language that translates bi-directionally between human command and machine output.
+Anyone who has rearranged classroom chairs from rows into a circle knows that the physical space of a classroom shapes students' interaction. So too digital interfaces shape student engagement in online learning environments. "The classroom" is a heuristic that manifests itself more variously today than when the classroom was bound by walls and directed student gaze to the lectern, or around a seminar table. Like “classroom,” "interface" is a heuristic that illuminates the changing ways students encounter learning digitally: synchronously in face-to-face or virtual/embodied blended classrooms; asynchronously in distance learning and open access platforms like iTunes U. or Coursera; or self-paced and -designed courses using YouTube tutorials and other "found" materials. In this keyword, "interface" refers to the meeting points between people and technologies that facilitate learning, from code to books to candlelight.  Preeminently in the digital humanities, "interface" is a function of code and markup, the human-readable language that translates bi-directionally between human command and machine output.
 
 Building a webpage in HTML and CSS remains a core interface literacy. No one today needs to write HTML to build a web presence. Unlike the early days of the Web, where all elements of the user interface (UI) were customized in hand-built webpages, today in social Web interfaces such as Facebook, Twitter, Medium and the like the UI is identical but for the modest customization afforded by user-uploaded images. These corporate interfaces of the social Web remove us further from the do-it-yourself culture of hobbyists and tinkerers who made the Web an open culture of shared resources; see Lori Emerson's second chapter in **Reading Writing Interfaces** to learn more about the implications of such a transformation. Not coding, people miss critical engagement with markup language as the bridge between human expression and nonhuman operations. We also miss the pressing need for and rewards of an open Web, where people teach each other in a gift economy. In "Related Materials," see **DML Central**, funded by the University of California at Irvine, for a great repository of collaboration prototypes, teaching with technology tips, and access to tools. Miriam Posner’s brilliant, easy-to-use “DH 101” tutorials restore critical attention to interface. Her handouts teach students how to build webpages using HTML and CSS, how to clean data, and how to make visualizations and timelines. Alan Liu's more advanced **DH Toychest** is a treasure trove. Janelle Jenstad's fifteen-year-old annotation project **Map of Early Modern London** now offers collaboration opportunities for undergraduate classes outside of the University of Victoria. Anne McGrail, a professor at Lane Community College in Eugene, Oregon, spearheads the new **DH in the CC** commons.
 
