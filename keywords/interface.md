@@ -26,6 +26,9 @@ Portland State University | [English Department - Book Publishing] (http://publi
 * draft version undergoing peer-to-peer review
 * **awaiting pre-print copy**
 * published 
+---
+
+### Tags: code, classroom, collaboration, praxis, public
 
 --- 
 
