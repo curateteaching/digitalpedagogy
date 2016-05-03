@@ -25,7 +25,11 @@ Department of English | University of Massachusetts Lowell | [Website](http://nm
 * draft version undergoing editorial review
 * draft version undergoing peer-to-peer review
 * **awaiting pre-print copy**
-* published  
+* published 
+ ---
+
+### Tags: 
+---
 
 
 ##CURATORIAL STATEMENT
