@@ -46,8 +46,7 @@ Digital pedagogy in history changes not just how we teach, but how we _do_, hist
 ## What's Wrong with Writing Essays?
 ![screenshot](images/history-MarkSample-wrong-with-essays.png)
 + Artifact Type: description of an assignment that imagines 'writing' to be more akin to 'making'
-+ Source URL:http://www.samplereality.com/2009/03/12/whats-wrong-with-writing-essays/
-+ Artifact Permissions: no license appears.
++ Source URL: http://www.samplereality.com/2009/03/12/whats-wrong-with-writing-essays/
 Copy of the Artifact (in HTML, PDF, DOCX, TXT, MD, RTF, MP3, MP4, MOV, PNG, or JPG), if possible
 + Creator and Affiliation: Mark Sample, Davidson College
 
@@ -56,7 +55,7 @@ This piece crystalizes the issue around essays: we are too much concerned with '
 ## The Unessay
 ![screenshot](images/history-odonnell-unessay.png)
 + Artifact Type: assignment prompt
-+ Source Url: http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay
++ Source URL: http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay
 + Artifact Permissions: CC BY-NC-SA 3.0
 + Creator and Affiliation: Daniel Paul O'Donnell, University of Lethbridge
 
@@ -65,7 +64,7 @@ This assignment prompt documents problems with 'essays' as they have come to be 
 ## Open Notebook History
 ![screenshot](images/history-wcalebmcdaniel-wiki-screenshot.png)
 + Artifact Type: blog reflection
-+ Source Url: http://wcm1.web.rice.edu/open-notebook-history.html
++ Source URL: http://wcm1.web.rice.edu/open-notebook-history.html
 + Artifact Permissions: CC BY-SA 3.0
 + Creator and Affiliation: W. Caleb McDaniel, Rice University
 
@@ -74,8 +73,7 @@ McDaniel opens a dialogue with proponents of so-called 'open notebook science', 
 ## Writing in Public
 ![screenshot](images/history-moravec-writinginpublic.png)
 + Artifact Type: web page
-+ Source Url: http://michellemoravec.com/michelle-moravec/
-+ Artifact Permissions: no license provided
++ Source URL: http://michellemoravec.com/michelle-moravec/
 + Creator and Affiliation: Michelle Moravec, Rosemont College
 
 This page is a landing page for Moravec's writing projects; her goal in writing in public is to demystify the processes of academic labour. She situates this goal within her research on women's liberation movements, as part of a tradition of work that breaks down the boundaries between public and private 'to reveal the politics underneath'. Moravec provides links to projects in progress, and projects completed. She uses a combination of google docs, twitter hashtags, and curated shortlinks to keep track of her readers' engagement with her work. Moravec's process, while different than the open notebook approach advocated by McDaniel, models for the student what a sustained engaged open practice looks like. It shows the authentic tasks of the historian and it normalizes this kind of work as something that historians just do. This helps to break down the small-c conservatism of what is 'appropriate' for historians. A professor could model this with her students by posting a piece of her own writing and limiting comments to the enrolled students, and rework the piece over the duration of the course in light of the students' developing engagement with the course materials, for instance. This would also have the effect of minimizing students' exposure to some of the more dangerous aspects of web-culture as it puts the focus on the professor rather than the students. The toxicity of web culture in our current moment is something that cannot be avoided, and if we are to work in public safely and effectively with our students we need to take into consideration the work of scholars like Tressie McMillan Cottom.
@@ -83,8 +81,8 @@ This page is a landing page for Moravec's writing projects; her goal in writing 
 ## Who do you think you are?
 ![screenshot](images/history-cottom-who-do-you-think-you-are.png)
 + Artifact Type: journal article
-+ Source Url: http://adanewmedia.org/2015/04/issue7-mcmillancottom/
-+ Artifact Permissions: CC BY-SA 4.0
++ Source URL: http://adanewmedia.org/2015/04/issue7-mcmillancottom/
++ Artifact Permissions: CC BY-NC-ND 4.0
 + Creator and Affiliation: Tressie McMillan Cottom, Virginia Commonwealth University
 
 It can be dangerous when we break down the walls of our teaching and research, and expose these processes to the wider world. In "Who do you think you are?", Tressie McMillan Cottom analyzes the sociology of the performative attention economy of online work. She exposes the ways that if you don't look like a white man online, what can or cannot be done in terms of a public-facing digital work becomes much more complicated and dangerous. The piece serves as a counterbalance to the artifacts discussed above. As a white man, I am insulated by privilege and I can recommend tools and integrate approaches that do not work (or are not safe) for everyone. A new practitioner of digital pedagogy needs to balance and negotiate with their students these zones (see also Cathy Davidson on [negotiating the syllabus with students](https://www.hastac.org/blogs/cathy-davidson/2015/08/06/getting-started-pt-3-syllabus)). Cottom's piece enables this conversation to happen and should be used as a discussion prompt and a point of departure for negotiation over degrees of exposure to the wider web.
@@ -92,17 +90,16 @@ It can be dangerous when we break down the walls of our teaching and research, a
 ## Digital Atlas of Egyptian Archaeology (DAEA)
 ![screenshot](images/history-anthro-class-msu-daea.png)
 + Artifact Type: class project
-+ Source Url: https://matrix-msu.github.io/daea/ (Source code at [https://github.com/matrix-msu/daea-fs14](https://github.com/matrix-msu/daea))
-+ Artifact Permissions: GNU General Public License
-+ Creator and Affiliation: Students in the Fall 2014 semester in the Archaeology of
-Ancient Egypt class (ANP 455) at Michigan State University, led by Ethan Watrall and supported by Brian Geyer.
++ Source URL: https://matrix-msu.github.io/daea/ (Source code at [https://github.com/matrix-msu/daea-fs14](https://github.com/matrix-msu/daea))
++ Artifact Permissions: CC-BY-SA
++ Creator and Affiliation: Students in the Fall 2014 semester in the Archaeology of Ancient Egypt class (ANP 455) at Michigan State University, led by Ethan Watrall and supported by Brian Geyer.
 
 The Digital Atlas of Egyptian Archaeology (DAEA) as a work of collaborative scholarship exemplifies many of the ideas that the previous artifacts point towards. Writing and researching in public includes not just _text_ but also the _code_ that enables digital scholarship. Moreover, the act of putting the source code online allows this student scholarship to be leveraged by other students, expanded, and transmogrified. Christina Ross forked this and repurposed it to become a microhistory of St. John's, Newfoundland http://xtina-r.github.io/daea/, which was then repurposed and extended by Rob Blades (http://pembrokesoundscapes.ca). Ross's version is on the syllabus in Jeffery McClurken's 'Adventures in Digital History'. (http://courses.mcclurken.org/adh/syllabus/). The DAEA shows ways that student work can have impact beyond the classroom.
 
 ## TEI Close Reading Exercise
 ![screenshot](images/history-beals-close-reading.png)
 + Artifact Type: exercise
-+ Source Url: https://github.com/mhbeals/TEI-Close-Reading
++ Source URL: https://github.com/mhbeals/TEI-Close-Reading
 + Artifact Permissions: CC-BY
 + Creator and Affiliation: Melodee Beals, Loughborough University
 
@@ -111,8 +108,7 @@ While marking up text and annotation has long been a staple of digital humanitie
 ## The Programming Historian, issue #152
 ![screenshot](images/history-crymbleetal-proghist.png)
 + Artifact Type: issues thread
-+ Source Url:https://github.com/programminghistorian/jekyll/issues/152)
-+ Artifact Permissions: presumably CC-BY
++ Source URL: https://github.com/programminghistorian/jekyll/issues/152
 + Creator and Affiliation: Adam Crymble, Miriam Posner, et al.
 
 [The Programming Historian team](http://programminghistorian.org) has long sought to make the processes of publication, peer review, of digital work in History, transparent and accountable. This thread in particular, with its thoughtful and wide-ranging discussion, which does not shy away from some hard truths shows a community of practice around digital pedagogy and capacity building wrestling with an issue in a way that is collegial, humble, and open. The issues of political economy of digital writing in the academy highlighted by Moravec and Cottom are seen in action in this thread. In which case, in courses that rely on discussion forums as the primary pedagogical tool, this artifact is particularly helpful. Examples of spontaneous productive online conversations, within the ambit of digital history and digital pedagogy, are not easily found. This discussion featuring the editors and contributors to the Programming Historian is a model for productive online discussion where there are important issues at stake and where there are markedly different opinions on how best to proceed.
@@ -120,8 +116,7 @@ While marking up text and annotation has long been a staple of digital humanitie
 ## The HeritageJam
 ![screenshot](images/history-heritagejam.png)
 + Artifact Type: website
-+ Source Url: http://heritagejam.org
-+ Artifact Permissions:
++ Source URL: http://heritagejam.org
 + Creator and Affiliation: Andrew Masinton, Sarah Perry, Tara Copplestone, Izzy Bartley. University of York.
 
 Having just gone through its second iteration, the Heritage Jam is an annual two-day event, where participants collaborate to make something along a particular theme, from a particular collection, with a decidedly public-facing inflection. It brings together participants both live (in a kind of camp-out) and online. Aside from the wonderful things participants make, the Jam rules require them to document the _paradata_ that supports the work. The paradata document draws on a long history in archaeological research of visualizations and making (there is an entire subfield, 'experimental archaeology', which has strong affinities to digital humanities pedagogy and deformance) as codified in the 2009 London Charter of Heritage Visualization (http://www.londoncharter.org/) . Paradata "provide the space through which we communicate ambiguity and transparency, and account for our practices". In this way, the viewers learn how to think critically about the construction of the past. In many respects, the concept of paradata for digital work ties into other kinds of reflective pedagogical practice such as eportfolios. Paradata enable novel forms of digital work to fit into the existing patterns and expectations of assessment, even while they subtly shift the goalposts of what becomes 'normal' in historical work.
@@ -129,11 +124,11 @@ Having just gone through its second iteration, the Heritage Jam is an annual two
 ## Every Three Minutes
 ![screenshot](images/history-wcalebmcdaniel-every3minutes.png)
 + Artifact Type: twitter robot
-+ Source Url: https://twitter.com/every3minutes, associated post detailing why 3 minutes, and the source research at http://wcm1.web.rice.edu/slave-sales-on-twitter.html
-+ Artifact Permissions:
++ Source URL: https://twitter.com/every3minutes, associated post detailing why 3 minutes, and the source research at http://wcm1.web.rice.edu/slave-sales-on-twitter.html
++ Artifact Permissions: CC BY-SA 4.0
 + Creator and Affiliation: W. Caleb McDaniel, Rice University
 
-Our teaching and research, when freed from the confines of an essay, can literally have a kind of algorithmic agency (what Mark Sample calls a ['bot of conviction']( https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa#.k7zhd3p6e)). Such a creature directly confronts the public with the past. Originally devised as a backdrop to a classroom lecture, the affordances of the online medium, of twitter-as-platform-for-building, are used to devastating effect in the regular monotony of an update, every three minutes. Zach Whalen has an excellent tutorial on how to make simple twitter bots at [http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/). A simple version of this idea could be effected in the classroom by having a powerpoint presentation set with a timer to page automatically through the slides. An important role of the historian is to humanize the past, while confronting the audience with the simultaneous alienness of it. The use of this kind of bot as a counterpoint to the lecture or discussion demonstrates a use of digital tools for pedagogy as a kind of co-teacher.
+Our teaching and research, when freed from the confines of an essay, can literally have a kind of algorithmic agency (what Mark Sample calls a ['bot of conviction'](https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa#.k7zhd3p6e)). Such a creature directly confronts the public with the past. Originally devised as a backdrop to a classroom lecture, the affordances of the online medium, of twitter-as-platform-for-building, are used to devastating effect in the regular monotony of an update, every three minutes. Zach Whalen has an excellent tutorial on how to make simple twitter bots at [http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/). A simple version of this idea could be effected in the classroom by having a powerpoint presentation set with a timer to page automatically through the slides. An important role of the historian is to humanize the past, while confronting the audience with the simultaneous alienness of it. The use of this kind of bot as a counterpoint to the lecture or discussion demonstrates a use of digital tools for pedagogy as a kind of co-teacher.
 
 ## RELATED MATERIALS
 
