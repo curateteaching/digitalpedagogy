@@ -67,7 +67,6 @@ Businessweek might seem like a paradoxical starting point for a set of resources
 * Artifact Type: Blog post
 * Source URL: [http://miriamposner.com/blog/some-things-to-think-about-before-you-exhort-everyone-to-code/](http://miriamposner.com/blog/some-things-to-think-about-before-you-exhort-everyone-to-code/) 
 * Artifact Permissions: Creative Commons Attribution-Noncommercial-ShareAlike 3.0 Unported
-* Copy of the Artifact: n/a 
 * Creator and Affiliation: [Miriam Posner](http://www.miriamposner.com), UCLA 
 
 “Some Things to Think about before You Exhort Everyone to Code,” Miriam Posner's pointed critique of unrestrained learn-to-code boosterism, is essential reading for anyone engaged in a project involving the teaching or learning of code. With references to scientific and sociological studies as well as to more concrete examples, Posner clearly identifies the cultural biases and other structural inequalities that preclude a pedagogy of code from ever unfolding on an equal plane. Rather than act as a deterrent, however, Posner's post should encourage us to envision alternate pedagogical practices that might better account for the full range of student experiences. Whether by [rethinking what we teach when we teach students to code](http://earsketch.gatech.edu/landing/), [reimagining how we teach when we teach students to code](http://miriamposner.com/blog/a-better-way-to-teach-technical-skills-to-a-group/), or [reframing the task of learning to code from the ground up](http://thecomputerboys.com/), we might work towards a more inclusive model for a pedagogy of code.
@@ -88,8 +87,6 @@ This syllabus, created by Yanni Loukissas, documents the required introductory c
 
 * Artifact Type: Syllabus
 * Source URL: [https://jwernimont.wordpress.com/2014/06/02/feminist-digital-humanities-theoretical-social-and-material-engagements-around-making-and-breaking-computational-media/](https://jwernimont.wordpress.com/2014/06/02/feminist-digital-humanities-theoretical-social-and-material-engagements-around-making-and-breaking-computational-media/) 
-* Artifact Permissions:  *// Awaiting response from author*
-* Copy of the Artifact: n/a
 * Creator and Affiliation: [Jacque Wernimont](https://jwernimont.wordpress.com/), Arizona State University, and [Elizabeth Losh](http://losh.ucsd.edu/), College of William and Mary 
 
 This syllabus, created by Jacque Wernimont and Elizabeth Losh for a summer course on Feminist Digital Humanities at the [Digital Humanities Summer Institute](http://www.dhsi.org/), provides a second example of how the study of code can bring together technical knowledge with theoretical concerns. Wernimont and Losh employ feminism as both object and method of inquiry, exploring a range of examples of feminist engagements with technology, from video games to digital archives, through an intersectional feminist pedagogical approach. The more conceptually-focused nature of this course demonstrates how students can emerge with a clear sense of how a particular theoretical orientation can be expressed in and through code. In adapting this course for future use, one might consider how other major theoretical schools, such as queer or postcolonial theory, might similarly (or dissimilarly) find expression through the structure of a course, its objects of study, and its methods of inquiry.
@@ -111,7 +108,6 @@ Andrew Goldstone's syllabus for a graduate course on literary data is explicit a
 * Artifact Type: Course repository
 * Source URL: [https://github.com/rbuurma/rise-2015](https://github.com/rbuurma/rise-2015) 
 * Artifact Permissions: Creative Commons Attribution-NonCommercial 4.0 International
-* Copy of the Artifact: [syllabus only](files/code-riseofnovel.pdf)
 * Creator and Affiliation: Rachel Buurma, Swarthmore College
 
 The Github repository that documents Rachel Buurma's digitally-inflected literature course, "The Rise of the Novel," provides an additional example of how a focused humanistic research interest might be explored through computational techniques. Here, Buurma focuses on questions of realism as they relate to the rise of the novel, incorporating exercises that make use of software libraries that assist in various distant reading techniques. Buurma's course design demonstrates how such exercises might be framed conceptually, and anchored in specific texts--evidently to much success. (Student responses to the exercises are [documented on the course blog](http://rise2015.rachelsagnerbuurma.org/). When adapting this model for use in other contexts, one must consider *in advance* what types of questions are best suited to specific computational techniques, and what specific objects of inquiry--textual or otherwise--might serve as the best source for their application. 
@@ -122,7 +118,6 @@ The Github repository that documents Rachel Buurma's digitally-inflected literat
 * Artifact Type: Blog post
 * Source URL: [https://www.hastac.org/blogs/arielle-schlesinger/2013/11/26/feminism-and-programming-languages](https://www.hastac.org/blogs/arielle-schlesinger/2013/11/26/feminism-and-programming-languages) 
 * Artifact Permissions: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 
-* Copy of the Artifact: n/a
 * Creator and Affiliation: [Ari Schlesinger](http://arischlesinger.com/), Georgia Tech
 
 This student blog post on [HASTAC](https://www.hastac.org/), which documents the early phases of an undergraduate thesis project, demonstrates how a deceptively simple question--"What is a feminist programming language?--can function as an entry point into a deep discussion reliant on both technical and theoretical knowledge. Such discussions are incredibly generative, and ones with which "programming humanists," [to borrow a descriptor from Tara McPherson](http://dhdebates.gc.cuny.edu/debates/text/29), are uniquely positioned to engage. This particular post also demonstrates, albeit inadvertently, the political charge with which many humanistic investigations into the nature of code are met; the post was picked up on Reddit, and the student became the subject of significant online harassment. Although those invested in digital pedagogy tend to align themselves with public-facing student work, this example also illustrates the importance of anticipating any potentially negative or hateful feedback for which students (or their professors) may be unprepared.   
@@ -132,8 +127,6 @@ This student blog post on [HASTAC](https://www.hastac.org/), which documents the
 
 * Artifact Type: Digital project
 * Source URL: [http://diasporahypertext.com/2012/11/29/new-project-the-codex/](http://diasporahypertext.com/2012/11/29/new-project-the-codex/) 
-* Artifact Permissions: "Open"
-* Copy of the Artifact: n/a
 * Creator and Affiliation: [Jessica Marie Johnson](http://jmjohnso.com/), Michigan State University 
 
 "The Codex" is described by its creator, Jessica Marie Johnson, as an "attempt to process Atlantic slavery through application, code, and screen." It consists of three digital "volumes," each presented in the form of a Tumblr. Johnson employs the Tumblr platform rhetorically, as a way to counter the dehumanizing effect of the formal records of the Atlantic slave trade with what she terms "diaspora catalogs." In doing so, Johnson gives digital form to an alternative structuring logic, one with significant implications for the study of code in a humanities context. (A forthcoming [special issue of *The Black Scholar* on Black Code Studies](https://diasporahypertext.com/2015/02/13/cfp-black-code-studies/) will extend this line of inquiry in important ways). As it stands, Johnson's project can be used as an example to students of how to engage the intersection of computational and theoretical concepts through creative means. As it's free to create a Tumblr via [tumblr.com](http://www.tumblr.com), students might even be encouraged to create "diaspora catalogs" of their own. Instructors might also consider how other constructs that have been challenged in terms of hierarchy, structure, and control, might lend themselves to critique through this representational mode. 
@@ -144,7 +137,6 @@ This student blog post on [HASTAC](https://www.hastac.org/), which documents the
 * Artifact Type: Collaborative project
 * Source URL: [http://xpmethod.plaintext.in/public-discourse/rikersbot.html](http://xpmethod.plaintext.in/public-discourse/rikersbot.html) 
 * Artifact Permissions: GNU GPL 
-* Copy of the Artifact: n/a
 * Creator and Affiliation: Manan Ahmed, Zeinab Aina, Thomas Brown III, Marjana Chowdhury, Andi Dixon, Janine Ko, Katarzyna Kaczowka, Desmond Patton, Cameron Rasmussen, Dennis Yi Tenen, and the Young People at Rikers.
 
 Rikers Bot names both an ongoing project on the part of Columbia's Group for Experimental Methods in the Humanities to teach programming workshops at Rikers Island Correctional Facility, in New York, and the output of the project: a Twitter bot that tells the story of the young adults incarcerated there. As such, it speaks both to the functional utility of learning to code (as part of the workshop, participants are trained in how to present the project in future job interviews) and to the argumentative force of a bot (forcibly disconnected from the outside world, the inmates require a bot to speak for them). Rikers Bot is a complicated project, with many layers that require additional unpacking, but in its engagement in the world outside of the academy, and in its attempt to introduce a humanistic overlay onto the teaching and learning of code, it marks a move towards social justice and civic engagement that the field would do well to more fully engage. In adapting this project, instructors might consider the local environment of their institution, asking which communities-- including but not limited to prison populations-- might benefit from a similar series of workshops.  
@@ -154,8 +146,6 @@ Rikers Bot names both an ongoing project on the part of Columbia's Group for Exp
 
 * Artifact Type: Project website
 * Source URL: [http://users.design.ucla.edu/~zblas/artwork/transcoder_archive/transcoder_archive.htm](http://users.design.ucla.edu/~zblas/artwork/transcoder_archive/transcoder_archive.htm) 
-* Artifact Permissions: *// Awaiting response from author*
-* Copy of the Artifact: n/a
 * Creator and Affiliation: [Zach Blas](http://www.zachblas.info/), Goldsmiths, University of London. 
 
 Moving from the lived conditions of incarceration to the realm of conceptual art, Zach Blas's concept for TransCoder, a "queer programming anti-language," provides an example of how theory can be expressed in and through code. Styling his project in the tradition of an [esolang](http://esoteric.codes/post/105355658088/esolangs-as-an-experiential-practice), Blas defines a set of basic computational functions that, if implemented, would constitute a programming language that procedurally represents the major concepts of queer theory. As a design for, rather than an implementation of a programming language, Blas also models how speculative design can function as a valuable pedagogical method. Asking students to envision rather than implement a computational artifact might open additional creative possibilities for study of code, as well as invite broader participation. 
@@ -206,7 +196,7 @@ Ensmenger, Nathan. *The Computer Boys Take Over.* n.d. Web.
 http://thecomputerboys.com/
 
 Ford, Paul. "What is Code?" n.d. Web.
-http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
 
 "Foxconn: Operations" n.d. Web.
 https://en.wikipedia.org/wiki/Foxconn#Operations
