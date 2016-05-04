@@ -270,14 +270,12 @@ kind of separate completion mark.
 recording. Penn State Liberal Arts Scholarship and Technology Summit, 2014. 27 February 2016. https://www.youtube.com/watch?v=xHAfQ9fEJiU.
 
 * Gorges, Boone. "Hub-and-Spoke Blogging with Lots of Students". 2009. Web. 27 February 2016.
-https://teleogistic.net/2009/08/20/hub-and-spoke-blogging-with-lots-
-of-students/ 
+https://teleogistic.net/2009/08/20/hub-and-spoke-blogging-with-lots-of-students/ 
 
 * McClurcken, Jeff and Julie Meloni. "'How Are You Going
 to Grade This?' Evaluating Classroom Blogs." Profhacker - Chronicle
 of Higher Education. 21 June 2010. 27 February 2016.
-http://chronicle.com/blogs/profhacker/how-are-you-going-to-grade-this
--evaluating-classroom-blogs/24935 
+http://chronicle.com/blogs/profhacker/how-are-you-going-to-grade-this-evaluating-classroom-blogs/24935 
 
 * Sample, Mark. "Pedagogy and the Class Blog". samplereality.com August 14, 2009. Web. 27 February 2016.
 http://www.samplereality.com/2009/08/14/pedagogy-and-the-class-blog/
@@ -287,15 +285,12 @@ Cordell, Ryan. "Texts, Maps, Networks: Digital Literary Studies." http://f14tmn.
 
 Crowther, Kathryn. "Putting Students to Work:
 Guest Hosting a "Best Blog" Round-Up." TECHStyle. November 12, 2011.
-http://techstyle.lmc.gatech.edu/putting-students-to-work-guest-
-hosting-a-best-blog-round-up/. Web. Accessed. 27 February 2016. 
+http://techstyle.lmc.gatech.edu/putting-students-to-work-guest-hosting-a-best-blog-round-up/. Web. Accessed. 27 February 2016. 
 
 ---. "Punking the Victorians, Punking Pedagogy: Steampunk and
 Creative Assignments in the Composition Classroom." Journal of
 Victorian Culture Online. September 6, 2012.
-http://blogs.tandf.co.uk/jvc/2012/09/06/punking-the-victorians-
-punking-pedagogy-steampunk-and-creative-assignments-in-the-
-composition-classroom/. Web. Accessed 27 February 2016. 
+http://blogs.tandf.co.uk/jvc/2012/09/06/punking-the-victorians-punking-pedagogy-steampunk-and-creative-assignments-in-the-composition-classroom/. Web. Accessed 27 February 2016. 
 
 Croxall, Brian. "Introduction to Digital Humanities."
 http://www.briancroxall.net/dh/. Web. Accessed 27 February 2016. 
