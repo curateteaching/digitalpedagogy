@@ -45,12 +45,11 @@ humanities courses, the assignments are adaptable enough to be used more broadly
 
 ## CURATED ARTIFACTS:
 
-### "Texts, Maps, Networks: Digital Literary
+### "Texts, Maps, Networks: Digital Literary"
 ![screenshot](images/blogging-Cordell-assignment.png)
 
 * Artifact Type: Assignment
 * Source URL: http://f14tmn.ryancordell.org/assignments/class-blogging/
-* Artifact Permissions: [to come]
 * Copy of the Artifact: Course site hosted by the University on the Wordpress platform. As of 2/21/2016 student work is publicly viewable, although several of the student sites have been taken down and some links lead to 404 errors.
 * Creator and Affiliation: Ryan Cordell, Northeastern University
 
@@ -64,14 +63,12 @@ each post appears on the course site and links to the relevant post
 on the student's site, which is also where comments are posted. The
 rubric is general and evaluation is unclear, but Cordell indicates that
 he will supply more detailed feedback upon student request. 
-KDH: (same comment as previous) WHY IS THIS ASSIGNMENT ENGAGING FOR BLOGGING? WHAT DOES IT REPRESENT IN TERMS OF THE WAY YOU HAVE DEFINED BLOGGING ABOVE?
 
 ### "Blogging about Duffy's Manuscripts" 
 ![screenshot](images/blogging-Croxall-instructions.png)
 
 * Artifact Type: Assignment
 * Source URL: http://www.briancroxall.net/dh/assignments/blogging-about-duffys-manuscripts/
-* Artifact Permissions: [to come]
 * Copy of the Artifact: Blog hosted on Croxall's website on the Wordpress platform. As of 2/21/2016 student work is publicly viewable.
 * Creator and Affiliation: Brian Croxall, Emory University
 
@@ -91,9 +88,8 @@ and print.
 ### "Thinking Goodly: Introduction to Ethics" 
 ![screenshot](images/blogging-Gorges-site.png)
 
-* Artifact Type: Course site with blog comments and links <—KDH: IS THIS AN EXAMPLE OF STUDENT WORK?
+* Artifact Type: Course site with blog comments and links
 * Source URL: https://boonebgorges.wordpress.com/2008/11/20/in-the-blogs-11202008/
-* Artifact Permission: [to come]
 * Copy of the Artifact: Blog hosted by Gorges on a course-specific website on the Wordpress.com platform. As of 2/21/2016 only some student work is publicly viewable (several students have deleted their blogs).
 * Creator and Affiliation: Boone Gorges, Hofstra University
 
@@ -115,7 +111,6 @@ that it is not for the faint of heart (Gorges 2009).
 
 * Artifact Type: Assignment and rubric
 * Source URL: http://diggingdigital.blogs.bucknell.edu/reflection-posts/
-* Artifact Permission: given by author (will either get all student permission or lock off access to student work)
 * Copy of the Artifact: Blog hosted by the University in the Wordpress platform. As of 2/21/2016 student work is publicly viewable.
 * Creator and Affiliation: Diane Jakacki, Bucknell University
 
@@ -134,7 +129,6 @@ discuss process and product.
 
 * Artifact Type: Assignment and rubric
 * Source URL: http://blogs.iac.gatech.edu/henriad/short-research-project/
-* Artifact Permission: given (no access to student work)
 * Copy of the Artifact: Course site hosted by the University in the Wordpress platform. As of 2/21/2016 the course site with assignment descriptions is publicly viewable; student work is private.
 * Creator and Affiliation: Diane Jakacki, Georgia Institute of Technology
 
@@ -157,8 +151,7 @@ review.
 ![screenshot](images/blogging-Klein-syllabus.png)
 
 * Artifact Type: Syllabus
-* http://blogs.iac.gatech.edu/archives16/syllabus/
-* Artifact Permission: [to come]
+* Artifact: http://blogs.iac.gatech.edu/archives16/syllabus/
 * Copy of the Artifact: Course site hosted by the University in the Wordpress platform. As fo 2/21/2016 student work is visible. 
 * Creator and Affiliation: Lauren Klein, Georgia Institute of Technology
 
@@ -184,7 +177,6 @@ assignment worth 24% of the course grade.
 
 * Artifact Type: Assignment
 * Source URL: http://miriamposner.com/dh150w15/assignments/weekly-blog-posts/
-* Artifact Permission: [to come]
 * Copy of Artifact: Blog hosted on Posner's website on the Wordpress platform. As of 2/21/2016 student work is publicly viewable.
 * Creator and Affiliation: Miriam Posner, UCLA
 
@@ -208,7 +200,6 @@ concerns about granular feedback of many blog assignments.
 
 * Artifact Type: Assignment
 * Source URL: http://sites.davidson.edu/dig350/guidelines/
-* Artifact Permission: [to come]
 * Copy of Artifact: Blog hosted on University website on the Wordpress platform. As of 2/21/2016 student work is publicly viewable.
 * Creator and Affiliation: Mark Sample, Davidson College
 
@@ -233,7 +224,6 @@ course of the semester equals a 10-12 page essay.
 
 * Artifact type: Assignment
 * Source URL: http://jenteryteaches.com/2011/150/assignments/
-* Artifact Permission: [to come]
 * Copy of Artifact: Blog hosted by Sayers on a Wordpress platform (unclear if this is hosted on the university's server). As of 2/21/2016 student work is password-protected.
 * Creator and Affiliation: Jentery Sayers, University of Victoria
 
@@ -253,12 +243,11 @@ the student grade, with three grades given over the course of the
 term: Sayers explains that each grade consists of a minimum of two
 blog entries and a comment.
 
-### Title of Artifact: "Virtually London: Literature and Laptops" 
+### "Virtually London: Literature and Laptops" 
 ![screenshot](images/blogging-Swafford-rubric.png)
  
 * Artifact Type: Rubric
 * Source URL: https://hawksites.newpaltz.edu/virtuallylondon/grading-rubric/
-* Artifact Permission: [to come]
 * Copy of Artifact: Blog hosted by the University in the Wordpress platform. As of 2/21/2016 student work is publicly viewable.
 * Creator and Affiliation: Annie Swafford, SUNY New Paltz
 
@@ -320,8 +309,7 @@ Gorges, Boone. "Thinking Goodly: Introduction to Ethics." https://boonebgorges.w
 February 2016. 
 
 ---. "Hub-and-Spoke Blogging with Lots of Students".
-https://teleogistic.net/2009/08/20/hub-and-spoke-blogging-with-lots-
-of-students/. Web. Accessed 27 February 2016. 
+https://teleogistic.net/2009/08/20/hub-and-spoke-blogging-with-lots-of-students/. Web. Accessed 27 February 2016. 
 
 Jakacki, Diane. "Digging into the Digital."
 http://diggingdigital.blogs.bucknell.edu/. Web. Accessed 27 February 2016. 
@@ -335,8 +323,7 @@ http://blogs.iac.gatech.edu/archives16/. Web. Accessed 27 February 2016.
 McClurcken, Jeff and Julie Meloni. "'How Are You Going to
 Grade This?' Evaluating Classroom Blogs." Profhacker - Chronicle of
 Higher Education. 21 June 2010.
-http://chronicle.com/blogs/profhacker/how-are-you-going-to-grade-this
--evaluating-classroom-blogs/24935. Web. Accessed 27 February 2016. 
+http://chronicle.com/blogs/profhacker/how-are-you-going-to-grade-this-evaluating-classroom-blogs/24935. Web. Accessed 27 February 2016. 
 
 Owens, Trevor. "The Public Course Blog: The Required Reading We Write
 Ourselves for the Course That Never Ends." Debates in the Digital Humanities. 2013. http://dhdebates.gc.cuny.edu/debates/text/6. Web. 27 February 2016. 
@@ -364,8 +351,7 @@ Sayers, Jentery. "Tools, Techniques & Culture." http://jenteryteaches.com/2011/1
 http://www.jenterysayers.com/2011/150/. Web. Accessed 27 February 2016. 
 
 Schulman, Martha and Gwen Hyman. "In Defense of Essays." Inside Higher Ed. Feb. 19, 2016.
-https://www.insidehighered.com/views/2016/02/19/colleges-should-
-invest-more-teaching-students-how-write-essay. Web. Accessed 27 February 2016. 
+https://www.insidehighered.com/views/2016/02/19/colleges-should-invest-more-teaching-students-how-write-essay. Web. Accessed 27 February 2016. 
 
 Swafford, Annie. "Virtually London: Literature and Laptops." https://hawksites.newpaltz.edu/virtuallylondon/. Web.Accessed 27 February 2016.
 
