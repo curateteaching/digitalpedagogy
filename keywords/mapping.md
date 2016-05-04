@@ -56,7 +56,6 @@ The artifacts chosen here reflect materials and resources from individuals and g
 ![screenshot](images/sintonGibbs.jpg)
 
 * Source: http://fredgibbs.net/courses/digital-mapping/
-* Copy of Artifact: forthcoming
 * Creator: Fred Gibbs, History Department, University of New Mexico
 
 This syllabus is for a short-but-intense 5-day course on digital mapping, using open-source tools and aimed at a humanities’ audience. This class took place in June 2014, thus its audience was likely a mix of students, faculty, and other scholars eager for an opportunity for professional development in this area. For its 40-45 hours of scheduled time, the instructor (Fred Gibbs) is ambitious enough to have the students experiment with multiple methods of digital mapping platforms but also includes references and content relevant to broader issues of place, representation, and uncertainty, all essential issues of digital mapping endeavors from a humanities’ perspective. The group project of working on a series of historical data layers for Albuquerque, New Mexico, is a wise choice as it is a venue the class participants likely have in common and will present clear exemplars of the types of issues that historians will likely confront when developing digital mapping projects. This could be a very good model for a short course, recognizing that the instructor must have both confidence and competence with a mix of digital technologies. 
@@ -65,15 +64,13 @@ This syllabus is for a short-but-intense 5-day course on digital mapping, using 
 ![screenshot](images/sintonSayers.jpg)
 
 * Source: http://www.jenterysayers.com/2009/498/  
-* Copy of Artifact: forthcoming
 * Creator: Jentery Sayers, University of Victoria 
 
 This course was the product of a collaboration between two graduate students at the University of Washington, Jentery Sayers (English) and Matt Wilson (Geography), supported to develop the course through a teaching fellowship. As the product of those two instructors, who had the luxury of additional time for development, it stands as an exemplar of an inter-disciplinary, humanities-focused mapping course. The parallelism of having students work on “mapping” a geographical location as well as “mapping” a text is a novel structure that the collaboration affords. The Modules and Prompts have extensive and interesting commentary and suggestions for readings and ideas about mapping topics (cartographic generalization, data structure and organization, critical cartography, etc). It also provides an understanding of “geography” itself, and doesn’t limit the geographical emphasis to only maps as a tool and outcome. 
 
 ### The Silk Road
 ![screenshot](images/sintonMostern.jpg)
-
-* Copy of Artifact: forthcoming
+* Source URL: http://crte.ucmerced.edu/teaching_silk_road_history
 * Creator: Ruth Mostern, UC Merced
 
 Students in this 100-level class recreate the trajectory of an historical route via the Google Earth virtual globe. The choice of the 3-D Earth platform (versus the 2-D Google Maps) provides a sense of topographical relief that would have affected all aspects of travel across that route. Students are expected to go beyond a simple recreation of the geometric “line” of the Silk Road itself by integrating other digital media (images, timelines, text) to annotate their geographical points. Though the rubric does not indicate what would constitute inferior or superior grades, the author has distinguished between the various technical, cartographic, and textual interpretive elements of the final project. 
@@ -81,7 +78,7 @@ Students in this 100-level class recreate the trajectory of an historical route 
 ### Historical Map Analysis
 ![screenshot](images/sintonKnowles.jpg)
 
-* Copy of Artifact: forthcoming
+* Source URL: ???
 * Creator: Anne K. Knowles, University of Maine
 
 This assignment prompts students with a series of questions that guide them through a structured critique of an historical map. The questions cover themes of genre, author and probable audience, historical context of the map, and the map as a source for historical geography. This activity prepares students for a subsequent assignment of researching, designing, and constructing a page for a collaboratively-produced Atlas. The questions are drafted with a historical map in mind, but they can could also be modified for application to any map. They structure lines of inquiry about cartography, cartographers, and cartographic products that many students have never systematically thought through before.  
@@ -89,7 +86,7 @@ This assignment prompts students with a series of questions that guide them thro
 ### Historical Atlas Assignment
 ![screenshot](images/sintonRael.jpg)
 
-* Copy of Artifact: forthcoming 
+* Source URL: ???
 * Creator: Patrick Rael, History, Bowdoin College
 
 Rael has students delve into historical Census data to each produce a small Atlas that addresses questions about race and slavery in mid-19th century America. They need to produce not only maps, but also tables and charts, consistent with the Census emphasis on quantitative data. Students are prompted to begin with a question that they wish to answer, comparing variables across different geographies, across time, or for exploring possible correlations. This models a good practice for dealing with Census data: to have a specific question that data will help address. Otherwise, Census data can readily become overwhelming in its specificity and abundance. The GIS “Code Book” facilitates the use of the “real” data, which is necessarily obtuse and confusing in its authenticity. Rael choose to do extensive out-of-class work to prepare supporting instructional materials so that the students focus on the questions and analysis while minimizing time spent grappling with data. Though this assignment is focused on historical work, it could be adapted for Census data from any time period. 
@@ -97,7 +94,7 @@ Rael has students delve into historical Census data to each produce a small Atla
 ###  Comparison of Paul’s Travels in Acts and Galatians
 ![screenshot](images/sintonLarsen.png)
 
-* Copy of Artifact: forthcoming 
+* Source URL: ???
 * Creator: Lillian Larsen, University of Redlands
 
 A professor of Early Christianity, Lillian Larsen long ago discovered the utility of mapping as an accessible entry way for her students to appreciate the distinctive versions of Biblical stories. One of her iconic experiences has been to have students sketch the journeys of Paul, as told in different Biblical books, to compare contrasting narratives. Over time, she and her students have experimented with hand-drawing on analog and digital maps to explore specific routes and journeys. This act of primary data creation requires her students to do close reading of the texts and question the distances and patterns chronicled in the ancient texts. She and one of her former students have also documented their processes in a recent article (Larsen and Benzek 2014). 
