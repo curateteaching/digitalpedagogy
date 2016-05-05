@@ -66,7 +66,7 @@ Businessweek might seem like a paradoxical starting point for a set of resources
 
 * Artifact Type: Blog post
 * Source URL: [http://miriamposner.com/blog/some-things-to-think-about-before-you-exhort-everyone-to-code/](http://miriamposner.com/blog/some-things-to-think-about-before-you-exhort-everyone-to-code/) 
-* Artifact Permissions: Creative Commons Attribution-Noncommercial-ShareAlike 3.0 Unported
+* Artifact Permissions: CC BY-NC-SA 3.0 US
 * Creator and Affiliation: [Miriam Posner](http://www.miriamposner.com), UCLA 
 
 “Some Things to Think about before You Exhort Everyone to Code,” Miriam Posner's pointed critique of unrestrained learn-to-code boosterism, is essential reading for anyone engaged in a project involving the teaching or learning of code. With references to scientific and sociological studies as well as to more concrete examples, Posner clearly identifies the cultural biases and other structural inequalities that preclude a pedagogy of code from ever unfolding on an equal plane. Rather than act as a deterrent, however, Posner's post should encourage us to envision alternate pedagogical practices that might better account for the full range of student experiences. Whether by [rethinking what we teach when we teach students to code](http://earsketch.gatech.edu/landing/), [reimagining how we teach when we teach students to code](http://miriamposner.com/blog/a-better-way-to-teach-technical-skills-to-a-group/), or [reframing the task of learning to code from the ground up](http://thecomputerboys.com/), we might work towards a more inclusive model for a pedagogy of code.
@@ -107,7 +107,7 @@ Andrew Goldstone's syllabus for a graduate course on literary data is explicit a
 
 * Artifact Type: Course repository
 * Source URL: [https://github.com/rbuurma/rise-2015](https://github.com/rbuurma/rise-2015) 
-* Artifact Permissions: Creative Commons Attribution-NonCommercial 4.0 International
+* Artifact Permissions: Creative Commons Attribution 4.0 International License
 * Creator and Affiliation: Rachel Buurma, Swarthmore College
 
 The Github repository that documents Rachel Buurma's digitally-inflected literature course, "The Rise of the Novel," provides an additional example of how a focused humanistic research interest might be explored through computational techniques. Here, Buurma focuses on questions of realism as they relate to the rise of the novel, incorporating exercises that make use of software libraries that assist in various distant reading techniques. Buurma's course design demonstrates how such exercises might be framed conceptually, and anchored in specific texts--evidently to much success. (Student responses to the exercises are [documented on the course blog](http://rise2015.rachelsagnerbuurma.org/). When adapting this model for use in other contexts, one must consider *in advance* what types of questions are best suited to specific computational techniques, and what specific objects of inquiry--textual or otherwise--might serve as the best source for their application. 
