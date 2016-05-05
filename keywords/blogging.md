@@ -151,7 +151,7 @@ review.
 ![screenshot](images/blogging-Klein-syllabus.png)
 
 * Artifact Type: Syllabus
-* Artifact: http://blogs.iac.gatech.edu/archives16/syllabus/
+* Source URL: http://blogs.iac.gatech.edu/archives16/syllabus/
 * Copy of the Artifact: Course site hosted by the University in the Wordpress platform. As fo 2/21/2016 student work is visible. 
 * Creator and Affiliation: Lauren Klein, Georgia Institute of Technology
 
