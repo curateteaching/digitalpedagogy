@@ -28,7 +28,7 @@ Department of English | University of Massachusetts Lowell | [Website](http://nm
 * published 
  ---
 
-### Tags: text, reading,  pattern,  interpretation,  analysis
+#### Tags: text, reading,  pattern,  interpretation,  analysis
 ---
 
 
