@@ -145,7 +145,7 @@ FemTechNet describes itself as “an activated network of scholars, artists, and
 
 * Artifact Type: Web page, teaching resources, Pinterest collections
 * Source URL: [https://thesocietypages.org/socimages/for-instructors/](https://thesocietypages.org/socimages/for-instructors/)
-* Artifact Permissions: CC Attribution Non-Commercial Share Alike
+* Artifact Permissions: Attribution-NonCommercial-ShareAlike 3.0 United States
 * Creator and Affiliation: Lisa Wade, The Society Pages
 
 The Sociological Images is a section of The Society Pages, an open-access social science project from the Department of Sociology at the University of Minnesota, curated by Lisa Wade (Occidental College). In Sociological Images, Wade shares a collection of resources to help teach and build analytical skills, in particular “sociological imagination.” The materials gathered include a sociological blog; a Pinterest board that curates over 14,500 images from advertisements, pop culture, and other visual culture with blog-length analyses and discussions; course guides; and more. Amongst these resources, Mary Nell Trautner's expansive "Course Guide for Sociology of Gender" is an especially helpful resource that collects important Society Pages posts that can help teach gender studies. The collection follows the general structure of a sociology course on gender and includes pages organized thematically around such topics as the social construction of gender or intersexuality and current topics such as gender in sports and white privilege.
