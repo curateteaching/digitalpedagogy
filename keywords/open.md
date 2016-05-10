@@ -157,39 +157,39 @@ Yochai Benkler, The Wealth of Networks, [http://www.benkler.org/Benkler_Wealth_O
 
 ## WORKS CITED
 
-Allen, Holly. "The American Studies Web Museum at Middlebury College," n.d.
+Allen, Holly. "The American Studies Web Museum at Middlebury College," n.d. http://cr.middlebury.edu/amlit_civ/allen/web_museum/
 
-"Collaborative Research Assignment: Digitization as Pedagogy and Scholarly Collaboration",* Teaching – Digital History Project, Wheaton College.* February 5, 2012. http://wheatoncollege.edu/digital-history-project/teaching/.
+"Collaborative Research Assignment: Digitization as Pedagogy and Scholarly Collaboration",* Teaching – Digital History Project, Wheaton College.* February 5, 2012. http://wheatoncollege.edu/digital-history-project/teaching/
 
-Conlin, Brian, "Charlestown Residents Impart Lessons of Transition to UMBC Students." *Baltimoresun.com*. Accessed May 11, 2015. http://www.baltimoresun.com/explore/baltimorecounty/news/ph-ca-at-umbc-charlestown-1221-20111218-story.html.
+Conlin, Brian, "Charlestown Residents Impart Lessons of Transition to UMBC Students." *Baltimoresun.com*. Accessed May 11, 2015. http://www.baltimoresun.com/explore/baltimorecounty/news/ph-ca-at-umbc-charlestown-1221-20111218-story.html
 
-Croxall, Brian, "Mapping Mrs. Dalloway." *Intro to DH*. Accessed May 11, 2015. http://www.briancroxall.net/s14dh/assignments/mapping-mrs-dalloway/.
+Croxall, Brian, "Mapping Mrs. Dalloway." *Intro to DH*. Accessed May 11, 2015. http://www.briancroxall.net/s14dh/assignments/mapping-mrs-dalloway/
 
-Edington , Mark D.W. "The Commons of Scholarly Communication: Beyond the Firm", Educause Review. January 12, 2015. 
+Edington, Mark D.W. "The Commons of Scholarly Communication: Beyond the Firm", *Educause Review*. January 12, 2015. http://er.educause.edu/articles/2015/1/the-commons-of-scholarly-communication-beyond-the-firm
 
-Ferris, William, "The American South: Its Stories, Music, and Art - The University of North Carolina at Chapel Hill." *Coursera*. Accessed May 11, 2015. https://www.coursera.org/learn/the-south.
+Ferris, William, "The American South: Its Stories, Music, and Art - The University of North Carolina at Chapel Hill." *Coursera*. Accessed May 11, 2015. https://www.coursera.org/learn/the-south
 
-"First-year Seminar: Much In Common: Intergenerational Teams Create Videos About Identity and Wisdom" , *Digital Stories @ UMBC*, http://stories.umbc.edu/fys.php.
+"First-year Seminar: Much In Common: Intergenerational Teams Create Videos About Identity and Wisdom," *Digital Stories @ UMBC*. http://stories.umbc.edu/fys.php
 
-Goldsmith, Kenneth. "Wasting Time on the Internet; ENGL 111.301." Penn Arts & Sciences, Department of English, n.d. https://www.english.upenn.edu/courses/undergraduate/2015/spring/engl111.301.
+Goldsmith, Kenneth. "Wasting Time on the Internet; ENGL 111.301." Penn Arts & Sciences, Department of English, n.d. https://www.english.upenn.edu/courses/undergraduate/2015/spring/engl111.301
 
-Hirsch, Brett D., ed. *Digital Humanities Pedagogy: Practices, Principles and Politics*. Open Book Publishers, 2012. http://www.openbookpublishers.com/product/161/digital-humanities-pedagogy--practices--principles-and-politics.
+Hirsch, Brett D., ed. *Digital Humanities Pedagogy: Practices, Principles and Politics*. Open Book Publishers, 2012. http://www.openbookpublishers.com/product/161/digital-humanities-pedagogy--practices--principles-and-politics
 
 *Hybrid Pedagogy* http://www.digitalpedagogylab.com/hybridped/ n.d. 
 
-Koh, Adeline, "Education Program:  Richard Stockton College of New Jersey/GIS 3614 Feminist Theory (Fall 2014)." *Wikipedia, the Free Encyclopedia*. Accessed May 11, 2015. https://en.wikipedia.org/w/index.php?title=Education_Program:Richard_Stockton_College_of_New_Jersey/GIS_3614_Feminist_Theory_(Fall_2014)&action=purge.
+Koh, Adeline, "Education Program:  Richard Stockton College of New Jersey/GIS 3614 Feminist Theory (Fall 2014)." *Wikipedia, the Free Encyclopedia*. Accessed May 11, 2015. https://en.wikipedia.org/w/index.php?title=Education_Program:Richard_Stockton_College_of_New_Jersey/GIS_3614_Feminist_Theory_(Fall_2014)&action=purge
 
-Koh, Adeline. "Integrating Wikipedia in Your Courses: Tips and Tricks." *The Chronicle of Higher Education Blogs: ProfHacker*, February 18, 2015. http://chronicle.com/blogs/profhacker/integrating-wikipedia-in-courses/59301?cid=wc&utm_source=wc&utm_medium=en.
+Koh, Adeline. "Integrating Wikipedia in Your Courses: Tips and Tricks." *The Chronicle of Higher Education Blogs: ProfHacker*, February 18, 2015. http://chronicle.com/blogs/profhacker/integrating-wikipedia-in-courses/59301?cid=wc&utm_source=wc&utm_medium=en
 
-Mitchell, Charlie, Dr. *An Open Source Theatre Textbook*. Accessed May 11, 2015. https://opensourcetheatretextbook.wordpress.com/.
+Mitchell, Charlie, Dr. *An Open Source Theatre Textbook*. Accessed May 11, 2015. https://opensourcetheatretextbook.wordpress.com/
 
-"Moodle @ Middlebury," n.d. http://moodle.middlebury.edu/.
+"Moodle @ Middlebury," n.d. http://moodle.middlebury.edu/
 
-"Notes for Select Whitman Poems: Song of the Redwood Tree.." Accessed May 11, 2015. http://notes.lookingforwhitman.org/2009/10/05/song-of-the-redwood-tree/.
+"Notes for Select Whitman Poems: Song of the Redwood Tree.." Accessed May 11, 2015. http://notes.lookingforwhitman.org/2009/10/05/song-of-the-redwood-tree/
 
 Roy, Michael. "The Open-Source Bazaar Makes Scholarship Available." *The Chronicle of Higher Education*, (September 24, 2004). [http://m.chronicle.com/article/The-Open-Source-Bazaar-Makes/27523](http://m.chronicle.com/article/The-Open-Source-Bazaar-Makes/27523) 
 
-Spiro, Lisa and Alexander, Bryan. (2012). "Open Education in the Liberal Arts: A NITLE Working Paper." [http://hdl.handle.net/1911/79394](http://hdl.handle.net/1911/79394). 
+Spiro, Lisa and Alexander, Bryan. (2012). "Open Education in the Liberal Arts: A NITLE Working Paper." [http://hdl.handle.net/1911/79394](http://hdl.handle.net/1911/79394)
 
 
 
