@@ -111,6 +111,7 @@ Students in this course created a series of map-mashups, using the increasingly 
 ### Provenance Project, ARTH 230: Introduction to Museum Studies
 ![screenshot](images/sintonNiederstadt.jpg)
 
+* Source URL: ???
 * Copy of Artifact: forthcoming 
 * Creator: Leah Niederstadt, Department of Art History, Wheaton College, Massachusetts
 
