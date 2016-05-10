@@ -179,7 +179,7 @@ Hirsch, Brett D., ed. *Digital Humanities Pedagogy: Practices, Principles and Po
 
 Koh, Adeline, "Education Program:  Richard Stockton College of New Jersey/GIS 3614 Feminist Theory (Fall 2014)." *Wikipedia, the Free Encyclopedia*. Accessed May 11, 2015. https://en.wikipedia.org/w/index.php?title=Education_Program:Richard_Stockton_College_of_New_Jersey/GIS_3614_Feminist_Theory_(Fall_2014)&action=purge
 
-Koh, Adeline. "Integrating Wikipedia in Your Courses: Tips and Tricks." *The Chronicle of Higher Education Blogs: ProfHacker*, February 18, 2015. http://chronicle.com/blogs/profhacker/integrating-wikipedia-in-courses/59301?cid=wc&utm_source=wc&utm_medium=en
+Koh, Adeline. "Integrating Wikipedia in Your Courses: Tips and Tricks." *The Chronicle of Higher Education Blogs: ProfHacker*, February 18, 2015. http://chronicle.com/blogs/profhacker/integrating-wikipedia-in-courses/59301
 
 Mitchell, Charlie, Dr. *An Open Source Theatre Textbook*. Accessed May 11, 2015. https://opensourcetheatretextbook.wordpress.com/
 
