@@ -140,8 +140,6 @@ Rikers Bot names both an ongoing project on the part of Columbia's Group for Exp
 
 Moving from the lived conditions of incarceration to the realm of conceptual art, Zach Blas's concept for TransCoder, a "queer programming anti-language," provides an example of how theory can be expressed in and through code. Styling his project in the tradition of an [esolang](http://esoteric.codes/post/105355658088/esolangs-as-an-experiential-practice), Blas defines a set of basic computational functions that, if implemented, would constitute a programming language that procedurally represents the major concepts of queer theory. As a design for, rather than an implementation of a programming language, Blas also models how speculative design can function as a valuable pedagogical method. Asking students to envision rather than implement a computational artifact might open additional creative possibilities for study of code, as well as invite broader participation. 
 
-
-
 ## RELATED MATERIALS
 
 Chun, Wendy Hui Kyong. "On Software, or the Persistence of Visual Knowledge." *Grey Room*. 18 Winter (2004): 26–51. Web. http://www.brown.edu/Departments/MCM/people/chun/papers/software.pdf
