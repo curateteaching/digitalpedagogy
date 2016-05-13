@@ -56,7 +56,7 @@ Many challenge the current market-based information economy. Are these intervent
 #### Wikipedia Syllabus for Feminist Theory  
 ![screenshot](images/open-wikipedia-syllabus-for-feminist-theory.png)
 * Artifact Type: syllabus
-* Source URL [https://en.wikipedia.org/w/index.php?title=Education_Program:Richard_Stockton_College_of_New_Jersey/GIS_3614_Feminist_Theory_(Fall_2014)&action=purge](https://en.wikipedia.org/w/index.php?title=Education_Program:Richard_Stockton_College_of_New_Jersey/GIS_3614_Feminist_Theory_(Fall_2014)&action=purge) 
+* Source URL: [https://en.wikipedia.org/w/index.php?title=Education_Program:Richard_Stockton_College_of_New_Jersey/GIS_3614_Feminist_Theory_(Fall_2014)&action=purge](https://en.wikipedia.org/w/index.php?title=Education_Program:Richard_Stockton_College_of_New_Jersey/GIS_3614_Feminist_Theory_(Fall_2014)&action=purge) 
 * Creator: [Adeline Koh](http://adelinekoh.org/), Associate Professor of Literature, Richard Stockton College
 
 Adeline Koh uses the open source encyclopedia as a platform for her students to create and curate entries for feminist theory class.  By challenging her students to do their work via editing *Wikipedia* articles, Koh forces them to confront tricky questions about knowledge, power, authority, and standards. *Wikipedia* in turn [cautions](https://en.wikipedia.org/wiki/Wikipedia:Student_assignments) faculty that simply turning students loose to edit entries may do no good for the students, and no good for *Wikipedia.* In this case, students are learning through contributing their work to an open, crowd-sourced encyclopedia, contributing new material in a small, manageable, and yet meaningful way. 
@@ -80,7 +80,7 @@ Open writing (contributing to *Wikipedia*, contributing to open history projects
 #### Annotating Walt Whitman’s Poetry (Introduction to Graduate Literary Study)
 ![screenshot](images/open-annotating-walt-whitman-poetry.png)
 * Artifact Type: Syllabus
-* Source URL [https://drive.google.com/file/d/0B7N5fppR9qT_X1o2WjVTQ0xFT1hBV3pGLTRqQzAzdFBPQ0RZ/view?usp=sharing](https://drive.google.com/file/d/0B7N5fppR9qT_X1o2WjVTQ0xFT1hBV3pGLTRqQzAzdFBPQ0RZ/view?usp=sharing) 
+* Source URL: [https://drive.google.com/file/d/0B7N5fppR9qT_X1o2WjVTQ0xFT1hBV3pGLTRqQzAzdFBPQ0RZ/view?usp=sharing](https://drive.google.com/file/d/0B7N5fppR9qT_X1o2WjVTQ0xFT1hBV3pGLTRqQzAzdFBPQ0RZ/view?usp=sharing) 
 * Creator: Carol Singley, Rutgers University
 
 A technology for enabling open peer review makes its way into the curriculum with this re-purposing of CommentPress (an open source web publishing tool built on the open source website software WordPress)  to empower students of Walt Whitman’s poems to [annotate his poems](http://notes.lookingforwhitman.org/2009/10/05/song-of-the-redwood-tree/).  This classroom exercise where students collaboratively annotate  Whitman’s poems in full public view suggests the power but also the perils of openness. How much should teachers  insist that their students make public their thoughts and impressions? What does it mean when one’s not yet fully formed thoughts, once shared in the safety of the closed seminar room, become part of the web’s  permanent record? And to what extent does current copyright law inhibit such open work on materials not in the public domain?  
@@ -96,7 +96,7 @@ In order to provide flexibility for his teaching, and to save his students money
 #### Map of Early Modern London
 ![screenshot](images/open-map-of-early-modern-london.png)
 * Artifact Type: Assignment 
-* Source URL [https://mapoflondon.uvic.ca/docs/hogan_moeml_assignment_engl_325_fall_2014.pdf](https://mapoflondon.uvic.ca/docs/hogan_moeml_assignment_engl_325_fall_2014.pdf) 
+* Source URL: [https://mapoflondon.uvic.ca/docs/hogan_moeml_assignment_engl_325_fall_2014.pdf](https://mapoflondon.uvic.ca/docs/hogan_moeml_assignment_engl_325_fall_2014.pdf) 
 * Creator:  Sarah Hogan, Wake Forest University
 
 Sarah Hogan’s students contribute to  the open access "Map of Early Modern London" through a class assignment that is in her words “ a rare opportunity for undergraduates to engage in serious, knowledge-producing, interdisciplinary research; to collaboratively draft, fact-check, edit, and revise our writing; and to write for a public readership in a digital environment. As such, it will likely be an opportunity to practice the kind of scholarship and writing that many of you will go on to do after graduation.” The larger map project in its [mission](http://mapoflondon.uvic.ca/mission_statement.htm) makes clear that its commitment to open is deep, enabling and in fact enabled by this sort of work by Hogan’s students.
@@ -128,7 +128,7 @@ As part of an EdX MOOC on [Electronic Literature](https://www.edx.org/course/ele
 #### Artifact Title: Wasting Time on the Internet
 ![screenshot](images/open-wasting-time-on-the-internet.png)
 * Artifact Type: classroom activities
-* Source URL [https://docs.google.com/document/d/11O3xuBYBJfmZ-kq7HgulXFHjbmNabjKxQ3SIWRn87Cc/edit?usp=sharing](https://docs.google.com/document/d/11O3xuBYBJfmZ-kq7HgulXFHjbmNabjKxQ3SIWRn87Cc/edit?usp=sharing) 
+* Source URL: [https://docs.google.com/document/d/11O3xuBYBJfmZ-kq7HgulXFHjbmNabjKxQ3SIWRn87Cc/edit?usp=sharing](https://docs.google.com/document/d/11O3xuBYBJfmZ-kq7HgulXFHjbmNabjKxQ3SIWRn87Cc/edit?usp=sharing) 
 * Creator and Affiliation: Kenneth Goldsmith, University of Pennsylvania
 
 "[Wasting Time on the Internet](https://www.english.upenn.edu/courses/undergraduate/2015/spring/engl111.301)" starts with this basic premise: how do you make art out of the enormity of the web, the internet, and everything in between? What happens if you start with the premise that there will be no textbook, nothing you need to buy at the bookstore, nothing the library needs to license on your behalf, and you simply set students loose to do what they will, and make what they can? “Wasting Time on the Internet” depends on an open internet for the students to ramble through. As such, it is a [fascinating case study](http://www.slate.com/articles/arts/culturebox/2015/04/kenneth_goldsmith_and_penn_s_wasting_time_on_the_internet_course.html) in not just meeting students where they are, but pushing them to move beyond multitasking into a mode of pure distraction and play, all the while encouraging a level of self-awareness and reflection on what it means to create art in an age of information excess, and how the internet shapes what we know and who we are. 
