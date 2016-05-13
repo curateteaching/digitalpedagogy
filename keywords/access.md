@@ -16,7 +16,7 @@ type: book
 
 # Access
 
-### GEORGE H. WILLIAMS
+### George H. Williams
 University of South Carolina Upstate | [http://georgehwilliams.net](http://georgehwilliams.net)
 
 ---
@@ -58,7 +58,6 @@ Working to make information accessible involves re-thinking one’s own default 
 
 #### Suggested Practices for Syllabus Accessibility Statements
 ![screenshot](images/access-praxis-wiki-suggested-practices-for-syllabus-accessibility-statements.png)
-
 * Artifact Type: Article
 * Source URL: [http://kairos.technorhetoric.net/praxis/tiki-index.php?page=Suggested_Practices_for_Syllabus_Accessibility_Statements](http://kairos.technorhetoric.net/praxis/tiki-index.php?page=Suggested_Practices_for_Syllabus_Accessibility_Statements)
 * Creators: Tara Wood and Shannon Maddon
@@ -67,7 +66,6 @@ This straightforward and well-organized essay discusses an important element of 
 
 #### Composing Access
 ![screenshot](images/access-composing-access.png)
-
 * Artifact Type: Guidelines
 * Source URL: [http://composingaccess.net](http://composingaccess.net)
 * Creator: Committee on Disability Issues in College Composition, and the Computers and Composition Digital Press.
@@ -76,7 +74,6 @@ This website provides extensive advice and specific guidelines for how to "enhan
 
 #### Executive Functioning in Online Environments
 ![screenshot](images/access-executive-functioning-udl.png)
-
 * Artifact Type: Article
 * Source URL: [http://udloncampus.cast.org/page/teach_executive](http://udloncampus.cast.org/page/teach_executive)
 * Creator: Center for Applied Special Technology
@@ -85,7 +82,6 @@ The *UDL on Campus* website is an exhaustive resource addressing universal desig
 
 #### Constructing a POUR Website
 ![screenshot](images/access-webaim-pour.png)
-
 * Artifact Type: Article
 * Source URL: [http://webaim.org/articles/pour/](http://webaim.org/articles/pour/)
 * Creator: Center for Persons with Disabilities
@@ -94,7 +90,6 @@ Utah State University’s Center for Persons with Disabilities is home to WebAIM
 
 #### WordPress Accessibility Plugin
 ![screenshot](images/access-wp-accessibility-plugin.png)
-
 * Artifact Type: Software
 * Source URL: [https://wordpress.org/plugins/wp-accessibility/](https://wordpress.org/plugins/wp-accessibility/)
 * Creator: Joe Dolson
@@ -105,7 +100,6 @@ The content-management system and blogging tool WordPress has been widely adopte
 
 #### Accessibility Audit Assignment
 ![screenshot](images/access-price-accessibility-audit.png)
-
 * Artifact Type: Assignment
 * Source URL: [https://drive.google.com/folderview?id=0B-h_I_KLxUTLaGpSX1NFMllmd0E&usp=sharing](https://drive.google.com/folderview?id=0B-h_I_KLxUTLaGpSX1NFMllmd0E&usp=sharing)
 * Creator: Margaret Price
@@ -114,7 +108,6 @@ This assignment asks students to evaluate the accessibility of a given physical 
 
 #### Accessibility Report Assignment
 ![screenshot](images/access-zdenek-website-accessibility.png)
-
 * Artifact Type: Assignment
 * Source URL: [https://docs.google.com/document/d/1Yf75OtOQ73iRs7S5NSljGNH-Rc2RHeyM47KPDiU3Tx0/edit?pref=2&pli=1](https://docs.google.com/document/d/1Yf75OtOQ73iRs7S5NSljGNH-Rc2RHeyM47KPDiU3Tx0/edit?pref=2&pli=1)
 * Creator: Sean Zdenek
@@ -125,7 +118,6 @@ Given to students in a graduate-level class on "Web Accessibility and Disability
 
 #### Audio/Visual Description Assignment
 ![screenshot](images/access-vidali-blog-post-on-audio-visual-description.png)
-
 * Artifact Type: Assignment
 * Source URL: [https://multimediacomp.wordpress.com/2012/02/29/blog-post-on-audiovisual-narration/](https://multimediacomp.wordpress.com/2012/02/29/blog-post-on-audiovisual-narration/)
 * Creator: Amy Vidali
@@ -134,7 +126,6 @@ Many courses that once might have asked students to author text-only assignments
 
 #### YouDescribe: Testing Crowd-sourced Video Description for Service Learning at the City University of New York
 ![screenshot](images/access-rodas-youdescribe.png)
-
 * Artifact Type: Review
 * Source URL: [http://jitp.commons.gc.cuny.edu/youdescribe-testing-crowd-sourced-video-description-for-service-learning-at-the-city-university-of-new-york/](http://jitp.commons.gc.cuny.edu/youdescribe-testing-crowd-sourced-video-description-for-service-learning-at-the-city-university-of-new-york/)
 * Creator: Julia Miele Rodas
@@ -143,7 +134,6 @@ Although as a video-sharing website YouTube is a primarily visual medium of info
 
 #### Usability / Accessibility Protocols
 ![screenshot](images/access-accessibility-usability-protocols.png)
-
 * Artifact Type: Assignment
 * Source URL: *temporary* [https://drive.google.com/open?id=0BziwFClCcZeJc2ZoaDlpWWpVd1E](https://drive.google.com/open?id=0BziwFClCcZeJc2ZoaDlpWWpVd1E)
 * Creator: Allison Hitt
