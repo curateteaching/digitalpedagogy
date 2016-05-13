@@ -37,14 +37,12 @@ The instructor must think carefully about the type and degree of feedback they a
 
 Blogging environments offer instructors ways to help student authors consider audience and degrees of privacy and publicity. Students begin to experiment with style when they realize that their classmates are also their readers. Because blogs are traditionally public-facing and openly readable, instructors can use blogging assignments to address the benefits and potential pitfalls of accessibility. While platforms such as WordPress offer authors flexibility in terms of audience, an instructor who is new to blogging may opt for more conservative, restricted readership, perhaps expanding audience as students gain confidence. Students should also have a voice in whether and how their work is published beyond the classroom. Anonymization may be an option, and is particularly valuable when concerns about identity are a factor. Jacqueline Wernimont has written about online acts of violence perpetrated against students and instructors, and how this is often directed at women (Wernimont 2016). Instructors must design assignments responsibly, especially when encouraging students to identify themselves in their posts. Instructors should also be aware of institutional policies and safeguards regarding the protection of students (and themselves) in online and social media environments, and understand what options are available if violence affects students. 
 
-The artifacts presented here offer a breadth of approach by instructors who encourage experimentation to students as they write and read. While the examples are all from
-humanities courses, the assignments are adaptable enough to be used more broadly in composition, literature, or media studies courses.
+The artifacts presented here offer a breadth of approach by instructors who encourage experimentation to students as they write and read. While the examples are all from humanities courses, the assignments are adaptable enough to be used more broadly in composition, literature, or media studies courses.
 
 ## CURATED ARTIFACTS
 
 #### "Texts, Maps, Networks: Digital Literary"
 ![screenshot](images/blogging-Cordell-assignment.png)
-
 * Artifact Type: Assignment
 * Source URL: [http://f14tmn.ryancordell.org/assignments/class-blogging/](http://f14tmn.ryancordell.org/assignments/class-blogging/)
 * Copy of the Artifact: Course site hosted by the University on the Wordpress platform. As of 2/21/2016 student work is publicly viewable, although several of the student sites have been taken down and some links lead to 404 errors.
@@ -54,7 +52,6 @@ This assignment is distinctive in that it is built upon another, in which studen
 
 #### "Blogging about Duffy's Manuscripts" 
 ![screenshot](images/blogging-Croxall-instructions.png)
-
 * Artifact Type: Assignment
 * Source URL: [http://www.briancroxall.net/dh/assignments/blogging-about-duffys-manuscripts/](http://www.briancroxall.net/dh/assignments/blogging-about-duffys-manuscripts/)
 * Copy of the Artifact: Blog hosted on Croxall's website on the Wordpress platform. As of 2/21/2016 student work is publicly viewable.
@@ -65,7 +62,6 @@ for adjusting grading of the overall blogging assignment if a student does so. O
 
 #### "Thinking Goodly: Introduction to Ethics" 
 ![screenshot](images/blogging-Gorges-site.png)
-
 * Artifact Type: Course site with blog comments and links
 * Source URL: [https://boonebgorges.wordpress.com/2008/11/20/in-the-blogs-11202008/](https://boonebgorges.wordpress.com/2008/11/20/in-the-blogs-11202008/)
 * Copy of the Artifact: Blog hosted by Gorges on a course-specific website on the Wordpress.com platform. As of 2/21/2016 only some student work is publicly viewable (several students have deleted their blogs).
@@ -75,7 +71,6 @@ While this assignment from 2009 is old by digital pedagogy standards, Gorges's u
 
 #### "Digging into the Digital" 
 ![screenshot](images/blogging-Jakacki1-description.png)
-
 * Artifact Type: Assignment and rubric
 * Source URL: [http://diggingdigital.blogs.bucknell.edu/reflection-posts/](http://diggingdigital.blogs.bucknell.edu/reflection-posts/)
 * Copy of the Artifact: Blog hosted by the University in the Wordpress platform. As of 2/21/2016 student work is publicly viewable.
@@ -85,7 +80,6 @@ This semester-long assignment (five posts) is a reflection/project presentation 
 
 #### Title of Artifact: "Shakespeare's (English) Histories”
 ![screenshot](images/blogging-Jakacki2-description.png)
-
 * Artifact Type: Assignment and rubric
 * Source URL: [http://blogs.iac.gatech.edu/henriad/short-research-project/](http://blogs.iac.gatech.edu/henriad/short-research-project/)
 * Copy of the Artifact: Course site hosted by the University in the Wordpress platform. As of 2/21/2016 the course site with assignment descriptions is publicly viewable; student work is private.
@@ -95,7 +89,6 @@ This is one of two blog assignments in the course and is related to a research p
 
 #### "Media, Materiality, and Archives" 
 ![screenshot](images/blogging-Klein-syllabus.png)
-
 * Artifact Type: Syllabus
 * Source URL: [http://blogs.iac.gatech.edu/archives16/syllabus/](http://blogs.iac.gatech.edu/archives16/syllabus/)
 * Copy of the Artifact: Course site hosted by the University in the Wordpress platform. As fo 2/21/2016 student work is visible. 
@@ -105,9 +98,8 @@ Klein's assignment demonstrates how blogs can form complex collaborative writing
 
 Students are broken into four groups; each group has a different task each week of a cycle: they serve as First Readers, Respondents, or Searchers (the fourth group gets a week off). Klein outlines what these tasks consist of, and how each student's work will be assessed per cycle (there are two cycles of 12 possible points each). In reading student work, it appears that blog writing is rooted in weekly readings(11), however the prompts are available only via Georgia Tech's LMS and so not available for review. This is a complex assignment, one better suited for an instructor who has experience assigning collaborative online writing. Commitment to explaining different tasks would be crucial for student success for an assignment worth 24% of the course grade.
 
-### "Selfies, Snapchat, & Cyberbullies: Coming of Age Online" 
+#### "Selfies, Snapchat, & Cyberbullies: Coming of Age Online" 
 ![screenshot](images/blogging-Posner-overview.png)
-
 * Artifact Type: Assignment
 * Source URL: [http://miriamposner.com/dh150w15/assignments/weekly-blog-posts/](http://miriamposner.com/dh150w15/assignments/weekly-blog-posts/)
 * Copy of Artifact: Blog hosted on Posner's website on the Wordpress platform. As of 2/21/2016 student work is publicly viewable.
@@ -115,9 +107,8 @@ Students are broken into four groups; each group has a different task each week 
 
 In this clear, straightforward weekly assignment students submit a 300-400 word blog post that brings course readings in line with media that students encounter in daily life. Posts are submitted early in the week in advance of class; Posner instructs students to include some form of media or link that refers to the media item the writer describes, with an explanation of how their experience with the thing relates to the reading. Students post two substantial comments on classmates' work. The rubric is simple but evaluation is intentionally vague: Posner explains what she expects with a link to examples of other students' posts from a previous course. The assignment is tied to her Contract Grading system. Posts apparently are marked as complete. This assignment would be easy to adapt to many courses, and the focus on student self-evaluation addresses concerns about granular feedback of many blog assignments.
 
-### "History & Future of the Book" 
+#### "History & Future of the Book" 
 ![screenshot](images/blogging-Sample-guidelines.png)
-
 * Artifact Type: Assignment
 * Source URL: [http://sites.davidson.edu/dig350/guidelines/](http://sites.davidson.edu/dig350/guidelines/)
 * Copy of Artifact: Blog hosted on University website on the Wordpress platform. As of 2/21/2016 student work is publicly viewable.
@@ -129,7 +120,6 @@ This type of assignment is easily adaptable to various course environments. The 
 
 #### "Tools, Techniques & Culture" 
 ![screenshot](images/blogging-Sayers-description.png)
-
 * Artifact type: Assignment
 * Source URL: [http://jenteryteaches.com/2011/150/assignments/](http://jenteryteaches.com/2011/150/assignments/)
 * Copy of Artifact: Blog hosted by Sayers on a Wordpress platform (unclear if this is hosted on the university's server). As of 2/21/2016 student work is password-protected.
@@ -141,7 +131,6 @@ Entries and commentaries comprise a significant (30%) portion of the student gra
 
 #### "Virtually London: Literature and Laptops" 
 ![screenshot](images/blogging-Swafford-rubric.png)
- 
 * Artifact Type: Rubric
 * Source URL: [https://hawksites.newpaltz.edu/virtuallylondon/grading-rubric/](https://hawksites.newpaltz.edu/virtuallylondon/grading-rubric/)
 * Copy of Artifact: Blog hosted by the University in the Wordpress platform. As of 2/21/2016 student work is publicly viewable.
@@ -153,13 +142,13 @@ The Blogging Rubric is clearly articulated: evaluation is on a four-point scale.
 
 ## RELATED MATERIALS
 
-* Croxall, Brian. "Assignments and Architecture." Video recording. Penn State Liberal Arts Scholarship and Technology Summit, 2014. 27 February 2016. [https://www.youtube.com/watch?v=xHAfQ9fEJiU](https://www.youtube.com/watch?v=xHAfQ9fEJiU).
+Croxall, Brian. "Assignments and Architecture." Video recording. Penn State Liberal Arts Scholarship and Technology Summit, 2014. 27 February 2016. [https://www.youtube.com/watch?v=xHAfQ9fEJiU](https://www.youtube.com/watch?v=xHAfQ9fEJiU).
 
-* Gorges, Boone. "Hub-and-Spoke Blogging with Lots of Students". 2009. Web. 27 February 2016. [https://teleogistic.net/2009/08/20/hub-and-spoke-blogging-with-lots-of-students/](https://teleogistic.net/2009/08/20/hub-and-spoke-blogging-with-lots-of-students/) 
+Gorges, Boone. "Hub-and-Spoke Blogging with Lots of Students". 2009. Web. 27 February 2016. [https://teleogistic.net/2009/08/20/hub-and-spoke-blogging-with-lots-of-students/](https://teleogistic.net/2009/08/20/hub-and-spoke-blogging-with-lots-of-students/) 
 
-* McClurcken, Jeff and Julie Meloni. "'How Are You Going to Grade This?' Evaluating Classroom Blogs." Profhacker - Chronicle of Higher Education. 21 June 2010. 27 February 2016. [http://chronicle.com/blogs/profhacker/how-are-you-going-to-grade-this-evaluating-classroom-blogs/24935](http://chronicle.com/blogs/profhacker/how-are-you-going-to-grade-this-evaluating-classroom-blogs/24935) 
+McClurcken, Jeff and Julie Meloni. "'How Are You Going to Grade This?' Evaluating Classroom Blogs." Profhacker - Chronicle of Higher Education. 21 June 2010. 27 February 2016. [http://chronicle.com/blogs/profhacker/how-are-you-going-to-grade-this-evaluating-classroom-blogs/24935](http://chronicle.com/blogs/profhacker/how-are-you-going-to-grade-this-evaluating-classroom-blogs/24935) 
 
-* Sample, Mark. "Pedagogy and the Class Blog". samplereality.com August 14, 2009. Web. 27 February 2016. [http://www.samplereality.com/2009/08/14/pedagogy-and-the-class-blog/](http://www.samplereality.com/2009/08/14/pedagogy-and-the-class-blog/)
+Sample, Mark. "Pedagogy and the Class Blog". samplereality.com August 14, 2009. Web. 27 February 2016. [http://www.samplereality.com/2009/08/14/pedagogy-and-the-class-blog/](http://www.samplereality.com/2009/08/14/pedagogy-and-the-class-blog/)
 
 ## WORKS CITED
 Cordell, Ryan. "Texts, Maps, Networks: Digital Literary Studies." [http://f14tmn.ryancordell.org/](http://f14tmn.ryancordell.org/). Web. Accessed February 2016. 
