@@ -13,7 +13,7 @@ publisher: Modern Language Association
 type: book
 ---
 
-# CLASSROOM (Draft)
+# Classroom
  
 ### Joyce R. Walker
 Illinois State University 
@@ -54,7 +54,6 @@ This section includes three artifacts. The first is a teacher-resource blog by J
 
 #### The Cult of Pedagogy: Classroom Eye Candy
 ![screenshot](images/Classroom_Artifact_1_Classroom_Eye_Candy.png)
-
 * Source: [http://www.cultofpedagogy.com/category/classroom-design/](http://www.cultofpedagogy.com/category/classroom-design/)
 * Creators: Jennifer Gonzalez
 
@@ -62,7 +61,6 @@ Classroom Eye Candy is a relatively new section of a teacher-resource blog creat
 
 #### Learning Spaces
 ![screenshot](images/Classroom_Artifact_2_Learning_Spaces.png)
-
 * Source: [http://www.educause.edu/research-and-publications/books/learning-spaces](http://www.educause.edu/research-and-publications/books/learning-spaces)
 * Creators: Diana G. Oblinger, Editor
 
@@ -70,8 +68,7 @@ This edited collection of articles, published by Educause, is available as a fre
 
 #### The Impact of Classroom Design On Student Learning
 ![screenshot](images/Classroom_Artifact_3_Impact_of_Design.png)
-
-* Source: http://www.sciencedirect.com/science/article/pii/S0360132315000700
+* Source: [http://www.sciencedirect.com/science/article/pii/S0360132315000700](http://www.sciencedirect.com/science/article/pii/S0360132315000700)
 * Creators: Peter Barrett, Fay Davies, Yufan Zhang & Lucinda Barrett 
 
 This study found that differences in physical environments had a measurable impact on student learning. The study operationalized components related to aspects of the environment such as air quality and light as well as issues such as available stimulation and flexibility of learning space. Because we often think of space in terms of furniture and other tools, this article could be used (probably not for student below grade 9) to discuss how other kinds of environmental issues impact learning. Combined with the “Learning Spaces” link (above), this article could be used as part of readings that accompany an ethnographic/observation-based assignments which ask students to consider the design of learning spaces.
@@ -82,7 +79,6 @@ The following artifacts focus on how technology can be used to enhance classroom
 
 #### Classroom Design Matters
 ![screenshot](images/Classroom_Artifact_4_Classroom_Design_Matters.png)
-
 * Source: [http://kerileebeasley.com/2015/08/16/classroom-design-matters/](http://kerileebeasley.com/2015/08/16/classroom-design-matters/)
 * Creators: Keri-Lee Beasley
 
@@ -90,16 +86,14 @@ This blog site by digital literacy coach, Keri-Lee Beasley, includes a post titl
 
 #### "Space, The Final Frontier" and "Possible Futures" 
 ![screenshot](images/Classroom_artifact_5_Stephen_Heppell.png)
-
-* Sources: https://www.youtube.com/watch?v=kemWMuaHjBs and https://www.youtube.com/watch?v=HpwTV0iTG5k 
+* Sources: [https://www.youtube.com/watch?v=kemWMuaHjBs and https://www.youtube.com/watch?v=HpwTV0iTG5k](https://www.youtube.com/watch?v=kemWMuaHjBs and https://www.youtube.com/watch?v=HpwTV0iTG5k) 
 * Creator: Stephen Heppell
 
 These two videos by Stephen Heppell are really thought provoking resources for thinking about the design of learning spaces in ways that move beyond not only the online/face-to-face divide but our basic understanding of classrooms as "four wall" spaces. As Heppell notes, "If you say to a group of students, 'Bring in a piece of furniture from home or from your digs that you think will improve your learning,' not one of them will bring in a hard kitchen chair. You know, they’ll bring in comfortable chairs, they’ll bring in chairs where they can work with others" (n. pag.). Heppell offers both some ideas about how learning spaces are currently evolving and a look at the possible future of learning space design. Since both videos are relatively short, they could be viewed in class or assigned about out-of-class work to facilitate discussions about how learning happens. Again, especially for students in the humanities, conversations about the kinesthetic aspects of learning can be critical as a way to help students think beyond a narrowly constructed understanding about how knowledge evolves in different individuals and institutions over time.
 
 #### "Clicks & Bricks: When Digital, Learning and Physical Space Meet" and "The Seven Spaces of Technology in School Environments" 
 ![screenshot](images/Classroom_artifact_6_Ewan_McIntosh.png)
-
-* Sources:http://edu.blogs.com/edublogs/2010/10/-cefpi-clicks-bricks-when-digital-learning-and-space-met.html and https://vimeo.com/15945912
+* Sources:[http://edu.blogs.com/edublogs/2010/10/-cefpi-clicks-bricks-when-digital-learning-and-space-met.html](http://edu.blogs.com/edublogs/2010/10/-cefpi-clicks-bricks-when-digital-learning-and-space-met.html) and [https://vimeo.com/15945912](https://vimeo.com/15945912)
 * Creator: Ewan McIntosh
 
 In both of these artifacts (but especially the video), Ewan McIntosh expands on the notion of the six spaces of social media, originally developed by Matt Locke. McIntosh adds a seventh component of what he calls "life in digital spaces" and then superimposes these concepts onto an analysis of learning spaces more generally. On his blog, McIntosh develops these ideas further and offers a range of resources for thinking about the interrelation of the physical and virtual spaces where people live, work, and learn. McIntosh's analyses offer an interesting focus on learning activity as the central component around which learning spaces can be designed. Both the McIntosh and Heppell videos are great tools for college-level students in the humanities to begin thinking about space and learning in more complex ways.
@@ -108,8 +102,7 @@ In both of these artifacts (but especially the video), Ewan McIntosh expands on 
 
 #### Learning Spaces Course Plan 
 ![screenshot](images/Classroom_Artifact_7_Learning_spaces_syllabus.png)
-
-* Source: https://drive.google.com/folderview?id=0B0vrL-DffM_dZ200b1FPYnR5Ujg&usp=sharing
+* Source: [https://drive.google.com/folderview?id=0B0vrL-DffM_dZ200b1FPYnR5Ujg&usp=sharing](https://drive.google.com/folderview?id=0B0vrL-DffM_dZ200b1FPYnR5Ujg&usp=sharing)
 * Creator: Joyce R. Walker
 
 The following course plan is designed for a course that takes activity theory and learning spaces as its two key themes. The course content is designed for an upper level undergraduate or graduate course, where "learning design" is the focus. Such a course might be adapted as part of a "teaching with technology" course, or as a part of a graduate-level training course for instructors. Assignments in this course could also be adapted to a range of teacher-training courses for pre-service K-12 instructors. In addition, assignments from this syllabus could also be adapted for all kinds of courses where the instructor wants participants to think about the wide range of tools and spaces that can impact learning, whether the further object of this kind of discussion is to help participants more carefully consider their own learning or to help participants who are planning to teach different kinds of subject matter in a wide range of learning settings. The readings for this course offer a much clearer articulation of the connection between activity theory and how it can help us to consider the complex ways people learn in various environments. It also includes an additional reading list.
@@ -120,68 +113,65 @@ Although this topic is also addressed by curators of other keywords in this coll
 
 #### There’s No App for Good Teaching: Eight Ways to Think about Tech
 ![screenshot](images/Classroom_artifact_8_No_Good_App_for_Teaching.png) 
-
-* Source: http://ideas.ted.com/theres-no-app-for-good-teaching/
+* Source: [http://ideas.ted.com/theres-no-app-for-good-teaching/](http://ideas.ted.com/theres-no-app-for-good-teaching/)
 * Creators: Laura Moorhead
 
 This TED article focuses on thinking about technology wisely in the classroom. It is a useful article for instructors because it helps them to consider how to use technologies that will specifically encourage and facilitate learning in areas that will have the most benefit for their students. This article would also be useful as a reading in classes designed for teacher-training.
 
 #### Free Tech for Teachers 
 ![screenshot](images/Classroom_artifact_9_Bryne_Free_Tech_For_Teachers.png)
-
-* Source: http://www.freetech4teachers.com/
+* Source: [http://www.freetech4teachers.com/](http://www.freetech4teachers.com/)
 * Creator: Richard Byrne
 
 Once instructors have considered what kinds of learning activities they might want to foster through the use of technology, sites like this one can offer a wide range of choices for technologies that can be used without cost. I find that browsing sites like this one (and the next artifact as well) can help generate ideas about learning activities. In this way the possible tools and the learning goals can move into a more productive synergy. 
 
 #### Tech for Teachers
 ![screenshot](images/Classroom_artifact_10_History_Tech_for_Teachers.png)
-
-* Source: http://teachinghistory.org/digital-classroom/tech-for-teachers
+* Source: [http://teachinghistory.org/digital-classroom/tech-for-teachers](http://teachinghistory.org/digital-classroom/tech-for-teachers)
 * Creators: The Roy Rosenzweig Center for History and New Media at George Mason University
 
 From the National History Education Clearinghouse, this site offers a great range of different computer technologies that instructors can used. When considered within the framework of "how does this technology impact the activity of learning," the various tools become an interesting part of any instructors considerations of the kind of classroom environment they are working to create. This site, and the "Free Tech" site (previous) are really just lists of resources. Instructors can browse to find tools that might be useful in the classroom, but these sites could also be an incredibly useful resources for classes that involve teacher training in the humanities (whether working with teachers who will teach in university or K-12 settings). Sites like this can be used (see the Course Syllabus in section three for more information) for assignments where students create course plans that account for both digital learning tools and the design of physical learning spaces.
 
 ## RELATED MATERIALS
 
-Handy Jam (for the W.A. Schaffer Pen Company). “The Twenty-six Old Characters.” Original Video, 1947. (made available through the Prelinger Internet Archive).  Feb. 16, 2016. https://archive.org/details/TwentySi1947 
+Handy Jam (for the W.A. Schaffer Pen Company). “The Twenty-six Old Characters.” Original Video, 1947. (made available through the Prelinger Internet Archive).  Feb. 16, 2016. [https://archive.org/details/TwentySi1947](https://archive.org/details/TwentySi1947 ) 
 
-Mitra, Sugata. "Kids Can Teach Themselves." TED: Ideas Worth Spreading. TED Conferences LLC, Feb. 2007. Web. 19 Feb. 2016. <https://www.ted.com/talks/sugata_mitra_shows_how_kids_teach_themselves?language=en>. 
+Mitra, Sugata. "Kids Can Teach Themselves." TED: Ideas Worth Spreading. TED Conferences LLC, Feb. 2007. Web. 19 Feb. 2016. [https://www.ted.com/talks/sugata_mitra_shows_how_kids_teach_themselves?language=en](https://www.ted.com/talks/sugata_mitra_shows_how_kids_teach_themselves?language=en). 
 
-Shalaway, Linda. "Classroom Organization: The Physical Environment."Teachers: Where Teachers Come First. Scholastic, Inc. Web. 19 Feb. 2016. <http://www.scholastic.com/teachers/article/classroom-organization-physical-environment>.
+Shalaway, Linda. "Classroom Organization: The Physical Environment."Teachers: Where Teachers Come First. Scholastic, Inc. Web. 19 Feb. 2016. [http://www.scholastic.com/teachers/article/classroom-organization-physical-environment](http://www.scholastic.com/teachers/article/classroom-organization-physical-environment).
 
-TED Topics: Education (a Channel for TED talks related to education and learning): http://www.ted.com/topics/education 
+TED Topics: Education (a Channel for TED talks related to education and learning): [http://www.ted.com/topics/education](http://www.ted.com/topics/education ) 
 
-The Word Bird. "Activity Theory: Because Things Are Actors Too." YouTube. YouTube, 20 Aug. 2014. Web. 19 Feb. 2016. <https://www.youtube.com/watch?v=mb-3ufwK6U0>. 
+The Word Bird. "Activity Theory: Because Things Are Actors Too." YouTube. YouTube, 20 Aug. 2014. Web. 19 Feb. 2016. [https://www.youtube.com/watch?v=mb-3ufwK6U0](https://www.youtube.com/watch?v=mb-3ufwK6U0). 
  
-Wright-Dottore, Michelle. "CHAT: How Sweet It Is! Mapping Out the Activity of Writing." YouTube. The Illinois State University Writing Program, 10 Nov. 2015. Web. 19 Feb. 2016. <https://www.youtube.com/watch?v=MJya9zQoMuw>. 
+Wright-Dottore, Michelle. "CHAT: How Sweet It Is! Mapping Out the Activity of Writing." YouTube. The Illinois State University Writing Program, 10 Nov. 2015. Web. 19 Feb. 2016. [https://www.youtube.com/watch?v=MJya9zQoMuw](https://www.youtube.com/watch?v=MJya9zQoMuw). 
 
 ## WORKS CITED 
 
 Barret, Peter, Fay Davis, Yufan Zhang, Lucinda Barrett. “The impact of classroom design on pupils' learning: Final results of a holistic, multi-level analysis.” Building and Environment. Volume 89, July 2015, Pages 118–133. 
 
-Beasley, Keri-Lee. "Classroom Design Matters." Tip of the Iceberg. 16 Aug. 2015. Web. 19 Feb. 2016. <http://kerileebeasley.com/2015/08/16/classroom-design-matters/>.
+Beasley, Keri-Lee. "Classroom Design Matters." Tip of the Iceberg. 16 Aug. 2015. Web. 19 Feb. 2016. [http://kerileebeasley.com/2015/08/16/classroom-design-matters/](http://kerileebeasley.com/2015/08/16/classroom-design-matters/).
 
-Byrne, Richard. "Free Technology for Teachers." Free Technology for Teachers. Feb. 2016. Web. 19 Feb. 2016. <http://www.freetech4teachers.com/>. 
+Byrne, Richard. "Free Technology for Teachers." Free Technology for Teachers. Feb. 2016. Web. 19 Feb. 2016. [http://www.freetech4teachers.com/](http://www.freetech4teachers.com/). 
 
-Gonzalez, Jennifer. "Classroom Design." Cult of Pedagogy. 19 Nov. 2015. Web. 19 Feb. 2016. <http://www.cultofpedagogy.com/category/classroom-design/>.
+Gonzalez, Jennifer. "Classroom Design." Cult of Pedagogy. 19 Nov. 2015. Web. 19 Feb. 2016. [http://www.cultofpedagogy.com/category/classroom-design/](http://www.cultofpedagogy.com/category/classroom-design/).
 
-Heppell, Stephen. "Stephen Heppell: Possible Futures." 9 Nov. 2011. Web. 19 Feb. 2016. <https://www.youtube.com/watch?v=HpwTV0iTG5k>.
+Heppell, Stephen. "Stephen Heppell: Possible Futures." 9 Nov. 2011. Web. 19 Feb. 2016. [https://www.youtube.com/watch?v=HpwTV0iTG5k](https://www.youtube.com/watch?v=HpwTV0iTG5k).
 
-Heppell, Stephen. "Space, The Final Frontier." 17 Apr. 2009. Web. 19 Feb. 2016. <https://www.youtube.com/watch?v=kemWMuaHjBs>.
+Heppell, Stephen. "Space, The Final Frontier." 17 Apr. 2009. Web. 19 Feb. 2016. [https://www.youtube.com/watch?v=kemWMuaHjBs](https://www.youtube.com/watch?v=kemWMuaHjBs).
 
-Locke, Matt. "Six Spaces of Social Media." TEST: Notes on How to Make Culture in the Age of Digital Attention. 10 Aug. 2007. Web. 19 Feb. 2016. <https://test.org.uk/2007/08/10/six-spaces-of-social-media/>.
+Locke, Matt. "Six Spaces of Social Media." TEST: Notes on How to Make Culture in the Age of Digital Attention. 10 Aug. 2007. Web. 19 Feb. 2016. [https://test.org.uk/2007/08/10/six-spaces-of-social-media/](https://test.org.uk/2007/08/10/six-spaces-of-social-media/).
 
-McIntosh, Ewan. "The Seven Spaces of Technology in School Environments."Vimeo. 18 Oct. 2010. Web. 19 Feb. 2016. <https://vimeo.com/15945912>.
+McIntosh, Ewan. "The Seven Spaces of Technology in School Environments."Vimeo. 18 Oct. 2010. Web. 19 Feb. 2016. [https://vimeo.com/15945912](https://vimeo.com/15945912).
 
-McIntosh, Ewan. "Clicks & Bricks: When Digital, Learning and Physical Space Meet." Design Thinking, Education & Learning. 03 Oct. 2010. Web. 19 Feb. 2016. <http://edu.blogs.com/edublogs/2010/10/-cefpi-clicks-bricks-when-digital-learning-and-space-met.html>. 
+McIntosh, Ewan. "Clicks & Bricks: When Digital, Learning and Physical Space Meet." Design Thinking, Education & Learning. 03 Oct. 2010. Web. 19 Feb. 2016. [http://edu.blogs.com/edublogs/2010/10/-cefpi-clicks-bricks-when-digital-learning-and-space-met.html](http://edu.blogs.com/edublogs/2010/10/-cefpi-clicks-bricks-when-digital-learning-and-space-met.html). 
 
-Moorehead, Laura. "There's No App for Good Teaching." Ideas.ted.com. 03 Sept. 2014. Web. 19 Feb. 2016. <http://ideas.ted.com/theres-no-app-for-good-teaching/>. 
+Moorehead, Laura. "There's No App for Good Teaching." Ideas.ted.com. 03 Sept. 2014. Web. 19 Feb. 2016. [http://ideas.ted.com/theres-no-app-for-good-teaching/](http://ideas.ted.com/theres-no-app-for-good-teaching/). 
 
-Oblinger, Diana, ed. Learning Spaces. Louisville, CO: Educause, 2006. Web. 19 Feb. 2016. <http://www.educause.edu/research-and-publications/books/learning-spaces>.
+Oblinger, Diana, ed. Learning Spaces. Louisville, CO: Educause, 2006. Web. 19 Feb. 2016. [http://www.educause.edu/research-and-publications/books/learning-spaces](http://www.educause.edu/research-and-publications/books/learning-spaces).
 
-Prior, Paul, Janine Solberg, Patrick Berry, Hannah Bellwoar, Bill Chewning, Karen J. Lunsford, Liz Rohan, Kevin Roozen, Mary P. Sheridan-Rabideau, Jody Shipka, Derek Van Ittersum, and Joyce R. Walker. "Re-situating and Re-mediating the Canons: A Cultural-Historical Remapping of Rhetorical Activity." Kairos 11.3 (2007). Kairos: A Journal of Rhetoric, Technology, and Pedagogy. Karios, 2007. Web. 19 Feb. 2016. <http://kairos.technorhetoric.net/11.3/binder.html?topoi/prior-et-al/index.html>.
+Prior, Paul, Janine Solberg, Patrick Berry, Hannah Bellwoar, Bill Chewning, Karen J. Lunsford, Liz Rohan, Kevin Roozen, Mary P. Sheridan-Rabideau, Jody Shipka, Derek Van Ittersum, and Joyce R. Walker. "Re-situating and Re-mediating the Canons: A Cultural-Historical Remapping of Rhetorical Activity." Kairos 11.3 (2007). Kairos: A Journal of Rhetoric, Technology, and Pedagogy. Karios, 2007. Web. 19 Feb. 2016. [http://kairos.technorhetoric.net/11.3/binder.html?topoi/prior-et-al/index.html](http://kairos.technorhetoric.net/11.3/binder.html?topoi/prior-et-al/index.html).
 
-"Tech for Teachers." Teaching History.org. The National History Education Clearinghouse, Feb. 2016. Web. 19 Feb. 2016. <http://teachinghistory.org/digital-classroom/tech-for-teachers>. 
+"Tech for Teachers." Teaching History.org. The National History Education Clearinghouse, Feb. 2016. Web. 19 Feb. 2016. [http://teachinghistory.org/digital-classroom/tech-for-teachers](http://teachinghistory.org/digital-classroom/tech-for-teachers). 
 
-Walker, Joyce R. "Classroom_Activity Syllabus and Materials."Classroom_Activity. 1 Feb. 2016. Web. 19 Feb. 2016. <https://drive.google.com/folderview?id=0B0vrL-DffM_dZ200b1FPYnR5Ujg> 
+Walker, Joyce R. "Classroom_Activity Syllabus and Materials."Classroom_Activity. 1 Feb. 2016. Web. 19 Feb. 2016. [https://drive.google.com/folderview?id=0B0vrL-DffM_dZ200b1FPYnR5Ujg](https://drive.google.com/folderview?id=0B0vrL-DffM_dZ200b1FPYnR5Ujg). 
