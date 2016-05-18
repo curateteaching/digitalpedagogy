@@ -28,45 +28,41 @@ LaGuardia Community College, CUNY
 --- 
 ## CURATORIAL STATEMENT
 
-Assessment is one of the most widely used terms in higher education discourse today. Peter Ewell says “*assessment* means different things to different people” (7). It encompasses everything from faculty evaluation of student work in a single course to program-level curricula review to institutional-level accreditation to emerging cross-institutional criteria. 
+The modern assessment movement beginning in 1985 has its roots in differing practice traditions. Peter Ewell notes that the “values and methodological traditions” between these practices “are frequently contradictory, revealing conceptual tensions that have fueled assessment discussions ever since” (6). The central tension is between quantitative and qualitative data.
 
-**Defining Assessment**
-
-The modern assessment movement beginning in 1985 has its roots in differing “practice traditions.” Peter Ewell notes that the “values and methodological traditions” between these practices “are frequently contradictory, revealing conceptual tensions that have fueled assessment discussions ever since” (6). The central tension is between quantitative and qualitative data.
-
-While there is no universal agreement or measure on how we know what students learn, Thomas Angelo defines assessment as an “ongoing process aimed at understanding and improving student learning. It involves making our expectations explicit and public; setting appropriate criteria and high standards for learning quality; systematically gathering, analyzing, and interpreting evidence to determine how well performance matches those expectations and standards; and using the resulting information to document, explain, and improve performance” (7). All assessment practices involves the collection and analysis of student work against a set of standards.
+While there is no universal agreement or measure on understanding what students learn, Thomas Angelo defines assessment as an “ongoing process aimed at understanding and improving student learning. It involves making our expectations explicit and public; setting appropriate criteria and high standards for learning quality; systematically gathering, analyzing, and interpreting evidence to determine how well performance matches those expectations and standards; and using the resulting information to document, explain, and improve performance” (7). All assessment practices involves the collection and analysis of student work against a set of standards.
 
 **The Assessment Gestalt**
 
-Assessment connects the classroom to the institution in a set of shared learning goals representative of the institution as a whole, what I will refer to as the assessment gestalt. Angelo explains, “When it is embedded effectively within larger institutional systems, assessment can help us focus our collective attention, examine our assumptions, and create a shared academic culture dedicated to assuring and improving the quality of higher education” (7). Classroom assessment is intimately related to the work of the institution as a key constituent element. The assessment gestalt seeks to define student learning both incrementally and longitudinally over the course of a college career finding the connections between learning in an individual course, a major, and at the culmination of receiving a degree.
+Assessment connects the classroom to the institution in a set of shared learning goals representative of the institution as a whole, the assessment gestalt. Angelo explains, “When it is embedded effectively within larger institutional systems, assessment can help us focus our collective attention, examine our assumptions, and create a shared academic culture dedicated to assuring and improving the quality of higher education” (7). Classroom assessment is intimately related to the work of the institution as a key constituent element. The assessment gestalt seeks to define student learning both incrementally and longitudinally over the course of a college career finding the connections between learning in an individual course, a major, and at the culmination of receiving a degree.
 
 **Categories of Assessment**
 
-While programmatic, institutional and cross-institutional assessment are key pieces of the assessment gestalt, this discussion is focused on the classroom and three key categories of assessment. 
+While programmatic, institutional, and cross-institutional assessment are key pieces of the assessment gestalt, this discussion is focused on the classroom and three key categories of assessment. 
 
-*Formative assessments* provide gradual, developmental feedback. John Bean’s *Engaging Ideas* offers a thorough overview of low-stakes assignments such as scaffolding, reflective writing, surveys, and minute papers.
+- *Formative assessments* provide gradual, developmental feedback. For example, John Bean’s *Engaging Ideas* offers a thorough overview of low-stakes assignments such as scaffolding, reflective writing, surveys, and minute papers.
 
-*Summative assessments* represent the culminating judgment of a student’s work on high-stakes assignments such as exams, final papers (without staging or drafts), and portfolios. 
+- *Summative assessments* represent the culminating judgment of a student’s work on high-stakes assignments such as exams, final papers (without staging or drafts), and portfolios. 
 
-*Self-assessments* are assessments provided by the learner in dialogue with a faculty member. 
+- *Self-assessments* are assessments provided by the learner in dialogue with a faculty member. 
 
 **Practices of Assessment**
 
- Practices of assessment demonstrate an intentional way of thinking, demonstrating, and understanding learning as a dynamic, integrative process. 
+Practices of assessment demonstrate an intentional way of thinking, demonstrating, and understanding learning as a dynamic, integrative process. 
 
-*Design*: Assessment design does not focus on a single product but the relationship between all of the learning in a course. Linda Suskie recommends beginning with student learning outcomes when designing a course (117). Intentional course design asks what skills and knowledge a student will need to demonstrate their learning experiences (sometimes known as backwards design) and embeds them strategically throughout the course.
+- *Design*: Assessment design does not focus on a single product but the relationship between all of the learning in a course. Linda Suskie recommends beginning with student learning outcomes when designing a course (117). Intentional course design asks what skills and knowledge a student will need to demonstrate learning experiences (sometimes known as backwards design) and embeds these strategically throughout the course.
 
-*Communication*: Student learning outcomes, rubrics, and other clearly formulated articulations of faculty expectations are a key to effective assessment. Students need to know what they are working toward.
+- *Communication*: Student learning outcomes, rubrics, and other clearly formulated articulations of faculty expectations are a key to effective assessment. Students need to know what they are working toward.
 
-*Process*: Peggy Maki also refers to assessment as a process which provides the opportunity for students to build on prior learning (33).
+- *Process*: Peggy Maki also refers to assessment as a process which provides the opportunity for students to build on prior learning (33).
 
-*Participation*: Learner-centered assessments shift teaching from lecture to inquiry modes where students are guided through the curriculum. Brian Huot calls this "instructive evaluation" which “requires that we involve the student in all phases of the assessment of her work" (69). This participatory process helps students master the skill of self-evaluation.  
+- *Participation*: Learner-centered assessments shift teaching from lecture to inquiry modes where students are guided through the curriculum. Brian Huot calls this "instructive evaluation" which “requires that we involve the student in all phases of the assessment of her work" (69). This participatory process helps students master the skill of self-evaluation.  
 
-*Inquiry and Professional Development*: Asking what student work shows is an important part of understanding learning. Assessment supports evidence-based changes to improve teaching.
+- *Inquiry and Professional Development*: Asking what student work shows is an important part of understanding learning. Assessment supports evidence-based changes to improve teaching.
 
-*Integration*: The Association of American Colleges and Universities advocates for integrative learning that culminates in “signature work,” independent, integrative projects that allow students to examine real world issues with guidance from faculty members (Peden n. pag.). These project document a range of skills and knowledge across the curriculum.
+- *Integration*: The Association of American Colleges and Universities advocates for integrative learning that culminates in “signature work,” independent, integrative projects that allow students to examine real world issues with guidance from faculty members (Peden n. pag.). These projects document a range of skills and knowledge across the curriculum.
 
-*Technology*: Digital tools have encouraged the development of new ways for students to receive, perform, produce, and share knowledge. As faculty members consider student production of multimodal projects, videos, archival projects, tagging, and code, among others, they often wonder, what is the best way to assess this work? 
+- *Technology*: Digital tools have encouraged the development of new ways for students to receive, perform, produce, and share knowledge. As faculty members consider student production of multimodal projects, videos, archival projects, tagging, and code, among others, they often wonder, what is the best way to assess this work? 
 
 Assessment is particularly important in discussions of digital pedagogy because there are two competing ideologies. One is the fear that technology can automate assessment which is often seen as a direct attack on faculty autonomy (Perelman). Conversely, emerging digital tools can assist with new modes of assessment. 
 
@@ -163,7 +159,7 @@ Staging meaningful reflection can be difficult. Luther’s course relied on the 
 Category: Self-Assessment, Summative Assessment
 Practices: Participation, Inquiry and Professional Development
 
-Heim participated  in an undergraduate digital humanities research team that created metadata for Renaissance Emblem books. Heim's personal narrative provides a self-assessment of key skills and concepts learned in the context of this collaborative research project. Reflection is a key element in participatory assessment. Students are able to articulate their understanding of a project, course, or learning objective and then provide evidence for how they have achieved those goals. Heim discusses the skills she has learned and how she has showcased them in this project, and she also points to future skills that she now knows she needs to learn. Further, this project is a prime example of modeling professional expectations for students as Heim and her Emblem Scholars cohort worked alongside faculty as participatory researchers.  
+Heim participated  in an undergraduate digital humanities research team that created metadata for Renaissance Emblem books. Heim's personal narrative provides a self-assessment of key skills and concepts learned in the context of this collaborative research project. Reflection is a key element in participatory assessment. Students are able to articulate their understanding of a project, course, or learning objective and then provide evidence for how they have achieved those goals. Heim discusses the skills she has learned and how she has showcased them in this project, and she also points to future skills that she now knows she needs to learn. Further, Heim and her Emblem Scholars cohort worked alongside faculty as participatory researchers, which models professional expectations for students.  
 
 ### Are We Who We Think We Are
 ![screenshot](images/assessment-Denatale.png)
