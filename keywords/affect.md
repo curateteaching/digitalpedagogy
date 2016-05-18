@@ -15,8 +15,7 @@ type: book
 # Affect (Draft) 
 ## AUTHOR: Elizabeth Losh
 William and Mary | [Website](http://lizlosh.com) 
----
- 
+--- 
 ##### Publication Status:
 * unreviewed draft
 * **draft version undergoing editorial review**
