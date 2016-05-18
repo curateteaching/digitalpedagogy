@@ -26,6 +26,7 @@ LaGuardia Community College, CUNY
 * draft version undergoing peer-to-peer review
 * published 
 --- 
+
 ## CURATORIAL STATEMENT
 
 The modern assessment movement beginning in 1985 has its roots in differing practice traditions. Peter Ewell notes that the “values and methodological traditions” between these practices “are frequently contradictory, revealing conceptual tensions that have fueled assessment discussions ever since” (6). The central tension is between quantitative and qualitative data.
