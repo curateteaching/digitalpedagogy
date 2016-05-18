@@ -15,16 +15,20 @@ tags:
   - portfolios
   - gamification
 ---
+
 # ASSESSMENT (Draft)
  
 ### J. Elizabeth Clark
 LaGuardia Community College, CUNY
+
 ---
+
 ##### Publication Status:
 * unreviewed draft
-* **draft version undergoing editorial review**
-* draft version undergoing peer-to-peer review
+* draft version undergoing editorial review
+* **draft version undergoing peer-to-peer review**
 * published 
+
 --- 
 
 ## CURATORIAL STATEMENT
