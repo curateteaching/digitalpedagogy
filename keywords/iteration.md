@@ -1,5 +1,4 @@
 ---
-
 title: Digital Pedagogy in the Humanities
 subtitle: Concepts, Models, and Experiments
 chapter: Iteration
@@ -13,7 +12,6 @@ editor:
 publisher: Modern Language Association
 type: book
 tags: 
- 
 ---
 
 # ITERATION (Draft)
