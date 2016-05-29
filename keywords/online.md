@@ -36,105 +36,124 @@ To be fair, much online learning treats online spaces as containers, especially 
 
 This collection of resources is shaped by the educators who have embraced online learning beyond content. These resources, and the educators behind them, elevate new ways of thinking about online-ness and ask students to participate fully and critically in the online experience. They encompass some of the digital literacies considered essential for today’s teachers and learners. Artifacts in this collection are divided into three focus areas: authorship, community/networked participation, and presence/embodiment. Though treated separately, some examples demonstrate the ways in which all three can be addressed in meaningful learning contexts.
 
-__Authorship__
+### Authorship 
 Online authorship is not just writing in online spaces. Implicit in the notion of authorship are the “language, methodology, and training” (Rheingold 31) teachers and learners need to no longer consume what is online, but to author it. Too many technologies and models of online learning relegate the learner to a consumer role and give authorship rights only to the instructor (or sometimes, only to the designer of an online course). Examples in this section push back a plug-and-play view of online spaces and embrace the uncertainty and complexities of digital authorship, including questions raised by “public” authorship, sharing, and remixing.
 
-__Community and networked participation__
+### Community and networked participation
 Perhaps the greatest, and often unrealized, opportunity for meaningful online learning is through connections to people and networks within and outside of a class. Students work in online “walled gardens,” such as Learning Management Systems, and are not encouraged to venture beyond those digital walls to connect to people and networks. Yet those unwalled connections are Gardner Campbell argued, “we must add digitally mediated networked learning to Kuh's [high impact practices] list, because the experience of building and participating within a digitally mediated network of discovery and collaboration is an increasingly necessary foundation for all other forms of experiential learning in a digital age. Moreover, the experience of building and participating within a digitally mediated network of discovery is itself a form of experiential learning…” Resources in this collection provide examples for intentional building and fostering of networks and communities as part of online learning.
 
-__Presence/Embodiment__
+### Presence/Embodiment
 The third area this collection investigates is presence and embodiment. Siân Bayne (105) says, “The distanced, unstable relationship between body and subject with which we engage when we communicate online involves us in modes of identity formation and pedagogical relations which are very different from those which, as learners and teachers, we experience in the face to face classroom.”  The lack of physical embodiment and co-presence may be most detrimental to online learners, as those can contribute to feelings that online learning lacks authenticity or veracity (Land 531). Land noted, “The notion that the visibility of the learner or teacher serves as an anchor of truthfulness or veracity (‘you can look your interlocutor in the eye’) might lead one to conclude that authenticity is dependent upon physical embodiment. It would follow from this line of reasoning, that lack of embodiment renders the cyber space, which is unquestionably a simulated environment, a ‘false’ environment.” 
 
 As expected, questions of embodiment and presence pervade the literature on online learning, highlighting their importance. The disembodied or absent online learner is characterized as a “lurker” and strategies for dealing with lurkers often devolve to compliance (number of logins, number of discussion posts, etc.). Research points to the importance of establishing social, cognitive, and teaching presence in online learning experiences, the integration of which is said to foster a Community of Inquiry (Garrison) among teachers and learners. Examples in this section explore or reimagine presence and provide a sense of eventness for online learning experiences.
 
 ## CURATED ARTIFACTS
 
-### Authorship
+## Authorship
 
-* ds106 Assignment Bank creator
+### ds106 Assignment Bank creator
+![screenshot](images/Online_ds106_AssignmentBank.png)
+
 * Artifact type: Github repository
-* Screenshot: Online_ds106_AssignmentBank.png
-* Source URL: https://github.com/cogdog/ds106bank
+* Source URL: [https://github.com/cogdog/ds106bank](https://github.com/cogdog/ds106bank)
 * Artifact permissions: No specific license noted, but Alan is clearly open to reuse
 * Creator and Affiliation: Alan Levine
-* Annotation: Github provides a unique platform for authorship, collaboration, and peer review; educators are beginning to explore how Github could be used in their classrooms for these purposes. Levine’s Github repository could enable students to author their own Assignments bank and build a community around the assignments they create. The Assignments Bank model has been used by a number of online courses and communities, many of which are listed on Levine's Github page. 
 
-* Fork U! Resource Page
+Github provides a unique platform for authorship, collaboration, and peer review; educators are beginning to explore how Github could be used in their classrooms for these purposes. Levine’s Github repository could enable students to author their own Assignments bank and build a community around the assignments they create. The Assignments Bank model has been used by a number of online courses and communities, many of which are listed on Levine's Github page. 
+
+### Fork U! Resource Page
+![screenshot](images/Online-forku-assignments.png)
+
 * Artifact type: Assignments, guide for learning and using Github
-* Screenshot: Online-forku-assignments.png
-* Source URL: http://oudiglearn.github.io/forku/
+* Source URL: [http://oudiglearn.github.io/forku/](http://oudiglearn.github.io/forku/)
 * Artifact permissions: CC-BY 4.0
 * Creator and Affiliation: Adam Croom, John Stewart / University of Oklahoma
-* Annotation: Github provides a unique platform for authorship, collaboration, and peer review and educators are beginning to explore how Github could be used in their classrooms. This resource, assembled for a presentation at the Online Learning Consortium's Innovate conference, provides low-barrier and forkable activities instructors and/or students can complete. All of the resources on this site are forkable (i.e., they can be copied and reused). Any changes made to a "forked" copy do not impact the original "master" unless a pull request is accepted. Other examples of resources on Github include this [Musicianship syllabus](http://kris.shaffermusic.com/musicianshipResources/), course materials for [Humanizing Technology](https://github.com/karlstolley/ht), assignments for [Fashioning Circuits](https://github.com/fashioning-circuits), and peer assessment activities for a course on [Reproducible Data](https://github.com/rdpeng/RepData_PeerAssessment1). 
 
-* ThoughtVectors in Concept Space syllabus
+Github provides a unique platform for authorship, collaboration, and peer review and educators are beginning to explore how Github could be used in their classrooms. This resource, assembled for a presentation at the Online Learning Consortium's Innovate conference, provides low-barrier and forkable activities instructors and/or students can complete. All of the resources on this site are forkable (i.e., they can be copied and reused). Any changes made to a "forked" copy do not impact the original "master" unless a pull request is accepted. Other examples of resources on Github include this [Musicianship syllabus](http://kris.shaffermusic.com/musicianshipResources/), course materials for [Humanizing Technology](https://github.com/karlstolley/ht), assignments for [Fashioning Circuits](https://github.com/fashioning-circuits), and peer assessment activities for a course on [Reproducible Data](https://github.com/rdpeng/RepData_PeerAssessment1). 
+
+### ThoughtVectors in Concept Space syllabus
+![screenshot](images/Online-thoughtvectors-syllabus.png)
+
 * Artifact type: Syllabus
-* Screenshot: Online-thoughtvectors-syllabus.png
-* Source URL: http://thoughtvectors.net/syllabus/
+* Source URL: [http://thoughtvectors.net/syllabus/](http://thoughtvectors.net/syllabus/)
 * Artifact permissions: Not specifically noted
 * Creator and Affiliation: Gardner Campbell / Virginia Commonwealth University
-* Annotation: This artifact could be considered an example of both authorship and community. Thought Vectors, a course offered at Virginia Commonwealth University, gives each students their own space on the web in the model of [Domain of One's Own](https://medium.com/bright/the-web-we-need-to-give-students-311d97713713#.y7hguujk3). Students participate in the course via their authored environments. Additional information on participation in the community can be found on the [Thought Vectors](http://thoughtvectors.net/how-to-participate/) website.
 
-* Wikity: Bring your bookmarks into the digital age
+This artifact could be considered an example of both authorship and community. Thought Vectors, a course offered at Virginia Commonwealth University, gives each students their own space on the web in the model of [Domain of One's Own](https://medium.com/bright/the-web-we-need-to-give-students-311d97713713#.y7hguujk3). Students participate in the course via their authored environments. Additional information on participation in the community can be found on the [Thought Vectors](http://thoughtvectors.net/how-to-participate/) website.
+
+### Wikity: Bring your bookmarks into the digital age
+![screenshot](images/Online_wikity_bookmarking.png)
+
 * Artifact type: Blog post / guide for using wikity (federated wiki) for bookmarking
-* Screenshot: Online_wikity_bookmarking.png
-* Source URL: https://hapgood.us/2016/03/04/bring-your-bookmarks-into-the-hypertext-age/
+* Source URL: [https://hapgood.us/2016/03/04/bring-your-bookmarks-into-the-hypertext-age/](https://hapgood.us/2016/03/04/bring-your-bookmarks-into-the-hypertext-age/)
 * Artifact permissions: Wikity content is CC-BY-SA
 * Creator and Affiliation: Mike Caulfield, Washington State University - Vancouver
-* Annotation: Wikity is a federated wiki environment created by Mike Caulfield. Mike's writings about the benefits of federated wikis are worth reading. In brief, wikity allows a user to write and maintain individually-controlled wiki pages and to make editable copies of others' wiki pages. According to Caulfield, wikity captures some of the best characteristics of blogs (individual voice and control) with the best characteristics of wikis (collaboration, sharing) by allowing users to maintain connected copies of information. Wikity could be used in an online course for students to create bookmarks and libraries of resources that are connected to resources written by others in their class and outside of their class. 
 
-### Community
+Wikity is a federated wiki environment created by Mike Caulfield. Mike's writings about the benefits of federated wikis are worth reading. In brief, wikity allows a user to write and maintain individually-controlled wiki pages and to make editable copies of others' wiki pages. According to Caulfield, wikity captures some of the best characteristics of blogs (individual voice and control) with the best characteristics of wikis (collaboration, sharing) by allowing users to maintain connected copies of information. Wikity could be used in an online course for students to create bookmarks and libraries of resources that are connected to resources written by others in their class and outside of their class. 
 
-* clMOOC
+## Community
+
+### clMOOC
+![screenshot](images/Online-clmooc-course.png)
+
 * Artifact type: Online community and course
-* Screenshot: Online-clmooc-course.png
-* Source URL: http://clmooc.educatorinnovator.org/2015/
+* Source URL: [http://clmooc.educatorinnovator.org/2015/](http://clmooc.educatorinnovator.org/2015/)
 * Artifact permissions: CC-BY-SA 4.0
 * Creator and Affiliation: Educator Innovator / National Writing Project
-* Annotation: This artifact shows how an online course can be designed to intentionally foster community. Every activity, every design choice, centers on the community. clMOOC makes explicit its goal of connected learning and provides ample opportunities for learners to connect (see examples of Twitter chats, Make Cycles, Blog Hub, Make Bank, and social tools). 
 
-* FemTechNet: Key Learning Projects
+This artifact shows how an online course can be designed to intentionally foster community. Every activity, every design choice, centers on the community. clMOOC makes explicit its goal of connected learning and provides ample opportunities for learners to connect (see examples of Twitter chats, Make Cycles, Blog Hub, Make Bank, and social tools). 
+
+### FemTechNet: Key Learning Projects
+![screenshot](images/Online_FemTechNet-Assignments.png)
+
 * Artifact type: Assignments
-* Screenshot: Online_FemTechNet-Assignments.png
-* Source URL: http://femtechnet.org/get-involved/self-directed-learners/key-learning-project/
+* Source URL: [http://femtechnet.org/get-involved/self-directed-learners/key-learning-project/](http://femtechnet.org/get-involved/self-directed-learners/key-learning-project/)
 * Artifact permissions: Copyright FemTechNet, but assignments appear to be available for reuse
 * Creator and Affiliation: FemTechNet organizers
-* Annotation: FemTechNet is called a DoCC -- Distributed Open Collaborative Course. Like the clMOOC example, FemTechNet aims to foster community and provides key learning assignments that are shared across the various institutions where the course is being offered. 
 
-* The Daily Connector
+FemTechNet is called a DoCC -- Distributed Open Collaborative Course. Like the clMOOC example, FemTechNet aims to foster community and provides key learning assignments that are shared across the various institutions where the course is being offered. 
+
+### The Daily Connector
+![screenshot](images/Online_ccourses_dailyconnector.png)
+
 * Artifact type: Assignments
-* Screenshot: Online_ccourses_dailyconnector.png
 * Source URL: https://dailyconnector.wordpress.com/
 * Artifact permissions: Not specified
 * Creator and Affiliation: Connected Courses
-* Annotation: The Daily Connector provides activities and assignments that aim to grow connections between individuals in a course or across multiple courses. These activities encourage community building online as part of intentional daily practice. An instructor could replicate the activities in her class to stimulate the creation of a vibrant and active community of learners in online spaces.
 
-### Presence
+The Daily Connector provides activities and assignments that aim to grow connections between individuals in a course or across multiple courses. These activities encourage community building online as part of intentional daily practice. An instructor could replicate the activities in her class to stimulate the creation of a vibrant and active community of learners in online spaces.
 
-* Annotation Flash Mob
+## Presence
+### Annotation Flash Mob
+![screenshot](images/Online-blogpost-annotationflashmob.png)
+
 * Artifact type: Blog post with links to assignment details
-* Screenshot: Online-blogpost-annotationflashmob.png
-* Source URL: https://gamesandlearning.wordpress.com/2016/04/27/about-that-annotation-flash-mob/
+* Source URL: [https://gamesandlearning.wordpress.com/2016/04/27/about-that-annotation-flash-mob/](https://gamesandlearning.wordpress.com/2016/04/27/about-that-annotation-flash-mob/)
 * Artifact permissions: Unclear, but assignment details are publicly available
 * Creator and Affiliation: Remi Holden / CU Denver
-* Annotation: Inspired by Sean Michael Morris' [Teaching in our right minds: Critical Digital Pedagogy and the Response to the New](http://www.digitalpedagogylab.com/hybridped/teaching-in-our-right-minds/) Remi Holden organized an annotation flash mob in his course, where his students were already using hypothes.is for collaborative annotation. Holden's blog post with instructions on how to participate in the flash mob [is here](https://gamesandlearning.wordpress.com/2016/04/24/an-annotation-flash-mob-invitation/). The annotation flash mob is a fascinating example of bringing eventness to the collaborative web. Several of Holden's students and many individuals outside of the course jumped in to annotate Morris' article. One participant's comments captured the feeling of eventness, "“Love[d] getting to play in the digital annotation flashmob – I’m reminded of the frequently referenced analogy of the digital mimicking sandbox play." 
+
+Inspired by Sean Michael Morris' [Teaching in our right minds: Critical Digital Pedagogy and the Response to the New](http://www.digitalpedagogylab.com/hybridped/teaching-in-our-right-minds/) Remi Holden organized an annotation flash mob in his course, where his students were already using hypothes.is for collaborative annotation. Holden's blog post with instructions on how to participate in the flash mob [is here](https://gamesandlearning.wordpress.com/2016/04/24/an-annotation-flash-mob-invitation/). The annotation flash mob is a fascinating example of bringing eventness to the collaborative web. Several of Holden's students and many individuals outside of the course jumped in to annotate Morris' article. One participant's comments captured the feeling of eventness, "“Love[d] getting to play in the digital annotation flashmob – I’m reminded of the frequently referenced analogy of the digital mimicking sandbox play." 
 More generally, instructors are using hypothes.is in their courses for collaborative annotation, as in this [example from Brian Watkins at Austin College](http://acdigitalpedagogy.org/category/hypothes-is/).
 
-* The Daily Create
+### The Daily Create
+![screenshot](images/Online_ds106_dailycreate.png)
+
 * Artifact type: Assignments
-* Screenshot: Online_ds106_dailycreate.png
-* Source URL: http://daily.ds106.us/
+* Source URL: [http://daily.ds106.us/](http://daily.ds106.us/)
 * Artifact permissions: CC-0
 * Creator and Affiliation: Alan Levine
-* Annotation: The Daily Create involves daily activities that help faculty and students remain actively engaged and present in a course. Daily Create activities like these can minimize feelings of interpersonal distance by motivating continuous participation. Daily Create activities are brief and have low barriers to entry; the key is to provide easy and interesting ways for students to remain engaged, thus contributing to the eventness of the course.  
 
-* Introduction to Still Photography syllabus
+The Daily Create involves daily activities that help faculty and students remain actively engaged and present in a course. Daily Create activities like these can minimize feelings of interpersonal distance by motivating continuous participation. Daily Create activities are brief and have low barriers to entry; the key is to provide easy and interesting ways for students to remain engaged, thus contributing to the eventness of the course.  
+
+### Introduction to Still Photography syllabus
+![screenshot](images/Online-stillphotography-syllabus.png)
+
 * Artifact type: Syllabus
-* Screenshot: Online-stillphotography-syllabus.png
-* Source URL: https://voicethread.com/myvoice/#thread/2610203
+* Source URL: [https://voicethread.com/myvoice/#thread/2610203](https://voicethread.com/myvoice/#thread/2610203)
 * Artifact permissions: Not specified 
 * Creator and Affiliation: Michelle Pacansky-Brock / California State University Channel Islands
-* Annotation: The use of voice sharing technologies may help to combat the disengagement felt in disembodied online courses. Pacansky-Brock voice annotates her syllabus, assignments, and she provides feedback to students using voice. She invites students to annotate course resources and assignments together, using VoiceThread. Pacansky-Brock also wrote a free ebook called [How to Humanize Your Online Class with VoiceThread](http://page.teachingwithoutwalls.com/ebook).
+
+The use of voice sharing technologies may help to combat the disengagement felt in disembodied online courses. Pacansky-Brock voice annotates her syllabus, assignments, and she provides feedback to students using voice. She invites students to annotate course resources and assignments together, using VoiceThread. Pacansky-Brock also wrote a free ebook called [How to Humanize Your Online Class with VoiceThread](http://page.teachingwithoutwalls.com/ebook).
 
 ## RELATED MATERIALS
 
