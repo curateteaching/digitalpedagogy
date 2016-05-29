@@ -52,7 +52,7 @@ As expected, questions of embodiment and presence pervade the literature on onli
 ## Authorship
 
 ### ds106 Assignment Bank creator
-![screenshot](images/Online_ds106_AssignmentBank.png)
+![screenshot](images/Online-ds106-AssignmentBank.png)
 
 * Artifact type: Github repository
 * Source URL: [https://github.com/cogdog/ds106bank](https://github.com/cogdog/ds106bank)
