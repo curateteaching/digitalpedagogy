@@ -30,7 +30,7 @@ Middlebury College | http://digitallearning.middcreate.net
 
 ## CURATORIAL STATEMENT
 
-In higher education, the term “online” has become synonymous with eLearning-style training and MOOCs. This narrow view of online, with a focus on content delivery and automated assessment, is spread via mainstream media, as in this recent quote from Inside Higher Ed: “Online education can offer personalized pathways through course content with short lecture videos and well-time quizzes that help students retain knowledge…” This perspective values online learning for its efficiency, flexibility, and convenience, claiming the appeal of “anytime, anywhere” education (Richardson & Swan 69). It has also marginalized online learning and de-emphasized the characteristics that make it distinctive and exciting as a model of education (Pacansky-Brock). It’s no surprise when pundits and educators alike argue that online learning can never match the quality of face-to-face or even blended learning because, as Ian Lamont argues, “there [i]s almost no meaningful student/teacher or student/student interaction. To equate this type of online learning with a real-world classroom experience is a major stretch.”
+In higher education, the term “online” has become synonymous with eLearning-style training and MOOCs. This narrow view of online, with a focus on content delivery and automated assessment, is spread via mainstream media, as in this recent quote from *Inside Higher Ed*: “Online education can offer personalized pathways through course content with short lecture videos and well-timed quizzes that help students retain knowledge…” This perspective values online learning for its efficiency, flexibility, and convenience, claiming the appeal of “anytime, anywhere” education (Richardson & Swan 69). It has also marginalized online learning and de-emphasized the characteristics that make it distinctive and exciting as a model of education (Pacansky-Brock). It’s no surprise when pundits and educators alike argue that online learning can never match the quality of face-to-face or even blended learning because, as Ian Lamont argues, “there [i]s almost no meaningful student/teacher or student/student interaction. To equate this type of online learning with a real-world classroom experience is a major stretch.”
 
 To be fair, much online learning treats online spaces as containers, especially where institutions have adopted self-paced or templated models. However, many educators reject this view and instead focus on how online can transform education and provide new reflections on what it means to be and learn online. 
 
@@ -84,12 +84,12 @@ This artifact could be considered an example of both authorship and community. T
 ### Wikity: Bring your bookmarks into the digital age
 ![screenshot](images/Online_wikity_bookmarking.png)
 
-* Artifact type: Blog post / guide for using wikity (federated wiki) for bookmarking
+* Artifact type: Blog post / guide for using Wikity (federated wiki) for bookmarking
 * Source URL: [https://hapgood.us/2016/03/04/bring-your-bookmarks-into-the-hypertext-age/](https://hapgood.us/2016/03/04/bring-your-bookmarks-into-the-hypertext-age/)
 * Artifact permissions: Wikity content is CC-BY-SA
 * Creator and Affiliation: Mike Caulfield, Washington State University - Vancouver
 
-Wikity is a federated wiki environment created by Mike Caulfield. Mike's writings about the benefits of federated wikis are worth reading. In brief, wikity allows a user to write and maintain individually-controlled wiki pages and to make editable copies of others' wiki pages. According to Caulfield, wikity captures some of the best characteristics of blogs (individual voice and control) with the best characteristics of wikis (collaboration, sharing) by allowing users to maintain connected copies of information. Wikity could be used in an online course for students to create bookmarks and libraries of resources that are connected to resources written by others in their class and outside of their class. 
+Wikity is a federated wiki environment created by Mike Caulfield. Mike's writings about the benefits of federated wikis are worth reading. In brief, Wikity allows a user to write and maintain individually-controlled wiki pages and to make editable copies of others' wiki pages. According to Caulfield, Wikity captures some of the best characteristics of blogs (individual voice and control) with the best characteristics of wikis (collaboration, sharing) by allowing users to maintain connected copies of information. Wikity could be used in an online course for students to create bookmarks and libraries of resources that are connected to resources written by others in their class and outside of their class. 
 
 ## Community
 
