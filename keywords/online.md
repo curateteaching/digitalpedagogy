@@ -31,11 +31,11 @@ REBECCA: Editorial comments by Rebecca Frost Davis are included inline below fol
 
 ## CURATORIAL STATEMENT
 
-REBECCA: Because this keyword is being developed for one of the last batches of keywords in the collection and because the online environment underpins so much of digital pedagogy you face both a challenge and an opportunity.  On the one hand, you need to delineate a space for this keyword in the context of all the others without replicating them.  I think you do this well by speaking to all those preconceptions about what online learning is then demonstrating the limits of those preconceptions and pointing to the possibilities of the online environment.  Your opportunity is that I expect this keyword may be an entry point to this collection for many people.  I believe that in the final collection we will want to use it to point to other keywords.  I am noting those below for your reference, but I expect we will add those pointers after open peer review.
+REBECCA: Because this keyword is being developed for one of the last batches of keywords in the collection and because the online environment underpins so much of digital pedagogy you face both a challenge and an opportunity.  On the one hand, you need to delineate a space for this keyword in the context of all the others without replicating them.  I think you do this well by speaking to all those preconceptions about what online learning is then demonstrating the limits of those preconceptions and pointing to the possibilities of the online environment.  Your opportunity is that I expect this keyword may be an entry point to this collection for many people.  I believe that in the final collection we will want to use it to point to other keywords.  I am noting those potential cross-references to other keywords below for your information, but I expect we will add those pointers after open peer review.
 
 In higher education, the term “online” has become synonymous with eLearning-style training and MOOCs. This narrow view of online, with a focus on content delivery and automated assessment, is spread via mainstream media, as in this recent quote from *Inside Higher Ed*: “Online education can offer personalized pathways through course content with short lecture videos and well-timed quizzes that help students retain knowledge…” This perspective values online learning for its efficiency, flexibility, and convenience, claiming the appeal of “anytime, anywhere” education (Richardson & Swan 69). It has also marginalized online learning and de-emphasized the characteristics that make it distinctive and exciting as a model of education (Pacansky-Brock). It’s no surprise when pundits and educators alike argue that online learning can never match the quality of face-to-face or even blended learning because, as Ian Lamont argues, “there [i]s almost no meaningful student/teacher or student/student interaction. To equate this type of online learning with a real-world classroom experience is a major stretch.”
 
-REBECCA: Please add the  citation for Inside Higher Ed? You refer to it as mainstream media, but I think you mean mainstream in the higher ed industry rather than in general.
+REBECCA: Please add the  citation for Inside Higher Ed. You refer to it as mainstream media, but I think you mean mainstream in the higher ed industry rather than in general.
 
 REBECCA: You distinguish the potential of online learning from the conventional vision that figures it as a more efficient vision of classroom learning. Shawn Graham makes a similar argument in the introduction to the keyword, History, under open peer review now: https://digitalpedagogy.commons.mla.org/keywords/history/ This is a link we might point to in later versions of the collection.
 
@@ -49,7 +49,8 @@ This collection of resources is shaped by the educators who have embraced online
 
 REBECCA: Merge with paragraph 2.
 
-REBECCA: Mentions digital literacies—I’m expecting to see that picked up and substantiated with secondary literature below—I think it would be good to highlight, list, or point to some of those literacies here.
+REBECCA: This paragraph mentions digital literacies—I’m expecting to see that topic picked up and substantiated with secondary literature below—I think it would be good to highlight, list, or point to some of those literacies here.
+
 REBECCA: You list three categories that mirror aspects of the online learning experience—these also echo three of our other keywords.  We can add those cross references later, but you should be aware of the overlap.  Those keywords are:
 * author (forthcoming)
 * community: https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/community.md
@@ -58,7 +59,7 @@ REBECCA: You list three categories that mirror aspects of the online learning ex
 ### Authorship 
 Online authorship is not just writing in online spaces. Implicit in the notion of authorship are the “language, methodology, and training” (Rheingold 31) teachers and learners need to no longer consume what is online, but to author it. Too many technologies and models of online learning relegate the learner to a consumer role and give authorship rights only to the instructor (or sometimes, only to the designer of an online course). Examples in this section push back a plug-and-play view of online spaces and embrace the uncertainty and complexities of digital authorship, including questions raised by “public” authorship, sharing, and remixing.
 
-REBECCA: note that your final sentence evokes some other keywords:
+REBECCA: Note that your final sentence evokes some other keywords:
 * public: https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/public.md
 * remix: https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/remix.md
 
@@ -78,7 +79,7 @@ As expected, questions of embodiment and presence pervade the literature on onli
 
 ## CURATED ARTIFACTS
 
-REBECCA: In general, please develop your annotations further.  For each category you will want to ensure that you are saying illustrating a different aspect with each artifact in the category.  Also, in the final version some of these artifacts might be encountered alone so they need enough annotation to make them intelligible.
+REBECCA: In general, please develop your annotations further.  For each category you will want to ensure that you are illustrating a different aspect with each artifact in the category.  Also, in the final version some of these artifacts might be encountered alone so they need enough annotation to make them intelligible.
 
 REBECCA: Several of your artifacts have open questions about permissions.  I will share a permissions form with you that you can use to secure permissions from the creators.
 
@@ -99,7 +100,7 @@ Github provides a unique platform for authorship, collaboration, and peer review
 REBECCA: You will need to get explicit permissions for this example; are there some sort of permissions built into using github?  Also, does Alan have an institutional affiliation?
 Given our project’s use of github, clearly I’m going to like this artifact.  I think you need to add one more sentence at the beginning of the annotation explaining what github is, e.g., a tool that developed for collective software development.
 
-REBECCA: Rather than “could enable” maybe it should be “has enabled” the ds106 community and others; then make suggestions for other uses.  Could you push the possibilities further and comment on the connection to authorship vs. consumerism? Why is it important that this occurs in a community? Would you use this in or out of the LMS? Do you expect this to move outside of the traditional boundaries of the classroom? How is this important as a model and how does it differ from the ForkU example that follows?  I think you are keying in on the collective creation—you could consider tying this to participatory culture characterized by low barriers to creation? How does this connect to digital literacies?
+REBECCA: Rather than “could enable” maybe it should be “has enabled” the ds106 community and others; then make suggestions for other uses.  Could you push the possibilities further and comment on the connection to authorship vs. consumerism? Why is it important that this occurs in a community? Would you use this in or out of the LMS? Do you expect this to move outside of the traditional boundaries of the classroom? How is this important as a model and how does it differ from the ForkU example that follows?  I think you are keying in on collective creation—you could consider tying this to participatory culture characterized by low barriers to creation. How does this connect to digital literacies?
 
 ### Fork U! Resource Page
 ![screenshot](images/Online-forku-assignments.png)
@@ -153,7 +154,7 @@ REBECCA: Be sure to highlight how each example speaks to a different aspect of o
 
 This artifact shows how an online course can be designed to intentionally foster community. Every activity, every design choice, centers on the community. clMOOC makes explicit its goal of connected learning and provides ample opportunities for learners to connect (see examples of Twitter chats, Make Cycles, Blog Hub, Make Bank, and social tools). 
 
-REBECCA: The annotation on this artifact is very brief.  You should probably differentiate it from the MOOC and then explain in more detail how at least one activity you list explicitly promotes community.  Then you might explain how this illustrates the connection between community and digital literacy.  I would keep the list of other activities without explaining them in depth.  Why is community important? Also, you mention connected learning but don’t cite any literature on that movement.  I think that approach should come up in the works cited or in related works. I will say that the curators of network are working from that perspective so you don’t need to cover it; just reference it.
+REBECCA: The annotation on this artifact is very brief.  You should probably differentiate it from the MOOC and then explain in more detail how at least one activity you list explicitly promotes community.  Then you might explain how this illustrates the connection between community and digital literacy.  I would keep the list of other activities without explaining them in depth.  Why is community important? Also, you mention connected learning but don’t cite any literature on that movement.  I think that approach should come up in the works cited or in related works. I will say that the curators of network are working from that perspective so you don’t need to cover it in depth; just reference it.
 
 ### FemTechNet: Key Learning Projects
 ![screenshot](images/Online_FemTechNet-Assignments.png)
@@ -165,7 +166,7 @@ REBECCA: The annotation on this artifact is very brief.  You should probably dif
 
 FemTechNet is called a DoCC -- Distributed Open Collaborative Course. Like the clMOOC example, FemTechNet aims to foster community and provides key learning assignments that are shared across the various institutions where the course is being offered. 
 
-REBECCA: FemTechNet gets used as an artifact multiple times in this project.  I’ll send you a spreadsheet with the full list of artifacts.  So, it would be great if you could pick some aspect that has not been cited before.  I love the wikistorming example and the way it leverages the power of networks for collective action—in fact, I wrote about it in a forthcoming publication (“Pedagogy and Learning in a Digital Ecosystem.” In J. Moore & R. Bass (Eds.), Understanding Writing Transfer and its Implications for Higher Education. (forthcoming 2016)). FemTechNet is not the same as the DOCCs.  As a community it sponsors DOCCs, which have been explicitly created as an alternative to MOOCs.    They see this as part of feminist pedagogy.  I think that is an important point to highlight here.  These key learning projects are both the product of a community and an opportunity to create further community.  You might consider reframing this artifact to focus in on one key learning project and demonstrate its connection to community then you could still reference the others, as well as the FemTechNet community. One of their current co-directors, Anne Cong-Huyen, curated the keyword “gender” which is now in open peer review: https://digitalpedagogy.commons.mla.org/keywords/gender/  She includes the artifact, "Situated Knowledges Map”, a version of Feminist Wikistorming, and the DOCC: Dialogues on Feminism and Technology. The Exquisite Engendering Remix is included in Remix: https://digitalpedagogy.commons.mla.org/keywords/remix/.
+REBECCA: Examples from FemTechNet gets used as an artifact multiple times in this project.  I’ll send you a spreadsheet with the full list of artifacts.  So, it would be great if you could pick some aspect that has not been cited before.  I love the wikistorming example and the way it leverages the power of networks for collective action—in fact, I wrote about it in a forthcoming publication (“Pedagogy and Learning in a Digital Ecosystem.” In J. Moore & R. Bass (Eds.), *Understanding Writing Transfer and its Implications for Higher Education*. (forthcoming 2016)). FemTechNet is not the same as the DOCCs.  As a community it sponsors DOCCs, which have been explicitly created as an alternative to MOOCs.    They see this as part of feminist pedagogy.  I think that is an important point to highlight here.  These key learning projects are both the product of a community and an opportunity to create further community.  You might consider reframing this artifact to focus in on one key learning project and demonstrate its connection to community then you could still reference the others, as well as the FemTechNet community. One of their current co-directors, Anne Cong-Huyen, curated the keyword “gender” which is now in open peer review: https://digitalpedagogy.commons.mla.org/keywords/gender/  She includes the artifact, "Situated Knowledges Map”, a version of Feminist Wikistorming, and the DOCC: Dialogues on Feminism and Technology. The Exquisite Engendering Remix is included in Remix: https://digitalpedagogy.commons.mla.org/keywords/remix/.
 
 ### The Daily Connector
 ![screenshot](images/Online_ccourses_dailyconnector.png)
@@ -181,7 +182,7 @@ REBECCA: This is a nice tool.  Could you specifically explain how one activity f
 
 ## Presence
 
-REBECCA: Be sure to explain how each artifact connects to this category and builds the readers understanding of this concept. What is logic of order of activities in this section? You might move from presence in the virtual classroom to presence that moves beyond that classroom. Or are you moving through different aspects of presence/embodiment? Chronological?
+REBECCA: Be sure to explain how each artifact connects to this category and builds the readers understanding of this concept. What is the logic of the order of artifacts in this section? You might move from presence in the virtual classroom to presence that moves beyond that classroom. Or are you moving through different aspects of presence/embodiment? Chronological?
 
 ### Annotation Flash Mob
 ![screenshot](images/Online-blogpost-annotationflashmob.png)
@@ -208,7 +209,7 @@ REBECCA: This is a great example that again points to another keyword (annotatio
 
 The Daily Create involves daily activities that help faculty and students remain actively engaged and present in a course. Daily Create activities like these can minimize feelings of interpersonal distance by motivating continuous participation. Daily Create activities are brief and have low barriers to entry; the key is to provide easy and interesting ways for students to remain engaged, thus contributing to the eventness of the course.
 
-REBECCA: This is a nice example of social presence.  Do you want to connect to Henry Jenkins on participatory culture?  You characterize these activities in the terms he uses to define such a culture.  Also, note the personal element—connecting learning to personal life by sharing photos and poems that are relevant for student.  This example also moves outside of the LMS into physical world.  There is nice modeling by the instructor.   This is another one where the artifact could be this particular assignment and then the annotation could point to the larger collection of assignments.  
+REBECCA: This is a nice example of social presence.  Do you want to connect to Henry Jenkins' definition of participatory culture?  You characterize these activities in the terms he uses to define such a culture.  Also, note the personal element—connecting learning to personal life by sharing photos and poems that are relevant for student.  This example also moves outside of the LMS into the physical world.  There is nice modeling by the instructor in the image shared.   This is another case where the artifact could be this particular assignment and then the annotation could point to the larger collection of assignments.  
 
 ### Introduction to Still Photography syllabus
 ![screenshot](images/Online-stillphotography-syllabus.png)
@@ -228,6 +229,8 @@ REBECCA: Focus here is on teacher presence as a model for student presence.
 
 Campbell, Gardner. “A personal cyberinfrastructure.” http://er.educause.edu/articles/2009/9/a-personal-cyberinfrastructure
 
+REBECCA: Need complete citation.
+
 Pacansky-Brock, Michelle. "Love letter to online learning." http://brocansky.com/2016/04/26/love-letter-to-online-learning/
 
 Rheingold, Howard. Net Smart: How to Thrive Online. Cambridge: The MIT Press, 2014. Print.
@@ -235,6 +238,7 @@ Rheingold, Howard. Net Smart: How to Thrive Online. Cambridge: The MIT Press, 20
 Ross, Jen et al. "Manifesto for Online Teaching." https://onlineteachingmanifesto.wordpress.com/
 
 Stommel, Jesse. "Online learning: A Manifesto." http://www.digitalpedagogylab.com/hybridped/online-learning-a-manifesto/
+REBECCA: Need complete citation.
 
 ## WORKS CITED
 
