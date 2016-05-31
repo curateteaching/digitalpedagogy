@@ -12,11 +12,12 @@ editor:
 publisher: Modern Language Association
 type: book
 --- 
-# Affect (Draft) 
+# AFFECT (Draft) 
 ## AUTHOR: Elizabeth Losh
 William and Mary | [Website](http://lizlosh.com) 
 --- 
-##### Publication Status:
+### Publication Status:
+
 * unreviewed draft
 * **draft version undergoing editorial review**
 * draft version undergoing peer-to-peer review 
