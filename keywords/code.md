@@ -73,8 +73,6 @@ Businessweek might seem like a paradoxical starting point for a set of resources
 ![screenshot](images/code-lmc2700.jpg)
 * Artifact Type: Syllabus
 * Source URL: [https://docs.google.com/document/d/1I2XUqH7d_JDLe3abZglKYnHXd7kgE-ip9qW9Geg689Y/edit](https://docs.google.com/document/d/1I2XUqH7d_JDLe3abZglKYnHXd7kgE-ip9qW9Geg689Y/edit) 
-* Artifact Permissions: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
-* Copy of the Artifact: [syllabus only](files/code-lmc2700.pdf)
 * Creator and Affiliation: [Yanni Loukissas](http://yloukissas.com/), Georgia Tech 
 
 This syllabus, created by Yanni Loukissas, documents the required introductory course in Georgia Tech's [Computational Media](http://cm.lmc.gatech.edu/) major. The major is designed with a "both/and" pedagogy of code in mind; students take courses in both computer science and the humanities so as to develop a deep and nuanced understanding of the computer as a medium. "Introduction to Computational Media" represents the students' first exposure to this synthesis, and as such, asks students to explore the history and theory of computation through a series of six focused projects. Each employs a different programming language, and each to a different end-- among them, a data visualization, a narrative bot, or a procedural poem. Any one of these projects might be incorporated into another course as a capstone element, but the syllabus is most valuable as a whole, for how it leads students towards a syncretic understanding of the computer as an expressive form.  

@@ -16,6 +16,7 @@ type: book
 # Blogging
 
 ### Diane K. Jakacki
+
 Bucknell University | [http://dianejakacki.net](http://dianejakacki.net)
 ---
 ##### Publication Status:

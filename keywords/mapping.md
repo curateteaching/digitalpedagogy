@@ -75,21 +75,18 @@ Students in this 100-level class recreate the trajectory of an historical route 
 
 #### Historical Map Analysis
 ![screenshot](images/sintonKnowles.jpg)
-* Source URL: ???
 * Creator: Anne K. Knowles, University of Maine
 
 This assignment prompts students with a series of questions that guide them through a structured critique of an historical map. The questions cover themes of genre, author and probable audience, historical context of the map, and the map as a source for historical geography. This activity prepares students for a subsequent assignment of researching, designing, and constructing a page for a collaboratively-produced Atlas. The questions are drafted with a historical map in mind, but they can could also be modified for application to any map. They structure lines of inquiry about cartography, cartographers, and cartographic products that many students have never systematically thought through before.  
 
 #### Historical Atlas Assignment
 ![screenshot](images/sintonRael.jpg)
-* Source URL: ???
 * Creator: Patrick Rael, History, Bowdoin College
 
 Rael has students delve into historical Census data to each produce a small Atlas that addresses questions about race and slavery in mid-19th century America. They need to produce not only maps, but also tables and charts, consistent with the Census emphasis on quantitative data. Students are prompted to begin with a question that they wish to answer, comparing variables across different geographies, across time, or for exploring possible correlations. This models a good practice for dealing with Census data: to have a specific question that data will help address. Otherwise, Census data can readily become overwhelming in its specificity and abundance. The GIS “Code Book” facilitates the use of the “real” data, which is necessarily obtuse and confusing in its authenticity. Rael choose to do extensive out-of-class work to prepare supporting instructional materials so that the students focus on the questions and analysis while minimizing time spent grappling with data. Though this assignment is focused on historical work, it could be adapted for Census data from any time period. 
 
 ####  Comparison of Paul’s Travels in Acts and Galatians
 ![screenshot](images/sintonLarsen.png)
-* Source URL: ???
 * Creator: Lillian Larsen, University of Redlands
 
 A professor of Early Christianity, Lillian Larsen long ago discovered the utility of mapping as an accessible entry way for her students to appreciate the distinctive versions of Biblical stories. One of her iconic experiences has been to have students sketch the journeys of Paul, as told in different Biblical books, to compare contrasting narratives. Over time, she and her students have experimented with hand-drawing on analog and digital maps to explore specific routes and journeys. This act of primary data creation requires her students to do close reading of the texts and question the distances and patterns chronicled in the ancient texts. She and one of her former students have also documented their processes in a recent article (Larsen and Benzek 2014). 
@@ -104,7 +101,6 @@ Students in this course created a series of map-mashups, using the increasingly 
 
 #### Provenance Project, ARTH 230: Introduction to Museum Studies
 ![screenshot](images/sintonNiederstadt.jpg)
-* Source URL: ???
 * Copy of Artifact: forthcoming 
 * Creator: Leah Niederstadt, Department of Art History, Wheaton College, Massachusetts
 

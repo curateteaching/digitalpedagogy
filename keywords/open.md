@@ -15,7 +15,7 @@ type: book
 
 # Open
 
-## Michael Roy
+### Michael Roy
 Middlebury College
 
 ### Publication Status:
@@ -139,7 +139,7 @@ Brett D. Hirsch (ed.), Digital Humanities Pedagogy: Practices, Principles and Po
 
 Lisa Spiro and Bryan Alexander, Open Education in the Liberal Arts: A NITLE Working Paper [https://infocult.files.wordpress.com/2011/01/open_education_working_paper_v2_april112012.pdf](https://infocult.files.wordpress.com/2011/01/open_education_working_paper_v2_april112012.pdf)
 
-Fifty shades of open [ http://dx.doi.org/10.5210/fm.v21i5.6360] ( http://dx.doi.org/10.5210/fm.v21i5.6360	) , Jeffrey Pomerantz, Robin Peek, First Monday, Volume 21, Number 5 - 2 May 2016
+Fifty shades of open [http://dx.doi.org/10.5210/fm.v21i5.6360](http://dx.doi.org/10.5210/fm.v21i5.6360) , Jeffrey Pomerantz, Robin Peek, First Monday, Volume 21, Number 5 - 2 May 2016
 
 Jesse Stommel (ed.), Hybrid Pedagogy, [http://www.hybridpedagogy.com/](http://www.hybridpedagogy.com/) 
 
@@ -147,7 +147,7 @@ Yochai Benkler, The Wealth of Networks, [http://www.benkler.org/Benkler_Wealth_O
 
 ## WORKS CITED
 
-Allen, Holly. "The American Studies Web Museum at Middlebury College," n.d. http://cr.middlebury.edu/amlit_civ/allen/web_museum/
+Allen, Holly. "The American Studies Web Museum at Middlebury College," n.d. [http://cr.middlebury.edu/amlit_civ/allen/web_museum/](http://cr.middlebury.edu/amlit_civ/allen/web_museum/)
 
 "Collaborative Research Assignment: Digitization as Pedagogy and Scholarly Collaboration",* Teaching – Digital History Project, Wheaton College.* February 5, 2012. [http://wheatoncollege.edu/digital-history-project/teaching/](http://wheatoncollege.edu/digital-history-project/teaching/)
 

@@ -163,7 +163,7 @@ Keifer-Boyd, Karen. “FTN Roadshow Blog Series—Course.” *FemTechNet.* FemTe
 
 Kuhn, Virginia. “The Rhetoric of Remix.”*Transformative Works and Cultures.* vol. 9 (2012). n. pag. Web. 22 Feb. 2016.
 
-Lessig, Lawrence. *Remix: Making Art and Commerce Thrive in a Hybrid Economy.” London, England: Bloomsbury Press. 2008.
+Lessig, Lawrence. *Remix: Making Art and Commerce Thrive in a Hybrid Economy.* London, England: Bloomsbury Press. 2008.
 
 Manovich, Lev. *The Language of New Media.* Cambridge, MA: MIT Press, 2001. 
 McKee, Heidi A., and Dànielle Nicole DeVoss DeVoss, Eds. Digital Writing Assessment & Evaluation. Logan, UT: Computers and Composition Digital Press/Utah State 	University Press, 2013. Web.
