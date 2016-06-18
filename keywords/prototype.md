@@ -138,7 +138,7 @@ Thinking about what this kind of mental contact would mean led the team to reali
 For many disciplines, however, the object of study does not yet exist--it is a possible future. In this assignment, PhD students are asked to design a set of research tools consisting of a prototype, pilot study, experimental design, and quasi-experimental design (which mines existing data for factors that would have been controlled had the researcher set up the original study).
 
 # "Prototyping Texts"
-![screenshot]()
+![screenshot](images/prototype-prototyping-texts.png)
 * Type: Syllabus
 * Copy of the artifact: 
 * [http://jentery.github.io/508/notes.html](http://jentery.github.io/508/notes.html)
