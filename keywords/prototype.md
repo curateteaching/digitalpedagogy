@@ -53,7 +53,7 @@ Our goal in selecting these materials was to provide as wide a range as possible
 ## CURATED ARTIFACTS
 ##  Assignments Primarily for Undergraduate Students
 # "Prototypes as Steps Toward Production"
-![screenshot](Prototype--UofA_Campus_Mysteries--Student Work.png)
+![screenshot](images/prototype--UofA_Campus_Mysteries.png)
 * Type: Assignment
 * Copy of the artifact: 
 * [http://interactives.artsrn.ualberta.ca/?page_id=145] (http://interactives.artsrn.ualberta.ca/?page_id=145)
@@ -109,10 +109,10 @@ The game involved 2 teams, each given a brief about a sustainability project tha
 The stakeholders were randomly chosen: a child, a senior, parents, the c-suite, a lawyer. Finally, the teams had to use a mode of communication, determined by rolling the die: drawing, acting, singing, rapping. If the other team voted that the pitch was convincing, the presenters got to roll a different die to move their piece on the game board. Even choosing which team got to go first was fun—we did it by thumb wrestling.
 
 # "Bringing Aspects of Research Prototyping into the Classroom"
-![screenshot](Prototype--DH_structured_surface--Student Work.pdf)
+![screenshot](images/prototype-dh-structured-surface.png)
 * Type: Exercise
 * Copy of the artifact: 
-* [http://Prototype--Experimental design--exercise.pdf/](http://Prototype--Experimental design--exercise.pdf)
+* [files/prototype--DH_structured_surface.pdf](files/prototype--DH_structured_surface.pdf)
 * Milena Radzikowska 
 Teaching an information design course to students in a communications program, Dr. Radzikowska at Mount Royal University in Calgary has integrated an exercise in the design of prototype information visualizations. The exercise is keyed to current research projects in the digital humanities. In this version of the syllabus, the students could choose between two DH experiments. The first was in structured surfaces, where a data visualization (like a map, for example) is used as the basis for an argument that is made by superimposing additional information (like pins into the map). The second was in attempting to accommodate big data on a wall-sized display.
 
@@ -146,7 +146,7 @@ For many disciplines, however, the object of study does not yet exist--it is a p
 "Our aim, then, will not be to "prove" anything about literature and culture. It will not be build tools, reveal networks, learn some code, or share whiz-bang visualizations, either. It will be to design and make texts differently, to better understand their significance by not only refusing to take them at face value (a hermeneutic impulse) but also prototyping what else they could be (a design impulse)."
 
 # "Science Fiction to Science Fabrication"
-![screenshot](images/Prototype--I am Building E-14--Student Work.png)
+![screenshot](images/prototype--building-E-14.png)
 * Type: Syllabus
 * Copy of the artifact: 
 * [http://scifi2scifab.media.mit.edu/syllabus-3/] http://scifi2scifab.media.mit.edu/syllabus-3/)
