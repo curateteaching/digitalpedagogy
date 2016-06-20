@@ -82,7 +82,8 @@ Our goal in selecting these materials was to provide as wide a range as possible
 * Copy of the artifact: 
 * [http://interactives.artsrn.ualberta.ca/?page_id=145] (http://interactives.artsrn.ualberta.ca/?page_id=145)
 * MA students in Humanities Computing, University of Alberta, Edmonton
-* When most people hear the word "prototype," this is the kind that comes to mind. The students are tasked with solving a problem, and create a series of prototypes that increasingly converge on a solution. The primary goal is to address the design brief, rather than inform a research question. 
+
+When most people hear the word "prototype," this is the kind that comes to mind. The students are tasked with solving a problem, and create a series of prototypes that increasingly converge on a solution. The primary goal is to address the design brief, rather than inform a research question. 
 
 However, there can be other goals as well. In this example, teams of incoming MA students in the University of Alberta HuCo program were asked before the first term began to create an augmented reality game (ARG). The goal of the assignment is to introduce them in a hands-on way to many of the concepts, technologies, and challenges that will be dealt with throughout their coursework. It is to whet their appetites, to provide context, for what they will soon learn in more depth.
 
