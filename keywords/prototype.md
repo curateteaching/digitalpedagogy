@@ -94,7 +94,8 @@ They only have one week to work on the project, so the teams work quickly, creat
 * Type: Assignment
 * Copy of the artifact: 
 * MDes students, Unisinos, Porto Alegre, Brazil
-* A prototype is a kind of model, and in this case the assignment is to create a prototype that models the contents of an academic article. The class will have previously read the paper; the content model is sketched or built in order to facilitate discussion. In this image, the students were discussing Winner's chapter "Do Artifacts Have Politics." They broke into small groups to do the exercise, then came back to the large group for each team to lead a discussion of the prototype they had created. 
+
+A prototype is a kind of model, and in this case the assignment is to create a prototype that models the contents of an academic article. The class will have previously read the paper; the content model is sketched or built in order to facilitate discussion. In this image, the students were discussing Winner's chapter "Do Artifacts Have Politics." They broke into small groups to do the exercise, then came back to the large group for each team to lead a discussion of the prototype they had created. 
 
 This image shows a model where the reader is standing with the opening question in front of the argument, which is represented as a two-storied building. There is only one answer possible--yes--but the implications afterward vary. There are different aspects to politics, and at the second level, there are both technical and social dimensions. Finally, there are less substantial but still significant influences coming through the windows like breezes.
 
@@ -105,7 +106,8 @@ For some students, the models might look more like graphic facilitation, where c
 * Type: Assignment
 * Copy of the artifact: 
 * Xinyue Zhou, MDes student, IIT Institute of Design, Chicago
-* For this assignment, students are asked to read a paper, then create a prototype that can help the class think about the implications of the topic. In this case, the students had read Langdon Winner's (1986) chapter "Do Artifacts Have Politics?" in The Whale and the Reactor, but any article will do. The exercise has several steps that can be spread over multiple weeks: (1) discuss the paper (2) generate sketches for at least 3 concepts (3) produce a prototype of the selected concept (4) revise the prototype based on feedback.
+
+For this assignment, students are asked to read a paper, then create a prototype that can help the class think about the implications of the topic. In this case, the students had read Langdon Winner's (1986) chapter "Do Artifacts Have Politics?" in The Whale and the Reactor, but any article will do. The exercise has several steps that can be spread over multiple weeks: (1) discuss the paper (2) generate sketches for at least 3 concepts (3) produce a prototype of the selected concept (4) revise the prototype based on feedback.
 
 The "baby bottles" interrogate the idea of teaching children about national identity. It is an inevitable process, but how soon is too soon? The student originally placed the flags on the body of the bottle, but in her revision she moved them to the nipple, since it is more clearly about the child. Flags on the bottom of the bottle would be there for the parents to see. She used 3 different flags to encourage us to think about how these artifacts would be received in different countries.
 
@@ -114,7 +116,8 @@ The "baby bottles" interrogate the idea of teaching children about national iden
 * Type: Assignment
 * Copy of the artifact: 
 * MDes students, Unisinos, Porto Alegre, Brazil
-* In this project, students are asked to design a prototype that will give its users an experience analogous to an actual experience, in order to gain additional understanding.
+
+In this project, students are asked to design a prototype that will give its users an experience analogous to an actual experience, in order to gain additional understanding.
 
 For this example, the students created a paper prototype consisting of a "memory game" where cards placed face down need to be paired with cards drawn from a pack.
 
@@ -127,7 +130,8 @@ However, there was a card in the pack labeled "go to school" which had no partne
 * Type: Assignment
 * Copy of the artifact: 
 * MDes students, IIT Institute of Design, Chicago
-* Although a prototype to help increase empathetic understanding is one form of experience prototype, it is not the only form. In this assignment, students were asked to design a positive experience for people interested in thinking about issues of sustainable innovation.
+
+Although a prototype to help increase empathetic understanding is one form of experience prototype, it is not the only form. In this assignment, students were asked to design a positive experience for people interested in thinking about issues of sustainable innovation.
 
 The game involved 2 teams, each given a brief about a sustainability project that they had to sell to stakeholders. My team had to pitch local production for McDonalds; the other team got new cell phones from Motorola that had readily serviceable parts. 
 
@@ -139,7 +143,8 @@ The stakeholders were randomly chosen: a child, a senior, parents, the c-suite, 
 * Copy of the artifact: 
 * [files/prototype--DH_structured_surface.pdf](files/prototype--DH_structured_surface.pdf)
 * Milena Radzikowska 
-* Teaching an information design course to students in a communications program, Dr. Radzikowska at Mount Royal University in Calgary has integrated an exercise in the design of prototype information visualizations. The exercise is keyed to current research projects in the digital humanities. In this version of the syllabus, the students could choose between two DH experiments. The first was in structured surfaces, where a data visualization (like a map, for example) is used as the basis for an argument that is made by superimposing additional information (like pins into the map). The second was in attempting to accommodate big data on a wall-sized display.
+
+Teaching an information design course to students in a communications program, Dr. Radzikowska at Mount Royal University in Calgary has integrated an exercise in the design of prototype information visualizations. The exercise is keyed to current research projects in the digital humanities. In this version of the syllabus, the students could choose between two DH experiments. The first was in structured surfaces, where a data visualization (like a map, for example) is used as the basis for an argument that is made by superimposing additional information (like pins into the map). The second was in attempting to accommodate big data on a wall-sized display.
 
 ##  Assignments Primarily for Graduate Students Doing a Thesis
 # "Prototypes for Developing a Research Topic"
@@ -147,7 +152,8 @@ The stakeholders were randomly chosen: a child, a senior, parents, the c-suite, 
 * Type: Assignment
 * Copy of the artifact: 
 * MDes students, Unisinos, Porto Alegre, Brazil
-* This exercise is for graduate students developing a thesis topic. They are asked to create a prototype whose features can help them think about specific aspects of the research question.
+
+This exercise is for graduate students developing a thesis topic. They are asked to create a prototype whose features can help them think about specific aspects of the research question.
 
 In this case, a student team was asked to design a prototype related to the question: "how can the interpretation of the user more clearly match the intention of the designer?"
 
@@ -160,7 +166,8 @@ Thinking about what this kind of mental contact would mean led the team to reali
 * Type: Assignment
 * Copy of the artifact: [files/prototype--4-research-tools.pdf](files/prototype--4-research-tools.pdf)
 * Maryam Heidaripour, PhD student, IIT Institute of Design, Chicago
-* In the sciences and social sciences, researchers must occasionally design research instruments that will help them to investigate an existing object of study. For example, if we want to know about people's opinions, we can design an opinion survey. If we want to know about the ether, we design the Michelson-Morley experiment.
+
+In the sciences and social sciences, researchers must occasionally design research instruments that will help them to investigate an existing object of study. For example, if we want to know about people's opinions, we can design an opinion survey. If we want to know about the ether, we design the Michelson-Morley experiment.
 
 For many disciplines, however, the object of study does not yet exist--it is a possible future. In this assignment, PhD students are asked to design a set of research tools consisting of a prototype, pilot study, experimental design, and quasi-experimental design (which mines existing data for factors that would have been controlled had the researcher set up the original study).
 
@@ -169,7 +176,8 @@ For many disciplines, however, the object of study does not yet exist--it is a p
 * Type: Syllabus
 * Copy of the artifact: 
 * [http://jentery.github.io/508/notes.html](http://jentery.github.io/508/notes.html)
-* In his English 508 course at the University of Victoria, Jentery Sayers asks the students to go through a series of exercises in learning about text through deformation:
+
+In his English 508 course at the University of Victoria, Jentery Sayers asks the students to go through a series of exercises in learning about text through deformation:
 "Our aim, then, will not be to "prove" anything about literature and culture. It will not be build tools, reveal networks, learn some code, or share whiz-bang visualizations, either. It will be to design and make texts differently, to better understand their significance by not only refusing to take them at face value (a hermeneutic impulse) but also prototyping what else they could be (a design impulse)."
 
 # "Science Fiction to Science Fabrication"
@@ -178,7 +186,8 @@ For many disciplines, however, the object of study does not yet exist--it is a p
 * Copy of the artifact: 
 * [http://scifi2scifab.media.mit.edu/syllabus-3/] http://scifi2scifab.media.mit.edu/syllabus-3/)
 * Sophia Brueckner and Dan Novy
-* A slightly more advanced version of the exercise of responding to an article with a prototype, this course (alternatively titled "pulp to prototype") has students respond to science fiction with a prototype. The students have a series of readings, some novels and some short stories, organized by topic (e.g. nanotech, cyborgs), and are asked to prototype some of the science fiction ideas.
+
+A slightly more advanced version of the exercise of responding to an article with a prototype, this course (alternatively titled "pulp to prototype") has students respond to science fiction with a prototype. The students have a series of readings, some novels and some short stories, organized by topic (e.g. nanotech, cyborgs), and are asked to prototype some of the science fiction ideas.
 
 ## RELATED MATERIALS
 The prototyping exercises we've described can be done in a variety of ways--as sketches on paper, with physical materials, as software, or using electronic hardware. Here we list some useful resources for software and hardware projects.
