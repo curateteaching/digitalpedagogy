@@ -59,15 +59,15 @@ In the case of experimental prototypes to help us create and iterate research qu
 > MATT: "In the case of experimental prototypes to help us create and iterate research questions" -- awk -- please rephrase
 
 1. Prototype to be used by other people. 
-- We design a system and get a lot of people to try it, observe them, vary the parameters, try again. With each variation, we are modifying and hopefully improving the research questions.
+  * We design a system and get a lot of people to try it, observe them, vary the parameters, try again. With each variation, we are modifying and hopefully improving the research questions.
 
 2. Prototype as tool for thinking. 
-- We learn a lot about the topic just by designing the system and thinking about it once we have it in front of us.
-- We learn something further by observing one group using it.
-- We don’t even finish designing the system, but learn from the process of designing the first iterations.
+  * We learn a lot about the topic just by designing the system and thinking about it once we have it in front of us.
+  * We learn something further by observing one group using it.
+  * We don’t even finish designing the system, but learn from the process of designing the first iterations.
 
 3. Prototype as a model of the topic area. 
-- By creating a diagram or object that represents our understanding of a topic, we can begin to pinpoint areas of particular interest.
+  * By creating a diagram or object that represents our understanding of a topic, we can begin to pinpoint areas of particular interest.
 
 # Principles of Curation
 Our goal in selecting these materials was to provide as wide a range as possible of examples where prototypes are used in the classroom, whether with undergraduate students (section 1) or graduate students (section 2). In addition, we looked for opportunities to show how prototypes can be useful for all kinds of students, and not just for students in design or other disciplines that are more familiar with the production of generative knowledge.
