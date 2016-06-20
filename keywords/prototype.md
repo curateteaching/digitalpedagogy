@@ -79,8 +79,7 @@ Our goal in selecting these materials was to provide as wide a range as possible
 ### "Prototypes as Steps Toward Production"
 ![screenshot](images/prototype--UofA_Campus_Mysteries.png)
 * Type: Assignment
-* Copy of the artifact: 
-* [http://interactives.artsrn.ualberta.ca/?page_id=145] (http://interactives.artsrn.ualberta.ca/?page_id=145)
+* Copy of the artifact: [http://interactives.artsrn.ualberta.ca/?page_id=145] (http://interactives.artsrn.ualberta.ca/?page_id=145)
 * MA students in Humanities Computing, University of Alberta, Edmonton
 
 When most people hear the word "prototype," this is the kind that comes to mind. The students are tasked with solving a problem, and create a series of prototypes that increasingly converge on a solution. The primary goal is to address the design brief, rather than inform a research question. 
@@ -88,6 +87,8 @@ When most people hear the word "prototype," this is the kind that comes to mind.
 However, there can be other goals as well. In this example, teams of incoming MA students in the University of Alberta HuCo program were asked before the first term began to create an augmented reality game (ARG). The goal of the assignment is to introduce them in a hands-on way to many of the concepts, technologies, and challenges that will be dealt with throughout their coursework. It is to whet their appetites, to provide context, for what they will soon learn in more depth.
 
 They only have one week to work on the project, so the teams work quickly, creating early concept sketches and designs for prototypes of the games that they then iterate until they can be tried out. This photo shows the screen for a game to help new students learn about the campus.
+
+> MATT: Can you add a sentence or two at the end to describe how others might incorporate this model into their own teaching?
 
 # "Prototypes as Models of Article Content"
 ![screenshot](images/prototype--model-of-article-content.jpg)
@@ -202,10 +203,10 @@ The prototyping exercises we've described can be done in a variety of ways--as s
 * https://www.raspberrypi.org/products/raspberry-pi-2-model-b/
 
 ## WORKS CITED
-Dobson, Teresa M., Monica Brown, Dustin Grue, Ernesto Peña, Geoff Roeder, and the INKE Research Team (2015). The Interface Implications of Understanding Readers. Special Issue: The Future of Reading. Ed. Stan Ruecker. Interdisciplinary Science Reviews 40.1 (March).
+* Dobson, Teresa M., Monica Brown, Dustin Grue, Ernesto Peña, Geoff Roeder, and the INKE Research Team (2015). The Interface Implications of Understanding Readers. Special Issue: The Future of Reading. Ed. Stan Ruecker. Interdisciplinary Science Reviews 40.1 (March).
 Galey, Alan, Stan Ruecker, and the INKE Research Group. “How a Prototype Argues.” Literary and Linguistic Computing. 25(3). 2010.
-Meyer, Guilherme, Chiara Del Gaudio, Stan Ruecker, Piotr Michura, and Celso Carnos Scaletsky (2016). ”Learning to Create Prototypes to Address Research Questions.” Proceedings of the International Conference on Educational Technology Research, Izmir, Turkey. Feb 11-13, 2016.
-Mogensen, P., (1992). “Towards a Provotyping Approach in Systems Development,” Scandinavian Journal of Information Systems 4(1): Article 5.
-Ruecker, Stan and the INKE Research Group. “A Brief Taxonomy of Prototypes for the Digital Humanities.” Scholarly and Research Communication. 6(2), 2015.
-Scaletsky, Celso, Santosh Basapur, and Stan Ruecker. “The Generative Similarities of Designs, Prototypes, and Scenarios.” Proceedings of the 11th Annual Research and Development + Design Conference (P&D Design 2014).  Sept 29-Oct 12, 2014. Gramado, Brazil.
-Winner, Langdon. (1986). “Do Artifacts Have Politics” In The Whale and the Reactor: A Search for Limits in an Age of High Technology. Chicago: University of Chicago Press.
+* Meyer, Guilherme, Chiara Del Gaudio, Stan Ruecker, Piotr Michura, and Celso Carnos Scaletsky (2016). ”Learning to Create Prototypes to Address Research Questions.” Proceedings of the International Conference on Educational Technology Research, Izmir, Turkey. Feb 11-13, 2016.
+* Mogensen, P., (1992). “Towards a Provotyping Approach in Systems Development,” Scandinavian Journal of Information Systems 4(1): Article 5.
+* Ruecker, Stan and the INKE Research Group. “A Brief Taxonomy of Prototypes for the Digital Humanities.” Scholarly and Research Communication. 6(2), 2015.
+* Scaletsky, Celso, Santosh Basapur, and Stan Ruecker. “The Generative Similarities of Designs, Prototypes, and Scenarios.” Proceedings of the 11th Annual Research and Development + Design Conference (P&D Design 2014).  Sept 29-Oct 12, 2014. Gramado, Brazil.
+* Winner, Langdon. (1986). “Do Artifacts Have Politics” In The Whale and the Reactor: A Search for Limits in an Age of High Technology. Chicago: University of Chicago Press.
