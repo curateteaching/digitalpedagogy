@@ -16,15 +16,29 @@
 
 # Why Students Need Prototypes: to engage with ideas 
 
-Prototypes are provisional models of ideas, to help us investigate, communicate, and remember specific aspects of those ideas. A prototype, like a design or a scenario, is a model of something that might exist in the future. The word has two meanings: first, it could be a template for copying; second, it could be an expression of some aspect of what might exist. For example, one series of physical prototypes might explore possible forms, while others look at alternative finishes. One experience prototype might deal with what people will see, while another focuses on what they are hearing. In computer science, we also speak of horizontal vs vertical prototypes – the former shows all features but they can’t be used yet; the latter shows only some of the features, but they are developed enough to try out. Many projects create T-shaped prototypes, where (on the crossbar of the T) everything is there at a superficial level, and some parts (the trunk of the T) work.
+Prototypes are provisional models of ideas that help us investigate, communicate, and remember specific aspects of those ideas. A prototype, like a design or a scenario, is a model of something that might exist in the future. The word "prototype" has two meanings: first, a prototype could be a template for copying; second, it could be an expression of some aspect of what might exist. For example, one series of physical prototypes might explore possible forms, while others might look at alternative finishes. One experience prototype might deal with what people will see, while another might focus on what they will hear. Computer scientists speak of horizontal vs vertical prototypes: the former shows all features, including those that cannot yet be used; the latter shows only some  features, but they are developed enough to try out. Many projects create T-shaped prototypes, where (on the crossbar of the T) everything is there at a superficial level, and some parts (the trunk of the T) work.
+
+> MATT: can you explicate what you mean by "alternative finishes"? 
+> Also, I'm not sure what "experience prototype" means; can you explain?
+> Finally, the final sentence of this paragraph could use some minor rewriting for clarity, specificity, and style. What  do "everything," "superficial level," and "some parts" mean in this context?
 
 Having students develop prototypes in the classroom is therefore a good way of having them engage with ideas. First, a prototype can be used for interrogating a concept. Second, it will involve a particular strategy for addressing the concept. This is important in its own right, but it is also useful for students who may not agree with the approach taken. Because they have seen one strategy, they can begin to think of others. Third, a prototype has specific details that can serve as topics for discussion. Fourth, as Dobson et al. (2015) point out, prototypes can also give us ideas about other concepts, because they start people thinking not just about the concept in front of them, but also adjacent ones.
 
-Going further, we have argued (Ruecker and INKE 2015) that prototypes can exist for three different reasons, which are experiment, development, and provocation. They overlap a bit, but are distinct enough to provide some pins in the map. An experimental prototype is one created in order to get at ideas in the sense of concepts. For example, a researcher might be interested in the extent to which having a pre-assigned role in a game allows people to join more quickly in. To address this idea, one strategy would be to build a game where one version had pre-assigned roles, and another did not. By bringing in new players under both conditions and observing how long it takes them to get up to speed, the researcher is learning about the research question.
+> MATT: "Having students develop prototypes in the classroom is therefore a good way of having them engage with ideas." -- can you explicate this transition a bit? How does the last sentence in the previous paragraph lead logically into this one? 
 
-By contrast, a development prototype for a game would be focused on ideas in the sense of attributes such as shape, colour, materials, interactions, and so on. A development prototype is one in a series that will result in a polished version at the end (the template for copying). The rough drawings would get refined; the features would be formalized; there would need to be packaging and a catchy name and so on. None of those crucial issues for a development prototype are important for an experimental prototype, because the goals are different.
+Going further, we have argued (Ruecker and INKE 2015) that prototypes can be used for three different purposes, which are experiment, development, and provocation. They overlap a bit, but are distinct enough to provide some pins in the map. An experimental prototype is one created in order to get at ideas in the sense of concepts. For example, a researcher might be interested in the extent to which having a pre-assigned role in a game allows people to join more quickly in. To address this idea, one strategy would be to build a game where one version had pre-assigned roles, and another did not. By bringing in new players under both conditions and observing how long it takes them to get up to speed, the researcher might explore this research question.
 
-Finally, there are provocative prototypes (e.g. Mogensen 1992), which are to help people change their point of view, or perhaps even realize that they have one. Keywords related to provocative prototypes are speculative design, design fiction, and provotypes. In all of design, these activities are probably closest to the fine arts, while still remaining design. For example, Susana Soares has a series of laboratory glass diagnostic objects that incorporate living bees (http://www.susanasoares.com/index.php?id=56), since research has shown that they can be trained to smell a wide range of diseases at early stages.
+> MATT: "get at ideas in the sense of concepts" is unclear
+> MATT: please address the repetition of "researcher"/"research" in the final line 
+
+By contrast, a development prototype for a game would be focused on ideas in the sense of attributes such as shape, color, materials, interactions, and so on. A development prototype is one in a series that will result in a polished version at the end (the template for copying). The rough drawings would get refined; the features would be formalized; there would need to be packaging and a catchy name and so on. None of those crucial issues for a development prototype are important for an experimental prototype, because the goals are different.
+
+> MATT: "and so on" is a bit colloquial for this publication. Please revise.
+> MATT: Can you take one more look at this to see whether you can better clarify the differences between experimental and developmental prototypes?
+
+Finally, there are provocative prototypes (e.g. Mogensen 1992), which are intended to help people change their point of view, or perhaps even realize that they have one. Keywords related to provocative prototypes are speculative design, design fiction, and provotypes. In all of design, these activities are probably closest to the fine arts, while still remaining design. For example, Susana Soares has a series of laboratory glass diagnostic objects that incorporate living bees (http://www.susanasoares.com/index.php?id=56), since research has shown that they can be trained to smell a wide range of diseases at early stages.
+
+> MATT: " In all of design" is a bit unclear/colloquial
 
 Some people  might argue that all prototypes are part of a development process, and that the provocative ones are just closer to the beginning, followed by the experimental ones, and ending with the development ones. If that’s the case, and it could very well be, then not all projects involve all three kinds, nor should they.
 
@@ -32,27 +46,37 @@ Some people  might argue that all prototypes are part of a development process, 
 
 In the sciences, researchers sometimes create a new research instrument (e.g. a neutrino microscope, which as far as we are aware has not yet been created) to try to learn more about the world insofar as it pre-exists to be studied. In the generative disciplines, however, the object of study does not yet exist to be examined, so the researchers have to first create it in some form. Most often, that form is a prototype.
 
+> MATT: can you gloss "the generative disciplines" in a phrase offset by dashes?
+
 What is interesting even beyond the generative disciplines, however, is that a new research question is something that does not yet exist. Although some people might argue that research questions are just waiting around to be discovered, in fact they need to be created.
 
-For teachers or supervisors of graduate students who have to create research questions, prototypes offer a way of helping the students to more quickly focus. In this respect, a research question can be seen as a kind of generative knowledge, by which we mean that the goal of the prototype is to take some thinking that is not yet ready for prime time--perhaps just a topic idea, or a not-so-good question--and iterate it into a better one. More specifically, we've found that this exercise can help the students bridge from a broad topic area into more specific detailed questions, which is something that many graduate students struggle to do.
+For teachers or supervisors of graduate students who have to create research questions, prototypes offer a way of helping the students to more quickly focus. In this respect, a research question can be seen as a kind of generative knowledge, by which we mean that the goal of the prototype is to take some thinking that is not yet ready for prime time--perhaps just a topic idea, or a not-so-good question--and iterate it into a better one. More specifically, we've found that this exercise can help students bridge from a broad topic area into more specific detailed questions, which is something that many graduate students struggle to do.
+
+> MATT: "ready for prime time" is a bit colloquial
 
 In the case of experimental prototypes to help us create and iterate research questions, the features of the prototype should express or embody or reify specific aspects of the research question. Within this over-arching approach, we also need to decide how best to learn from the prototype once it exists. We have to date identified three possibilities:
 
-1. Prototype to be used by other people. We design a system and get a lot of people to try it, observe them, vary the parameters, try again. With each variation, we are modifying and hopefully improving the research questions.
+> MATT: "In the case of experimental prototypes to help us create and iterate research questions" -- awk -- please rephrase
+
+1. Prototype to be used by other people. 
+- We design a system and get a lot of people to try it, observe them, vary the parameters, try again. With each variation, we are modifying and hopefully improving the research questions.
 
 2. Prototype as tool for thinking. 
-* We learn a lot about the topic just by designing the system and thinking about it once we have it in front of us.
-* We learn something further by observing one group using it.
-* We don’t even finish designing the system, but learn from the process of designing the first iterations.
+- We learn a lot about the topic just by designing the system and thinking about it once we have it in front of us.
+- We learn something further by observing one group using it.
+- We don’t even finish designing the system, but learn from the process of designing the first iterations.
 
-3. Prototype as a model of the topic area. By creating a diagram or object that represents our understanding of a topic, we can begin to pinpoint areas of particular interest.
+3. Prototype as a model of the topic area. 
+- By creating a diagram or object that represents our understanding of a topic, we can begin to pinpoint areas of particular interest.
 
 # Principles of Curation
 Our goal in selecting these materials was to provide as wide a range as possible of examples where prototypes are used in the classroom, whether with undergraduate students (section 1) or graduate students (section 2). In addition, we looked for opportunities to show how prototypes can be useful for all kinds of students, and not just for students in design or other disciplines that are more familiar with the production of generative knowledge.
 
 ## CURATED ARTIFACTS
+
 ##  Assignments Primarily for Undergraduate Students
-# "Prototypes as Steps Toward Production"
+
+### "Prototypes as Steps Toward Production"
 ![screenshot](images/prototype--UofA_Campus_Mysteries.png)
 * Type: Assignment
 * Copy of the artifact: 
