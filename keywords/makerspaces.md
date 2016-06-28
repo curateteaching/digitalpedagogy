@@ -132,6 +132,7 @@ The Maker Lab in the Humanities (MLab) at the University of Victoria facilitates
 
 The Critical Making Lab facilitates critical scholarship through hands-on engagement with the material and process-based learning rather than a focus on end products. Projects in the Critical Making Lab often involve a range of disciplines and modes of exploration, physical computing endeavors combining design, rapid prototyping, manufacturing, and crafting. The lab team boasts prolific publications on the projects emerging from the space, and also hosts a Critical Making course (see artifact #2 for syllabus). The cross-disciplinary collaboration in the Critical Making Lab empowers students and faculty alike to critically engage with the material in order to overcome the linguistic bias of "thinking," offering the opportunity for critical exploration and play. 
 
+> MATT: overall comment on the artifacts you've chosen -- I'm seeing a lack of diversity here . . . with four examples from NCSU, two from Jentery Sayers and two from Matt Ratto, I'm wondering whether you might be able to feature a set of artifacts that has at least a bit more gender and racial diversity. 
 
 ## RELATED MATERIALS
 
