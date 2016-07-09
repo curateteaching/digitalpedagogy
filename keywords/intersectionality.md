@@ -1,3 +1,18 @@
+---
+title: Digital Pedagogy in the Humanities
+subtitle: Concepts, Models, and Experiments
+chapter: Fieldwork
+URL: keywords/intersectionality.md
+author: 
+- family: Risam
+  given: Roopika 
+editor: 
+- family: Sayers
+  given: Jentery
+publisher: Modern Language Association
+type: book
+---
+
 # INTERSECTIONALITY (Draft)
 
 ## Roopika Risam
