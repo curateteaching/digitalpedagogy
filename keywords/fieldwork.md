@@ -101,43 +101,39 @@ Developing an efficient data-collection system during intensive fieldwork is cha
 
 The Million Image Database is an open-access web portal into photographic documentation of cultural heritage materials gathered from around the world, particularly from regions whose heritage is at risk. Inspired by the collaborative work of Wikipedia to accumulate the world’s knowledge, the Institute of Digital Archaeology launched this open social fieldwork project in collaboration with UNESCO and other academic partners. Volunteer photographers from around the world, equipped with “lightweight, discreet, and easy-to-use 3D cameras,” gather images of objects, architecture and places to capture and preserve “humanity’s history as represented by the things we build” for now and the future. By clicking on interactive maps, users gain access to high-quality anaglyph images of sites like Jebel Hafit Tombs in United Arab Emirates, which do-it-yourself three-dimensional glasses make a fully immersive visual experience. Though still in development, this database will be an essential resource for virtual fieldwork and leverages the power of citizen fieldwork for digital pedagogy.
 
-* Title of Artifact: A Journey Upstream: The Past and Presence of an “Extinct” People (Trailer)
-* Artifact Type: Documentary film trailer
-* Screenshot: 7-AJourneyUpstream-documentarytrailer.png
-* Source URL: https://vimeo.com/78530205
-* Artifact Permissions: N/A
-* Copy of the Artifact: 7-ajourneyupstream.mp4
-* Creator and Affiliation: Directed and Produced by Erica Kowsz, Department of Anthropology, University of Massachusetts, Amherst; Co-Produced by Dr. Nathan Goodale, Department of Anthropology, Hamilton College
+### A Journey Upstream: The Past and Presence of an “Extinct” People (Trailer)
+![screenshot](images/fieldworkAJourneyUpstream-documentarytrailer.png)
 
-This is a trailer for a documentary entitled “A Journey Upstream: The Past and Presence of an "Extinct" People” directed by archeology graduate student Erica Kowsz, and part of SEARCH, a multidisciplinary and multi-institutional archaeology, cultural heritage, and linguistics project. The project aims to document the history and continued presence of the Sinixt Nation in British Columbia, despite it having been pronounced extinct in 1956 by the Canadian Government. As an example of digital fieldwork, the short video demonstrates the crucial role that technology brings to documentation, with interviews of the supposedly ‘extinct’ members of Sinixt Nations. Although currently in the data collection stage, the video is an example of project staging, providing the public with some access to the historical context and aims of the project in advance of completion. The project also demonstrates how students use multimedia to create and disseminate archeological and anthropological research.
+* Source: https://vimeo.com/78530205
+* Copy of the Artifact: forthcoming
+* Creators: Directed and Produced by Erica Kowsz, Department of Anthropology, University of Massachusetts, Amherst; Co-Produced by Dr. Nathan Goodale, Department of Anthropology, Hamilton College
 
-* Title of Artifact: A Look at the BISC Digital Humanities Field School
-* Artifact Type: Fieldschool promotional video
-* Screenshot: 8-BiscTV.png
-* Source URL: https://youtu.be/PCSzXG536BU
-* Artifact Permissions: N/A
-* Copy of the Artifact: 8-BISCdigitalhumanitiesfieldschool.mp4
-* Creator and Affiliation: BISCtv (Bader International Study Centre Youtube Channel)
+This is a trailer for a documentary entitled “A Journey Upstream: The Past and Presence of an 'Extinct' People” directed by archeology graduate student Erica Kowsz, and part of SEARCH, a multidisciplinary and multi-institutional archaeology, cultural heritage, and linguistics project. The project aims to document the history and continued presence of the Sinixt Nation in British Columbia, despite it having been pronounced extinct in 1956 by the Canadian Government. As an example of digital fieldwork, the short video demonstrates the crucial role that technology brings to documentation, with interviews of the supposedly "extinct" members of Sinixt Nations. Although currently in the data collection stage, the video is an example of project staging, providing the public with some access to the historical context and aims of the project in advance of completion. The project also demonstrates how students use multimedia to create and disseminate archeological and anthropological research.
+
+### A Look at the BISC Digital Humanities Field School
+![screenshot](images/fieldworkBiscTV.png)
+
+* Source: https://youtu.be/PCSzXG536BU
+* Copy of the Artifact: forthcoming
+* Creators: BISCtv (Bader International Study Centre Youtube Channel)
 
 In this promotional video, visiting fellow Dr. Chris Jones describes the Field School in Digital Humanities, offered in 2015, where students visit two medieval parish churches in Surrey containing historical objects Dr. Jones is digitizing: a 1615 King James Bible and medieval wall paintings. The aim of the field school is to investigate what digitizing technologies are appropriate for the artifacts. Jones advocates for site-specific research, to assess historical artifacts in the sites in which they would have been viewed and experienced and to understand their social and material significance. With the wall paintings, for example, he notes that simply creating high-resolution digital photos may distort online users’ experience of these paintings, as the paintings would historically have been viewed by candlelight, and were obscured for reasons of censorship for much of their history. The need for site-specific sensitivity demands a fieldwork approach to the work of the digital humanities.
 
-* Title of Artifact: Rome Lab
-* Artifact Type: A virtual 3D Reconstruction of the Roman Forum
-* Screenshot: 9-RomeLab.png
-* Source URL: http://www.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=6bfc7de39700434bbc9c1df48fed8b52
-* Artifact Permissions: RomeLab: Roman Forum, 44 BCE by Johanson is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License. 
-* Copy of the Artifact: N/A
-* Creator and Affiliation: Dr. Christopher Johanson, Department of Classics, UCLA
+### Rome Lab
+![screenshot](images/fieldworkRomeLab.png)
+
+* Source: http://www.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=6bfc7de39700434bbc9c1df48fed8b52
+* Copy of the Artifact: forthcoming
+* Creators: Christopher Johanson, Department of Classics, UCLA
 
 Using the analogy of a text-based critical edition, RomeLab recreates three critical editions of the Roman Forum, for 210 BCE, 160 BCE, 44 BCE. Developed within ArcGIS online using ArcMap shapefiles in Esri CityEngine, the project virtually reconstructs the Roman Forum at historical moments within interactive three-dimensional interfaces. The interface allows the user to navigate within the reconstruction and to view it from different three-dimensional perspectives. A form of virtual fieldwork that reconstitutes an archeological site, the researchers’ aim is to create  “digital laboratories” where individuals can have a virtual world experience. These digital laboratories enable students and scholars to bring the field home, with digital technology enhancing what can be seen on site, opening up new spatial perspectives and virtually reconstructing buildings that no longer exist. A built-in comparison tool uses a split-screen function to visualize different possible reconstructions, where data sources are uncertain or conflicting.
 
-* Title of Artifact: 2013 Cultural Heritage Informatics Fieldschool: Visualization: Time, Space, and Data
-* Artifact Type: Fieldschool course website
-* Screenshot: 10-CHIfieldschool-coursewebsite1.png
-* Source URL: http://anthropology.msu.edu/2013chifieldschool/
-* Artifact Permissions: Various Creative Commons Licenses
-* Copy of the Artifact: 10-culturalheritageinformaticsfieldschool.html
-* Creator and Affiliation: Dr. Ethan Watrall, Department of Anthropology, Michigan State University
+### 2013 Cultural Heritage Informatics Fieldschool: Visualization: Time, Space, and Data
+![screenshot](images/fieldworkCHIfieldschool-coursewebsite1.png)
+
+* Source: http://anthropology.msu.edu/2013chifieldschool/
+* Copy of the Artifact: forthcoming
+* Creators: Ethan Watrall, Department of Anthropology, Michigan State University
 
 The 2013 Cultural Heritage Informatics Fieldschool website has everything instructors need for thinking about how fieldwork can happen locally in the digital age. Students build digital skills related to the field of cultural heritage, concentrating on visualizing cultural data and undertaking data-intensive fieldwork on a range of sites.  In conceptualizing fieldwork as a critical-making practice of “building as a way of knowing” rather than as a spatial practice of exotic displacement, the course (and the fieldschool entire) prioritizes the development of work over going out into the field. Instead of a team of student researchers leaving home for a 6-week period for a foreign locale, the group comes together in an immersive and intensive work setting to engage in digital research around cultural heritage, using and aggregating existing data for projects on, for example, “Endangered African Heritage.” The potential for cultural fieldwork to distance itself from its exoticist colonial legacies thus emerges with digitally-oriented research practices, described in depth on this course site through course objectives, assignments, schedules, projects, and resource lists.
 
