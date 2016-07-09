@@ -47,7 +47,7 @@ In laying out the above, my hope is that those who are new to disability studies
 ## CURATED ARTIFACTS 
 
 ### Developing and Reflecting on a Black Disability Studies Pedagogy
-![screenshot](images/disabilityBlackds.png))
+![screenshot](images/disabilityBlackds.png)
 
 * Artifact type: Article 
 * Source: [http://dsq-sds.org/article/view/4637/3933](http://dsq-sds.org/article/view/4637/3933)
