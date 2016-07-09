@@ -65,9 +65,10 @@ approaches to digital pedagogy.
 ## CURATED ARTIFACTS 
 
 ### "Runaway Quilt Project: Digital Humanities Exploration of Quilting During the Era of Slavery"
-* Artifact Type: Student Work
 ![screenshot](images/intersectionality-Runaway-Quilt-Project.png)
-* Source URL: [http://jitp.commons.gc.cuny.edu/runaway-quilt-project-digital-humanities-exploration-of-quilting-during-the-era-of-slavery/](http://jitp.commons.gc.cuny.edu/runaway-quilt-project-digital-humanities-exploration-of-quilting-during-the-era-of-slavery/)
+
+* Artifact Type: Student Work
+* Source: [http://jitp.commons.gc.cuny.edu/runaway-quilt-project-digital-humanities-exploration-of-quilting-during-the-era-of-slavery/](http://jitp.commons.gc.cuny.edu/runaway-quilt-project-digital-humanities-exploration-of-quilting-during-the-era-of-slavery/)
 * Copy of Artifact: [files/intersectionality-Runaway-Quilt-Project.pdf](files/intersectionality-Runaway-Quilt-Project.pdf)
 * Creator: Deimosa Webber-Bey (Pratt Institute School of Information and Library Science) 
 
@@ -83,9 +84,10 @@ together provide a multi-pronged approach to answering a research question. It f
 draw on their personal experiences at intersections of their identities to develop a digital project. 
 
 ### "Digital Ethnography"
-* Artifact type: Assignment
 ![screenshot](images/intersectionality-Digital-Ethnography.png)
-* Source URL: [http://joglep.com/files/5914/3934/2744/5._Teaching_Artifact-Ostergaard-Digital_Ethnography.pdf](http://joglep.com/files/5914/3934/2744/5._Teaching_Artifact-Ostergaard-Digital_Ethnography.pdf)
+
+* Artifact type: Assignment
+* Source: [http://joglep.com/files/5914/3934/2744/5._Teaching_Artifact-Ostergaard-Digital_Ethnography.pdf](http://joglep.com/files/5914/3934/2744/5._Teaching_Artifact-Ostergaard-Digital_Ethnography.pdf)
 * Copy of Artifact: [files/intersectionality-Digital-Ethnography.pdf](files/intersectionality-Digital-Ethnography.pdf)
 * Creator: [Lori Ostergaard](http://comp-rhet.net/) (Oakland University)
 
@@ -101,9 +103,10 @@ relationship between online and offline identities and the way the internet is g
 oppression. 
 
 ### "Women Writing Worldwide Global Focus Mapping Project"
-* Artifact Type: Assignment
 ![screenshot](images/intersectionality-Women-Writing-Worldwide.png)
-* Source URL: [http://www.highpoint.edu/digiped/files/2014/02/20140331_JennBrandt_0001.pdf](http://www.highpoint.edu/digiped/files/2014/02/20140331_JennBrandt_0001.pdf)
+
+* Artifact Type: Assignment
+* Source: [http://www.highpoint.edu/digiped/files/2014/02/20140331_JennBrandt_0001.pdf](http://www.highpoint.edu/digiped/files/2014/02/20140331_JennBrandt_0001.pdf)
 * Copy of Artifact: [files/intersectionality-Women-Writing-Worldwide.pdf](files/intersectionality-Women-Writing-Worldwide.pdf)
 * Creator: Jenn Brandt (High Point University)
 
@@ -117,10 +120,10 @@ asked to research its context for women's experiences. This assignment is signif
 pedagogy because it challenges the students to think critically about the different experiences of oppression of 
 women around the world and to understand the global as an assemblage of the local.
 
-### "Teaching with Tumblr: Building a Digital Archive of Gender, Race & Empire" 
+### "Teaching with Tumblr: Building a Digital Archive of Gender, Race & Empire" ![screenshot](images/intersectionality-Teaching-with-Tumblr.png)
+
 * Artifact Type: Assignment
-![screenshot](images/intersectionality-Teaching-with-Tumblr.png)
-* Source URL: [http://notchesblog.com/2015/09/29/teaching-with-tumblr-building-a-digital-archive-of-gender-race-empire/](http://notchesblog.com/2015/09/29/teaching-with-tumblr-building-a-digital-archive-of-gender-race-empire/)
+* Source: [http://notchesblog.com/2015/09/29/teaching-with-tumblr-building-a-digital-archive-of-gender-race-empire/](http://notchesblog.com/2015/09/29/teaching-with-tumblr-building-a-digital-archive-of-gender-race-empire/)
 * Copy of Artifact: [files/intersectionality-Teaching-with-Tumblr.pdf](files/intersectionality-Teaching-with-Tumblr.pdf)
 * Creator: [Bianca Murillo](https://biancamurillo.net/) (Willamette University)
 
@@ -134,9 +137,10 @@ intersectional framework, this assignment links student experience with the hist
 It further reflects how user-friendly consumer social media platforms can be used for digital pedagogy. 
 
 ### "Latina Life Stories"
-* Artifact: Assignment
 ![screenshot](images/intersectionality-Latina-Life-Stories.png)
-* Source URL: [https://www.youtube.com/watch?v=bLbh2gw8EsA](https://www.youtube.com/watch?v=bLbh2gw8EsA)
+
+* Artifact: Assignment
+* Source: [https://www.youtube.com/watch?v=bLbh2gw8EsA](https://www.youtube.com/watch?v=bLbh2gw8EsA)
 * Copy of Artifact: [files/intersectionality-Latina-Life-Stories.mp4](files/intersectionality-Latina-Life-Stories.mp4)
 * Creator: [Rita Benmayor](https://csumb.edu/directory/people/rina-benmayor)
 
@@ -150,9 +154,10 @@ the intersections of their identities. Additionally, the assignment suggests how
 critical makers of technology, blending recorded narrative with visuals to bring their personal stories to life. 
 
 ### "Teaching Twentieth Century Art History with Gender and Data Visualizations"
-* Artifact Type: Assignment Sequence
 ![screenshot](images/intersectionality-Teaching-Twentieth-Century-Art-History.png)
-* Source URL: [http://jitp.commons.gc.cuny.edu/teaching-twentieth-century-art-history-with-gender-and-data-visualizations/](http://jitp.commons.gc.cuny.edu/teaching-twentieth-century-art-history-with-gender-and-data-visualizations/)
+
+* Artifact Type: Assignment Sequence
+* Source: [http://jitp.commons.gc.cuny.edu/teaching-twentieth-century-art-history-with-gender-and-data-visualizations/](http://jitp.commons.gc.cuny.edu/teaching-twentieth-century-art-history-with-gender-and-data-visualizations/)
 * Copy of Artifact: [files/intersectionality-Teaching-Twentieth-Century-Art-History.pdf](files/intersectionality-Teaching-Twentieth-Century-Art-History.pdf)
 * Creator: Nancy Ross (Dixie State University)
 
@@ -167,9 +172,10 @@ assumptions that these artists were all heterosexual. Students are given the opp
 biases, prejudices, and deeply held beliefs about axes of identity by engaging with digital pedagogy. 
 
 ### Teaching Embodiment through Technology
-* Artifact Type: Assignment Sequence
 ![screenshot](images/intersectionality-Teaching-Embodiment-through-Technology.png)
-* Source URL: [http://www.culanth.org/fieldsights/682-teaching-embodiment-through-technology](http://www.culanth.org/fieldsights/682-teaching-embodiment-through-technology)
+
+* Artifact Type: Assignment Sequence
+* Source: [http://www.culanth.org/fieldsights/682-teaching-embodiment-through-technology](http://www.culanth.org/fieldsights/682-teaching-embodiment-through-technology)
 * Copy of Artifact: [files/intersectionality-Teaching-Embodiment-through-Technology.pdf](files/intersectionality-Teaching-Embodiment-through-Technology.pdf)
 * Creator: Leah Zani (University of California, Irvine) and [Marzieh Kaivanara](http://www.bristol.ac.uk/school-of-arts/people/marzieh-kaivanara/index.html) (University of Bristol)
 
@@ -184,9 +190,10 @@ wearable activity monitors. In doing so, they offer a model for teaching student
 between gender, ability, and technology. 
 
 ### "Video Games as Feminist Pedagogy"
-* Artifact Type: Assignment Sequence
 ![screenshot](images/intersectionality-Video-Games-as-Feminist-Pedagogy.png)
-* Source URL: [http://journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166](http://journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166)
+
+* Artifact Type: Assignment Sequence
+* Source: [http://journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166](http://journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166)
 * Copy of Artifact: [files/intersectionality-Video-Games-as-Feminist-Pedagogy.pdf](files/intersectionality-Video-Games-as-Feminist-Pedagogy.pdf)
 * Creator: [Samantha Allen](http://samanthaleighallen.com/) (Independent Scholar)
 
@@ -201,9 +208,10 @@ take advantage of students' immersion in technological cultures to introduce the
 challenge them to consider their own experiences in relation to those who may not share them.
 
 ### "Panama Silver, Asian Gold: Reimagining Diasporas, Archives, and the Humanities"
-* Artifact Type: Syllabus
 ![screenshot](images/intersectionality-Panama-Silver-Asian-Gold.png)
-* Source URL: [http://dloc.com/digital/panamasilver](http://dloc.com/digital/panamasilver)
+
+* Artifact Type: Syllabus
+* Source: [http://dloc.com/digital/panamasilver](http://dloc.com/digital/panamasilver)
 * Copy of Artifact: [files/intersectionality-Panama-Silver-Asian-Gold.pdf](files/intersectionality-Panama-Silver-Asian-Gold.pdf)
 * Creator: Leah Rosenberg, Donette Francis, and Rhonda Cobham-Sander
 
@@ -219,8 +227,9 @@ the Water: Chinese Women in Trinidad”](http://ghostsinthewater.wordpress.com/)
 Caribbean Literature.”](https://queercaribbeanlit.wordpress.com/) 
 
 ### "Fashioning Circuits" 
-* Artifact Type: Syllabus
 ![screenshot](images/intersectionality-Fashioning-Circuits.png)
+
+* Artifact Type: Syllabus
 * Source URL: [http://fashioningcircuits.com/?page_id=2365](http://fashioningcircuits.com/?page_id=2365)
 * Copy of Artifact: [files/intersectionality-Fashioning-Circuits.pdf](files/intersectionality-Fashioning-Circuits.pdf)
 * Creator: [Kim A. Knight](http://kimknight.com/) (University of Texas, Dallas)
@@ -234,7 +243,6 @@ experience in critical making is accompanied by discussion of the affordances an
 relationship with wearable electronics. While other course materials that blend new media with intersectionality tend 
 to emphasize analysis and multimodal writing to assess student outcomes, "Fashioning Circuits" exemplifies how students 
 can create digital objects of a different kind to demonstrate their understanding of intersectionality and technology. 
-
 
 ## RELATED MATERIALS
 
