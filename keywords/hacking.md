@@ -44,9 +44,7 @@ Like [Play](https://github.com/curateteaching/digitalpedagogy/blob/master/keywor
 
 > MATT: "The work of many artists also exhibits a hackish sensibility." Can you please work on the transition to this point? It feels like an abrupt turn in the middle of the paragraph to me. How does this point and the sentences that follow relate to the comparison between hacking and play?
 
-In addition to showcasing hacks and hacking, the resources collected here also foreground issues of access, interest, tools, materials and space. Some hacking platforms seem to interest a much wider range of individuals than others. The most popular platform that I have found is music. Just about everyone seems to enjoy making their own simple musical instruments—Bart Hopkin’s *Making Musical Instruments with Kids* is a wonderful resource—-and this leads naturally into electronic musical experimentation (Collins). You can also use off-the-shelf construction toys like LEGO and [littleBits](http://littlebits.cc), or contraptions that are designed to teach scientific principles. Neil A. Downie has written a series of books with a number of fun projects that can serve as starting points for hacking.
-
-> MATT: this paragraph might be rewritten slightly for coherence. I'm a bit unsure about what it is centered on.
+The resources collected here showcase hacks and hacking, but they also foreground issues of access, interest, tools, materials and space. One of the most important decisions an instructor faces is the choice of platform: some hacking platforms seem to interest a much wider range of individuals than others. The most popular platform that I have found is music. Just about everyone seems to enjoy making their own simple musical instruments—Bart Hopkin’s *Making Musical Instruments with Kids* is a wonderful resource—-and this leads naturally into electronic musical experimentation (Collins). Off-the-shelf construction toys like LEGO and [littleBits](http://littlebits.cc) also make good hacking platforms. Another possibility is to use contraptions that are designed to teach scientific principles. Neil A. Downie has written a series of books with a number of fun projects that can serve as starting points for hacking.
 
 Finding suitable spaces to hack can be difficult; when my colleagues and I first started we did most of our work off-campus in private workshops and hackerspaces. As you try to create a space for hacking in your own institution, you can draw on [hackerspace design patterns](https://wiki.hackerspaces.org/images/8/8e/Hacker-Space-Design-Patterns.pdf), on books which contain practical advice for furnishing and modifying environments, such as Scott Doorley and Scott Witthoft’s *Make Space*; and on works like Steven Johnson’s *Where Good Ideas Come From*, which focus on the institutional contexts where innovation flourishes. Using the lingo of disruptive innovation can be a form of social engineering in its own right, one that your own institution might be susceptible to.
 
@@ -67,8 +65,6 @@ These are roughly ordered from accessible to aspirational.
 
 In this video, “Super-Awesome Sylvia” shows how to make two simple (but fun) projects with the Arduino, a small, inexpensive, open source microcontroller platform. One of the first challenges you face when teaching (with) hacking is convincing humanities students they can do it, too. Accessible role models are crucial here, and few university students are willing to tell you that they can’t do something after watching a ten-year old do it. Videos like this also give students permission to play, something many of them have not felt in a classroom since they were Sylvia’s age.
 
-> MATT: Note my edit here
-
 ### “Electronic Origami Flapping Crane.”
 ![screenshot](images/hacking-electronic_origami_flapping_crane.jpg)
 
@@ -78,9 +74,7 @@ In this video, “Super-Awesome Sylvia” shows how to make two simple (but fun)
 * Copy of Artifact: forthcoming
 * Creator: [Leah Buechley](http://leahbuechley.com) and colleagues at the [High-Low Tech](http://highlowtech.org) research group, MIT Media Lab, 2009-14
 
-In this project, the wings of an origami crane are made to flap with shape memory alloy. It is easily built by individuals or pairs in a workshop setting (taking approximately four hours) and is a lovely combination of new and old materials, ‘high’ and ‘low’ technologies, and aesthetics. Like the other tutorials on the High-Low Tech website, this one has broad appeal: it is intimately scaled and has a gentle quality that students may not associate with the activity of hacking. 
-
-> MATT: can you add a sentence suggesting how this might be utilized in the classroom?
+In this project, the wings of an origami crane are made to flap with shape memory alloy. It is easily built by individuals or pairs in a classroom or workshop setting (taking approximately four hours) and is a lovely combination of new and old materials, ‘high’ and ‘low’ technologies, and aesthetics. Like the other tutorials on the High-Low Tech website, this one has broad appeal: it is intimately scaled and has a gentle quality that students may not associate with hacking. Having a hands-on, somewhat contemplative activity to occupy students often provides space for thoughtful conversations that are difficult to stage in a more self-conscious seminar setting.
 
 ### “IHTFP Gallery.”
 ![screenshot](images/hacking-closeup_artoo_large.jpg)
@@ -91,9 +85,7 @@ In this project, the wings of an origami crane are made to flap with shape memor
 * Copy of Artifact: forthcoming
 * Creator: [MIT](http:web.mit.edu)
 
-“The word hack at MIT usually refers to a clever, benign, and ‘ethical’ prank or practical joke, which is both challenging for the perpetrators and amusing to the MIT community (and sometimes even the rest of the world!)” This website is an online exhibition of hacks that have been produced at the school over the years. It provides a good starting point for discussions of the history and anthropology of hacking (use with Levy and Coleman), hacking as engineering (Izawa), and the ambivalence and liminality associated with the practice. As alum Michael Snively writes on the MIT admissions blog, “Sure MIT loves the aftermath of the hack, postering the admissions site and the MIT homepage with them whenever they happen, but MIT HATES hackers when they’re actually putting up a hack.”
-
-> MATT: Can you begin this annotation with a sentence of your own rather than using a quotation?
+This website is an online exhibition of hacks that have been produced at MIT over the years. There the word is usually used for "a clever, benign, and ‘ethical’ prank or practical joke, which is both challenging for the perpetrators and amusing to the MIT community (and sometimes even the rest of the world!)” The site provides a good starting point for discussions of the history and anthropology of hacking (use with Levy and Coleman), hacking as engineering (Izawa), and the ambivalence and liminality associated with the practice. As alum Michael Snively writes on the MIT admissions blog, “Sure MIT loves the aftermath of the hack, postering the admissions site and the MIT homepage with them whenever they happen, but MIT HATES hackers when they’re actually putting up a hack.”
 
 ### “The Tinkering Studio.”
 ![screenshot](images/hacking-tinkering_studio.png)
