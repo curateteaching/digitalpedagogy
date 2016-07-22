@@ -1,152 +1,167 @@
---- 
+---
 title: Digital Pedagogy in the Humanities
-subtitle: Concepts, Models, and Experiments 
-chapter: Open
+subtitle: Concepts, Models, and Experiments
+chapter: Access
 URL: keywords/open.md
 author: 
 - family: Roy
   given: Michael
 editor: 
-- family: Davis
-  given: Rebecca Frost
+- family: Harris
+  given: Katherine D.
 publisher: Modern Language Association
 type: book
 ---
 
 # OPEN (Draft)
 
-### Michael Roy 
-Middlebury College  
+## MICHAEL ROY
+Middlebury College
 
-##### Publication Status:
-* **unreviewed draft**
+### Publication Status:
+
+* unreviewed draft
 * draft version undergoing editorial review
-* draft version undergoing peer-to-peer review
-* published 
+* **draft version undergoing peer-to-peer review** https://digitalpedagogy.commons.mla.org/
+* published
 
 ---
 
-## CURATORIAL STATEMENT 
+## CURATORIAL STATEMENT
 
-Open is complicated. How do the myriad ‘opens’ connect: open source, open access, open textbooks, open educational resources, massively open online courses. Those familiar with the history of open source software will recall the  endless hours of unresolved debate surrounding the difference between "free" and “open.” The recent debates surrounding MOOCs  raise important questions about whose interests are served by going all-in for open courses. Beyond these very specific debates, to what extent does the ‘source’ of our software matter when we make choices about platforms, systems, and environments for conducting our courses? In a market economy where educational technology is in the cross-hairs of Wall Street and Silicon Valley, just how committed are we to principles of openness that may turn out to be a distraction in the face of larger structural changes that represent an existential threat to our current way of operating?  More positively, what chances do we stand to reclaim control over the intellectual property that our current system has out-sourced to commercial publishers and software companies whose interests do not necessarily align with the interests of educators and students? How might a much more open information environment transform what happens in our classrooms? How do we promote the the open sharing of pedagogical artifacts that in turn enable us  to hack assignments and share teaching ideas and reclaim the means of production? 
+Open refers to a set of technical and legal arrangements that allow for the legal sharing, re-use, and modification of materials ranging from text to media to software. The underlying ideology of sharing and fostering re-use has sparked movements ranging from the open source software movement, to the creative commons licensing scheme, to the open access movement. Most of the digital pedagogy practices described in this volume depend on the open architecture of the internet and the associated ideology of sharing and re-purposing. Open in this context is a foundational principle and practice that enables the larger movement within higher education and beyond to take back the internet from commercial interests that focus on monetizing attention and privatizing the academic commons for financial gain. In this light, choosing open digital pedagogy can be seen as a political choice, with the work of open digital pedagogy contributing to the reclaiming of the commons, and the creation an architecture and a set of practices, conventions, and laws that will support this more democratic vision.  Regardless of one’s commitment to this broader vision, however, understanding the intersection of open and digital pedagogy can help as one considers software, content, and activities to use in teaching a course. To help make sense of the diverse range of pedagogical options surrounding open as a teaching strategy, it is useful to first describe some of the properties of open in the context of digital pedagogy. 
 
-Open is not an end unto itself, but a means to a specific end. As Mark Edington writes in the context of Open Access, Open is a strategy. Individual choices to pursue an Open strategy collectively contribute to a network that enables a form of re-mixing, bricolage, collaboration, new forms of authorship and authority, new modes of publication, and, as illustrated by this digital pedagogy volume itself, new forms of pedagogy. 
+* **Consumption versus contribution:** Some forms of digital pedagogy rely simply on using open resources, while others involve contributing to an open resource as part of the activity itself.
 
-The artifacts discussed here illustrate a wide range of open teaching practices that bring to light both the promises but also the challenges and problems of digital pedagogy done more or less on the open internet. Most of the examples focus on student-created works in multiple formats, highlighting ways in which writing for a broader [public](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/public.md)[ ](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/public.md), and using a range of open platforms and formats, can support a form of information literacy involving both reading and writing that extends beyond the nominal topic of the assignment. Some exemplify either student or faculty contributions to larger works of scholarship or the creation of resources for other scholars that have a life beyond the confines of the specific classroom and semester. These in turn raise hard questions of evaluation. In many of these examples, the work is done as a group, or as part of a collective, and yet our systems of grading and evaluation are largely organized around the individual contributor.  To the extent that much of this work is ‘database work’ that involves cataloging, creating metadata, and finding aids, how much is this ‘scholarship’?  Open clearly does not mean inferior, but there remains much work to be done both to establish that open can mean high-quality, and to re-think our methods of evaluation to accommodate digital work. 
+* **Content versus software:** Some forms of digital pedagogy focus activity on the use or creation of open content, while others depend on the use, creation, or modification of open software.
 
-In looking through the chosen  artifacts, it is also worth considering to what extent  being  ‘open’ comes at the expense of student learning and student privacy? Should students be forced to put their thoughts on-line for all to see? To what extent might these materials created when students are often  still quite young linger on-line for longer than they should? (See Jeff McClurken’s entry on [Public](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/public.md)
+* **Authoritative versus crowdsourced:** Open content as part of digital pedagogy falls along a spectrum from the highly authoritative to the massively crowdsourced. 
 
-Many of these examples also raise important challenges to our current market-based information economy. How might these interventions in favor of openness be seen as a path forward to re-capture a system dominated by market forces? Might forcing our students to confront at some meta level these complicated issues surrounding ‘open’ in turn prepare them (and us)  to think about how our choices of how to implement technology impacts our day to day lived experience, and our lives together in what we envision as a civil society? How hard do we want to argue against the "appificaiton of everything" that creates walled-gardens of content that resist the creative linking, re-use, and bricolage that early versions of the web encouraged us to think would transform our teaching and our students’ learning?
+* **Fixed versus Rewriteable:** Licensing of open content and open software can provide a read-only version or it can allow for copying, re-purposing, re-mixing, and redistribution. 
 
-## CURATED ARTIFACTS 
+* **Big versus Small:** Creating, using, or contributing to open resources can be simple and straightforward, or it can involve massive commitments of time and access to significant technological resources. 
+
+As Mark Edington writes in the context of Open Access, open is a strategy. Individual choices to pursue an open strategy collectively contribute to a network that enables new forms of re-mixing, bricolage, collaboration,  authorship and authority,  publication, and new forms of pedagogy. 
+
+Regardless of one’s commitment to this broader vision of an open academic commons, open of course is not always possible, nor is it always desirable. Copyright and licensing prohibit certain types of open work. A need for privacy can also argue for teaching behind a firewall. In addition, the current protocols and conventions for evaluation have not yet caught up with new modes of open and collaborative production, providing disincentives for scholars to move to open publishing models. In the classroom, these issues of evaluation manifest themselves  when evaluating student digital work, which requires new rubrics and new ways of identifying individual contributions to collective efforts.
+
+The chosen artifacts illustrate a wide range of open teaching practices that bring to light both the promises but also the challenges and problems of open digital pedagogy.  Most  focus on student-created works, highlighting ways in which writing for a broader [public](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/public.md)[ ](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/public.md), and using a range of open platforms and formats, can support a new form of information literacy. Some exemplify either student or faculty contributions to larger works of scholarship that have a life beyond the confines of the specific classroom and semester. Some highlight more ambitious efforts to customize open source software, or to build open textbooks, to address local pedagogical needs while also contributing to the commons. 
+
+In looking through the chosen  artifacts, consider to what extent being "open" comes at the expense of student learning and student privacy. Should students be forced to put their thoughts on-line for all to see? To what extent might these materials created when students are often  still quite young linger on-line for longer than they should? (See Jeff McClurken’s entry on [Public](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/public.md))
+
+Many challenge the current market-based information economy. Are these interventions in favor of openness a way to re-capture a system dominated by market forces? Might forcing students to confront these complicated issues surrounding "open" in turn prepare them to think about the ramifications of their technology choices on their daily life, and on civil society? Is this a path that leads away from the “appification of everything” that creates walled-gardens of content that resist the creative linking, re-use, and bricolage that early versions of the web enable? How much does the choice of open enact the change necessary for a digital pedagogy to flourish? 
+
+## CURATED ARTIFACTS
 
 ### Wikipedia Syllabus for Feminist Theory  
-![screenshot](images/Open-wikipedia-syllabus.png)
+![screenshot](images/open-wikipedia-syllabus-for-feminist-theory.png)
 
+* Artifact Type: syllabus
 * Source URL [https://en.wikipedia.org/w/index.php?title=Education_Program:Richard_Stockton_College_of_New_Jersey/GIS_3614_Feminist_Theory_(Fall_2014)&action=purge](https://en.wikipedia.org/w/index.php?title=Education_Program:Richard_Stockton_College_of_New_Jersey/GIS_3614_Feminist_Theory_(Fall_2014)&action=purge) 
+* Artifact Permissions: TBD
+* Copy of the Artifact: forthcoming
+* Creator: [Adeline Koh](http://adelinekoh.org/), Associate Professor of Literature, Richard Stockton College
 
-* Copy of the Artifact  : forthcoming
+Adeline Koh uses the open source encyclopedia as a platform for her students to create and curate entries for feminist theory class.  By challenging her students to do their work via editing *Wikipedia* articles, Koh forces them to confront tricky questions about knowledge, power, authority, and standards. *Wikipedia* in turn [cautions](https://en.wikipedia.org/wiki/Wikipedia:Student_assignments) faculty that simply turning students loose to edit entries may do no good for the students, and no good for *Wikipedia.* In this case, students are learning through contributing their work to an open, crowd-sourced encyclopedia, contributing new material in a small, manageable, and yet meaningful way. 
 
-* Creator : [Adeline Koh](http://adelinekoh.org/), Associate Professor of Literature at Richard Stockton College
+### Teaching Digital History: Collaborative Markup
+![screenshot](images/open-teaching-digital-history-collaborative-markup.png)
 
-Wikipedia is the gold standard for open pedagogy. They have even set up an office to support the integration of wikipedia curation into courses. The thoughtful work of Adeline Koh in challenging her students to do their work via editing wikipedia articles  forces them to confront tricky questions about knowledge, power, authority, and standards. Wikipedia in turn [cautions](https://en.wikipedia.org/wiki/Wikipedia:Student_assignments) faculty that simply turning students loose to edit entries may do no good for the students, and no good for wikipedia. 
-
-### Teaching Digital History: Collaborative Markup 
-![screenshot](images/Open-teaching-digital-history.png)
-
-* Source URL [http://wheatoncollege.edu/digital-history-project/teaching/](http://wheatoncollege.edu/digital-history-project/teaching/) 
-
-* Copy of the Artifact 
-
+* Artifact Type: Teaching assignment
+* Source URL: [http://wheatoncollege.edu/digital-history-project/teaching/](http://wheatoncollege.edu/digital-history-project/teaching/) 
+* Artifact Permissions: TBD
+* Copy of the Artifact: forthcoming
 * Creator:  Kathryn Tomasek, Wheaton College 
 
-One of the important things computers can do for us is to help bring to the surface patterns that our human brains may not be able to detect. But computers are profoundly bad at coping with many human artifacts, including our handwritten documents. As part of a larger project to teach students how to do archival and historical research, Kathryn Tomasek from Wheaton College has her students digitize and markup historical documents, contributing to the creation of an open archive, but simultaneously providing her students with an opportunity through learning the mark-up language and applying that language to these texts, to have a deep experience with a primary text, asking of it structural and lexical questions that both provide the eventual reader with the ability to identify patterns, and provide the student with a chance to make visible a history previously lost. Like writing for wikipedia, contributing to open history allows students to engage an audience beyond just their professor, and to consider how their work contributes to a larger historical project. 
+To teach students archival and historical research, Kathryn Tomasek has her students digitize and markup historical documents, contributing to the creation of an open archive. Her students have a deep experience with a primary text, asking of it structural and lexical questions that provide the reader with the ability to identify patterns, and provide the student with a chance to make visible a history previously lost.  This contributes to the creation of an open archive for use by scholars.  Unlike writing terms papers that only a professor will read, open history allows students to learn how to write for a broader audience, as well as to learn about structuring data for use by the public, and the role of such work in the creation of a commons. 
 
-### First Year Seminar Digital Storytelling (digital stories)
-![screenshot](images/Open-digital-stories.png)
+### First Year Seminar Digital Storytelling
+![screenshot](images/open-first-year-seminar-digital-storytelling.png)
 
-* Source URL [http://stories.umbc.edu/fys.php](http://stories.umbc.edu/fys.php) 
+* Artifact Type: Syllabus
+* Source URL: [https://drive.google.com/file/d/0B7N5fppR9qT_aU52T2p5MGl3RXh2WnRNSkZ4cHBqeWh6S0dr/view?usp=sharing](https://drive.google.com/file/d/0B7N5fppR9qT_aU52T2p5MGl3RXh2WnRNSkZ4cHBqeWh6S0dr/view?usp=sharing) 
+* Artifact Permissions: TBD
+* Copy of the Artifact: on google drive (via link)
+* Creator: William Shewbridge, University of Maryland, Baltimore County
 
+Open writing (contributing to *Wikipedia*, contributing to open history projects) is but one of many options for challenging students to produce public scholarship. In this example, first-year seminar students at University of Maryland, Baltimore County, produced short documentary videos in the form of digital stories [shared via the web](http://stories.umbc.edu/fys.php). The "Much in Common," first-year seminar class explored common themes in both adolescence and  aging, stages in life that can transform a person’s sense of identity. In intergenerational teams, undergraduates explore changes in their identities by producing video stories together that focus on common threads, shared insights and lessons about growth. Contributing to an open publication with an audience well beyond the professor, and creating video resources that in turn can be useful for subsequent scholars, forces students to consider a host of complex but important issues that the dominant mode of the closed classroom avoids. 
+
+### Annotating Walt Whitman’s Poetry (Introduction to Graduate Literary Study)
+![screenshot](images/open-annotating-walt-whitman-poetry.png)
+
+* Artifact Type: Syllabus
+* Source URL [https://drive.google.com/file/d/0B7N5fppR9qT_X1o2WjVTQ0xFT1hBV3pGLTRqQzAzdFBPQ0RZ/view?usp=sharing](https://drive.google.com/file/d/0B7N5fppR9qT_X1o2WjVTQ0xFT1hBV3pGLTRqQzAzdFBPQ0RZ/view?usp=sharing) 
+* Artifact Permissions: TBD
+* Copy of the Artifact: in google drive
+* Creator: Carol Singley, Rutgers University
+
+A technology for enabling open peer review makes its way into the curriculum with this re-purposing of CommentPress (an open source web publishing tool built on the open source website software WordPress)  to empower students of Walt Whitman’s poems to [annotate his poems](http://notes.lookingforwhitman.org/2009/10/05/song-of-the-redwood-tree/).  This classroom exercise where students collaboratively annotate  Whitman’s poems in full public view suggests the power but also the perils of openness. How much should teachers  insist that their students make public their thoughts and impressions? What does it mean when one’s not yet fully formed thoughts, once shared in the safety of the closed seminar room, become part of the web’s  permanent record? And to what extent does current copyright law inhibit such open work on materials not in the public domain?  
+
+### HIST 215 Online: Social Forces that Shaped America
+![screenshot](images/open-source-history-textbook.png)
+
+* Artifact Type: syllabus
+* Source URL: [https://docs.google.com/document/d/11NpiYRu54dTgN1_8ajpj5CKDS8MxfwOJD0CbmafeWCE/edit](https://docs.google.com/document/d/11NpiYRu54dTgN1_8ajpj5CKDS8MxfwOJD0CbmafeWCE/edit) 
+* Artifact Permissions: TBD
+* Copy of the Artifact : in google drive
+* Creator: Max Paul Friedman, American University 
+
+In order to provide flexibility for his teaching, and to save his students money, Friedman adopted the OpenStax [U.S. History Textbook](https://openstaxcollege.org/textbooks/us-history).  Open textbooks, often licensed in a way that allow for revision and remixing, represent a part of the broader Open Educational Resource movement, which envisions a universe of freely available modules that can be mixed and matched to suit the needs of a course and its students. They deliver savings to students, flexibility to instructors, and the chance to reclaim control over a portion of the academic publishing universe. While creating an open textbook is an example on the “large” scale, requiring a significant investment of time, it is an increasingly relevant model that many institutions are trying to support in their efforts to  shift the dial in the direction of a more open universe of educational resources. 
+
+### Map of Early Modern London
+![screenshot](images/open-map-of-early-modern-london.png)
+
+* Artifact Type: Assignment 
+* Source URL [https://mapoflondon.uvic.ca/docs/hogan_moeml_assignment_engl_325_fall_2014.pdf](https://mapoflondon.uvic.ca/docs/hogan_moeml_assignment_engl_325_fall_2014.pdf) 
+* Artifact Permissions: TBD
 * Copy of the Artifact: forthcoming
+* Creator:  Sarah Hogan, Wake Forest University
 
-* Creator and Affiliation : University of Maryland, Baltimore County.
+Sarah Hogan’s students contribute to  the open access "Map of Early Modern London" through a class assignment that is in her words “ a rare opportunity for undergraduates to engage in serious, knowledge-producing, interdisciplinary research; to collaboratively draft, fact-check, edit, and revise our writing; and to write for a public readership in a digital environment. As such, it will likely be an opportunity to practice the kind of scholarship and writing that many of you will go on to do after graduation.” The larger map project in its [mission](http://mapoflondon.uvic.ca/mission_statement.htm) makes clear that its commitment to open is deep, enabling and in fact enabled by this sort of work by Hogan’s students.
 
-Open writing (contributing to wikipedia, contributing to open history projects) is but one of many options for challenging students to produce public scholarship. In this example, first-year seminar students at University of Maryland, Baltimore County, produced short documentary videos in the form of digital stories shared via the web..The "Much in Common," first-year seminar class explored common themes in both adolescence and  aging, stages in life that can transform a person’s sense of identity. In intergenerational teams, undergraduates explore changes in their identities by producing video stories together that focus on common threads, shared insights and lessons about growth. Contributing to an open publication with an audience well beyond the professor, and creating video resources that in turn can be useful for subsequent scholars, forces students to consider a host of complex but important issues that the dominant mode of the closed classroom avoids. 
+### Middlebury’s Virtual Sports Museum
+![screenshot](images/open-middlebury-college-athletic-history-gallery.png)
 
-### Open Annotations (student  annotated walt whitman poems) 
-![screenshot](images/Open-open-annotations.png)
-
-* Source URL [http://notes.lookingforwhitman.org/2009/10/05/song-of-the-redwood-tree/](http://notes.lookingforwhitman.org/2009/10/05/song-of-the-redwood-tree/) 
-
-* Copy of the Artifact: forthcoming
-
-* Creator:  Carol  Singley,  Rutgers University
-
-A technology for enabling  open peer review makes its way into the curriculum with this re-purposing of CommentPress (a web publishing tool built on the open source blog engine WordPress)  to empower students of Walt Whitman’s poems to annotate his (out of copyright) poems.  While a discussion of the implications of open peer review for scholarly communication may be out of scope for this volume, this classroom exercise where students collaboratively annotate  Whitman’s poems in full public view suggests the power but also the perils of openness. How much as teachers must we insist that our students make public their thoughts and impressions, knowing full well that one of the joys of thinking out loud during a seminar is that there is no permanent record of trying on ideas that you may in the end completely reject? And to what extent does current copyright law inhibit such open work on materials not in the public domain? Since Whitman’s work is out of copyright, this is an easy project to do in this manner. It would be nearly impossible to imagine clearing the rights to allow this sort of work for a poet whose work is still under copyright. 
-
-### Open Source Theatre Textbook (open textbook)
-![screenshot](images/Open-open-source-theatre-textbook.png)
-
-* Source URL [https://opensourcetheatretextbook.wordpress.com/](https://opensourcetheatretextbook.wordpress.com/)  
-
-* Copy of the Artifact: forthcoming 
-
-* Creator:  Charlie Mitchell, University of Florida
-
-The promise of Open Textbooks is that they deliver savings to students, flexibility to instructors, and the chance to reclaim control over a portion of the academic publishing universe, allowing for a world of creative re-mix and re-purposing. While the utopian vision of a completely open world of textbooks seems many revisions of copyright laws away, examples such as Mitchell’s provide hope that the current rigid and expensive system is not the only alternative. Finding open textbooks to  adapt is easy, although the odds are that for most, it will be simpler to stay the course with the current mode of teaching from closed, proprietary sources. Creating open textbooks is far more complicated, doesn’t always count for much with tenure committees, but may very well as part of a larger project, shift the dial in the direction of a more open universe of educational resources. 
-
-### The American South: Its Stories, Music, and Art (Massively Open Online Course )
-![screenshot](images/Open-american-south.png)
-
-* Source URL [https://www.coursera.org/learn/the-south](https://www.coursera.org/learn/the-south) 
-
-* Copy of the Artifact: forthcoming
-
-* Creator:  William Ferris, University of North Carolina
-
-The first 0 in MOOC is Open.  The notion behind open in the world of MOOCs is that hundreds, thousands, and even millions of global citizens can learn from the world’s most elite professors, and that this will change everything somehow. Making highly-visible MOOCs seems on the one hand to be only for those who the MOOC providers (for now Coursera, EDx, Udacity)  choose to allow to make MOOCs; on the other hand, there is a whole world of possibility in  re-mixing and re-purposing the Open Educational Resources provided in chunks to support various pedagogies online, hybrid, and face to face. A growing number of faculty are exploring how they might augment their own classes through the adoption of other MOOCs as a course textbook, in essence flipping their classrooms with other people’s video lectures. Here the value of openness lies in this ability to re-mix the content of the MOOC. The open nature of the MOOC also provides access to these materials to non-traditional students not necessarily enrolled in degree programs (although the promise there seems greater than the actual data about usage suggests)  . 
-
-### Middlebury College Athletic History Gallery (student curated image galleries)
-![screenshot](images/Open-athletic-history-gallery.png)
-
-* Source URL [https://www.flickr.com/photos/middarchive/sets/](https://www.flickr.com/photos/middarchive/sets/)  [http://cr.middlebury.edu/amlit_civ/allen/web_museum/](http://cr.middlebury.edu/amlit_civ/allen/web_museum/) 
-
-* Copy of the Artifact: forthcoming 
-
+* Artifact Type: syllabus
+* Source URL: [http://sites.middlebury.edu/fieldhousemuseum/course-description-2/requirements/](http://sites.middlebury.edu/fieldhousemuseum/course-description-2/requirements/)
+* Artifact Permissions: TBD
+* Copy of the Artifact: 
 * Creator and Affiliation: Holly Allen, Middlebury College
 
-Students in Holly Allen’s Web Museum class find, scan, annotate, and create curated collections of images that cover a wide range of topics in American cultural history, ranging from race, gender, education, popular literature, and sports. Through this activity, they grapple with the complexities of finding and interpreting primary source materials, the challenges of how to organize and structure a wide range of multimedia, and writing for a general audience in a multimedia format. As with many of the examples of ‘open’ coursework, the shift from writing for a teacher to writing for a broader audience requires students to change their rhetorical strategies. The addition of requiring a multimedia, multimodal presentation further amplifies the need for students to consider how to effectively use the medium of the web to present both materials and a thesis about those materials. As more primary source materials make their way onto the open web, these sorts of assignments become increasingly easier to execute, since the work becomes more of discovery and curation, and less of the cumbersome work of scanning from print and other analog formats. And by asking students to engage in openly published research, it provides the school with a means to highlight student research output, albeit with the risk that the uneven nature of student work may not always shine the most flattering light on the school. 
+Students in the Web Museum class curate collections of images covering a range of topics in American cultural history, from race, gender,  and education to  popular literature, and sports. They grapple with the complexities of finding and interpreting primary source materials, the challenges of how to structure multimedia, and writing for a general audience. The shift from writing for a teacher to writing for a broader audience requires students to change their rhetorical strategies. Requiring a multimodal presentation further amplifies the need for students to consider how to effectively use the medium of the web to present both materials and a thesis about those materials. As more primary source materials are on the open web, these sorts of assignments become easier to execute, since the work becomes more of discovery and curation, and less scanning.  By asking students to engage in openly published research, it also provides the school with a means to highlight student research output.
 
-### Student Generated Literary Maps
-![screenshot](images/Open-student-generated-literary-maps.png)
+### Mapping Mrs. Dalloway
+![screenshot](images/open-student-generated-literary-maps.png)
 
+* Artifact Type: assignment
 * Source URL : [http://www.briancroxall.net/s14dh/assignments/mapping-mrs-dalloway/](http://www.briancroxall.net/s14dh/assignments/mapping-mrs-dalloway/) 
-
-* Copy of the Artifact: forthcoming 
-
+* Artifact Permissions: TBD
+* Copy of the Artifact: forthcoming
 * Creator:  Brian Croxall, Emory University
 
-Students in Brian Croxall’s "Introduction to Digital Humanities" read Virginia Woolf’s Mrs. Dalloway, and then are asked to work in assigned groups to map the movements of characters using Google Earth. The work is then shared to the world via a single google map file that aggregates the work of the various groups. Since the course explicitly concerns itself with the question of how technology can influence the act of interpreting literary texts, students are also asked to reflect on the work of making these maps, and in what ways they were able to gain insights into the text through this sort of analysis. While the priority here is on the digital method and the insights it produces, the activity of openly sharing they syllabus and resulting data is a secondary but important benefit of moving work outside of the closed, private world of course management systems, allowing for these sorts of experimental practices to be visible to other teachers. And having the student-generated map data live inside the google map application allows for this data to be mixed and matched with other data from other sources, an argument for open data formats. 
+Students in Brian Croxall’s "Introduction to Digital Humanities" read Virginia Woolf’s Mrs. Dalloway, and then work  in groups to map the movements of characters using Google Earth. The work is then shared to the world via a single google map that aggregates all of the maps. Since the course explicitly concerns itself with the question of how technology can influence the act of interpreting literary texts, students are also asked to reflect on the work of making these maps, and in what ways they were able to gain insights into the text through this sort of analysis. While the priority here is on the digital method and the insights it produces, the activity of openly sharing the syllabus and resulting data is a secondary but important benefit of moving work outside of the closed course management systems, allowing for these sorts of experimental practices to be visible to other teachers. Having the student-generated map data live inside the google map application allows for this data to be mixed and matched with other data from other sources. 
 
-### Open Source Course Management System
-![screenshot](images/Open-open-source-course-management-system.png)
+### Open API TwitterBot
+![screenshot](images/open-API-twitterbot.png)
 
-* Copy of the Artifact: forthcoming 
-
-* Creator:  
-
-Faculty needing to assess student language proficiency have moved to online assessments as a means of saving time and for the convenience of the students. Moodle's online assessment tools worked okay, but the Middlebury College  languages schools wanted a way to improve them in order to make them adaptive, allowing the student to move more quickly through the assessment. Because Moodle is open source, we were able to create an enhancement to the assessment that was adaptive, allowing the students to move much more quickly through the process, and delivering a better placement for the departments. Open source software and proprietary software with an open architecture can with some planning and some technical resources allow for more bespoke tweaks, improvements, and enhancements that can overcome some of the profound limitations of many digital platforms.  In this case, the open source nature of Moodle perhaps improved the LMS’s reputation as closed wall gardens that discourage sharing and the promise of remix culture. While most faculty simply use software as it is, the point about open here is that the right software (open source or open architecture) can be adapted to allow for it to better meet needs. While still "free as a free kitten", it does provide a level of freedom. (Would love more examples of how github, omeka, zotero have been used/adapted)
-
-### Wasting Time on the Internet (course description)
-![screenshot](images/Open-wasting-time.png)
-
-* Source URL [https://www.english.upenn.edu/courses/undergraduate/2015/spring/engl111.301](https://www.english.upenn.edu/courses/undergraduate/2015/spring/engl111.301) 
-
+* Artifact Type: assignment
+* Source URL: [https://www.youtube.com/watch?v=WNUazuo2w0**U](https://www.youtube.com/watch?v=WNUazuo2w0U) 
+* Artifact Permissions: TBD
 * Copy of the Artifact: forthcoming
+* Creator:  Mark Sample, Davidson College 
 
-* Creator and Affiliation [Kenneth Goldsmith](https://www.english.upenn.edu/people/kenneth-goldsmith), University of Pennsylvania
+As part of an EdX MOOC on [Electronic Literature](https://www.edx.org/course/electronic-literature-davidsonx-d004x) , Mark Sample borrowed the method of [creating a twitterbot](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/) from Zach Whalen, which in turn relies on Twitter’s Open API. For Whalen, bots are "one way to do creative things in a networked digital context." By asking students to work within the re-mix architecture of open systems, Sample and Whalen expose students to the power, complexity, and possibility of joining together open systems and open data, and to share that work via these public channels. 
 
-"Wasting Time on the Internet" starts with this basic premise: how do you make art out of the enormity of the web, the internet, and everything in between? What happens if you start with the premise that there will be no textbook, nothing you need to buy at the bookstore, nothing the library needs to license on your behalf, and you simply set students loose to do what they will, and make what they can? “Wasting Time on the Internet” completely depends on an Open internet for the students to ramble through. As such, it is a fascinating case study in not just meeting students where they are, but pushing them to move beyond multitasking into a mode of pure distraction and play, all the while encouraging a level of self-awareness and reflection on what it means to create art in an age of information excess. 
+### Artifact Title: Wasting Time on the Internet
+![screenshot](images/open-wasting-time-on-the-internet.png)
+
+* Artifact Type: classroom activities
+* Source URL [https://docs.google.com/document/d/11O3xuBYBJfmZ-kq7HgulXFHjbmNabjKxQ3SIWRn87Cc/edit?usp=sharing](https://docs.google.com/document/d/11O3xuBYBJfmZ-kq7HgulXFHjbmNabjKxQ3SIWRn87Cc/edit?usp=sharing) 
+* Artifact Permissions: TBD
+* Copy of the Artifact : google drive link
+* Creator and Affiliation:  Kenneth Goldsmith, University of Pennsylvania
+
+"[Wasting Time on the Internet](https://www.english.upenn.edu/courses/undergraduate/2015/spring/engl111.301)" starts with this basic premise: how do you make art out of the enormity of the web, the internet, and everything in between? What happens if you start with the premise that there will be no textbook, nothing you need to buy at the bookstore, nothing the library needs to license on your behalf, and you simply set students loose to do what they will, and make what they can? “Wasting Time on the Internet” depends on an open internet for the students to ramble through. As such, it is a [fascinating case study](http://www.slate.com/articles/arts/culturebox/2015/04/kenneth_goldsmith_and_penn_s_wasting_time_on_the_internet_course.html) in not just meeting students where they are, but pushing them to move beyond multitasking into a mode of pure distraction and play, all the while encouraging a level of self-awareness and reflection on what it means to create art in an age of information excess, and how the internet shapes what we know and who we are. 
 
 ## RELATED MATERIALS
 
@@ -154,7 +169,7 @@ Brett D. Hirsch (ed.), Digital Humanities Pedagogy: Practices, Principles and Po
 
 Lisa Spiro and Bryan Alexander, Open Education in the Liberal Arts: A NITLE Working Paper [https://infocult.files.wordpress.com/2011/01/open_education_working_paper_v2_april112012.pdf](https://infocult.files.wordpress.com/2011/01/open_education_working_paper_v2_april112012.pdf)
 
-Michael Roy, The Open-Source Bazaar Makes Scholarship Available [http://mroy.web.wesleyan.edu/talks/nitle-chicago-nov04/chronicle.html](http://mroy.web.wesleyan.edu/talks/nitle-chicago-nov04/chronicle.html) 
+Fifty shades of open [ http://dx.doi.org/10.5210/fm.v21i5.6360] ( http://dx.doi.org/10.5210/fm.v21i5.6360	) , Jeffrey Pomerantz, Robin Peek, First Monday, Volume 21, Number 5 - 2 May 2016
 
 Jesse Stommel (ed.) , Hybrid Pedagogy, [http://www.hybridpedagogy.com/](http://www.hybridpedagogy.com/) 
 
@@ -162,41 +177,41 @@ Yochai Benkler, The Wealth of Networks, [http://www.benkler.org/Benkler_Wealth_O
 
 ## WORKS CITED
 
-A works cited for all references in your entry, including your ten artifacts, your five related materials, and anything referenced in your curatorial statement in MLA style.
-
 Allen, Holly. "The American Studies Web Museum at Middlebury College," n.d.
+
+"Collaborative Research Assignment: Digitization as Pedagogy and Scholarly Collaboration",* Teaching – Digital History Project, Wheaton College.* February 5, 2012. http://wheatoncollege.edu/digital-history-project/teaching/.
 
 Conlin, Brian, "Charlestown Residents Impart Lessons of Transition to UMBC Students." *Baltimoresun.com*. Accessed May 11, 2015. http://www.baltimoresun.com/explore/baltimorecounty/news/ph-ca-at-umbc-charlestown-1221-20111218-story.html.
 
+Croxall, Brian, "Mapping Mrs. Dalloway." *Intro to DH*. Accessed May 11, 2015. http://www.briancroxall.net/s14dh/assignments/mapping-mrs-dalloway/.
+
 Edington , Mark D.W. "The Commons of Scholarly Communication: Beyond the Firm", Educause Review. January 12, 2015. 
 
-Koh, Madeleine, "Education Program:  Richard Stockton College of New Jersey/GIS 3614 Feminist Theory (Fall 2014)." *Wikipedia, the Free Encyclopedia*. Accessed May 11, 2015. https://en.wikipedia.org/w/index.php?title=Education_Program:Richard_Stockton_College_of_New_Jersey/GIS_3614_Feminist_Theory_(Fall_2014)&action=purge.
+Ferris, William, "The American South: Its Stories, Music, and Art - The University of North Carolina at Chapel Hill." *Coursera*. Accessed May 11, 2015. https://www.coursera.org/learn/the-south.
+
+"First-year Seminar: Much In Common: Intergenerational Teams Create Videos About Identity and Wisdom" , *Digital Stories @ UMBC*, http://stories.umbc.edu/fys.php.
 
 Goldsmith, Kenneth. "Wasting Time on the Internet; ENGL 111.301." Penn Arts & Sciences, Department of English, n.d. https://www.english.upenn.edu/courses/undergraduate/2015/spring/engl111.301.
 
 Hirsch, Brett D., ed. *Digital Humanities Pedagogy: Practices, Principles and Politics*. Open Book Publishers, 2012. http://www.openbookpublishers.com/product/161/digital-humanities-pedagogy--practices--principles-and-politics.
 
-"Hybrid Pedagogy", http://www.hybridpedagogy.com/.” n.d. (Not sure how to cite an entire journal!) 
+*Hybrid Pedagogy* http://www.hybridpedagogy.com/.” n.d. 
+
+Koh, Adeline, "Education Program:  Richard Stockton College of New Jersey/GIS 3614 Feminist Theory (Fall 2014)." *Wikipedia, the Free Encyclopedia*. Accessed May 11, 2015. https://en.wikipedia.org/w/index.php?title=Education_Program:Richard_Stockton_College_of_New_Jersey/GIS_3614_Feminist_Theory_(Fall_2014)&action=purge.
 
 Koh, Adeline. "Integrating Wikipedia in Your Courses: Tips and Tricks." *The Chronicle of Higher Education Blogs: ProfHacker*, February 18, 2015. http://chronicle.com/blogs/profhacker/integrating-wikipedia-in-courses/59301?cid=wc&utm_source=wc&utm_medium=en.
-
-Croxall, Brian, "Mapping Mrs. Dalloway." *Intro to DH*. Accessed May 11, 2015. http://www.briancroxall.net/s14dh/assignments/mapping-mrs-dalloway/.
 
 Mitchell, Charlie, Dr. *An Open Source Theatre Textbook*. Accessed May 11, 2015. https://opensourcetheatretextbook.wordpress.com/.
 
 "Moodle @ Middlebury," n.d. http://moodle.middlebury.edu/.
 
-Spiro, Lisa and Alexander, Bryan. (2012). "Open Education in the Liberal Arts: A NITLE Working Paper." [http://hdl.handle.net/1911/79394](http://hdl.handle.net/1911/79394). 
+"Notes for Select Whitman Poems: Song of the Redwood Tree.." Accessed May 11, 2015. http://notes.lookingforwhitman.org/2009/10/05/song-of-the-redwood-tree/.
 
 Roy, Michael. "The Open-Source Bazaar Makes Scholarship Available." *The Chronicle of Higher Education*, (September 24, 2004). [http://m.chronicle.com/article/The-Open-Source-Bazaar-Makes/27523](http://m.chronicle.com/article/The-Open-Source-Bazaar-Makes/27523) 
 
-"Notes for Select Whitman Poems: Song of the Redwood Tree.." Accessed May 11, 2015. http://notes.lookingforwhitman.org/2009/10/05/song-of-the-redwood-tree/.
+Spiro, Lisa and Alexander, Bryan. (2012). "Open Education in the Liberal Arts: A NITLE Working Paper." [http://hdl.handle.net/1911/79394](http://hdl.handle.net/1911/79394). 
 
-"Collaborative Research Assignment: Digitization as Pedagogy and Scholarly Collaboration",* Teaching – Digital History Project, Wheaton College.* February 5, 2012. http://wheatoncollege.edu/digital-history-project/teaching/.
 
-Ferris, William, "The American South: Its Stories, Music, and Art - The University of North Carolina at Chapel Hill." *Coursera*. Accessed May 11, 2015. https://www.coursera.org/learn/the-south.
-
-"First-year Seminar: Much In Common: Intergenerational Teams Create Videos About Identity and Wisdom" , *Digital Stories @ UMBC*, http://stories.umbc.edu/fys.php.
 
  
 

@@ -15,17 +15,17 @@ publisher: Modern Language Association
 type: book
 ---
 
-# ARCHIVE (Draft)
+# Archive
 
-## AUTHORS: Lauren Coats (LSU) and Gabrielle Dean (Johns Hopkins University)
+### Lauren Coats (LSU) and Gabrielle Dean (Johns Hopkins University)
 
 
 ---
 
 ##### Publication Status:
 * unreviewed draft
-* **draft version undergoing editorial review**
-* draft version undergoing peer-to-peer review https://digitalpedagogy.commons.mla.org/
+* draft version undergoing editorial review
+* **draft version undergoing peer-to-peer review https://digitalpedagogy.commons.mla.org/**
 * published 
 
 --- 	
@@ -50,8 +50,8 @@ The objects we have collected below embrace a decidedly vernacular understanding
 ### "Archive Project"
 ![screenshot](images/archive-archive project.jpg)
 
-* Artifact type: assignment and student work
-* Source URL: http://digital.lib.lehigh.edu/remain/con/lit376_over.html
+* Artifact Type: assignment and student work
+* Source URL: [http://digital.lib.lehigh.edu/remain/con/lit376_over.html](http://digital.lib.lehigh.edu/remain/con/lit376_over.html)
 * Copy of Artifact: [files/archive-archive%20project-copy.htm](files/archive-archive%20project-copy.htm)
 * Creator: Ed Gallagher (Lehigh University) and Meg Norcia (State University of New York - Brockport)
 * Permissions:  fair use
@@ -62,9 +62,9 @@ In this transcription exercise, students both use and build archives, which has 
 ### Commonplacing Assignment
 ![screenshot](images/archive-commonplacing assignment.jpg)
 
-* Artifact type:  assignment
-* Source URL: http://www.rci.rutgers.edu/~ag978/355/commonplace/single.html
-* Copy of Artifact: [files/archive-commonplacing%20assignment-copy.htm](files/archive-commonplacing%20assignment-copy.htm)
+* Artifact Type: assignment
+* Source URL: [http://www.rci.rutgers.edu/~ag978/355/commonplace/single.html](http://www.rci.rutgers.edu/~ag978/355/commonplace/single.html)
+* Copy of Artifact: [files/archive-commonplacing%20assignment-copy.htm](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/files/archive-commonplacing%20assignment-copy.htm)
 * Creator: Andrew Goldstone (Rutgers University)
 * Permissions: CC-BY-NC 3.0 Unported
 
@@ -74,11 +74,9 @@ A commonplace book is a form of personal archive, a means of recording and arran
 ### "Composing Digital Media: Citizen Archives"
 ![screenshot](images/archive-composing digital media.jpg)
 
-* Artifact type: syllabus
-* Source URL: http://www.digitaltrishacampbell.com/cdm_citizen.html
-* Copy of Artifact: [files/archive-composing%20digital%20media-copy.htm](files/archive-composing%20digital%20media-copy.htm)
+* Artifact Type: syllabus
+* Source URL: [http://www.digitaltrishacampbell.com/cdm_citizen.html](http://www.digitaltrishacampbell.com/cdm_citizen.html)
 * Creator: Trisha Campbell (Salisbury University)
-* Permissions: no license or copyright information given; fair use
 
 This course demonstrates one way to focus students’ attention on what is left out, by teaching students to recognize and redress the gaps that exist in all archives.  Building on the National Archives’ call for "citizen archivists" to contribute to its collections, Campbell’s readings and assignments help students develop digital media skills by composing narratives and artifacts for  "locally made, citizen composed archives."  The assignments, such as creating a photographic "Recovery Story" of a person or thing, encourage students to consider the historical importance and the ephemerality of individual perspectives and the everyday.  This course models how digital literacy or composition courses can productively engage with archival practices and theories.
 
@@ -86,9 +84,9 @@ This course demonstrates one way to focus students’ attention on what is left 
 ### *Designing Object-Based Experiences: A Prototyping Game*
 ![screenshot](images/archive-designing object based experiences.jpg)
 
-* Artifact type: game
-* Source URL: http://beautifuldata.metalab.harvard.edu/wp-content/uploads/2014/09/BD_Game_Cards.pdf 
-* Copy of Artifact: [files/archive-designing%20object%20based%20experiences-copy.pdf](files/archive-designing%20object%20based%20experiences-copy.pdf)
+* Artifact Type: game
+* Source URL: [http://beautifuldata.metalab.harvard.edu/wp-content/uploads/2014/09/BD_Game_Cards.pdf ](http://beautifuldata.metalab.harvard.edu/wp-content/uploads/2014/09/BD_Game_Cards.pdf )
+* Copy of Artifact: [files/archive-designing%20object%20based%20experiences-copy.pdf](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/files/archive-designing%20object%20based%20experiences-copy.pdf)
 * Creator: metaLAB (Harvard University)
 * Permissions: Creative Commons Attribution 3.0 Unported 
 
@@ -98,8 +96,8 @@ What kinds of experiences can archival materials generate?  Students get to play
 ### *A Guide for Using Primary Source or Original Source Documents: Origins, Purpose, Values, Limitations (OPVL)*
 ![screenshot](images/archive-guide using primary sources.jpg)
  
-* Artifact type: teaching guidelines
-* Source URL: http://www.minnesotahumanities.org/Resources/A%20Guide%20for%20Using%20Primary%20Source%20Documents.pdf
+* Artifact Type: teaching guidelines
+* Source URL: [http://www.minnesotahumanities.org/Resources/A%20Guide%20for%20Using%20Primary%20Source%20Documents.pdf](http://www.minnesotahumanities.org/Resources/A%20Guide%20for%20Using%20Primary%20Source%20Documents.pdf)
 * Copy of Artifact: [files/archive-guide%20using%20primary%20sources-copy.pdf)](files/archive-guide%20using%20primary%20sources-copy.pdf)
 * Creator: Minnesota Humanities Center
 * Permissions: no copyright or license information given; fair use
@@ -110,9 +108,9 @@ A basic object analysis exercise can turn a student's initial wonder about an ob
 ### "Introduction to Omeka: Lesson Plan"
 ![screenshot](images/archive-introduction to omeka.jpg)
 
-* Artifact type: lesson plan
-* Source URL: http://amandafrench.net/2013/11/12/introduction-to-omeka-lesson-plan
-* Copy of Artifact: [files/archive-introduction%20to%20omeka-copy.pdf](files/archive-introduction%20to%20omeka-copy.pdf)
+* Artifact Type: lesson plan
+* Source URL: [http://amandafrench.net/2013/11/12/introduction-to-omeka-lesson-plan](http://amandafrench.net/2013/11/12/introduction-to-omeka-lesson-plan)
+* Copy of Artifact: [files/archive-introduction%20to%20omeka-copy.pdf](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/files/archive-introduction%20to%20omeka-copy.pdf)
 * Creator: Amanda French (Virginia Tech)
 * Permissions: Creative Commons Attribution 3.0 Unported 
 
@@ -122,9 +120,8 @@ A student-curated digital exhibit is a foundational and flexible archival exerci
 ### "Media, Materiality, and Archives" Syllabus
 ![screenshot](images/archive-media materiality archives.jpg)
 
-* Artifact type: syllabus
-* Source URL: http://blogs.iac.gatech.edu/archives14/syllabus/ 
-* Copy of Artifact: [files/archive-media%20materiality%20archives-copy.htm](files/archive-media%20materiality%20archives-copy.htm)
+* Artifact Type: syllabus
+* Source URL: [http://blogs.iac.gatech.edu/archives14/syllabus/ ](http://blogs.iac.gatech.edu/archives14/syllabus/ )
 * Creator: Lauren Klein (Georgia Tech)
 * Permissions: Used with permission of Lauren Klein. 
 
@@ -134,20 +131,19 @@ This course integrates literary study of contemporary texts with archival theory
 ### *Metadata Games*
 ![screenshot](images/archive-metadata games.jpg)
 
-* Artifact type: set of games
-* Source URL: http://www.metadatagames.org/#games 
-* Copy of Artifact: [files/archive-metadata%20games-copy.htm](files/archive-metadata%20games-copy.htm)
+* Artifact Type: set of games
+* Source URL: [http://www.metadatagames.org/#games ](http://www.metadatagames.org/#games )
 * Creator: Mary Flanagan (Tiltfactor Laboratory Dartmouth College), Peter Carini (Rauner Library Dartmouth College), et al
 * Permissions: "Metadata Games is a free and open source software (FOSS) online game system"; the website is copyrighted. 
 
 It can be difficult to suture the sense of wonder that archives can produce to pedagogical and scholarly practice. This resource, a suite of metadata games, literally turns archival work into play. Players are asked to tag items with descriptive words or phrases; their tags feed back into the participating archives to become part of the objects’ descriptions. It’s a fun and easy way to introduce the role of metadata in digital discovery: How do you identify things in archives so that researchers can find relevant sources, and what happens to objects that lack descriptors? Follow-up conversations might address the differences between folksonomies (like the students’ tags) and controlled vocabularies, or the consequences of mistaken or false tags. An advanced version of this exercise might ask students to create their own archive games, for instance to [program a twitterbot](http://f14tot.ryancordell.org/2014/11/12/lab-12-scripting/) to remix content from a student-created or university archive.
 
 
-### "Panama Silver, Asian Gold: Migration, Money, and the Making of Modern Caribbean Literatureâ€ Syllabus
+### "Panama Silver, Asian Gold: Migration, Money, and the Making of Modern Caribbean Literature" Syllabus
 ![screenshot](images/archive-panama silver.jpg)
 
-* Artifact type: syllabus and related assignments
-* Source URL: http://ufdc.ufl.edu/AA00013935/00001
+* Artifact Type: syllabus and related assignments
+* Source URL: [http://ufdc.ufl.edu/AA00013935/00001](http://ufdc.ufl.edu/AA00013935/00001)
 * Copy of Artifact: [files/archive-panama%20silver-copy.pdf](files/archive-panama%20silver-copy.pdf)
 * Creator : Leah Rosenberg (University of Florida), in collaboration with Rhonda Cobham Sander (Amherst College) and Donette Francis (University of Miami)
 * Permissions:  CC-BY-NC-SA 3.0 Unported 
@@ -158,8 +154,8 @@ In this class, students read early twentieth-century and contemporary Caribbean 
 ### "Your House or School in 100 Years"
 ![screenshot](images/archive-your house or school.jpg)
 
-* Artifact type: student activity
-* Source URL: https://docs.google.com/document/d/13Ay2Dzx1AnnOMlfbr12qMblO24eJdvETIrLw1hKu6Vk/edit
+* Artifact Type: student activity
+* Source URL: [https://docs.google.com/document/d/13Ay2Dzx1AnnOMlfbr12qMblO24eJdvETIrLw1hKu6Vk/edit](https://docs.google.com/document/d/13Ay2Dzx1AnnOMlfbr12qMblO24eJdvETIrLw1hKu6Vk/edit)
 * Copy of Artifact: [files/archive-your%20house%20or%20school.pdf](files/archive-your%20house%20or%20school.pdf)
 * Creator: Kari Kraus (University of Maryland) 
 * Permissions: open source (NSF funded project)
@@ -169,9 +165,9 @@ Will the future care, or not, about the things we hold dear? What objects from t
 
 ## RELATED MATERIALS
 
-Coats, Lauren and Gabrielle Dean, eds. *Undergraduates in the Archive*. Spec. issue of *Archive Journal*. Fall 2012. http://www.archivejournal.net/issue/2/ 
+Coats, Lauren and Gabrielle Dean, eds. *Undergraduates in the Archive*. Spec. issue of *Archive Journal*. Fall 2012. [http://www.archivejournal.net/issue/2/](http://www.archivejournal.net/issue/2/) 
 
-Marsh, Allison C. "Omeka in the Classroom: The Challenges of Teaching Material Culture in a Digital World." *Literary and Linguistic Computing* 28.2 (2013): 279-282. http://llc.oxfordjournals.org/content/early/2013/01/08/llc.fqs068 
+Marsh, Allison C. "Omeka in the Classroom: The Challenges of Teaching Material Culture in a Digital World." *Literary and Linguistic Computing* 28.2 (2013): 279-282. [http://llc.oxfordjournals.org/content/early/2013/01/08/llc.fqs068](http://llc.oxfordjournals.org/content/early/2013/01/08/llc.fqs068) 
 
 Mitchell, Eleanor, Peggy Seiden, and Suzy Taraba, eds. *Past or Portal? Enhancing Undergraduate Learning through Special Collections and Archives*. Chicago: Association of College & Research Libraries, 2012.
 
@@ -184,57 +180,57 @@ Theimer, Kate, ed. *Educational Programs: Innovative Practices for Archives and 
 
 Benjamin, Walter. "Unpacking My Library: A Talk about Book Collecting." *Illuminations: Essays and Reflections*. Trans. Harry Zohn. Ed. Hannah Arendt. New York: Schocken Books, 1968. 59-67.
 
-Campbell, Trisha. "Composing Digital Media: Citizen Archives" syllabus. [Spring 2014]. Web. 15 August 2015. http://www.digitaltrishacampbell.com/cdm_citizen.html
+Campbell, Trisha. "Composing Digital Media: Citizen Archives" syllabus. [Spring 2014]. Web. 15 August 2015. [http://www.digitaltrishacampbell.com/cdm_citizen.html](http://www.digitaltrishacampbell.com/cdm_citizen.html)
 
-Coats, Lauren and Gabrielle Dean, eds. *Undergraduates in the Archive*. Spec. issue of *Archive Journal*. Fall 2012. Web. 15 August 2015. http://www.archivejournal.net/issue/2/ 
+Coats, Lauren and Gabrielle Dean, eds. *Undergraduates in the Archive*. Spec. issue of *Archive Journal*. Fall 2012. Web. 15 August 2015. [http://www.archivejournal.net/issue/2/ ](http://www.archivejournal.net/issue/2/)
 
-Cordell, Ryan. "Lab #12: Script(ing)." 12 November 2014. Web. 15 August 2015. http://f14tot.ryancordell.org/2014/11/12/lab-12-scripting/
+Cordell, Ryan. "Lab #12: Script(ing)." 12 November 2014. Web. 15 August 2015. [http://f14tot.ryancordell.org/2014/11/12/lab-12-scripting/](http://f14tot.ryancordell.org/2014/11/12/lab-12-scripting/)
 
-*Designing Object-Based Experiences: A Prototyping Game*. metaLab, Berkman Center for Internet and Society, Harvard University.  [2014]. Web. 15 August 2015. http://beautifuldata.metalab.harvard.edu/wp-content/uploads/2014/09/BD_Game_Cards.pdf
+*Designing Object-Based Experiences: A Prototyping Game*. metaLab, Berkman Center for Internet and Society, Harvard University.  [2014]. Web. 15 August 2015. [http://beautifuldata.metalab.harvard.edu/wp-content/uploads/2014/09/BD_Game_Cards.pdf](http://beautifuldata.metalab.harvard.edu/wp-content/uploads/2014/09/BD_Game_Cards.pdf)
 
 *Digital Library of the Caribbean*. [2004- ]. Web. 15 August 2015. www.dloc.com
 
-*DIY History*. University of Iowa. Web. 15 August 2015. http://diyhistory.lib.uiowa.edu/
+*DIY History*. University of Iowa. Web. 15 August 2015. [http://diyhistory.lib.uiowa.edu/](http://diyhistory.lib.uiowa.edu/)
 
-*Docs Teach*. National Archives. Web. 15 August 2015. http://docsteach.org/
+*Docs Teach*. National Archives. Web. 15 August 2015. [http://docsteach.org/](http://docsteach.org/)
 
 Espenschied, Dragan, Olia Lialina et al. *One Terabyte of Kilobyte Age: Digging through the Geocities Torrent*. August 2011- . Web. 15 August 2015.
 
-Flanagan, Mary, Peter Carini et al. *Metadata Games*. Web. 15 August 2015. http://www.metadatagames.org/#games 
+Flanagan, Mary, Peter Carini et al. *Metadata Games*. Web. 15 August 2015. [http://www.metadatagames.org/#games ](http://www.metadatagames.org/#games )
 
-French, Amanda. "Introduction to Omeka: Lesson Plan." 12 November 2013. Web. 15 August 2015. http://amandafrench.net/2013/11/12/introduction-to-omeka-lesson-plan
+French, Amanda. "Introduction to Omeka: Lesson Plan." 12 November 2013. Web. 15 August 2015. [http://amandafrench.net/2013/11/12/introduction-to-omeka-lesson-plan](http://amandafrench.net/2013/11/12/introduction-to-omeka-lesson-plan)
 
-FromThePage.  Web. 15 August 2015.http://beta.fromthepage.com/ 
+FromThePage.  Web. 15 August 2015. [http://beta.fromthepage.com/](http://beta.fromthepage.com/)
 
-Gallagher, Ed and Meg Norcia. "Archive Project." [2005]. Web. 15 August 2015. http://digital.lib.lehigh.edu/remain/con/lit376_over.html
+Gallagher, Ed and Meg Norcia. "Archive Project." [2005]. Web. 15 August 2015. [http://digital.lib.lehigh.edu/remain/con/lit376_over.html](http://digital.lib.lehigh.edu/remain/con/lit376_over.html)
 
-Goldstone, Andrew. [Commonplacing Assignment]. [Fall 2012]. Web. 15 August 2015. http://www.rci.rutgers.edu/~ag978/355/commonplace/single.html.
+Goldstone, Andrew. [Commonplacing Assignment]. [Fall 2012]. Web. 15 August 2015. [http://www.rci.rutgers.edu/~ag978/355/commonplace/single.html.](http://www.rci.rutgers.edu/~ag978/355/commonplace/single.html.)
 
-*A Guide for Using Primary Source or Original Source Documents: Origins, Purpose, Values, Limitations (OPVL)*. Minnesota Humanities Center. Web. 15 August 2015. http://www.minnesotahumanities.org/Resources/A%20Guide%20for%20Using%20Primary%20Source%20Documents.pdf
+*A Guide for Using Primary Source or Original Source Documents: Origins, Purpose, Values, Limitations (OPVL)*. Minnesota Humanities Center. Web. 15 August 2015. [http://www.minnesotahumanities.org/Resources/A%20Guide%20for%20Using%20Primary%20Source%20Documents.pdf](http://www.minnesotahumanities.org/Resources/A%20Guide%20for%20Using%20Primary%20Source%20Documents.pdf)
 
-Hansen, Derek and Kari Kraus. *DUST*. Winter 2015. Web. 15 August 2015. https://fallingdust.com/
+Hansen, Derek and Kari Kraus. *DUST*. Winter 2015. Web. 15 August 2015. [https://fallingdust.com/](https://fallingdust.com/)
 
 Klein, Lauren F. "The Image of Absence: Archival Silence, Data Visualization, and James Hemings." *American Literature* 85.4 (2013): 661-688.
 
-Klein, Lauren F. "Media, Materiality, and Archives" syllabus. Fall 2014. Web. 15 August 2015. http://blogs.iac.gatech.edu/archives14/syllabus/
+Klein, Lauren F. "Media, Materiality, and Archives" syllabus. Fall 2014. Web. 15 August 2015. [http://blogs.iac.gatech.edu/archives14/syllabus/](http://blogs.iac.gatech.edu/archives14/syllabus/)
 
-Kraus, Kari. "Your House or School in 100 Years." [2015]. Web. 15 August 2015. https://docs.google.com/document/d/13Ay2Dzx1AnnOMlfbr12qMblO24eJdvETIrLw1hKu6Vk/edit
+Kraus, Kari. "Your House or School in 100 Years." [2015]. Web. 15 August 2015. [https://docs.google.com/document/d/13Ay2Dzx1AnnOMlfbr12qMblO24eJdvETIrLw1hKu6Vk/edit](https://docs.google.com/document/d/13Ay2Dzx1AnnOMlfbr12qMblO24eJdvETIrLw1hKu6Vk/edit)
 
 Marsh, Allison C. "Omeka in the Classroom: The Challenges of Teaching Material Culture in a Digital World." *Literary and Linguistic Computing* 28.2 (2013): 279-282.
-http://llc.oxfordjournals.org/content/early/2013/01/08/llc.fqs068 
+[http://llc.oxfordjournals.org/content/early/2013/01/08/llc.fqs068](http://llc.oxfordjournals.org/content/early/2013/01/08/llc.fqs068)
 
 Mitchell, Eleanor, Peggy Seiden, and Suzy Taraba, eds. *Past or Portal? Enhancing Undergraduate Learning through Special Collections and Archives*. Chicago: Association of College & Research Libraries, 2012.
 
-Rosenberg, Leah. "Panama Silver, Asian Gold: Migration, Money, and the Making of Modern Caribbean Literature" syllabus. Fall 2014. Web. 15 August 2015. http://ufdc.ufl.edu/AA00013935/00001 
+Rosenberg, Leah. "Panama Silver, Asian Gold: Migration, Money, and the Making of Modern Caribbean Literature" syllabus. Fall 2014. Web. 15 August 2015. [http://ufdc.ufl.edu/AA00013935/00001](http://ufdc.ufl.edu/AA00013935/00001)
 
-"SAA Core Values Statement and Code of Ethics." Society of American Archivists. May 2011. Web. 15 August 2015. http://www2.archivists.org/statements/saa-core-values-statement-and-code-of-ethics
+"SAA Core Values Statement and Code of Ethics." Society of American Archivists. May 2011. Web. 15 August 2015. [http://www2.archivists.org/statements/saa-core-values-statement-and-code-of-ethics](http://www2.archivists.org/statements/saa-core-values-statement-and-code-of-ethics)
  
-Scripto: A Community Transcription Tool. Roy Rosenzweig Center for History and New Media, George Mason University. Web. 15 August 2015. http://scripto.org/ 
+Scripto: A Community Transcription Tool. Roy Rosenzweig Center for History and New Media, George Mason University. Web. 15 August 2015. [http://scripto.org/](http://scripto.org/)
 
 Stallybrass, Peter. "Against Thinking." *PMLA* 122.5 (2007): 1580-1587.
 
 Theimer, Kate, ed. *Educational Programs: Innovative Practices for Archives and Special Collections*. Lanham: Rowman & Littlefield, 2015.
 
-Theimer, Kate. "The role of ‘the professional discipline’ in archives and digital archives." *ArchivesNext*. 17 February 2014. Web. 15 August 2015. http://www.archivesnext.com/?p=3683
+Theimer, Kate. "The role of ‘the professional discipline’ in archives and digital archives." *ArchivesNext*. 17 February 2014. Web. 15 August 2015. [http://www.archivesnext.com/?p=3683](http://www.archivesnext.com/?p=3683)
 
-*Transcription Challenge*. Citizen Archivist Dashboard, National Archives. Web. 15 August 2015. http://www.archives.gov/citizen-archivist/transcribe/
+*Transcription Challenge*. Citizen Archivist Dashboard, National Archives. Web. 15 August 2015. [http://www.archives.gov/citizen-archivist/transcribe/](http://www.archives.gov/citizen-archivist/transcribe/)

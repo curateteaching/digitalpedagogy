@@ -22,8 +22,8 @@ University of Victoria, School of Public Administration
 
 ##### Publication Status:
 * unreviewed draft
-* **draft version undergoing editorial review**
-* draft version undergoing peer-to-peer review
+* draft version undergoing editorial review
+* **draft version undergoing peer-to-peer review**
 * published
 
 --- 

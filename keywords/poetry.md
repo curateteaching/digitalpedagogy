@@ -8,8 +8,8 @@ Associate Professor, UW-Green Bay | http://chuckrybak.com
 ##### Publication Status:
 
 * unreviewed draft
-* **draft version undergoing editorial review**
-* draft version undergoing peer-to-peer review
+* draft version undergoing editorial review
+* **draft version undergoing peer-to-peer review**
 * published
 
 --- 
