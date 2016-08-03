@@ -22,8 +22,8 @@ Florida State University | [http://www.english.fsu.edu/faculty/kyancey.htm](http
 
 ### Publication Status:
 * unreviewed draft
-* **draft version undergoing editorial review**
-* draft version undergoing peer-to-peer review
+* draft version undergoing editorial review
+* **draft version undergoing peer-to-peer review**
 * published
 
 --- 
@@ -32,7 +32,7 @@ Florida State University | [http://www.english.fsu.edu/faculty/kyancey.htm](http
 
 Electronic portfolios, collections of student work selected from a larger archive of work and contextualized by student reflection, began developing in the 1990s. In part, they developed from print portfolios that were so popular in the 1980s and 1990s, especially in writing programs. In part, they provided a response to the need to provide a different kind of host and structure for the new kinds of texts students were creating, among them slide shows, photo essays, videos, and audio podcasts. Thus, when faculty began assigning students to create multimedia texts, it felt both natural and necessary to migrate to electronic portfolios. 
 
-Electronic portfolios, however, are both like and unlike portfolios in print. Both print and electronic portfolios (or ÒePortfoliosÓ)are alike as the result of collecting, selecting, and reflecting, and each is designed for a given purpose (for instance, development and/or achievement) and audience. Here, they begin to differ: the audience for print has typically been the teacher, for the electronic the teacher but external audiences as well, as its presence on the web would suggest. They also differ in terms of the genre they tend to instantiate. Print portfolios tend to operate much as a book with a narrative arc often oriented to developing competency or proficiency. In contrast, in addition to hosting a much wider array of texts and both internal and external links, "web-sensible" electronic portfolios tend to operate more as a gallery (Yancey 2004), with multiple spaces constituting a "network among the artifacts" (Purves). Likewise, the reader is positioned differently in the two kinds of portfolios, with the print reader able to read hypertextually but tending to read in a more linear fashion, as the author directs, and with the reader of the electronic portfolio reading hypertextually by definition. As Alan Purves succinctly noted, in that reviewing process, the reader of an electronic portfolio "may make a different web" (135).
+Electronic portfolios, however, are both like and unlike portfolios in print. Both print and electronic portfolios (or Ã’ePortfoliosÃ“)are alike as the result of collecting, selecting, and reflecting, and each is designed for a given purpose (for instance, development and/or achievement) and audience. Here, they begin to differ: the audience for print has typically been the teacher, for the electronic the teacher but external audiences as well, as its presence on the web would suggest. They also differ in terms of the genre they tend to instantiate. Print portfolios tend to operate much as a book with a narrative arc often oriented to developing competency or proficiency. In contrast, in addition to hosting a much wider array of texts and both internal and external links, "web-sensible" electronic portfolios tend to operate more as a gallery (Yancey 2004), with multiple spaces constituting a "network among the artifacts" (Purves). Likewise, the reader is positioned differently in the two kinds of portfolios, with the print reader able to read hypertextually but tending to read in a more linear fashion, as the author directs, and with the reader of the electronic portfolio reading hypertextually by definition. As Alan Purves succinctly noted, in that reviewing process, the reader of an electronic portfolio "may make a different web" (135).
 
 Institutionally, ePortfolios in the United States are ubiquitous: a recent survey indicates that over 50% of United States institutions of higher education engage students in ePortfolio practices. Campuses are often interested in electronic portfolios for assessment purposes since the work that students include in an ePortfolio is considered to be authentic, keyed to student learning outcomes, and thus more helpful for curricular revision. 
 
@@ -47,7 +47,7 @@ Last, but perhaps most important, is reflection, which is identified by four cha
 
 Electronic portfolios often are introduced by way of a reflective letter or essay contextualizing and introducing the contents, which provides students with the opportunity to provide a personal account of their own learning. To prepare for writing this text, students frequently engage in other kinds of reflective writing throughout the term so that reflection becomes both a habit of mind and a social practice: for example articulating prior knowledge situating their learning; synthesizing their learning within a course and connecting to learning in other contexts; and assessing how well they are doing in the course. In such cases, the learning from a given course or program can be reflectively integrated with learning from other contexts, with students speaking with authority as "agents of their own learning" (Yancey 1998). 
 
-Both faculty and program leaders continue to design methods of assessing ePortfolios, but two resources provide useful places to begin: Yancey's ÒElectronic Portfolios and Writing Assessment: A Work in ProgressÓ contrasts a media-inflected set of criteria for ePortfolios with a media-blind set developed by the Association of American Colleges and Universities, while Danielle DeVoss and Heidi McKee's edited collection Digital Writing Assessment and Evaluation < http://ccdigitalpress.org/dwae/> showcase specific examples of ePortfolios and ways of reading and reviewing them.   
+Both faculty and program leaders continue to design methods of assessing ePortfolios, but two resources provide useful places to begin: Yancey's Ã’Electronic Portfolios and Writing Assessment: A Work in ProgressÃ“ contrasts a media-inflected set of criteria for ePortfolios with a media-blind set developed by the Association of American Colleges and Universities, while Danielle DeVoss and Heidi McKee's edited collection Digital Writing Assessment and Evaluation < http://ccdigitalpress.org/dwae/> showcase specific examples of ePortfolios and ways of reading and reviewing them.   
 
 The artifacts begin with ePortfolios themselves, a very diverse set at the undergraduate level and one at the graduate level, and before considering several issues, contextualizing the ways instructors can invite students to create them.  
 
@@ -183,7 +183,7 @@ Tips for Building a Better Public Portfolio. https://sites01.lsu.edu/wp/cxc/file
 
 Conference on College Composition and Communication. "CCCC Position Statement on Electronic Portfolios." http://www.ncte.org/cccc/resources/positions/electronicportfolios
 
-Dànielle DeVoss and Heidi, McKee, eds., Digital Writing Assessment and Evaluation. Computers and Composition Digital Press/Utah State UP, 2013.
+DÃ nielle DeVoss and Heidi, McKee, eds., Digital Writing Assessment and Evaluation. Computers and Composition Digital Press/Utah State UP, 2013.
 
 FIPSE ePortfolio Project: LaGuardia Community College Lead PI. Catalyst for Learning: ePortfolio Resources and Research. http://c2l.mcnrc.org/ 
 
@@ -194,7 +194,7 @@ Getman-Eraso, Jordi. "Modern World History." https://bcc-cuny.digication.com/HIS
 
 Mickelson, Nate. "Social Pedagogy: Using Comment Streams to Analyze Visual Art." Guttman Community College. http://c2l.mcnrc.org/wp-content/uploads/sites/8/2014/05/gcc-soc-practice-2.pdf
 
-Purves, Alan C. ÒElectronic Portfolios.Ó Computers and Composition 13.2 (1996): 135-46. Print.
+Purves, Alan C. Ã’Electronic Portfolios.Ã“ Computers and Composition 13.2 (1996): 135-46. Print.
 
 St Olaf College Center for Integrative Study. CIS Web Community. http://wp.stolaf.edu/cis/web-community/
 
@@ -206,9 +206,9 @@ Wills, Katherine V., and Richard Aaron Rice. ePortfolio Performance Support Syst
 
 Yancey, Kathleen Blake. Reflection in the Writing Classroom. Logan, UT: Utah State UP, 1998. Print.
 
------. ÒPostmodernism, Palimpsest, and Portfolios: Theoretical Issues in the Representation of Student Work.Ó College Composition and Communication. 55.4 (2004): 738–61. Print.
+-----. Ã’Postmodernism, Palimpsest, and Portfolios: Theoretical Issues in the Representation of Student Work.Ã“ College Composition and Communication. 55.4 (2004): 738Â–61. Print.
 
------. “Electronic Portfolios and Writing Assessment: A Work in Progress.” In Paretti, Marie C. and Katrina Powell, eds. Assessment in Writing. Assessment in the Disciplines Series, Volume 4. Tallahassee: Association of Institutional Research, 2010: 183-205. 
+-----. Â“Electronic Portfolios and Writing Assessment: A Work in Progress.Â” In Paretti, Marie C. and Katrina Powell, eds. Assessment in Writing. Assessment in the Disciplines Series, Volume 4. Tallahassee: Association of Institutional Research, 2010: 183-205. 
 
 -----. ePortfolio Fall 2015. Print.
 
