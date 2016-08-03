@@ -17,7 +17,7 @@ tags:
 
 # ITERATION (Draft)
 
-## AUTHOR: Annette Vee
+## Annette Vee
 University of Pittsburgh | http://annettevee.com/
 
 ---
