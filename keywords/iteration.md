@@ -1,5 +1,4 @@
 ---
-
 title: Digital Pedagogy in the Humanities
 subtitle: Concepts, Models, and Experiments
 chapter: Iteration
@@ -13,7 +12,6 @@ editor:
 publisher: Modern Language Association
 type: book
 tags:
-
 ---
 
 # ITERATION (Draft)
@@ -75,7 +73,7 @@ Additional student examples: http://www.wordsinspace.net/wordpress/2013/12/18/ma
 * Copy of Artifact:
 * Creators: Jentery Sayers, University of Victoria<br />    
 
-In this course, Jentery Sayers invites both undergraduates and graduate students to push against notions of DH as instrumental, ahistorical or non-interpretive. Students perform “interpretation through alteration” of the texts under scrutiny by "prototyping" them in metadata, plain text/markup, typography, forms, glitch, and repair (Sayers). To alter/prototype/iterate these texts, they “substitute words, change formats, rearrange poems, remediate fictions, juxtapose images, bend texts, and reconstitute book arts” (Sayers). In so doing, students learn how making and iterating can be a form of criticism, and reinvigorate the now-depoliticized concept of iteration itself. Student examples include handmade books, overlapping Word documents, twitterbots, and even [a knitted interpretation of Queneau’s One Hundred Thousand Billion Poems](https://508prototypepage.wordpress.com/2016/04/06/week-12-knit-it/).
+In this course, Jentery Sayers invites both undergraduates and graduate students to push against notions of Digital Humanities as instrumental, ahistorical or non-interpretive. Students perform “interpretation through alteration” of the texts under scrutiny by "prototyping" them in metadata, plain text/markup, typography, forms, glitch, and repair (Sayers). To alter/prototype/iterate these texts, they “substitute words, change formats, rearrange poems, remediate fictions, juxtapose images, bend texts, and reconstitute book arts” (Sayers). In so doing, students learn how making and iterating can be a form of criticism, and reinvigorate the now-depoliticized concept of iteration itself. Student examples include handmade books, overlapping Word documents, twitterbots, and even [a knitted interpretation of Queneau’s One Hundred Thousand Billion Poems](https://508prototypepage.wordpress.com/2016/04/06/week-12-knit-it/).
 
 Student examples: [Tiffany Chan's "Act Natural"](http://eltiffster.github.io/ActNatural/)  
 [Sarah Matheson's "My Oulipofolio"](https://508prototypepage.wordpress.com/2016/04/13/my-oulipofolio-a-summary-of-prototypes/)<br />
