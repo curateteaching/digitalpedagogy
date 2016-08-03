@@ -3,16 +3,17 @@ title: Digital Pedagogy in the Humanities
 subtitle: Concepts, Models, and Experiments
 chapter: Iteration
 URL: keywords/iteration.md
-author:
+author: 
 - family: Vee
   given: Annette
-editor:
-- family:Harris
+editor: 
+- family: Harris
   given: Katherine D.
 publisher: Modern Language Association
 type: book
-tags:
+tags: 
 ---
+
 
 # ITERATION (Draft)
 
@@ -23,8 +24,8 @@ University of Pittsburgh | http://annettevee.com/
 
 ##### Publication Status:
 * unreviewed draft
-* **draft version undergoing editorial review**
-* draft version undergoing peer-to-peer review
+* draft version undergoing editorial review
+* **draft version undergoing peer-to-peer review**
 * published
 
 ---
