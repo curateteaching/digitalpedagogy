@@ -31,9 +31,10 @@ William and Mary | [Website](http://lizlosh.com)
 ## CURATORIAL STATEMENT 
 Many scholars now use the word "affect" to describe feelings of attraction or revulsion rather than the word "emotion." In the context of face-to-face pedagogy, teachers are supposed to be attuned to the "mood" of the classroom or to the campus "climate." However, affect may often seem to float free from the control of the supposedly autonomous liberal subject, far away from the manageable dictates of individual agency or grasp. Although digital learning environments are supposed to be rationalized spaces, where the tools of data analytics should allow instructors and administrators to assess, track, and manage students more objectively, in practice they are often sites of heightened feelings.    
 
-Among affect theorists, attention to the scene of learning is growing. For example, Lauren Berlant's Cruel Optimism observes that the substitute teacher is a key character of affective investment.  In "Desiring Recognition, Accumulating Affect," educational researcher Megan Watkins observes that while “recognition” is often associated with “’a positive process with the elicitation of positive affects," it "can also function in a negative way, carrying the resultant force of negative affects" (273). 
+Among affect theorists, attention to the scene of learning is growing. For example, Lauren Berlant's Cruel Optimism observes that the substitute teacher is a key character of affective investment.  In "Desiring Recognition, Accumulating Affect," educational researcher Megan Watkins observes that while “recognition” is often associated with “’a positive process with the elicitation of positive affects," it "can also function in a negative way, carrying the resultant force of negative affects" (273). 
 
-How can instructors meaningfully engage with exploring questions of affect while still maintaining their positions of authority, fairness, and expertise? Obviously no one wants a student crying in office hours or a lecture hall audience laughing at the unintended humor of a faculty performance. Yet work with affect in student-teacher relations is obviously important. Researchers who study embodied cognition see affect as central to how students may perceive their educational experiences. Studies of the limbic system in the brain indicate that there may be complex and powerful interactions that could be better capitalized upon by instructors of literature and language to recognize how fight-or-flight responses, emotion, learning, and memory may be interrelated. Traditionalists in the profession who are wary of the scientism of neurobiology may be nonetheless mindful that considerations of "sensibility" have long been extremely important in the English literary tradition, beginning with eighteenth-century theories of sense perception and sentiment. Humanists have good reasons to be cautious about embracing explanations that biologize cultural expression, but affect should be seen as central to interpreting language and literature. After all, the genres of melodrama, suspense, or erotica are intertwined with attitudes about bodily response. 
+How can instructors meaningfully engage with exploring questions of affect while still maintaining their positions of authority, fairness, and expertise? Obviously no one wants a student crying in office hours or a lecture hall audience laughing at the unintended humor of a faculty performance. Yet work with affect in student-teacher relations is obviously important. Researchers who study embodied cognition see affect as central to how students may perceive their educational experiences. Studies of the limbic system in the brain indicate that there may be complex and powerful interactions that could be better capitalized upon by instructors of literature and language to recognize how fight-or-flight responses, emotion, learning, and memory may be interrelated. Traditionalists in the profession who are wary of the scientism of neurobiology may be nonetheless mindful that considerations of "sensibility" have long been extremely important in the English literary tradition, beginning with eighteenth-century theories of sense perception and sentiment. Humanists have good reasons to be cautious about embracing explanations that biologize cultural expression, but affect should be seen as central to interpreting language and literature. After all, the genres of melodrama, suspense, or erotica are intertwined with attitudes about bodily response.
+
 For example, students could be invited to use Facebook's recent expansion of the "like" button to include a range of emoticons -- including "love," "haha," "wow," "sad," and "angry" "to comment on how their learning situation is designed. Do they like the windows in the classroom?  Do they like the clock? Do they like the whiteboard or would they prefer a blackboard (or vice versa)? An instructor could hand out sticky notes to be affixed to objects in the classroom for this purpose.   
 
 In analyzing literary or philosophical texts, the assigned reading could be annotated in the margin for its emotional valences.  Students could design additional emoticons that might be more appropriate for the tasks of scholarly interpretation.  For example, a face with a raised eyebrow might convey skepticism, or a face with a barely perceptible smile might convey appreciation of subtle wit.   
@@ -157,15 +158,15 @@ Although challenging, editing Wikipedia can provide a very rewarding class assig
 
 ## RELATED MATERIALS
 
-Burvall, Amy.  "Flat Iron Pedagogy: Affective Data Meets Differentiation." AmusED. N.p., 10 Apr. 2014. Web. 16 May 2016. 
+Burvall, Amy.  "Flat Iron Pedagogy: Affective Data Meets Differentiation." AmusED. N.p., 10 Apr. 2014. Web. 16 May 2016. 
 
-Behrens, M. M. "Swipe "˜I Like': Location Based Digital Narrative through Embedding the "˜Like' Button in the Real World." 5th International Conference on Communities & Technologies - Digital Cities 7. Brisbane, Australia. 2011. Conference item. 
+Behrens, M. M. "Swipe "'I Like': Location Based Digital Narrative through Embedding the "'Like' Button in the Real World." 5th International Conference on Communities & Technologies - Digital Cities 7. Brisbane, Australia. 2011. Conference item. 
 
-Losh, Elizabeth. "Selfies, Snapchat and Distance Learning." DMLcentral. 28 Apr. 2014. Web. 22 June 2014. 
+Losh, Elizabeth. "Selfies, Snapchat and Distance Learning." DMLcentral. 28 Apr. 2014. Web. 22 June 2014. 
 
-Taylor, Jessica. "New Media Studies: Losh's Selfie Pedagogy I-IV." New Media Studies. 2 Mar. 2016. Web. 16 May 2016. 
+Taylor, Jessica. "New Media Studies: Losh's Selfie Pedagogy I-IV." New Media Studies. 2 Mar. 2016. Web. 16 May 2016. 
 
-Wargo, Jon M. "Spatial Stories with Nomadic Narrators: Affect, Snapchat, and Feeling Embodiment in Youth Mobile Composing." Journal of Language and Literacy Education 11.1 (2015): 47"“64. 
+Wargo, Jon M. "Spatial Stories with Nomadic Narrators: Affect, Snapchat, and Feeling Embodiment in Youth Mobile Composing." Journal of Language and Literacy Education 11.1 (2015): 47"“64. 
 
 
 ## WORKS CITED
@@ -178,7 +179,7 @@ Berlant, Lauren Gail. Cruel Optimism. Durham: Duke University Press, 2011.
 
 Damasio, Antonio.  Descartes' Error: Emotion, Reason and the Human Brain.  Putnam, 1994.
 
-Gross, Daniel M., and Jonathan Alexander. "Frameworks for Failure." Pedagogy 16.2 (2016): 273"“295. 
+Gross, Daniel M., and Jonathan Alexander. "Frameworks for Failure." Pedagogy 16.2 (2016): 273"“295. 
 
 Halberstam, Jack. "You Are Triggering Me! The Neo-Liberal Rhetoric of Harm, Danger and Trauma." Bully Bloggers. 5 July 2014.  Web. 
 
@@ -186,7 +187,7 @@ hooks, bell.  "Moving Beyond Pain."  bell hooks Institute. 9 May 2016.  Web.
 
 Lamott, Anne. Bird by Bird: Some Instructions on Writing and Life. New York: Anchor, 1995. 
 
-Morrison, Aimee. "Digiwonk: Selfies." digiwonk. N.p., 29 May 2014. Web. 16 May 2016.
+Morrison, Aimee. "Digiwonk: Selfies." digiwonk. N.p., 29 May 2014. Web. 16 May 2016.
 
 Norman, Donald A. Emotional Design: Why We Love (or Hate) Everyday Things. New York: Basic Books, 2004. 
 
@@ -196,9 +197,9 @@ Quiller-Couch, Arthur, "On Style," On the Art of Writing. Web.
 
 Rose, Mike. Lives on the Boundary: The Struggles and Achievements of America's Underprepared. New York; London: Free Press"¯; Collier Macmillan, 1989. 
 
-Sedgwick, Eve Kosofsky, and Adam Frank. "Shame in the Cybernetic Fold: Reading Silvan Tomkins." Critical Inquiry 21.2 (1995): 496"“522. 
+Sedgwick, Eve Kosofsky, and Adam Frank. "Shame in the Cybernetic Fold: Reading Silvan Tomkins." Critical Inquiry 21.2 (1995): 496"“522. 
 
-Watkins, Megan. "Desiring Recognition, Accumulating Affect." The Affect Theory Reader. Ed. Melissa Gregg and Gregory J Seigworth. Durham, NC: Duke University Press, 2010. 
+Watkins, Megan. "Desiring Recognition, Accumulating Affect." The Affect Theory Reader. Ed. Melissa Gregg and Gregory J Seigworth. Durham, NC: Duke University Press, 2010. 
 
 Williams, Linda. "Film Bodies: Gender, Genre, and Excess."  Film Quarterly 44.4 (1991): 2-13
 
