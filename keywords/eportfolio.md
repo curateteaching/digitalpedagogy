@@ -4,8 +4,8 @@ subtitle: Concepts, Models, and Experiments
 chapter: Access
 URL: keywords/eportfolio.md
 author: 
-- family: Blake Yancey
-  given: Kathleen
+- family: Yancey
+  given: Kathleen Blake
 editor: 
 - family: Harris
   given: Katherine D.
@@ -28,10 +28,6 @@ Florida State University | [http://www.english.fsu.edu/faculty/kyancey.htm](http
 
 --- 
 
-KDH: Kathleen, this is all super fabulous. The concept of ePortfolio is well-explained in the statement; the artifacts are very appropriate and at a variety of levels for a broad user-base of the collection; the rationales for each artifact explain the efficacy of the artifact in connection to the curator’s statement. The only query I have: the artifacts could be arranged with a clear purpose. For instance, the first two  artifacts highlight the outcome of an ePortfolio. The following 8 artifacts cover a variety of purposes. Organization of those (however you might like — from starting out to an entire semester on ePortfolios, perhaps? completely up to you) will help all levels of users get into ePortfolios. E.g., the tips for selecting a platform is a terrific place to begin — for any level user!
-
-Finally, one question we always field when discussing the keywords — how do faculty assess in digital pedagogy. Do you have an artifact in mind that you could contribute on assessing ePortfolios? or perhaps there’s a link you can add in your curator statement (so you don’t have to lose one of these fabulous artifacts)? 
-
 ## CURATORIAL STATEMENT
 
 Electronic portfolios, collections of student work selected from a larger archive of work and contextualized by student reflection, began developing in the 1990s. In part, they developed from print portfolios that were so popular in the 1980s and 1990s, especially in writing programs. In part, they provided a response to the need to provide a different kind of host and structure for the new kinds of texts students were creating, among them slide shows, photo essays, videos, and audio podcasts. Thus, when faculty began assigning students to create multimedia texts, it felt both natural and necessary to migrate to electronic portfolios. 
@@ -50,6 +46,10 @@ Last, but perhaps most important, is reflection, which is identified by four cha
 + (4) It values the personal and intellectual (Rodgers 845). 
 
 Electronic portfolios often are introduced by way of a reflective letter or essay contextualizing and introducing the contents, which provides students with the opportunity to provide a personal account of their own learning. To prepare for writing this text, students frequently engage in other kinds of reflective writing throughout the term so that reflection becomes both a habit of mind and a social practice: for example articulating prior knowledge situating their learning; synthesizing their learning within a course and connecting to learning in other contexts; and assessing how well they are doing in the course. In such cases, the learning from a given course or program can be reflectively integrated with learning from other contexts, with students speaking with authority as "agents of their own learning" (Yancey 1998). 
+
+Both faculty and program leaders continue to design methods of assessing ePortfolios, but two resources provide useful places to begin: Yancey's “Electronic Portfolios and Writing Assessment: A Work in Progress” contrasts a media-inflected set of criteria for ePortfolios with a media-blind set developed by the Association of American Colleges and Universities, while Danielle DeVoss and Heidi McKee's edited collection Digital Writing Assessment and Evaluation < http://ccdigitalpress.org/dwae/> showcase specific examples of ePortfolios and ways of reading and reviewing them.   
+
+The artifacts begin with ePortfolios themselves, a very diverse set at the undergraduate level and one at the graduate level, and before considering several issues, contextualizing the ways instructors can invite students to create them.  
 
 ## CURATED ARTIFACTS 
 
@@ -85,8 +85,6 @@ Amanda Brooks, an MA student at Florida State University from 2014-2016, created
 * Creator and Affiliation: Gayle Sweetland Center, University of Michigan
 
 The Sweetland Center hosts a minor in writing available to students across the curriculum; to support this minor, which requires an electronic portfolio, the Sweetland Center has developed a set of materials explaining the ePortfolio model for the minor, outlining reflective activities, and showcasing student work. This document-- "ePortfolios: Core Activities & Basic Elements"--explains three basic ePortfolio practices: (1) selection of artifacts; (2) evidence-based reflection; and (3) revision. In other words, addressing students, this guide points to some of the principal decisions that students will make in creating their portfolios; especially valuable for both faculty and students are the sections on interactive navigation for the ePortfolio and the role of visual design in it.
-
-KDH: AH HA! Perhaps the above artifact could appear first? That might ease users/readers into the construction of an ePortfolio? (Admittedly, this document had some formatting errors — so I guessed on the formatting and organization for some artifacts. It’s the translation to .md…sometimes gets screwy with the entire document. You might double check that everything is here and in place.)
 
 ### Tips for Building a Better Public Portfolio
 ![screenshot](images/eportfolio-tips-lsu.png)
@@ -136,7 +134,7 @@ This one-credit course is available to undergraduate students at the University 
 ![screenshot](images/eportfolio-visual-gutman.JPG)
 
 * Artifact Type: Syllabus/teaching guidelines
-* Source URL: http://c2l.mcnrc.org/wp-content/uploads/sites/8/2014/05/gcc-soc-practice-2.pdf* Artifact Permissions: 
+* Source URL: http://c2l.mcnrc.org/wp-content/uploads/sites/8/2014/05/gcc-soc-practice-2.pdf* Artifact Permissions: 
 * Copy of the Artifact: 
 * Creator and Affiliation: Nate Mickelson, Guttman Community College
 
@@ -146,7 +144,7 @@ This portfolio is a course-based portfolio that all students contribute to; its 
 ![screenshot](images/eportfolio-history.JPG)
 
 * Artifact Type: Syllabus
-* Source URL: * Artifact Permissions: 
+* Source URL: * Artifact Permissions: 
 * Copy of the Artifact: 
 * Creator and Affiliation: Professor Getman-Eraso, Bronx Community College
 
@@ -156,7 +154,7 @@ The electronic portfolio in this general education class is the centerpiece of t
 ![screenshot](images/eportfolio-fsu-syllabus.JPG)
 
 * Artifact Type: Syllabus
-* Source URL: * Artifact Permissions: 
+* Source URL: * Artifact Permissions: 
 * Copy of the Artifact: 
 * Creator and Affiliation: Kathleen Blake Yancey, Florida State University
 
@@ -176,8 +174,6 @@ Yancey, Kathleen Blake, ed. A Rhetoric of Reflection. Logan, UT: Utah State UP, 
 
 ## WORKS CITED
 
-KDH: Even with the new guidelines, I think the MLA will want the date created included for those digital documents (I think! I’m still wading through the v8.0 citation changes.)
-
 Auburn University. "ePortfolio Project: Reflective Writing." http://wp.auburn.edu/writing/ePortfolio-project/
 
 Brooks, Amanda. Digital Revolution and Convergence Culture. amb14m.wix.com/digirevo 
@@ -186,6 +182,8 @@ Communication across the Curriculum, Louisiana State University.
 Tips for Building a Better Public Portfolio. https://sites01.lsu.edu/wp/cxc/files/2014/07/2014-DCHandbook_TipsBetterPort.pdf 
 
 Conference on College Composition and Communication. "CCCC Position Statement on Electronic Portfolios." http://www.ncte.org/cccc/resources/positions/electronicportfolios
+
+D‡nielle DeVoss and Heidi, McKee, eds., Digital Writing Assessment and Evaluation. Computers and Composition Digital Press/Utah State UP, 2013.
 
 FIPSE ePortfolio Project: LaGuardia Community College Lead PI. Catalyst for Learning: ePortfolio Resources and Research. http://c2l.mcnrc.org/ 
 
@@ -209,6 +207,8 @@ Wills, Katherine V., and Richard Aaron Rice. ePortfolio Performance Support Syst
 Yancey, Kathleen Blake. Reflection in the Writing Classroom. Logan, UT: Utah State UP, 1998. Print.
 
 -----. “Postmodernism, Palimpsest, and Portfolios: Theoretical Issues in the Representation of Student Work.” College Composition and Communication. 55.4 (2004): 738ñ61. Print.
+
+-----. ìElectronic Portfolios and Writing Assessment: A Work in Progress.î In Paretti, Marie C. and Katrina Powell, eds. Assessment in Writing. Assessment in the Disciplines Series, Volume 4. Tallahassee: Association of Institutional Research, 2010: 183-205. 
 
 -----. ePortfolio Fall 2015. Print.
 
