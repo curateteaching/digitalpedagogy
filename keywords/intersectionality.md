@@ -1,7 +1,7 @@
 ---
 title: Digital Pedagogy in the Humanities
 subtitle: Concepts, Models, and Experiments
-chapter: Fieldwork
+chapter: Intersectionality 
 URL: keywords/intersectionality.md
 author: 
 - family: Risam
@@ -19,8 +19,8 @@ type: book
 Salem State University | Department of English | [Website](http://roopikarisam.com)
 
 ##### Publication Status:
-* **unreviewed draft**
-* draft version undergoing editorial review
+* unreviewed draft
+* **draft version undergoing editorial review**
 * draft version undergoing peer-to-peer review
 * published 
 
@@ -28,236 +28,136 @@ Salem State University | Department of English | [Website](http://roopikarisam.c
 
 ## CURATORIAL STATEMENT
 
-In 1989, critical race scholar and legal theorist Kimberlé Crenshaw, coined the term “intersectionality” to address 
-connections between dimensions of oppression that shape lived experience. In her work with women living in domestic 
-violence shelters in Los Angeles, Crenshaw observed that black women were disproportionately affected by the 
-compounding effects of race, gender, and class. At the same time, contemporary discourse on feminism failed to 
-account for the specific needs of women of color, while anti-racist movements have failed to attend to the needs of 
-women (1243-4). Crenshaw’s influential formulation has been expanded over time to reflect a broader range of 
-intersections of identity categories and axes of oppression that produce and preclude privilege, shaping lived 
-experience around the world (Carbin and Edenheim; Purkayastha; Davis). 
+In 1989, critical race scholar and legal theorist, Kimberlé Crenshaw, coined the term "intersectionality" to address connections between dimensions of oppression that shape lived experience. In her work with women living in domestic violence shelters in Los Angeles, Crenshaw observed that black women were disproportionately affected by the compounding effects of race, gender, and class. At the same time, contemporary discourse on feminism failed to account for the specific needs of women of color, while anti-racist movements have failed to attend to the needs of women (1243-4). Crenshaw's influential formulation has been expanded over time to reflect a broader range of 
+intersections of identity categories and axes of oppression that produce and preclude privilege, shaping lived experience around the world (Carbin and Edenheim; Purkayastha; Davis). 
 
-These complicated constructions of identity shape digital humanities as well. In recent years, scholars in the field 
-have made the case for greater attention to gender, race, sexuality, nation, and language, among other axes of 
-oppression (Arvidsson and Foka; McPherson; Earhart and Taylor; Keeling; Barnett et al.; Ortega; Gil). Still 
-relatively new, however, is consideration of the affordances that intersectionality offers digital humanities. 
-Moya Bailey has called for an intersectional approach to the field that views diversity not as a matter of adding and
-stirring but of reconsidering the practices of digital humanities. Jacqueline Wernimont and Liz Losh have called on 
-white feminist practitioners to be more conscious of their positionality in relation to scholarship. My own work has 
-suggested that intersectionality as a framework connects theoretical and hands-on approaches to digital humanities 
-(Risam). As Edmond Chang, Alexis Lothian, and Anne Cong-Huyen note in their curatorial statements in this collection,
-keywords like “Queer,” “Sexuality,” and “Gender” can only be understood in terms of their relationships to each 
-other, as well as to other categories like race and class. Therefore, intersectionality itself is an essential 
-keyword because it provides language and a theoretical basis for conceptualizing the matrices that shape both 
-lived experience and oppression — and for using this mode of thought to develop digital literacy and critical 
-thinking skills with students. 
+> JENTERY: Thank you for this wonderful introductory paragraph. It's precisely the sort of introduction we need in the collection.  
 
-In the context of pedagogy, intersectionality asks students to think beyond narrow binaries that overdetermine 
-contemporary discourse on identity and power. It offers them a framework through which they can deconstruct their own
-subject positions and better understand the privileges and politics that are shaping their lives. Because 
-intersectionality moves beyond single-issue approaches to identity, it promotes development of allyship and counters 
-the effects of public discourse that pits identity categories against each other. Blending intersectionality with 
-digital pedagogy enables the mentoring of students to become critical users and makers of technology. In doing so, 
-they are able to articulate their relationships to facets of their own identities and the role of technology in 
-constructing these identities. Moreover, they are better equipped to understand the development of technology in the 
-contexts of culture, history, and literature. 
+These complicated constructions of identity shape digital humanities as well. In recent years, scholars in the field have made the case for greater attention to gender, race, sexuality, nation, and language, among other axes of oppression (Arvidsson and Foka; McPherson; Earhart and Taylor; Keeling; Barnett et al.; Ortega; Gil). Still relatively new, however, is consideration of the affordances that intersectionality offers digital humanities. Moya Bailey has called for an intersectional approach to the field that views diversity not as a matter of adding and stirring but of reconsidering the practices of digital humanities. Jacqueline Wernimont and Liz Losh have called on white feminist practitioners to be more conscious of their positionality in relation to scholarship. My own work has suggested that intersectionality as a framework connects theoretical and hands-on approaches to digital humanities. As Edmond Chang, Alexis Lothian, and Anne Cong-Huyen note in their curatorial statements in this collection, keywords such as “Queer,” “Sexuality,” and “Gender” can only be understood in terms of their relationships to each other, as well as to other categories such as race and class. Therefore, intersectionality itself is an essential keyword because it provides language and a theoretical basis for conceptualizing the matrices that shape both 
+lived experience and oppression--and for using this mode of thought to develop digital literacy and critical thinking skills with students. 
 
-The artifacts collected here include student work, standalone assignments, assignment sequences, and course syllabi 
-that position intersectionality at the heart of inquiry. They represent the materials that have influenced my “Race 
-and Cyberspace” course, a first-year seminar that engages students with intersectional approaches to race, gender, 
-class, and other axes of identity within cultures of technology. Attending to a vast range of institutional 
-contexts, these artifacts take advantage of open source, out-of-the-box tools and cheaply available technologies that
-can be easily incorporated into classes at universities without access to high-powered computing resources, digital 
-humanities centers, or substantial financial resources. They offer students the opportunity to engage with a range 
-of intersecting identities, while foregrounding methods that can be adapted for a variety of course topics. These 
-artifacts combine theoretical analysis with hands-on, experiential learning, while demonstrating that digital 
-pedagogy can be incorporated across multiple disciplines. While promoting digital literacies, they also foster 
-collaboration. Moreover, they represent the broadest conception of digital humanities methods, from digital cultural
-mapping to new media analysis to data visualization to digital storytelling to video games to digital archives to 
-wearables. In doing so, the artifacts here demonstrate how an intersectional lens can facilitate a range of 
-approaches to digital pedagogy. 
+> JENTERY: This is also great! In your first sentence, how do you feel about "digital studies" instead of "digital humanities"? We're doing our best to expand the collection beyond DH as a field, as many readers may not be invested in the term or identify with it. That said, I realize that "digital studies" may not be the best fit here. Let me know what you think? Also, I really appreciate how you transition into teaching at the end of this paragraph. 
+
+In the context of pedagogy, intersectionality asks students to think beyond narrow binaries that overdetermine contemporary discourse on identity and power. It offers them a framework through which they can deconstruct their own
+subject positions and better understand the privileges and politics that are shaping their lives. Because intersectionality moves beyond single-issue approaches to identity, it promotes development of allyship and counters the effects of public discourse that pits identity categories against each other. Blending intersectionality with digital pedagogy enables students to become critical users and makers of technology. In doing so, they are able to articulate their relationships to facets of their own identities and the role of technology in constructing these identities. Moreover, they are better equipped to understand the development of technology in the contexts of culture, history, and literature. 
+
+> JENTERY: Thank you, especially for stressing the role of technology in identity construction (as opposed to rendering technology an instrument for studying identity). How do you feel about, "In doing so, they articulate their own identities and the role of technology and culture in constructing those identities"? Also, in the last sentence, how do you feel about "Additionally" instead of "Moreover"? I feel like your sentence about articulation is very important, or as important as your remarks about context.  
+
+The artifacts collected here include student work, standalone assignments, assignment sequences, and course syllabi that position intersectionality at the heart of inquiry. They represent the materials that have influenced my "Race and Cyberspace" course, a first-year seminar that engages students with intersectional approaches to race, gender, class, and other axes of identity within cultures of technology. Attending to a vast range of institutional contexts, these artifacts take advantage of open source, out-of-the-box tools and cheaply available technologies that can be easily incorporated into classes at universities without access to high-powered computing resources, digital humanities centers, or substantial financial resources. They offer students the opportunity to engage with a range of intersecting identities, while foregrounding methods that can be adapted for a variety of course topics. These artifacts combine theoretical analysis with hands-on, experiential learning, while demonstrating that digital pedagogy can be incorporated across multiple disciplines. While promoting digital literacies, they also foster collaboration. Moreover, they represent the broadest conception of digital methods, from digital cultural mapping, new media analysis, and data visualization to digital storytelling and digital archives to videogames and wearables. In doing so, the artifacts here demonstrate how an intersectional lens can facilitate a range of approaches to digital pedagogy. 
+
+> JENTERY: I really like how you mentioned your course and then outline the artifacts that follow below. How do you feel about making the last sentence (specifically, "facilitate a range of approaches") a touch more precise? Thanks for this, too: "Attending to a vast range of institutional contexts, these artifacts take advantage of open source, out-of-the-box tools and cheaply available technologies that can be easily incorporated into classes at universities without access to high-powered computing resources, digital humanities centers, or substantial financial resources."
   
 ## CURATED ARTIFACTS 
 
 ### "Runaway Quilt Project: Digital Humanities Exploration of Quilting During the Era of Slavery"
 ![screenshot](images/intersectionality-Runaway-Quilt-Project.png)
 
-* Artifact Type: Student Work
 * Source: [http://jitp.commons.gc.cuny.edu/runaway-quilt-project-digital-humanities-exploration-of-quilting-during-the-era-of-slavery/](http://jitp.commons.gc.cuny.edu/runaway-quilt-project-digital-humanities-exploration-of-quilting-during-the-era-of-slavery/)
 * Copy of Artifact: [files/intersectionality-Runaway-Quilt-Project.pdf](files/intersectionality-Runaway-Quilt-Project.pdf)
-* Creator: Deimosa Webber-Bey (Pratt Institute School of Information and Library Science) 
+* Creator: Deimosa Webber-Bey 
 
-Deimosa Webber-Bey's article details her experience creating components of what would become *The Runaway Quilt 
-Project* during a set of digital humanities courses taught by Dr. Chris Alen Sula at Pratt Institute School of 
-Information and Library Science. Drawing on her work as an African and African American Studies scholar and 
-experienced quilter, Webber-Bey's project explores the claim that quilts served as signs along the Underground 
-Railroad. She created a range of digital projects - data visualizations in Tableau Public, digital 
-annotation using Digress.it, word frequency analysis through Google N-grams Viewer, a timeline in TimelineJS, 
-geospatial mapping using Leaflet Maps Marker, and network analysis in Cytoscape. This collection of assignments 
-demonstrates how students can engage with multiple, small-scale analyses around a single research topic, which 
-together provide a multi-pronged approach to answering a research question. It further suggests how students can 
-draw on their personal experiences at intersections of their identities to develop a digital project. 
+Deimosa Webber-Bey's article details her experience creating components of what would become *The Runaway Quilt Project* during a set of digital humanities courses taught by Chris Alen Sula at the Pratt Institute. Drawing on her work as an African and African American Studies scholar and experienced quilter, Webber-Bey's project explores the claim that quilts served as signs along the Underground Railroad. She created a range of digital projects: data visualizations in Tableau Public, digital annotations using Digress.it, word frequency analysis through Google N-grams Viewer, a timeline in TimelineJS, geospatial mapping using Leaflet Maps Marker, and network analysis in Cytoscape. This collection of assignments demonstrates how students can engage with multiple, small-scale analyses around a single research topic that together provide a multi-pronged approach to answering a research question. It further suggests how students can draw on their personal experiences at intersections of their identities to develop a digital project. 
+
+>JENTERY: This is perfect. Thank you! I really like the turn toward the personal at the end. Also, the language of "small-scale" analysis and "multi-pronged approach" resonates nicely with several other chapters in the collection.  
 
 ### "Digital Ethnography"
 ![screenshot](images/intersectionality-Digital-Ethnography.png)
 
-* Artifact type: Assignment
 * Source: [http://joglep.com/files/5914/3934/2744/5._Teaching_Artifact-Ostergaard-Digital_Ethnography.pdf](http://joglep.com/files/5914/3934/2744/5._Teaching_Artifact-Ostergaard-Digital_Ethnography.pdf)
 * Copy of Artifact: [files/intersectionality-Digital-Ethnography.pdf](files/intersectionality-Digital-Ethnography.pdf)
-* Creator: [Lori Ostergaard](http://comp-rhet.net/) (Oakland University)
+* Creator: Lori Ostergaard
 
-The digital ethnography assignment designed by Lori Ostergaard positions intersectionality at the heart of the 
-rhetorical and ethical dimensions of the internet. Among the goals for the course in which Ostergaard uses this 
-assignment are “study and apply theories of digital culture and its effects on online communities, especially in 
-relation to ethnicity, gender, class, physical ability, and sexual orientation.” After initial assignments examining 
-students' own online identities and researching emerging media forms, the digital ethnography assignment requires 
-them to engage with and analyze online communities as participant-observers. In their guided analysis, students 
-apply their understanding of intersectional theories of identity to their study of the online community and 
-produce a multimodal final project on the community. This assignment engages students in understanding the 
-relationship between online and offline identities and the way the internet is grounded in intersecting axes of 
-oppression. 
+The digital ethnography assignment designed by Lori Ostergaard positions intersectionality at the heart of the rhetorical and ethical dimensions of the internet. Among the goals for Ostergaard's course are "study and apply theories of digital culture and its effects on online communities, especially in relation to ethnicity, gender, class, physical ability, and sexual orientation." After initial assignments examining students' own online identities and researching emerging media forms, the digital ethnography assignment requires them to engage with and analyze online communities as participant-observers. In their guided analysis, students apply their understanding of intersectional theories of identity to their study of the online community and produce a multimodal final project on the community. This assignment engages students in understanding the relationship between online and offline identities and the way the internet is grounded in intersecting axes of oppression. 
+
+> JENTERY: Another persuasive description. It's also great to see ability mentioned in this chapter. Thank you! At the end, would you be willing to add a sentence or two elaborating on your final two sentences? I wonder if readers might be interested in hearing more about the particulars of this gesture: "students apply their understanding of intersectional theories of identity to their study of the online community and produce a multimodal final project." Would an example (if available) help? Something instructors may consider as they develop their own courses through intersectional frameworks? 
 
 ### "Women Writing Worldwide Global Focus Mapping Project"
 ![screenshot](images/intersectionality-Women-Writing-Worldwide.png)
 
-* Artifact Type: Assignment
 * Source: [http://www.highpoint.edu/digiped/files/2014/02/20140331_JennBrandt_0001.pdf](http://www.highpoint.edu/digiped/files/2014/02/20140331_JennBrandt_0001.pdf)
 * Copy of Artifact: [files/intersectionality-Women-Writing-Worldwide.pdf](files/intersectionality-Women-Writing-Worldwide.pdf)
-* Creator: Jenn Brandt (High Point University)
+* Creator: Jenn Brandt 
 
-Through the assignment “Women Writing Worldwide,” Jenn Brandt’s students explore the affordances of digital cultural 
-mapping for understanding the relationship between transnational feminist theory and global contemporary women’s 
-fiction. She contends that mapping engages students from diverse backgrounds and connects them to the issues that 
-affect women's lives around the globe. Students begin by using the Tour Builder storytelling tool in Google Earth to 
-map their own lives and tell their own stories. After connecting them to the platform through their own experiences, 
-Brandt engages students in mapping course material. In the collaborative project, each student is assigned a country and
-asked to research its context for women's experiences. This assignment is significant for intersectional digital 
-pedagogy because it challenges the students to think critically about the different experiences of oppression of 
-women around the world and to understand the global as an assemblage of the local.
+Through the assignment "Women Writing Worldwide," Jenn Brandt's students explore the affordances of digital cultural mapping for understanding the relationship between transnational feminist theory and global contemporary women's fiction. She contends that mapping engages students from diverse backgrounds and connects them to the issues that affect women's lives around the globe. Students begin by using the Tour Builder storytelling tool in Google Earth to map their own lives and tell their own stories. After connecting them to the platform through their own experiences, Brandt engages students in mapping the course material. In the collaborative project, each student is assigned a country and asked to research its context for women's experiences. This assignment is significant for intersectional digital pedagogy because it challenges the students to think critically about the different experiences of oppression of women around the world and to understand the global as an assemblage of the local.
+
+>JENTERY: This is great, especially since it links student backgrounds with social issues via maps. One minor observation: I believe this paragraph contains your first (and only?) use of "intersectional digital pedagogy" in the chapter. Perhaps it's something to use more often? I think it's a great term, and, to my knowledge, there is no publication explicitly about it.
 
 ### "Teaching with Tumblr: Building a Digital Archive of Gender, Race & Empire" ![screenshot](images/intersectionality-Teaching-with-Tumblr.png)
 
-* Artifact Type: Assignment
 * Source: [http://notchesblog.com/2015/09/29/teaching-with-tumblr-building-a-digital-archive-of-gender-race-empire/](http://notchesblog.com/2015/09/29/teaching-with-tumblr-building-a-digital-archive-of-gender-race-empire/)
 * Copy of Artifact: [files/intersectionality-Teaching-with-Tumblr.pdf](files/intersectionality-Teaching-with-Tumblr.pdf)
-* Creator: [Bianca Murillo](https://biancamurillo.net/) (Willamette University)
+* Creator: Bianca Murillo
 
-Drawing on her background in interactive and participatory pedagogy, Bianca Murillo discusses her use of 
-microblogging platform Tumblr to build the digital archive Gender, Race & Empire with her students. Through their 
-engagement with the archive, students examined connections between  sexuality and colonialism, considering them 
-through the lens of contemporary racism. This assignment gave students hands-on experience with creating archives, 
-allowing them to consider their own roles in the constructions of archives and the ways that history as a discipline 
-and archives themselves are shaped by dynamics of power inflected by race, sexuality, and colonialism. Grounded in an
-intersectional framework, this assignment links student experience with the histories of colonialism and sexuality. 
-It further reflects how user-friendly consumer social media platforms can be used for digital pedagogy. 
+Drawing on her background in interactive and participatory pedagogy, Bianca Murillo discusses her use of the microblogging platform, Tumblr, to build the digital archive, Gender, Race & Empire, with her students. Through their engagement with the archive, students examined connections between sexuality and colonialism, considering them through the lens of contemporary racism. This assignment gave students hands-on experience with creating archives, allowing them to consider their own roles in the constructions of archives as well as the ways that history as a discipline and archives themselves are shaped by race, sexuality, and colonialism. Grounded in an intersectional framework, this assignment links student experience with the histories of colonialism and sexuality. It further reflects how user-friendly, consumer social media platforms can be used for digital pedagogy. 
+
+> JENTERY: This is exactly the sort of artifact the collection needs. Thank you! I don't think it warrants elaboration, but I wonder if readers will want to know more about the distinction between a collection and an archive. Is such a distinction useful here? One other minor detail: I feel as if this description might be somewhat vaguer and more repetitive than other descriptions in this list.  
 
 ### "Latina Life Stories"
 ![screenshot](images/intersectionality-Latina-Life-Stories.png)
 
-* Artifact: Assignment
 * Source: [https://www.youtube.com/watch?v=bLbh2gw8EsA](https://www.youtube.com/watch?v=bLbh2gw8EsA)
 * Copy of Artifact: [files/intersectionality-Latina-Life-Stories.mp4](files/intersectionality-Latina-Life-Stories.mp4)
-* Creator: [Rita Benmayor](https://csumb.edu/directory/people/rina-benmayor)
+* Creator: Rita Benmayor
 
-Rita Benmayor’s work with students on Latina Life Stories at California State, Monterey Bay, connects students with 
-the intersections of race, ethnicity, class, immigration status, sexuality, and technology. After studying writing by
-Latinas of Mexican, Puerto Rican, Dominican, Cuban, Chicana, and mixed heritage, students produce digital stories 
-exploring their own identities and experiences. In these stories, Benmayor’s students share personal and family 
-histories engaging with themes like bodies, migration, and violence. By encouraging students to produce digital 
-stories, Benmayor helps them find their own voices as writers and to reflect on their own histories, situated at 
-the intersections of their identities. Additionally, the assignment suggests how students can be positions as 
-critical makers of technology, blending recorded narrative with visuals to bring their personal stories to life. 
+Rita Benmayor's work with students on Latina Life Stories at California State, Monterey Bay, connects students with the intersections of race, ethnicity, class, immigration status, sexuality, and technology. After studying writing by Latinas of Mexican, Puerto Rican, Dominican, Cuban, Chicana, and mixed heritage, students produce digital stories exploring their own identities and experiences. In these stories, Benmayor's students share personal and family histories engaging with themes like bodies, migration, and violence. By encouraging students to produce digital stories, Benmayor helps them find their own voices as writers and to reflect on their own histories, situated at the intersections of their identities. Additionally, the assignment suggests how students can be critical makers of technology, blending recorded narrative with visuals to bring their personal stories to life. 
+
+> JENTERY: Thank you for addressing immigration and ethnicity in this chapter, too. I know readers will want to know more about digital storytelling (including personal stories), and you're pointing them to a perfect example of how it may be taught with attention to identity and narrative. Much appreciated!  
 
 ### "Teaching Twentieth Century Art History with Gender and Data Visualizations"
 ![screenshot](images/intersectionality-Teaching-Twentieth-Century-Art-History.png)
 
-* Artifact Type: Assignment Sequence
 * Source: [http://jitp.commons.gc.cuny.edu/teaching-twentieth-century-art-history-with-gender-and-data-visualizations/](http://jitp.commons.gc.cuny.edu/teaching-twentieth-century-art-history-with-gender-and-data-visualizations/)
 * Copy of Artifact: [files/intersectionality-Teaching-Twentieth-Century-Art-History.pdf](files/intersectionality-Teaching-Twentieth-Century-Art-History.pdf)
-* Creator: Nancy Ross (Dixie State University)
+* Creator: Nancy Ross
 
-In this article, Nancy Ross describes her approach to teaching gender and sexuality in 20th century art history by 
-engaging students with interactive data visualization. Ross speaks to the challenges of teaching about gender and 
-sexuality at a conservative university in Utah, suggesting that engaging students with art through a new approach 
-facilitates their understanding and experiences with the topics. Through data visualization assignments, Ross’s 
-students used network analysis to explore connections between women artists and their interlocutors, taking into 
-account sexuality as well. The assignment challenged students to think critically about their assumptions about 
-artists who are women, such as their tendency to interpret women’s work through biographical data or their 
-assumptions that these artists were all heterosexual. Students are given the opportunity to challenge their own 
-biases, prejudices, and deeply held beliefs about axes of identity by engaging with digital pedagogy. 
+In this article, Nancy Ross describes her approach to teaching gender and sexuality in 20th century art history by engaging students with interactive data visualization. Ross speaks to the challenges of teaching about gender and sexuality at a conservative university in Utah, suggesting that engaging students with art through a new approach facilitates their understanding and experiences with the topics. Through data visualization assignments, Ross's students used network analysis to explore connections between women artists and their interlocutors, taking into account sexuality as well. The assignment challenged students to think critically about their assumptions about artists who are women, such as their tendency to interpret women's work through biographical data or their assumptions that these artists were all heterosexual. Students are given the opportunity to challenge their own biases, prejudices, and deeply held beliefs about axes of identity by engaging with digital pedagogy. 
+
+> JENTERY: This is a wonderful description. Thank you! I especially like how you introduce art and art history to intersectional digital pedagogy, and your account of the assignments really points readers to why you believe Ross's work is important. Another small and probably insignificant detail: I believe "engage" (including variants) appears 17 times in this chapter. I'm not sure whether you want to revise some instances of it. I really just noticed it here, with three appearances in this description.  
 
 ### Teaching Embodiment through Technology
 ![screenshot](images/intersectionality-Teaching-Embodiment-through-Technology.png)
 
-* Artifact Type: Assignment Sequence
 * Source: [http://www.culanth.org/fieldsights/682-teaching-embodiment-through-technology](http://www.culanth.org/fieldsights/682-teaching-embodiment-through-technology)
 * Copy of Artifact: [files/intersectionality-Teaching-Embodiment-through-Technology.pdf](files/intersectionality-Teaching-Embodiment-through-Technology.pdf)
-* Creator: Leah Zani (University of California, Irvine) and [Marzieh Kaivanara](http://www.bristol.ac.uk/school-of-arts/people/marzieh-kaivanara/index.html) (University of Bristol)
+* Creators: Leah Zani and Marzieh Kaivanara
 
-Leah Zani and Marzieh Kaivanara’s modular assignment sequence asks students to think critically about the 
-technologized body. In addition to learning about and applying theories of embodiment, their goal for this sequence 
-is to encourage students to understand their own bodies in relation to technology and the power dynamics that shape 
-them. After theoretical discussions on race, gender, and other facets of identity and activities connecting students 
-with their own bodies to supplement their understanding of embodiment, they engage students with scholarship on 
-technological embodiment. Together, the class analyzes images of technologized bodies sourced by students. Zani and 
-Kaivanara then ask their students to consider their own use of bodily technologies - from glasses to cavities to 
-wearable activity monitors. In doing so, they offer a model for teaching students to reflect on the relationship 
-between gender, ability, and technology. 
+Leah Zani and Marzieh Kaivanara's modular assignment sequence asks students to think critically about the technologized body. In addition to learning about and applying theories of embodiment, their goal for this sequence is to encourage students to understand their own bodies in relation to technology and power. After theoretical discussions on race, gender, and other facets of identity and activities connecting students with their own bodies to supplement their understanding of embodiment, they engage students with scholarship on technological embodiment. Together, the class analyzes images of technologized bodies sourced by students. Zani and Kaivanara then ask their students to consider their own use of bodily technologies, from glasses to cavities to wearable activity monitors. In doing so, they offer a model for teaching students to reflect on the relationship between gender, ability, and technology. 
+
+>JENTERY: It's great to see material on embodiment in this list, too. I don't have any significant suggestions here. I did have to read this sentence a few times, tho: "After theoretical discussions on race, gender, and other facets of identity and activities connecting students with their own bodies to supplement their understanding of embodiment, they engage students with scholarship on technological embodiment." Perhaps it could be two sentences? I think I get lost somewhere around "identity and activities." I also wonder if you need, "In addition to learning about and applying theories of embodiment," in part because you mention theory in the next sentence. 
 
 ### "Video Games as Feminist Pedagogy"
 ![screenshot](images/intersectionality-Video-Games-as-Feminist-Pedagogy.png)
 
-* Artifact Type: Assignment Sequence
 * Source: [http://journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166](http://journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166)
 * Copy of Artifact: [files/intersectionality-Video-Games-as-Feminist-Pedagogy.pdf](files/intersectionality-Video-Games-as-Feminist-Pedagogy.pdf)
-* Creator: [Samantha Allen](http://samanthaleighallen.com/) (Independent Scholar)
+* Creator: Samantha Allen
 
-Samantha Allen makes the case that video games are essential to teaching feminist pedagogy. She describes using video
-games to teach units on transgender studies and intersectionality. These games, Allen argues, bridges gaps between 
-students who do not share an understanding of feminism, leveraging their experiences with a shared understanding video
-games. She introduces her students to independent video games made by people who are part of sexual and gender 
-minorities, like *dys4ia,* *Lim,* and *Mainichi,* to engage them in perspectives other than their own. Additionally, 
-Allen guided them through play of mass-market game *Halo,* interspersing game play with discussion groups to 
-facilitate critical thinking about the game and to model intersectional dimensions of oppression. These assignments 
-take advantage of students' immersion in technological cultures to introduce theories of intersectionality and 
-challenge them to consider their own experiences in relation to those who may not share them.
+Samantha Allen makes the case that videogames are essential to teaching feminist pedagogy. She describes using videogames to teach units on transgender studies and intersectionality. These games, Allen argues, bridge gaps between students who do not share an understanding of feminism, leveraging their experiences with a shared understanding of videogames. She introduces her students to independent videogames, such as *dys4ia,* *Lim,* and *Mainichi,* made by people who are part of sexual and gender minorities  to engage students in perspectives other than their own. Additionally, Allen guided them through play of the mass-market game, *Halo,* interspersing game play with discussion groups to facilitate critical thinking about the game and to model intersectional dimensions of oppression. These assignments take advantage of students' immersion in technological cultures to introduce theories of intersectionality and challenge them to consider their own experiences in relation to those who may not share them.
+
+>JENTERY: Thank you! I appreciate how focused this description is. It also overlaps nicely with our chapter on gaming (by Amanda Phillips). 
 
 ### "Panama Silver, Asian Gold: Reimagining Diasporas, Archives, and the Humanities"
 ![screenshot](images/intersectionality-Panama-Silver-Asian-Gold.png)
 
-* Artifact Type: Syllabus
 * Source: [http://dloc.com/digital/panamasilver](http://dloc.com/digital/panamasilver)
 * Copy of Artifact: [files/intersectionality-Panama-Silver-Asian-Gold.pdf](files/intersectionality-Panama-Silver-Asian-Gold.pdf)
-* Creator: Leah Rosenberg, Donette Francis, and Rhonda Cobham-Sander
+* Creators: Leah Rosenberg, Donette Francis, and Rhonda Cobham-Sander
 
-“Panama Silver, Asian Gold: Reimagining Diasporas, Archives, and the Humanities” is the latest iteration of a 
-collaborative, cross-institutional course taught at Amherst College, University of Florida, University of Miami, and 
-the University of the West Indies, Cavehill, Barbados. The first iteration was taught in 2013 at Amherst, University 
-of Florida, and University of Miami. Students in the course engage with literary studies of the Caribbean through an 
-interdisciplinary lens, as well as archival research and digital scholarship. Through class assignments, they consider
-the colonial dimensions of colonial archives, examining how particular facets of identity and subalternity influence 
-Caribbean writers and scholars. The course demonstrates that intersectionality produces a range of archival 
-interventions in which students can engage using the Digital Library of the Caribbean, from Kim Bain’s [“Ghosts in 
-the Water: Chinese Women in Trinidad”](http://ghostsinthewater.wordpress.com/) to Yilin Andre Wang’s [“Mapping LGBT 
-Caribbean Literature.”](https://queercaribbeanlit.wordpress.com/) 
+"Panama Silver, Asian Gold: Reimagining Diasporas, Archives, and the Humanities" is the latest iteration of a collaborative, cross-institutional course taught at Amherst College, University of Florida, University of Miami, and the University of the West Indies, Cavehill, Barbados. The first iteration was taught in 2013 at Amherst, University of Florida, and University of Miami. Students in the course engage with archival research, digital scholarship, and literary studies of the Caribbean through an interdisciplinary lens. Through class assignments, they consider the colonial dimensions of colonial archives, examining how particular facets of identity and subalternity influence Caribbean writers and scholars. The course demonstrates that intersectionality produces a range of archival interventions that students can engage when using the Digital Library of the Caribbean, from Kim Bain’s ["Ghosts in the Water: Chinese Women in Trinidad"](http://ghostsinthewater.wordpress.com/) to Yilin Andre Wang’s ["Mapping LGBT Caribbean Literature."](https://queercaribbeanlit.wordpress.com/) 
+
+>JENTERY: Thanks again! Near the end of this description, would you be willing to add a sentence or two detailing example archival interventions? Perhaps an intervention or two that sticks out to you as someone interested in intersectional digital pedagogy? Also, how do you feel about, "the colonial dimensions of archives" (cutting the second appearance of colonial in that sentence)? 
 
 ### "Fashioning Circuits" 
 ![screenshot](images/intersectionality-Fashioning-Circuits.png)
 
-* Artifact Type: Syllabus
 * Source URL: [http://fashioningcircuits.com/?page_id=2365](http://fashioningcircuits.com/?page_id=2365)
 * Copy of Artifact: [files/intersectionality-Fashioning-Circuits.pdf](files/intersectionality-Fashioning-Circuits.pdf)
-* Creator: [Kim A. Knight](http://kimknight.com/) (University of Texas, Dallas)
+* Creator: Kim A. Knight
 
-Kim Knight’s course materials for “Fashioning Circuits” brings together the history of fashion and wearable 
-electronics to engage students in exploration of the effects of media on bodies at the intersections of race, gender,
-class, ability, and sexuality. After small-scale projects to introduce students to creating wearables and class 
-discussions exploring intersectionality and media culture, students create social justice-oriented wearable projects
-intended to provide a solution to a problem, make a statement, or create a social intervention. This hands-on 
-experience in critical making is accompanied by discussion of the affordances and limitations of fashion and its 
-relationship with wearable electronics. While other course materials that blend new media with intersectionality tend 
-to emphasize analysis and multimodal writing to assess student outcomes, "Fashioning Circuits" exemplifies how students 
-can create digital objects of a different kind to demonstrate their understanding of intersectionality and technology. 
+Kim Knight’s course materials for "Fashioning Circuits" bring together the history of fashion and wearable electronics to engage students in exploring the effects of media on bodies at the intersections of race, gender,
+class, ability, and sexuality. After small-scale projects to introduce students to creating wearables as well as class discussions about intersectionality and media culture, students produce social justice-oriented wearable projects intended to provide a solution to a problem, make a statement, or create a social intervention. This hands-on experience in critical making is accompanied by discussion of the affordances and limitations of fashion and its relationship with wearable electronics. While other course materials that blend new media with intersectionality tend to emphasize analysis and multimodal writing to assess student outcomes, "Fashioning Circuits" exemplifies how students can create digital objects of a different kind to demonstrate their understanding of intersectionality and technology. 
+
+>JENTERY: Another compelling description. Thanks! I find the last third of this paragraph especially persuasive. I don't think it's significant, but I wonder if "digital objects of a different kind" could be more exact. As a reader, one thing that immediately came to mind here is how Knight asks students to wear or perform the critiques they are making. Perhaps this is a point of comparison with analysis and multimodal writing? 
 
 ## RELATED MATERIALS
 
@@ -271,6 +171,7 @@ Stern, Danielle. "You Had Me at Foucault: Living Pedagogically in the Digital Ag
 
 VanGilder, Kirk. "Intersectionality and Disclosure as Pedagogical Tools. *Religious Studies News.* 29 Apr. 2015. [http://rsn.aarweb.org/spotlight-on/theo-ed/intersectionality/intersectionality-and-disclosure-pedagogical-tools](http://rsn.aarweb.org/spotlight-on/theo-ed/intersectionality/intersectionality-and-disclosure-pedagogical-tools). 
 
+> JENTERY: I really like the range here. Also, you point to publication venues many scholars of digital pedagogy may overlook. Thank you, Roopsi! 
 
 ## WORKS CITED
 
