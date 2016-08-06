@@ -114,7 +114,7 @@ The "baby bottles" interrogate the idea of teaching children about national iden
 To adapt this for a class, choose an article that the students will read as usual before the class. Ideally it should be a paper that will engage their imaginations; it should also lend itself to thinking about things that can be prototyped, such as communications, objects, or experiences. Then have the students carry out the 4 steps above.
 
 ### "Prototype Video for Kickstarter
-![screenshot](prototypes--InfoDesignMRU_YouTube.tif)
+![screenshot](prototype--InfoDesignMRU_YouTube.png)
 * Type: Assignment
 * Copy of the artifact: 
 * BComm students Mount Royal University
