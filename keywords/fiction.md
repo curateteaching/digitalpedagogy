@@ -22,7 +22,7 @@ Similar ambiguities attend any attempt to put clear borders on the category *fic
 
 In practice, while the fictionality of fiction attends any serious consideration of the form, the study of fiction often unites a series of other concerns. The question of the *fictional* as a category, and its relationship to its others (the *true*, the *historical*), is an important aspect of teaching fiction. But teaching fiction also involves questions of narrative and plot, a sensitivity to form and style, and the histories (material and conceptual) of all of these terms. Studying fiction also invites reflection on *medium*; as the "same" story moves across genres---a process amply illustrated, for instance, by the many versions (dramatic, illustrated, filmed, etc) of Bram Stoker's *Dracula* which began appearing soon after its initial publication. Teaching of fiction, therefore, requires weaving together close attention to the histories and textures of particular works, with larger threads: longer political and social histories; the rise and fall of genres; and narrative structures broader than any single medium or genre.
 
->Matt: " and its relationship to its others" seems off -- please take another look at this sentence.
+>MATT: " and its relationship to its others" seems off -- please take another look at this sentence.
 
 > MATT: I think the paragraphs above are great, but they don't necessarily attend to digital pedagogy. You can fix that by adding something above or perhaps by making a stronger transition in the paragraph below that moves us more explicitly from general considerations around the study of and boundaries of fiction to the practice of digital pedagogy
 
