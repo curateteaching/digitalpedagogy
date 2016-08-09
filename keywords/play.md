@@ -13,9 +13,9 @@ publisher: Modern Language Association
 type: book
 ---
 
-# Play
+# PLAY (Final)
 
-### AUTHOR: Mark Sample
+### Mark Sample
 Davidson College | Digital Studies | [Website](http://www.samplereality.com)
 
 ---
@@ -23,10 +23,15 @@ Davidson College | Digital Studies | [Website](http://www.samplereality.com)
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review https://digitalpedagogy.commons.mla.org/**
+* draft version undergoing peer-to-peer review
+* **awaiting pre-print copy**
 * published 
-	
+
 ---
+
+### Tags: 
+
+--- 
 
 ## CURATORIAL STATEMENT
 
