@@ -15,7 +15,7 @@ type: book
 
 #TEXT ANALYSIS (Final)
 
-## AUTHOR: Natalie M. Houston
+## Natalie M. Houston
 Department of English | University of Massachusetts Lowell | [Website](http://nmhouston.com/)
 
 ---
@@ -26,9 +26,11 @@ Department of English | University of Massachusetts Lowell | [Website](http://nm
 * draft version undergoing peer-to-peer review
 * **awaiting pre-print copy**
 * published 
- ---
 
-#### Tags: text, reading,  pattern,  interpretation,  analysis
+---
+
+### Tags: text, reading,  pattern,  interpretation,  analysis
+
 ---
 
 
