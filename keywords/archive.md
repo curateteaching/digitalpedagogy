@@ -15,7 +15,7 @@ publisher: Modern Language Association
 type: book
 ---
 
-# Archive
+# ARCHIVE (Final)
 
 ### Lauren Coats (LSU) and Gabrielle Dean (Johns Hopkins University)
 
@@ -25,10 +25,15 @@ type: book
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review https://digitalpedagogy.commons.mla.org/**
+* draft version undergoing peer-to-peer review
+* **awaiting pre-print copy**
 * published 
 
---- 	
+---
+
+### Tags: 
+
+--- 
 
 ## CURATORIAL STATEMENT
 
