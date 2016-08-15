@@ -177,7 +177,7 @@ Stommel, Jesse. "Online learning: A Manifesto." *Hybrid Pedagogy*. 3 December 20
 
 ## WORKS CITED
 
-Bayne, Siân. “The Embodiment of the Online Learner.” Beyond the comfort zone: Proceedings of the 21st ASCILITE Conference (2004): pp. 105-115. Accessed 1 May 2016. http://www.ascilite.org/conferences/perth04/procs/pdf/bayne.pdf
+Bayne, Siân. “The Embodiment of the Online Learner.” *Beyond the comfort zone: Proceedings of the 21st ASCILITE Conference*. (2004): pp. 105-115. Accessed 1 May 2016. http://www.ascilite.org/conferences/perth04/procs/pdf/bayne.pdf
 
 Campbell, Gardner. “A personal cyberinfrastructure.” *Educause Review*. vol. 44, no. 5 (September/October 2009): 58–59. Accessed 1 May 2016. http://er.educause.edu/articles/2009/9/a-personal-cyberinfrastructure
 
@@ -185,7 +185,7 @@ Campbell, Gardner. “Networked Learning as Experiential Learning.” *Educause 
 
 Campbell, Gardner. "Thought Vectors in Concept Space: Syllabus." Fall 2015. Accessed 1 May 2016. http://thoughtvectors.net/syllabus/
 
-Caulfield, Mike. "Wikity: Bring your bookmarks into the digital age." *Hapgood*. 4 March 2016. Accessed 1 May 2016. https://hapgood.us/2016/03/04/bring-your-bookmarks-into-the-hypertext-age/
+Caulfield, Mike. "Wikity: Bring your bookmarks into the digital age." Hapgood. 4 March 2016. Accessed 1 May 2016. https://hapgood.us/2016/03/04/bring-your-bookmarks-into-the-hypertext-age/
 
 clMOOC. Accessed 1 May 2016. http://clmooc.educatorinnovator.org/2015/
 
@@ -205,7 +205,7 @@ Ito, Mizuko et al. “Connected Learning: An Agenda for Research and Design.” 
 
 Lamont, Ian. "My online math class review: Convenience gets an 'A,' but at what cost?" I, Lamont blog. 17 July 2010. Accessed 1 May 2016. http://www.ilamont.com/2010/07/my-online-math-class-convenience-gets-a.html
 
-Land, Ray. "Issues of embodiment and risk." Beyond the comfort zone: Proceedings of the 21st ASCILITE Conference (2004): pp. 105-115. Accessed 1 May 2016. http://www.ascilite.org/conferences/perth04/procs/land.html
+Land, Ray. "Issues of embodiment and risk." *Beyond the comfort zone: Proceedings of the 21st ASCILITE Conference*. (2004): pp. 105-115. Accessed 1 May 2016. http://www.ascilite.org/conferences/perth04/procs/land.html
 
 Levine, Alan. "Assignment Bank Creator. Accessed 1 May 2016. https://github.com/cogdog/ds106bank
 
@@ -221,11 +221,11 @@ Pacansky-Brock, Michelle. "Love Letter to Online Learning." 26 April 2016. Acces
 
 Rheingold, Howard. Attention, and other 21st-century social media literacies. *Educause Review*. vol. 45, no. 5 (September/October 2010): 14–24. Accessed 12 June 2016. http://er.educause.edu/articles/2010/10/attention-and-other-21stcentury-social-media-literacies
 
-Rheingold, Howard. Net Smart: How to Thrive Online. Cambridge: The MIT Press, 2014. 
+Rheingold, Howard. *Net Smart: How to Thrive Online*. Cambridge: The MIT Press, 2014. 
 
 Richardson, Jennifer & Karen Swan. "Examing Social Presence in Online Courses in Relation to Students' Perceived Learning and Satisfaction." *Journal of Asynchronous Learning Networks*, vol7, issue 1, 2003.https://www.ideals.illinois.edu/bitstream/handle/2142/18713/RichardsonSwan%20JALN7%281%29.pdf?sequence=2
 
-Ross, Jen & Amy Collier. “Complexity, Mess, and Not-yetness: Teaching Online with Emerging Technologies.” In George Veletsianos (Ed.), Emergence and Innovation in Digital Learning: Foundations and Applications. May 206. Accessed 12 June 2016. http://www.aupress.ca/index.php/books/120258
+Ross, Jen & Amy Collier. “Complexity, Mess, and Not-yetness: Teaching Online with Emerging Technologies.” In George Veletsianos (Ed.), *Emergence and Innovation in Digital Learning: Foundations and Applications.* May 2016. Accessed 12 June 2016. http://www.aupress.ca/index.php/books/120258
 
 Ross, Jen et al. "Manifesto for Online Teaching." Accessed 1 May 2016. https://onlineteachingmanifesto.wordpress.com/
 
@@ -234,5 +234,3 @@ Schaeffer, Kris. “Push, Pull, Fork: GitHub for Academics.” *Hybrid Pedagogy*
 Stommel, Jesse. "Online learning: A Manifesto." *Hybrid Pedagogy*. 3 December 2012. Accessed 1 May 2016.http://www.digitalpedagogylab.com/hybridped/online-learning-a-manifesto/
 
 Straumsheim, Carl. “Love letter to Blended Learning.” 20 April 2016. Accessed 1 May 2016. https://www.insidehighered.com/news/2016/04/20/mit-online-learning-report-notes-importance-teachers-instructional-designers
-
-Status API T
