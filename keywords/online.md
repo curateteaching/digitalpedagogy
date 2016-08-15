@@ -22,8 +22,8 @@ Middlebury College | http://digitallearning.middcreate.net
 
 ##### Publication Status:
 * unreviewed draft
-* **draft version undergoing editorial review**
-* draft version undergoing peer-to-peer review
+* draft version undergoing editorial review
+* **draft version undergoing peer-to-peer review**
 * published 
 
 --- 
@@ -43,7 +43,7 @@ Online authorship is not just writing in online spaces; authorship is creation a
 Perhaps the greatest, and often unrealized, opportunity for meaningful online learning is through connections to people and networks within and outside of a class. Students work in online “walled gardens,” such as Learning Management Systems, and are not encouraged to venture beyond those digital walls to connect to people and networks. Gardner Campbell (Networked Learning as Experiential Learning) argued, “we must add digitally mediated networked learning to Kuh's [high impact practices] list, because the experience of building and participating within a digitally mediated network of discovery and collaboration is an increasingly necessary foundation for all other forms of experiential learning in a digital age. Moreover, the experience of building and participating within a digitally mediated network of discovery is itself a form of experiential learning…” Resources in this collection provide examples for intentional building and fostering of networks and communities as part of online learning.
 
 ###Presence/Embodiment
-The third area this collection investigates is presence and embodiment. Siân Bayne (105) says, “The distanced, unstable relationship between body and subject with which we engage when we communicate online involves us in modes of identity formation and pedagogical relations which are very different from those which, as learners and teachers, we experience in the face to face classroom.” The lack of physical embodiment and co-presence may be most detrimental to online learners, as those can contribute to feelings that online learning lacks authenticity or veracity (Land 531). Land noted, “The notion that the visibility of the learner or teacher serves as an anchor of truthfulness or veracity (‘you can look your interlocutor in the eye’) might lead one to conclude that authenticity is dependent upon physical embodiment. It would follow from this line of reasoning, that lack of embodiment renders the cyber space, which is unquestionably a simulated environment, a ‘false’ environment.” Addressing embodiment and presence, particularly with activities and assessments that encourages students’ authentic selves to be present, can help to alleviate these concerns.
+The third area this collection investigates is presence and embodiment. Siân Bayne (105) says, “The distanced, unstable relationship between body and subject with which we engage when we communicate online involves us in modes of identity formation and pedagogical relations which are very different from those which, as learners and teachers, we experience in the face to face classroom.” The lack of physical embodiment and co-presence may be most detrimental to online learners, as those can contribute to feelings that online learning lacks authenticity or veracity (Land 531). Land noted, “The notion that the visibility of the learner or teacher serves as an anchor of truthfulness or veracity (‘you can look your interlocutor in the eye’) might lead one to conclude that authenticity is dependent upon physical embodiment. It would follow from this line of reasoning, that lack of embodiment renders the cyber space, which is unquestionably a simulated environment, a ‘false’ environment.” Addressing embodiment and presence, particularly with activities and assessments that encourage students’ authentic selves to be present, can help to alleviate these concerns.
 
 As expected, questions of embodiment and presence pervade the literature on online learning, highlighting concerns that online learning can create isolation and distance. The disembodied or absent online learner is characterized as a “lurker” and strategies for dealing with lurkers often devolve to compliance (number of logins, number of discussion posts, etc.). Research points to the importance of establishing social, cognitive, and teaching presence in online learning experiences, the integration of which is said to foster a Community of Inquiry (Garrison) among teachers and learners. Examples in this section explore or reimagine presence and provide a sense of eventness for online learning experiences.
 
@@ -59,7 +59,7 @@ As expected, questions of embodiment and presence pervade the literature on onli
 * Artifact permissions: CC-BY 4.0
 * Creator and Affiliation: Adam Croom & John Stewart, University of Oklahoma
 
-GitHub provides a unique platform for authorship, collaboration, and peer review. GitHub was originally created to allow software developers to share code and it gained popularity because of how it allows users to “fork” files from other users. Forking a project allows users to copy code to their own GitHub account and make changes without affecting the original file. According to Schaeffer (Push, Pull, Fork: GitHub for Academics), a “‘forked’ project can be used as the basis for a new project, or can be used to work out new features that can be merged back into the original.” The Fork U! resource, assembled by Croom and Stewart for a presentation at the Online Learning Consortium's Innovate conference, provides low-barrier and forkable activities instructors and/or students can complete. All of the resources on this site are forkable (i.e., they can be copied and reused). Any changes made to a "forked" copy do not impact the original "master" unless a pull request is accepted. GitHub provides a unique platform for exploring authorship with students, as it allows students to author their own projects, to allow sharing and discussion of copies of those projects, and to copy/edit resources authored by others. It would be interesting to see group projects authored via GitHub as a way of exploring collaboration and shared authorship. Other examples of resources on Github include this [Musicianship syllabus](http://kris.shaffermusic.com/musicianshipResources/), course materials for [Humanizing Technology](https://github.com/karlstolley/ht), assignments for [Fashioning Circuits](https://github.com/fashioning-circuits), and peer assessment activities for a course on [Reproducible Data](https://github.com/rdpeng/RepData_PeerAssessment1). 
+GitHub provides a unique platform for authorship, collaboration, and peer review. GitHub was originally created to allow software developers to share code, and it gained popularity because of how it allows users to “fork” files from other users. Forking a project allows users to copy code to their own GitHub account and make changes without affecting the original file. According to Schaeffer (Push, Pull, Fork: GitHub for Academics), a “‘forked’ project can be used as the basis for a new project, or can be used to work out new features that can be merged back into the original.” The Fork U! resource, assembled by Croom and Stewart for a presentation at the Online Learning Consortium's Innovate conference, provides low-barrier and forkable activities instructors and/or students can complete. All of the resources on this site are forkable (i.e., they can be copied and reused). Any changes made to a "forked" copy do not impact the original "master" unless a pull request is accepted. GitHub provides a unique platform for exploring authorship with students, as it allows students to author their own projects, to allow sharing and discussion of copies of those projects, and to copy/edit resources authored by others. It would be interesting to see group projects authored via GitHub as a way of exploring collaboration and shared authorship. Other examples of resources on Github include this [Musicianship syllabus](http://kris.shaffermusic.com/musicianshipResources/), course materials for [Humanizing Technology](https://github.com/karlstolley/ht), assignments for [Fashioning Circuits](https://github.com/fashioning-circuits), and peer assessment activities for a course on [Reproducible Data](https://github.com/rdpeng/RepData_PeerAssessment1). 
 
 
 ### ds106 Assignment Bank creator
@@ -70,7 +70,7 @@ GitHub provides a unique platform for authorship, collaboration, and peer review
 * Artifact permissions: GNU General Public Licence
 * Creator and Affiliation: Alan Levine
 
-GitHub provides a unique platform for authorship, collaboration, and peer review. GitHub was originally created to allow software developers to share code and it gained popularity because of how it allows users to “fork” files from other users. Forking a project allows users to copy code to their own GitHub account and make changes without affecting the original file. According to Schaeffer (Push, Pull, Fork: GitHub for Academics), a “‘forked’ project can be used as the basis for a new project, or can be used to work out new features that can be merged back into the original.” An Assignments Bank is a site in which teachers and learners can create and complete assignments related to a shared topic of interest or scholarship. Alan Levine’s Assignments Bank Github repository enables teachers and students to author their own Assignments Bank and build a community around the assignments they create. Examples of such communities, including [ds106](http://assignments.ds106.us/) and the [Connected Learning MOOC](http://clmoocmb.educatorinnovator.org/home/), are listed on Levine's Github page. Creating an Assignments Bank allows members of a community to author opportunities for learning within their community and with others outside of their community. This allows communities to have agency over the ways members of the communities and outside networks participate together. Assignments Banks should be created outside of the LMS in order to make the work of the community visible and accessible to a broader network; Levine’s Assignment Bank GitHub repository is for a WordPress-based tool. 
+GitHub provides a unique platform for authorship, collaboration, and peer review. GitHub was originally created to allow software developers to share code, and it gained popularity because of how it allows users to “fork” files from other users. Forking a project allows users to copy code to their own GitHub account and make changes without affecting the original file. According to Schaeffer (Push, Pull, Fork: GitHub for Academics), a “‘forked’ project can be used as the basis for a new project, or can be used to work out new features that can be merged back into the original.” An Assignments Bank is a site in which teachers and learners can create and complete assignments related to a shared topic of interest or scholarship. Alan Levine’s Assignments Bank Github repository enables teachers and students to author their own Assignments Bank and build a community around the assignments they create. Examples of such communities, including [ds106](http://assignments.ds106.us/) and the [Connected Learning MOOC](http://clmoocmb.educatorinnovator.org/home/), are listed on Levine's Github page. Creating an Assignments Bank allows members of a community to author opportunities for learning within their community and with others outside of their community. This allows communities to have agency over the ways members of the communities and outside networks participate together. Assignments Banks should be created outside of the LMS in order to make the work of the community visible and accessible to a broader network; Levine’s Assignment Bank GitHub repository is for a WordPress-based tool. 
 
 
 ### ThoughtVectors in Concept Space syllabus
@@ -103,7 +103,7 @@ Wikity is a federated wiki environment created by Mike Caulfield, and [his writi
 * Artifact permissions: CC-BY-SA 4.0
 * Creator and Affiliation: Educator Innovator / National Writing Project
 
-Many MOOCs—explicitly or implicitly—do not aim to foster community. Today’s MOOC tend to place content at the center of the learning experience, through video content, quizzes, and discussion forums aimed mostly at answering questions, rather than building community. But the first MOOCs, which started well before Coursera and EdX were established, focused on creating networks of learners that could be responsive to evolving interests and needs. These MOOCs demonstrated the power of connected learning, a movement that “is not simply a ‘technique’ for improving individual educational outcomes, but rather seeks to build communities and collective capacities for learning and opportunity…” (Ito et al., 8). Communities to which students connect, more than the instructor alone, can provide ongoing resources and can be a source of new connections as a learner develops areas of interest, inquiry, and work. This artifact shows how an online course can be designed to intentionally foster community and to help students to develop the skills and intentions to connect to various communities. Every activity, every design choice, centers on community. clMOOC makes explicit its goal of connected learning and provides ample opportunities for learners to connect (see examples of Twitter chats, Make Cycles, Blog Hub, Make Bank, and social tools). 
+Many MOOCs—explicitly or implicitly—do not aim to foster community. Today’s MOOC tend to place content at the center of the learning experience, through video content, quizzes, and discussion forums aimed mostly at answering questions, rather than building community. But the first MOOCs, which started well before Coursera and EdX were established, focused on creating networks of learners that could be responsive to evolving interests and needs. These MOOCs demonstrated the power of connected learning, a movement that “is not simply a ‘technique’ for improving individual educational outcomes, but rather seeks to build communities and collective capacities for learning and opportunity…” (Ito et al., 8). Communities to which students connect, more than the instructor alone, can provide ongoing resources and can be a source of new connections as a learner develops areas of interest, inquiry, and work. This artifact shows how an online course can be designed to intentionally foster community and to help students to develop the skills and intentions to connect to various communities. Every activity, every design choice, centers on community. clMOOC makes explicit its goal of connected learning and provides ample opportunities for learners to connect.  In particular, see examples of Twitter chats, Make Cycles, Blog Hub, Make Bank, and social tools. 
 
 ### FemTechNet: Key Learning Projects
 ![screenshot](images/Online_FemTechNet-Assignments.png)
@@ -113,7 +113,7 @@ Many MOOCs—explicitly or implicitly—do not aim to foster community. Today’
 * Artifact permissions: [LINK]
 * Creator and Affiliation: FemTechNet organizers
 
-FemTechNet is a community that sponsors DoCCs—Distributed Open Collaborative Courses—which are explicitly created as response to MOOCs. While MOOCs generally do not focus on community building, DoCCs center on community building as a part of a feminist pedagogy orientation. The key learning projects are both the product of a community and an opportunity to create further community. The Community Participation via Blog Commenting project is a great model for giving learners skills and opportunities to engage with a professional community of their choosing. The project teaches students about intentionally participating in an online community and how preparation for engaging with that community (e.g., through formulating a rhetorical stance) can help them to connect to experts and to understand how communities work (and sometimes don’t work) in online settings. The assignments also helps students to think through the threats to online professional communities (e.g., trolls) and how communities handle those threats. Additional key learning projects have been highlighted in this collection, including [the Situated Knowledges Map](https://digitalpedagogy.commons.mla.org/keywords/gender/), and the [Exquisite Engendering Remix](https://digitalpedagogy.commons.mla.org/keywords/remix/).
+FemTechNet is a community that sponsors DoCCs—Distributed Open Collaborative Courses—which are explicitly created in response to MOOCs. While MOOCs generally do not focus on community building, DoCCs center on community building as a part of a feminist pedagogy orientation. The key learning projects are both the product of a community and an opportunity to create further community. The Community Participation via Blog Commenting project is a great model for giving learners skills and opportunities to engage with a professional community of their choosing. The project teaches students about intentionally participating in an online community and how preparation for engaging with that community (e.g., through formulating a rhetorical stance) can help them to connect to experts and to understand how communities work (and sometimes don’t work) in online settings. The assignments also help students to think through the threats to online professional communities (e.g., trolls) and how communities handle those threats. Additional key learning projects have been highlighted in this collection, including [the Situated Knowledges Map](https://digitalpedagogy.commons.mla.org/keywords/gender/), and the [Exquisite Engendering Remix](https://digitalpedagogy.commons.mla.org/keywords/remix/).
 
 
 ### The Daily Connector
@@ -137,7 +137,7 @@ Henry Jenkins et al. (5) describe participatory culture as a culture with low ba
 * Artifact permissions: [LINK]
 * Creator and Affiliation: Michelle Pacansky-Brock, California State University Channel Islands
 
-In her excellent paper on embodiment in online learning, Sîan Bayne notes, “in cyberspace and elsewhere, mind and body are indivisible entities is not to prevent us from looking to new technological environments as spaces where the conventional constraints and significations of embodiment can be challenged and shifted. The challenge to learners and teachers in cyberspace is in devising creative pedagogical approaches which work with these new articulations.” The use of voice sharing technologies may help to combat the disengagement felt in disembodied online courses. Voice can provide a sense of embodiment in online courses, where embodied interactions may be limited to audio and video streams. Michelle Pacansky-Brock voice annotates her syllabus and assignments, and she provides feedback to students using voice. These annotated syllabus, assignments, and feedback she uses become a model for students on how to share their vocal presence with others in the course. Pacansky-Brock invites students to annotate course resources and assignments together, using VoiceThread, giving students a chance to embody their work with their voices. Pacansky-Brock also wrote a free ebook called [How to Humanize Your Online Class with VoiceThread](http://page.teachingwithoutwalls.com/ebook).
+In her excellent paper on embodiment in online learning, Sîan Bayne notes, “that, in cyberspace and elsewhere, mind and body are indivisible entities is not to prevent us from looking to new technological environments as spaces where the conventional constraints and significations of embodiment can be challenged and shifted. The challenge to learners and teachers in cyberspace is in devising creative pedagogical approaches which work with these new articulations.” The use of voice sharing technologies may help to combat the disengagement felt in disembodied online courses. Voice can provide a sense of embodiment in online courses, where embodied interactions may be limited to audio and video streams. Michelle Pacansky-Brock voice annotates her syllabus and assignments, and she provides feedback to students using voice. These annotated syllabus, assignments, and feedback she uses become a model for students on how to share their vocal presence with others in the course. Pacansky-Brock invites students to annotate course resources and assignments together, using VoiceThread, giving students a chance to embody their work with their voices. Pacansky-Brock also wrote a free ebook called [How to Humanize Your Online Class with VoiceThread](http://page.teachingwithoutwalls.com/ebook).
 
 ### The Daily Create
 ![screenshot](images/Online_ds106_dailycreate.png)
@@ -164,75 +164,75 @@ More generally, instructors are using hypothes.is in their courses for collabora
 
 ## RELATED MATERIALS
 
-Campbell, Gardner. “A personal cyberinfrastructure.” Educause Review. Web. 1 May 2016.http://er.educause.edu/articles/2009/9/a-personal-cyberinfrastructure
+Campbell, Gardner. “A personal cyberinfrastructure.” *Educause Review*. vol. 44, no. 5 (September/October 2009): 58–59. Accessed 1 May 2016. http://er.educause.edu/articles/2009/9/a-personal-cyberinfrastructure
 
-Pacansky-Brock, Michelle. "Love letter to online learning." http://brocansky.com/2016/04/26/love-letter-to-online-learning/
+Pacansky-Brock, Michelle. "Love letter to online learning." 26 April 2016. http://brocansky.com/2016/04/26/love-letter-to-online-learning/
 
-Rheingold, Howard. Net Smart: How to Thrive Online. Cambridge: The MIT Press, 2014. Print.
+Rheingold, Howard. *Net Smart: How to Thrive Online*. Cambridge: The MIT Press, 2014. 
 
 Ross, Jen et al. "Manifesto for Online Teaching." https://onlineteachingmanifesto.wordpress.com/
 
-Stommel, Jesse. "Online learning: A Manifesto." Hybrid Pedagogy. Web. 1 May 2016.http://www.digitalpedagogylab.com/hybridped/online-learning-a-manifesto/
+Stommel, Jesse. "Online learning: A Manifesto." *Hybrid Pedagogy*. 3 December 2012. Accessed 1 May 2016. http://www.digitalpedagogylab.com/hybridped/online-learning-a-manifesto/
 
 
 ## WORKS CITED
 
-Bayne, Siân. “The Embodiment of the Online Learner.” Beyond the comfort zone: Proceedings of the 21st ASCILITE Conference (2004): pp. 105-115. Web. 1 May 2016. http://www.ascilite.org/conferences/perth04/procs/pdf/bayne.pdf
+Bayne, Siân. “The Embodiment of the Online Learner.” Beyond the comfort zone: Proceedings of the 21st ASCILITE Conference (2004): pp. 105-115. Accessed 1 May 2016. http://www.ascilite.org/conferences/perth04/procs/pdf/bayne.pdf
 
-Campbell, Gardner. “A personal cyberinfrastructure.” Educause Review. Web. 1 May 2016.http://er.educause.edu/articles/2009/9/a-personal-cyberinfrastructure
+Campbell, Gardner. “A personal cyberinfrastructure.” *Educause Review*. vol. 44, no. 5 (September/October 2009): 58–59. Accessed 1 May 2016. http://er.educause.edu/articles/2009/9/a-personal-cyberinfrastructure
 
-Campbell, Gardner. “Networked Learning as Experiential Learning.” Educause Review. Web. 1 May 2016.http://er.educause.edu/articles/2016/1/networked-learning-as-experiential-learning
+Campbell, Gardner. “Networked Learning as Experiential Learning.” *Educause Review*. 51, no. 1 (January/February 2016) Accessed 1 May 2016. http://er.educause.edu/articles/2016/1/networked-learning-as-experiential-learning
 
-Campbell, Gardner. "Thought Vectors in Concept Space: Syllabus." Web. 1 May 2016. http://thoughtvectors.net/syllabus/
+Campbell, Gardner. "Thought Vectors in Concept Space: Syllabus." Fall 2015. Accessed 1 May 2016. http://thoughtvectors.net/syllabus/
 
-Caulfield, Mike. "Wikity: Bring your bookmarks into the digital age." Web. 1 May 2016.https://hapgood.us/2016/03/04/bring-your-bookmarks-into-the-hypertext-age/
+Caulfield, Mike. "Wikity: Bring your bookmarks into the digital age." *Hapgood*. 4 March 2016. Accessed 1 May 2016. https://hapgood.us/2016/03/04/bring-your-bookmarks-into-the-hypertext-age/
 
-clMOOC. Web. 1 May 2016. http://clmooc.educatorinnovator.org/2015/
+clMOOC. Accessed 1 May 2016. http://clmooc.educatorinnovator.org/2015/
 
-Connected Courses. "The Daily Connector." Web. 1 May 2016. https://dailyconnector.wordpress.com/
+Connected Courses. "The Daily Connector." Accessed 1 May 2016. https://dailyconnector.wordpress.com/
 
-Croom, Adam & John Stewart. "ForkU! Resource Page." Web. 1 May 2016. http://oudiglearn.github.io/forku/
+Croom, Adam & John Stewart. "ForkU! Resource Page." Accessed 1 May 2016. http://oudiglearn.github.io/forku/
 
-FemTechNet. "Key Learning Projects." Web. 1 May 2016. http://femtechnet.org/get-involved/self-directed-learners/key-learning-project/\
+FemTechNet. "Key Learning Projects." Accessed 1 May 2016. http://femtechnet.org/get-involved/self-directed-learners/key-learning-project/\
 
-Garrison, D. R. “Online Community of Inquiry Review: Social, Cognitive, and Teaching Presence Issues.” Journal of Asynchronous Learning Networks, v11 n1 (2007): pp. 61-72. Web. 1 May 2016. http://onlinelearningconsortium.org/sites/default/files/v11n1_8garrison.pdf
+Garrison, D. R. “Online Community of Inquiry Review: Social, Cognitive, and Teaching Presence Issues.” *Journal of Asynchronous Learning Networks*, v11 n1 (2007): pp. 61-72. Accessed 1 May 2016. http://onlinelearningconsortium.org/sites/default/files/v11n1_8garrison.pdf
 
-Holden, Remi. "About that Annotation Flash Mob." Web. 1 May 2016. https://gamesandlearning.wordpress.com/2016/04/27/about-that-annotation-flash-mob/
+Holden, Remi. "About that Annotation Flash Mob." 27 April 2016. Accessed 1 May 2016. https://gamesandlearning.wordpress.com/2016/04/27/about-that-annotation-flash-mob/
 
-Jenkins, Henry et al. “Confronting the Challenges of Participatory Culture: Media Education for the 21st Century.” MIT Press. Web. 10 June 2016. https://mitpress.mit.edu/sites/default/files/titles/free_download/9780262513623_Confronting_the_Challenges.pdf
+Jenkins, Henry et al. “Confronting the Challenges of Participatory Culture: Media Education for the 21st Century.” MIT Press. 2009. Accessed 10 June 2016. https://mitpress.mit.edu/sites/default/files/titles/free_download/9780262513623_Confronting_the_Challenges.pdf
 
-Ito, Mizuko et al. “Connected Learning: An Agenda for Research and Design.” Web. 10 June 2016. http://dmlhub.net/wp-content/uploads/files/Connected_Learning_report.pdf
+Ito, Mizuko et al. “Connected Learning: An Agenda for Research and Design.” Connected Learning Research Network. 2012. Accessed 10 June 2016. http://dmlhub.net/wp-content/uploads/files/Connected_Learning_report.pdf
 
-Lamont, Ian. "My online math class review: Convenience gets an 'A,' but at what cost?" I, Lamont blog. Web. 1 May 2016.http://www.ilamont.com/2010/07/my-online-math-class-convenience-gets-a.html
+Lamont, Ian. "My online math class review: Convenience gets an 'A,' but at what cost?" I, Lamont blog. 17 July 2010. Accessed 1 May 2016. http://www.ilamont.com/2010/07/my-online-math-class-convenience-gets-a.html
 
-Land, Ray. "Issues of embodiment and risk." Beyond the comfort zone: Proceedings of the 21st ASCILITE Conference (2004): pp. 105-115. Web. 1 May 2016. http://www.ascilite.org/conferences/perth04/procs/land.html
+Land, Ray. "Issues of embodiment and risk." Beyond the comfort zone: Proceedings of the 21st ASCILITE Conference (2004): pp. 105-115. Accessed 1 May 2016. http://www.ascilite.org/conferences/perth04/procs/land.html
 
-Levine, Alan. "Assignment Bank Creator. Web. 1 May 2016. https://github.com/cogdog/ds106bank
+Levine, Alan. "Assignment Bank Creator. Accessed 1 May 2016. https://github.com/cogdog/ds106bank
 
-Levine, Alan. "The Daily Create." Web. 1 May 2016. http://daily.ds106.us/
+Levine, Alan. "The Daily Create." Accessed 1 May 2016. http://daily.ds106.us/
 
-Morgen, Davis & Pete Rorabaugh. “Building community and critical literacies with the domain of one’s own incubator.” Hybrid Pedagogy. Web. 12 June 2016. http://www.digitalpedagogylab.com/hybridped/building-community-critical-literacies-domain-ones-incubator/
+Morgen, Davis & Pete Rorabaugh. “Building community and critical literacies with the domain of one’s own incubator.” *Hybrid Pedagogy*. 28 January 2014. Accessed 12 June 2016. http://www.digitalpedagogylab.com/hybridped/building-community-critical-literacies-domain-ones-incubator/
 
-Morris, Sean Michael. “Decoding digital pedagogy, Pt. 1: Beyond the LMS.” Hybrid Pedagogy. Web. 12 June 2016. http://www.digitalpedagogylab.com/hybridped/decoding-digital-pedagogy-pt-1-beyond-the-lms/
+Morris, Sean Michael. “Decoding digital pedagogy, Pt. 1: Beyond the LMS.” *Hybrid Pedagogy*. 5 March 2013. Accessed 12 June 2016. http://www.digitalpedagogylab.com/hybridped/decoding-digital-pedagogy-pt-1-beyond-the-lms/
 
-Pacansky-Brock, Michelle. "Introduction to Still Photography syllabus." Web. 1 May 2016.https://voicethread.com/myvoice/#thread/2610203
+Pacansky-Brock, Michelle. "Introduction to Still Photography syllabus." Accessed 1 May 2016. https://voicethread.com/myvoice/#thread/2610203
 
-Pacansky-Brock, Michelle. "Love Letter to Online Learning." Web. 1 May 2016. http://brocansky.com/2016/04/26/love-letter-to-online-learning/
+Pacansky-Brock, Michelle. "Love Letter to Online Learning." 26 April 2016. Accessed 1 May 2016. http://brocansky.com/2016/04/26/love-letter-to-online-learning/
 
-Rheingold, Howard. Attention, and other 21st-century social media literacies. Educause Review. Web. 12 June 2016. http://er.educause.edu/articles/2010/10/attention-and-other-21stcentury-social-media-literacies
+Rheingold, Howard. Attention, and other 21st-century social media literacies. *Educause Review*. vol. 45, no. 5 (September/October 2010): 14–24. Accessed 12 June 2016. http://er.educause.edu/articles/2010/10/attention-and-other-21stcentury-social-media-literacies
 
-Rheingold, Howard. Net Smart: How to Thrive Online. Cambridge: The MIT Press, 2014. Print.
+Rheingold, Howard. Net Smart: How to Thrive Online. Cambridge: The MIT Press, 2014. 
 
-Richardson, Jennifer & Karen Swan. "Examing Social Presence in Online Courses in Relation to Students' Perceived Learning and Satisfaction." Journal of Asynchronous Learning Networks, vol7, issue 1, 2003.https://www.ideals.illinois.edu/bitstream/handle/2142/18713/RichardsonSwan%20JALN7%281%29.pdf?sequence=2
+Richardson, Jennifer & Karen Swan. "Examing Social Presence in Online Courses in Relation to Students' Perceived Learning and Satisfaction." *Journal of Asynchronous Learning Networks*, vol7, issue 1, 2003.https://www.ideals.illinois.edu/bitstream/handle/2142/18713/RichardsonSwan%20JALN7%281%29.pdf?sequence=2
 
-Ross, Jen & Amy Collier. “Complexity, Mess, and Not-yetness: Teaching Online with Emerging Technologies.” In George Veletsianos (Ed.), Emergence and Innovation in Digital Learning: Foundations and Applications. Web. 12 June 2016. http://www.aupress.ca/index.php/books/120258
+Ross, Jen & Amy Collier. “Complexity, Mess, and Not-yetness: Teaching Online with Emerging Technologies.” In George Veletsianos (Ed.), Emergence and Innovation in Digital Learning: Foundations and Applications. May 206. Accessed 12 June 2016. http://www.aupress.ca/index.php/books/120258
 
-Ross, Jen et al. "Manifesto for Online Teaching." Web. 1 May 2016. https://onlineteachingmanifesto.wordpress.com/
+Ross, Jen et al. "Manifesto for Online Teaching." Accessed 1 May 2016. https://onlineteachingmanifesto.wordpress.com/
 
-Schaeffer, Kris. “Push, Pull, Fork: GitHub for Academics.” Hybrid Pedagogy. Web. 12 June 2016. http://www.digitalpedagogylab.com/hybridped/push-pull-fork-github-for-academics/
+Schaeffer, Kris. “Push, Pull, Fork: GitHub for Academics.” *Hybrid Pedagogy*. 26 May 2013. Accessed 12 June 2016. http://www.digitalpedagogylab.com/hybridped/push-pull-fork-github-for-academics/
 
-Stommel, Jesse. "Online learning: A Manifesto." Hybrid Pedagogy. Web. 1 May 2016.http://www.digitalpedagogylab.com/hybridped/online-learning-a-manifesto/
+Stommel, Jesse. "Online learning: A Manifesto." *Hybrid Pedagogy*. 3 December 2012. Accessed 1 May 2016.http://www.digitalpedagogylab.com/hybridped/online-learning-a-manifesto/
 
-Straumsheim, Carl. “Love letter to Blended Learning.” Web. 1 May 2016. https://www.insidehighered.com/news/2016/04/20/mit-online-learning-report-notes-importance-teachers-instructional-designers
+Straumsheim, Carl. “Love letter to Blended Learning.” 20 April 2016. Accessed 1 May 2016. https://www.insidehighered.com/news/2016/04/20/mit-online-learning-report-notes-importance-teachers-instructional-designers
 
 Status API T
