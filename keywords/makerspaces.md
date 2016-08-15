@@ -3,10 +3,10 @@
 
 **Publication Status:**
 
- - unreviewed draft 
- - **draft version undergoing editorial review** 
- - draft version undergoing peer-to-peer review 
- - published
+* unreviewed draft 
+* draft version undergoing editorial review
+* **draft version undergoing peer-to-peer review** 
+* published
 
 ###**CURATORIAL STATEMENT**###
 Makerspaces are community-oriented places in which an ethos of do-it-yourself (DIY) experimentation with new technologies and materials coalesces with the goals of sharing knowledge and collaborating on project design and development. They are spaces in which high and low tech are combined, where computing and crafting can share space on the same workbench - where a 3D printer might share counter space with a sewing machine, a touchscreen and stylus with sketch paper and charcoal pencil, and where tools serving the space could include wire cutters and fabric scissors, soldering filament and Mod Podge, as well as a broad range of micro-sensors, lights, and motors, various kinds of wood and metal, safety glasses and a reciprocating saw. As a sign of the eclecticism of many makerspaces, it is not uncommon to find a white board covered in anything from technical diagrams, storyboarded drawings, and lines of code, to poetic verse, mathematical equations, and wireframe mockups. 
