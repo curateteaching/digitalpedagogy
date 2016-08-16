@@ -20,13 +20,9 @@ In December of 1991, Art Spiegelman wrote to the editor of the *New York Times*.
 
 Similar ambiguities attend any attempt to put clear borders on the category *fiction*. This is, no doubt, in great part its power---that, as in *Maus*, comic mice can renarrate the Holocaust; or in Toni Morrison's *Beloved*, the real history of Margaret Garner can be refracted through what may appear to be a ghost story. Yet, if "fiction" were defined chiefly by its opposition to "truthfulness," teachers of fiction would be responsible for a range of materials broad enough to include not only novels and movies, but fables, fairy tales, and lies (to say nothing of statistics or political speeches).
 
-In practice, while the fictionality of fiction attends any serious consideration of the form, the study of fiction often unites a series of other concerns. The question of the *fictional* as a category, and its relationship to its others (the *true*, the *historical*), is an important aspect of teaching fiction. But teaching fiction also involves questions of narrative and plot, a sensitivity to form and style, and the histories (material and conceptual) of all of these terms. Studying fiction also invites reflection on *medium*; as the "same" story moves across genres---a process amply illustrated, for instance, by the many versions (dramatic, illustrated, filmed, etc) of Bram Stoker's *Dracula* which began appearing soon after its initial publication. Teaching of fiction, therefore, requires weaving together close attention to the histories and textures of particular works, with larger threads: longer political and social histories; the rise and fall of genres; and narrative structures broader than any single medium or genre.
+Teaching fiction often means trying to understand this peculiar power: how does the fiction---the ostensibly "untrue"---nevertheless become powerful through its representations? In practice, this involves questions of narrative and plot, a sensitivity to form and style, and the histories (material and conceptual) of all of these terms. Why does a story feel like it has a sense of closure? When does it not? And what are the meanings---political and otherwise---of such closure? What are the devices by which we come to recognize and view a story from a particular perspective? How does a single work of fiction's participation in a genre shape our expectations and our understanding of the story? Moreover, studying fiction also invites reflection on *medium*; as the "same" story moves across genres---a process amply illustrated, for instance, by the many versions (dramatic, illustrated, filmed, etc) of Bram Stoker's *Dracula* which began appearing soon after its initial publication. Teaching of fiction, therefore, requires weaving together close attention to the histories and textures of particular works, with larger threads: longer political and social histories; the rise and fall of genres; and narrative structures broader than any single medium or genre.
 
->MATT: " and its relationship to its others" seems off -- please take another look at this sentence.
-
-> MATT: I think the paragraphs above are great, but they don't necessarily attend to digital pedagogy. You can fix that by adding something above or perhaps by making a stronger transition in the paragraph below that moves us more explicitly from general considerations around the study of and boundaries of fiction to the practice of digital pedagogy
-
-The items collected below attend to both the specificity of particular works, and the larger trends by which such works are shaped. I have organized these resources roughly into two categories based on the scale of the object they address. Under `TEXTS` are resources that take as their organizing focus a single text. The digital editions---Katherine Harris's *Frankenstein* Digital Edition assignment and *Infinite Ulysses*---use the individual work as an occasion for gathering and rearranging the parts and pieces which make up the creation, publication, and reception of works of fiction. Such resources and assignments excavate the allusions and the histories (of text, gender, and nation) embedded within a work. IVANHOE, typically (though not necessarily) organized around a single work, invites its players into roles that are not so different from those of editors. Its players enter into a text to take it apart and piece together again, coming to understand it by remaking it. The other materials in this section focus on intratextual phenomena---character networks or the examination of the evolution of epithets, as methods for better understanding a text. They provide avenues less for connecting a single text to the larger forces and networks in which it participates, than for exposing the the complexities it contains.
+Teaching questions of narrative, character, perspective, and medium is often made richer through the affordances of the digital. Online editions, distant reading, and similar resources, help articulate and make explicit processes that predate the digital. At the same time, the digital, as itself a form for new works of fiction, helps reveal the ways that works of fiction are shaped by, and reshape, the medium in which they appear. The items collected below attend to both the specificity of particular works, and larger trends by which such works are shaped. I have organized these resources roughly into two categories based on the scale of the object they address. Under `TEXTS` are resources that take as their organizing focus a single text. The digital editions---Katherine Harris's *Frankenstein* Digital Edition assignment and *Infinite Ulysses*---use the individual work as an occasion for gathering and rearranging the parts and pieces which make up the creation, publication, and reception of works of fiction. Such resources and assignments excavate the allusions and the histories (of text, gender, and nation) embedded within a work. IVANHOE, typically (though not necessarily) organized around a single work, invites its players into roles that are not so different from those of editors. Its players enter into a text to take it apart and piece together again, coming to understand it by remaking it. The other materials in this section focus on intratextual phenomena---character networks or the examination of the evolution of epithets, as methods for better understanding a text. They provide avenues less for connecting a single text to the larger forces and networks in which it participates, than for exposing the the complexities it contains.
 
 The materials arranged under `GENRE` offer a look at narrative fiction at scales greater than the individual work. Perhaps the most unexpected item in this collection, Teju Cole's collection of tweets rewriting canonical novels, tackles the genre of literary fiction (the "classic") from the present. Other items in this list look to Sherlock Holmes stories, the history of the novel, or the structure of narrative itself (as reflected in TV and film). These resources all work not to reveal something larger than any single work can contain. Rather than sensitive us to the textures within a single work, they help to expose the conventions shared between works. This section also includes txtLAB's corpus of 450 novels, a set of novels ideal for larger scale analysis of fiction in the context of a class. (One can find an even larger corpus---or rather, its metadata---under **"Related Materials"**: data forroughly 32,000 works of fiction contained in [HathiTrust](https://www.hathitrust.org/). 
 
@@ -37,14 +33,13 @@ The list ranges from datasets, to games, to works of creative fiction. Some invo
 ### TEXT
 
 #### *Frankenstein* Digital Edition Assignment
+![screenshot](images/fiction_harris_frankenstein.png)
 
 * URL: http://www.sjsu.edu/faculty/harris/TechnoRom_F09/Assignments.htm#FinalProj
 * Type: Assignment
 * Creator: [Katherine Harris](https://triproftri.wordpress.com/) (San José State University)
 
 Katherine Harris's TechnoRomanticism class is structured around uses single large assignment---a digital edition of *Frankenstein*---to scaffold a semester's work. The assignment involves a number of skills, some broadly analytical others more specifically digital,  all grounded in the collaborative creation of a digital edition of a major text. The semester-spanning assignment provides a model that could be adapted to a variety of texts and contexts. It allows a single text to be the avenue through which a range of questions are asked, foregrounding questions of history---context, textual materiality, and medium---that treatments of "narrative" in the abstract might otherwise ignore.
-
-> MATT: do you have a screenshot for this one?
 
 #### Infinite Ulysses
 ![screenshot](images/fiction_visconti_ulysses.png)
@@ -96,9 +91,7 @@ The goal of *IVANHOE*, Johanna Drucker explains, was to offer "a model digital e
 * Type: Text
 * Creator: Teju Cole
 
-Cole's "Seven Short Stories" unnervingly rewrites the iconic opening of major novels (*Mrs. Dalloway*, *Things Fall Apart*, and others), upsetting their canonical force with the violence of the United States' 21st-century foreign policy. If the stories "deform" classic novels to highlight the violence of contemporary the "war on terror," they also exploit the limitations/affordances of Twitter.  Each of the seven stories initially appeared as a tweet, limited to 140 characters. The *tweet*, as a narrative form, is explored elsewhere by Cole ("Hafiz" and "A Piece of the Wall"), as well as by Jennifer Egan in her techno-thriller in miniature "Black Box." In these stories, however, the abbreviated length of the tweet enacts the violence and truncation described. Cole's drone tweets are similar to his set of tweet-length fictions inspired by the French newspaper genre *fait divers*, which Cole calls ["Small Fates"](http://www.tejucole.com/small-fates/). Cole's "Small Fates," like the *fait divers*, invite reflection on the relationship between medium and genre, on literature and politics, on canonicity and contemporary politics. (Cole's interview with Sarah Zhang offers valuable reflection on these works.)
-
-> MATT: can you explain how readings might use this in their own classes?
+Cole's "Seven Short Stories" rewrites the iconic opening of major novels (*Mrs. Dalloway*, *Things Fall Apart*, and others), upsetting their canonical force with the violence of the United States' 21st-century foreign policy. If the stories "deform" classic novels to highlight the violence of contemporary the "war on terror," they also exploit the limitations/affordances of Twitter. Each of the seven stories initially appeared as a tweet, limited to 140 characters. The *tweet*, as a narrative form, is explored elsewhere by Cole ("Hafiz" and "A Piece of the Wall"), as well as by Jennifer Egan in her techno-thriller in miniature "Black Box"; all these works invite discussion about the narrative form, and affordances, of tweet. Can one tell a whole story in a tweet? What sorts of stories are better suited to a tweet? What sorts of story resist it? How do these narrative affordances of the tweet contrast with those of the works Cole here rewrites? In this way, "Seven Stories About Drones" is valuable even in pedagogical contexts not focused on digital, or new media, literature. In considering questions of narrative form and genre, it may be worth noting that Cole's drone tweets are similar to his set of tweet-length fictions, inspired by the French newspaper genre *fait divers*, ["Small Fates"](http://www.tejucole.com/small-fates/). "Small Fates," like the *fait divers*, invite reflection on the relationship between medium and genre, on literature and politics, on canonicity and contemporary politics. (Cole's interview with Sarah Zhang offers valuable reflection on these works.)
 
 #### Teaching Literature Through Technology: Sherlock Holmes and Digital Humanities
 ![screenshot](./images/fiction_swafford-teaching-literature.png)
@@ -138,37 +131,19 @@ This analysis of television and film narrative provides a model for thinking abo
 
 If you're looking for the text of a particular work of fiction for analysis, your best bet is likely [Project Gutenberg](https://www.gutenberg.org/) or [The Oxford Text Archive](https://ota.ox.ac.uk/). If however you are looking for a curated dataset to examine *fiction* as a genre (meaning, here, essentially novels), the `.txtLab`'s txtLab450 offers "a multilingual data set of novels for teaching and research." Containing 150 novels in English, 151 novels in French, 151 novels in German, the dataset represents novels from the "long nineteenth century (1770-1930)." In addition, the dataset includes describing each novel according to year of publication, gender of author, and the narrative perspective (first or third person) in which the novel is written. Such metadata allows more interesting and subtle analysis than the text of the novels alone would. (For an example of how this data might be used, see Piper). A larger dataset, containing English Fiction from 1700 - 1899 drawn from the HathiTrust dataset, is listed below, under **Related Materials**.
 
-> MATT: you might also want to take a look at Jonathan Reeve's GitLit project
-
 ## RELATED MATERIALS
 
-> Matt: please look at other keywords in the collection to see how we typically format this section
-
 ### "Role Playing *Dorian Gray*"
-* URL: https://wildedecadents.wordpress.com/2012/10/23/twitter-role-play-the-picture-of-dorian-gray-exercise-4/
-* Type: Assignment
-* Author: Petra Dierkes-Thrun.
-* [A Storify record of the role playing](https://storify.com/petradt/a-literary-twitter-role-play-the-picture-of-dorian).
 
-### Purdue Introduction to Narratology.
-* URL: https://www.cla.purdue.edu/english/theory/narratology/
-* Type: Web Reference
-* Author: Dino Felluga (Purdue University)
+Dierkes-Thrun, Petra. "Role Playing *Dorian Gray*." [http://wildedecadents.wordpress.com/2012/10/23/twitter-role-play-the-picture-of-dorian-gray-exercise-4/](http://wildedecadents.wordpress.com/2012/10/23/twitter-role-play-the-picture-of-dorian-gray-exercise-4/) 
 
-### HathiTrust English Language Fiction, 1700-1899, Workset
-* URL: https://www.ideals.illinois.edu/handle/2142/45713
-* Type: Dataset
-* Creator: Ted Underwood (University of Illinois, Urbana-Champaign), HathiTrust
+Felluga, Dino. "Purdue Introduction to Narratology." [http://www.cla.purdue.edu/english/theory/narratology/](http://www.cla.purdue.edu/english/theory/narratology/)
 
-### Why Syuzhet Doesn't Work and How We Know
-* URL: https://annieswafford.wordpress.com/tag/sentiment-analysis/
-* Type: Blogpost
-* Creator: Annie Swafford (SUNY New Paltz)
+Underwood, Ted and HathiTrust. "HathiTrust English Language Fiction, 1700-1899, Workset." [http://www.ideals.illinois.edu/handle/2142/45713](http://www.ideals.illinois.edu/handle/2142/45713)
 
-### Revealing Sentiment and Plot Arcs with the Syuzhet Package
-* URL: http://www.matthewjockers.net/2015/02/02/syuzhet/
-* Type: Blogpost
-* Creator: Matthew Jockers (University of Nebraska-Lincoln)
+Swafford, Annie. "Why Syuzhet Doesn't Work and How We Know." [http://annieswafford.wordpress.com/tag/sentiment-analysis/](http://annieswafford.wordpress.com/tag/sentiment-analysis/)
+
+Jockers, Matthew. "Revealing Sentiment and Plot Arcs with the Syuzhet Package." [http://www.matthewjockers.net/2015/02/02/syuzhet/](http://www.matthewjockers.net/2015/02/02/syuzhet/)
 
 ## BIBLIOGRAPHY
 
