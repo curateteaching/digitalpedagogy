@@ -53,7 +53,7 @@ The Introduction to Digital Humanities course taught by Jentery Sayers, Assistan
 > MATT: Can you add a sentence or two here, enlarging upon your thoughts and perhaps suggesting how elements of Jentery's syllabus might be adopted by others?
 
 ###Makers and Makerspaces
-![screenshot] (images/miller-makerspaces-syllabus.png)
+![screenshot] (images/makerspaces-miller_syllabus.png)
 *Artifact Type: Syllabus
 *Source URL: [https://www.academia.edu/8338203/English_1101_Makerspaces](https://www.academia.edu/8338203/English_1101_Makerspaces)
 *Creator: Monica Miller
@@ -71,7 +71,7 @@ The Critical Making course developed by Matt Ratto, Associate Professor in the F
 >  MATT: Can you add a sentence or two here, enlarging upon your thoughts and perhaps suggesting how elements of Matt's syllabus might be adopted by others?
 
 ###Instructables
-![screenshot] (images/instructables.png)
+![screenshot] (images/makerspaces-instructables.png)
 *Artifact Type: Instruction Resource
 *Source URL: [http://www.instructables.com/](http://www.instructables.com/)
 *Creator: Various 
@@ -81,7 +81,7 @@ Instructables is one of several wiki-style resources for the maker community. Tw
 ## Projects
 
 ###Quilt Snaps
-![screenshot] (images/quilt-snaps.png)
+![screenshot] (images/makerspaces-quilt-snaps.png)
 *Artifact Type: Project
 *Source URL: [http://web.media.mit.edu/~leah/grad_work/projects/snaps/quilt_snaps.html](http://web.media.mit.edu/~leah/grad_work/projects/snaps/quilt_snaps.html)
 *Creator: Leah Buechley
@@ -90,7 +90,7 @@ Leah Buechley, former MIT professor whose work in the High-Low Tech Research Gro
 
 
 ###Feral Robotic Dogs
-![screenshot] (images/feral-robotic-dogs.png)
+![screenshot] (images/makerspaces-feral-robotic-dogs.png)
 *Artifact Type: Project
 *Source URL: [http://www.nyu.edu/projects/xdesign/feralrobots/](http://www.nyu.edu/projects/xdesign/feralrobots/)
 *Creators: Natalie Jeremijenko, Will Kavesh, Jesse James Arnold
@@ -132,7 +132,7 @@ The D.H. Hill Library Makerspace at North Carolina State University is a free to
 The Maker Lab in the Humanities (MLab) at the University of Victoria facilitates critical scholarship for teams of humanities faculty and students through physical computing, digital fabrication, and other digital humanities endeavors. MLab teams emphasize a critical approach to making and research, focusing on the processes of engaging with material components. Work emerging from the MLab has found its way to international conferences, publications, galleries, and exhibits. The experimental ethos inherent in the MLab takes coursework to interesting places, offering insights into the range of material engagements pedagogial strategies might draw upon to ask and/or reveal new and different types of questions in the course of Digital Humanities scholarship.
 
 ###Interactive Telecommunications Program (ITP) - NYU
-![screenshot](images/itp-nyu.png)
+![screenshot](images/makerspaces-itp-nyu.png)
 *Artifact Type: University Program/Makerspace(s)
 *Source URL: [http://tisch.nyu.edu/itp](http://tisch.nyu.edu/itp)
 *Creator: New York University, Tisch School of the Arts
