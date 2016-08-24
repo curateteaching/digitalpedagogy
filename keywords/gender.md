@@ -23,7 +23,7 @@ Whittier College | [anitaconchita.org](http://anitaconchita.org)
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review**
+* **draft version undergoing peer-to-peer review** https://digitalpedagogy.commons.mla.org/
 * published 
 
 --- 
@@ -110,7 +110,12 @@ This assignment was designed as a capstone to a larger unit on the politics and 
 ![screenshot](images/gender-wikistorming.png)
 * Artifact Type: Activity
 * Source URL: [http://losh.ucsd.edu/courses/assignmentone.html](http://losh.ucsd.edu/courses/assignmentone.html)
+<<<<<<< HEAD
 * Creator and Affiliation: Elizabeth Losh, William and Mary
+=======
+* Artifact Permissions: CC BY-NC 2.0
+* Creator and Affiliation: Elizabeth Losh, William & Mary
+>>>>>>> 685f9370353ac8d18e0b466bbb209cf32128940c
 
 Feminist Wikipedians, led initially by Adrianne Wadewitz, have been organizing edit-a-thons to train women, queer communities, and people of color to edit Wikipedia to address gender and racial bias. Wadewitz worked with the WikiEd Foundation and FemTechNet to develop a collection of assignments and teaching materials collected as part of the [http://femtechnet.org/docc/feminist-wiki-storming/](http://femtechnet.org/docc/feminist-wiki-storming/). Here, we have an example of a smaller assignment focused around a course text. The assignment asks students to become familiar with Wikipedia as a platform, become proficient in writing in an encyclopedic style, and learn to author an entry that passes Wikipedia standards, while also being critical of Wikipedia's flaws. Elsewhere, the assignment has been adapted by FemTechNet to include critical questions about gender bias, inclusion and deletion debates in Wikipedia. Other artifacts in the  collection include learning objectives, sample assignments, an assignment builder, and tutorials. 
 

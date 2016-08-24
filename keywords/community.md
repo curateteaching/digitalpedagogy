@@ -3,9 +3,6 @@
 ### Bridget Draxler
 Assistant Professor and Director of Communication Across the Curriculum, Monmouth College
 
-### Jon Winet
-Professor, University of Iowa
-
 ---
 
 ##### Publication Status:
