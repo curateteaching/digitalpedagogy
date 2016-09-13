@@ -44,7 +44,7 @@ In a pedagogical context, several forms of curation are particularly prominent:
 * **Remix and recontextualization**: excerpting or "quoting" objects within a new context such as an exhibit, anthology, or creative artifact. The genre of the exhibit has become visible both through curation and publishing tools like Omeka and also as a feature of large public collections such as NINES or DPLA. The act of remixing might be as simple as selection and ordering (for instance, to put two images into dialogue) or as complex as constructing an entire anthology complete with headnotes and annotations in Omeka, or creating new metadata to reorient the selected objects towards a new context of usage. 
 
 
-* Any of these might be conducted as a contributory activity. Transcription is a common crowdsourced activity and collection enhancement even more so, with platforms like Zooniverse offering rich opportunities for contributory curation. Contributing to public resources is among the most rewarding forms of curation in pedagogy, since it provides a direct, genuine public benefit and offers students a real-world framework for their work. This kind of curation also gives students valuable exposure to a variety of work processes—transcription, classification, metadata creation, writing, editing—and to the supporting tools and systems through which that work is done. It also offers a behind-the-scenes understanding of how public data resources are developed and supported, which can both demystify the resources themselves and also empower the students as participants.
+Any of these might be conducted as a contributory activity. Transcription is a common crowdsourced activity and collection enhancement even more so, with platforms like Zooniverse offering rich opportunities for contributory curation. Contributing to public resources is among the most rewarding forms of curation in pedagogy, since it provides a direct, genuine public benefit and offers students a real-world framework for their work. This kind of curation also gives students valuable exposure to a variety of work processes—transcription, classification, metadata creation, writing, editing—and to the supporting tools and systems through which that work is done. It also offers a behind-the-scenes understanding of how public data resources are developed and supported, which can both demystify the resources themselves and also empower the students as participants.
 
 From its association with institutional work and responsibility, the term “curation” may seem like a dry term—and also an ambitious one—to use in the classroom. But the curatorial work that  many digital humanities courses already undertake may benefit from being framed explicitly as such. For one thing, describing the work of annotation, transcription, digitization, and so forth as “curation” helps to establish the continuities between that work when done by students in a classroom context, and that same work when undertaken as part of a “real” digital project or institutional work environment. These continuities help establish the stakes of the effort and also the larger horizon of relevance for the skills involved. And for another, understanding these activities as “curation” may remind students that they are in a position of responsibility and that these activities are neither artificial nor self-serving, but that they have to be framed towards some productive end.
 
@@ -118,7 +118,7 @@ This sequence of classroom activities describes an intensive pedagogical engagem
 
 
 ### Omeka Exhibit: Final Guide and Curation
-![screenshot](images/curation_OM_Final.pdf)
+![screenshot](images/curation_OM_Final_Page_1.png)
 
 * Artifact Type: assignment
 * Source URL: [http://www.elizabethetavares.com/downloads_files/OM%20Final%20Curation.pdf](http://www.elizabethetavares.com/downloads_files/OM%20Final%20Curation.pdf) 
@@ -142,7 +142,7 @@ This exercise was developed for an advanced institute on data curation in digita
 
 
 ### Archival Project Assignment for Gender, Sex, and Renaissance Bodies
-![screenshot](images/curation_Leslie-Connell_anthology.pdf)
+![screenshot](images/curation_Leslie-Connell_anthology.png)
 
 * Artifact Type: assignent
 * Source URL: [http://www.wwp.northeastern.edu/outreach/seminars/emdp_2016-03/ArchivalAssignmentRenaissanceBodies.pdf](http://www.wwp.northeastern.edu/outreach/seminars/emdp_2016-03/ArchivalAssignmentRenaissanceBodies.pdf)
