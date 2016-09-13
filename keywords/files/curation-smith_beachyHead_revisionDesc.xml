@@ -1,0 +1,69 @@
+<revisionDesc>
+<change who="personography.xml#npeterson.gwx" n="RCS-1.52" when="2010-12-10">added <att>type</att> to docRole.</change>
+<change n="RCS:1.48" when="2009-08-03" who="personography.xml#smarth.dkp">finshed corrections and supravalidated</change>
+<change n="RCS:1.45" when="2009-07-24" who="personography.xml#smarth.dkp">additional proof reading and correx entry in order to fix many quote elements, notes, pre/post quotations</change>
+<change n="RCS:1.43" when="2009-02-10" who="personography.xml#mcarriger.ark">placename in persname.</change>
+<change n="RCS:1.41" when="2008-08-25" who="personography.xml#jmelson.nep">Added genre information.</change>
+<change n="RCS:1.38" when="2008-03-07" who="personography.xml#wgui.ner">Fixed footnotes in the endnotes section. Renovation complete. Supra-validated. Supra reports that library is unknown, and we should find out what that is.</change>
+<change n="RCS:1.36" when="2008-03-05" who="personography.xml#wgui.ner">Continued renovation. Added PB, MILESTONES, and MW elements to endnotes. Need to add MILESTONE SIG values and printed
+signatures as well.</change>
+<change n="RCS:1.35" when="2008-03-04" who="personography.xml#wgui.ner">Major fixed. Need to add PBs and MILESTONES and MWs to the back matter, where the NOTES are.</change>
+<change n="RCS:1.34" when="2008-03-03" who="personography.xml#wgui.ner">Began moving NOTES in the body to the DIV TYPE=ENDNOTES in the back matter. Stopped at page 80. Need to add PB N= values to
+both the regular pages and the back matter pages (along with MILESTONES and MW).</change>
+<change n="RCS:1.33" when="2008-02-29" who="personography.xml#wgui.ner">Continued renovation.</change>
+<change n="RCS:1.31" when="2008-02-27" who="personography.xml#wgui.ner">Continued renovation. Need to add an extra DIV for "Notes to Studies By the Sea."</change>
+<change n="RCS:1.30" when="2008-02-26" who="personography.xml#wgui.ner">Continued renovation.</change>
+<change n="RCS:1.29" when="2008-02-20" who="personography.xml#wgui.ner">Continued renvation. Moved NOTES TO THE FABLES and ADDITIONAL NOTES TO THE FABLES to separate DIV TYPE=UNDETERMINED 
+<lb/>in the BACK matter.</change>
+<change n="RCS:1.28" when="2008-02-15" who="personography.xml#wgui.ner">Continued renovation. Need to fix the 2 sets of Qs from p.56 onwards with ID,NEXT,PREV.</change>
+<change n="RCS:1.27" when="2008-02-14" who="personography.xml#wgui.ner">Continued renovation.</change>
+<change n="RCS:1.26" when="2008-02-13" who="personography.xml#wgui.ner">Continued renovation.Renditional default ALIGN(CENTER) for REF.</change>
+<change n="RCS:1.25" when="2008-02-12" who="personography.xml#wgui.ner">Continued renovation.</change>
+<change n="RCS:1.24" when="2008-02-11" who="personography.xml#wgui.ner">Continued renovation. Adding REF and QUOTE elements to all NOTES. MILESTONE SIG values also need to be fixed.</change>
+<change n="RCS:1.23" when="2008-02-08" who="personography.xml#wgui.ner">Began renovation.Changed EMPH to MCR, added renditional defaults.Need to put all NOTES into a DIV TYPE=ENDNOTE.Need to add
+NOTE ID,CORRESP, and TARGET values to all NOTES.</change>
+<change n="RCS:1.14" when="1999-08-10" who="personography.xml#jrussom.zxg">Revised TEI header Filedesc.</change>
+<change when="1999-05-06" who="personography.xml#ldodds.rnd">Entered linegroup renovation.</change>
+<change when="1999-04-29" who="personography.xml#blandry.nua">Updated CASE throughout.</change>
+<change when="1999-02-16" who="personography.xml#jflanders.lfw">Validated to DTD version 1.1.23a except for header.</change>
+<change when="1989-06" who="personography.xml#lblackbur.fye">Input begun.</change>
+<change when="1989-07" who="personography.xml#afrisch.ini">Proofreading.</change>
+<change when="1989-07" who="personography.xml#manthony.uta">Proofreading.</change>
+<change when="1989-09-04" who="personography.xml#ebrennan.gxl">Macrodef imbedded. ".us" in title macro changed to ".bd".
+Proofreading changes made to electronic version.</change>
+<change when="1990-10-01" who="personography.xml#ebrennan.gxl">Notes and reading version imbedded.</change>
+<change when="1990-01-29" who="personography.xml#ebrennan.gxl">This is 2nd version: footnotes moved to appropriate pages,
+$footnote imbedded, etc.; spell check run</change>
+<change when="1990-05-30" who="personography.xml#ebrennan.gxl">This is adapted to run with the TAMU driver; different type
+faces, etc.</change>
+<change when="1991-10-04" who="personography.xml#dhorn.mbt">Conversion to pointy-brackets begun.</change>
+<change when="1991-10-09" who="personography.xml#dhorn.mbt">Converted to pointy-brackets.</change>
+<change when="1991-11-05" who="personography.xml#dhorn.mbt">Beginning footnote insertion.</change>
+<change n="WWPPRF00" when="1992-01-03" who="personography.xml#sbauman.emt">Begin to make printable.</change>
+<change n="WWPPRF00" when="1992-01-09" who="personography.xml#sbauman.emt">Still working on 1st printing- renamed; embed BCHYFOOT so
+that I can muck w/ footnotes and new :fnfn. tag, which will deal with
+Charolettes footnotes-on-footnotes; temporarily nuked the :rule.
+attributes, as I don't know what they mean, and code for them is not
+written.</change>
+<change n="WWPPRF01" when="1992-01-11" who="personography.xml#sbauman.emt">Entered Stuart's corrections w/ him.</change>
+<change when="1992-09-09" who="personography.xml#cmah.dci">put in end tags for stanza, poem, and line tags</change>
+<change n="WWPPRF02" when="1994-07-08" who="personography.xml#cmah.dci">nuked :noteword. GI's</change>
+<change n="WWPPRF01" when="1994-07-20" who="personography.xml#pcaton.xzc">Deleted editorial notes.</change>
+<change n="WWPPRF01" when="1994-07-22" who="personography.xml#pcaton.xzc">Changed all :fn tags to :note tags. Used asterisk symbol for
+all of them, regardless of whether they turn out to be on the same
+page. This may need to be corrected later.</change>
+<change n="WWPPRF01" when="1994-08-10" who="personography.xml#crounds.bzq">I changed all of the quote entities into tags and diversified
+:q. into :q. and :quote. or somethin'.</change>
+<change n="WWPPRF01" when="1994-10-31" who="personography.xml#cmah.dci">nuked nasty :fn.'s</change>
+<change n="WWPPRF01" when="1994-11-17" who="personography.xml#cmah.dci">change a :credit. to :bibl.</change>
+<change n="WWPPRF01" when="1994-11-23" who="personography.xml#cmah.dci">changed :credit.s to :bibl.s</change>
+<change n="WWPPRF01" when="1994-11-30" who="personography.xml#aporter.hyu">Inputted the title page of this document; it was not
+included before for some reason. There is also a pre-title-page
+page with an ornament which I did not encode.</change>
+<change n="WWPPRF01" when="1994-12-01" who="personography.xml#sbauman.emt">Removed SCRIPT-specific PIs intended to handle nested NOTEs.</change>
+<change n="SGMWWP01" when="1995-02-15" who="personography.xml#cmah.dci">validated file against first DTD</change>
+<change n="SGMWWP01" when="1995-04-13" who="personography.xml#jatlee.awv">Converted Change Log to conform to TEI "revisionDesc".</change>
+<change n="SGMWWP01" when="1995-05-10" who="personography.xml#lnoveck.yhx">Added "body" and "div type="advert"" tags as necessary.</change>
+<change n="SGMWWP01" when="1995-06-19" who="personography.xml#pcaton.xzc">Added TEI header.</change>
+<change n="SGMWWP02" when="1995-07-14" who="personography.xml#pcaton.xzc">Second validation run against DTD.</change>
+</revisionDesc>
