@@ -123,7 +123,7 @@ The essay "The Ladies Vanish" reflects on the feminization of labor in digital p
 *History Engine* purports to teach students "the craft of an historian" by giving them experience working with primary documents and related secondary sources, and writing analysis of the sources for public consumption. However, student authors are uncredited on the "episodes" they write, and author is not a searchable term in the site's advanced search options. *History Engine* can be used to empower students to ask questions about authorship and intellectual property in doing digital work in the classroom. Useful exercises might include searching college websites to determine how much students paid per credit hour to contribute to the Engine, or discussing how to cite a work whose author has been rendered invisible. What does rendering student authors invisible teach them about "the craft of an historian"? 
 
 ###Digital Labor, Urban Space, and Materiality###
-![screenshot](images/labor-posner.png)  
+![screenshot](images/labor-posner.JPG)  
 
 * Artifact Type: Syllabus for Digital Humanities 150 course taught by Miriam Posner
 * Source URL: [http://digitalmateriallabor.org/](http://digitalmateriallabor.org/)
@@ -145,7 +145,7 @@ This course examines the "real people in real places" who are involved in the tr
 Part of a growing suite of projects under Amy Earhart and Toneisha Taylor's  *White Violence, Black Resistance* project, *Millican "Riot," 1868* curates digital artifacts related to an early incident of race-motivated violence that has been effectively erased from the scholarly record. The project reflects on how events can be rendered invisible to history, and demonstrates how digital platforms can recover these events by making digital artifacts visible to scholars and the public. The metadata tag "Contributors" credits students who worked on adding artifacts to the collections. This project offers a model of how Omeka.net (the free version of the platform) can be used for a class project in which students make individual contributions for which they are acknowledged. Students gain practical experience in metadata and controlled vocabularies, digitization, curation, and using content management systems.
 
 ###Build Your Own Website###
-![screenshot](images/labor-cordell.png)  
+![screenshot](images/labor-cordell.JPG)  
 
 * Artifact Type: An assignment for Ryan Cordell's "Texts, Maps, Networks: Digital Literary Studies" class taught at Northeastern University, Fall 2014.
 * Source URL: [http://f14tmn.ryancordell.org/assignments/build-your-own-website/](http://f14tmn.ryancordell.org/assignments/build-your-own-website/)
