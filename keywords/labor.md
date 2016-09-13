@@ -16,7 +16,7 @@ type: book
 # LABOR (Draft)
 
 ## Spencer D.C. Keralis
-University of North Texas | 
+University of North Texas | [http://spencerkeralis.com/](http://spencerkeralis.com/)
 
 ---
 
