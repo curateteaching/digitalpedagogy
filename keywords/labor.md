@@ -45,7 +45,7 @@ The digital labor environment can be difficult to understand. By giving students
 ## CURATED ARTIFACTS 
 
 ###Student Collaborators Bill of Rights###
-![screenshot](images/labor-SCBOR.jpg)
+![screenshot](images/labor-SCBOR.JPG)
 
 * Artifact Type: Declaration of student rights developed in collaboration with students.
 * Source URL: [http://www.cdh.ucla.edu/news-events/a-student-collaborators-bill-of-rights/](http://www.cdh.ucla.edu/news-events/a-student-collaborators-bill-of-rights/) 
@@ -56,7 +56,7 @@ The digital labor environment can be difficult to understand. By giving students
 *The Student Collaborators' Bill of Rights* offers principles to which "those embarking on collaboration with students [should] adhere." Published by the UCLA Center for Digital Humanities, the *Bill of Rights* was developed in collaboration with students, based on their experiences in digital humanities classes. The *Bill of Rights* reflects on the power inequities that are inevitable when student labor in the classroom is used to support faculty projects.  The *Bill of Rights* could be effectively integrated into course syllabi as an up-front, positive declaration of the rights of students. The *Bill of Rights* could also be used as a point of discussion for students, helping them build skills in personal advocacy, and empowering them to value their labor and recognize inequities when they occur.
 
 ###The Price of an Internship###
-![screenshot](images/labor-propublica.jpg) 
+![screenshot](images/labor-propublica.JPG) 
 
 * Artifact Type: Pro Publicaís ongoing investigation of unpaid internship practices at American universities.
 * Source URL: [http://projects.propublica.org/internships/](http://projects.propublica.org/internships/)
@@ -67,7 +67,7 @@ The digital labor environment can be difficult to understand. By giving students
 The Pro Publica investigation of college internship programs compares costs of tuition for institutions and programs supporting unpaid internships. Investigators note that 90% of colleges offer credit for internships, and some programs require internships for graduation. The "crowd-powered" #ProjectIntern database allows students to view information about their institution's internship policies, add information about programs at their schools including internship policies, and write reviews of their experience as interns. Exercises using this information could include looking up programs at your institution that require internships and contributing this information to the database, writing reviews of internships students have held, or comparing [guidelines from the Department of Labor](https://www.dol.gov/whd/regs/compliance/whdfs71.pdf) for internships against university or program internship policies. Discussion of the possible irony of a "crowd-powered" project to interrogate unpaid internships that relies on uncredited and uncompensated investigative work by students might also be generative.
 
 ###Guidelines for Evaluating Work in Digital Humanities and Digital Media###
-![screenshot](images/labor-mla.jpg)  
+![screenshot](images/labor-mla.JPG)  
 
 * Artifact Type: The Modern Language Associationís guidelines ìto help departments and faculty members implement effective evaluation procedures for hiring, reappointment, tenure, and promotionî of faculty working on digital projects.
 * Source URL: [https://www.mla.org/About-Us/Governance/Committees/Committee-Listings/Professional-Issues/Committee-on-Information-Technology/Guidelines-for-Evaluating-Work-in-Digital-Humanities-and-Digital-Media](https://www.mla.org/About-Us/Governance/Committees/Committee-Listings/Professional-Issues/Committee-on-Information-Technology/Guidelines-for-Evaluating-Work-in-Digital-Humanities-and-Digital-Media)
@@ -78,7 +78,7 @@ The Pro Publica investigation of college internship programs compares costs of t
 Originally drafted in 2000, these guidelines address the need for the labor of faculty with produces digital work to be recognized for tenure and promotion: "Academic work in digital media must be evaluated in the light of these rapidly changing technological, institutional, and professional contexts, and departments should recognize that many traditional notions of scholarship, teaching, and service are being redefined." Students are often largely unaware of the processes underlying faculty appointment and retention, the adjunctification of teaching labor, and the architectures of power that shape and institutionalize these processes. Introducing a document like this to students can help facilitate discussion of these issues, which can be valuable for students considering graduate school or academic careers. The criteria introduce questions of media specificity, accessibility, and roles and responsibilities on projects that can be useful in reviewing and evaluating classroom projects, or when looking at exemplar projects and platforms.
 
 ###Short Guide to Evaluation of Digital Work###
-![screenshot](images/labor-shortguide.jpg) 
+![screenshot](images/labor-shortguide.JPG) 
 
 * Artifact Type: An "annotated expansion" of a checklist for evaluating digital work published in the Journal of Digital Humanities.
 * Source URL: [http://journalofdigitalhumanities.org/1-4/short-guide-to-evaluation-of-digital-work-by-geoffrey-rockwell/](http://journalofdigitalhumanities.org/1-4/short-guide-to-evaluation-of-digital-work-by-geoffrey-rockwell/)
@@ -100,7 +100,7 @@ Written primarily for "evaluators" of digital work for promotion and tenure, the
 The essay "The Ladies Vanish" reflects on the feminization of labor in digital production, particularly types of labor that cannot be computerized or scripted: "women complete the tasks that men have not yet programmed computers to do, the tasks that make their 'genius' and their 'innovation' possible." An exposé of labor inequity in the tech field as a whole, the essay's focus on the invisible labor behind digitization projects like Google Books sets the stage for critical engagement with other content providers. The essay's premise can be used to effectively interrogate the invisibility of the labor that produces any large-scale digitization project, from small scale digital exhibits, to the content hubs that populate the Digital Public Library of America. Students should ask of these projects, "who does the work?" "how and how much are they compensated?" and "how are they credited on the site?"
 
 ###LaborArts###
-![screenshot](images/labor-laborarts.jpg)  
+![screenshot](images/labor-laborarts.JPG)  
 
 * Artifact Type: *LaborArts* is a site featuring digital collections and online exhibits of images curated to "further understanding of the past and present lives of working people."
 * Source URL: [http://www.laborarts.org/](http://www.laborarts.org/)
@@ -112,7 +112,7 @@ The essay "The Ladies Vanish" reflects on the feminization of labor in digital p
  The archive collects the "artistic and cultural heritage of working people and the labor movement" in a keyword-searchable database complemented by curated exhibits of materials from the collections. The "Team" section of the website lists "Core team" members, "Advisors, Contributors, and Sources of Inspiration," and the "Technical Team." The latter are two professional agencies, one which designed and maintains the website, and the other which designs exhibits. There is no detail about individual roles of either "Core team" or "Advisors, etc." on the site, and no curatorial credit is provided on the exhibits. Invite students to explore the site and ask them to identify individual contributors to the site's exhibits and collections. Can they determine who did the work to create the site and curate the exhibits? Does the presence or absence of this information compromise the site's mission "to further understanding of the past and present lives of working people"?
 
 ###*The History Engine;* "The Keating-Owen Child Labor Act of 1916"###
-![screenshot](images/labor-historyengine.jpg)  
+![screenshot](images/labor-historyengine.JPG)  
 
 * Artifact Type: Student-authored "episode" on the *Keating-Owen Child Labor Act of 1916* on *History Engine*, written for the course "America From Civil War to World Stage" at Widener University in Fall 2011.
 * Source URL: [https://historyengine.richmond.edu/episodes/view/5309](https://historyengine.richmond.edu/episodes/view/5309)
