@@ -31,7 +31,7 @@ type: book
 
 ---
 
-### Tags: 
+### Tags: archive, primary source, special collections, materiality, object
 
 --- 
 
