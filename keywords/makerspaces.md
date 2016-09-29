@@ -72,18 +72,18 @@ Instructables is one of several wiki-style resources for the maker community. Tw
 
 ###Quilt Snaps
 ![screenshot] (images/makerspaces-quilt_snaps.png)
-*Artifact Type: Project
-*Source URL: [http://web.media.mit.edu/~leah/grad_work/projects/snaps/quilt_snaps.html](http://web.media.mit.edu/~leah/grad_work/projects/snaps/quilt_snaps.html)
-*Creator: Leah Buechley
+* Artifact Type: Project
+* Source URL: [http://web.media.mit.edu/~leah/grad_work/projects/snaps/quilt_snaps.html](http://web.media.mit.edu/~leah/grad_work/projects/snaps/quilt_snaps.html)
+* Creator: Leah Buechley
 
 Leah Buechley, former MIT professor whose work in the High-Low Tech Research Group focuses on high and low technologies from a critical perspective, created Quilt Snaps as a “personal and social” project that combines low-tech crafting processes with high-tech microprocessor configurations. Quilt Snaps uses textiles, conductive thread, and a variety of sensory inputs and outputs to generate varying mathematical outputs depending on the configuration of quilt squares snapped together. This example of e-textiles, a facet of the maker movement growing in popularity, involves both the process and community based aspects of maker culture. It presents an approachable, accessible project for critical material engagement and data generation. Her syllabus extends simultaneously to several disciplines that are not usually found together: e-textiles, design, and UX. Moreover, the way in which Buechley combines high with low technologies has the potential to introduce making to an more economically-diverse group of students and schools.broadens the audience for making to groups that have not been early-adopters of high tech.
 
 
 ###Feral Robotic Dogs
 ![screenshot] (images/makerspaces-feral_robotic_dogs.png)
-*Artifact Type: Project
-*Source URL: [http://www.nyu.edu/projects/xdesign/feralrobots/](http://www.nyu.edu/projects/xdesign/feralrobots/)
-*Creators: Natalie Jeremijenko, Will Kavesh, Jesse James Arnold
+* Artifact Type: Project
+* Source URL: [http://www.nyu.edu/projects/xdesign/feralrobots/](http://www.nyu.edu/projects/xdesign/feralrobots/)
+* Creators: Natalie Jeremijenko, Will Kavesh, Jesse James Arnold
 
 Coming out of New York University and Natalie Jeremijenko’s Xdesign Lab, Feral Robotic Dogs are a pack of cracked/hacked/modified robotic dog toys fitted with various environmental sensors, converting them from objects of commercial interest to tools for activism in a variety of ways. Teams working on different endeavors release these feral packs “into the wild” to sense environmental conditions human senses can’t otherwise detect. Given the criticisms of commercialization of the maker movement, the Feral Robotic Dogs project upends the market-driven nature of the products by turning them from objects with entertainment and monetary value to participants in research aimed at addressing real-world problems. Moreover, her approach to resonates with the post-humanities concepts and themes, which have been one of the cutting-edge approaches to humanities research and philosophy in the past two decades. 
 
