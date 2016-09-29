@@ -123,9 +123,9 @@ The Maker Lab in the Humanities (MLab) at the University of Victoria facilitates
 
 ###Interactive Telecommunications Program (ITP) - NYU
 ![screenshot](images/makerspaces-itp_nyu.png)
-*Artifact Type: University Program/Makerspace(s)
-*Source URL: [http://tisch.nyu.edu/itp](http://tisch.nyu.edu/itp)
-*Creator: New York University, Tisch School of the Arts
+* Artifact Type: University Program/Makerspace(s)
+* Source URL: [http://tisch.nyu.edu/itp](http://tisch.nyu.edu/itp)
+* Creator: New York University, Tisch School of the Arts
 
 The Interactive Telecommunications Program in NYU’s Tisch School for the Arts is a two year program whose mission is to “explore the imaginative use of communication technologies -- how they might augment, improve, and bring delight and art into people’s lives” (ITP). ITP’s fourth floor is a premiere maker space and for facilitating its exploratory mission. The space supports work in  wide range of disciplines including e-textiles, and -wearables, interactive event spaces, and furniture design. One of the professors in the program is Tom Igoe, who was involved in the development of Arduino, and whose co-written book with Dan O’Sullivan, Introduction to Physical Computing, is an essential resource.
 
