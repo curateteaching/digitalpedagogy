@@ -46,9 +46,9 @@ The Introduction to Digital Humanities course taught by Jentery Sayers, Assistan
 
 ###Makers and Makerspaces
 ![screenshot] (images/makerspaces-miller_syllabus.png)
-*Artifact Type: Syllabus
-*Source URL: [https://www.academia.edu/8338203/English_1101_Makerspaces](https://www.academia.edu/8338203/English_1101_Makerspaces)
-*Creator: Monica Miller
+* Artifact Type: Syllabus
+* Source URL: [https://www.academia.edu/8338203/English_1101_Makerspaces](https://www.academia.edu/8338203/English_1101_Makerspaces)
+* Creator: Monica Miller
 
 Monica Miller’s undergraduate course demonstrates how students to approach making as encompassing new modes of composition to enhance communication skills and knowledge beyond the traditional text. The course consists of an overview of the Maker Community and its practices, ideologies, and rhetorical strategies while embedding practical application in the form of maker project development. Miller’s course is one that extends easily to the fields of rhetoric and composition. This is because her approach to making is explicitly associated with rhetorical principles and multimodal forms of writing.
 
