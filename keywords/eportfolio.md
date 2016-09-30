@@ -58,8 +58,6 @@ The artifacts begin with ePortfolios themselves, a very diverse set at the under
 
 * Artifact Type: Undergraduate Student ePortfolios
 * Source URL: http://wp.stolaf.edu/cis/web-community/
-* Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation: Multiple students at St. Olaf College
 
 At St. Olaf College, undergraduate ePortfolios are housed at the Center for Integrative Studies (CIS), where students design their own majors, many of which operate at the intersection of two fields; thus, a student interested in scene design created a major emerging from the intersection of theater and architecture. Originally, the four criteria ePortfolios were to meet focused on four types of thinking: thinking in context, thinking in community, thinking integratively, and thinking reflectively. Once the CIS had worked with the ePortfolios for several years, however, faculty added three more criteria: focus, navigational design, and the visual, especially as appropriate to the content. The gallery of student ePortfolios hosted at the CIS site, which change as students graduate and a selection are archived for a longer period, displays highly creative portfolios and the majors they represent. Students find reviewing galleries of ePortfolios like this one, given its wide range of models, very helpful, both to define ePortfolios and to see many possibilities for design, contents, arrangement, and the visual. Likewise, a faculty-led review of such portfolios can clarify defining characteristics of ePortfolios, the kinds of artifacts and reflective texts they can include, and the multiple ways that students can incorporate their own interests into them. 
@@ -69,8 +67,6 @@ At St. Olaf College, undergraduate ePortfolios are housed at the Center for Inte
 
 * Artifact Type: Graduate Student ePortfolio
 * Source URL: http://amb14m.wix.com/digirevo
-* Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation: Amanda Brooks, Florida State University
 
 Amanda Brooks, an MA student at Florida State University from 2014-2016, created an ePortfolio for her Digital Revolution and Convergence Culture graduate class, which focuses on the relationships between literacy and technology and the changes in literacies motivated by digital technologies. Amanda divides her portfolio into three major sections. The first, artifacts, includes one artifact from inside the course and a second from outside the course, the latter allowing her to make a connection to other experience that only she can make. The second, coursework, draws on several class assignments, including a map of circulation. And the third, reflection, accounts for her learning through a definition of what she has identified as the major vocabulary of the course; thus, in this text, she synthesizes her learning. In sharing what she has learned, Amanda includes many kinds of artifacts--including print homework assignments, videos, and graphics--with a clear navigational system and a rhetorically effective visual design.
@@ -80,8 +76,6 @@ Amanda Brooks, an MA student at Florida State University from 2014-2016, created
 
 * Artifact Type: ePortfolio instructions
 * Source URL: https://lsa.umich.edu/content/dam/sweetland-assets/sweetland-documents/teachingresources/Supplement1_CoreActivitiesAndBasicElements.pdf
-* Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation: Gayle Sweetland Center, University of Michigan
 
 The Sweetland Center hosts a minor in writing available to students across the curriculum; to support this minor, which requires an electronic portfolio, the Sweetland Center has developed a set of materials explaining the ePortfolio model for the minor, outlining reflective activities, and showcasing student work. This document-- "ePortfolios: Core Activities & Basic Elements"--explains three basic ePortfolio practices: (1) selection of artifacts; (2) evidence-based reflection; and (3) revision. In other words, addressing students, this guide points to some of the principal decisions that students will make in creating their portfolios; especially valuable for both faculty and students are the sections on interactive navigation for the ePortfolio and the role of visual design in it.
@@ -91,8 +85,6 @@ The Sweetland Center hosts a minor in writing available to students across the c
 
 * Artifact Type: Instructions
 * Source URL: https://sites01.lsu.edu/wp/cxc/files/2014/07/2014-DCHandbook_TipsBetterPort.pdf
-* Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation: Communication across the Curriculum Program, Louisiana State University
 
 Louisiana State University offers a Distinguished Communicator (DC) certificate program: students in all majors have the opportunity to demonstrate their communicative proficiency in multiple modes, including the written, the oral, and the visual, and they create a culminating electronic portfolio as well. In addition to hosting a gallery of student ePortfolios, the Communication across the Curriculum site sponsoring the DC certificate offers several handouts that can guide students in creating ePortfolios. Among these is their "Tips for Building a Better Public Portfolio" identifying 11 tips. Distinctive in this handout are several features. First is attention to the value of a kind of print-correctness: Tip 11 advises students to "Proofread, and proofread again," observing that the correctness isn't a print-only standard. Second, and as important, is the tip sheet's attention to developing a web-sensible portfolio: recommendations include re-formatting documents for the web and including links. Likewise, students are cautioned about including too much information:  "Remember, this is a public site, so be safe and remove personal information such as your home address or cell phone number."
@@ -102,8 +94,6 @@ Louisiana State University offers a Distinguished Communicator (DC) certificate 
 
 * Artifact Type: Instructions
 * Source URL: http://wp.auburn.edu/writing/ePortfolio-project/
-* Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation: Auburn University ePortfolio Program, adapted from J. Driscoll
 
 Auburn University offers an ePortfolio program oriented to employment for undergraduates and organized at the departmental level. Its website hosts a variety of resources, including materials on artifact selection and reflection and a set of student portfolios. This artifact is a guide for reflection, identifying the kinds of experiences and artifacts appropriate for reflection and asking students to think of them in a three-part heuristic. The first question--What?--asks students to define and analyze an artifact or experience; the second question--So what?--asks students to explain why the artifact or experience is important; and the last question--"Now what?--asks students to link the understanding articulated earlier with their sense of how they now might move forward. This heuristic has been used on other campuses, among them Virginia Military Institute and Florida State University; at the latter, an anecdotal finding is that stronger students use the past as a platform for thinking about the future, while weaker students focus solely on the past.
@@ -113,8 +103,6 @@ Auburn University offers an ePortfolio program oriented to employment for underg
 
 * Artifact Type: Assessment Rubric
 * Source URL: https://atel.tlos.vt.edu/wp-content/uploads/2013/03/Technology_Handout_Students.pdf
-* Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation: Mark Zaldivar and Teggin Summers, Virginia Tech
 
 Although electronic portfolios are pedagogical tools and not technologies, there's no question but that ePortfolios require some kind of platform. Often schools offer a platform inside a learning management system; Blackboard, for instance, has an ePortfolio tool. There are also ePortfolio-specific platforms, which institutions tend to adopt for assessment purposes and which are often designed as online assessment systems rather than spaces where ePortfolios can be created; that is, students upload work samples but are not invited to make the portfolios their own or to include extracurricular work. The individual faculty member who either doesn't have or want a system will find this guide helpful: it points to various free website editors and analyzes their affordances and limitations.
@@ -123,9 +111,6 @@ Although electronic portfolios are pedagogical tools and not technologies, there
 ![screenshot](images/eportfolio-uva.JPG)
 
 * Artifact Type: Syllabus
-* Source URL: 
-* Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation: Yitna Firdyiwek, University of Virginia
 
 This one-credit course is available to undergraduate students at the University of Virginia. Initially taught as a free-standing elective course, "ELA 1559: Collect, Select, and Reflect" is now part of a suite of "Engaging the Liberal Arts" electives students can take as part of their undergraduate experience. Distinctive features of this course include the focus on portfolio-makingness through the creation of three separate portfolios-- a learning e-portfolio; a presentational e-portfolio; and an exploratory e-portfolio-- and the design of criteria for considering how to assess each.
@@ -134,8 +119,7 @@ This one-credit course is available to undergraduate students at the University 
 ![screenshot](images/eportfolio-visual-gutman.JPG)
 
 * Artifact Type: Syllabus/teaching guidelines
-* Source URL: http://c2l.mcnrc.org/wp-content/uploads/sites/8/2014/05/gcc-soc-practice-2.pdf* Artifact Permissions: 
-* Copy of the Artifact: 
+* Source URL: http://c2l.mcnrc.org/wp-content/uploads/sites/8/2014/05/gcc-soc-practice-2.pdf
 * Creator and Affiliation: Nate Mickelson, Guttman Community College
 
 This portfolio is a course-based portfolio that all students contribute to; its purpose is to provide a site for students to analyze complex visual art, especially art intended to defamiliarize students from their common assumptions. The portfolio allows students to discuss the art they observe and to practice arguments that they will complete in a formal assignment that follows their use of the portfolio. In this sense, the portfolio provides a collaborative site of synthesis for three activities: responses to the art, responses by peers, and theoretical framing provided by the instructor. 
@@ -144,8 +128,6 @@ This portfolio is a course-based portfolio that all students contribute to; its 
 ![screenshot](images/eportfolio-history.JPG)
 
 * Artifact Type: Syllabus
-* Source URL: * Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation: Professor Getman-Eraso, Bronx Community College
 
 The electronic portfolio in this general education class is the centerpiece of the class. Because many students in the course may be unfamiliar with ePortfolios, a definition is provided: "ePortfolios are online spaces for teachers and students to communicate, share, reflect and collaborate in and outside of the classroom. As a student, your ePortfolio is a way for you to show an audience (family, employer, school, teachers, fellow students) who you are and what you have accomplished. It is a way for you to express your identity and aspirations." Each week students write reflective essays that are included in the portfolio: topics for these short essays are included on the syllabus. Reflection in this model of ePortfolio is thus an iterative social practice. 
@@ -154,8 +136,6 @@ The electronic portfolio in this general education class is the centerpiece of t
 ![screenshot](images/eportfolio-fsu-syllabus.JPG)
 
 * Artifact Type: Syllabus
-* Source URL: * Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation: Kathleen Blake Yancey, Florida State University
 
 This one-credit pass/fail course is available to graduate students in Florida State University's Rhetoric and Composition program. Students enroll in the course to create one of many kinds of ePortfolios, among them: a career portfolio for a writing job after completing the MA; a career portfolio for an academic job after completing the PhD; a teaching-showcase portfolio to accompany an application for a teaching award; and an integrative learning portfolio as a site for documenting and reflecting upon various kinds of intellectual development. Distinctive features of this course include the development of two navigational structures, attention to visual design, and an extended peer review process.
