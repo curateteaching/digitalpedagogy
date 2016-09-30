@@ -62,7 +62,6 @@ Our goal in selecting these materials was to provide as wide a range as possible
 
 ### "Campus Mysteries"
 ![screenshot](images/prototype--UofA_Campus_Mysteries.png)
-* Type: Assignment
 * Copy of the artifact: [http://interactives.artsrn.ualberta.ca/?page_id=145] (http://interactives.artsrn.ualberta.ca/?page_id=145)
 * MA students in Humanities Computing, University of Alberta, Edmonton
 
@@ -104,7 +103,6 @@ To use it in the class, choose an experience that is best associated with a loca
 ### "Prototypes of an Article"
 ![screenshot](images/prototype--baby-bottles.jpg)
 * Type: Assignment
-* Copy of the artifact: 
 * Xinyue Zhou, MDes student, IIT Institute of Design, Chicago
 
 For this assignment, students are asked to read a paper, then create a prototype that can help the class think about the implications of the topic. In this case, the students had read Langdon Winner's (1986) chapter "Do Artifacts Have Politics?" in _The Whale and the Reactor_, but any article will do. The exercise has several steps that can be spread over multiple weeks: (1) discuss the paper (2) generate sketches for at least 3 concepts (3) produce a prototype of the selected concept (4) revise the prototype based on feedback.
@@ -116,7 +114,6 @@ To adapt this for a class, choose an article that the students will read as usua
 ### "Prototype Video for Kickstarter
 ![screenshot](images/prototype--InfoDesignMRU_YouTube.png)
 * Type: Assignment
-* Copy of the artifact: 
 * BComm students Mount Royal University
 
 As one component of an assignment on designing visualizations, Dr. Radzikowska, at Mount Royal University in Calgary, asked students to record a 2-5 minute video advertising their solution to the public. The overall assignment was aimed at designing an interactive visualization on stories related to HIV/AIDS. 
@@ -132,7 +129,6 @@ To try a similar project in class, it is useful to have a prior project that can
 ### "The Sustainability Game"
 ![screenshot](images/prototype--rap-student-work.png)
 * Type: Assignment
-* Copy of the artifact: 
 * MDes students, IIT Institute of Design, Chicago
 
 It is not necessarily well known that some designers focus on the design of experience, but such is the case. When students are assigned to create prototypes of experience, one purpose is to allow them to better understand how participation in an activity can help people to interrogate a topic. In this assignment, students were asked to design a positive experience for people interested in thinking about issues of sustainable innovation.
@@ -146,7 +142,6 @@ To adapt this exercise for a class, it is not necessary for the students to prot
 ### "Experimental Interface Design"
 ![screenshot](images/prototype-dh-structured-surface.png)
 * Type: Exercise
-* Copy of the artifact: 
 * [files/prototype--DH_structured_surface.pdf](files/prototype--DH_structured_surface.pdf)
 * Milena Radzikowska 
 
@@ -160,7 +155,6 @@ As a classroom activity, this exercise does not require that the students have s
 ### "Prototypes for Developing a Research Topic"
 ![screenshot](images/prototype--helmets.jpg)
 * Type: Assignment
-* Copy of the artifact: 
 * MDes students, Unisinos, Porto Alegre, Brazil
 
 This exercise is for graduate students developing a thesis topic. They are asked to create a prototype whose features can help them think about specific aspects of the research question. This is different from the use of prototypes to address a research question that already exists.
@@ -188,7 +182,6 @@ For use in a course, it may be helpful to plan a series of classes where each of
 ### "Prototyping Texts"
 ![screenshot](images/prototype-prototyping-texts.png)
 * Type: Syllabus
-* Copy of the artifact: 
 * [http://jentery.github.io/508/notes.html](http://jentery.github.io/508/notes.html)
 
 In his English 508 course at the University of Victoria, Jentery Sayers asks the students to go through a series of exercises in learning about text through deformation:
@@ -203,7 +196,6 @@ To use this in the classroom, choose documents that the students would normally 
 ### "Science Fiction to Science Fabrication"
 ![screenshot](images/prototype--building-E-14.png)
 * Type: Syllabus
-* Copy of the artifact: 
 * [http://scifi2scifab.media.mit.edu/syllabus-3/] http://scifi2scifab.media.mit.edu/syllabus-3/)
 * Sophia Brueckner and Dan Novy
 
