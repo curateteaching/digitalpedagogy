@@ -80,7 +80,6 @@ Each artifact below captures a category and particular practice of assessment: d
 
 * Artifact Type: Syllabus
 * Source: [http://www.cmu.edu/teaching/designteach/design/syllabus/samples-creative/TypographySyllabus.pdf](http://www.cmu.edu/teaching/designteach/design/syllabus/samples-creative/TypographySyllabus.pdf)
-* Copy of Artifact: forthcoming
 * Creators: Karen Moyer and Dan Boyarski, Carnegie Mellon University
 
 Category: Formative Assessment
