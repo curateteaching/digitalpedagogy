@@ -164,7 +164,7 @@ Ross's digital edition assignment asks students to think about active reading. S
 ### How to Not Read a Victorian Novel
 ![screenshot](images/reading-fyfenotreading.png)
 * Artifact Type: Article
-*Artifact Type: Assignment
+* Artifact Type: Assignment
 * Source URL: [http://fsu.digital.flvc.org/islandora/object/fsu%3A207269](http://fsu.digital.flvc.org/islandora/object/fsu%3A207269)
 * Artifact Permissions: ? in FSU Digital Repository - contacting author
 * Creator and Affiliation: [Paul Fyfe](http://english.chass.ncsu.edu/faculty_staff/pcfyfe),  North Carolina State University
