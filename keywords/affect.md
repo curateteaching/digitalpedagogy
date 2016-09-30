@@ -58,100 +58,70 @@ Teachers offend and comfort, solicit shame and pride about student performance, 
 ## ## The Selfie Course
 ![screenshot](images/affect-SelfieCourse.jpg)
 
-* Artifact Type:
 * Source: http://www.selfieresearchers.com/week-one-identity-and-interpellation/
-* Copy of Artifact:
-* Creators: 
 
 The Selfie Course is an open access curriculum designed by a world-wide collective of a dozen scholars of Internet research.  The first unit on the syllabus, which was created by Terri Senft and Gaby David,focuses on the topic of "Identity and interpellation" and has a particularly useful ice-breaker excersive about creating self-portraits for particular audiences (dating website, corporate website, etc.) under the "Image Production Assignment" heading, which can personalize large lecture courses and make it easier to learn student names.  This unit also has a number of examples of selfie campaigns for discussion that are directly relevant to the topic of affect, such as the "Woman Laughing Selfie" meme.  It may be productive to look at other selfie memes about affect or solicit student suggestions.  As the selfie courses suggests, instructors can also discuss how affect and class or affect and race are read as interacting in the case of the #iftheygunnedmedown hashtag campaign.  Why are particular poses read as evidence of hardened affect?  
 
 ## Snapchat Research Stories
 ![screenshot](images/affect-SnapChat.jpg)
 
-* Artifact Type:
 * Source: https://www.youtube.com/playlist?list=PL46Xs2itPIMlDBL0tPfg-2WzXwZrnTePh
-* Copy of Artifact:
-* Creators: 
 
 Snapchat is a mobile application that is currently used by young people for irreverant documentation of their daily lives, because the photos and videos quickly disappear and lack the gravitas of permanence.  Given its ephemerality, Snapchat may seem a strange platfom for research projects, but many Snapchat pedagogues find the spontaneity liberating and a good way for students to temporarily archive and comment on the mundane.  Jill Walker Rettberg has created a series of "Snapchat Research Stories" that can serve as models for students for how to present research using informal discourse and spontaneous reactions to unfamiliar scholarly ideas. What would it mean for students to record a Snapchat story like Rettberg's after visiting an archive, listening to a lecture, or viewing a film?  Unlike other fast-format assignments, like the Ignite-style speech, preparation can be minimal and even done as an in-class exercise. In the sample videos Rettberg jogs, walks, drinks coffee, and chats with friends while discussing theoretical concepts.  Instructors can ask students to deconstruct Rettberg's various moods in the videos as well and to consider how she uses paralinguistic communication and facial expressions as part of how she makes scholarly arguments.
 
 ## Unpacking Videos
 ![screenshot](images/affect-Unpacking.jpg)
 
-* Artifact Type: 
 * Source: https://medium.com/@markcmarino/unpacking-videos-6d86eb3b4ad0#.yi8p9l3uh
-* Copy of Artifact:
-* Creators:
 
 Mark Marino is another prominent selfie pedagogue who has developed an assignment about unpacking videos that asks students to open up an abstract concept, such as "double consciousness" or "symbolic ethnicity."  He deploys the popular and banal genre of the unboxing video in which people open packages and react to the acquisition of new consumer items. In his sample Vine video Marino reacts to the arrival of "white privilege" on his doorstep.  Marino provides a synopsis of the wordless plot: "It shows up at my door even though I didn't order (or pay for) it. When I open the box, I can’t see it but put it on anyway, but when someone tries to take it, I get angry."  Here Marino shows how someone could react emotionally to a seemingly intellectual concept.  This offers an opportunity to invite students to explore their affective responses to challenging material that may destabilize their confidence in their own privilege or expertise.
 
 ## English Downfall 
 ![screenshot](images/affect-Downfall.jpg)
 
-* Artifact Type:
 * Source: http://kairos.technorhetoric.net/13.2/disputatio/theamishaugur/index.html
-* Copy of Artifact:
-* Creators:
 
 Hyperbolic emotions can also be rich material for the classroom, particularly as a way to discuss strong reactions to ideas or concepts.  "The Downfall Meme" was a popular genre of remix videos that used source material from a biopic of Hitler that showed the dictator breaking down in his bunker as he feels abandoned by military leaders.  Although the topic of the film is serious, the meltdown into rage is so dramatic that without context this German-language scene is difficult to take seriously.  Downfall meme videos cover a wide variety of subjects, ranging from Hitler responding to the subprime mortgage crisis to Hitler criticizing xBox Live.  This version of the Downfall meme depicts Hitler defending traditional English departments and was published in the peer-reviewed online journal *Kairos*.  In the case of the "Downfall" video, academic culture is parodied as irrational, because it rejects sensible contingency plans to adapt to change.  Instructors may wish to ask students how they see people in power at their campuses as emotionally invested in particular traditions.    
 
 ## Alienated Sensory Mashup
 ![screenshot](images/affect-Phonar.jpg)
 
-* Artifact Type:
 * Source: https://phonar.org/2014/10/creative-workshop-2-alienated-sensory-mashup/
-* Copy of Artifact:
-* Creators:
 
 Separating out the senses can be one way to emphasize differences of affect to enrich classroom discussion.  This creative workshop from #PHONAR, a free and open undergraduate course designed by Jonathan Worth, asks students to create both a "landscape story" and a "soundscape story."  By generating two different kinds of narratives, you can ask students how different sensory information might produce different affects.  To demonstrate this point before completing the assignment, instructors can screen a scene in a film and ask students to attend to differences between the visual and the aural messages.
 
 ## "The Mixtape Project" Assignment: Learning through Critical Making
 ![screenshot](images/affect-Mixtape.jpg)
 
-* Artifact Type:
 * Source: http://www.oxy.edu/center-digital-liberal-arts/blog/mixtape-project-assignment-learning-through-critical-making
-* Copy of Artifact:
-* Creators:
 
 Music can be a good way to present the modulation of affect to students and even to create a special temporal occasion in the classroom.  For example, playing music appropriate to the theme of a lecture can be a good way to set the mood in the room.  Or it can be useful to ask students to create playlists as a way to summarize course materials.  This explanation of a mixtape assignment from Occidental's Center for Digital Arts asks students to "define a theme" that is "related to genre, canon, place, time period, and/or the social contexts (race, ethnicity, gender, sexuality) in which musical events take place."  Students must produce carefully crafted "liner notes" in lieu of a research paper in a rigorously scaffolded project that includes an abstract and an oral presentation.  Students can create similar playlists of short works that are already prized by cultural creators (poems, paintings, etc.).  Why to curators structure the rhythm of affect so intentionally? 
 
 ## GIF Assignment for DS 106
 ![screenshot](images/affect-DS106.jpg)
 
-* Artifact Type:
 * Source: http://assignments.ds106.us/assignments/gif-the-ds106/
-* Copy of Artifact:
-* Creators:
 
 Like mixtapes or remix videos, gifs are a popular format for disseminating particular stances or attitudes around affect, although the format depends on looping rather than sequencing (or repetition rather than rhythm).  Often gifs are used for focusing on making faces and may feature eye-rolling, double takes, and other emotional reactions.  This exercise from the popular xMOOC Digital Storytelling 106 asks students to remix an animated course number with a gif, which can be a good way for students to identify what they see as salient about a course and how others might react to it. (DS 106 was part of the Connected Courses initiative, which is another useful place to think about digital pedagogy.)  
 
 ## Lemonade Syllabus  
 ![screenshot](images/affect-Lemondade.jpg)
 
-* Artifact Type:
 * Source: http://candicebenbow.com/lemonadesyllabus/
-* Copy of Artifact:
-* Creators: 
 
 A syllabus is generally seen as a bureaucratic cut-and-dried legalistic document that is intended to establish course expectations.  In contrast, music videos  incorporate sound and imagery and use rhetorical power to tug at the audience's heartstrings.  The Lemonade Syllabus combines material relevant to the album released by popular singer Beyonce with a demanding reading list on intersectional black feminism, next to which the student is encouraged to take notes.  This syllabus is a particularly fitting choice for affect studies, given sections devoted to inspiration and religion and readings covering "pain," "joy," and "depression" in a section on "Historical & Cultural Studies." However, Lemonade pedagogy is not without controversy, as bell hooks critique of the commodification of black pain indicates.
 
 ## [CV of Failure
 ![screenshot](images/affect-CVofFailure.jpg)
 
-* Artifact Type:
 * Source: https://www.princeton.edu/~joha/Johannes_Haushofer_CV_of_Failures.pdf
-* Copy of Artifact:
-* Creators: 
 
 This document created by a successful Princeton professor also mixes neutral and emotional genres.  The topic of failure is often an important one in digital pedagogy, and more attention to failure or encouragement to explore failure has been advocated for by Mark Sample, David Parry, and others.  Instead of asking students to complete a CV of failure, it may be more useful to assign a resume of failure, where you ask them to list all the things they applied for in areas normally alloted for "education," "work experience," and "activities."
 
 ## Wikistorming
 ![screenshot](images/affect-Wikistorming.jpg)
 
-* Artifact Type:
 * Source: http://femtechnet.newschool.edu/wikistorming/
-* Copy of Artifact:
-* Creators:
 
 Although challenging, editing Wikipedia can provide a very rewarding class assignment.  This group of pedagogical online materials about editing Wikipedia as a class project includes sample assignments, instructional videos, and many other resources.  The challenge to students accustomed to the genre of the five-paragraph theme is to adapt to Wikipedia's policies about avoiding individual research or expressing a point of view.  As students work on their Wikipedia editing projects, you can direct discussion about the value presenting Wikipedia as an affect-free space and point to where "Talk" pages allow for more uninhibited venting.    
 
