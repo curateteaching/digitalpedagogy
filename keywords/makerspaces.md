@@ -62,9 +62,9 @@ The Critical Making course developed by Matt Ratto, Associate Professor in the F
 
 ###Instructables
 ![screenshot] (images/makerspaces-instructables.png)
-*Artifact Type: Instruction Resource
-*Source URL: [http://www.instructables.com/](http://www.instructables.com/)
-*Creator: Various 
+* Artifact Type: Instruction Resource
+* Source URL: [http://www.instructables.com/](http://www.instructables.com/)
+* Creator: Various 
 
 Instructables is one of several wiki-style resources for the maker community. Two related sites include WikiHow and Bildr. Instructables was developed by MIT Media Lab graduates Eric WIlhelm and Saul Griffith. It was launched in 2005. It boasts instruction sets for creating hundreds of DIY projects. Many of the articles published on their website were developed by community members. Each published set of instructions includes a list of all materials that will be needed, detailed explanations for each step in the process, and still images of the project at each stage development. The site boasts a range of project that include everything from crafting and work working to soldering and circuit designing. 
 
