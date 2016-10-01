@@ -134,4 +134,23 @@ In MLA format, list five related items that are informative for teaching with yo
 
 ## WORKS CITED
 
-A works cited for all references in your entry, including your ten artifacts, your five related materials, and anything referenced in your curatorial statement in MLA style.  
+Alcoff, Linda. “Mignolo’s Epistemology of Coloniality.” CR: The New Centennial Review, vol. 7, no. 3, 2007, pp. 79-101.
+Butler, Octavia. Parable of the Sower. New York: Warner, 2000.
+Black Youth Project. Agenda to Build Black Futures. agendatobuildblackfutures.org.
+Cox, Laverne. Interview with Katie Couric. Katie. ABC, 6 Jan. 2014.
+Davidson, Cathy and David Theo Goldberg. A Manifesto for the Humanities in a  Technological Age. Chronicle of Higher Education, vol. 50, no. 23, 13 Feb. 2004, pp. B7-B9.
+Defense Advanced Research Projects Agency (DARPA). Bridging the Gap Powered by Ideas. Arlington, VA: DARPA, 2005.
+Dimock, Wai Chee. Through Other Continents: American Literature Across Deep Time. Princeton: Princeton University Press, 2006.
+Gaiman Neil. “Introduction,” in Ray Bradbury, Fahrenheit 451. 60th Anniversary Edition. New York: Simon & Shuster, 2013.
+Grant, Sheryl. “Digital Badges.” HASTAC. 6 Mar. 2013. www.hastac.org/collections/digital-badges. 
+Jacobs, Sean, et al. Africa is a Country. africasacountry.com.
+Jenkins, Henry. Convergence Culture: Where Old and New Media Collide. New York: NYU Press, 2008.
+--. Syllabi as Cultural Artifacts: MIT’s Introduction to Media Studies (Part One). USC Annenberg Innovation Lab. 8 Mar. 2016. www.annenberglab.com/blogs/hjenkins/2016/03/syllabi-cultural-artifacts-mit-s-introduction-media-studies-part-one.
+Kember, Sarah. Notes Towards a Feminist Futurist Manifesto. Ada: A Journal of Gender, New Media, and Technology, no. 1, 2012.
+Klink, Flourish and Kim Vaeth. Flourish Klink, and Kim Vaeth. CMS 100 Introduction to Media Studies. Massachusetts Institute of Technology: MIT OpenCourseWare, ocw.mit.edu/courses/comparative-media-studies-writing/cms-100-introduction-to-media-studies-fall-2014.
+Lury, Celia, Luciana Parisi, and Tiziana Terranova. “Introduction: The Becoming Topological of Culture.” Theory, Culture, and Society, vol. 19, no. 4/5, 2012, pp. 3-35. 
+Macharia, Keguro. Humanities and Higher Education in Kenya. Gukira. 25 Feb. 2016. gukira.wordpress.com/2016/02/25/humanities-higher-education-in-kenya.
+Moten, Fred and Stefano Harvey. The Undercommons: Fugitive Planning and Black Study. New York: Minor Compositions, 2013.
+Muñoz, José Esteban. Cruising Utopia: The Then and There of Queer Futurity. New York: NYU Press, 2009.
+Thussu, Daya Kishan. “Introduction,” in Media on the Move: Global Flow and Contra-Flow. New York: Routledge, 2006.
+Undercommoning Collective. Undercommoning: Revolution Within, Against, and Beyond the University. undercommoning.org.
