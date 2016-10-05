@@ -196,7 +196,7 @@ To use this in the classroom, choose documents that the students would normally 
 ### "Science Fiction to Science Fabrication"
 ![screenshot](images/prototype--building-E-14.png)
 * Type: Syllabus
-* [http://scifi2scifab.media.mit.edu/syllabus-3/] http://scifi2scifab.media.mit.edu/syllabus-3/)
+* [http://scifi2scifab.media.mit.edu/syllabus-3/]
 * Sophia Brueckner and Dan Novy
 
 A slightly more advanced version of the exercise of responding to an article with a prototype, this course (alternatively titled "pulp to prototype") has students respond to science fiction with a prototype. The students have a series of readings, some novels and some short stories, organized by topic (e.g. nanotech, cyborgs), and are asked to prototype some of the science fiction ideas.
