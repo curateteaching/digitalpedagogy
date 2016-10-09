@@ -66,8 +66,6 @@ In this video, “Super-Awesome Sylvia” shows how to make two simple (but fun)
 
 * Artifact Type: Step-by-step Tutorial
 * Source URL: <http://highlowtech.org/?p=1448>
-* Artifact Permissions: Unknown
-* Copy of Artifact: forthcoming
 * Creator: [Leah Buechley](http://leahbuechley.com) and colleagues at the [High-Low Tech](http://highlowtech.org) research group, MIT Media Lab, 2009-14
 
 In this project, the wings of an origami crane are made to flap with shape memory alloy. It is easily built by individuals or pairs in a classroom or workshop setting (taking approximately four hours) and is a lovely combination of new and old materials, ‘high’ and ‘low’ technologies, and aesthetics. Like the other tutorials on the High-Low Tech website, this one has broad appeal: it is intimately scaled and has a gentle quality that students may not associate with hacking. Having a hands-on, somewhat contemplative activity to occupy students often provides space for thoughtful conversations that are difficult to stage in a more self-conscious seminar setting.
@@ -78,7 +76,6 @@ In this project, the wings of an origami crane are made to flap with shape memor
 * Artifact Type: Digital Archive
 * Source URL: <http://hacks.mit.edu>
 * Artifact Permissions: [Website](http://hacks.mit.edu/misc/copyright.html); [Photo credits](http://hacks.mit.edu/Hacks/by_year/1999/r2d2/additional_information.html#photocredits)
-* Copy of Artifact: forthcoming
 * Creator: [MIT](http:web.mit.edu)
 
 This website is an online exhibition of hacks that have been produced at MIT over the years. There the word is usually used for "a clever, benign, and ‘ethical’ prank or practical joke, which is both challenging for the perpetrators and amusing to the MIT community (and sometimes even the rest of the world!)” The site provides a good starting point for discussions of the history and anthropology of hacking (use with Levy and Coleman), hacking as engineering (Izawa), and the ambivalence and liminality associated with the practice. As alum Michael Snively writes on the MIT admissions blog, “Sure MIT loves the aftermath of the hack, postering the admissions site and the MIT homepage with them whenever they happen, but MIT HATES hackers when they’re actually putting up a hack.”
@@ -89,7 +86,6 @@ This website is an online exhibition of hacks that have been produced at MIT ove
 * Artifact Type: Website
 * Source URL: <http://tinkering.exploratorium.edu>
 * Artifact Permissions: Copyright 2015 Exploratorium
-* Copy of Artifact: forthcoming
 * Creator: [Exploratorium](http://exploratorium.edu/)
 
 The Exploratorium, San Francisco’s science museum, has always had a large workshop in the middle of its display space, so that generations of visitors could watch brilliant tinkerers wring profundity from assemblages of junk. The three volume *Exploratorium Cookbook* series, though expensive, is required reading for serious exhibit designer-builders. The latest iteration of this practice is the Tinkering Studio, which both supports museum R&D and allows visitors to participate in hands-on making. Have students explore the website, read K. C. Cole’s book about the origins and philosophy of the Exploratorium and try their hand at building one of the clever demos the Museum educators call ‘[snacks](http://www.exploratorium.edu/snacks/)’. I love the [condiment diver](http://www.exploratorium.edu/snacks/condiment-diver).
@@ -99,8 +95,6 @@ The Exploratorium, San Francisco’s science museum, has always had a large work
 
 * Artifact Type: Syllabus
 * Source URL: <http://make.berkeley.edu>
-* Artifact Permissions: Unknown
-* Copy of Artifact: forthcoming
 * Creator: [Eric Paulos](http://www.paulos.net/)
 
 This is a good current syllabus (with supporting materials) on ‘critical making’, a reflexive practice that Ratto and Hockema describe as collapsing distinctions that are typically made between ‘making’ and ‘critical thinking’. It assumes a range of hands-on skills that design students are expected to have: construction with cardboard and foamcore, physical computing, digital fabrication, building simple mechanisms and basic electronics. I routinely teach a [similar course](http://williamjturkel.net/teaching/) on interactive exhibit design to humanities graduate students. I need to provide a bit more scaffolding in terms of help with programming, electronics, etc. but the coverage is similar. Getting appropriate space, tools and materials to mount such a course can be quite difficult (Sayers et al).
@@ -111,7 +105,6 @@ This is a good current syllabus (with supporting materials) on ‘critical makin
 * Artifact Type: Workshop Report
 * Source URL: <http://williamjturkel.net/hackknow-hacking-as-a-way-of-knowing-2009/>
 * Artifact Permissions: CC-BY-NA-SA
-* Copy of Artifact: forthcoming
 * Creator: [William J. Turkel](http://williamjturkel.net)
 
 This is a report from the first public hacking workshop I organized. Many things went very well, but I made a number of mistakes, too, and I tend to emphasize those when I use this for teaching students how to host a workshop. Nothing gives your students permission to learn from failure like sharing your own missteps. My students, colleagues and I now offer many hacking workshops a year and each time we get some things right and find some ways to improve.
@@ -121,8 +114,6 @@ This is a report from the first public hacking workshop I organized. Many things
 
 * Artifact Type: Elaborate Hack
 * Source URL: <https://www.nyu.edu/projects/xdesign/feralrobots/>
-* Artifact Permissions: Unknown
-* Copy of Artifact: forthcoming
 * Creator: [Natalie Jeremijenko](http://www.nataliejeremijenko.com)
 
 Natalie Jeremijenko and her students hacked toy robots by adding chemical sensors and programming them to congregate where emissions were highest. Set loose in landfills, former gas plants, industrial waste dumping grounds, and nuclear waste facilities, the little robots drew a lot of attention. This project is a good example of how hacking can be used to support a cause by creating a mediagenic spectacle. Pair with Coleman, Greenberg and/or Olson to frame a discussion of the ethics and effectiveness of hacking and hacktivism.
@@ -132,8 +123,6 @@ Natalie Jeremijenko and her students hacked toy robots by adding chemical sensor
 
 * Artifact Type: Syllabus Collection
 * Source URL: <http://fab.cba.mit.edu/classes/863.14/>
-* Artifact Permissions: Unknown
-* Copy of Artifact: forthcoming
 * Creator: [MIT Center for Bits and Atoms](http://cba.mit.edu)
 
 This site collects the syllabi and student projects for a course that was offered by the MIT Center for Bits and Atoms a number of years in a row. Unless you have access to a complete fab lab, most of the projects and techniques will be out of reach. Besides being quite inspirational, however, the site is very useful in demonstrating how the ability to make (almost) anything often comes down to the ability to make a machine to make something. In my teaching, I usually try to involve students in building at least one complicated kit each year. Over the years we have built a dozen 3D printers, an analog electronic computer and a laser scanner. Now we are branching out to new kinds of desktop fabrication devices, mechanical computers, book scanners, and other things we would like to have for our lab space.
@@ -144,7 +133,6 @@ This site collects the syllabi and student projects for a course that was offere
 * Artifact Type: Blog
 * Source URL: <http://hackaday.com/blog/>
 * Artifact Permissions: Copyright 2016 Hackaday
-* Copy of Artifact: forthcoming
 * Creator: [Hackaday.com](http://hackaday.com/)
 
 The Hackaday blog posts links to a handful of interesting projects every day. Usually these are technically sweet, draw on a number of different skills to implement and teach some esoterica that might be put to use in another hack. Many of the projects are outside the abilities of most humanities students to implement by themselves, but with some guidance and support they might serve as or inspire a good term-length project. At the more accessible end of the spectrum are projects based on technologies like Arduino (e.g., “[Mechatronic Cat Ears for the Rest of Us](http://hackaday.com/2016/02/26/mechatronic-cat-ears-for-the-rest-of-us/)”). At the more aspirational end you can find things like [an electric wheelchair controlled with eye movements](https://hackaday.io/project/5426-eye-controlled-wheelchair) and [OpenBionics affordable prosthetic hands](https://hackaday.io/project/4745-openbionics-affordable-prosthetic-hands).
@@ -154,8 +142,6 @@ The Hackaday blog posts links to a handful of interesting projects every day. Us
 
 * Artifact Type: Virtuoso Hack
 * Source URL: <https://www.youtube.com/playlist?list=PL5DCEA197C1C07A2D>
-* Artifact Permissions: Unknown
-* Copy of Artifact: forthcoming
 * Creator: [Jeri Ellsworth](https://www.linkedin.com/in/jeriellsworth)
 
 When students start hacking with more confidence, aspirational role models become more important than accessible ones. Jeri Ellsworth is a self-taught engineer who fabricated her own transistors in her kitchen. These videos take you behind the scenes, providing detailed explanations of what she did and why. The magnitude of her accomplishment is best appreciated by pairing a viewing of these videos with readings from Riordan and Hoddeson’s *Crystal Fire*, and perhaps Shurkin’s biography of Shockley and/or Hoddeson and Daitch’s biography of Bardeen.

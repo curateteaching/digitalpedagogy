@@ -46,9 +46,9 @@ The Introduction to Digital Humanities course taught by Jentery Sayers, Assistan
 
 ###Makers and Makerspaces
 ![screenshot] (images/makerspaces-miller_syllabus.png)
-*Artifact Type: Syllabus
-*Source URL: [https://www.academia.edu/8338203/English_1101_Makerspaces](https://www.academia.edu/8338203/English_1101_Makerspaces)
-*Creator: Monica Miller
+* Artifact Type: Syllabus
+* Source URL: [https://www.academia.edu/8338203/English_1101_Makerspaces](https://www.academia.edu/8338203/English_1101_Makerspaces)
+* Creator: Monica Miller
 
 Monica Miller’s undergraduate course demonstrates how students to approach making as encompassing new modes of composition to enhance communication skills and knowledge beyond the traditional text. The course consists of an overview of the Maker Community and its practices, ideologies, and rhetorical strategies while embedding practical application in the form of maker project development. Miller’s course is one that extends easily to the fields of rhetoric and composition. This is because her approach to making is explicitly associated with rhetorical principles and multimodal forms of writing.
 
@@ -62,9 +62,9 @@ The Critical Making course developed by Matt Ratto, Associate Professor in the F
 
 ###Instructables
 ![screenshot] (images/makerspaces-instructables.png)
-*Artifact Type: Instruction Resource
-*Source URL: [http://www.instructables.com/](http://www.instructables.com/)
-*Creator: Various 
+* Artifact Type: Instruction Resource
+* Source URL: [http://www.instructables.com/](http://www.instructables.com/)
+* Creator: Various 
 
 Instructables is one of several wiki-style resources for the maker community. Two related sites include WikiHow and Bildr. Instructables was developed by MIT Media Lab graduates Eric WIlhelm and Saul Griffith. It was launched in 2005. It boasts instruction sets for creating hundreds of DIY projects. Many of the articles published on their website were developed by community members. Each published set of instructions includes a list of all materials that will be needed, detailed explanations for each step in the process, and still images of the project at each stage development. The site boasts a range of project that include everything from crafting and work working to soldering and circuit designing. 
 
@@ -72,18 +72,18 @@ Instructables is one of several wiki-style resources for the maker community. Tw
 
 ###Quilt Snaps
 ![screenshot] (images/makerspaces-quilt_snaps.png)
-*Artifact Type: Project
-*Source URL: [http://web.media.mit.edu/~leah/grad_work/projects/snaps/quilt_snaps.html](http://web.media.mit.edu/~leah/grad_work/projects/snaps/quilt_snaps.html)
-*Creator: Leah Buechley
+* Artifact Type: Project
+* Source URL: [http://web.media.mit.edu/~leah/grad_work/projects/snaps/quilt_snaps.html](http://web.media.mit.edu/~leah/grad_work/projects/snaps/quilt_snaps.html)
+* Creator: Leah Buechley
 
 Leah Buechley, former MIT professor whose work in the High-Low Tech Research Group focuses on high and low technologies from a critical perspective, created Quilt Snaps as a “personal and social” project that combines low-tech crafting processes with high-tech microprocessor configurations. Quilt Snaps uses textiles, conductive thread, and a variety of sensory inputs and outputs to generate varying mathematical outputs depending on the configuration of quilt squares snapped together. This example of e-textiles, a facet of the maker movement growing in popularity, involves both the process and community based aspects of maker culture. It presents an approachable, accessible project for critical material engagement and data generation. Her syllabus extends simultaneously to several disciplines that are not usually found together: e-textiles, design, and UX. Moreover, the way in which Buechley combines high with low technologies has the potential to introduce making to an more economically-diverse group of students and schools.broadens the audience for making to groups that have not been early-adopters of high tech.
 
 
 ###Feral Robotic Dogs
 ![screenshot] (images/makerspaces-feral_robotic_dogs.png)
-*Artifact Type: Project
-*Source URL: [http://www.nyu.edu/projects/xdesign/feralrobots/](http://www.nyu.edu/projects/xdesign/feralrobots/)
-*Creators: Natalie Jeremijenko, Will Kavesh, Jesse James Arnold
+* Artifact Type: Project
+* Source URL: [http://www.nyu.edu/projects/xdesign/feralrobots/](http://www.nyu.edu/projects/xdesign/feralrobots/)
+* Creators: Natalie Jeremijenko, Will Kavesh, Jesse James Arnold
 
 Coming out of New York University and Natalie Jeremijenko’s Xdesign Lab, Feral Robotic Dogs are a pack of cracked/hacked/modified robotic dog toys fitted with various environmental sensors, converting them from objects of commercial interest to tools for activism in a variety of ways. Teams working on different endeavors release these feral packs “into the wild” to sense environmental conditions human senses can’t otherwise detect. Given the criticisms of commercialization of the maker movement, the Feral Robotic Dogs project upends the market-driven nature of the products by turning them from objects with entertainment and monetary value to participants in research aimed at addressing real-world problems. Moreover, her approach to resonates with the post-humanities concepts and themes, which have been one of the cutting-edge approaches to humanities research and philosophy in the past two decades. 
 
@@ -123,9 +123,9 @@ The Maker Lab in the Humanities (MLab) at the University of Victoria facilitates
 
 ###Interactive Telecommunications Program (ITP) - NYU
 ![screenshot](images/makerspaces-itp_nyu.png)
-*Artifact Type: University Program/Makerspace(s)
-*Source URL: [http://tisch.nyu.edu/itp](http://tisch.nyu.edu/itp)
-*Creator: New York University, Tisch School of the Arts
+* Artifact Type: University Program/Makerspace(s)
+* Source URL: [http://tisch.nyu.edu/itp](http://tisch.nyu.edu/itp)
+* Creator: New York University, Tisch School of the Arts
 
 The Interactive Telecommunications Program in NYU’s Tisch School for the Arts is a two year program whose mission is to “explore the imaginative use of communication technologies -- how they might augment, improve, and bring delight and art into people’s lives” (ITP). ITP’s fourth floor is a premiere maker space and for facilitating its exploratory mission. The space supports work in  wide range of disciplines including e-textiles, and -wearables, interactive event spaces, and furniture design. One of the professors in the program is Tom Igoe, who was involved in the development of Arduino, and whose co-written book with Dan O’Sullivan, Introduction to Physical Computing, is an essential resource.
 

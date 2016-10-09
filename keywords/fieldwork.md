@@ -51,7 +51,6 @@ The curatorial vision informing our selection of fieldwork artifacts presents th
 ![screenshot](images/fieldworkInterracialintimacies.png)
 
 * Source: http://interracialintimacies.org/how_to.html
-* Copy of Artifact: forthcoming
 * Creators: Elise Chenier and Stacey Makortoff
 
 Interracial Intimacies is an interactive website and pedagogical tool that follows a historian on her journey from research question to published article. With detailed descriptions narrating every step of the process, historian Elise Chenier describes the process of historical fieldwork for students. Chenier begins with a question on Lesbian Bar Culture in Toronto in the 1950s and '60s, and navigates the circuitous path--through oral interviews, archival collection, and analysis of primary sources such as maps, newspaper reports, census data, marriage certifications, and photographs--towards the final published paper on interracial relationships between men of Chinese Heritage and women of Non-Asian Heritage in Toronto between 1910 and 1950. An example of oral history as fieldwork, and a how-to guide for aspiring historians, the interactive site demonstrates to students the various twists and turns involved in historical inquiry: "The thing about oral history is you never really know what you are going to find out."
@@ -60,7 +59,6 @@ Interracial Intimacies is an interactive website and pedagogical tool that follo
 ![screenshot](images/fieldworkDigitalstorytelling-assignment.png)
 
 * Source: http://www.melodybuckner.com/#!studyabroad/cx4z
-* Copy of the Artifact: forthcoming
 * Creator: Melody Buckner
 
 This website outlines a student assignment for designing digital stories within study abroad programs. It brings a popular genre of personal storytelling, spearheaded by the Berkeley Centre of Digital Storytelling, to the field, situating the digital story as the capstone project. Drawing on the emotional power of this genre, it encourages self-expression, self-discovery, and interactive narrative within a reflective fieldwork practice. Instructional support is provided in the form of assignment timelines, grading rubrics, storytelling tips, sample digital stories, and suggested story-making platforms. It designs its assignment around VoiceThread, a free web-based storytelling platform that allows users to mix text, images, and audio-visual recordings with social media functionality to bring work in the field to larger networks of family, friends, and peers. While based on a six-week study abroad trip, the assignment could be adapted for shorter or longer periods. Other free digital storytelling platforms could also be incorporated into the assignment.
@@ -69,7 +67,6 @@ This website outlines a student assignment for designing digital stories within 
 ![screenshot](images/fieldworkSustainabilitystories-digitalstudentfieldwork.png)
 
 * Source: http://fieldschools.geog.uvic.ca
-* Copy of the Artifact: forthcoming
 * Creator: Cam Owens
 
 This website showcases student digital fieldwork undertaken since 2012 during field courses centered on sustainability and run by the University of Victoria’s Department of Geography. Its purpose is to discuss and share "inspiring examples of sustainability, resilience, regeneration" relevant to local and international fieldwork. These examples find expression in a range of student digital stories, including short videos, travel blogs, and interactive maps on topics like the creation of biking networks in Victoria and urban efforts to battle climate change. What makes this website pedagogically useful is the curatorial vision it brings to digital fieldwork. Year by year, it compiles work by different students, at different stages of progress, and from different field courses, promoting a work-in-progress, team-based curatorial practice. Curation typically happens at one point; this website shows its integration in fieldwork, giving students a site for shared learning and expression, and instructors a model for collecting student fieldwork and giving value to it at various stages of development.
@@ -78,7 +75,6 @@ This website showcases student digital fieldwork undertaken since 2012 during fi
 ![screenshot](images/fieldworkFeministvideo.png)
 
 * Source: http://www.doingfeministtheory.ca/
-* Copy of the Artifact: forthcoming
 * Creators: Rachel Hurst, Rory Begin, and Holly Chute
 
 Students of a feminist theory course at St. Francis Xavier University were asked to consult with community groups in the field to create short, non-documentary digital videos (3-5 minutes in length) on a concept relevant to the study of feminist theory, such as decolonization, power, or sexual violence. "Inspired by the literatures on digital storytelling, participatory video, and creative feminist pedagogies," students met with community groups and organizations and scripted and directed their documentaries with their community partners in mind. This detailed assignment sheet provides students with step-by-step instructions for every stage of the process: from conceptualizing and planning to strategies for meeting and working with community partners; from providing a curated list of videos students could use for inspiration to technical information about filming and editing. In addition to the assignment, the website includes research outcomes and links to the student videos produced in the course.
@@ -87,7 +83,6 @@ Students of a feminist theory course at St. Francis Xavier University were asked
 ![screenshot](images/fieldworkWhywelikepinterestforfieldwork-digitaltool.png)
 
 * Source: https://socialmediacollective.org/2014/07/14/why-we-like-pinterest-for-fieldwork/
-* Copy of the Artifact: forthcoming
 * Creators: Phil Howard and Nikki Usher
 
 Developing an efficient data collection system during intensive fieldwork is challenging. Notes scribbled on paper and mistyped on devices are illegible or confusing, while photographs and videos quickly fill up cell phone storage. As data accumulates across platforms, it demands metadata to remain meaningful for inquiry and retrieval. This blog, produced by The Social Media Research Collective, proposes Pinterest as an in-field solution: an easy-to-use, web-based tool for storing, annotating, and sharing digital image artifacts collected during fieldwork. Available as a mobile app, Pinterest integrates the process of data capture and storage, allowing the user to retain rights over content. It is also linkable to social media feeds for immediate public sharing and presentation, or private sharing through closed boards.  Batch downloads allow for migration to other platforms. As a digital image archive of fieldwork artifacts gathered on the go, it also allows for ongoing review of fieldwork observations and practices. In clear language and via links to Pinterest boards used for fieldwork, this blog post lays out the potential value of this digital platform for in-field gathering, sharing, and storing of images.
@@ -96,7 +91,6 @@ Developing an efficient data collection system during intensive fieldwork is cha
 ![screenshot](images/fieldworkMillionImageDatabase.png)
 
 * Source: http://www.millionimage.org.uk/
-* Copy of the Artifact: forthcoming
 * Creators: The Institute for Digital Archaeology
 
 The Million Image Database is an open-access web portal into photographic documentation of cultural heritage materials gathered from around the world, particularly from regions whose heritage is at risk. Inspired by the collaborative work of Wikipedia to assemble the world's knowledge, the Institute of Digital Archaeology launched this open social fieldwork project in collaboration with UNESCO and other academic partners. With the mission of becoming a photographic storehouse of the world’s cultural heritage, the site gathers images of objects, architecture, and places to document and preserve "humanity's history as represented by the things we build" for now and the future. By clicking on interactive maps, users can gain access, for example, to high-quality anaglyph images of sites such as Jebel Hafit Tombs in United Arab Emirates, which is rendered immersive by three-dimensional glasses. The database depends entirely on its user community: the Institute accepts all contributions via diverse communications channels and equips local  volunteer photographers from around the world with "lightweight, discreet, and easy-to-use 3D cameras." It asserts no copyright over these images, and makes them available to exchange freely and without attribution. Though still in development, this database has the potential to become an important resource for digital heritage and virtual fieldwork as well as a teaching and learning platform for raising complex debates about citizen fieldwork, cultural rights and appropriation, and digital repatriation. 
@@ -105,7 +99,6 @@ The Million Image Database is an open-access web portal into photographic docume
 ![screenshot](images/fieldworkAJourneyUpstream-documentarytrailer.png)
 
 * Source: https://vimeo.com/78530205
-* Copy of the Artifact: forthcoming
 * Creators: Directed and Produced by Erica Kowsz; Co-Produced by Nathan Goodale
 
 This is a trailer for a documentary titled, "A Journey Upstream: The Past and Presence of an 'Extinct' People," directed by archaeology graduate student, Erica Kowsz, and part of SEARCH, a multi-institutional archaeology, cultural heritage, and linguistics project. The project aims to document the history and continued presence of the Sinixt Nation in British Columbia, despite it having been pronounced "extinct" in 1956 by the Canadian Government. As an example of student digital fieldwork, the short video demonstrates the crucial role that technology brings to documentation, with interviews of the supposedly "extinct" members of Sinixt Nations. Although currently in the data collection stage, the video is an example of project staging, providing the public with some access to the historical context and aims of the project in advance of completion. The project also demonstrates how students use multimedia to create and disseminate archaeological and anthropological research. The video, reflecting a preliminary stage of research, does not address directly the complex issues of ownership and management of the documentary videos. 
@@ -114,7 +107,6 @@ This is a trailer for a documentary titled, "A Journey Upstream: The Past and Pr
 ![screenshot](images/fieldworkBiscTV.png)
 
 * Source: https://youtu.be/PCSzXG536BU
-* Copy of the Artifact: forthcoming
 * Creators: BISCtv (Bader International Study Centre YouTube Channel)
 
 In this promotional video, visiting fellow, Chris Jones, describes the Field School in Digital Humanities, offered in 2015, where students visit two medieval parish churches in Surrey containing historical objects that Jones is digitizing: a 1615 King James Bible and various medieval wall paintings. The aim of the field school is to investigate which digitizing technologies are appropriate for the artifacts. Jones advocates for site-specific research, to assess historical artifacts in the sites in which they would have been viewed and experienced and to also understand their social and material significance. With the wall paintings, for example, he notes that simply creating high-resolution digital photos may distort online users’ experience, as the paintings would have been viewed by candlelight and were obscured for reasons of censorship for much of their history. The need for site-specific sensitivity demands a fieldwork approach to the work of digital humanities. The video raises directly the question of the adequacy of digital photography and videography as a documentary tool, suggesting the need for contextualization through other media. 
@@ -123,7 +115,6 @@ In this promotional video, visiting fellow, Chris Jones, describes the Field Sch
 ![screenshot](images/fieldworkRomeLab.png)
 
 * Source: http://www.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=6bfc7de39700434bbc9c1df48fed8b52
-* Copy of the Artifact: forthcoming
 * Creators: Christopher Johanson
 
 Using the analogy of a text-based critical edition, RomeLab recreates three critical editions of the Roman Forum, for 210 BCE, 160 BCE, and 44 BCE. Developed within ArcGIS online using ArcMap shapefiles in Esri CityEngine, the project virtually reconstructs the Roman Forum at historical moments within interactive, three-dimensional interfaces. The interface allows the user to navigate within the reconstruction and view it from different perspectives. A form of virtual fieldwork that reconstitutes an archaeological site, the researchers’ aim is to create "digital laboratories" where individuals can have a virtual world experience. These digital laboratories enable students and scholars to bring the field home, with digital technology enhancing what can be seen on site, opening up new spatial perspectives and virtually reconstructing buildings that no longer exist. A built-in comparison tool uses a split-screen function to visualize different possible reconstructions, where data sources are uncertain or conflicting. The tool can thus allow a screen-based fieldwork, as students and scholars can virtually reconstruct buildings in ways impossible on-site.
@@ -132,7 +123,6 @@ Using the analogy of a text-based critical edition, RomeLab recreates three crit
 ![screenshot](images/fieldworkCHIfieldschool-coursewebsite1.png)
 
 * Source: http://anthropology.msu.edu/2013chifieldschool/
-* Copy of the Artifact: forthcoming
 * Creators: Ethan Watrall
 
 The 2013 Cultural Heritage Informatics Fieldschool website has everything instructors need for thinking about how fieldwork can happen locally in the digital age. Students build digital skills related to the field of cultural heritage, concentrating on visualizing cultural data and undertaking data-intensive fieldwork on a range of sites. In reconceptualizing fieldwork as a critical practice of "building as a way of knowing" rather than as a spatial practice of exotic displacement, the course (and the fieldschool entire) prioritizes the development of work on campus over going out into the field. It also explores distance as a condition of fieldwork knowledge, instead of localization. Instead of a team of student researchers leaving home for a six-week period at a foreign locale, the group comes together in an immersive and intensive work setting to engage in digital research around cultural heritage, using and aggregating existing large volumes of data for projects on, for example, "Endangered African Heritage." The potential for cultural fieldwork to distance itself from its exoticist colonial legacies of travelling from the centre to the periphery and back to extract new knowledge thus emerges with digitally-oriented research practices, described in depth on this course site through course objectives, assignments, schedules, projects, and resource lists. 

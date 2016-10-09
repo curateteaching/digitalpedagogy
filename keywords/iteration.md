@@ -57,7 +57,6 @@ Below are ten examples of iteration in digital pedagogy, organized into three di
 
 * Artifact Type: Portfolio assignment
 * Source: [http://www.wordsinspace.net/mapsmedia/fall2015/requirements-assignments/](http://www.wordsinspace.net/mapsmedia/fall2015/requirements-assignments/)
-* Copy of Artifact:
 * Creators: Shannon Mattern, New School Graduate Studio<br />  
 
 In Shannon Mattern’s Maps as Media course, students produce a final portfolio of maps—an atlas—comprised of five different mapping approaches to one subject. The course asks students to “experiment with a variety of critical mapping tools and methods, from techniques of critical cartography to sensory mapping to time-lining, using both analog and digital approaches.” Students have produced atlases on politics in Sri Lanka, the body, counter-maps to NYPD’s “locations of [Muslim] concern,” and every brewery in Brooklyn since 1840. In producing multiple mapped perspectives on one subject, students see the gaps between their iterations and learn the limitations of mapping: “not everything is mappable, and not everything belongs on a map” (Mattern, “Map as Metaphor”). Although this assignment is from a masters-level course, it would scale to a project-based undergraduate course.
@@ -71,7 +70,6 @@ Additional student examples: http://www.wordsinspace.net/wordpress/2013/12/18/ma
 
 * Artifact Type: Syllabus
 * Source: [https://jentery.github.io/508/](https://jentery.github.io/508/ "Prototyping Texts syllabus")
-* Copy of Artifact:
 * Creators: Jentery Sayers, University of Victoria<br />    
 
 In this course, Jentery Sayers invites both undergraduates and graduate students to push against notions of Digital Humanities as instrumental, ahistorical or non-interpretive. Students perform “interpretation through alteration” of the texts under scrutiny by "prototyping" them in metadata, plain text/markup, typography, forms, glitch, and repair (Sayers). To alter/prototype/iterate these texts, they “substitute words, change formats, rearrange poems, remediate fictions, juxtapose images, bend texts, and reconstitute book arts” (Sayers). In so doing, students learn how making and iterating can be a form of criticism, and reinvigorate the now-depoliticized concept of iteration itself. Student examples include handmade books, overlapping Word documents, twitterbots, and even [a knitted interpretation of Queneau’s One Hundred Thousand Billion Poems](https://508prototypepage.wordpress.com/2016/04/06/week-12-knit-it/).
@@ -110,7 +108,6 @@ Collin Brooke’s undergraduate writing course was explicitly modeled on Queneau
 
 * Artifact Type: Syllabus
 * Source: [http://leonardoflores.net/3238/](http://leonardoflores.net/3238/)
-* Copy of Artifact:
 * Creators: Leonardo Flores, University of Puerto Rico: Mayagüez<br />
 
 Leonardo Flores’s “Digital Creative Writing” course, in which students compose hypertext, Twine, Netprov, kinetic typography, memes, Twitterbots, and remixes of Nick Montfort’s Taroko Gorge or Christopher Strachey’s “Love Letter Generator," is a rich resource for iterative digital pedagogy. Flores calls these genres “generative writing,” suggesting that it is writing both generated and generative. Here, generating an interesting collection matters more than any given iteration; proliferation is the pedagogical point. A nice pairing with Flores's assignments might be James Brown, Jr.’s “Writing with machines: data and process in Taroko Gorge,” which offers a theoretical perspective and reference to historical precedence in Oulipo and cut-ups.
@@ -125,7 +122,6 @@ Student Twitterbots: [@atinyzoo](https://twitter.com/atinyzoo) [@BadNewsLetter](
 
 * Artifact Type: Assignment
 * Source: http://courses.rachaelsullivan.com/248/internet-poetry.html
-* Copy of Artifact:
 * Creators: Rachael Sullivan, St. Joseph’s University<br />
 
 With inspiration and theoretical background from Kenneth Goldsmith’s “uncreative writing,” Rachael Sullivan asked her undergraduate students in “Information Overload: Literature and Contemporary Life” to compose poetry from found texts online, imitating a popular image-macro form. She showcases examples of “Internet literature,” where “Everything on the list either [1] responds to internet culture as a theme, [2] uses features of the internet (such as hyperlinking) as literary techniques, or [3] depends on the internet as a distribution platform” (“Assignment”). By composing their own "Internet poetry" from language found online, students used an iterative process to recontextualize and reconsider issues of information overload. This resource is just one example of ways instructors could have students iterate on found language online.
@@ -143,7 +139,6 @@ With inspiration and theoretical background from Kenneth Goldsmith’s “uncrea
 [“Emotion in 60 seconds”](files/iteration-Emotionin60-Campbell.pdf) </br>
 https://composedm2016.wordpress.com/mini-challenges/ </br>
 https://composedm2016.files.wordpress.com/2016/01/hall_engcmp0610s_cdm_audiocutup1.pdf
-* Copy of Artifacts:
 * Creators: Scott Lloyd DeWitt, The Ohio State University;
 Trisha Campbell, Salisbury University;
 Lauren Rae Hall, University of Pittsburgh<br />
@@ -168,7 +163,6 @@ Tim Lockridge's undergraduate Digital Publishing course teaches students about t
 
 * Artifact Type: Assignment
 * Source: http://spelmanwrites384.tumblr.com/post/142041620452/week-11
-* Copy of Artifact:
 * Creator: Alexandria Lockett, Spelman College<br />
 
 This assignment asks students to produce three iterations of a public biography, combine them, and respond to each other’s work as “creative consultants.” It is part of Alexandria Lockett’s “Rhetoric of Advertising” course, which moves beyond a traditional, analytical frame and asks students to think about “strategic communication” and how they “brand” and present themselves online. Lockett aims to help students with strategic and proactive self-presentation in “a space where race, gender, and geography mediate students' relationship to privacy and their perception of legitimate public displays of 'professional identity’” (personal communication, May 18, 2016). Working toward that goal, these versioned bios help students to recognize and shape the impact of different iterations of themselves online--an important goal in social media courses.
