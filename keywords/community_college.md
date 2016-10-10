@@ -137,11 +137,9 @@ Word clouds are relatively commonplace on the Seattle Central College campus (e.
 
 ###Making Podcasts to Support Research-based Writing and Reflection
 
-![screenshot](images/community_college_podcast.jpeg)
- 
-Type: Assignment and Student Work
-
 ![screenshot](images/community_college_podcast.jpg)
+
+Type: Assignment and Student Work
 
 [Source](files/podcast.pdf)
 
