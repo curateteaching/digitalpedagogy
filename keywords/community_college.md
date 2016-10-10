@@ -15,6 +15,7 @@ Bethany Holmstrom, Assistant Professor of English, LaGuardia Community College
 * draft version undergoing editorial review
 * draft version undergoing peer-to-peer review
 * published 
+
 --- 
 
 ## CURATORIAL STATEMENT
@@ -73,7 +74,7 @@ Harper College’s Grendel, designed by Richard Johnson and Kurt Neuman as part 
 
 ###American Literature Syllabus with Digital Humanities Labs
 
-![screenshot](iamges/community_college_americanlit.png)
+![screenshot](images/community_college_americanlit.png)
 
 Source: http://blogs.lanecc.edu/dhatthecc/teachingnotesfall2012/american-literature-i-and-ii-syllabus-with-dh-labs/
 
@@ -136,11 +137,13 @@ Word clouds are relatively commonplace on the Seattle Central College campus (e.
 
 ###Making Podcasts to Support Research-based Writing and Reflection
 
-![screenshot](iamges/community_college_podcast.jpeg)
+![screenshot](images/community_college_podcast.jpeg)
  
 Type: Assignment and Student Work
 
-[Source](Pocast.pdf)
+![screenshot](images/community_college_podcast.jpg)
+
+[Source](files/podcast.pdf)
 
 Creators: Dominique Zino, Assistant Professor of English, LaGuardia Community College; Vilma and Carmen, LaGuardia Community College students
 
