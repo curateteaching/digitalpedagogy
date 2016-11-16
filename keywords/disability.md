@@ -21,8 +21,8 @@ University of Michigan | [http://kuiama.net](http://kuiama.net)
 ---
 
 ##### Publication Status:
-* **unreviewed draft**  
-* draft version undergoing editorial review 
+* unreviewed draft    
+* **draft version undergoing editorial review**  
 * draft version undergoing peer-to-peer review 
 * published
 
