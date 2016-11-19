@@ -85,7 +85,7 @@ Finally, the examples we include all explore, in different ways, what we call ki
 ## CURATED ARTIFACTS 
 
 #### ALie Nation
-![ALie Nation](images/ALie Nation.jpg)
+![ALie Nation](images/ALieNation.png)
 
 * Source URL:  https://www.youtube.com/watch?v=WhlKs_3Srj0 
 * Creator: A Tribe Called Red
@@ -93,7 +93,7 @@ Finally, the examples we include all explore, in different ways, what we call ki
 ALie Nation as a site of activation from which students can begin to reflect on the complex relationships between Indigeniety, modernity, and digital space. The urban environment A Tribe Called Red captures, moves through, and writes over, is registered not simply as a space of oppression for Indigenous peoples (although that critique is nonetheless present), but of possible futures, in which modernity, and the gaze itself is captured from a top-down, Indigenous POV. We suggest that the poetics of its title.  A Lie Nation is, of course, an Alien nation, a society of immigrants convinced of their native belonging to stolen land. But the deeper lie may also be the Ally-Nation, a citizenry that loudly asserts its apologies and goodwill while leaving the colonial machinery to run unabated. Instructors inspired by this video might ask students to reflect on poetics of its title and the Jeremy Bentham inspired logo featured within it. What does "alienation" mean within the contexts of the digital? How are ATCR mobilizing those same spaces towards Indigenous resistance and resurgence?
 
 #### Ashes on the Water
-![Ashes on the Water](images/ashes.jpg)
+![Ashes on the Water](images/Ashes.jpg)
 
 * Source URL: http://neworldtheatre.com/portfolio-item/podplays/ 
 * Creator: Quelemia Sparrow
@@ -101,7 +101,7 @@ ALie Nation as a site of activation from which students can begin to reflect on 
 Ashes on the Water is a podplay, a piece of interactive theatre that audiences download onto a smartphone and then listen to while walking on a particular piece of land. Ashes is set on Squamish territory in what is now known as CRAB PARK in Vancouver, British Columbia. It tells the story of the Women's Paddle Song, which was written by Squamish people in 1886 as they rowed across the Burrard Inlet to rescue settlers fleeing Vancouver's Great Fire. Instructor's interested in this piece might ask students to consider the ways in which Sparrow's work closes the gap between the digital and the material, or to consider the ways in which storytelling works as an augmentative technology. This piece is best experienced on the land itself, but  for those not in Vancouver it stands as a story on its own. It can also be experienced from a distance using Google Maps.
  
 #### Podcast Pedagogy 
-![Podcast Pedagogy](images/Podcast Pedagogy.jpg)
+![Podcast Pedagogy](images/PodcastPedagogy.jpg)
 
 * Source URL: https://rebadeguevara.wordpress.com/2015/12/31/podcast-pedagogy-stories-from-the-land/
 * Creator: Reba De Guevera 
@@ -109,7 +109,7 @@ Ashes on the Water is a podplay, a piece of interactive theatre that audiences d
 "Podcast Pedagogy" is an example of a final blog post assignment written by an undergraduate student for FNIS 401F (Indigenous New Media and Digital Storytelling) taught at the University of British Columbia. In the post the author explore the relationships between land, storytelling, and digital technologies via a close reading of Ryan's MacMahon's podcast Stories from the Land. The blog post is an excellent example of close reading practices as applied to podcasting and Indigenous storytelling and can be integrated into syllabi as a prompt for students writing on similar topics. 
 
 #### Where the Red Receives Me
-![Where the Red Receives Me](images/Where the Red Receives Me.jpg)
+![Where the Red Receives Me](images/WheretheRedReceivesMe.png)
 
 * Source URL: http://www.philome.la/chloerlendson/where-the-red-receives-me/play
 * Creator: Chloe Erlendson 
@@ -117,7 +117,7 @@ Ashes on the Water is a podplay, a piece of interactive theatre that audiences d
 "Where the Red Receives Me" is a digital storytelling assignment written by an undergraduate student for FNIS 401F. For this assignment, the student used Twine (workshopped in class) to remediate a poem written by the student's mother about her Metis identity. The story works well in classrooms as an example of the ways in which family and community stories can be shared and revitalized through digital media. "Where the Red Receives Me" is also a good example of the type of interactive storytelling that can be done using Twine in the classroom.   
  
 #### FNIS 454: Indigenous New Media and Digital Storytelling
-![FNIS 454](images/FNSP 401F.jpg)
+![FNIS 454](images/fnsp401f.png)
 
 * Source URL: https://novelalliances.com/2016/10/30/fnis-454-indigenous-new-media-and-digital-storytelling/
 * Creator: David Gaertner
@@ -125,7 +125,7 @@ Ashes on the Water is a podplay, a piece of interactive theatre that audiences d
 FNIS 454 represents an entire upper-level course built around the intersections and divergences of critical Indigenous studies and new media/digital studies. The syllabus provides a number of primary and secondary sources as well as assignments and rationale. FNIS 454 (or portions thereof) can be used and adapted for courses on new media and digital studies contending with Indigenous studies, futurisms, and critical race studies.
 
 #### "Poor Impulse Control": Remediation as a Decolonial Reading Practice
-![Poor Impulse Control](images/Poor Impulse Control.jpg)
+![Poor Impulse Control](images/PoorImpulseControl.jpg)
 
 * Source URL: https://novelalliances.com/2016/05/27/poor-impulse-control-remediation-as-a-decolonial-reading-practice/ 
 * Creator: David Gaertner
@@ -141,15 +141,15 @@ FNIS 454 represents an entire upper-level course built around the intersections 
 CyberPowWow was the first interactive, online, Indigenous art gallery running from 1997-2004. Using software from the Palace (early graphical chatroom platform owned and operated by Time Warner), Mohawk artist Skawennati curated artworks created by Indigenous artists in a linked, interactive space. Artists then convened in those spaces via avatars (also designed by Indigenous artists) to share and discuss the work. A large part of how CyberPowWow was imagined was in the performativity of the space: participants and their conversations were core to how the art and poetics of the piece functioned. In this sense, the gallery was an early instantiation of Web 2.0 thinking. CyberPowWow went dark in 2004, so it is no longer "live," in the same sense, but students and teachers can still explore some of the visual and written pieces created for it in the curated link. Indeed, sharing what is left of CyberPowWow in the classroom is a great way to bring some of the original intent back to the work: having people come together collectively to view and discuss Indigenous artwork in cyberspace.  
 
 #### *God's Lake Narrows*
-![God's Lake Narrows](images/Gods Lake Narrows.jpg)
+![God's Lake Narrows](images/GodsLakeNarrows.png)
 
 * Source URL: http://godslake.nfb.ca/#/godslake
 * Creator: Kevin Lee Burton
 
-God's Lake Narrows is an interactive website written and designed by Swampy Cree artist Kevin Lee Burton. The website is based on an installation piece that Burton originally conceived for the Urban Shaman Gallery in Winnipeg, Manitoba. Both the installation and the website were conceived as spaces to introduce non-Indigenous people, who would likely never visit IRL, to life on Burton's reservation and thus disrupt many of the stereotypes about reservation life. What makes Burton's work so provocative is how he uses technology to provide access to home, but also how he brings Internet and Indigenous protocols together to evoke hospitality and guesthood in that space. Teachers can use this piece t initiate conversation about the relationship between Indigenous land and cyberspace and Internet protocol and community protocol.
+*God's Lake Narrows* is an interactive website written and designed by Swampy Cree artist Kevin Lee Burton. The website is based on an installation piece that Burton originally conceived for the Urban Shaman Gallery in Winnipeg, Manitoba. Both the installation and the website were conceived as spaces to introduce non-Indigenous people, who would likely never visit IRL, to life on Burton's reservation and thus disrupt many of the stereotypes about reservation life. What makes Burton's work so provocative is how he uses technology to provide access to home, but also how he brings Internet and Indigenous protocols together to evoke hospitality and guesthood in that space. Teachers can use this piece t initiate conversation about the relationship between Indigenous land and cyberspace and Internet protocol and community protocol.
 
 #### *Honour Water*
-![Honour Water](images/Honor Water.jpg)
+![Honour Water](images/Honorwater.jpg)
 
 * Source URL: http://www.honourwater.com/
 * Creator: Elizabeth LaPensée
@@ -157,7 +157,7 @@ God's Lake Narrows is an interactive website written and designed by Swampy Cree
 Elizabeth LaPensée's *Honour Water* app is a methodology of repatriating Indigenous land and life as in motion, in migrations, and in the Indigenous movements of water, sonic waves. *Honour Water* becomes a decolonizing technology repatriating Indigenous intelligence, activating waterways through voicing forms of "sonic intimacies" (Mark Campbell) in digital space/time.
 
 #### We Sing for Healing
-![We Sing for Healing](images/we sing for healing.jpg)
+![We Sing for Healing](images/wesingforhealing.jpg)
 * Source URL: http://survivance.org/wesing/ 
 * Creator: Elizabeth LaPensée
 
