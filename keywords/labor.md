@@ -32,7 +32,7 @@ University of North Texas | [http://spencerkeralis.com/](http://spencerkeralis.c
 
 ## CURATORIAL STATEMENT 
 
-REBECCA: Your curatorial statement and several of your artifacts highlight the challenges of hidden digital labor, but I also see hints of the work you do helping students successfully negotiate a digital labor market to have more agency with their own digital labor.  Can you more positively frame that in your curatorial statement and annotations.  I see this theme, for example, in the artifact ÒBuild Your Own WebsiteÓ and in the mention of personal advocacy with the "Student CollaboratorsÕ Bill of Rights.Ó  When I read the your keyword now I get a strong sense of the negative polemic critiquing hidden labor, but not as much of a sense of what students might learn through their labor.
+REBECCA: Your curatorial statement and several of your artifacts highlight the challenges of hidden digital labor, but I also see hints of the work you do helping students successfully negotiate a digital labor market to have more agency with their own digital labor.  Can you more positively frame that in your curatorial statement and annotations.  I see this theme, for example, in the artifact "Build Your Own Website" and in the mention of personal advocacy with the "Student Collaborators' Bill of Rights."  When I read the your keyword now I get a strong sense of the negative polemic critiquing hidden labor, but not as much of a sense of what students might learn through their labor.
 
 
 ###The spectrality of labor###
