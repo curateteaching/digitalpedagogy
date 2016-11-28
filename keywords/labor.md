@@ -32,15 +32,15 @@ University of North Texas | [http://spencerkeralis.com/](http://spencerkeralis.c
 
 ## CURATORIAL STATEMENT 
 
-REBECCA: Your curatorial statement and several of your artifacts highlight the challenges of hidden digital labor, but I also see hints of the work you do helping students successfully negotiate a digital labor market to have more agency with their own digital labor.  Can you more positively frame that in your curatorial statement and annotations.  I see this theme, for example, in the artifact “Build Your Own Website” and in the mention of personal advocacy with the "Student Collaborators’ Bill of Rights.”  When I read the your keyword now I get a strong sense of the negative polemic critiquing hidden labor, but not as much of a sense of what students might learn through their labor.
+REBECCA: Your curatorial statement and several of your artifacts highlight the challenges of hidden digital labor, but I also see hints of the work you do helping students successfully negotiate a digital labor market to have more agency with their own digital labor.  Can you more positively frame that in your curatorial statement and annotations.  I see this theme, for example, in the artifact √íBuild Your Own Website√ì and in the mention of personal advocacy with the "Student Collaborators√ï Bill of Rights.√ì  When I read the your keyword now I get a strong sense of the negative polemic critiquing hidden labor, but not as much of a sense of what students might learn through their labor.
 
 
 ###The spectrality of labor###
-Labor is the means of production of a product, and often the work of production is conflated with the work produced. This conflation collapses the relationship between the mode of production and the thing produced which, perhaps paradoxically, serves to hide labor behind the thing it generates. Labor, like work, is what William James described as "a double-barreled word," in which subject and object converge and intertwine. In the digital production environment this convergence can make it challenging to ensure that those who do the work on digital projects receive proper credit and compensation for the work they perform. While there has been for some time a preoccupation among humanities scholars about recognition of digital projects for tenure and promotion, this conversation has largely precluded discussion of other aspects of labor in relation to digital modes of production in the academy. The emphasis on acknowledgment of individual scholars' work in the tenure process ignores the contributions of interdisciplinary collaborators --librarians, technologists, and students--to a project. [*The Collaborator's Bill of Rights*](http://mcpress.media-commons.org/offthetracks/part-one-models-for-collaboration-career-paths-acquiring-institutional-support-and-transformation-in-the-field/a-collaboration/collaborators%E2%80%99-bill-of-rights/"The Collaboratorís Bill of Rights") offers a soft corrective to this trend, providing principles for recognizing this work within a specific community of practice, and others have developed [Memoranda of Understanding](https://uta-ir.tdl.org/uta-ir/handle/10106/25646 "UT-Arlington Libraries Memorandum of Understanding") defining credit, compensation, and limits for contributors to a digital project. Any consideration of labor in digital pedagogy must be conscious of the complexity of labor within the digital work environment.
+Labor is the means of production of a product, and often the work of production is conflated with the work produced. This conflation collapses the relationship between the mode of production and the thing produced which, perhaps paradoxically, serves to hide labor behind the thing it generates. Labor, like work, is what William James described as "a double-barreled word," in which subject and object converge and intertwine. In the digital production environment this convergence can make it challenging to ensure that those who do the work on digital projects receive proper credit and compensation for the work they perform. While there has been for some time a preoccupation among humanities scholars about recognition of digital projects for tenure and promotion, this conversation has largely precluded discussion of other aspects of labor in relation to digital modes of production in the academy. The emphasis on acknowledgment of individual scholars' work in the tenure process ignores the contributions of interdisciplinary collaborators --librarians, technologists, and students--to a project. [*The Collaborator's Bill of Rights*](http://mcpress.media-commons.org/offthetracks/part-one-models-for-collaboration-career-paths-acquiring-institutional-support-and-transformation-in-the-field/a-collaboration/collaborators%E2%80%99-bill-of-rights/"The Collaborator‚Äôs Bill of Rights") offers a soft corrective to this trend, providing principles for recognizing this work within a specific community of practice, and others have developed [Memoranda of Understanding](https://uta-ir.tdl.org/uta-ir/handle/10106/25646 "UT-Arlington Libraries Memorandum of Understanding") defining credit, compensation, and limits for contributors to a digital project. Any consideration of labor in digital pedagogy must be conscious of the complexity of labor within the digital work environment.
 
 REBECCA: This paragraph nicely defines labor then redefines it in a digital context.  
    
-The labor network necessary to produce digital projects is complex, ranging from the physical labor of maintaining hardware and the infrastructure essential to these projects, to hybrid labor ["in which machines combine with humans to perform tasks"](http://www.digitalhumanities.org/dhq/vol/5/3/000102/000102.html "New Media in the Academy") in software or with devices, to scripted tasks performed automatically within systems, to the writing of those scripts, to the knowledge work that serves as the intellectual foundation of a project, to the instrumentalized labor of workers who perform repetitive tasks that cannot be scripted. An individual at one point on the spectrum of these projects may be wholly unaware of the other labor going on elsewhere, so the scholar using a digital library may not know that the materials they rely on were digitized by students or other minimum-wage workers whose work is not acknowledged on the library's website. Their labor is rendered invisible, alienable, and is easily effaced and taken for granted. So, with apologies to Marx, if there is a spectre haunting digital pedagogy, it is the spectre of labor. The aim of this particular collection of artifacts is to help students perform a séance of sorts, to make visible the spectral labor that haunts our shared digital house.
+The labor network necessary to produce digital projects is complex, ranging from the physical labor of maintaining hardware and the infrastructure essential to these projects, to hybrid labor ["in which machines combine with humans to perform tasks"](http://www.digitalhumanities.org/dhq/vol/5/3/000102/000102.html "New Media in the Academy") in software or with devices, to scripted tasks performed automatically within systems, to the writing of those scripts, to the knowledge work that serves as the intellectual foundation of a project, to the instrumentalized labor of workers who perform repetitive tasks that cannot be scripted. An individual at one point on the spectrum of these projects may be wholly unaware of the other labor going on elsewhere, so the scholar using a digital library may not know that the materials they rely on were digitized by students or other minimum-wage workers whose work is not acknowledged on the library's website. Their labor is rendered invisible, alienable, and is easily effaced and taken for granted. So, with apologies to Marx, if there is a spectre haunting digital pedagogy, it is the spectre of labor. The aim of this particular collection of artifacts is to help students perform a s√©ance of sorts, to make visible the spectral labor that haunts our shared digital house.
 
 REBECCA: I'm wondering if it would be too big to think beyond labor on digital projects to labor in digital contexts, i.e., the digital work environment you mention above.  I am thinking of the gig economy and the easy ability to outsource digital work.  That may be beyond the scope of this keyword, but it is the world facing our students and I see some of your artifacts aimed at helping to prepare them for that world.  
 
@@ -73,9 +73,9 @@ REBECCA: How are these issues addressed in the sciences where there is a longer 
 ###The Price of an Internship###
 ![screenshot](images/labor-propublica.JPG) 
 
-* Artifact Type: Pro Publicaís ongoing investigation of unpaid internship practices at American universities.
+* Artifact Type: Pro Publica‚Äôs ongoing investigation of unpaid internship practices at American universities.
 * Source URL: [http://projects.propublica.org/internships/](http://projects.propublica.org/internships/)
-* Artifact Permissions: © 2015 Pro Publica Inc.
+* Artifact Permissions: ¬© 2015 Pro Publica Inc.
 * Copy of the Artifact: N/A
 * Creators and Affiliations: Blair Hickman, Mike Tigas, and Sisi Wei, ProPublica
 
@@ -84,9 +84,9 @@ The Pro Publica investigation of college internship programs compares costs of t
 ###Guidelines for Evaluating Work in Digital Humanities and Digital Media###
 ![screenshot](images/labor-mla.JPG)  
 
-* Artifact Type: The Modern Language Associationís guidelines ìto help departments and faculty members implement effective evaluation procedures for hiring, reappointment, tenure, and promotionî of faculty working on digital projects.
+* Artifact Type: The Modern Language Association‚Äôs guidelines ‚Äúto help departments and faculty members implement effective evaluation procedures for hiring, reappointment, tenure, and promotion‚Äù of faculty working on digital projects.
 * Source URL: [https://www.mla.org/About-Us/Governance/Committees/Committee-Listings/Professional-Issues/Committee-on-Information-Technology/Guidelines-for-Evaluating-Work-in-Digital-Humanities-and-Digital-Media](https://www.mla.org/About-Us/Governance/Committees/Committee-Listings/Professional-Issues/Committee-on-Information-Technology/Guidelines-for-Evaluating-Work-in-Digital-Humanities-and-Digital-Media)
-* Artifact Permissions:  © 2016 Modern Language Association of America
+* Artifact Permissions:  ¬© 2016 Modern Language Association of America
 * Copy of the Artifact: N/A
 * Creators and Affiliations: MLA Committee on Information Technology
 
@@ -107,7 +107,7 @@ Written primarily for "evaluators" of digital work for promotion and tenure, the
 
 REBECCA: From this description, it sounds like you have an assignment in mind already that uses this artifact and the previous artifact.  Would it be better to use that as your artifact?  Although these are separate artifacts, they seem to play a similar role.
 
-###ìThe Ladies Vanishî###
+###‚ÄúThe Ladies Vanish‚Äù###
 ![screenshot](images/labor-ladiesvanish.jpg)  
 
 * Artifact Type: Essay from The New Inquiry describing the invisible labor of the mostly-African American and Latino women who work as digitizers for Google Books.
@@ -116,7 +116,7 @@ REBECCA: From this description, it sounds like you have an assignment in mind al
 * Copy of the Artifact: N/A
 * Creators and Affiliations:  Shawn Wen
 
-The essay "The Ladies Vanish" reflects on the feminization of labor in digital production, particularly types of labor that cannot be computerized or scripted: "women complete the tasks that men have not yet programmed computers to do, the tasks that make their 'genius' and their 'innovation' possible." An exposé of labor inequity in the tech field as a whole, the essay's focus on the invisible labor behind digitization projects like Google Books sets the stage for critical engagement with other content providers. The essay's premise can be used to effectively interrogate the invisibility of the labor that produces any large-scale digitization project, from small scale digital exhibits, to the content hubs that populate the Digital Public Library of America. Students should ask of these projects, "who does the work?" "how and how much are they compensated?" and "how are they credited on the site?"
+The essay "The Ladies Vanish" reflects on the feminization of labor in digital production, particularly types of labor that cannot be computerized or scripted: "women complete the tasks that men have not yet programmed computers to do, the tasks that make their 'genius' and their 'innovation' possible." An expos√© of labor inequity in the tech field as a whole, the essay's focus on the invisible labor behind digitization projects like Google Books sets the stage for critical engagement with other content providers. The essay's premise can be used to effectively interrogate the invisibility of the labor that produces any large-scale digitization project, from small scale digital exhibits, to the content hubs that populate the Digital Public Library of America. Students should ask of these projects, "who does the work?" "how and how much are they compensated?" and "how are they credited on the site?"
 
 ###LaborArts###
 ![screenshot](images/labor_laborarts.JPG)  
@@ -135,7 +135,7 @@ The essay "The Ladies Vanish" reflects on the feminization of labor in digital p
 
 * Artifact Type: Student-authored "episode" on the *Keating-Owen Child Labor Act of 1916* on *History Engine*, written for the course "America From Civil War to World Stage" at Widener University in Fall 2011.
 * Source URL: [https://historyengine.richmond.edu/episodes/view/5309](https://historyengine.richmond.edu/episodes/view/5309)
-* Artifact Permissions: Digital Scholarship Lab © 2008-2015 The University of Richmond, [https://historyengine.richmond.edu/pages/about/terms_of_service](https://historyengine.richmond.edu/pages/about/terms_of_service) 
+* Artifact Permissions: Digital Scholarship Lab ¬© 2008-2015 The University of Richmond, [https://historyengine.richmond.edu/pages/about/terms_of_service](https://historyengine.richmond.edu/pages/about/terms_of_service) 
 * Copy of the Artifact: N/A
 * Creators and Affiliations:  No author noted.
 
@@ -208,7 +208,7 @@ Coats, Lauren, and Gabrielle Dean. "Archive." *Digital Pedagogy in the Humanitie
 
 Cordell, Ryan. "Build Your Own Website." Texts, Maps, Networks: Digital Literary Studies. Northeastern University, Fall 2014. http://f14tmn.ryancordell.org/assignments/build-your-own-website/ 
 
-Di Pressi, Haley, Stephanie Gorman, Miriam Posner, Raphael Sasayama, and Tori Schmitt. *A Student Collaboratorsí Bill of Rights.* UCLA Digital Humanities, 2015. http://www.cdh.ucla.edu/news-events/a-student-collaborators-bill-of-rights/
+Di Pressi, Haley, Stephanie Gorman, Miriam Posner, Raphael Sasayama, and Tori Schmitt. *A Student Collaborators‚Äô Bill of Rights.* UCLA Digital Humanities, 2015. http://www.cdh.ucla.edu/news-events/a-student-collaborators-bill-of-rights/
 
 Drake, Perry D. "Is Your Use of Social Media FERPA Compliant?" *EDUCAUSEreview* February 24, 2014. http://er.educause.edu/articles/2014/2/is-your-use-of-social-media-ferpa-compliant
 
