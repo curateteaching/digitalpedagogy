@@ -13,6 +13,8 @@ publisher: Modern Language Association
 type: book
 ---
 
+REBECCA: Editorial comments by Rebecca Frost Davis are included inline below following "REBECCA:" for each paragraph of feedback. I begin with overall feedback before the curatorial statement, then add more inline comments mostly following the paragraph to which the feedback applies.
+
 # LABOR (Draft)
 
 ## Spencer D.C. Keralis
@@ -21,8 +23,8 @@ University of North Texas | [http://spencerkeralis.com/](http://spencerkeralis.c
 ---
 
 ##### Publication Status:
-* **unreviewed draft**
-* draft version undergoing editorial review
+* unreviewed draft
+* **draft version undergoing editorial review**
 * draft version undergoing peer-to-peer review
 * published 
 
@@ -30,17 +32,28 @@ University of North Texas | [http://spencerkeralis.com/](http://spencerkeralis.c
 
 ## CURATORIAL STATEMENT 
 
+REBECCA: Your curatorial statement and several of your artifacts highlight the challenges of hidden digital labor, but I also see hints of the work you do helping students successfully negotiate a digital labor market to have more agency with their own digital labor.  Can you more positively frame that in your curatorial statement and annotations.  I see this theme, for example, in the artifact “Build Your Own Website” and in the mention of personal advocacy with the "Student Collaborators’ Bill of Rights.”  When I read the your keyword now I get a strong sense of the negative polemic critiquing hidden labor, but not as much of a sense of what students might learn through their labor.
+
+
 ###The spectrality of labor###
 Labor is the means of production of a product, and often the work of production is conflated with the work produced. This conflation collapses the relationship between the mode of production and the thing produced which, perhaps paradoxically, serves to hide labor behind the thing it generates. Labor, like work, is what William James described as "a double-barreled word," in which subject and object converge and intertwine. In the digital production environment this convergence can make it challenging to ensure that those who do the work on digital projects receive proper credit and compensation for the work they perform. While there has been for some time a preoccupation among humanities scholars about recognition of digital projects for tenure and promotion, this conversation has largely precluded discussion of other aspects of labor in relation to digital modes of production in the academy. The emphasis on acknowledgment of individual scholars' work in the tenure process ignores the contributions of interdisciplinary collaborators --librarians, technologists, and students--to a project. [*The Collaborator's Bill of Rights*](http://mcpress.media-commons.org/offthetracks/part-one-models-for-collaboration-career-paths-acquiring-institutional-support-and-transformation-in-the-field/a-collaboration/collaborators%E2%80%99-bill-of-rights/"The Collaboratorís Bill of Rights") offers a soft corrective to this trend, providing principles for recognizing this work within a specific community of practice, and others have developed [Memoranda of Understanding](https://uta-ir.tdl.org/uta-ir/handle/10106/25646 "UT-Arlington Libraries Memorandum of Understanding") defining credit, compensation, and limits for contributors to a digital project. Any consideration of labor in digital pedagogy must be conscious of the complexity of labor within the digital work environment.
+
+REBECCA: This paragraph nicely defines labor then redefines it in a digital context.  
    
 The labor network necessary to produce digital projects is complex, ranging from the physical labor of maintaining hardware and the infrastructure essential to these projects, to hybrid labor ["in which machines combine with humans to perform tasks"](http://www.digitalhumanities.org/dhq/vol/5/3/000102/000102.html "New Media in the Academy") in software or with devices, to scripted tasks performed automatically within systems, to the writing of those scripts, to the knowledge work that serves as the intellectual foundation of a project, to the instrumentalized labor of workers who perform repetitive tasks that cannot be scripted. An individual at one point on the spectrum of these projects may be wholly unaware of the other labor going on elsewhere, so the scholar using a digital library may not know that the materials they rely on were digitized by students or other minimum-wage workers whose work is not acknowledged on the library's website. Their labor is rendered invisible, alienable, and is easily effaced and taken for granted. So, with apologies to Marx, if there is a spectre haunting digital pedagogy, it is the spectre of labor. The aim of this particular collection of artifacts is to help students perform a séance of sorts, to make visible the spectral labor that haunts our shared digital house.
+
+REBECCA: I'm wondering if it would be too big to think beyond labor on digital projects to labor in digital contexts, i.e., the digital work environment you mention above.  I am thinking of the gig economy and the easy ability to outsource digital work.  That may be beyond the scope of this keyword, but it is the world facing our students and I see some of your artifacts aimed at helping to prepare them for that world.  
 
 ###Curation###
 As with [archival selection](https://digitalpedagogy.commons.mla.org/keywords/archive/ "Archive"), the labor choices made on digital projects reflect the values of the scholars and project managers responsible for those projects, within the context of institutional realities. The exposure many students receive to digital production in the classroom takes the form of them performing this labor on a faculty project without credit or compensation. Under the rubrics of skills building and exposure to active research, this has become a common, if not entirely unchallenged, practice in digital humanities in particular. The artifacts selected here offer a disruption of that pedagogic narrative. These artifacts can guide a student through an understanding of digital production ranging from analysis of existing projects to hands-on work crafting their own digital project online, all with a common theme of labor. The questions asked of each artifact can be applied to other, similar artifacts relevant to an individual course, or an individual instructor's or student's interests. Students will be encouraged to identify specific means of production, and determine where credit or compensation is given, and under what conditions the labor is performed. The artifacts begin with models for advocacy and evaluation, moving toward analyses of specific archives, projects, and digital products, to exercises which provide students the opportunity to both produce their own digital project, and to reflect on the modes of production necessary to do that work.  
 
 To be clear, this is not an argument against students doing "work" in class. From seminar papers to digital portfolios, doing some form of intellectual or practical labor to demonstrate understanding and applied skills is a necessary cornerstone of most if not all pedagogy. However, student work created in the classroom is generally understood as ["Creator-Owned Intellectual Property"](https://research.unt.edu/sites/default/files/08-Intellectual%20Property_%20Research%20Intellectual%20Property_0.pdf "UNT Research Intellectual Property Policy") under most university policies. This distinction is blurred when students are used as uncredited labor on faculty projects as part of their coursework. In addition to questions of intellectual property, there may be implications under the Family Educational Rights and Privacy Act (FERPA) for sharing student work online, similar to concerns about classroom use of [social media](http://er.educause.edu/articles/2014/2/is-your-use-of-social-media-ferpa-compliant "Is Your Use of Social Media FERPA Compliant?"). And finally, the use of student labor in the classroom also hides the cost--in labor and in money--of digital scholarship from institutions, and effectively passes that cost onto students in the form of student debt accrued to pay for classes. Any use of student labor in the classroom must take all of these issues--and likely many others--into consideration.  
 
+REBECCA: Can you more explicitly develop this point? "doing some form of intellectual or practical labor to demonstrate understanding and applied skills is a necessary cornerstone of most if not all pedagogy."  How can we engage students in this labor without exploiting them?  How can we help them become agents of their own labor?
+
 The digital labor environment can be difficult to understand. By giving students assignments that help them recognize and understand the real labor behind the websites and widgets, and to recognize the people who perform that labor, we can equip them with the ability to value labor and to advocate on behalf of themselves and others. In a landscape in which there are many forces competing to alienate and obscure the labor of students, women, people of color, and the underclass of digital workforce, equipping students to own their labor provides them with a crucial survival skill. 
+
+REBECCA: I think your final paragraph makes an important larger point that goes beyond critique of digital projects for hiding the labor of contributors and collaborators.  What skills and abilities do students need to develop to operate in the digital labor environment?  Are there modes of labor they should learn?
 
 ## CURATED ARTIFACTS 
 
@@ -54,6 +67,8 @@ The digital labor environment can be difficult to understand. By giving students
 * Creators and Affiliations: Haley Di Pressi, Stephanie Gorman, Miriam Posner, Raphael Sasayama, and Tori Schmitt, all UCLA; with contributions from Roderic Crooks, Megan Driscoll, Amy Earhart, Spencer Keralis, Tiffany Naiman, and Todd Presner
 
 *The Student Collaborators' Bill of Rights* offers principles to which "those embarking on collaboration with students [should] adhere." Published by the UCLA Center for Digital Humanities, the *Bill of Rights* was developed in collaboration with students, based on their experiences in digital humanities classes. The *Bill of Rights* reflects on the power inequities that are inevitable when student labor in the classroom is used to support faculty projects.  The *Bill of Rights* could be effectively integrated into course syllabi as an up-front, positive declaration of the rights of students. The *Bill of Rights* could also be used as a point of discussion for students, helping them build skills in personal advocacy, and empowering them to value their labor and recognize inequities when they occur.
+
+REBECCA: How are these issues addressed in the sciences where there is a longer history of student-faculty collaborative research?
 
 ###The Price of an Internship###
 ![screenshot](images/labor-propublica.JPG) 
@@ -75,7 +90,9 @@ The Pro Publica investigation of college internship programs compares costs of t
 * Copy of the Artifact: N/A
 * Creators and Affiliations: MLA Committee on Information Technology
 
-Originally drafted in 2000, these guidelines address the need for the labor of faculty with produces digital work to be recognized for tenure and promotion: "Academic work in digital media must be evaluated in the light of these rapidly changing technological, institutional, and professional contexts, and departments should recognize that many traditional notions of scholarship, teaching, and service are being redefined." Students are often largely unaware of the processes underlying faculty appointment and retention, the adjunctification of teaching labor, and the architectures of power that shape and institutionalize these processes. Introducing a document like this to students can help facilitate discussion of these issues, which can be valuable for students considering graduate school or academic careers. The criteria introduce questions of media specificity, accessibility, and roles and responsibilities on projects that can be useful in reviewing and evaluating classroom projects, or when looking at exemplar projects and platforms.
+Originally drafted in 2000, these guidelines address the need for the labor of faculty who produce digital work to be recognized for tenure and promotion: "Academic work in digital media must be evaluated in the light of these rapidly changing technological, institutional, and professional contexts, and departments should recognize that many traditional notions of scholarship, teaching, and service are being redefined." Students are often largely unaware of the processes underlying faculty appointment and retention, the adjunctification of teaching labor, and the architectures of power that shape and institutionalize these processes. Introducing a document like this to students can help facilitate discussion of these issues, which can be valuable for students considering graduate school or academic careers. The criteria introduce questions of media specificity, accessibility, and roles and responsibilities on projects that can be useful in reviewing and evaluating classroom projects, or when looking at exemplar projects and platforms.
+
+REBECCA: What do these guidelines say about this profession? What connections might students make in thinking about their own working future.
 
 ###Short Guide to Evaluation of Digital Work###
 ![screenshot](images/labor-shortguide.JPG) 
@@ -87,6 +104,8 @@ Originally drafted in 2000, these guidelines address the need for the labor of f
 * Creators and Affiliations:  Geoffrey Rockwell
 
 Written primarily for "evaluators" of digital work for promotion and tenure, the Short Guide provides a checklist of questions to ask about a project, what to look for in evaluating a project, and ideas for finding "experts" to consult about digital work. Substantially more specific than the MLA Guidelines above, the Short Guide emphasizes substantially different priorities as well, including a sharper focus on competitive funding and external review. Invite students to adapt the two sets of guidelines into evaluation rubrics. Have them use the two sets of guidelines to evaluate a published/public project. Does the project get different marks based on which set of guidelines is used to evaluate it? Have them use the rubrics for peer-evaluation of student projects in the classroom. Which rubric is geared more toward advocating for the interests of the people doing the project, and which toward protecting the interests of the evaluator or the institution?  
+
+REBECCA: From this description, it sounds like you have an assignment in mind already that uses this artifact and the previous artifact.  Would it be better to use that as your artifact?  Although these are separate artifacts, they seem to play a similar role.
 
 ###ìThe Ladies Vanishî###
 ![screenshot](images/labor-ladiesvanish.jpg)  
@@ -100,7 +119,7 @@ Written primarily for "evaluators" of digital work for promotion and tenure, the
 The essay "The Ladies Vanish" reflects on the feminization of labor in digital production, particularly types of labor that cannot be computerized or scripted: "women complete the tasks that men have not yet programmed computers to do, the tasks that make their 'genius' and their 'innovation' possible." An exposé of labor inequity in the tech field as a whole, the essay's focus on the invisible labor behind digitization projects like Google Books sets the stage for critical engagement with other content providers. The essay's premise can be used to effectively interrogate the invisibility of the labor that produces any large-scale digitization project, from small scale digital exhibits, to the content hubs that populate the Digital Public Library of America. Students should ask of these projects, "who does the work?" "how and how much are they compensated?" and "how are they credited on the site?"
 
 ###LaborArts###
-![screenshot](images/labor-laborarts.JPG)  
+![screenshot](images/labor_laborarts.JPG)  
 
 * Artifact Type: *LaborArts* is a site featuring digital collections and online exhibits of images curated to "further understanding of the past and present lives of working people."
 * Source URL: [http://www.laborarts.org/](http://www.laborarts.org/)
@@ -122,6 +141,8 @@ The essay "The Ladies Vanish" reflects on the feminization of labor in digital p
 
 *History Engine* purports to teach students "the craft of an historian" by giving them experience working with primary documents and related secondary sources, and writing analysis of the sources for public consumption. However, student authors are uncredited on the "episodes" they write, and author is not a searchable term in the site's advanced search options. *History Engine* can be used to empower students to ask questions about authorship and intellectual property in doing digital work in the classroom. Useful exercises might include searching college websites to determine how much students paid per credit hour to contribute to the Engine, or discussing how to cite a work whose author has been rendered invisible. What does rendering student authors invisible teach them about "the craft of an historian"? 
 
+REBECCA: Is there a case where student labor should remain anonymous? 
+
 ###Digital Labor, Urban Space, and Materiality###
 ![screenshot](images/labor-posner.JPG)  
 
@@ -132,6 +153,8 @@ The essay "The Ladies Vanish" reflects on the feminization of labor in digital p
 * Creators and Affiliations:  Miriam Posner, UCLA
 
 This course examines the "real people in real places" who are involved in the transmission and storage of information. The emphasis on labor in the syllabus is grounded in space with a focus on Los Angeles, and in time, recognizing both historical trends and present issues. Through readings and hands-on exercises, students worked together to develop a digital publication, *Devices*, which collects group-authored essays telling the story of an electronic object:  "iPad," "Google Glass," etc. Students were asked to include reflections on their methodology, explaining the choices they made, and describing each team member's role on the final project. The students' final projects are available on the website, and each contributor is credited. Student reflections include observations about tech glitches, the ways tech can be an obstacle to collaboration, and how roles were defined on the project team.
+
+REBECCA: I appreciate that you present this positive example of acknowledging labor.  Beyond getting credit for their work, what to students learn from their labor? Are their other nuances to digital labor illustrated by this artifact?
 
 ###Millican "Riot," 1868###
 ![screenshot](images/labor-millican.png)  
@@ -144,6 +167,8 @@ This course examines the "real people in real places" who are involved in the tr
 
 Part of a growing suite of projects under Amy Earhart and Toneisha Taylor's  *White Violence, Black Resistance* project, *Millican "Riot," 1868* curates digital artifacts related to an early incident of race-motivated violence that has been effectively erased from the scholarly record. The project reflects on how events can be rendered invisible to history, and demonstrates how digital platforms can recover these events by making digital artifacts visible to scholars and the public. The metadata tag "Contributors" credits students who worked on adding artifacts to the collections. This project offers a model of how Omeka.net (the free version of the platform) can be used for a class project in which students make individual contributions for which they are acknowledged. Students gain practical experience in metadata and controlled vocabularies, digitization, curation, and using content management systems.
 
+REBECCA: I appreciate that you present this positive example of acknowledging labor.  Beyond getting credit for their work, what to students learn from their labor? Are their other nuances to digital labor illustrated by this artifact?  How does this artifact differ from the previous example?  
+
 ###Build Your Own Website###
 ![screenshot](images/labor-cordell.JPG)  
 
@@ -154,6 +179,9 @@ Part of a growing suite of projects under Amy Earhart and Toneisha Taylor's  *Wh
 * Creators and Affiliations:  Ryan Cordell, Northeastern University
 
 This assignment gives students the opportunity to create their own website, with their own domain name, on which they can complete course assignments. Students purchase their own domain through Reclaim Hosting, install Wordpress, customize their theme, and install plugins to facilitate their work. While constructing a site provides students with some basic technical experience in working with and customizing a content management system, the exercise also helps them become accustomed to sharing their work in a much larger environment than is typically expected for a class assignment. Crafting an online persona in the manner of those digital humanities scholars "known just as readily by their [online] monikers . . . as by their actual names" prepares students for sharing their work with both a scholarly community and potentially wider publics. While the option of blogging anonymously is offered, the emphasis is on creating a web presence that can "rhetorically position yourself in relation to your studies and your career goals."
+
+REBECCA: Can you explicitly draw out how digital identity relates to labor?
+
 
 ##Resources##
 
