@@ -1,4 +1,4 @@
- ---
+---
 title: Digital Pedagogy in the Humanities
 subtitle: Concepts, Models, and Experiments
 chapter: Digital Divides
@@ -12,7 +12,6 @@ editor:
 publisher: Modern Language Association
 type: book
 ---
-
 
 # GAMING
 
