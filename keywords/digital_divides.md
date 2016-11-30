@@ -13,7 +13,7 @@ publisher: Modern Language Association
 type: book
 ---
 
-# GAMING
+# DIGITAL DIVIDES
 
 ## Annemarie Perez
 California State University-Dominguez Hills | [Website](Website)
