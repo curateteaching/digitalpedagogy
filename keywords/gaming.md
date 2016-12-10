@@ -56,7 +56,7 @@ These resources are intended for instructors who are looking to supplement their
 ![screenshot](images/gaming-Close-Playing.png)
 * Artifact Type: Methodology
 * Source URL: [http://www.edmondchang.com/2010/11/11/close-playing-a-meditation/](http://www.edmondchang.com/2010/11/11/close-playing-a-meditation/) 
-* Artifact Permissions: Public blog
+* Artifact Permissions: Public blog, © Copyright 2016  ED(MOND)CHANG(ED)AGOGY
 * Copy of the Artifact: 
 * Creator and Affiliation: Edmond Chang (University of Oregon)
 
@@ -67,7 +67,7 @@ Ed Chang’s reflection on the concept of “close playing” is an important an
 
 * Artifact Type: Assignment
 * Source URL: [https://youtu.be/3h7iHD-lI0g](https://youtu.be/3h7iHD-lI0g) 
-* Artifact Permissions: Public video
+* Artifact Permissions: Public video, Standard YouTube License
 * Copy of the Artifact:  
 * Creator and Affiliation: Lily Zhu (University of Texas at Austin) and Casey Sloan (University of Texas at Austin)
 
@@ -81,7 +81,7 @@ With the rising popularity of gameplay streaming and YouTube channels and decrea
 
 * Artifact Type: Lesson Plan
 * Source URL: [http://www.tannerhiggin.com/2011/03/videogames-as-critical-race-pedagogy/ ](http://www.tannerhiggin.com/2011/03/videogames-as-critical-race-pedagogy/) 
-* Artifact Permissions: Public blog
+* Artifact Permissions: [Creative Commons Attribution-ShareAlike License 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 * Copy of the Artifact: 
 * Creator and Affiliation: Tanner Higgin (Common Sense Education)
 
@@ -173,7 +173,7 @@ This activity is useful for talking about the theoretical concept of intersectio
 
 * Artifact Type: Design Framework
 * Source URL: https://www.metrac.org/resources/power-to-the-people-anti-oppression-game-design-essay/ 
-* Artifact Permissions: Free download from METRAC
+* Artifact Permissions: Free download from METRAC, Copyright 2011 IGI Global
 * Copy of the Artifact: 
 * Creator and Affiliation: Andrea Gunraj (METRAC), Susana Ruiz (University of California, Santa Cruz; Take Action Games), Ashley York (University of Southern California; Take Action Games)
 
