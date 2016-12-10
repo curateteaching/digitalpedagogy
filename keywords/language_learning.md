@@ -108,7 +108,7 @@ language knowledge while developing their digital skills.
 ## CURATED ARTIFACTS (ten artifacts, each with metadata, a screenshot, and a 150-word annotation)
 
 ### Acceso – Spanish
-![screenshot](images/language_learning-)
+![screenshot](images/language_learning-acceso.png)
 * Artifact Type: Webpage 
 * Source URL:  [http://acceso.ku.edu](http://acceso.ku.edu) 
 * Artifact Permissions: 
@@ -131,7 +131,7 @@ current best practices in foreign language teaching. Thus, it makes the most of
 technological tools to enhance the students’ learning experience.
 
 ### Digital stories in the Language Classroom
-![screenshot](images/language_learning-)
+![screenshot](images/language_learning-digital-stories.png)
 * Artifact Type: Article 
 * Source URL: [http://fltmag.com/digital-stories/](http://fltmag.com/digital-stories/) 
 * Artifact Permissions: 
@@ -197,7 +197,7 @@ that addressed their recognition and understanding of hashtags, asking the
 students to make sense of them in the context of the larger tweet.
 
 ### Identity text
-![screenshot](images/language_learning-)
+![screenshot](images/language_learning-identity-text.png)
 * Artifact Type: digital story 
 * Source URL:  	
 * Artifact Permissions: (provided by creator)
@@ -242,7 +242,7 @@ indicate whether the error occurs at the beginning, middle, or end of a sentence
 which helps learners see the error in context.
 
 ### Poco a poco
-![screenshot](images/language_learning-)
+![screenshot](images/language_learning-poco-a-poco.png)
 * Artifact Type: A short movie showing acoustic analysis software  
 * Source URL: [https://ecomma.coerll.utexas.edu](https://ecomma.coerll.utexas.edu) 
 * Artifact Permissions: (provided by creator) 
@@ -265,7 +265,7 @@ levels could complete podcasts to practice their pronunciation and enunciation,
 provide comments to one another, and reflect on their progress.
 
 ### Sonnenallee
-![screenshot](images/language_learning-)
+![screenshot](images/language_learning-sonnenallee.png)
 * Artifact Type: website 
 * Source URL: [http://sonnenallee.wikispaces.com/](http://sonnenallee.wikispaces.com/) 
 * Artifact Permissions: 
@@ -287,7 +287,7 @@ is that students can discuss their project, and its structure and organization
 by leaving posts in the discussion board feature on the wiki.
 
 ### Telecollaboration
-![screenshot](images/language_learning-)
+![screenshot](images/language_learning-telecollaboration.png)
 * Artifact Type: Syllabus 
 * Source URL: [https://ecomma.coerll.utexas.edu](https://ecomma.coerll.utexas.edu) 
 * Artifact Permissions: (provided by creator) 
