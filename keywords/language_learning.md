@@ -12,6 +12,7 @@ editor:
 publisher: Modern Language Association
 type: book
 ---
+REBECCA: Editorial comments by Rebecca Frost Davis are included inline below following "REBECCA:" for each paragraph of feedback. I begin with overall feedback before the curatorial statement, then add more inline comments mostly following the paragraph to which the feedback applies.
 
 # LANGUAGE LEARNING (Draft)
 
@@ -21,12 +22,13 @@ University of Maryland, Baltimore County (UMBC) | Website
 ---
 
 ##### Publication Status:
-* **unreviewed draft** 
-* draft version undergoing editorial review 
+* unreviewed draft
+* **draft version undergoing editorial review** 
 * draft version undergoing peer-to-peer review 
 * published
 
 ---
+REBECCA: It is notable that in several of the examples you share, the social element moves beyond the classroom. You might highlight that theme. You might also more explicitly link back to the communicative aspects of language learning in your artifact annotations.
 
 ## CURATORIAL STATEMENT 
 
@@ -79,6 +81,8 @@ qualitatively. Yet, when integrating all these tools it is imperative to keep in
 mind the communicative purposes of the different media, and not get sidetracked
 by their novelty.
 
+REBECCA: Could you break up the sentence beginning, "In Addition" above? It gets a bit complex.
+
 The artifacts presented provide examples of meaningful implementations of
 digital technology for language learning, including enhancing students’ writing,
 reading, speaking, and listening skills; helping them in their cultural
@@ -102,7 +106,7 @@ feedback on his learners’ essays, or an article that describes the main steps
 when developing a digital story. All these tools and projects enhance students’
 language knowledge while developing their digital skills. 
 
-
+REBECCA: Developing identities as language learners builds student agency.  Do you want to add another sentence explaining why it is important that they develop their digital skills?
 
 
 ## CURATED ARTIFACTS (ten artifacts, each with metadata, a screenshot, and a 150-word annotation)
@@ -130,6 +134,8 @@ pedagogical perspective, the curriculum is research-based and in line with
 current best practices in foreign language teaching. Thus, it makes the most of
 technological tools to enhance the students’ learning experience.
 
+REBECCA: Entering the virtual Spanish-speaking world is an important point. This is an important point. Do you want to link it back to the communicative focus articulated at the beginning of your curatorial statement?
+
 ### Digital stories in the Language Classroom
 ![screenshot](images/language_learning-digital-stories.png)
 * Artifact Type: Article 
@@ -154,6 +160,8 @@ software to successfully combine text, images, and sound to create a new
 meaning.  The sample rubrics (see Appendix 2A and 2B) highlight the instructors’
 relevant elements within the context of their classes.
 
+REBECCA: Can you add a gloss for the abbreviation, L2? I think this is the first time you use it.
+
 ### eComma
 ![screenshot](images/language_learning-eComma.png)
 * Artifact Type: website 
@@ -173,6 +181,8 @@ benefit of this tool is that it allows learners to not only post multiple
 comments but also to reply to their classmates’ entries.  In a collaborative
 effort, learners both read the text and each others’ comments, resulting in
 nuanced and creative text analysis.
+
+REBECCA: In your annotation, I think you are getting at the social learning allowed by this tool. Can you make that more explicit?
 
 ### Hashtag
 ![screenshot](images/language_learning-hashtag.png)
@@ -196,6 +206,8 @@ week, 30 tweets in total). To analyze the tweets, learners answered questions
 that addressed their recognition and understanding of hashtags, asking the
 students to make sense of them in the context of the larger tweet.
 
+REBECCA: Can you make explicit how this digital activity connects back to communicative competence? It is implicit.
+
 ### Identity text
 ![screenshot](images/language_learning-identity-text.png)
 * Artifact Type: digital story 
@@ -217,6 +229,8 @@ including a “dramatic question” in their stories, they were asked to depict
 their idiosyncrasies and include their learning styles and strategies. Because
 they were expected to use video or photo-editing programs, these students also
 developed their digital literacy.
+
+REBECCA: This work around identity would build students' agency as learners.
 
 ### Nunca había sido tan feliz
 ![screenshot](images/language_learning-nunca.png)
@@ -241,6 +255,9 @@ instructor can use the cursor to hover over the area where the error is, or
 indicate whether the error occurs at the beginning, middle, or end of a sentence
 which helps learners see the error in context.
 
+REBECCA: Can we get permission to use a copy of a screencast?  Why is this program important for language learning as opposed to some other discipline?
+
+
 ### Poco a poco
 ![screenshot](images/language_learning-poco-a-poco.png)
 * Artifact Type: A short movie showing acoustic analysis software  
@@ -264,6 +281,8 @@ focusing on Spanish phonetics, learners from different languages and language
 levels could complete podcasts to practice their pronunciation and enunciation,
 provide comments to one another, and reflect on their progress.
 
+REBECCA: This artifact demonstrates more social learning. Are these podcasts publicly available with an intended public audience?
+
 ### Sonnenallee
 ![screenshot](images/language_learning-sonnenallee.png)
 * Artifact Type: website 
@@ -285,6 +304,8 @@ the first and subsequent drafts.  The editing possibility of the wiki allows
 students to help and correct each other’s errors. An additional benefit of wikis
 is that students can discuss their project, and its structure and organization
 by leaving posts in the discussion board feature on the wiki.
+
+REBECCA: This annotation provides good details on the mechanics of this assignment but can you tie it back to the importance of this artifact? Why is this a good example of digital pedagogy?
 
 ### Telecollaboration
 ![screenshot](images/language_learning-telecollaboration.png)
@@ -308,6 +329,8 @@ of the online written conversation. In pairs the students in the US and Spain
 (in their own classes) wrote a “critical summary”, which would be the basis for
 a PowerPoint to be uploaded to Google Plus. At the end of the semester, also in
 pairs, students in each country completed a podcast based on one of the topics.
+
+REBECCA: Again here you offer good details and an excellent example, but can you get to the larger point of why it is distinctive digital pedagogy.  You might comment on the communicative opportunities, the global collaboration, how collaboration drives deeper communication, etc.
 
 ### What’s happeNING?
 ![screenshot](images/language_learning-Whats-happeNING.jpg)
