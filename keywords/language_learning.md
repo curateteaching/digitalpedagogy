@@ -32,7 +32,12 @@ University of Maryland, Baltimore County (UMBC) | Website
 
 There is no question that today’s foreign language (FL) learning reflects the increasing relevance of the development of learners’ communicative competence (Partnership for 21st Century Skills 2011). It is not about learning the technical aspects of language, usually grammar, but about how to use the language for communicative purposes. As such, in recent decades standards or guidelines for FL learning, such as the pedagogical framework of the Standards for Foreign Language Learning (National Standards) in the United States or the European Reference Framework (European Commission) in Europe have emphasized that language learning needs to move beyond the pure linguistic elements to include “the sociolinguistic and cultural aspects of the language” (National Standards 1). The European Commission, on its part, states that FL learning
 
-	> is based on the ability to understand, express and interpret concepts, thoughts, feelings, facts and opinions in both oral and written form (listening, speaking, reading and writing) in an appropriate range of societal and cultural contexts (in education and training, work, home and leisure) according to one’s wants or needs. Communication in foreign languages also calls for skills such as mediation and intercultural understanding. (5)
+	> is based on the ability to understand, express and interpret concepts, thoughts, 
+	feelings, facts and opinions in both oral and written form (listening, speaking, 
+	reading and writing) in an appropriate range of societal and cultural contexts (in 
+	education and training, work, home and leisure) according to one’s wants or needs. 
+	Communication in foreign languages also calls for skills such as mediation and 
+	intercultural understanding. (5)
 
 Albeit using different terminology, both frameworks expect individuals to achieve knowledge of vocabulary, functional grammar, and awareness of the main types of verbal interaction and registers of language—to gain knowledge of societal conventions and the cultural aspects and variability of languages; become lifelong language learners; and have a positive attitude and appreciation of cultural diversity, together with an interest and curiosity in languages and intercultural communication.
 
