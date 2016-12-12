@@ -203,4 +203,4 @@ Siemens, George “Learning Ecology, Communities, and Networks: Extending the Cl
 
 Wenger, E. “Communities of practice and social learning systems: the career of a concept.” In Blackmore, C. (Editor) *Social Learning Systems and communities of practice.* Springer Verlag and the Open University, 2010.
 
-Wenger, E. & B Trayner. “How is a community of practice different from an informal network in regard to social learning?” Web. 28 December 2011. http://wenger-trayner.com/resources/communities-versus-networks/ 
+Wenger, E. & B. Trayner. “How is a community of practice different from an informal network in regard to social learning?” Web. 28 December 2011. http://wenger-trayner.com/resources/communities-versus-networks/ 
