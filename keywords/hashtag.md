@@ -93,7 +93,7 @@ Warnick's assignment is included here as an example of setting a class onto diff
 
 TAGS is a small program that downloads Twitter data (tweets and their metadata, retrieved by hashtag) into a Google spreadsheet, offering a low-barrier entry point for class exercises in which students are asked to collect and curate hashtags. Also note that various syllabi featuring this software are included under the "About" tab, and resources for articulating concerns regarding the breadth of API access and search restriction are addressed throughout the site. It is also worth noting that other programs can also do this work, for instance this even simpler though slightly more limited IFTTT applet, or the more complex to learn but far more powerful twarc method developed by Ed Summers.
 
-## Making Communities Cluster
+## MAKING COMMUNITIES 
 
 _The materials collected here offers ways of thinking about how hashtags are used to collate and curate social media utterances, and how social media participation itself can be articulated to students as a kind of making in which a researcher is participating, rather than only imagining social media as a resource or an "object" of study. This perspective highlights how hashtags contribute both to the work of public discourse, and also to moments of community building._ 
 
@@ -127,7 +127,7 @@ A "hashtag syllabus" is a crowd-sourced reading, viewing, and discussion list th
 
 The #LemonadeSyllabus is a bit different from the other hashtag syllabi in how it was created to be disseminated both online and on paper, which speaks to questions of access to digital materials, and also bespeaks the hashtag syllabus' relationship to another historical form for creating intellectual publics -- the pamphlet. The #LemonadeSyllabus is also unique insofar as its rationale not only focuses on bringing a variety of cultural materials -- film, book, music -- into conversation with Beyoncé Knowles-Carter's visual album, _Lemonade_, but also encourages users to initiate their own creative acts as paths to scholarly engagement. In blurring the lines between public and private, "scholarly" and "creative," the #LemonadeSyllabus highlights how crowd-sourced hashtag work can work to address intra-community diversity. 
 
-## Historicizing the Present Cluster
+## HISTORICIZING THE PRESENT
 
 _The following materials offer a case study for how hashtag data offers a material basis for other kinds of community work and scholarship, for instance producing histories of people's responses to contemporary events. This includes thinking about the ethical stakes of such work, particularly around matters of community property, surveillance, and sousveillance._ 
 
@@ -142,7 +142,7 @@ _The following materials offer a case study for how hashtag data offers a materi
 DocNow describes itself as both a tool and "a community developed around supporting the ethical collection, use, and preservation of social media content." It is not only included here because of the work the group is doing, but also because DocNow's organizational description itself offers a useful entry point for helping students to break habits of imagination that allow them to miss important connections between community activism, scholarship, and the digital tools that enable much of that work. Perusing this site also helps students see a model for how much digital humanities work is done by teams, with members bring different primary concerns and skillsets to the organizational table. Many of the tools and strategies outlined here are reflected in the other artifacts in this collection for instance hashtag collation software, or by hashtag syllabi -- but DocNow demonstrates how all of these things might be fit together into a larger project. This provides a "real world" example for the kinds of skills they develop in smaller classroom assignments. 
 
 ### "Doing Right Online: Archivists Shape an Ethics for the Digital Age"
-![screenshot](images/ )
+![screenshot](images/hashtag-doing-right.png)
 
 * Artifact Type: article
 * Source URL: https://www.historians.org/publications-and-directories/perspectives-on-history/november-2016/doing-right-online-archivists-shape-an-ethics-for-the-digital-age
@@ -152,7 +152,7 @@ DocNow describes itself as both a tool and "a community developed around support
 Here, Kritika Agarwal gives us an overview for thinking about the dangers attached to archiving community materials, while at the same time understanding how digital technologies also offer substantial scholarly and preservationist opportunities for those same communities. Even though hashtags index utterances that are technically public, once researchers begin using them as data, something shifts. Creators might not necessarily mean even "public" to mean the same as being recoverable and researchable, evidential. In a classroom content, Agarwal's article can work as a primer on major issues, as it is useful both as a primary text for that conversation, and also because it points to the specific strategies that organizations (like the DocNow group, listed above) are using to address the conundrum of moving social media (and other kinds of "personal" texts) into a research context. 
 
 ### "Disclosures of a Hashtag" 
-![screenshot](images/ )
+![screenshot](images/hashtag-surveillance.png)
 
 * Artifact Type: article
 * Source URL: https://exposingtheinvisible.org/resources/obtaining-evidence/disclosures-of-a-hashtag
