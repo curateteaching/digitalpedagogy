@@ -27,8 +27,8 @@ Kean University | [http://miazamoraphd.com](http://miazamoraphd.com)
 
 ##### Publication Status:
 * unreviewed draft
-* **draft version undergoing editorial review**
-* draft version undergoing peer-to-peer review
+* draft version undergoing editorial review
+* **draft version undergoing peer-to-peer review**
 * published 
 
 --- 
@@ -40,7 +40,7 @@ Classrooms are no longer bound by walls.  Information is readily available, and 
 People often associate the term network with infrastructure, but here we tackle the importance of the term as used for learning in the context of digital pedagogy and the social web. Networks can facilitate and expand the acquisition of knowledge, opening learning to a world beyond the immediate environment through connection.  But key considerations should be made when thinking about the network as a learning portal:  What may be the differences between a community versus a network? How does networked learning differ from connectivism? What is distinct about physical/analog vs digital networks? As social media has leant us powerful new tools to inquire with, to connect with (or to simply watch each other with), we take account of the pedagogical use of such tools in order to design inspired and empowered learning environments.
 
 ### Communities vs. Networks
-As Wenger and Traynor have made clear, while communities are networks in the sense that they involve connections among members, not all networks are communities (of practice).  The network refers to the set of relationships, personal interactions, and connections among participants, viewed as a set of nodes and links, with its affordances for information flows and helpful linkages.  A community of practice entails a shared domain as a source of identification. “This identity creates a sense of commitment to the community as a whole, not just connections to a few linking nodes.” (Wenger, 191)  Wenger further adds that network emphasizes connectivity, while a community emphasizes identity, although the two usually coexist.  As Howard Rheingold puts it, “the difference between an online social network and a community has to do with the quality, continuity, and degree of commitment in the relationship between members.” (163) George Siemens goes one step further by suggesting that communities can be considered nodes within a network. 
+As Wenger and Trayner have made clear, while communities are networks in the sense that they involve connections among members, not all networks are communities (of practice).  The network refers to the set of relationships, personal interactions, and connections among participants, viewed as a set of nodes and links, with its affordances for information flows and helpful linkages.  A community of practice entails a shared domain as a source of identification. “This identity creates a sense of commitment to the community as a whole, not just connections to a few linking nodes.” (Wenger, 191)  Wenger further adds that network emphasizes connectivity, while a community emphasizes identity, although the two usually coexist.  As Howard Rheingold puts it, “the difference between an online social network and a community has to do with the quality, continuity, and degree of commitment in the relationship between members.” (163) George Siemens goes one step further by suggesting that communities can be considered nodes within a network. 
 In harnessing the power of the digital network for the sake of teaching and learning, one makes use of a complex lattice of relationships, nodes, links and associations, facilitating interaction via a form of connectivity that drives both discovery and sharing.  As an example, the Personal Learning Network (PLN) is a vibrant, ever-evolving and flexible group of connections.  In addition, the hashtag is a digital tool that pays tribute to the network.  In developing our own curation of this keyword network, we relied on our own PLNs to crowdsource our initial ideas and build a comprehensive reading list (Bali and Zamora).
  
 ### Networked Learning vs. Connectivism
@@ -86,6 +86,27 @@ FemTechNet is a network of scholars, artists, and students who work on, with, an
 
 The diagram titled “The Networked Teacher” produced by Alec Couros (within the context of his doctoral dissertation), illustrates his discovery of emerging teacher networks.  It has been reused, remixed, redistributed and used in hundreds of presentations by educators worldwide. The “Networked Teacher” blog and diagram is a testament to Couros’ devotion to open education influenced by the ideals of the open source software movement, open content, and open access (an important aspect of the ethics of networked learning). It highlights the tools and practices a networked teacher employs when growing a Personal Learning Network.  In turn, the blog post reveals the evolution of this simple diagram as evidenced by several linguistic translations and a video inspired by the concept.  This artifact serves both as a representation of networked learning, as well as evidence of the practices of educators who produce, share, and distribute open content via their learning networks. 
 
+### Letters to the Next President
+![screenshot](images/network-LettersToNextPresident.jpg)
+* Artifact Type: Networked Digital Annotation
+* Source URL: [https://hypothes.is/nwp-invitational-summer-institute-annotatathon/](https://hypothes.is/nwp-invitational-summer-institute-annotatathon/) and [http://letters2president.org/opportunity/nwp-a-more-perfect-union-teacher-annotatathon/](http://letters2president.org/opportunity/nwp-a-more-perfect-union-teacher-annotatathon/)
+* Artifact Permissions: unclear, but annotations are by default CC0
+* Copy of the Artifact: 
+* Creator and Affiliation: Hypothes.is and National Writing Project
+
+Digital annotation can expand our understanding of what is possible when we read together.  [Hypothes.is](https://hypothes.is/) facilitates the act of shared reading. It leverages group annotation to enable sentence-level critique and multimodal note-taking on any text found on the internet. An example of the networked use of this tool comes from [Letters to the Next President 2.0](http://letters2president.org) which hosted an “annotatathon” in Summer 2016 together with the National Writing Project and KQED, and several Educator Innovator partners. Through the power of social annotation, students and educators share insights on Obama’s “A More Perfect Union” speech.  L2P 2.0 has been launched as a network learning space to spark research, thinking and civic engagement with youth. After the annotatathon, the project will convert to a massive, open online publishing platform where any educator or youth mentor can make space for students to voice their thinking.
+
+### Open Learning Recipe
+![screenshot](images/network-openlearningrecipe.jpg)
+
+* Artifact Type: crowdsourced document
+* Source URL: [https://docs.google.com/document/d/14-V6ZQgIQ3Mpq6QCPvvFr2y-45zdzxIh721yPSlHbyo/pub](https://docs.google.com/document/d/14-V6ZQgIQ3Mpq6QCPvvFr2y-45zdzxIh721yPSlHbyo/pub)
+* Artifact Permissions: unclear, but bottom of document says Creative Commons 
+* Copy of the Artifact: [files/network-openlearningrecipe.pdf](files/network-openlearningrecipe.pdf)
+* Creator and Affiliation: #rhizo15 MOOC participants (names listed in the document)
+
+This is a crowdsourced document in which participants in a rhizomatic/connectivist open course (#rhizo15) worked together in the first week to create a recipe for open learning. It is created in an open Google document, where different participants entered the tips they feel would be helpful to someone new to the arena of open learning. Because participants could see each other’s tips, they could add to what already existed, add comments (viewable in the margins), and ask for clarification. The document is a good example of crowdsourcing knowledge in a network, and can be adapted for a variety of different learning contexts. 
+
 ### Peeragogy Handbook
 ![screenshot](images/network-PeeragogyHandbook.jpg)
 * Artifact Type: online handbook (with collaborative annotation)
@@ -94,7 +115,7 @@ The diagram titled “The Networked Teacher” produced by Alec Couros (within t
 * Copy of the Artifact:  
 * Creator and Affiliation: J. Corneli, C. J. Danoff, C. Pierce, P. Ricuarte, and L. Snow MacDonald, eds. *The Peeragogy Handbook*. 3rd ed. Chicago, IL./Somerville, MA.: PubDomEd/Pierce Press, 2016. Downloaded from http://peeragogy.org.  
 
-A “how-to-do-it” resource on how a group of self-learners can organize via networked co-learning. *The Peeragogy Handbook* is a crowdsourced and collaboratively annotated compendium for any group of people who want to co-learn any subject together using the tools and knowledge available online.  When students are given an open group research project, this handbook guides co-learners in identifying shared purpose and defining self determined learning outcomes. The term “peeragogy” comes from Howard Rheingold via his Social Media Classroom.  Rheingold instigated this project, serving as a “catalyst” for the creation of this peer-created guide to pure peer-to-peer learning in the networked era. Peeragogy is a flexible framework of techniques for peer learning and peer knowledge production. Whereas pedagogy deals with the transmission of knowledge from teachers to students, peeragogy is what people use to produce and apply knowledge together. The strength of peeragogy is its flexibility and scalability through networked learning. 
+A “how-to-do-it” resource on how a group of self-learners can organize via networked co-learning. *The Peeragogy Handbook* is a crowdsourced and collaboratively annotated compendium for any group of people who want to co-learn any subject together using the tools and knowledge available online.  When students are given an open group research project, this handbook guides co-learners in identifying shared purpose and defining self determined learning outcomes. The term “peeragogy” comes from [Howard Rheingold](http://rheingold.com/) via his [Social Media Classroom](http://socialmediaclassroom.com/).  Rheingold instigated this project, serving as a “catalyst” for the creation of this peer-created guide to pure peer-to-peer learning in the networked era. Peeragogy is a flexible framework of techniques for peer learning and peer knowledge production. Whereas pedagogy deals with the transmission of knowledge from teachers to students, peeragogy is what people use to produce and apply knowledge together. The strength of peeragogy is its flexibility and scalability through networked learning. 
 
 ### Promoting and Assessing Value Creation in Communities and Networks: a Conceptual Framework 
 ![screenshot](images/network-AssessingValueCreation.jpg)
@@ -122,8 +143,7 @@ The first four of these are adapted from Kirkpatrick’s work, long used in the 
 * Copy of the Artifact: 
 * Creator and Affiliation: Laura Gogia
 
-Laura Gogia started Twitter Journal Club (originally #tjc15) while she was a graduate student; people agree to read an article together at a designated time period, and livetweet as they go (occasionally with the author responding on Twitter).  A hashtag on Twitter allows anyone to observe any time and jump in whenever they like; they do not need to be part of the community, nor does using a hashtag make them part of the community if they do not wish to use it regularly. Discussion can be synchronous, planned or spontaneous, or asynchronous over an extended time. Participation does not require membership in a community, but helps build PLNs, as (Shelly Terrell explains)[http://dmlcentral.net/shelly-terrell-global-netweaver-curator-pln-builder/].  This artifact serves as a both as a model and a tutorial.
-  See this (Storify)[https://storify.com/GoogleGuacamole/may-2016-twitter-journal-club-tjc16] to see a sample Twitter chat in retrospect, and (this article)[http://www.digitalpedagogylab.com/hybridped/careful-approach-to-digital-scholarship/] for the backstory behind TJC.
+Laura Gogia started Twitter Journal Club (originally #tjc15) while she was a graduate student; people agree to read an article together at a designated time period, and livetweet as they go (occasionally with the author responding on Twitter).  A hashtag on Twitter allows anyone to observe any time and jump in whenever they like; they do not need to be part of the community, nor does using a hashtag make them part of the community if they do not wish to use it regularly. Discussion can be synchronous, planned or spontaneous, or asynchronous over an extended time. Participation does not require membership in a community, but helps build PLNs, as [Shelly Terrell explains](http://dmlcentral.net/shelly-terrell-global-netweaver-curator-pln-builder/).  This artifact serves as a both as a model and a tutorial. See this [Storify](https://storify.com/GoogleGuacamole/may-2016-twitter-journal-club-tjc16) to see a sample Twitter chat in retrospect, and [this article](http://www.digitalpedagogylab.com/hybridped/careful-approach-to-digital-scholarship/) for the backstory behind TJC.
 
 ### “#TvsZ”
 ![screenshot](images/network-tvsz.jpg)
@@ -133,7 +153,7 @@ Laura Gogia started Twitter Journal Club (originally #tjc15) while she was a gra
 * Copy of the Artifact: 
 * Creator and Affiliation: Pete Rorabaugh, Kennesaw State University and Jesse Stommel, University of Mary Washington (later redesigned and faciltated by others)
 
-Rorabaugh & Stommel created “an epic zombified experiment in Twitter literacy, gamification, collaboration, and emergent learning.” #TvsZ is a Twitter adaptation of the game humans vs. zombies (a game of tag played in college), meant to develop digital literacy. Often played by college students with anyone on Twitter who wishes to participate, it “offers no certificate or diploma, but an opportunity to connect with others”. People who play need to learn to collaborate with virtual strangers online during the condensed (around 3-day) period of play, experiencing accelerated network-building. A key feature is emergent [game rules](http://tvsz.us/rules/), and that players themselves participate in suggesting changes. In 2015 Rorabaugh mentions how the game evolved. Its then-latest zombie-free version had 6 administrators from Canada, Egypt and US. It presents an approach to perforating the classroom, introducing students to global, networked learning while learning digital literacy. [Curated artifacts from 6.0](http://fliphtml5.com/segh/davk) 
+Rorabaugh and Stommel created “an epic zombified experiment in Twitter literacy, gamification, collaboration, and emergent learning.” #TvsZ is a Twitter adaptation of the game humans vs. zombies (a game of tag played in college), meant to develop digital literacy. Often played by college students with anyone on Twitter who wishes to participate, it “offers no certificate or diploma, but an opportunity to connect with others”. People who play need to learn to collaborate with virtual strangers online during the condensed (around 3-day) period of play, experiencing accelerated network-building. A key feature is emergent [game rules](http://tvsz.us/rules/), and that players themselves participate in suggesting changes. In 2015 Rorabaugh mentions how the game evolved. Its then-latest zombie-free version had 6 administrators from Canada, Egypt and US. It presents an approach to perforating the classroom, introducing students to global, networked learning while learning digital literacy. [Curated artifacts from 6.0](http://fliphtml5.com/segh/davk) 
 
 ### Virtually Connecting 
 ![screenshot](images/network-VirtuallyConnecting.jpg)
@@ -145,77 +165,21 @@ Rorabaugh & Stommel created “an epic zombified experiment in Twitter literacy,
 
 Originally piloted as #et4buddy in April 2015, Virtually Connecting (VC) attempts to take Personal Learning Networks (PLN) to the next level and expand access to conferences to people who cannot attend for financial, social, logistical or health reasons. Some scholars have opportunities to meet their virtual PLN in person at conferences, but many do not. VC creates opportunities for people to participate in a conference _conversation_ virtually by meeting via synchronous video with onsite participants at that conference, going beyond virtual participation via  watching livestreams of selected sessions and using Twitter. Instead, VC invites virtual participants to converse with onsite participants (including keynote speakers) directly for an extended period of time. This supports the deepening and broadening of scholarly PLNs for graduate students, adjuncts, young mothers, and international scholars.  As a pedagogical gateway, instructors can work with VC to bring their class to the conference. 
 
-### Letters to the Next President
-![screenshot](images/network-LettersToNextPresident.jpg)
-* Artifact Type: Networked Digital Annotation
-* Source URL: [https://hypothes.is/nwp-invitational-summer-institute-annotatathon/](https://hypothes.is/nwp-invitational-summer-institute-annotatathon/) and [http://letters2president.org/opportunity/nwp-a-more-perfect-union-teacher-annotatathon/](http://letters2president.org/opportunity/nwp-a-more-perfect-union-teacher-annotatathon/)
-* Artifact Permissions: unclear, but annotations are by default CC0
-* Copy of the Artifact: 
-* Creator and Affiliation: Hypothes.is and National Writing Project
-
-Digital annotation can expand our understanding of what is possible when we read together.  (Hypothes.is) [https://hypothes.is/] facilitates the act of shared reading. It leverages group annotation to enable sentence-level critique and multimodal note-taking on any text found on the internet. An example of the networked use of this tool comes from (Letters to the Next President 2.0) [http://letters2president.org] which hosted an “annotatathon” in Summer 2016 together with the National Writing Project and KQED, and several Educator Innovator partners. Through the power of social annotation, students and educators share insights on Obama’s “A More Perfect Union” speech.  L2P 2.0 has been launched as a network learning space to spark research, thinking and civic engagement with youth. After the annotatathon, the project will convert to a massive, open online publishing platform where any educator or youth mentor can make space for students to voice their thinking.
-
-### Open Learning Recipe
-![screenshot](images/network-openlearningrecipe.jpg)
-
-* Artifact Type: crowdsourced document
-* Source URL: [https://docs.google.com/document/d/14-V6ZQgIQ3Mpq6QCPvvFr2y-45zdzxIh721yPSlHbyo/pub](https://docs.google.com/document/d/14-V6ZQgIQ3Mpq6QCPvvFr2y-45zdzxIh721yPSlHbyo/pub)
-* Artifact Permissions: unclear, but bottom of document says Creative Commons 
-* Copy of the Artifact: [files/network-openlearningrecipe.pdf](files/network-openlearningrecipe.pdf)
-* Creator and Affiliation: #rhizo15 MOOC participants (names listed in the document)
-
-This is a crowdsourced document in which participants in a rhizomatic/connectivist open course (#rhizo15) worked together in the first week to create a recipe for open learning. It is created in an open Google document, where different participants entered the tips they feel would be helpful to someone new to the arena of open learning. Because participants could see each other’s tips, they could add to what already existed, add comments (viewable in the margins), and ask for clarification. The document is a good example of crowdsourcing knowledge in a network, and can be adapted for a variety of different learning contexts. 
-
 ##Acknowledgments
 Thank you to contributors to our early google doc & hashtag: Rebecca J. Hogue, Andrea Rehn, Frances Bell, Jeffrey Keefer, Catherine Cronin, Howard Rheingold, Vanessa Vaile, Maha Abdelmoneim, Thomas Ryberg, Kevin Hodgson, Peter Goodyear, Virginia Yonkers, Linda Harasim, Jeff Merrell, Michael Weller
 
 
 ## RELATED MATERIALS
 
-Bali, M., Crawford, M., Jessen, R., Signorelli, P., & Zamora, M. (2015). [What Makes a cMOOC Community Endure? Multiple Participant Perspectives From Diverse MOOCs.](http://www.tandfonline.com/doi/abs/10.1080/09523987.2015.1053290?tokenDomain=eprints&tokenAccess=KJCAAciPbwM2MFnjrvUY&forwardService=showFullText&doi=10.1080%2F09523987.2015.1053290&journalCode=remi20) *Educational Media International*, 100-115.
-
-Cormier, David. (2008). Rhizomatic education: Community as curriculum. *Innovate: Journal of Online Learning.* 4(5). Republished and retrieved from (http://davecorkmier.com/edblog/2008/06/03/rhizomatic-education-community-as- curriculum/)
-
-Dabbagh, N., & Kitsantas, A. (2012). Personal Learning Environments, social media, and self-regulated learning: A natural formula for connecting formal and informal learning. The Internet and Higher Education 15(1), 3-8. 
-
-Downes, Stephen. “What connectivism is.” Web. 15 September 2007. http://halfanhour.blogspot.com/2007/02/what-connectivism-is.html
-
-DML Central. Digital Media and Learning Research Hub, 2016. Web. 12 July 2016. http://dmlcentral.net 
+Cormier, David. (2008). Rhizomatic education: Community as curriculum. *Innovate: Journal of Online Learning.* 4(5). Republished and retrieved from http://davecorkmier.com/edblog/2008/06/03/rhizomatic-education-community-as- curriculum/
 
 Ferreday, Debra and Vivien Hodgson. “The Tyranny of Participation and Collaboration in Networked Learning” *Proceedings of the 6th International Conference on Networked Learning.* Web. http://www.networkedlearningconference.org.uk/past/nlc2008/abstracts/PDFs/Hodgson_640-647.pdf
 
 Gogia, Laura “2015 ELI Annual Meeting Poster Session: Exploring Microblogging Data through a Lens of Student Assessment.” Web. 25 January 2015. https://googleguacamole.wordpress.com/2015/01/25/2015-eli-annual-meeting-poster-session-exploring-microblogging-data-through-a-lens-of-student-assessment/
 
-Harasim, L. Hiltz, S.R., Teles, L. And M. Turoff. *Learning Networks: A Field Guide to Teaching and Learning Online.* Cambridge, MA: MIT Press, 1995.
-
-Jenkins, Henry, Mizuko Ito, & danah boyd.  *Participatory Culture in a Networked Era: A Conversation on Youth, Learning, Commerce, and Politics.*  Polity Press, 2016.
-
-Mason, Robin and Kaye, Tony. (Eds). "Mindweave: Communication, Computers, and Distance Education.” Oxford: Pergamon Press, 1989.
-
-Meeks, Elijah & Maya Krishnan. *Introduction to Network Analysis and Representation.* Stanford U, 2016. 12 July 2016. http://dhs.stanford.edu/dh/networks/
-
-Raine, Lee and Barry Wellman. *Networked: The New Social Operating System.* (Cambridge, MA: MIT Press, 2012).
-
-Skallerup-Bessette, Lee. “What if I Never See You Again?” 7 February 2016. http://readywriting.org/uncategorized/what-if-i-never-see-you-again/
-
-Spelic, Sherri, “Resistance Training”. Web. 12 February 2016. https://medium.com/@edifiedlistener/resistance-training-33f322a210d0#.barya2ncn
-
 Stewart, Bonnie. “In Public: The Shifting Consequences of Twitter Scholarship.” *Hybrid Pedagogy.* Web. 14. 2015. http://www.digitalpedagogylab.com/hybridped/in-public-the-shifting-consequences-of-twitter-scholarship/
 
-Stewart, Bonnie. “Open to Influence: What counts as academic influence in scholarly networked Twitter participation.” *Learning, Media and Technology: Critical Approaches to Open Education.* 40:3, 287-309. (2015): Web. 12 July 2016.
-
-Stewart, Bonnie. “Contributions and Connections.” *Inside HigherEd.* Web. 6 April 2015. https://www.insidehighered.com/blogs/higher-ed-beta/contributions-and-connections
-
 Watters, Audrey.  “Learning Networks, Not Teaching Machines.” *Hack Education.* Web. 10 June 2015. http://hackeducation.com/2015/06/10/eden2015
-
-Zamora, Mia, & Maha Bali. “Creating Cyber Connections”. *DML Central: Digital Media & Learning: The Power of Participation.* (2015) n. pag. Web. 4 December, 2015. http://dmlcentral.net/creating-cyber-connections/
-
-Zamora, Mia. “Reading as a Social Act”. *DML Central: Digital Media & Learning: The Power of Participation.* (2016) n. pag. Web. 24 March, 2016. http://dmlcentral.net/reading-social-act/
-
-Zamora, Mia. “Dear Future President”. *DML Central: Digital Media & Learning: The Power of Participation.* (2016) n. pag. Web. 26 May, 2016. http://dmlcentral.net/dear-future-president/
- 
-10th International Conference on Networked Learning 2016. “Past Conference Proceedings.” Web. http://www.lancaster.ac.uk/fss/organisations/netlc/past/index.htm
-
 
 ## WORKS CITED
 
@@ -225,9 +189,11 @@ Brennan, Keith. “The Victorian MOOC.” Web. 23 February 2016. http://www.digi
 					
 Cronin, Catherine. “Networked learning and identity development in open online spaces” *Proceedings of the 9th International Conference on Networked Learning.* Web. 2014. (http://www.lancaster.ac.uk/fss/organisations/netlc/past/nlc2014/abstracts/pdf/cronin.pdf)
 
-Hansen, D.L., Schneiderman, B., & Smith, M.A. Analyzing Social Media Networks with NodeXL: Insights from a Connected World. Burlington: Elsevier, 2011. http://www.academia.edu/1322854/Hansen_Derek_L._Ben_Shneiderman_and_Marc_A._Smith._2011._Analysing_Social_Media_Networks_with_NodeXL_Insights_from_a_Connected_World_Burling-ton_
+Mcconnell, David, Vivien Hodgson, & Lone Dirckinck-Holmfeld. “Networked Learning: A Brief History and New Trends.” *Exploring the Theory, Pedagogy and Practice of Networked Learning.* Research Gate: Dec. 2011. 3-24 http://www.researchgate.net/publication/279350626_Networked_Learning_A_Brief_History_and_New_Trends
 
 Rheingold, Howard. *Net Smart: How to Thrive Online.* Cambridge, MA: MIT Press, 2012.
+
+Rheingold, Howard. “Shelly Terrell: Global Netweaver, Curator, PLN Builder - DML Central.” *DML Central: Digital Media & Learning: The Power of Participation*, 15 October 2010. http://dmlcentral.net/shelly-terrell-global-netweaver-curator-pln-builder/.
 
 Rorabaugh, Peter. “The Evolution of #TvsZ.” Web. 19 February 2015. http://peterorabaugh.org/tvsz/the-evolution-of-tvsz/ 
 
@@ -236,3 +202,5 @@ Stommel, Jesse. “Twitter Vs. Zombies: New Media Literacy & the Virtual Flash M
 Siemens, George “Learning Ecology, Communities, and Networks: Extending the Classroom”  Web. 17 October , 2003. http://www.elearnspace.org/Articles/learning_communities.htm 
 
 Wenger, E. “Communities of practice and social learning systems: the career of a concept.” In Blackmore, C. (Editor) *Social Learning Systems and communities of practice.* Springer Verlag and the Open University, 2010.
+
+Wenger, E. & B Trayner. “How is a community of practice different from an informal network in regard to social learning?” Web. 28 December 2011. http://wenger-trayner.com/resources/communities-versus-networks/ 
