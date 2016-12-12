@@ -138,7 +138,7 @@ Learners’ pronunciation is often neglected in Spanish language classes.  Gilli
 * Source URL: [http://sonnenallee.wikispaces.com/](http://sonnenallee.wikispaces.com/) 
 * Artifact Permissions: 
 * Copy of the Artifact: 
-* Creator and Affiliation: [Lara Ducate](http://artsandsciences.sc.edu/dllc/german/faculty/facdocs/Lara_Ducate.html) (University of South Caroline) and [Nike Arnold](http://www.pdx.edu/linguistics/nike-arnold) (Portland State
+* Creator and Affiliation: [Lara Ducate](http://artsandsciences.sc.edu/dllc/german/faculty/facdocs/Lara_Ducate.html) (University of South Carolina) and [Nike Arnold](http://www.pdx.edu/linguistics/nike-arnold) (Portland State
 University)
 
 Wikis, which allow learners to write collaboratively in a document, have frequently been used in language learning classes. As seen in the two German classes presented in the example, the instructors integrated the wiki as a collaborative venue for learners (in groups of three) to discuss and elaborate on the topics required to understand the cultural and historical context of a class reading. Given that collaborative writing can be challenging, the instructors provided explicit instructions on how and by when to initiate the research, write an outline (including introduction, brief history of topic and the reading significance), and work on the first and subsequent drafts.  The editing possibility of the wiki allows learners to help and correct each other’s errors. The social learning of wikis is enhanced by their discussion board feature, which allows learners to asynchronously discuss the content of the project, as well as its structure and organization. 
