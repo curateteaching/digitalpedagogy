@@ -28,9 +28,9 @@ University of Alberta | [geoffreyrockwell.com](http://geoffreyrockwell.com)
 ---
 
 ##### Publication Status:
-* **unreviewed draft**
+* unreviewed draft
 * draft version undergoing editorial review
-* draft version undergoing peer-to-peer review https://digitalpedagogy.commons.mla.org/
+* **draft version undergoing peer-to-peer review** https://digitalpedagogy.commons.mla.org/
 * published 
 
 --- 
