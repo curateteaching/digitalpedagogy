@@ -117,6 +117,17 @@ In 2013, I taught Blackness & Utopia as an undergraduate Special Topics in Afric
 
 The Black Youth Project is a US-based membership organization for Black people ages 18-35 committed to a transformative, intersectional agenda for racial justice. The hashtag #BuildBlackFutures articulates an imperative to redirect our society’s shared resources, e.g. city and state spending, space, planning, away from incarceration and surveillance and toward the reparation and self-determination for Black communities. While [direct actions](http://agendatobuildblackfutures.org/map/) that disrupt the status quo are an instrumental part of the BYP strategy, the Agenda to Build Black Futures marshals data, speculation, and narratives toward a powerful declaration of what is necessary to make Black communities thrive in the 21st century. The agenda is meant to inspire informed action. Some of the resources you can use inside or outside the classroom, for teach-ins, and online include videos about what #BuildBlackFutures means and invitations to [add your own content](http://agendatobuildblackfutures.org/add-your-video/), editorials, shareable graphics for social media, and links to the intertexts that dialogue with the Agenda.
 
+## Related Materials
+
+* Baker, Miyuki. "Beyond the Ivory Tower: Interviews with Academics #1 with Juana María Rodríguez." heymiyuki.wordpress.com/2015/11/30/beyond-the-ivory-tower-interviews-with-academics-1-with-juana-maria-rodriguez.
+
+* Gómez-Peña, Guillermo. La Pocha Nostra: Live Art Lab. www.pochanostra.com/home.
+
+* Tuck, Eve, and K. Wayne Yang, “Decolonization is Not A Metaphor,” *Decolonization: Indigeneity, Education, and Society* vol. 1, no. 1 (2012): 1-40.
+
+* Von Ruff, Al. Internet Speculative Fiction Database. www.isfdb.org.
+
+* Womack, Ytasha. Afrofuturism: The World of Black Sci-Fi and Fantasy Culture. Chicago: Chicago Review Press, 2013. www.iafrofuturism.com/book.
 
 ## WORKS CITED
 
