@@ -55,7 +55,7 @@ We highlight many pedagogical collaborations that have established a culture of 
 ## CURATED ARTIFACTS
 
 ### Connectivism & Connected Knowledge
-![screenshot](images/network-)
+![screenshot](images/network-connectivism.jpg)
 * Artifact Type: Open online course CCK11 (updated from CCK08, first connectivist MOOC)
 * Source URL: [http://cck11.mooc.ca/index.html](http://cck11.mooc.ca/index.html) 
 * Artifact Permissions: CC-BY-NC-SA
@@ -67,7 +67,7 @@ share an [aggregation of feeds from participant blogs/tweets](http://cck11.mooc.
 
 
 ### FemTechNet Commons
-![screenshot](images/network-)
+![screenshot](images/network-femtechnet.jpg)
 * Artifact Type: an online commons
 * Source URL: [http://femtechnet.newschool.edu](http://femtechnet.newschool.edu) 
 * Artifact Permissions: CC-BY-NC-SA
@@ -77,7 +77,7 @@ share an [aggregation of feeds from participant blogs/tweets](http://cck11.mooc.
 FemTechNet is a network of scholars, artists, and students who work on, with, and at the borders of technology, science and feminism in a variety of fields including STS, Media & Visual Studies, Art, Women’s, Queer, and Ethnic Studies.  Members in the network collaborate on the design and creation of projects of feminist technological innovation. This artifact highlights how a network may support a variety of different kinds of learners. Some may participate in the [FemTechNet DOCC](http://femtechnet.newschool.edu/docc2013/) (“Distributed Open Collaborative Course” - a collaborative open course structure) through the creation of independent studies arranged by students and teachers in other learning contexts.  Others may connect as self-directed learners who participate on their own.  In addition, the network supports “drop-in learners” who tune in for a particular discussion. The power of the network is illustrated by the variety of FemTechNet projects which can be initiated by anyone through the FemTechNet Commons.
 
 ### Story of an Idea: The Networked Teacher
-![screenshot](images/network-)
+![screenshot](images/network-NetworkedTeacher.jpg)
 * Artifact Type: blogpost with diagram
 * Source URL: [http://couros.ca/cv/research/story-of-an-idea/](http://couros.ca/cv/research/story-of-an-idea/) 
 * Artifact Permissions: CC-BY-NC-SA
@@ -87,7 +87,7 @@ FemTechNet is a network of scholars, artists, and students who work on, with, an
 The diagram titled “The Networked Teacher” produced by Alec Couros (within the context of his doctoral dissertation), illustrates his discovery of emerging teacher networks.  It has been reused, remixed, redistributed and used in hundreds of presentations by educators worldwide. The “Networked Teacher” blog and diagram is a testament to Couros’ devotion to open education influenced by the ideals of the open source software movement, open content, and open access (an important aspect of the ethics of networked learning). It highlights the tools and practices a networked teacher employs when growing a Personal Learning Network.  In turn, the blog post reveals the evolution of this simple diagram as evidenced by several linguistic translations and a video inspired by the concept.  This artifact serves both as a representation of networked learning, as well as evidence of the practices of educators who produce, share, and distribute open content via their learning networks. 
 
 ### Peeragogy Handbook
-![screenshot](images/network-)
+![screenshot](images/network-PeeragogyHandbook.jpg)
 * Artifact Type: online handbook (with collaborative annotation)
 * Source URL: [http://peeragogy.github.io](http://peeragogy.github.io)
 * Artifact Permissions: CC0
@@ -96,12 +96,12 @@ The diagram titled “The Networked Teacher” produced by Alec Couros (within t
 
 A “how-to-do-it” resource on how a group of self-learners can organize via networked co-learning. *The Peeragogy Handbook* is a crowdsourced and collaboratively annotated compendium for any group of people who want to co-learn any subject together using the tools and knowledge available online.  When students are given an open group research project, this handbook guides co-learners in identifying shared purpose and defining self determined learning outcomes. The term “peeragogy” comes from Howard Rheingold via his Social Media Classroom.  Rheingold instigated this project, serving as a “catalyst” for the creation of this peer-created guide to pure peer-to-peer learning in the networked era. Peeragogy is a flexible framework of techniques for peer learning and peer knowledge production. Whereas pedagogy deals with the transmission of knowledge from teachers to students, peeragogy is what people use to produce and apply knowledge together. The strength of peeragogy is its flexibility and scalability through networked learning. 
 
-### Promoting and assessing value creation in communities and networks: a conceptual framework 
-![screenshot](images/network-)
+### Promoting and Assessing Value Creation in Communities and Networks: a Conceptual Framework 
+![screenshot](images/network-AssessingValueCreation.jpg)
 * Artifact Type: resource for evaluation (pdf, framework)
 * Source URL: [http://wenger-trayner.com/resources/publications/evaluation-framework](http://wenger-trayner.com/resources/publications/evaluation-framework) 
 * Artifact Permissions: 
-* Copy of the Artifact:  
+* Copy of the Artifact:  [files/network-assessingvaluecreation.pdf](files/network-assessingvaluecreation.pdf)
 * Creator and Affiliation: Wenger, E., Trayner, B., and de Laat, M. 
 
 This framework, published by the Open University of the Netherlands, addresses the need to assess value of communities/networks using five levels of value creation
@@ -115,7 +115,7 @@ The first four of these are adapted from Kirkpatrick’s work, long used in the 
 
 
 ### Twitter Journal Club
-![screenshot](images/network-)
+![screenshot](images/network-tjc.jpg)
 * Artifact Type: Twitter hashtag #tjc16 representing Twitter Journal Club
 * Source URL: [https://tjc16.wordpress.com/](https://tjc16.wordpress.com/) 
 * Artifact Permissions: Creative Commons Attribution-NonCommercial 4.0 International License.
@@ -126,7 +126,7 @@ Laura Gogia started Twitter Journal Club (originally #tjc15) while she was a gra
   See this (Storify)[https://storify.com/GoogleGuacamole/may-2016-twitter-journal-club-tjc16] to see a sample Twitter chat in retrospect, and (this article)[http://www.digitalpedagogylab.com/hybridped/careful-approach-to-digital-scholarship/] for the backstory behind TJC.
 
 ### “#TvsZ”
-![screenshot](images/network-)
+![screenshot](images/network-tvsz.jpg)
 * Artifact Type: Twitter game
 * Source URL: [http://tvsz.us](http://tvsz.us) 
 * Artifact Permissions: 
@@ -136,7 +136,7 @@ Laura Gogia started Twitter Journal Club (originally #tjc15) while she was a gra
 Rorabaugh & Stommel created “an epic zombified experiment in Twitter literacy, gamification, collaboration, and emergent learning.” #TvsZ is a Twitter adaptation of the game humans vs. zombies (a game of tag played in college), meant to develop digital literacy. Often played by college students with anyone on Twitter who wishes to participate, it “offers no certificate or diploma, but an opportunity to connect with others”. People who play need to learn to collaborate with virtual strangers online during the condensed (around 3-day) period of play, experiencing accelerated network-building. A key feature is emergent [game rules](http://tvsz.us/rules/), and that players themselves participate in suggesting changes. In 2015 Rorabaugh mentions how the game evolved. Its then-latest zombie-free version had 6 administrators from Canada, Egypt and US. It presents an approach to perforating the classroom, introducing students to global, networked learning while learning digital literacy. [Curated artifacts from 6.0](http://fliphtml5.com/segh/davk) 
 
 ### Virtually Connecting 
-![screenshot](images/network-)
+![screenshot](images/network-VirtuallyConnecting.jpg)
 * Artifact Type: YouTube channel and accompanying website
 * Source URL: [http://www.youtube.com/virtuallyconnecting](http://www.youtube.com/virtuallyconnecting) and [http://www.virtuallyconnecting.org](http://www.virtuallyconnecting.org)
 * Artifact Permissions: YouTube Standard license
@@ -146,7 +146,7 @@ Rorabaugh & Stommel created “an epic zombified experiment in Twitter literacy,
 Originally piloted as #et4buddy in April 2015, Virtually Connecting (VC) attempts to take Personal Learning Networks (PLN) to the next level and expand access to conferences to people who cannot attend for financial, social, logistical or health reasons. Some scholars have opportunities to meet their virtual PLN in person at conferences, but many do not. VC creates opportunities for people to participate in a conference _conversation_ virtually by meeting via synchronous video with onsite participants at that conference, going beyond virtual participation via  watching livestreams of selected sessions and using Twitter. Instead, VC invites virtual participants to converse with onsite participants (including keynote speakers) directly for an extended period of time. This supports the deepening and broadening of scholarly PLNs for graduate students, adjuncts, young mothers, and international scholars.  As a pedagogical gateway, instructors can work with VC to bring their class to the conference. 
 
 ### Letters to the Next President
-![screenshot](images/network-)
+![screenshot](images/network-LettersToNextPresident.jpg)
 * Artifact Type: Networked Digital Annotation
 * Source URL: [https://hypothes.is/nwp-invitational-summer-institute-annotatathon/](https://hypothes.is/nwp-invitational-summer-institute-annotatathon/) and [http://letters2president.org/opportunity/nwp-a-more-perfect-union-teacher-annotatathon/](http://letters2president.org/opportunity/nwp-a-more-perfect-union-teacher-annotatathon/)
 * Artifact Permissions: unclear, but annotations are by default CC0
@@ -156,12 +156,12 @@ Originally piloted as #et4buddy in April 2015, Virtually Connecting (VC) attempt
 Digital annotation can expand our understanding of what is possible when we read together.  (Hypothes.is) [https://hypothes.is/] facilitates the act of shared reading. It leverages group annotation to enable sentence-level critique and multimodal note-taking on any text found on the internet. An example of the networked use of this tool comes from (Letters to the Next President 2.0) [http://letters2president.org] which hosted an “annotatathon” in Summer 2016 together with the National Writing Project and KQED, and several Educator Innovator partners. Through the power of social annotation, students and educators share insights on Obama’s “A More Perfect Union” speech.  L2P 2.0 has been launched as a network learning space to spark research, thinking and civic engagement with youth. After the annotatathon, the project will convert to a massive, open online publishing platform where any educator or youth mentor can make space for students to voice their thinking.
 
 ### Open Learning Recipe
-![screenshot](images/network-)
+![screenshot](images/network-openlearningrecipe.jpg)
 
 * Artifact Type: crowdsourced document
 * Source URL: [https://docs.google.com/document/d/14-V6ZQgIQ3Mpq6QCPvvFr2y-45zdzxIh721yPSlHbyo/pub](https://docs.google.com/document/d/14-V6ZQgIQ3Mpq6QCPvvFr2y-45zdzxIh721yPSlHbyo/pub)
 * Artifact Permissions: unclear, but bottom of document says Creative Commons 
-* Copy of the Artifact: 
+* Copy of the Artifact: [files/network-openlearningrecipe.pdf](files/network-openlearningrecipe.pdf)
 * Creator and Affiliation: #rhizo15 MOOC participants (names listed in the document)
 
 This is a crowdsourced document in which participants in a rhizomatic/connectivist open course (#rhizo15) worked together in the first week to create a recipe for open learning. It is created in an open Google document, where different participants entered the tips they feel would be helpful to someone new to the arena of open learning. Because participants could see each other’s tips, they could add to what already existed, add comments (viewable in the margins), and ask for clarification. The document is a good example of crowdsourcing knowledge in a network, and can be adapted for a variety of different learning contexts. 

@@ -151,7 +151,7 @@ In this story, a student considers his study abroad experience.  This story demo
 * Copy of the Artifact: 
 * Creator and Affiliation: Sarah Buckle, University of Houston
 
-This story shares an autobiographical meditation on photography.  It is difficult to tell which photos are the author’s and which are from other sources, which is a common and interesting problem.
+This story shares an autobiographical meditation on photography.   Like "Dad, What do you do for a living?" “Behind the Lens” lets the creator explain and dive into their academic interest.  This would make a fruitful assignment for undergraduates as they complete their majors, not to mention for faculty and staff describing their work.  Formally, It is difficult to tell which photos are the author’s and which are from other sources, which is a common, interesting, and teachable problem.
 
 ## RELATED MATERIALS
 
@@ -160,6 +160,8 @@ Alexander, Bryan. *The New Digital Storytelling: Creating Narratives with New Me
 ds106 (Digital Storytelling open online course). [http://ds106.us/](http://ds106.us/)
 
 Flickr Tell a story in 5 frames (Visual story telling) community. [https://www.flickr.com/groups/visualstory/](https://www.flickr.com/groups/visualstory/)
+
+Lambert, Joe. *Digital Storytelling: Capturing Lives, Creating Community*, 4th edition. Routledge, 2012.
 
 Storycenter. [http://www.storycenter.org/](http://www.storycenter.org/)
 
