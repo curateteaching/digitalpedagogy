@@ -6,8 +6,8 @@ Drexel University | <http://www.andrecarringtonphd.com>
 ---
 
 ##### Publication Status:
-* **unreviewed draft**
-* draft version undergoing editorial review
+* unreviewed draft
+* **draft version undergoing editorial review**
 * draft version undergoing peer-to-peer review
 * published 
 
@@ -15,13 +15,13 @@ Drexel University | <http://www.andrecarringtonphd.com>
 
 ## CURATORIAL STATEMENT
 
-The first artificial satellite to enter the Earth’s orbit, Sputnik, inaugurated the space age in 1957. It expanded the frontiers of human knowledge forever. In its aftermath, the United States founded an agency with the mission to “prevent technological surprise” in the future. That agency, which is now called DARPA, fostered the invention of the internet, and its mission has grown in the information age with the additional aim “to create technological surprise for [U.S.] enemies” (DARPA 1). The Humanities have always played their part in mapping zones of encounter, and the rhetoric of the American state echoes the Humanities’ role in defining the antagonisms that drive historical progress. In the digital age, our scholarship models the circumstances under which technological surprise takes place and anticipates its possible implications. Computer-assisted learning also provides us with tools for reckoning with the unforeseeable consequences of innovation.
+The first artificial satellite to enter the Earth’s orbit, Sputnik, inaugurated the space age in 1957. It expanded the frontiers of human knowledge forever. In its aftermath, the United States founded an agency with the mission to “prevent technological surprise” in the future. That agency, which is now called DARPA, fostered the invention of the internet, and its mission has grown in the information age with the additional aim “to create technological surprise for [U.S.] enemies” (DARPA 1). The humanities have always played their part in mapping zones of encounter, and the rhetoric of the American state echoes the humanities’ role in defining the antagonisms that drive historical progress. In the digital age, our scholarship models the circumstances under which technological surprise takes place and anticipates its possible implications. Computer-assisted learning also provides us with tools for reckoning with the unforeseeable consequences of innovation.
 
-The work of pedagogy in the digital Humanities encompasses the use of information technologies to envision, prepare for, and cultivate dispositions toward the future. We can use emerging technologies to instruct in ways that enable students to alter the circumstances in which learning will take place. Rather than setting up an opposition between the practical and the ideal, we can conceptualize the future as the dawning horizon on which applications for our cutting-edge theories and newly-fashioned tools will appear. Humanities instruction raises fundamental questions about what knowledge is desirable and how we might go about attaining it, and adapting our tools and methods of instruction allows us to approach future moments secure in the knowledge that “the only lasting truth is Change” (Butler 3).
+The work of pedagogy in the digital humanities encompasses the use of information technologies to envision, prepare for, and cultivate dispositions toward the future. We can use emerging technologies to instruct in ways that enable students to alter the circumstances in which learning will take place. Rather than setting up an opposition between the practical and the ideal, we can conceptualize the future as the dawning horizon on which applications for our cutting-edge theories and newly-fashioned tools will appear. Humanities instruction raises fundamental questions about what knowledge is desirable and how we might go about attaining it, and adapting our tools and methods of instruction allows us to approach future moments secure in the knowledge that “the only lasting truth is Change” (Butler 3).
 
-Anxiety and opportunity alike characterize the future of the Humanities. The turn toward “born digital” resources and pedagogical techniques for the rising generation of “digital natives” requires educators to keep critical lessons from various traditions of speculation about the future in play. For example, as philosophers and cultural theorists reconstruct our knowledge of the world in terms of space, surface, and objects, we are tasked with inventing ways to represent information while also thinking critically about the epistemologies that make data visualizations intelligible. Studying the world and its changes entails revisiting “developments in the gridding of time and space, the proliferation of registers, filing and listing systems, the making and remaking of categories, the identification of populations, and the invention of logistics” (Lury, et al 8). This reflexivity equips us to understand and keep up in a changing world while constantly reaffirming a key principle of Humanities training: “education creates opportunities beyond what’s envisioned for it” (Macharia). As Keguro Macharia writes, “Training in the humanities teaches how to ask difficult, necessary questions: How does the past influence the future? How can we live together? What is the good life? What is an ethical life? What values are worth promoting?” These questions are just as urgent to decolonizing societies across the globe as they are pertinent in the everyday speculation that makes education a utopian endeavor.
+Anxiety and opportunity alike characterize the future of the humanities. The turn toward “born digital” resources and pedagogical techniques for the rising generation of “digital natives” requires educators to keep critical lessons from various traditions of speculation about the future in play. For example, as philosophers and cultural theorists reconstruct our knowledge of the world in terms of space, surface, and objects, we are tasked with inventing ways to represent information while also thinking critically about the epistemologies that make data visualizations intelligible. Studying the world and its changes entails revisiting “developments in the gridding of time and space, the proliferation of registers, filing and listing systems, the making and remaking of categories, the identification of populations, and the invention of logistics” (Lury, et al 8). This reflexivity equips us to understand and keep up in a changing world while constantly reaffirming a key principle of humanities training: “education creates opportunities beyond what’s envisioned for it” (Macharia). As Keguro Macharia writes, “Training in the humanities teaches how to ask difficult, necessary questions: How does the past influence the future? How can we live together? What is the good life? What is an ethical life? What values are worth promoting?” These questions are just as urgent to decolonizing societies across the globe as they are pertinent in the everyday speculation that makes education a utopian endeavor.
 
-The materials below have been assembled by scholars, artists, activists, and public intellectuals working within and sometimes against the university. They converge on a critique of the present in which higher education plays a decisive role. These curated artifacts will stimulate discussions, introduce “possibility models” (Cox), demonstrate modes of dissemination, and inspire emulation. The selections represent the ongoing negotiation between speculation and objectives identified with the public good—social mobility, literacy, cultural competence—that the enterprise of higher education entails. As the institutions where we teach increasingly prioritize innovation, we can promote approaches to technology that encourage students to treat their education as the point of departure for an as-yet uncatalogued array of applications rather than a guarantee. An outlook on innovation that learns from the concrete instances in which necessity gives rise to invention affords Humanities thinkers a critical role in the future of knowledge production. These resources are meant to illustrate how pedagogies concerned with the future(s) of the Humanities can turn toward technology with a sense of inspiration rather than a sense of crisis. This orientation toward new methodologies and tools transforms indeterminacy into “educated hope,” a sense of openness through which cultural criticism can light the way toward the “concrete utopias” named in social movements and other emergent collectivities animated by the unmet needs of the present (Muñoz 3). Digital pedagogies without guarantees temper the imperative to “make it new” with the kind of questions that inspire speculative fiction: “What if…? If only...?” and “If this goes on...” (Gaiman xi). Instead of preparing students for a future that is already written, we can prepare them to surprise us.
+The materials below have been assembled by scholars, artists, activists, and public intellectuals working within and sometimes against the university. They converge on a critique of the present in which higher education plays a decisive role. These curated artifacts will stimulate discussions, introduce “possibility models” (Cox), demonstrate modes of dissemination, and inspire emulation. The selections represent the ongoing negotiation between speculation and objectives identified with the public good—social mobility, literacy, cultural competence—that the enterprise of higher education entails. As the institutions where we teach increasingly prioritize innovation, we can promote approaches to technology that encourage students to treat their education as the point of departure for an as-yet uncatalogued array of applications rather than a guarantee. An outlook on innovation that learns from the concrete instances in which necessity gives rise to invention affords humanities thinkers a critical role in the future of knowledge production. These resources are meant to illustrate how pedagogies concerned with the future(s) of the humanities can turn toward technology with a sense of inspiration rather than a sense of crisis. This orientation toward new methodologies and tools transforms indeterminacy into “educated hope,” a sense of openness through which cultural criticism can light the way toward the “concrete utopias” named in social movements and other emergent collectivities animated by the unmet needs of the present (Muñoz 3). Digital pedagogies without guarantees temper the imperative to “make it new” with the kind of questions that inspire speculative fiction: “What if…? If only...?” and “If this goes on...” (Gaiman xi). Instead of preparing students for a future that is already written, we can prepare them to surprise us.
 
 
 ## CURATED ARTIFACTS
@@ -118,39 +118,25 @@ In 2013, I taught Blackness & Utopia as an undergraduate Special Topics in Afric
 The Black Youth Project is a US-based membership organization for Black people ages 18-35 committed to a transformative, intersectional agenda for racial justice. The hashtag #BuildBlackFutures articulates an imperative to redirect our society’s shared resources, e.g. city and state spending, space, planning, away from incarceration and surveillance and toward the reparation and self-determination for Black communities. While [direct actions](http://agendatobuildblackfutures.org/map/) that disrupt the status quo are an instrumental part of the BYP strategy, the Agenda to Build Black Futures marshals data, speculation, and narratives toward a powerful declaration of what is necessary to make Black communities thrive in the 21st century. The agenda is meant to inspire informed action. Some of the resources you can use inside or outside the classroom, for teach-ins, and online include videos about what #BuildBlackFutures means and invitations to [add your own content](http://agendatobuildblackfutures.org/add-your-video/), editorials, shareable graphics for social media, and links to the intertexts that dialogue with the Agenda.
 
 
-## RELATED MATERIALS
-
-In MLA format, list five related items that are informative for teaching with your keyword in mind.
-
-*For each item, include Author, Title, and URL, in alphabetical order.
-
-*For each item, include Author, Title, and URL, in alphabetical order.
-
-*For each item, include Author, Title, and URL, in alphabetical order.
-
-*For each item, include Author, Title, and URL, in alphabetical order.
-
-*For each item, include Author, Title, and URL, in alphabetical order.
-
 ## WORKS CITED
 
-Alcoff, Linda. “Mignolo’s Epistemology of Coloniality.” CR: The New Centennial Review, vol. 7, no. 3, 2007, pp. 79-101.
-Butler, Octavia. Parable of the Sower. New York: Warner, 2000.
-Black Youth Project. Agenda to Build Black Futures. agendatobuildblackfutures.org.
-Cox, Laverne. Interview with Katie Couric. Katie. ABC, 6 Jan. 2014.
-Davidson, Cathy and David Theo Goldberg. A Manifesto for the Humanities in a  Technological Age. Chronicle of Higher Education, vol. 50, no. 23, 13 Feb. 2004, pp. B7-B9.
-Defense Advanced Research Projects Agency (DARPA). Bridging the Gap Powered by Ideas. Arlington, VA: DARPA, 2005.
-Dimock, Wai Chee. Through Other Continents: American Literature Across Deep Time. Princeton: Princeton University Press, 2006.
-Gaiman Neil. “Introduction,” in Ray Bradbury, Fahrenheit 451. 60th Anniversary Edition. New York: Simon & Shuster, 2013.
-Grant, Sheryl. “Digital Badges.” HASTAC. 6 Mar. 2013. www.hastac.org/collections/digital-badges. 
-Jacobs, Sean, et al. Africa is a Country. africasacountry.com.
-Jenkins, Henry. Convergence Culture: Where Old and New Media Collide. New York: NYU Press, 2008.
---. Syllabi as Cultural Artifacts: MIT’s Introduction to Media Studies (Part One). USC Annenberg Innovation Lab. 8 Mar. 2016. www.annenberglab.com/blogs/hjenkins/2016/03/syllabi-cultural-artifacts-mit-s-introduction-media-studies-part-one.
-Kember, Sarah. Notes Towards a Feminist Futurist Manifesto. Ada: A Journal of Gender, New Media, and Technology, no. 1, 2012.
-Klink, Flourish and Kim Vaeth. Flourish Klink, and Kim Vaeth. CMS 100 Introduction to Media Studies. Massachusetts Institute of Technology: MIT OpenCourseWare, ocw.mit.edu/courses/comparative-media-studies-writing/cms-100-introduction-to-media-studies-fall-2014.
-Lury, Celia, Luciana Parisi, and Tiziana Terranova. “Introduction: The Becoming Topological of Culture.” Theory, Culture, and Society, vol. 19, no. 4/5, 2012, pp. 3-35. 
-Macharia, Keguro. Humanities and Higher Education in Kenya. Gukira. 25 Feb. 2016. gukira.wordpress.com/2016/02/25/humanities-higher-education-in-kenya.
-Moten, Fred and Stefano Harvey. The Undercommons: Fugitive Planning and Black Study. New York: Minor Compositions, 2013.
-Muñoz, José Esteban. Cruising Utopia: The Then and There of Queer Futurity. New York: NYU Press, 2009.
-Thussu, Daya Kishan. “Introduction,” in Media on the Move: Global Flow and Contra-Flow. New York: Routledge, 2006.
-Undercommoning Collective. Undercommoning: Revolution Within, Against, and Beyond the University. undercommoning.org.
+* Alcoff, Linda. “Mignolo’s Epistemology of Coloniality.” *CR: The New Centennial Review*, vol. 7, no. 3, 2007, pp. 79-101.
+* Butler, Octavia. *Parable of the Sower*. New York: Warner, 2000.
+* Black Youth Project. *Agenda to Build Black Futures*. agendatobuildblackfutures.org.
+* Cox, Laverne. "Interview with Katie Couric." *Katie*. ABC, 6 Jan. 2014.
+* Davidson, Cathy and David Theo Goldberg. "A Manifesto for the Humanities in a  Technological Age." *Chronicle of Higher Education*, vol. 50, no. 23, 13 Feb. 2004, pp. B7-B9.
+* Defense Advanced Research Projects Agency (DARPA). *Bridging the Gap Powered by Ideas*. Arlington, VA: DARPA, 2005.
+* Dimock, Wai Chee. *Through Other Continents: American Literature Across Deep Time*. Princeton: Princeton University Press, 2006.
+* Gaiman Neil. “Introduction,” in Ray Bradbury, *Fahrenheit 451*. 60th Anniversary Edition. New York: Simon & Shuster, 2013.
+* Grant, Sheryl. “Digital Badges.” HASTAC. 6 Mar. 2013. www.hastac.org/collections/digital-badges. 
+* Jacobs, Sean, et al. *Africa is a Country*. africasacountry.com.
+* Jenkins, Henry. *Convergence Culture: Where Old and New Media Collide*. New York: NYU Press, 2008.
+* --. Syllabi as Cultural Artifacts: MIT’s Introduction to Media Studies (Part One). USC Annenberg Innovation Lab. 8 Mar. 2016. www.annenberglab.com/blogs/hjenkins/2016/03/syllabi-cultural-artifacts-mit-s-introduction-media-studies-part-one.
+* Kember, Sarah. "Notes Towards a Feminist Futurist Manifesto." *Ada: A Journal of Gender, New Media, and Technology*, no. 1, 2012.
+* Klink, Flourish and Kim Vaeth. Flourish Klink, and Kim Vaeth. CMS 100 Introduction to Media Studies. Massachusetts Institute of Technology: MIT OpenCourseWare, ocw.mit.edu/courses/comparative-media-studies-writing/cms-100-introduction-to-media-studies-fall-2014.
+* Lury, Celia, Luciana Parisi, and Tiziana Terranova. “Introduction: The Becoming Topological of Culture.” *Theory, Culture, and Society*, vol. 19, no. 4/5, 2012, pp. 3-35. 
+* Macharia, Keguro. "Humanities and Higher Education in Kenya." *Gukira*. 25 Feb. 2016. gukira.wordpress.com/2016/02/25/humanities-higher-education-in-kenya.
+* Moten, Fred and Stefano Harvey. *The Undercommons: Fugitive Planning and Black Study*. New York: Minor Compositions, 2013.
+* Muñoz, José Esteban. *Cruising Utopia: The Then and There of Queer Futurity*. New York: NYU Press, 2009.
+* Thussu, Daya Kishan. “Introduction,” in *Media on the Move: Global Flow and Contra-Flow*. New York: Routledge, 2006.
+* Undercommoning Collective. Undercommoning: Revolution Within, Against, and Beyond the University. undercommoning.org.
