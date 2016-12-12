@@ -22,8 +22,8 @@ Bryan Alexander Consulting | [https://bryanalexander.org/](https://bryanalexande
 
 ##### Publication Status:
 * unreviewed draft
-* **draft version undergoing editorial review**
-* draft version undergoing peer-to-peer review
+* draft version undergoing editorial review
+* **draft version undergoing peer-to-peer review**
 * published 
 
 --- 
@@ -55,7 +55,8 @@ The following artifacts express these aspects of storytelling, pointing to its r
 * Copy of the Artifact: 
 * Creator and Affiliation: Mauricio Tripp, Unidad de Genómica Avanzada
 
-A detailed description of a single chemical process, this story serves several useful functions, including: a purely academic topic without autobiographical content; a mixture of videography with scientific visualization tools; a learning object; and a faculty member’s research emphasis.
+A detailed description of a single chemical process, this story serves several useful functions, including: a purely academic topic without autobiographical content; a mixture of videography with scientific visualization tools; a learning object; and a faculty member’s research emphasis.  For a researcher (faculty member, graduate student, undergrad researcher) this is a useful venue for communicating research to a general audience, as well as to fellow specialists.
+
 
 ### Dad, What do you do for a living?
 ![screenshot](images/storytelling-dad-what-do-you-do.png)
@@ -75,7 +76,8 @@ A professor describes his passion for chemistry.  This story offers a good examp
 * Copy of the Artifact: 
 * Creator and Affiliation: various, Macalaster College
 
-These stories offer autobiographical reflections about the experience of being a first generation college student.  This site is valuable as an example of a suite of stories arranged around a single theme, as well as for representing an underrepresented yet crucial population.  
+These stories offer autobiographical reflections about the experience of being a first generation college student.  This site is valuable as an example of a suite of stories arranged around a single theme, as well as for representing an underrepresented yet crucial population.  A class or academic program could generate these to build community and shared purpose, while explaining their work and identity to a larger audience.
+
 
 ### My Story
 ![screenshot](images/storytelling-my-story.png)
@@ -85,7 +87,8 @@ These stories offer autobiographical reflections about the experience of being a
 * Copy of the Artifact:  
 * Creator and Affiliation: Maria Merlos, LaGuardia Community College 
 
-This story offers autobiographical reflection on literacy and schooling, situating a student’s current ESL (English as a Second Language) studies, as well as an account of trauma and its aftermath. It is also valuable as a community college story.  
+This story offers autobiographical reflection on literacy and schooling, situating a student’s current English as a Second Language (ESL) studies, as well as an account of trauma and its aftermath. It is also valuable as a community college story. This story is in many ways classic StoryCenter (Center for Digital Storytelling) work, and as such accessible to any educator for whom autobiographical expression may be powerful.
+
 
 ### Delaware River 
 ![screenshot](images/storytelling-delaware-river.png)
@@ -95,7 +98,8 @@ This story offers autobiographical reflection on literacy and schooling, situati
 * Copy of the Artifact:  
 * Creator and Affiliation: Bonnie Falconer, Seton Hall University
 
-This story combines reflections on local ecosystems from ecological and personal perspectives. It offers a useful example of combining curriculum with autobiography, gving voice to the student perspective. It is also a good example of using video to contrast photographs.
+This story combines reflections on local ecosystems from ecological and personal perspectives. It offers a useful example of combining curriculum with autobiography, which could be developed by students or faculty. It also exemplifies the student perspective of engaging with a challenging academic topic. Formally, it’s a good example of using video to contrast photographs.
+
 
 ### Elisabet Ampudia Mesias
 ![screenshot](images/storytelling-Elisabet-Ampudia-Mesias.png)
@@ -105,7 +109,7 @@ This story combines reflections on local ecosystems from ecological and personal
 * Copy of the Artifact: 
 * Creator and Affiliation: Elisabet Ampudia Mesias, University of Minnesota
 
-In this story, an immigrant reflects on her family’s history, roots, and transition to a new land. A very useful example of the migrant story, it provides a fascinating example of working through two languages in an audio-visual medium.  
+In this story, an immigrant reflects on her family’s history, roots, and transition to a new land. A very useful example of the migrant story, which may become a crucial theme for higher education in the Trump era, in that it humanizes the other and documents the reality of migration.  It is also a fascinating example of working through two languages in an audio-visual medium.   
 
 ### Disgust, Death, and Disease
 ![screenshot](images/storytelling-Disgust-Death-and-Disease.png)
@@ -115,7 +119,7 @@ In this story, an immigrant reflects on her family’s history, roots, and trans
 * Copy of the Artifact: 
 * Creator and Affiliation: Amanda Boeing, Ohio State University 
 
-In this story a student introduces a disease for a biology class, bringing her personal perspective to bear.  This is a good example of a digital story about a challenging (viscerally, visually) topic.
+In this story a student introduces a disease for a biology class, bringing her personal perspective to bear.  It’s a good example of a digital story about a challenging (viscerally, visually) topic, in contrast to many feel-good or inspirational themes.  This approach may encourage students to engage with challenging or threatening subjects.
 
 ### Aquaphobia 
 ![screenshot](images/storytelling-Aquaphobia.png)
@@ -125,7 +129,7 @@ In this story a student introduces a disease for a biology class, bringing her p
 * Copy of the Artifact: 
 * Creator and Affiliation: june xie, Swarthmore College
 
-In this story, as student reflects on her fear of water, stemming from a childhood incident.  This reflection ties into an ecological curriculum, offering an example of blending the personal and the academic.  The visuals are largely impersonal, which is interesting in combination with the highly personal story.
+In this story, a student reflects on her fear of water, stemming from a childhood incident.  Once more we see an autobiographical story, but one privileging psychological challenges. Like “Disgust, Death, and Disease” this is one venue for students to confront their own attitudes and predispositions. This reflection ties into an ecological curriculum, offering an example of blending the personal and the academic.  The visuals are largely impersonal, which is interesting in combination with the highly personal story.
 
 ### FYS Education in America, Spring 2015
 ![screenshot](images/storytelling-FYS-Education-in-America.png)
@@ -135,7 +139,8 @@ In this story, as student reflects on her fear of water, stemming from a childho
 * Copy of the Artifact: 
 * Creator and Affiliation: Quinn McDonough, University of Richmond
 
-In this story, a student considers his study abroad experience.  This story demonstrates how digital storytelling can help students rethink and reflect on study abroad.
+In this story, a student considers his study abroad experience.  This story demonstrates how digital storytelling can help students rethink and reflect on study abroad, an established practice, given the challenges of returning students synthesizing their study abroad learning.  “FYS” also exemplifies a teacher reflecting on teaching, which is available to faculty, of course.
+
 
 ### Behind the Lens
 ![screenshot](images/storytelling-Behind-the-Lens.png)
