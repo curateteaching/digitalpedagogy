@@ -48,7 +48,7 @@ However, although each artifact is specific to the African diaspora experience, 
 
 #### Colored Conventions Curriculum
 
-![Curriculum-ColoredConventions.png](images/CurriculumColoredConventions.png)
+![Curriculum-ColoredConventions.png](images/Curriculum-ColoredConventions.png)
 
 * Source URL: http://coloredconventions.org/curriculum#set
 * Creator: The Colored Conventions Project Executive Committee  at the University of Delaware comprised of P. Gabrielle Foreman, Jim Casey, and Sarah Patterson
@@ -64,7 +64,7 @@ Described by the creators as "Colored Conventions in a Box," the aim of the curr
 The Decoloniality Sandbox is a collection of supplemental material created by Yomaira C. Figueroa to concide with the course she designed: Decoloniality, Diaspora, the Human. The course was first taught at Michigan State University as graduate seminar. Since then, Figueroa has made the promotional material for the course and the primary readings available online, and continues to discuss issues of decoloniality, diaspora, and the human using her Twitter account (@YFWoke). As a curated repository of readings, the Decoloniality Sandbox is useful to all those interested in what decolonial theory is and how it is used. In conjunction with Figueroa's offerings on decoloniality and Afrxdiasporic political thought online via Twitter, Figueroa provides and is an example of deconstructed/decolonial diaspora practices at work. Students will find the reading useful and important, graduate student will find Figueroa's broader practice useful as a model.
 
 #### Haiti: An Island Luminous
-![Haiti_An_Island_Luminous.png](images/Haiti_An_Island_Luminous.png)
+![Haiti_An_Island_Luminous.png](images/HaitiAnIslandLuminous.png)
 
 * Creator: Created by Adam M. Silva, hosted by the Digital Library of the Caribbean
 
