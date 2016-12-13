@@ -40,7 +40,9 @@ Michigan State University (Media & Information and Writing, Rhetoric, and Americ
  
 ## CURATORIAL STATEMENT 
  
-In the context of digital studies, we understand “Indigenous” in relation to Indigenous places, bodies, and futures. Traditionally framed as a “landless territory,” Western conceptions of cyberspace risk eliding the core principles of critical Indigenous studies, which are founded in place-based pedagogies. Evoking “Indigenous” in digital environments thus raises vital questions about our relationships to cosmologies, space, and lands. It also compels us to question if Indigenous lands and life can be repatriated through forms of creative intimacies formulated as cyber-justice. The pedagogical resources gathered here connect with “Indigenous” as an opportunity to:
+In the context of digital studies, we understand “Indigenous” in relation to Indigenous places, bodies, and futures. Traditionally framed as a “landless territory,” Western conceptions of cyberspace risk eliding the core principles of critical Indigenous studies, which are founded in place-based pedagogies. Evoking “Indigenous” in digital environments thus raises vital questions about our relationships to cosmologies, space, and lands. It also compels us to question if Indigenous lands and life can be repatriated through forms of creative intimacies formulated as cyber-justice. 
+
+The pedagogical resources gathered here connect with “Indigenous” as an opportunity to:
  
 * Conceive of new relationships to land and cyberspace through the digital,
 * Envision new ways of conceptualizing land as multiscalar,
