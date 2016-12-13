@@ -47,17 +47,6 @@ The following artifacts express these aspects of storytelling, pointing to its r
 
 ## CURATED ARTIFACTS
 
-### Lipid Aggregation: an everyday experiment
-![screenshot](images/storytelling-lipid-aggregation.png)
-* Artifact Type: digital story
-* Source URL: [http://web.archive.org/web/20050317120314/chem.acad.wabash.edu/~trippm/Lipids/](http://web.archive.org/web/20050317120314/chem.acad.wabash.edu/~trippm/Lipids/) 
-* Artifact Permissions: 
-* Copy of the Artifact: 
-* Creator and Affiliation: Mauricio Tripp, Unidad de Genómica Avanzada
-
-A detailed description of a single chemical process, this story serves several useful functions, including: a purely academic topic without autobiographical content; a mixture of videography with scientific visualization tools; a learning object; and a faculty member’s research emphasis.  For a researcher (faculty member, graduate student, undergrad researcher) this is a useful venue for communicating research to a general audience, as well as to fellow specialists.
-
-
 ### Dad, What do you do for a living?
 ![screenshot](images/storytelling-dad-what-do-you-do.png)
 * Artifact Type: digital story
@@ -78,7 +67,6 @@ A professor describes his passion for chemistry.  This story offers a good examp
 
 These stories offer autobiographical reflections about the experience of being a first generation college student.  This site is valuable as an example of a suite of stories arranged around a single theme, as well as for representing an underrepresented yet crucial population.  A class or academic program could generate these to build community and shared purpose, while explaining their work and identity to a larger audience.
 
-
 ### My Story
 ![screenshot](images/storytelling-my-story.png)
 * Artifact Type: digital story
@@ -89,7 +77,6 @@ These stories offer autobiographical reflections about the experience of being a
 
 This story offers autobiographical reflection on literacy and schooling, situating a student’s current English as a Second Language (ESL) studies, as well as an account of trauma and its aftermath. It is also valuable as a community college story. This story is in many ways classic StoryCenter (Center for Digital Storytelling) work, and as such accessible to any educator for whom autobiographical expression may be powerful.
 
-
 ### Delaware River 
 ![screenshot](images/storytelling-delaware-river.png)
 * Artifact Type: digital story
@@ -99,7 +86,6 @@ This story offers autobiographical reflection on literacy and schooling, situati
 * Creator and Affiliation: Bonnie Falconer, Seton Hall University
 
 This story combines reflections on local ecosystems from ecological and personal perspectives. It offers a useful example of combining curriculum with autobiography, which could be developed by students or faculty. It also exemplifies the student perspective of engaging with a challenging academic topic. Formally, it’s a good example of using video to contrast photographs.
-
 
 ### Elisabet Ampudia Mesias
 ![screenshot](images/storytelling-Elisabet-Ampudia-Mesias.png)
@@ -141,7 +127,6 @@ In this story, a student reflects on her fear of water, stemming from a childhoo
 
 In this story, a student considers his study abroad experience.  This story demonstrates how digital storytelling can help students rethink and reflect on study abroad, an established practice, given the challenges of returning students synthesizing their study abroad learning.  “FYS” also exemplifies a teacher reflecting on teaching, which is available to faculty, of course.
 
-
 ### Behind the Lens
 ![screenshot](images/storytelling-Behind-the-Lens.png)
 
@@ -151,7 +136,17 @@ In this story, a student considers his study abroad experience.  This story demo
 * Copy of the Artifact: 
 * Creator and Affiliation: Sarah Buckle, University of Houston
 
-This story shares an autobiographical meditation on photography.   Like "Dad, What do you do for a living?" “Behind the Lens” lets the creator explain and dive into their academic interest.  This would make a fruitful assignment for undergraduates as they complete their majors, not to mention for faculty and staff describing their work.  Formally, It is difficult to tell which photos are the author’s and which are from other sources, which is a common, interesting, and teachable problem.
+This story shares an autobiographical meditation on photography.   Like "Dad, What do you do for a living?" “Behind the Lens” lets the creator explain and dive into their academic interest.  This would make a fruitful assignment for undergraduates as they complete their majors, not to mention for faculty and staff describing their work.  Formally, it is difficult to tell which photos are the author’s and which are from other sources, which is a common, interesting, and teachable problem.
+
+### Sample Rubric, Digital Storytelling Tips and Resources
+![screenshot](images/storytelling-sample-rubric.png)
+* Artifact Type: rubric
+* Source URL: [https://net.educause.edu/ir/library/pdf/ELI08167B.pdf](https://net.educause.edu/ir/library/pdf/ELI08167B.pdf)
+* Artifact Permissions: Copyright Gail Matthews-deNatale 
+* Copy of the Artifact: 
+* Creator and Affiliation: Gail Matthews-deNatale, Northeastern University
+
+These are very detailed rubrics for assessing student digital story work.  They include elements of technology use, formal skill, and curricular engagement.  They can be repurposed for a variety of educational settings.
 
 ## RELATED MATERIALS
 
