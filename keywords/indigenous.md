@@ -143,6 +143,15 @@ CyberPowWow was the first interactive, online, Indigenous art gallery running fr
 * Creator: Elizabeth LaPensée
  
 Elizabeth LaPansée’s Honour Song activates Anishinaabemowin songs gifted by Sharon Day, the Oshkii Giizhik Singers, and Elders. Repatriating Indigenous land and life as in-motion or in-migration through the kinesthetic waves of water, Honour Song activates Indigenous intelligence through voicing forms of "sonic intimacies" (Campbell) between bodies and waters in digital space-time. Since water holds space underneath the gravel and concrete of the cities, Honour Song can be introduced to the students as an exercise of spatially/sonically mapping the oftentimes hidden (paved over, buried) underground waterways in citified Indigenous territories. Students are encouraged to research and travel to the portal sites of underground waterways in respective Indigenous territories and build sonic intimacies through the act of singing water songs along with the app. Be mindful of how the body is being realigned/reoriented in relationship to the sound kinesthetic (how sounds shape space) produced through singing in Anishinaabemowin. Consider the ways in which sound shapes movements, flows, and migrations throughout the cities as gathering spaces. How might these flows (sonically, in relationship within the bodies of water) be acknowledging radical alterities? Who are the Indigenous stewards/caretakers and those visioning futurities in the city within which you are living, and how might these original languages/songs impact the futurities of water?
+
+
+#### Skins: Workshops on Aboriginal Storytelling in Digital Media
+![Skins](images/Skins.png)
+
+* Source URL: http://skins.abtec.org/game_.html
+* Creators: Jason Lewis & Skawennati
+
+Skins is a unique digital media workshop for Indigenous youth, designed and facilitated by an "Aboriginally determined team of game designers, artists and educators" known as Aboriginal Territories in Cyberspace (AbTeC). Via the URL provided here, students can download videogames designed in these workshops and read blog entries from the game makers. A documentary on the workshop and a curriculum are also available for instructors. The data provided through the URL are great for students to consider the intersections between tradition and innovation (Glaskin) and experience the ways in which Indigenous youth are mobilizing technology towards Indigenous storytelling in cyberspace (Todd). 
  
 ## RELATED MATERIALS
  
