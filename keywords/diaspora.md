@@ -115,7 +115,7 @@ The #Strolling series is a series of short video documentaries created by docume
 ### READING DIGITAL DIASPORA
 
 #### Mapping Caribbean Cyberfeminisms
-[!Mapping Caribbean Cyberfeminisms](images/MappingCaribbeanCyberfeminisms.png)
+![Mapping Caribbean Cyberfeminisms](images/MappingCaribbeanCyberfeminisms.png)
 
 * Source URL: http://smallaxe.net/sxarchipelagos/issue01/haynes-mapping.html
 * Creator: Tonya Haynes, Institute for Gender and Development Studies: Nita Barrow Unit, founder of Code Red for Gender Justice! and CatchAFyah Caribbean Feminist Network
