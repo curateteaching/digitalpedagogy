@@ -28,7 +28,7 @@ Johns Hopkins University
 
 --- 
 
-## CURATORIAL STATEMENT
+## Curatorial Statement
 
 In 2001, African diaspora historian and Brazilianist/South Atlanticist Kim Butler described diaspora study as addressing five elements. The first element concerned the reasons for and conditions of dispersal, with an emphasis on the forced (structural or literal) dispersal of peoples from a place they identified as their homeland. The second and third elements concerned the relationship (fictive, biological, or otherwise articulated) between the diaspora and its homeland and hostland. The fourth and fifth elements concerned relationships internal to and between diaspora communities. Butler's goal, at the time, was to "identify categories of analysis relevant to all diasporas, regardless of size or type" To be certain, these five elements still have the potential to guide, disrupt, and cohere diaspora study, methodology, and thought in productive and generative ways. Omise'eke Tinsley, discussing the black queer diasporas of the Caribbean, brings much of this to life in her appropriation of Deleuze and Guattari's exposition of the _rhizome_ : "What vocabulary works for African diaspora grammars of gender and sexuality in the English-, French- and Dutch-based creoles that spread rhizomatically through the Americas' (former) slave societies?" 
 
@@ -42,9 +42,9 @@ In curating artifacts for the keyword diaspora, it is easy to become lost in min
 
 However, although each artifact is specific to the African diaspora experience, each artifact was also chosen for the way it elaborates on those five elements of diaspora as described by Butler. In other words, while the subject each artifact tackles is one specific to peopof African descent over time and place, each artifact's method, theory, and praxis illuminates something beyond the needs of one diaspora community. Each artifact demonstrates how the digital informs the study and formation of diasporic communities, and the practice of being diasporic. Each artifact engages in diasporic processes and the range of procedures is quite diverse. Once again, there can be no single, linear mode of engaging diaspora, no single definition of what diaspora is as a whole. Indeed, whether describing Jewish, Irish, or South Asian diasporas and diasporic formulations, the constituent elements of diaspora require multinodal thinking, non-linear humanistic formations, and a political praxis that is attuned to what has been pushed out, what has been deemed whole/canon/legitimate, what is silenced, and the violence inherent in making and breaking each of these as historical events. Diaspora, as these artifacts show, can be neither innocent nor voluntary. Diaspora suggests state, imperial, and therefore structural violence alongside beautiful and defiant resistance to dehumanization. How pedagogy grapples with the tension between these must be a crucial part of any digital diaspora practice today.
 
-## CURATED ARTIFACTS 
+## Curated Artifacts 
 
-##PEDAGOGY
+### PEDAGOGY
 
 #### Colored Conventions Curriculum
 
@@ -63,7 +63,6 @@ Described by the creators as "Colored Conventions in a Box," the aim of the curr
 
 The Decoloniality Sandbox is a collection of supplemental material created by Yomaira C. Figueroa to concide with the course she designed: Decoloniality, Diaspora, the Human. The course was first taught at Michigan State University as graduate seminar. Since then, Figueroa has made the promotional material for the course and the primary readings available online, and continues to discuss issues of decoloniality, diaspora, and the human using her Twitter account (@YFWoke). As a curated repository of readings, the Decoloniality Sandbox is useful to all those interested in what decolonial theory is and how it is used. In conjunction with Figueroa's offerings on decoloniality and Afrxdiasporic political thought online via Twitter, Figueroa provides and is an example of deconstructed/decolonial diaspora practices at work. Students will find the reading useful and important, graduate student will find Figueroa's broader practice useful as a model.
 
-
 #### Haiti: An Island Luminous
 ![Haiti_An_Island_Luminous.png](images/Haiti_An_Island_Luminous.png)
 
@@ -80,7 +79,6 @@ Haiti: An Island Luminous is a digital project that functions as a learning acti
 * Creator: Vincent Brown, Principal Investigator and Curator, Harvard University
 
 The Slave Revolt in Jamaica Project is an "animated thematic map" that "narrates the spatial history of the greats slave insurrection in the eighteenth century British Empire." In 1760, Africans in St. Mary's Parish of Jamaica, led by Tacky, rose up against their owners. The revolt set off a chain reaction of events which the project outlines. The project is relevant as a tool highlighting a critical event in African diaspora history, but, again, this project does more than narrate history. Slave Revolt in Jamaica uses an 18th century map of the island to capture the geospatial politics of the island and the massive impact of the uprising, as well as capture the micropolitics of resistance by highlighting treacherous terrain crossed. The animation likewise brings both the macro and micro together by articulating the flow of rebels and military response. It is crucial to teach the history of African diasporic resistance and revolt during the period of slavery, but it is often difficult to capture and express to students with little reference or foundational knowledge. This project could be used in an Atlantic slavery, Caribbean history or British empire course.
-
 
 #### #SlaveryArchive
 ![Slavery Archive.png](images/SlaveryArchive.png)
