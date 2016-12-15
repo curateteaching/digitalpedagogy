@@ -106,6 +106,7 @@ Type: History Assignment
 [Source](Photographs.pdf)
 
 Creator: Jaime Cardenas[a][b], PhD, Instructor of History, Tenured, Seattle Central College
+
 Just like the understanding that all young people are “digital natives” is wrong, so is it wrong to assume that they are adroit interpreters of primary visual sources.  This assignment seeks to utilize the interest younger students have of visual culture in order to expand their abilities to interpret the past. In this case, because they are interpreting images of public education, something with which most of them have had direct experience, their interaction with these primary sources will be relatively intimate. Thus, this assignment has two built-in advantages: the use of visuals and a “projected” nostalgia. Students may not initially observe images within the historical context that produced the primary source.  As Barbara Ormond and others recommend, we should guide our students through a detailed process that makes images, initially, less discernible, so that in the end students will become better interpreters of the past.
  
 ###Mapping Race in Seattle
