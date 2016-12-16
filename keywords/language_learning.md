@@ -51,8 +51,6 @@ The artifacts presented provide examples of meaningful implementations of digita
 ![screenshot](images/language_learning-acceso.png)
 * Artifact Type: Webpage 
 * Source URL:  [http://acceso.ku.edu](http://acceso.ku.edu) 
-* Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation: [Amy E. Rossomondo](https://spanport.ku.edu/amy-rossomondo) (University of Kansas)
 
 The Collaborative Digital Spanish Project *Acceso*, created at the University of Kansas, is an open-access platform that is free to anyone with Internet access. This platform, which is a complete, interactive curriculum for intermediate-level learners of Spanish, includes videos and readings on current topics, as well as grammar and vocabulary sections. More importantly, the six categories (Apertura, Voces, Almanaques, Sucesos, Un paso más, and Perspectivas) under each unit allow learners to enter the virtual Spanish-speaking world, which allows them to understand and interpret thoughts, feelings, facts and opinions, by linking to sites that connect learners with content read and seen by Spanish-native speakers. These units also include interactive activities and comprehension checks where learners can test their comprehension skills. Because of the digital nature of *Acceso*, its content is always up-to-date and relevant. From a pedagogical perspective, the curriculum is research-based and in line with current best practices in foreign language teaching. Thus, it makes the most of technological tools to enhance the learners’ learning experience.
@@ -61,8 +59,6 @@ The Collaborative Digital Spanish Project *Acceso*, created at the University of
 ![screenshot](images/language_learning-digital-stories.png)
 * Artifact Type: Article 
 * Source URL: [http://fltmag.com/digital-stories/](http://fltmag.com/digital-stories/) 
-* Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation: [Polina Vinogradova](http://www.american.edu/profiles/staff/vinograd.cfm) (American University)
 
 Digital stories, story lines that integrate text, images, and sounds in an
@@ -85,8 +81,6 @@ relevant elements within the context of their classes.
 ![screenshot](images/language_learning-eComma.png)
 * Artifact Type: website 
 * Source URL: [https://ecomma.coerll.utexas.edu](https://ecomma.coerll.utexas.edu) 
-* Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation: [Carl Blyth](http://liberalarts.utexas.edu/frenchitalian/faculty/profile.php?id=blythcs) (The University of Texas at Austin)
 
 eComma, a free software module that plugs into Drupal, is an open source content management system that can be used synchronously or asynchronously and that allows a group of users to (a) annotate the same text together, and (b) share their annotations with one another. As seen in the work of Blyth (2014), regardless of its use in L2 sociolinguistic or L2 reading courses, eComma learners “crowd source” their reading burdens at the same time that they share their insights. Blyth, for example, asked his learners to annotate a poem’s surreal non-sequiturs and juxtapositions. Through the digital social reading (and learning!) facilitated by eComma, learners not only post multiple comments but also reply to their classmates’ entries. The result is a more nuanced and creative text analysis than learners could have probably done on their own. 
@@ -94,9 +88,6 @@ eComma, a free software module that plugs into Drupal, is an open source content
 ### Hashtag
 ![screenshot](images/language_learning-hashtag.png)
 * Artifact Type: Tweet
-* Source URL: 
-* Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation:  [Geraldine Blattner](http://www.fau.edu/french/blattner.php) (Florida Atlantic University), [Amanda Dalola](http://artsandsciences.sc.edu/dllc/directory/Dalola) (University of 
 South Carolina), [Lara Lomicka](http://artsandsciences.sc.edu/dllc/Fren/Faculty/facdocs/lomicka.html) (University of South Carolina)
 
@@ -105,7 +96,6 @@ Twitter can be used as a tool to expose L2 learners to authentic and culturally 
 ### Identity text
 ![screenshot](images/language_learning-identity-text.png)
 * Artifact Type: digital story 
-* Source URL:  	
 * Artifact Permissions: (provided by creator)
 * Copy of the Artifact: [files/language_leraning-Ester-Vizcaino-Zaera.mp4](files/language_leraning-Ester-Vizcaino-Zaera.mp4)
 * Creator and Affiliation: [María Dolores García-Pastor](https://uv.academia.edu/MariaDoloresGarciaPastor) (Universitat de València)
@@ -115,9 +105,7 @@ Language learning identity texts, artifacts that illustrate language learners’
 ### Nunca había sido tan feliz
 ![screenshot](images/language_learning-nunca.png)
 * Artifact Type: image 
-* Source URL: 
 * Artifact Permissions: Permission to use screencast requested.
-* Copy of the Artifact: 
 * Creator and Affiliation: Neil Anderson (Texas Tech University)
 
 One of the benefits of a screencast program in the language writing class is that it allows the instructor to emphasize the communicative purpose of the task. To overcome learners’ focus on the linguistic and local elements of an essay, the instructor in this example first provided comments on content, structure, and organization to emphasize that these are fundamental aspects of effective written communication. Then, the instructor focused on local aspects, such as grammar, vocabulary, and editing. A benefit of this software program is that the instructor can use the cursor to hover over the area where the error is, which thus helps learners see the error in context.  Albeit probably the least social and interactive of the artifacts presented, learners feel engaged in a dialogue with the instructor, which underscores that hearing the instructor’ s voice makes the feedback more personal and therefore motivational than written feedback.
@@ -125,7 +113,6 @@ One of the benefits of a screencast program in the language writing class is tha
 ### Poco a poco
 ![screenshot](images/language_learning-poco-a-poco.png)
 * Artifact Type: A short movie showing acoustic analysis software  
-* Source URL: 
 * Artifact Permissions: (provided by creator) 
 * Copy of the Artifact: [files/language_learning-poco-a-poco-in-praat-2.mp4](files/language_learning-poco-a-poco-in-praat-2.mp4)
 * Creator and Affiliation: [Gillian Lord](http://people.clas.ufl.edu/glord) (University of Florida) 
@@ -136,8 +123,6 @@ Learners’ pronunciation is often neglected in Spanish language classes.  Gilli
 ![screenshot](images/language_learning-sonnenallee.png)
 * Artifact Type: website 
 * Source URL: [http://sonnenallee.wikispaces.com/](http://sonnenallee.wikispaces.com/) 
-* Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation: [Lara Ducate](http://artsandsciences.sc.edu/dllc/german/faculty/facdocs/Lara_Ducate.html) (University of South Carolina) and [Nike Arnold](http://www.pdx.edu/linguistics/nike-arnold) (Portland State
 University)
 
@@ -146,7 +131,6 @@ Wikis, which allow learners to write collaboratively in a document, have frequen
 ### Telecollaboration
 ![screenshot](images/language_learning-telecollaboration.png)
 * Artifact Type: Syllabus 
-* Source URL:  
 * Artifact Permissions: (provided by creator) 
 * Copy of the Artifact: [files/language_learning-Collaborative_schedule.pdf](files/language_learning-Collaborative_schedule.pdf)
 * Creator and Affiliation: [Ana María Gimeno Sanz](http://agimeno.webs.upv.es/) (Universitat Politècnica de València) 
@@ -157,9 +141,7 @@ This syllabus belongs to a telecollaborative encounter between a third-year Span
 ### What’s happeNING?
 ![screenshot](images/language_learning-Whats-happeNING.jpg)
 * Artifact Type: forum 
-* Source URL:  
 * Artifact Permissions: provided by creator
-* Copy of the Artifact: 
 * Creator and Affiliation: [Ana Brígido-Corachán](https://uv.academia.edu/AnnaMBrigidoCorachan) (Universitat de València) and Mª Goretti Zaragoza-Ninet
 (Universitat de València)
 
