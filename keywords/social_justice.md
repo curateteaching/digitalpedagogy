@@ -46,7 +46,6 @@ Curating the keyword social justice forced me to consider the number of ways in 
 * Artifact Type: course site
 * Source URL: [http://criticaldh.roopikarisam.com](http://criticaldh.roopikarisam.com) 
 * Artifact Permissions: © Social Justice and the Digital Humanities 2016. All rights reserved.
-* Copy of the Artifact: 
 * Creator and Affiliation: Roopika Risam, Salem State University
 micha cárdenas, University of Southern California
 
@@ -56,8 +55,6 @@ Dr. Risam developed “An Invitation Towards Social Justice in the Digital Human
 ![screenshot](images/social_justice-RaceClassSocialJusticeFall2015W.png)
 * Artifact Type: syllabus
 * Source URL: [http://ajccenter.wfu.edu/wp-content/uploads/2014/06/RaceClassSocialJusticeFall2015W.pdf](http://ajccenter.wfu.edu/wp-content/uploads/2014/06/RaceClassSocialJusticeFall2015W.pdf) 
-* Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation: Melissa Harris-Perry, Wake Forest University
 
 The syllabus created by Dr. Harris-Perry is an excellent example of an interdisciplinary teaching created for an introductory level political science class, the readings on social justice come from journalists, activists, and scholars with various disciplinary backgrounds. Central to this syllabus is the combination of theory, method and action. Students are required to read theory and build definitions for their engagement through written assignments. They engage in practical methods for social action in the “Tool Kit” building assignment and finally engage in direct action in the social action activity and writing reflection. 
@@ -68,7 +65,6 @@ This is an excellent example of a course taught in an educational environment wi
 ![screenshot](images/social_justice-Advanced-Writing-for-the-discipline.png)
 * Artifact Type: Syllabus
 * Source URL: [http://www.drtonieshaltaylor.com/teaching](http://www.drtonieshaltaylor.com/teaching) 
-* Artifact Permissions: 
 * Copy of the Artifact: [files/social_justice-Advanced-Writing-for-the-discipline.pdf](files/social_justice-Advanced-Writing-for-the-discipline.pdf)
 * Creator and Affiliation: Toniesha L. Taylor, Prairie View A&M University
 
@@ -76,9 +72,6 @@ This syllabus is for a course that teaches advanced research writing and design 
 
 ### GIS Mapping Introduction
 ![screenshot](images/social_justice-GISMapping_Introduction.png)
-* Artifact Type:
-* Source URL: []() 
-* Artifact Permissions: 
 * Copy of the Artifact: [files/social_justice-GISMapping_Introduction.pdf](files/social_justice-GISMapping_Introduction.pdf)
 * Creator and Affiliation: Noel M. Estwick, Prairie View A&M University 
 
@@ -86,9 +79,7 @@ This activity was created by Dr. Estwick for COMM 4543 where he was a guest lect
 
 ### Group Contract (COMM 4543)
 ![screenshot](images/social_justice-Group-Contract.png)
-* Artifact Type:
 * Source URL: [http://www.drtonieshaltaylor.com/teaching](http://www.drtonieshaltaylor.com/teaching) 
-* Artifact Permissions: 
 * Copy of the Artifact: [files/social_justice-Group-Contract.pdf](files/social_justice-Group-Contract.pdf)
 * Creator and Affiliation: Toniesha L. Taylor, Prairie View A&M University
 
@@ -98,7 +89,6 @@ Group work is always interesting. One of  the things that I find valuable is som
 ![screenshot](images/social_justice-FINAL-ASSIGNMENT-CHECK-LIST.png)
 * Artifact Type: Handout
 * Source URL: [http://www.drtonieshaltaylor.com/teaching](http://www.drtonieshaltaylor.com/teaching) 
-* Artifact Permissions: 
 * Copy of the Artifact: [files/social_justice-FINAL-ASSIGNMENT-CHECK-LIST.pdf](files/social_justice-FINAL-ASSIGNMENT-CHECK-LIST.pdf)
 * Creator and Affiliation: Toniesha L. Taylor, Prairie View A&M University
 
@@ -107,9 +97,7 @@ This handout is used by students to organize their final projects. The expectati
 
 ### Transferring Intersectional and Performative Responses
 ![screenshot](images/social_justice-Transferring-Intersectional-and-Performative-Responses.png)
-* Artifact Type:
 * Source URL: [http://www.drtonieshaltaylor.com/](http://www.drtonieshaltaylor.com/) 
-* Artifact Permissions: 
 * Copy of the Artifact: [files/social_justice-Transferring-Intersectional-and-Performative-Responses.pdf](files/social_justice-Transferring-Intersectional-and-Performative-Responses.pdf)
 * Creator and Affiliation: Dr. Robert Gutierrez-Perez, Assistant Professor of Communication, University of Nevada, Reno (Original Creator), Dr. Amber L. Johnson, Assistant Professor of Communication, St. Louis University, and Dr. Toniesha L. Taylor, Associate Professor of Communication, Prairie View A&M University
 
@@ -117,9 +105,6 @@ Dr. Johnson and I modified this activity from one created by Dr. Robert Gutierre
 
 ### Walk of Life - Power in Society
 ![screenshot](images/social_justice-walk-of-life.png)
-* Artifact Type:
-* Source URL: []() 
-* Artifact Permissions: 
 * Copy of the Artifact: [files/social_justice-Walk-of-Life.pdf](files/social_justice-Walk-of-Life.pdf)
 * Creator and Affiliation: Dr. Dreama G. Moon, California State University, San Marcos
 
@@ -129,8 +114,6 @@ Over the years I have had the opportunity to use this activity with students in 
 ![screenshot](images/social_justice-saturdayschool.png)
 * Artifact Type: Activity
 * Source URL: [http://funknbeans.com/category/saturdayschool/](http://funknbeans.com/category/saturdayschool/) 
-* Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation:  Rhonda Ragsdale, Lone Star College - North Harris
 
 There are a number of ways to engage in digital pedagogy. Professor Ragsdale’s work on the #SaturdaySchool is a wonderful example of public engagement in teaching and learning. The site includes write-ups for each week’s theme on social justice. Professor Ragsdale runs the weekly twitter conversation throughout the day engaging with hundreds if not thousands of followers. As a form of direct action Professor Ragsdale brings critical engagement in social justice out of the college classroom and on Twitter with all sorts of audiences. As a classroom activity students can participate with the conversation as an observer or as a participant. Those interested in using this activity to teach methods of public intellectualism will find Professor Ragsdale’s philosophy on teaching and learning clearly thought through and honestly executed. Over time Professor Ragsdale has added the tag #SoJust to the #SaturdaySchool grouping and advertises the weekly tag 24 hours prior to the start of the live discussion. Students and professor will find the discussion productive and useful. 
@@ -140,8 +123,6 @@ There are a number of ways to engage in digital pedagogy. Professor Ragsdale’s
 ![screenshot](images/social_justice-SoJust-Twitter-Teach-In.png)
 * Artifact Type: Activity
 * Source URL: [https://twitter.com/profragsdale/status/743878457164079105](https://twitter.com/profragsdale/status/743878457164079105) 
-* Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation: Rhonda Ragsdale, Lone Star College - North Harris
 
 Professor Ragsdale [https://twitter.com/profragsdale](https://twitter.com/profragsdale) generously created this eight point layout for instructors who wish to engage in future teach-ins. As a form of social justice, teach-ins are sustainable and proven means to engage all sorts of people in learning. As an introductory activity for instructors learning to engage audiences, a Twitter teach-in is an easy lift. Professor Ragsdale shows would-be instructors in an easy to follow 8 step discussion on the rules, the practices and methods of the teach-in. Participants are encouraged to use and follow the hashtags to participate whenever they want. For classroom instructors, this is a great way to engage students in class by asking them review and participate in the hashtag. It is also an excellent way to discuss media literacy, critical thinking, and digital presentations of information. 
