@@ -59,7 +59,6 @@ We highlight many pedagogical collaborations that have established a culture of 
 * Artifact Type: Open online course CCK11 (updated from CCK08, first connectivist MOOC)
 * Source URL: [http://cck11.mooc.ca/index.html](http://cck11.mooc.ca/index.html) 
 * Artifact Permissions: CC-BY-NC-SA
-* Copy of the Artifact: 
 * Creator and Affiliation: George Siemens, University of Texas, Arlington and Stephen Downes, Learning and Performance Support Systems, National Research Council of Canada 
 
 Connectivism is a learning model developed by George Siemens and Stephen Downes. It emerged as previous theories of behaviorism, cognitivism and constructivism failed to explain distributed socially-networked learning. This artifact is a connectivist MOOC about connectivism. The [principles of connectivism](http://www.elearnspace.org/Articles/connectivism.htm) include that learning benefits from diversity of opinions, that the process of forming connections is more important than collecting knowledge, and that nurturing connections supports future learning of the unknowable unknown. [“How This Course Works”](http://cck11.mooc.ca/how.htm) is that participants aggregate, remix, repurpose and feedforward. The value is not content or assignments/activities suggested by facilitators, but what the participants themselves make of it - facilitators
@@ -71,7 +70,6 @@ share an [aggregation of feeds from participant blogs/tweets](http://cck11.mooc.
 * Artifact Type: an online commons
 * Source URL: [http://femtechnet.newschool.edu](http://femtechnet.newschool.edu) 
 * Artifact Permissions: CC-BY-NC-SA
-* Copy of the Artifact:  
 * Creator and Affiliation: FemTechNet, Multiple Universities
 
 FemTechNet is a network of scholars, artists, and students who work on, with, and at the borders of technology, science and feminism in a variety of fields including STS, Media & Visual Studies, Art, Women’s, Queer, and Ethnic Studies.  Members in the network collaborate on the design and creation of projects of feminist technological innovation. This artifact highlights how a network may support a variety of different kinds of learners. Some may participate in the [FemTechNet DOCC](http://femtechnet.newschool.edu/docc2013/) (“Distributed Open Collaborative Course” - a collaborative open course structure) through the creation of independent studies arranged by students and teachers in other learning contexts.  Others may connect as self-directed learners who participate on their own.  In addition, the network supports “drop-in learners” who tune in for a particular discussion. The power of the network is illustrated by the variety of FemTechNet projects which can be initiated by anyone through the FemTechNet Commons.
@@ -81,7 +79,6 @@ FemTechNet is a network of scholars, artists, and students who work on, with, an
 * Artifact Type: blogpost with diagram
 * Source URL: [http://couros.ca/cv/research/story-of-an-idea/](http://couros.ca/cv/research/story-of-an-idea/) 
 * Artifact Permissions: CC-BY-NC-SA
-* Copy of the Artifact: 
 * Creator and Affiliation: Alec Couros, University of Regina
 
 The diagram titled “The Networked Teacher” produced by Alec Couros (within the context of his doctoral dissertation), illustrates his discovery of emerging teacher networks.  It has been reused, remixed, redistributed and used in hundreds of presentations by educators worldwide. The “Networked Teacher” blog and diagram is a testament to Couros’ devotion to open education influenced by the ideals of the open source software movement, open content, and open access (an important aspect of the ethics of networked learning). It highlights the tools and practices a networked teacher employs when growing a Personal Learning Network.  In turn, the blog post reveals the evolution of this simple diagram as evidenced by several linguistic translations and a video inspired by the concept.  This artifact serves both as a representation of networked learning, as well as evidence of the practices of educators who produce, share, and distribute open content via their learning networks. 
@@ -91,7 +88,6 @@ The diagram titled “The Networked Teacher” produced by Alec Couros (within t
 * Artifact Type: Networked Digital Annotation
 * Source URL: [https://hypothes.is/nwp-invitational-summer-institute-annotatathon/](https://hypothes.is/nwp-invitational-summer-institute-annotatathon/) and [http://letters2president.org/opportunity/nwp-a-more-perfect-union-teacher-annotatathon/](http://letters2president.org/opportunity/nwp-a-more-perfect-union-teacher-annotatathon/)
 * Artifact Permissions: unclear, but annotations are by default CC0
-* Copy of the Artifact: 
 * Creator and Affiliation: Hypothes.is and National Writing Project
 
 Digital annotation can expand our understanding of what is possible when we read together.  [Hypothes.is](https://hypothes.is/) facilitates the act of shared reading. It leverages group annotation to enable sentence-level critique and multimodal note-taking on any text found on the internet. An example of the networked use of this tool comes from [Letters to the Next President 2.0](http://letters2president.org) which hosted an “annotatathon” in Summer 2016 together with the National Writing Project and KQED, and several Educator Innovator partners. Through the power of social annotation, students and educators share insights on Obama’s “A More Perfect Union” speech.  L2P 2.0 has been launched as a network learning space to spark research, thinking and civic engagement with youth. After the annotatathon, the project will convert to a massive, open online publishing platform where any educator or youth mentor can make space for students to voice their thinking.
@@ -112,7 +108,6 @@ This is a crowdsourced document in which participants in a rhizomatic/connectivi
 * Artifact Type: online handbook (with collaborative annotation)
 * Source URL: [http://peeragogy.github.io](http://peeragogy.github.io)
 * Artifact Permissions: CC0
-* Copy of the Artifact:  
 * Creator and Affiliation: J. Corneli, C. J. Danoff, C. Pierce, P. Ricuarte, and L. Snow MacDonald, eds. *The Peeragogy Handbook*. 3rd ed. Chicago, IL./Somerville, MA.: PubDomEd/Pierce Press, 2016. Downloaded from http://peeragogy.org.  
 
 A “how-to-do-it” resource on how a group of self-learners can organize via networked co-learning. *The Peeragogy Handbook* is a crowdsourced and collaboratively annotated compendium for any group of people who want to co-learn any subject together using the tools and knowledge available online.  When students are given an open group research project, this handbook guides co-learners in identifying shared purpose and defining self determined learning outcomes. The term “peeragogy” comes from [Howard Rheingold](http://rheingold.com/) via his [Social Media Classroom](http://socialmediaclassroom.com/).  Rheingold instigated this project, serving as a “catalyst” for the creation of this peer-created guide to pure peer-to-peer learning in the networked era. Peeragogy is a flexible framework of techniques for peer learning and peer knowledge production. Whereas pedagogy deals with the transmission of knowledge from teachers to students, peeragogy is what people use to produce and apply knowledge together. The strength of peeragogy is its flexibility and scalability through networked learning. 
@@ -140,7 +135,6 @@ The first four of these are adapted from Kirkpatrick’s work, long used in the 
 * Artifact Type: Twitter hashtag #tjc16 representing Twitter Journal Club
 * Source URL: [https://tjc16.wordpress.com/](https://tjc16.wordpress.com/) 
 * Artifact Permissions: Creative Commons Attribution-NonCommercial 4.0 International License.
-* Copy of the Artifact: 
 * Creator and Affiliation: Laura Gogia
 
 Laura Gogia started Twitter Journal Club (originally #tjc15) while she was a graduate student; people agree to read an article together at a designated time period, and livetweet as they go (occasionally with the author responding on Twitter).  A hashtag on Twitter allows anyone to observe any time and jump in whenever they like; they do not need to be part of the community, nor does using a hashtag make them part of the community if they do not wish to use it regularly. Discussion can be synchronous, planned or spontaneous, or asynchronous over an extended time. Participation does not require membership in a community, but helps build PLNs, as [Shelly Terrell explains](http://dmlcentral.net/shelly-terrell-global-netweaver-curator-pln-builder/).  This artifact serves as a both as a model and a tutorial. See this [Storify](https://storify.com/GoogleGuacamole/may-2016-twitter-journal-club-tjc16) to see a sample Twitter chat in retrospect, and [this article](http://www.digitalpedagogylab.com/hybridped/careful-approach-to-digital-scholarship/) for the backstory behind TJC.
@@ -149,8 +143,6 @@ Laura Gogia started Twitter Journal Club (originally #tjc15) while she was a gra
 ![screenshot](images/network-tvsz.jpg)
 * Artifact Type: Twitter game
 * Source URL: [http://tvsz.us](http://tvsz.us) 
-* Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation: Pete Rorabaugh, Kennesaw State University and Jesse Stommel, University of Mary Washington (later redesigned and faciltated by others)
 
 Rorabaugh and Stommel created “an epic zombified experiment in Twitter literacy, gamification, collaboration, and emergent learning.” #TvsZ is a Twitter adaptation of the game humans vs. zombies (a game of tag played in college), meant to develop digital literacy. Often played by college students with anyone on Twitter who wishes to participate, it “offers no certificate or diploma, but an opportunity to connect with others”. People who play need to learn to collaborate with virtual strangers online during the condensed (around 3-day) period of play, experiencing accelerated network-building. A key feature is emergent [game rules](http://tvsz.us/rules/), and that players themselves participate in suggesting changes. In 2015 Rorabaugh mentions how the game evolved. Its then-latest zombie-free version had 6 administrators from Canada, Egypt and US. It presents an approach to perforating the classroom, introducing students to global, networked learning while learning digital literacy. [Curated artifacts from 6.0](http://fliphtml5.com/segh/davk) 
@@ -160,7 +152,6 @@ Rorabaugh and Stommel created “an epic zombified experiment in Twitter literac
 * Artifact Type: YouTube channel and accompanying website
 * Source URL: [http://www.youtube.com/virtuallyconnecting](http://www.youtube.com/virtuallyconnecting) and [http://www.virtuallyconnecting.org](http://www.virtuallyconnecting.org)
 * Artifact Permissions: YouTube Standard license
-* Copy of the Artifact: 
 * Creator and Affiliation: Rebecca J. Hogue and Maha Bali, American University in Cairo
 
 Originally piloted as #et4buddy in April 2015, Virtually Connecting (VC) attempts to take Personal Learning Networks (PLN) to the next level and expand access to conferences to people who cannot attend for financial, social, logistical or health reasons. Some scholars have opportunities to meet their virtual PLN in person at conferences, but many do not. VC creates opportunities for people to participate in a conference _conversation_ virtually by meeting via synchronous video with onsite participants at that conference, going beyond virtual participation via  watching livestreams of selected sessions and using Twitter. Instead, VC invites virtual participants to converse with onsite participants (including keynote speakers) directly for an extended period of time. This supports the deepening and broadening of scholarly PLNs for graduate students, adjuncts, young mothers, and international scholars.  As a pedagogical gateway, instructors can work with VC to bring their class to the conference. 
