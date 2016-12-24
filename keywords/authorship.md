@@ -47,8 +47,8 @@ The selection of artifacts below explore the shifts from the author—and the id
 ## CURATED ARTIFACTS 
 
 ### Commonplace Book Assignment
+![screenshot](images/authorship_commplace-assignment.png)
 * Artifact Type: Assignment
-![screenshot](images/authorship_commplace-assignment)
 * Source URL: [http://jitp.commons.gc.cuny.edu/the-commonplace-book-assignment/]( http://jitp.commons.gc.cuny.edu/the-commonplace-book-assignment/)
 * Copy of Artifact:
 * Creator: [Vimala Pasupathi](https://vcpasupathi.wordpress.com/) (Hofstra University)
@@ -56,8 +56,8 @@ The selection of artifacts below explore the shifts from the author—and the id
 As with many of the other keyword entries included in this collection, the common-placing assignment offers an entryway to the concept. Vimala Pasupathi’s version was chosen because it emphasizes the author’s curatorial role of selection and arrangement.  It asks students to “assemble” an author and thus stresses their own role in the construction of authorship and demonstrates, in both a literal and physical way, that readers construct authors and their works.   It is also helpful that this activity tracks neatly with activities students are already engaged in through pinterest, instagram, and others.  At the same time, the assignment attends to the importance of attribution.  The prompt takes care to distinguish between practices of the past and how they treat authorship—as fluid, composite and potentially unattributed—and today’s classroom conventions as tied to a particular idea of the author as a stable entity whose work should be recognized as external to personal commonplacing/reading.
 
 ### Persieds Tool
+![screenshot](images/authorship_persieds-tool.png)
 * Artifact Type: Tool
-![screenshot](images/failure-fitzpatrick.png)
 * Source URL: [http://www.perseids.org/](http://www.perseids.org/)
 * Copy of Artifact:
 * Creator: Marie-Claire Beaulieu; Tufts University
@@ -65,8 +65,8 @@ As with many of the other keyword entries included in this collection, the commo
 As a tool to facilitate and archive the transcription of ancient Greek and Latin texts, Persieds removes significant barriers to understanding ancient texts by allowing users of all skill sets entry into this early world of textual production. Much like the popular [Wikipedia assignments](http://wikiedu.org/for-instructors) used to teach collective authorship, this platform allows students to actively engage in the work of authorship—according to the standards in place before the 18th century conception of the single author/artist/genius. Users translate and edit texts, producing “micro-publications” that are immediately available on the site and become a permanent part of the archive. Creating an assignment using Persieds where students use it to translate a text and archive it will denaturalize conventional notions of authorship while also offering a look into texts of the ancient world that circulated orally and might better be called “attributed” rather than authored. 
 
 ### Transcribe Bentham
-* Artifact Type: Website/archive
 ![screenshot](images/authorship_transcribe-bentham-archive.png)
+* Artifact Type: Website/archive
 * Source URL: [http://blogs.ucl.ac.uk/transcribe-bentham/](http://blogs.ucl.ac.uk/transcribe-bentham/)
 * Copy of Artifact:
 * Creator: Transcribe Bentham team, University College of London
@@ -74,8 +74,8 @@ As a tool to facilitate and archive the transcription of ancient Greek and Latin
 Transcribe Bentham also uses the crowdsourcing method. Inviting participants to take up transcription as an “exciting opportunity to make a genuine difference to research and scholarship by contributing to the production of the new edition of *[The Collected Works of Jeremy Bentham](http://www.ucl.ac.uk/Bentham-Project/publications/collected_works)*, and to help create for posterity a vast digital repository of Bentham’s writings.” Transcribe Bentham holds the same principles of participation as Persieds, assuring those who wish to take part that “no special skills are required” nor must anyone be approved to participate, and, best of all: “every contribution—no matter how small—is of great value to Transcribe Bentham.”  But where Persieds allows contributors to negotiate what may be a language deficit, contributors to Transcribe Bentham, experience authorship as act of a human hand.  In order to contribute to the edition, participants must interpret the handwriting in the physical text—a feature of authorship that has been largely eclipsed by digital modes of publication.  Like assignments that ask students to write on clay or read by candlelight to manifest experiences of earlier periods, this tool and archive will engage students in an earlier form of authorship—one that our shift to the keyboard is fast occluding.
 
 ### What Jane Saw
-* Artifact Type: Website
 ![screenshot](images/authorship_what-jane-saw.png)
+* Artifact Type: Website
 * Source URL: [http://www.whatjanesaw.org/](http://www.whatjanesaw.org/)
 * Copy of Artifact:
 * Creator: Janine Barchas, University of Texas at Austin
@@ -83,8 +83,8 @@ Transcribe Bentham also uses the crowdsourcing method. Inviting participants to 
 What Jane Saw offers a view into “what were the world's first types of “single-author” shows, or exhibitions dedicated to a single person’s artistic genius,” according to Janine Barchus, the website’s builder.  Her free and open website provides a look at Boydell’s Shakespeare Gallery-- the first museum dedicated to the work of William Shakespeare, and the Joshua Reynolds (1723-1792) retrospective at the British Institution in 1813.  Barchus explained that “prior to these two spectacles (admittedly very different in kind), public art exhibitions had never circled around the work of a single person. This website helps students see how recent the concept of single-author, the “famous author/artist,” is as a construction even though it has become a norm in the art world epitomized by retrospectives on Picasso or Kara Walker and in terms of authors like Austen or Dickinson.  Authors—like artists—become brands in a cultural marketplace; being able to recognize them also means being able to commodify them. This website helps its users get “behind” Austen’s texts and into her world and see the ways that the genius model of authorship was constructed.
 
 ### Collective Authorship Assignment
-* Artifact Type: Assignment
 ![screenshot](images/authorship_collective-authorship-assignment.png)
+* Artifact Type: Assignment
 * Source URL: [https://docs.google.com/document/d/1F9p05hOh63O4MkY0ClJg_asyG_34cYYVFsef0WfaWZ0/edit](https://docs.google.com/document/d/1F9p05hOh63O4MkY0ClJg_asyG_34cYYVFsef0WfaWZ0/edit)
 * Copy of Artifact:
 * Creator: Danica Savonick, CUNY Graduate Center
@@ -92,8 +92,8 @@ What Jane Saw offers a view into “what were the world's first types of “sing
 To help students occupy the space of the author, it is helpful to mirror the complex web of agents involved in the production of any text using the social context of the classroom.  Danica Savonik takes the practice of collective authorship in her “Introduction to Narrative” and flips the script proposed by the commonplacing assignment discussed earlier.  Here students are asked to produce a collective text and as such, approach authorship as composed of multiple approaches and consciousnesses where each individual must find a place within a constructed whole. The specific attention to media selection will sharpen students’ awareness of how formal choices shape the reception of content and requiring multiple media will encourage comparison among and between media and imagined purposes.    This assignment will help bring the formal production elements of authorship into contact with the message (McLuhan).
 
 ### Digital Edition
-* Artifact Type: Website/digital edition 
 ![screenshot](images/authorship_digital-edition.png)
+* Artifact Type: Website/digital edition 
 * Source URL: [http://learningthroughdigitalmedia.net/google-wave-pedagogical-success-technological-failure](http://learningthroughdigitalmedia.net/google-wave-pedagogical-success-technological-failure)
 * Copy of Artifact:
 * Creator: John Bryant, Hofstra University
@@ -101,8 +101,8 @@ To help students occupy the space of the author, it is helpful to mirror the com
 To help students explore the conditions of textual production and the impact of our expectations about an author’s function to produce an intergrated and unified text, consider John Bryant’s web-based electronic edition of Herman Melville’s Typee.  This edition of Melville’s text highlights how porous authorship can be, even when its author is well-known using its multiple revisions and editions, published in the United States and England. Comparing these editions helps students understand the complex web of agency over time, publishers, and editions. It is an excellent example of how authorship is shaped by what publishers believe the reader will tolerate more than the author’s “vision.”  Students will see how Melville is pitted against the conventions of taste, offering a view of the combative nature of publication and the inevitable role that market plays in how such decisions are made.  Use this edition to help students engage in a comparative analysis of the construction of an author/authorship and his text over time, place, and nation.  
 
 ### Stylometrics Assignment
-* Artifact Type: Assignment
 ![screenshot](images/authorship_stylometrics-assignment.png)
+* Artifact Type: Assignment
 * Source URL: [http://cs108-fall14.wikispaces.umb.edu/Assignment+5+Stylometrics](http://cs108-fall14.wikispaces.umb.edu/Assignment+5+Stylometrics)
 * Copy of Artifact:
 * Creator: Bill Campbell, University of Massachusetts, Boston
@@ -110,8 +110,8 @@ To help students explore the conditions of textual production and the impact of 
 And just when it seems as if author/ship eludes definition, you might wish to confound that impulse by throwing in Bill Campbell’s stylometry assignment to identify key stylistic features of a work.  By circumscribing authorship to a matter of style, students can try on authorial identities as a shape-shifting experiment with their own writing.  An interesting side-feature of this assignment, other than offering a chance to play with this program, is the way elemental terms—such as “dictionary”—are reframed in this context according to the program’s method of finding core values that characterize a work.  The top 50 most common words, in this case, will characterize the work of an author, and help distinguish one person’s work—or brand-- from another.  By breaking down the work of art to a series of stylistic word choices, this assignment will let students explore authorial identity as untethered to personal identity.
 
 ### Authorship Syllabus
-* Artifact Type: Syllabus
 ![screenshot](images/authorship_authorship-syllabus.png)
+* Artifact Type: Syllabus
 * Source URL: [http://www.case.edu/affil/sce/authorship/index.html?nw_view=1473195030](http://www.case.edu/affil/sce/authorship/index.html?nw_view=1473195030)
 * Copy of Artifact:
 * Creator: Martha Woodmansee, Case Western Reserve University
@@ -122,8 +122,8 @@ This course provides a broad view of the issues in historical context, and also 
 
 
 ### Gibagadinamaagoom website
-* Artifact Type: Website
 ![screenshot](images/authorship_gibagadinamaagoom-website.png)
+* Artifact Type: Website
 * Source URL: [http://ojibwearchive.sas.upenn.edu/](http://ojibwearchive.sas.upenn.edu/)
 * Copy of Artifact:
 * Creator: Larry Aiken and Timothy Powell, University of Pennsylvania
@@ -131,8 +131,8 @@ This course provides a broad view of the issues in historical context, and also 
 The provenance with authorship is complicated by both the practices and the politics of the Gibagadinamaagoom website.   The site represents a cooperative effort to preserving and protecting tribal beliefs and sanctioned modalities in that is was funded by NEH and constructed in cooperation with tribal members. The website features web-enabled multimodal presentations to help users see beyond what Timothy Powell and Larry Aiken call “the margins of the white page” by placing an emphasis on the aural presentations (252).  Eschewing static descriptions, the emphasis is on presence and process as elders are filmed explaining and demonstrating tribal practices, teaching the native language, and keeping traditions alive through active practice. The Ojibwe beliefs and practices made present through the website represent more than a mere alignment with many of the characteristic efficacies present in a multimodal digital environment (Powell and Aiken).  The Gibagadinamaagoom website provides a deep cultural and philosophical background for the models of authorship now available through Web 2.0 tools (Cohen). Use this site as a resource to help students rethink authorship as a communal practice outside of writing. 
 
 ### What is Digital Writing Podcast
-* Artifact Type: Reflective essay and assignment
 ![screenshot](images/authorship_what-is-digital-writing.png)
+* Artifact Type: Reflective essay and assignment
 * Source URL: [https://soundcloud.com/thompson-writing-program/what-is-digital-writing](https://soundcloud.com/thompson-writing-program/what-is-digital-writing)
 * Copy of Artifact:
 * Creator: [Whitney Ann Trettien](http://whitneyannetrettien.com/), University of North Carolina at Chapel Hill
