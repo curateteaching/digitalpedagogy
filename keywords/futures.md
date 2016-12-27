@@ -74,7 +74,7 @@ The **Undercommoning** Collective looks forward to the unwinding of institutiona
 
 ### Africa Is A Country
 ![Africa Is A Country](http://www.andrecarringtonphd.com/wp-content/uploads/2016/09/africasacountry.png)
-* URL: https://www.africasacountry.com
+* URL: http://africasacountry.com/
 * Creator: [Sean Jacobs](http://africasacountry.com/about/)
 * Downloadable resource: [Africa Is A Radio Podcast](http://www.andrecarringtonphd.com/wp-content/uploads/2016/09/FutureEd-Initiative_-Bibliography-of-Resources-_-HASTAC.pdf)
 * Artifact Permissions: [Creative Commons Attribution-NonCommercial-ShareAlike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
