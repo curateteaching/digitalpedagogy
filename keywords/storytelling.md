@@ -1,32 +1,8 @@
----
-title: Digital Pedagogy in the Humanities
-subtitle: Concepts, Models, and Experiments
-chapter: Storytelling
-URL: keywords/storytelling.md
-author: 
-- family: Alexander
-  given: Bryan
-editor: 
-- family: Davis
-  given: Rebecca Frost
-publisher: Modern Language Association
-type: book
----
+# Storytelling
 
-# STORYTELLING (Draft)
+### Bryan Alexander
 
-## Bryan Alexander
 Bryan Alexander Consulting | [https://bryanalexander.org/](https://bryanalexander.org/)
-
----
-
-##### Publication Status:
-* unreviewed draft
-* draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review**
-* published 
-
---- 
 
 ## CURATORIAL STATEMENT
 
@@ -42,116 +18,113 @@ The digital storytelling movement began in the 1990s, establishing a very specif
 
 While that curriculum crystallized and spread by 2000, digital technologies have advanced rapidly since that time, allowing new forms of storytelling to appear.  The narrative impulse has created projects in digital photography, audio (through podcasts), [blogging](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/blogging.md), social media, and new styles of media-integrated web publication (the New York Times’ “Snowfall” by John Branch or the [Cowbird](http://cowbird.com/) and [Voicethread](https://voicethread.com/) platforms).  Above all of these looms the vast culture industry that is computer gaming, with its nearly cinematic production levels at one end of the market, and manic creativity of small indygames on the other.  Story can now appear in a formal context, as clearly identified artifacts, as with the [Flickr Tell a story in 5 frames (Visual story telling) community](https://www.flickr.com/groups/visualstory/.).  Alternatively we see story elements added to larger artifacts, as when a game introduces characters to frame gameplay.  
 
-The following artifacts express these aspects of storytelling, pointing to its recent developments and future potential. 
-
+The following artifacts express these aspects of storytelling, pointing to its recent developments and future potential.
 
 ## CURATED ARTIFACTS
 
-### Lipid Aggregation: an everyday experiment
-![screenshot](images/storytelling-lipid-aggregation.png)
-* Artifact Type: digital story
-* Source URL: [http://web.archive.org/web/20050317120314/chem.acad.wabash.edu/~trippm/Lipids/](http://web.archive.org/web/20050317120314/chem.acad.wabash.edu/~trippm/Lipids/) 
-* Artifact Permissions: 
-* Copy of the Artifact: 
-* Creator and Affiliation: Mauricio Tripp, Unidad de Genómica Avanzada
+#### Dad, What do you do for a living?
 
-A detailed description of a single chemical process, this story serves several useful functions, including: a purely academic topic without autobiographical content; a mixture of videography with scientific visualization tools; a learning object; and a faculty member’s research emphasis.  For a researcher (faculty member, graduate student, undergrad researcher) this is a useful venue for communicating research to a general audience, as well as to fellow specialists.
-
-
-### Dad, What do you do for a living?
 ![screenshot](images/storytelling-dad-what-do-you-do.png)
+
 * Artifact Type: digital story
 * Source URL: [https://web.archive.org/web/20111001233257/http://oit.williams.edu/itech/digitalstorytelling/eplT.mov](https://web.archive.org/web/20111001233257/http://oit.williams.edu/itech/digitalstorytelling/eplT.mov) 
-* Artifact Permissions: 
-* Copy of the Artifact:  
 * Creator and Affiliation: Enrique Peacock Lopez, Williams College
 
 A professor describes his passion for chemistry.  This story offers a good example of a blended autobiographical yet strongly academic story.  It is useful as a model for demonstrating the faculty member’s perspective, including the way he combines his research and teaching interests.
 
-### First in Our Families
+#### First in Our Families
+
 ![screenshot](images/storytelling-first-in-our-families.png)
+
 * Artifact Type: digital stories
 * Source URL: [http://www.macalester.edu/cec/collegeaccess/FirstGenerationDigitalStorytelling/](http://www.macalester.edu/cec/collegeaccess/FirstGenerationDigitalStorytelling/) 
-* Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation: various, Macalaster College
 
 These stories offer autobiographical reflections about the experience of being a first generation college student.  This site is valuable as an example of a suite of stories arranged around a single theme, as well as for representing an underrepresented yet crucial population.  A class or academic program could generate these to build community and shared purpose, while explaining their work and identity to a larger audience.
 
+#### My Story
 
-### My Story
 ![screenshot](images/storytelling-my-story.png)
+
 * Artifact Type: digital story
 * Source URL: [https://www.laguardia.edu/dstory/mystory.htm](https://www.laguardia.edu/dstory/mystory.htm)
 * Artifact Permissions: copyright asserted
-* Copy of the Artifact:  
 * Creator and Affiliation: Maria Merlos, LaGuardia Community College 
 
 This story offers autobiographical reflection on literacy and schooling, situating a student’s current English as a Second Language (ESL) studies, as well as an account of trauma and its aftermath. It is also valuable as a community college story. This story is in many ways classic StoryCenter (Center for Digital Storytelling) work, and as such accessible to any educator for whom autobiographical expression may be powerful.
 
+#### Delaware River 
 
-### Delaware River 
 ![screenshot](images/storytelling-delaware-river.png)
+
 * Artifact Type: digital story
 * Source URL: [http://teachingwithmobiles.blogspot.com/2009/02/creating-reflective-digital-stories-to.html](http://teachingwithmobiles.blogspot.com/2009/02/creating-reflective-digital-stories-to.html) 
-* Artifact Permissions: 
-* Copy of the Artifact:  
 * Creator and Affiliation: Bonnie Falconer, Seton Hall University
 
 This story combines reflections on local ecosystems from ecological and personal perspectives. It offers a useful example of combining curriculum with autobiography, which could be developed by students or faculty. It also exemplifies the student perspective of engaging with a challenging academic topic. Formally, it’s a good example of using video to contrast photographs.
 
+#### Elisabet Ampudia Mesias
 
-### Elisabet Ampudia Mesias
 ![screenshot](images/storytelling-Elisabet-Ampudia-Mesias.png)
+
 * Artifact Type: digital story
 * Source URL: [http://immigrants.mndigital.org/exhibits/show/immigrantstories-exhibit/item/636](http://immigrants.mndigital.org/exhibits/show/immigrantstories-exhibit/item/636) 
 * Artifact Permissions: Creative Commons Attribution-NonCommercial 4.0 International License.
-* Copy of the Artifact: 
 * Creator and Affiliation: Elisabet Ampudia Mesias, University of Minnesota
 
 In this story, an immigrant reflects on her family’s history, roots, and transition to a new land. A very useful example of the migrant story, which may become a crucial theme for higher education in the Trump era, in that it humanizes the other and documents the reality of migration.  It is also a fascinating example of working through two languages in an audio-visual medium.   
 
-### Disgust, Death, and Disease
+#### Disgust, Death, and Disease
+
 ![screenshot](images/storytelling-Disgust-Death-and-Disease.png)
+
 * Artifact Type: digital story
 * Source URL: [https://www.youtube.com/watch?v=980ZFJlwZXg](https://www.youtube.com/watch?v=980ZFJlwZXg) 
-* Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation: Amanda Boeing, Ohio State University 
 
 In this story a student introduces a disease for a biology class, bringing her personal perspective to bear.  It’s a good example of a digital story about a challenging (viscerally, visually) topic, in contrast to many feel-good or inspirational themes.  This approach may encourage students to engage with challenging or threatening subjects.
 
-### Aquaphobia 
+#### Aquaphobia 
+
 ![screenshot](images/storytelling-Aquaphobia.png)
+
 * Artifact Type: digital story
 * Source URL: [https://vimeo.com/17627563](https://vimeo.com/17627563)
-* Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation: june xie, Swarthmore College
 
 In this story, a student reflects on her fear of water, stemming from a childhood incident.  Once more we see an autobiographical story, but one privileging psychological challenges. Like “Disgust, Death, and Disease” this is one venue for students to confront their own attitudes and predispositions. This reflection ties into an ecological curriculum, offering an example of blending the personal and the academic.  The visuals are largely impersonal, which is interesting in combination with the highly personal story.
 
-### FYS Education in America, Spring 2015
+#### FYS Education in America, Spring 2015
+
 ![screenshot](images/storytelling-FYS-Education-in-America.png)
+
 * Artifact Type: digital story
 * Source URL: [http://learndst.richmond.edu/quinn-mcdonnough/](http://learndst.richmond.edu/quinn-mcdonnough/)
-* Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation: Quinn McDonough, University of Richmond
 
 In this story, a student considers his study abroad experience.  This story demonstrates how digital storytelling can help students rethink and reflect on study abroad, an established practice, given the challenges of returning students synthesizing their study abroad learning.  “FYS” also exemplifies a teacher reflecting on teaching, which is available to faculty, of course.
 
+#### Behind the Lens
 
-### Behind the Lens
 ![screenshot](images/storytelling-Behind-the-Lens.png)
+
 
 * Artifact Type: digital story
 * Source URL: [http://digitalstorytelling.coe.uh.edu/view_story.cfm?vid=467&otherid=featured&d_title=Featured%20Digital%20Stories](http://digitalstorytelling.coe.uh.edu/view_story.cfm?vid=467&otherid=featured&d_title=Featured%20Digital%20Stories)[http://digitalstorytelling.coe.uh.edu/video/Behind_the_lens.mp4](http://digitalstorytelling.coe.uh.edu/video/Behind_the_lens.mp4)
-* Artifact Permissions: 
-* Copy of the Artifact: 
 * Creator and Affiliation: Sarah Buckle, University of Houston
 
-This story shares an autobiographical meditation on photography.   Like "Dad, What do you do for a living?" “Behind the Lens” lets the creator explain and dive into their academic interest.  This would make a fruitful assignment for undergraduates as they complete their majors, not to mention for faculty and staff describing their work.  Formally, It is difficult to tell which photos are the author’s and which are from other sources, which is a common, interesting, and teachable problem.
+This story shares an autobiographical meditation on photography.   Like “Dad, What do you do for a living?” “Behind the Lens” lets the creator explain and dive into their academic interest.  This would make a fruitful assignment for undergraduates as they complete their majors, not to mention for faculty and staff describing their work.  Formally, it is difficult to tell which photos are the author’s and which are from other sources, which is a common, interesting, and teachable problem.
+
+#### Sample Rubric, Digital Storytelling Tips and Resources
+
+![screenshot](images/storytelling-sample-rubric.png)
+
+* Artifact Type: rubric
+* Source URL: [https://net.educause.edu/ir/library/pdf/ELI08167B.pdf](https://net.educause.edu/ir/library/pdf/ELI08167B.pdf)
+* Artifact Permissions: Copyright Gail Matthews-deNatale 
+* Creator and Affiliation: Gail Matthews-deNatale, Northeastern University
+
+These are very detailed rubrics for assessing student digital story work.  They include elements of technology use, formal skill, and curricular engagement.  They can be repurposed for a variety of educational settings.
 
 ## RELATED MATERIALS
 
@@ -165,7 +138,6 @@ Lambert, Joe. *Digital Storytelling: Capturing Lives, Creating Community*, 4th e
 
 Storycenter. [http://www.storycenter.org/](http://www.storycenter.org/)
 
+## WORK CITED
 
-## WORKS CITED
-
-Branch, John. "Snow Fall". *New York Times.* 20 December 2012. [http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek)
+Branch, John. “Snow Fall”. *New York Times.* 20 December 2012. [http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek](http://www.nytimes.com/projects/2012/snow-fall/#/?part=tunnel-creek)
