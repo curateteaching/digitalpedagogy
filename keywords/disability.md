@@ -2,8 +2,6 @@
 
 ## Melanie Yergeau
 
-University of Michigan | [http://kuiama.net](http://kuiama.net)
-
 ## CURATORIAL STATEMENT 
 
 Many institutional statements on disability fixate on numbers. Numbers can be particularly alarmist artifacts. They call upon imagery of burden, worry, and distant hopes of rehabilitation. Numbers tell us that disabled students increasingly enroll in college every year. Numbers also tell us that disabled students face higher attrition rates than their nondisabled peers, and, even among those who graduate, disabled students face fewer employment prospects (Belch; Getzel and Thoma).
