@@ -1,7 +1,7 @@
 # Community (Draft)
 
 ### Bridget Draxler
-Writing and Speaking Specialist, St. Olaf College
+St. Olaf College
 
 ---
 
