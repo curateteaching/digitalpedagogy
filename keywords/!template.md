@@ -6,7 +6,7 @@
 
 Please email your assigned editor with any questions or concerns. Your assigned editor is the person who contacted you with details about this template.
 
- ---
+---
 title: Digital Pedagogy in the Humanities
 subtitle: Concepts, Models, and Experiments
 chapter: Interface
