@@ -1,7 +1,7 @@
 # Community (Draft)
 
 ### Bridget Draxler
-Assistant Professor and Director of Communication Across the Curriculum, Monmouth College
+Writing and Speaking Specialist, St. Olaf College
 
 ---
 
