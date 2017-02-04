@@ -5,21 +5,6 @@
 **The entry should be authored in Markdown, saved as an .md file. If you'd like, then you can simply copy the [raw Markdown for this file](https://raw.githubusercontent.com/curateteaching/digitalpedagogy/master/keywords/!template.md) and replace it with your own content.**
 
 Please email your assigned editor with any questions or concerns. Your assigned editor is the person who contacted you with details about this template.
-
----
-title: Digital Pedagogy in the Humanities
-subtitle: Concepts, Models, and Experiments
-chapter: Interface
-URL: keywords/interface.md
-author:
-- family: Berens
-  given: Kathi Inman
-editor:
-- family: Harris
-  given: Katherine D.
-publisher: Modern Language Association
-type: book
----
     
 # KEYWORD
 
