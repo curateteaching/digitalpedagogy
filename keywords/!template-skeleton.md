@@ -1,7 +1,5 @@
 # KEYWORD ENTRY TEMPLATE
 
-**Note: Maximum Length for each keyword entry (including works cited) is 3000 words**
-
 ---
 title: Digital Pedagogy in the Humanities
 subtitle: Concepts, Models, and Experiments
@@ -16,6 +14,8 @@ editor:
 publisher: Modern Language Association
 type: book
 ---
+
+**Note: Maximum Length for each keyword entry (including works cited) is 3000 words**
 
 # KEYWORD NAME
 
@@ -50,7 +50,7 @@ An annotation of **no more than 150 words**
 
 ## RELATED MATERIALS
 
-* list five related items that are informative for teaching with your keyword in mind. **Please only include five items. No more, no less.**
+Five related items that are informative for teaching with your keyword in mind.
 
 For each item, include Author, Title, and URL, in alphabetical order.
 
