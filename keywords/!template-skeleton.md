@@ -1,14 +1,14 @@
 ---
 title: Digital Pedagogy in the Humanities
 subtitle: Concepts, Models, and Experiments
-chapter: Access
-URL: keywords/access.md
+chapter: KEYWORD
+URL: keywords/KEYWORD.md
 author: 
-- family: Williams
-  given: George H.
+- family: FAMILY NAME
+  given: GIVEN NAME
 editor: 
-- family: Harris
-  given: Katherine D.
+- family: FAMILY NAME
+  given: GIVEN NAME
 publisher: Modern Language Association
 type: book
 ---
