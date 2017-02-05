@@ -1,18 +1,19 @@
-# KEYWORD ENTRY TEMPLATE
 ---
 title: Digital Pedagogy in the Humanities
 subtitle: Concepts, Models, and Experiments
-chapter: KEYWORD TITLE
-URL: keywords/KEYWORD FILE NAME
-author:
-- family: AUTHOR LAST NAME
-  given: AUTHOR FIRST NAME
-editor:
-- family: EDITOR LAST NAME
-  given: EDITOR FIRST NAME
+chapter: Access
+URL: keywords/access.md
+author: 
+- family: Williams
+  given: George H.
+editor: 
+- family: Harris
+  given: Katherine D.
 publisher: Modern Language Association
 type: book
 ---
+
+# Keyword Entry Template 
 
 **Note: Maximum Length for each keyword entry (including works cited) is 3000 words**
 
