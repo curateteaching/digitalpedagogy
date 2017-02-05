@@ -40,11 +40,12 @@ For Each Artifact:
 
 #### Artifact Title 
 
-* Screenshot
-* Artifact Type
+Screenshot
+
+* Artifact Type: (use this vocabulary: syllabi, teaching guidelines, assignments, lesson plans, course sites, learning objective, collaborative projects, grading rubric, student work -- add other types?)
 * Source URL: 
 * Permissions: 
-* Creator and Affiliation
+* Creator and Affiliation:
 
 An annotation of **no more than 150 words**
 
