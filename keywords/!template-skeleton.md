@@ -1,5 +1,4 @@
 # KEYWORD ENTRY TEMPLATE
-
 ---
 title: Digital Pedagogy in the Humanities
 subtitle: Concepts, Models, and Experiments
