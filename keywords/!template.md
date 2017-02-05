@@ -10,7 +10,7 @@ Please email your assigned editor with any questions or concerns. Your assigned 
 title: Digital Pedagogy in the Humanities
 subtitle: Concepts, Models, and Experiments
 chapter: KEYWORD TITLE
-URL: keywords/KEYWORD URL
+URL: keywords/KEYWORD FILE NAME
 author:
 - family: AUTHOR LAST NAME
   given: AUTHOR FIRST NAME
