@@ -30,7 +30,11 @@ Institutional Affiliation (if any) | Website
 * draft version undergoing peer-to-peer review
 * published 
 
---- 
+---
+
+### Tags: for overall keyword entry
+
+---  
 
 ## CURATORIAL STATEMENT (roughly 750-800 words, MLA Format)
 
@@ -46,6 +50,7 @@ Screenshot: for ease, file should be named “keyword artifact title,” e.g. �
 * Source URL: 
 * Permissions: 
 * Creator and Affiliation:
+* Tags: (getting started/advanced; tool used)
 
 An annotation of **no more than 150 words**
 
