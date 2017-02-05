@@ -44,7 +44,7 @@ For Each Artifact:
 
 #### Artifact Title 
 
-Screenshot: for ease, file should be named “keyword artifact title,” e.g. “work-AfAm-syllabus.png” - no underscore
+Screenshot: ![screenshot](images/archive-composing digital media.jpg)
 
 * Artifact Type: (use this vocabulary: syllabi, teaching guidelines, assignments, lesson plans, course sites, learning objective, collaborative projects, grading rubric, student work -- add other types?)
 * Source URL: 
