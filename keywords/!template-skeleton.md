@@ -40,6 +40,8 @@ Institutional Affiliation (if any) | Website
 
 ## CURATED ARTIFACTS (ten artifacts, each with metadata, a screenshot, and a 150-word annotation)
 
+**Note: no more than 2 artifacts authored by curator**
+
 For Each Artifact:
 
 #### Artifact Title 
