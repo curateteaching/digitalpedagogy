@@ -15,7 +15,7 @@ State University of New York at Geneseo | http://www.geneseo.edu/english/schacht
 
 ## CURATORIAL STATEMENT
 
-"I contend, quite bluntly, that marking up a book is not an act of mutilation but of love." So wrote the philosopher Mortimer J. Adler in 1941, describing an amatory practice that scholars, students, and other serious readers have pursued with gusto for millennia. But continuing that practice with digital text has not always been easy. Although Mosaic, the first graphical Web browser, [was intended to permit annotation](https://www.hastac.org/initiatives/hastac-scholars/scholars-forums/amplified-marginalia-social-reading-listening-and), good tools for marking up what you read - or hear, or view - online have been slow to develop. 
+"I contend, quite bluntly, that marking up a book is not an act of mutilation but of love." So wrote the philosopher Mortimer J. Adler in 1941, describing an amatory practice that scholars, students, and other serious readers have pursued with gusto for millennia. But continuing that practice with digital text has not always been easy. Although Mosaic, the first graphical Web browser, [was intended to permit annotation](https://www.hastac.org/initiatives/hastac-scholars/scholars-forums/amplified-marginalia-social-reading-listening-and), good tools for marking up what you read—or hear, or view—online have been slow to develop. 
 
 Fortunately, they're now available in abundance. And as they enable multitudes of readers to share their "acts of love" instantly across space and time, connecting not only with texts but with one another *inside* texts, they're facilitating a kind of textual intimacy that traditional books don't provide. 
 
