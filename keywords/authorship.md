@@ -1,3 +1,18 @@
+---
+title: Digital Pedagogy in the Humanities
+subtitle: Concepts, Models, and Experiments
+chapter: Access
+URL: keywords/access.md
+author: 
+- family: Rohrbach
+  given: Augusta
+editor: 
+- family: Gold
+  given: Matthew K.
+publisher: Modern Language Association
+type: book
+---
+
 # Authorship
 
 ### Augusta Rohrbach
