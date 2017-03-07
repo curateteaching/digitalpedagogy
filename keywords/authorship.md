@@ -19,6 +19,16 @@ type: book
 
 Tufts University
 
+---
+
+##### Publication Status:
+* unreviewed draft
+* draft version undergoing editorial review
+* **draft version undergoing peer-to-peer review https://digitalpedagogy.commons.mla.org/**
+* published 
+
+--- 
+
 ## CURATORIAL STATEMENT 
 
 Though anyone can be an author by producing text, since the 18th century, we have attached a particular cache to publication, making it the sine qua non of authorship. Today the dissemination of text for a public is just a tweet away, thus authorship is available to an unprecedented number of people. Indeed, the lack of barriers to publication made possible by Web 2.0 technologies might tempt today’s students to think of this new era as one of “post-authorism.” Yet, few in the academy would be willing to let go of the author concept, if only for the way it has been formative—for better or for worse—in the history of human culture. Because anyone is just a click away from contributing to the production of a public text, and are at least slated to join the ranks of authors archived in the US Library of Congress (McGill), finding ways to illuminate—and appreciate—not just the obstacles to publication but also the elements of textual production will be an important part of the work we do in a literature classroom enabled by digital tools. Just as important will also be the need to understand that norms—then and now—pervade how we read and think about authors.
