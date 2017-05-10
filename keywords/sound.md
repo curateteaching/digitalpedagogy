@@ -18,7 +18,7 @@ type: book
 
 University of Virginia
 
-## CURATORIAL STATEMENT:
+## CURATORIAL STATEMENT
  
 There has been an explosion of writings on sound in the humanities since the early 1990s. “Sound studies” is often used as an umbrella term for the range of multidisciplinary work that “takes sound as its analytical point of departure” (Sterne 2). Over the last decade, opportunities to use audio files in digital publishing environments have also resulted in a growing collection of audible scholarship. Journals such as *Vectors,* *Kairos*, *Sensate*, *Enculturation*, and *Computers and Composition Online* continue to encourage submissions that take advantage of the sonic affordances of digital spaces.
 
@@ -40,8 +40,6 @@ The artifacts listed below are intended to provide a starting point for developi
 
 ### *Sounding Out!* Blog
 
-###
-
 * Source URL: <http://soundstudiesblog.com/>
 * Creator: Jennifer Stoever, (SUNY Binghamton)
 
@@ -50,7 +48,6 @@ The artifacts listed below are intended to provide a starting point for developi
 
 ### "Writing with Sound" Syllabus
 
-###
 * Source URL: <http://caseyboyle.net/fall2014-writing-with-sound-course/>
 * Copy of Artifact: Forthcoming
 * Creator: Casey Boyle (The University of Texas, Austin)
@@ -65,7 +62,7 @@ Casey Boyle’s undergraduate rhetoric course explores the rhetorical affordance
 
 Jonathan Stone's innovative assignment "Sonic Remediations of the News" invites students to transform a print news article into a "layered sonic artifact" using digital audio editing software. In the process of creating a sonic version of the print article--which includes recording a vocal track, adding music, sound effects, ambient noise, etc.--students experiment with the possibilities and constraints of both print and audio media. Stone's remediation project is a great model for developing assignments that call attention to how different compositional modes and technologies profoundly shape the ways that writers present information. For teachers who are new to assigning sonic projects like this, I would recommend asking students to use Audacity, an open source multi-track digital audio editor and recording application. The Audacity Manual is also a helpful supplemental resource because it provides comprehensive information about how to use Audacity, including tutorials, tips, instructions about recording technologies, and explanations of the program’s various effects and technical features. Because of its intuitive, boombox-like interface, I have had much success teaching this application to students with no prior audio editing experience. Between referring to the Audacity Manual and watching video tutorials on YouTube, students are able to make fairly sophisticated and professional sounding compositions. For instructors who may be worried about the technical learning curve involved in teaching students to make digital sound projects, Audacity and its thorough accompanying manual will prove to be a valuable (and free) resource. 
 
-###"Audio Documentary”
+### "Audio Documentary”
 
 * Source URL: <http://www.stevenrhammer.com/com473/>
 * Copy of Artifact: Forthcoming
@@ -97,8 +94,7 @@ Sonic Dictionary is an archive of nearly 1,000 sound recordings collected by stu
 
 Open Sound New Orleans is a large-scale community sound mapping project that encourages New Orleanians to capture the sounds of their lives and neighborhoods. Contributors upload digital sound files to the project website, which then become part of a map of the rich sonic culture of New Orleans. Because contributors tag their sonic information, it is easy for users to search for specific sounds, themes, or locations. This project is unique because, unlike most sound mapping initiatives, it provides dispatches throughout the city that offer free training and recording equipment to interested individuals. Regardless of their economic or educational status, it is possible for all community members to participate in the project. In addition to being an effective model for similar community projects, Open Sound New Orleans is a wonderful teaching resource for discussing the ways that sound is used to represent particular geographies and cultural experiences. For example, when I included this project in one of my multimedia authoring courses, students discussed which neighborhoods they thought were “safe” or “dangerous” based on the sounds alone. This exercise initiated a conversation about the racial and cultural assumptions that are attached to sound. I also use Open Sound New Orleans (along with the “London Sound Survey” and the “Western Soundscapes Archive,” among others) to introduce collaborative sound mapping assignments. Open source digital mapping platforms like “SoundCities” now make it easy for students to produce their own soundscape projects, which can be used in a variety of ways in the classroom.
 
-
-### “Speaking Back to Our Spaces: The Rhetoric of Social Soundscaping”
+### "Speaking Back to Our Spaces: The Rhetoric of Social Soundscaping"
 
 * Source URL: <http://harlotofthearts.org/index.php/harlot/article/view/150/122>
 * Creators: Kati Fargo Ahern (Long Island University) and Jordan Frith (University of North Texas)
@@ -112,8 +108,7 @@ In this engaging piece of multimodal scholarship, Kati Fargo Ahern and Jordan Fr
 
 This 2004 documentary film features deaf percussionist Evelyn Glennie, a world-renowned Scottish musician. Due to her deafness, Glennie relies on sight and touch (vibration) to listen. Touch the Sound follows Glennie through her everyday life to explore the multisensory ways that she experiences the sonic world. This film is a fantastic teaching resource for several reasons. First, *Touch the Sound* encourages viewers to reflect upon their own and others’ listening practices. Second, Glennie exemplifies how touch, sight, and sound work together during sonic interactions, making explicit the multisensory aspects of listening that most hearing people take for granted. In this way, the film has the potential to expand and enrich students’ conceptions of and approaches to listening. Lastly, the beyond-the-ears listening practices demonstrated in this film provide a perfect opportunity to talk to students about designing more accessible sonic projects, or projects that account for a range of listeners with different bodily capacities and needs. Indeed, teaching students to create sonic work that can be engaged with via multiple modes and pathways (as opposed to the ears only) is vitally important for encouraging more inclusive practices in digital pedagogy. 
 
-
-### Digital Music and Sound” Syllabus
+### "Digital Music and Sound" Syllabus
 
 * Source URL: <http://www.analogtara.net/wp/teaching/digital-music-sound/>
 * Copy of Artifact: Forthcoming
