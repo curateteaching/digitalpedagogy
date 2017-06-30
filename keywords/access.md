@@ -148,7 +148,7 @@ King-Sears, Margaret. "Universal Design for Learning: Technology and Pedagogy." 
 
 Lazar, Jonathan and Paul Jaeger. "Reducing Barriers to Online Access for People with Disabilities." [http://issues.org/27-2/lazar/](http://issues.org/27-2/lazar/)
 
-Lucchesi, Andrew, Ed. *Disability Studies Approaches to Pedagogy, Research, and Design* [http://jitp.commons.gc.cuny.edu/table-of-contents-issue-eight/](http://jitp.commons.gc.cuny.edu/table-of-contents-issue-eight/)
+Lucchesi, Andrew, Ed. "Disability Studies Approaches to Pedagogy, Research, and Design." Spec Issue of *The Journal of Interactive Technology and Pedagogy* [http://jitp.commons.gc.cuny.edu/table-of-contents-issue-eight/](http://jitp.commons.gc.cuny.edu/table-of-contents-issue-eight/)
 
 Yergeau, Melanie, Elizabeth Brewer, Stephanie L. Kerschbaum, Sushi K. Oswald, Margaret Price, Cynthia L. Self, Michael J. Salvo, and Franny Howes. *Multimodality in Motion: Disability and Kairotic Spaces.* [http://kairos.technorhetoric.net/18.1/coverweb/yergeau-et-al/index.html](http://kairos.technorhetoric.net/18.1/coverweb/yergeau-et-al/index.html)
 
@@ -171,7 +171,7 @@ King-Sears, Margaret. "Universal Design for Learning: Technology and Pedagogy." 
 
 Lazar, Jonathan and Paul Jaeger. "Reducing Barriers to Online Access for People with Disabilities." [http://issues.org/27-2/lazar/](http://issues.org/27-2/lazar/)
 
-Lucchesi, Andrew, Ed. *Disability Studies Approaches to Pedagogy, Research, and Design* [http://jitp.commons.gc.cuny.edu/table-of-contents-issue-eight/](http://jitp.commons.gc.cuny.edu/table-of-contents-issue-eight/)
+Lucchesi, Andrew, Ed. "Disability Studies Approaches to Pedagogy, Research, and Design." Spec Issue of *The Journal of Interactive Technology and Pedagogy*  [http://jitp.commons.gc.cuny.edu/table-of-contents-issue-eight/](http://jitp.commons.gc.cuny.edu/table-of-contents-issue-eight/)
 
 Price, Margaret. "Accessibility Audit Assignment." [https://drive.google.com/folderview?id=0B-h_I_KLxUTLaGpSX1NFMllmd0E&usp=sharing](https://drive.google.com/folderview?id=0B-h_I_KLxUTLaGpSX1NFMllmd0E&usp=sharing)
 
