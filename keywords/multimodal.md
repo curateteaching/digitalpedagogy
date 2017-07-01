@@ -15,7 +15,7 @@ type: book
 
 # MULITIMODAL (Draft)
 
-### Virginia Kuhn (http://virginiakuhn.net)
+### Virginia Kuhn 
 University of Southern California, School of Cinematic Arts, Division of Media Arts + Practice | [virginiakuhn.net](http://virginiakuhn.net) 
 
 ##### Publication Status:
