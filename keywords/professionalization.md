@@ -92,7 +92,7 @@ ORCID is an open, non-profit, community-driven effort to create and maintain a r
 While this guide to professionalism is specific to the US context, the included exercises on identifying workplace bias, generational and cultural stereotypes, professional attitudes, and social dynamics within the workplace are invaluable. Each exercise offers a short activity, a journal or reflective activity, as well as suggested extension activities that instructors might build on to the particular topic. Importantly, little professionalism training in the academy focuses on social and cultural dynamics making these tutorials quite unique and useful for those looking to be successful in professional environments. Instructors will find these activities perfect for role-playing within the classroom while students will be able to work through their own responses to common workplace scenarios.
 
 ### “You Call It Professionalism, I Call It Oppression in a Three-Piece Suit” 
-![screenshot](images/Rios_You_Call_It.jpg)
+![screenshot](images/professionalism_Rios_You_Call_It.jpg)
 
 * Source URL: [http://everydayfeminism.com/2015/02/professionalism-and-oppression/](http://everydayfeminism.com/2015/02/professionalism-and-oppression/)
 * Copy of Artifact: [files/professionalism_Rios_You_Call_It.pdf](files/professionalism_Rios_You_Call_It.pdf)
