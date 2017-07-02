@@ -13,7 +13,7 @@ publisher: Modern Language Association
 type: book
 ---
 
-#TEXT ANALYSIS (Final)
+# TEXT ANALYSIS
 
 ## Natalie M. Houston
 Department of English | University of Massachusetts Lowell | [Website](http://nmhouston.com/)
