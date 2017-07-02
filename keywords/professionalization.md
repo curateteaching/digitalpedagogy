@@ -128,7 +128,7 @@ Laker, Dennis R., and Ruth Laker. “The Five-Year Resume: A Career Planning Exe
 
 McGarrity, Matt. “Introduction to Public Speaking - University of Washington.” Coursera, Inc. Web. 6 Apr. 2015. <https://www.coursera.org/learn/public-speaking>
 
-Menand, Louis. “Professionalization in the Academy". Harvard Magazine. N.p., Dec. 2009. Web. 6 Apr. 2015. <http://harvardmagazine.com/2009/11/professionalization-in-academy>
+Menand, Louis. “The Ph.D. Problem." *Harvard Magazine*. N.p., Dec. 2009. Web. 6 Apr. 2015. <http://harvardmagazine.com/2009/11/professionalization-in-academy>
 
 Morrison, Aimée. “Hook and Eye: Graduate Professionalization Seminar.” *Hook and Eye*, 4 September 2013. Web. <http://www.hookandeye.ca/2013/09/graduate-professionalization-seminar.html>
 
