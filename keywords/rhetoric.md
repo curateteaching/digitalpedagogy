@@ -28,7 +28,7 @@ George Mason University
 
 --- 
 
-##Rhetoric as Digital Pedagogy/Digital Pedagogy as Rhetoric
+## Rhetoric as Digital Pedagogy/Digital Pedagogy as Rhetoric
 
 In the Western tradition, efforts to theorize and codify best practices in rhetoric (the best known example of which is Aristotle's _On Rhetoric_) led fairly quickly to attempts to develop a curriculum for teaching rhetoric (most famously portrayed in the works of Cicero and Quintilian), which in turn became the foundations of teaching in the liberal arts tradition. In other words, "rhetoric" and "pedagogy" have always been intertwined.
 
