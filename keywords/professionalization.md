@@ -14,7 +14,7 @@ Indiana University-Purdue University Indianapolis | http://jguiliano.com/
 --- 
 
 ## CURATORIAL STATEMENT 
-When we think about professionalization in the context of pedagogy, most frequently we are referring to teaching about one of three things: 1) classroom management; 2) presenting oneself in writing via curriculum vitae and resumes; and 3) presenting one's research in oral forms via presentations and interviews. In part, this limited view of professionalization is a result of the continuing dominance of academics, and particularly academics engaged in teaching master's and doctoral students, in determining the context through which professionalization is taught. As Professor Louis Menard remarks in his essay entitled *The Ph.D. Problem*:
+When we think about professionalization in the context of pedagogy, most frequently we are referring to teaching about one of three things: 1) classroom management; 2) presenting oneself in writing via curriculum vitae and resumes; and 3) presenting one's research in oral forms via presentations and interviews. In part, this limited view of professionalization is a result of the continuing dominance of academics, and particularly academics engaged in teaching master's and doctoral students, in determining the context through which professionalization is taught. As Louis Menand remarks in his essay entitled *The Ph.D. Problem*:
 
 > It is easy to see how the modern academic discipline reproduces all the salient features of the professionalized occupation. It is a self-governing and largely closed community of practitioners who have an almost absolute power to determine the standards for entry, promotion, and dismissal in their fields. The discipline relies on the principle of disinterestedness, according to which the production of new knowledge is regulated by measuring it against existing scholarship through a process of peer review, rather than by the extent to which it meets the needs of interests external to the field.
 
@@ -128,7 +128,7 @@ Laker, Dennis R., and Ruth Laker. “The Five-Year Resume: A Career Planning Exe
 
 McGarrity, Matt. “Introduction to Public Speaking - University of Washington.” Coursera, Inc. Web. 6 Apr. 2015. <https://www.coursera.org/learn/public-speaking>
 
-Menard, Louis. “Professionalization in the Academy". Harvard Magazine. N.p., Dec. 2009. Web. 6 Apr. 2015. <http://harvardmagazine.com/2009/11/professionalization-in-academy>
+Menand, Louis. “Professionalization in the Academy". Harvard Magazine. N.p., Dec. 2009. Web. 6 Apr. 2015. <http://harvardmagazine.com/2009/11/professionalization-in-academy>
 
 Morrison, Aimée. “Hook and Eye: Graduate Professionalization Seminar.” *Hook and Eye*, 4 September 2013. Web. <http://www.hookandeye.ca/2013/09/graduate-professionalization-seminar.html>
 
