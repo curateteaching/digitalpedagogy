@@ -1,3 +1,18 @@
+---
+title: Digital Pedagogy in the Humanities
+subtitle: Concepts, Models, and Experiments
+chapter: KEYWORD
+URL: keywords/KEYWORD.md
+author: 
+- family: FAMILY NAME
+  given: GIVEN NAME
+editor: 
+- family: FAMILY NAME
+  given: GIVEN NAME
+publisher: Modern Language Association
+type: book
+---
+
 # ORIGINAL KEYWORD ENTRY TEMPLATE
 
 **Note: Maximum Length for each keyword entry (including works cited) is 3000 words**
@@ -6,19 +21,6 @@
 
 Please email your assigned editor with any questions or concerns. Your assigned editor is the person who contacted you with details about this template.
 
----
-title: Digital Pedagogy in the Humanities
-subtitle: Concepts, Models, and Experiments
-chapter: KEYWORD TITLE
-URL: keywords/KEYWORD FILE NAME
-author:
-- family: AUTHOR LAST NAME
-  given: AUTHOR FIRST NAME
-editor:
-- family: EDITOR LAST NAME
-  given: EDITOR FIRST NAME
-publisher: Modern Language Association
-type: book
 ---
 
 # KEYWORD NAME
