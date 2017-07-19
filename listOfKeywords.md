@@ -13,9 +13,12 @@ Hashtag for news and updates: [#curateteaching](https://twitter.com/hashtag/cura
 
 ## CURRENT KEYWORDS
 
+* Access
+* Affect
 * [Annotation](keywords/annotation.md)
 * [Archive](keywords/archive.md)
 * Assessment
+* Authorship
 * Attention
 * Audio
 * Blogging
@@ -23,36 +26,53 @@ Hashtag for news and updates: [#curateteaching](https://twitter.com/hashtag/cura
 * [Code](keywords/code.md)
 * [Collaboration](keywords/collaboration.md)
 * [Community](keywords/community.md)
+* Community College
 * Composition
 * Curation
 * [Design](keywords/design.md)
+* Diaspora
+* Digital Divides
 * Disability
+* ePortfolio
 * [Failure](keywords/failure.md)
+* Fiction
 * Fieldwork
+* Futures
 * Gaming
 * Gender
 * Hacking
+* Hashtag
 * History
 * [Hybrid](keywords/hybrid.md)
+* Indigenous
 * Information
 * [Interface](keywords/interface.md)
+* Intersectionality
+* Iteration
+* Labor
+* Language Learning
 * Makerspace
+* Mapping
 * [Multimodal](keywords/multimodal.md)
+* Network
+* Online
 * [Open](keywords/open.md)
 * Peer Review
 * [Play](keywords/play.md)
+* Poetry
 * [Praxis](keywords/praxis.md)
 * [Professionalization](keywords/professionalization.md)
 * [Project Management](keywords/projectManagement.md)
-* Prototyping
+* Prototype
 * [Public](keywords/public.md)
 * [Queer](keywords/queer.md)
 * [Race](keywords/race.md)
 * Remix
 * [Rhetoric](keywords/rhetoric.md)
 * [Sexuality](keywords/sexuality.md)
+* Social Justice
 * [Sound](keywords/sound.md)
 * Storytelling
 * [Text Analysis](keywords/textanalysis.md)
 * [Video](keywords/video.md)
-* Work
+* Visualization
