@@ -1,4 +1,4 @@
-# Draft List of Keywords for DIGITAL PEDAGOGY IN THE HUMANITIES: CONCEPTS, MODELS, AND EXPERIMENTS
+# FINAL List of Keywords for DIGITAL PEDAGOGY IN THE HUMANITIES: CONCEPTS, MODELS, AND EXPERIMENTS
 
 *A curated collection of downloadable, reusable, and remixable pedagogical resources.*
 
