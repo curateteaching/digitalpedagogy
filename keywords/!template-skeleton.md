@@ -13,7 +13,7 @@ publisher: Modern Language Association
 type: book
 ---
 
-# Keyword Entry Template 
+# Skeleton Keyword Entry Template 
 
 **Note: Maximum Length for each keyword entry (including works cited) is 3000 words**
 
@@ -31,8 +31,6 @@ Institutional Affiliation (if any) | Website
 * published 
 
 ---
-
-### Tags: for overall keyword entry
 
 ### Cross-Reference Keywords: add suggestions for other keywords that may be related to your keyword. See list of keywords https://github.com/curateteaching/digitalpedagogy/blob/master/listOfKeywords.md
 
