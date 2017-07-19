@@ -34,6 +34,8 @@ Institutional Affiliation (if any) | Website
 
 ### Tags: for overall keyword entry
 
+### Cross-Reference Keywords: add suggestions for other keywords that may be related to your keyword. See list of keywords https://github.com/curateteaching/digitalpedagogy/blob/master/listOfKeywords.md
+
 ---  
 
 ## CURATORIAL STATEMENT (roughly 750-800 words, MLA Format)
