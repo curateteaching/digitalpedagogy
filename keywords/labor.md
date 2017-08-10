@@ -24,7 +24,7 @@ This process of parallel critique and creation does not have to be onerous for i
 
 #### Student Collaborators Bill of Rights
 
-![screenshot](images/labor-SCBOR.jpg)
+![screenshot](images/labor-SCBOR.JPG)
 
 * Artifact Type: Declaration of student rights developed in collaboration with students.
 * Source URL: [http://www.cdh.ucla.edu/news-events/a-student-collaborators-bill-of-rights/](http://www.cdh.ucla.edu/news-events/a-student-collaborators-bill-of-rights/) 
