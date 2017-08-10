@@ -36,7 +36,7 @@ This process of parallel critique and creation does not have to be onerous for i
 
 #### The Price of an Internship
 
-![screenshot](images/labor-propublica.jpg) 
+![screenshot](images/labor-propublica.JPG) 
 
 * Artifact Type: Pro Publica’s ongoing investigation of unpaid internship practices at American universities.
 * Source URL: [http://projects.propublica.org/internships/](http://projects.propublica.org/internships/)
@@ -48,7 +48,7 @@ The Pro Publica investigation of college internship programs compares costs of t
 
 #### Guidelines for Evaluating Work in Digital Humanities and Digital Media
 
-![screenshot](images/labor-mla.jpg)  
+![screenshot](images/labor-mla.JPG)  
 
 * Artifact Type: The Modern Language Association’s guidelines “to help departments and faculty members implement effective evaluation procedures for hiring, reappointment, tenure, and promotion” of faculty working on digital projects.
 * Source URL: [https://www.mla.org/About-Us/Governance/Committees/Committee-Listings/Professional-Issues/Committee-on-Information-Technology/Guidelines-for-Evaluating-Work-in-Digital-Humanities-and-Digital-Media](https://www.mla.org/About-Us/Governance/Committees/Committee-Listings/Professional-Issues/Committee-on-Information-Technology/Guidelines-for-Evaluating-Work-in-Digital-Humanities-and-Digital-Media)
@@ -60,7 +60,7 @@ Originally drafted in 2000, these guidelines address the need for the labor of f
 
 #### Short Guide to Evaluation of Digital Work
 
-![screenshot](images/labor-shortguide.jpg) 
+![screenshot](images/labor-shortguide.JPG) 
 
 * Artifact Type: An “annotated expansion” of a checklist for evaluating digital work published in the Journal of Digital Humanities.
 * Source URL: [http://journalofdigitalhumanities.org/1-4/short-guide-to-evaluation-of-digital-work-by-geoffrey-rockwell/](http://journalofdigitalhumanities.org/1-4/short-guide-to-evaluation-of-digital-work-by-geoffrey-rockwell/)
@@ -84,7 +84,7 @@ The essay “The Ladies Vanish” reflects on the feminization of labor in digit
 
 #### LaborArts
 
-![screenshot](images/labor_laborarts.jpg)  
+![screenshot](images/labor_laborarts.JPG)  
 
 * Artifact Type: *LaborArts* is a site featuring digital collections and online exhibits of images curated to “further understanding of the past and present lives of working people.”
 * Source URL: [http://www.laborarts.org/](http://www.laborarts.org/)
@@ -96,7 +96,7 @@ The essay “The Ladies Vanish” reflects on the feminization of labor in digit
 
 #### *The History Engine;* “The Keating-Owen Child Labor Act of 1916”
 
-![screenshot](images/labor-historyengine.jpg)  
+![screenshot](images/labor-historyengine.JPG)  
 
 * Artifact Type: Student-authored “episode” on the *Keating-Owen Child Labor Act of 1916* on *History Engine*, written for the course “America From Civil War to World Stage” at Widener University in Fall 2011.
 * Source URL: [https://historyengine.richmond.edu/episodes/view/5309](https://historyengine.richmond.edu/episodes/view/5309)
@@ -108,7 +108,7 @@ The essay “The Ladies Vanish” reflects on the feminization of labor in digit
 
 #### Digital Labor, Urban Space, and Materiality
 
-![screenshot](images/labor-posner.jpg)  
+![screenshot](images/labor-posner.JPG)  
 
 * Artifact Type: Syllabus for Digital Humanities 150 course taught by Miriam Posner
 * Source URL: [http://digitalmateriallabor.org/](http://digitalmateriallabor.org/)
@@ -132,7 +132,7 @@ Part of a growing suite of projects under Amy Earhart and Toneisha Taylor’s  *
 
 #### Build Your Own Website
 
-![screenshot](images/labor-cordell.jpg)  
+![screenshot](images/labor-cordell.JPG)  
 
 * Artifact Type: An assignment for Ryan Cordell’s “Texts, Maps, Networks: Digital Literary Studies” class taught at Northeastern University, Fall 2014.
 * Source URL: [http://f14tmn.ryancordell.org/assignments/build-your-own-website/](http://f14tmn.ryancordell.org/assignments/build-your-own-website/)
