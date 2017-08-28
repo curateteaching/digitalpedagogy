@@ -20,8 +20,14 @@ type: book
 
 # PRAXIS  (Draft)
 
-### Bethany Nowviskie, Jeremy Boggs, and J. K. Purdom Lindblad
+### Bethany Nowviskie
+CLIR/DLF | [Digital Library Federation](https://diglib.org/)
+
+### Jeremy Boggs
 University of Virginia | [Scholars' Lab](http://scholarslab.org/)
+
+### J. K. Purdom Lindblad
+University of Maryland | [MITH](http://mith.umd.edu)
 
 ---
 
@@ -29,9 +35,19 @@ University of Virginia | [Scholars' Lab](http://scholarslab.org/)
 * unreviewed draft
 * draft version undergoing editorial review
 * **draft version undergoing peer-to-peer review** https://digitalpedagogy.commons.mla.org/
-* published 
+* published
 
---- 
+---
+
+##### Cross-Reference Keywords:
+* Design
+* Fieldwork
+* Hacking
+* Labor
+* Play
+* Prototype
+
+---
 
 ## CURATORIAL STATEMENT
 
@@ -46,9 +62,9 @@ Attention to praxis can encourage students to look beyond academic literature in
 
 #### Our Own Pedagogy
 
-We have compiled these resources from the perspective of three digital humanities practitioners engaged in the extra-curricular mentoring and methodological training of graduate students across disciplines at a digital scholarship center: the University of Virginia [Scholars' Lab](http://scholarslab.org/). Almost everything we offer at the Scholars' Lab—from the contributions made by our internal research projects to our workshops and partnerships with faculty, our support of undergraduate research, and our hosted graduate fellowship programs—features praxis as [a central concern](http://scholarslab.org/about/charter/). We take an uncommon position for a library-based service unit, in that we are more oriented toward building up people, as mentors and partners, than toward building websites or tools as an on-request service. In our teaching, we are therefore always careful to emphasize *how* and *why* to make or do things, and to promote design thinking and reflective practice. Praxis is core to the ethos of the Scholars' Lab and to nearly all of our interactions with collaborators. We take this tack because we feel that students, scholars, and cultural heritage or information professionals alike need to engage more deeply with making and building as a way of knowing, in preparation for active and hopeful futures for 21st-century humanities.
+We compiled these resources from the perspective of three digital humanities practitioners engaging in the extra-curricular mentoring and methodological training of graduate students across disciplines at a digital scholarship center: the University of Virginia [Scholars' Lab](http://scholarslab.org/). At the time of our partnership there, almost every program on offer at the Scholars' Lab—from internal, staff research projects to workshops and partnerships with faculty, support of undergraduate research, and hosted graduate fellowship programs—featured praxis as [a central concern](http://scholarslab.org/about/charter/). The lab, then under Nowviskie's leadership and with Lindblad in the role of Head of Graduate Programs, took an uncommon position for a library-based service unit. It was more oriented toward building up *people* as mentors and partners, than toward building websites or tools as an on-request service. In our teaching at the Scholars' Lab, we were therefore always careful to emphasize *how* and *why* to make or do things, and to promote design thinking and reflective practice. Despite staffing changes, this emphasis on praxis remains core to the ethos of the Lab and to nearly all of its interactions with collaborators. We fostered it there because we felt that students, scholars, and cultural heritage or information professionals alike needed to engage more deeply with making and building as a way of knowing, as they prepared to take part in more active and hopeful futures for 21st-century humanities.
 
-A pedagogy based in praxis can appreciate and analyze built objects or working systems, but also attends to the processes, underlying theories, and methods of making that lead to them. It helps students understand the humanities both in terms of finished products and limitless paths. 
+A pedagogy based in praxis can appreciate and analyze built objects or working systems, but importantly also attends to the processes, underlying theories, and methods of making that lead to them. It helps students understand the humanities both in terms of finished products and limitless paths.
 
 #### Rationale and Criteria
 
@@ -58,7 +74,7 @@ First, we chose resources that were [open-access](http://en.wikipedia.org/wiki/O
 
 Second, we wanted to include a range of resources: syllabi that discuss, organize, and present praxis-oriented theories and activities to students; sample lessons that themselves embody praxis in the sense that they detail processes and outline possible, theoretically-informed outcomes; reflective demonstrations of completed projects or showcases of the tools and processes that have gone into making a particular project, object, or system; and articles that discuss the importance of praxis for teaching and learning. It was important to us to include resources that varied in type or format and in domain of application, to show that praxis can enter the classroom in a variety of ways.
 
-Finally, we sought "artifacts" that demonstrate symbiotic relationships among praxis, theory, and product. All of the resources we offer here highlight the importance and interconnectedness of these relations: none can or should be understood to exist in isolation, and exploring one aspect of an object or exercise should necessarily mean exploring the others. We feature resources that, in our view, succeed in demonstrating that the best way to learn is through active engagement. These entries do not just talk about the importance of praxis in the abstract: they provide examples of embodied, theoretically-informed learning in action.
+Finally, we sought "artifacts" that demonstrate symbiotic relationships among praxis, theory, and product. All of the resources offered here highlight the importance and interconnectedness of these relations: none can or should be understood to exist in isolation, and exploring one aspect of an object or exercise should necessarily mean exploring the others. We feature resources that, in our view, succeed in demonstrating that the best way to learn is through active engagement. These entries do not just talk about the importance of praxis in the abstract: they provide examples of embodied, theoretically-informed learning in action.
 
 ## CURATED ARTIFACTS
 
