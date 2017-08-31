@@ -62,7 +62,7 @@ The advisory board helped shape this project by giving advice on the initial pro
 * [Cheryl Ball](https://commons.mla.org/members/s2ceball/), West Virginia University
 * Bryan Carter, University of Arizona
 * [Tanya Clement](https://commons.mla.org/members/tclement/), University of Texas, Austin
-* [Brian Croxall](https://commons.mla.org/members/briancroxall/), Emory University
+* [Brian Croxall](https://commons.mla.org/members/briancroxall/), Brigham Young University
 * Douglas Eyman, George Mason University
 * [Paul Fyfe](https://commons.mla.org/members/pfyfe/), North Carolina State University
 * Gail E. Hawisher, University of Illinois, Urbana (professor emeritus)
