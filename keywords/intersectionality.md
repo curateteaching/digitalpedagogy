@@ -42,7 +42,7 @@ The artifacts collected here include student work, standalone assignments, assig
 #### “Runaway Quilt Project”
 ![screenshot](images/intersectionality-Runaway-Quilt-Project.png)
 
-* Artifact Type: Student project
+* Artifact Type: student work
 * Source URL: [http://runawayquiltproject.org](http://runawayquiltproject.org)
 * Copy of Artifact: [files/intersectionality-Runaway-Quilt-Project.png](files/intersectionality-Runaway-Quilt-Project.png)
 * Creator: Deimosa Webber-Bey, Pratt Institute School of Library and Information Science  
@@ -69,11 +69,11 @@ The digital ethnography assignment designed by Lori Ostergaard positions interse
 
 Through the assignment “Women Writing Worldwide,” Jenn Brandt’s students explore the affordances of digital cultural mapping for understanding the relationship between transnational feminist theory and global contemporary women’s fiction. She contends that mapping engages students from diverse backgrounds and connects them to the issues that affect women’s lives around the globe. Students begin by using the Tour Builder storytelling tool in Google Earth to map their own lives and tell their own stories. After connecting them to the platform through their own experiences, Brandt asks students to map the course material. In the collaborative project, each student is assigned a country and asked to research its context for women’s experiences. This assignment is significant for intersectional digital pedagogy because it challenges the students to think critically about the different experiences of oppression of women around the world and to understand the global as an assemblage of the local.
 
-#### “Teaching with Tumblr: Building a Digital Archive of Gender, Race & Empire” ![screenshot](images/intersectionality-Teaching-with-Tumblr.png)
+#### “Gender/Race/Empire” ![screenshot](images/intersectionality-gender-race-empire.png)
 
-* Artifact Type: blog post 
-* Source URL: [http://notchesblog.com/2015/09/29/teaching-with-tumblr-building-a-digital-archive-of-gender-race-empire/](http://notchesblog.com/2015/09/29/teaching-with-tumblr-building-a-digital-archive-of-gender-race-empire/)
-* Copy of Artifact: [files/intersectionality-Teaching-with-Tumblr.pdf](files/intersectionality-Teaching-with-Tumblr.pdf)
+* Artifact Type: student work 
+* Source URL: [http://gender-race-empire.tumblr.com](http://gender-race-empire.tumblr.com)
+* Copy of Artifact: [files/intersectionality-gender-race-empire.pdf](files/intersectionality-gender-race-empire.pdf)
 * Creator: Bianca Murillo, California State University, Dominguez Hills
 
 Created by Bianca Murillo’s history students, [“Gender, Race & Empire”](http://gender-race-empire.tumblr.com) offers an example of engaging students with the microblogging platform Tumblr to build an intersectional digital archive. To contribute to the archive, as Murillo describes, students posted short, frequent reflections on course readings and discussions to explore the intersections of empire and sexuality through both historical and contemporary examples of racism. Using Tumblr not only facilitated frequent posting but also aggregated student work in an archive that allowed them to work collaboratively, building on each others’ posts throughout the course. These Tumblr assignments provided hands-on experience in the constructedness of archives and how both history and archives are shaped by the intersections of race, sexuality, and colonialism. Notably, Murillo addresses the challenge of assessment for this class assignment, as well as student responses, which indicated that the assignment offered them freedom to experiment. Instructors interested in creating collaborative class archives that allow students to explore the intersections of axes of identity such as race, gender, and sexuality can draw on Murillo’s concrete advice for a strict post schedule, guidelines, and use of hashtags to track discussion topics and connections between themes in the Tumblr archive over time. 
