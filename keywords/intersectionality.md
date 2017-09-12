@@ -39,15 +39,15 @@ The artifacts collected here include student work, standalone assignments, assig
 
 ## CURATED ARTIFACTS 
 
-#### “Runaway Quilt Project: Digital Humanities Exploration of Quilting During the Era of Slavery”
+#### “Runaway Quilt Project”
 ![screenshot](images/intersectionality-Runaway-Quilt-Project.png)
 
-* Artifact Type: article
-* Source: [http://jitp.commons.gc.cuny.edu/runaway-quilt-project-digital-humanities-exploration-of-quilting-during-the-era-of-slavery/](http://jitp.commons.gc.cuny.edu/runaway-quilt-project-digital-humanities-exploration-of-quilting-during-the-era-of-slavery/)
+* Artifact Type: Student project
+* Source: [http://runawayquiltproject.org](http://runawayquiltproject.org)
 * Copy of Artifact: [files/intersectionality-Runaway-Quilt-Project.pdf](files/intersectionality-Runaway-Quilt-Project.pdf)
 * Creator: Deimosa Webber-Bey, Pratt Institute School of Library and Information Science  
 
-Deimosa Webber-Bey’s article describes her process of creating *The Runaway Quilt Project* for an assignment in Chris Alen Sula’s [introductory digital humanities course](http://chrisalensula.org/digital-humanities-spring-2012/) at the Pratt Institute. As such, it provides an example of how students can draw on their personal experiences at the intersections of their own identities to develop a digital project in the context of a course. Drawing on her work as an African and African American Studies scholar and experienced quilter, Webber-Bey explored the claim that quilts served as signs along the Underground Railroad through many small-scale forms of digital data analysis: data visualizations in Tableau Public, digital annotations using Digress.it, word frequency analysis through Google N-grams Viewer, a timeline in TimelineJS, geospatial mapping using Leaflet Maps Marker, and network analysis in Cytoscape. Each method used in the project drew on material introduced in Sulu’s course. This collection of assignments serves as an exemplar for how students can undertake multiple, small-scale analyses to create a multi-pronged approach to a single research topic. Together, these modular approaches suggest how instructors can assist students in developing substantial projects on the complex intersections of race and gender by revisiting a data set through different research methods.
+Created for an assignment in Chris Alen Sula’s [introductory digital humanities course](http://chrisalensula.org/digital-humanities-spring-2012/) at the Pratt Institute Deimosa Webber-Bey’s *Runaway Quilt Project* provides an example of how students can draw on their personal experiences at the intersections of their own identities to develop a digital project in the context of a course. Drawing on her work as an African and African American Studies scholar and experienced quilter, Webber-Bey explored the claim that quilts served as signs along the Underground Railroad through many small-scale forms of digital data analysis: data visualizations in Tableau Public, digital annotations using Digress.it, word frequency analysis through Google N-grams Viewer, a timeline in TimelineJS, geospatial mapping using Leaflet Maps Marker, and network analysis in Cytoscape. Each method used in the project drew on material introduced in Sulu’s course. This collection of assignments serves as an exemplar for how students can undertake multiple, small-scale analyses to create a multi-pronged approach to a single research topic. Together, these modular pieces suggest how instructors can assist students in developing substantial projects on the complex intersections of race and gender by revisiting a data set through different research methods.
 
 #### “Teaching Artifact - Assignment: Digital Ethnography”
 ![screenshot](images/intersectionality-Digital-Ethnography.png)
@@ -151,6 +151,8 @@ Stern, Danielle. “You Had Me at Foucault: Living Pedagogically in the Digital 
 
 VanGilder, Kirk. “Intersectionality and Disclosure as Pedagogical Tools. *Religious Studies News.* 29 Apr. 2015. [http://rsn.aarweb.org/spotlight-on/theo-ed/intersectionality/intersectionality-and-disclosure-pedagogical-tools](http://rsn.aarweb.org/spotlight-on/theo-ed/intersectionality/intersectionality-and-disclosure-pedagogical-tools). 
 
+Webber-Bey, Deimosa. “Runaway Quilt Project: Digital Humanities Exploration of Quilting During the Era of Slavery.” *The Journal of Interactive Teaching and Pedagogy* 6 (2014). [http://jitp.commons.gc.cuny.edu/runaway-quilt-project-digital-humanities-exploration-of-quilting-during-the-era-of-slavery/](http://jitp.commons.gc.cuny.edu/runaway-quilt-project-digital-humanities-exploration-of-quilting-during-the-era-of-slavery/).
+
 ## WORKS CITED
 
 Allen, Samantha. “Video Games as Feminist Pedagogy.” *The Journal of the Canadian Game Studies Association* 8.13 (2014): 61-80. [http://journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166](http://journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166).
@@ -205,7 +207,7 @@ Stern, Danielle. “You Had Me at Foucault: Living Pedagogically in the Digital 
 
 VanGilder, Kirk. “Intersectionality and Disclosure as Pedagogical Tools. *Religious Studies News.* 29 Apr. 2015. [http://rsn.aarweb.org/spotlight-on/theo-ed/intersectionality/intersectionality-and-disclosure-pedagogical-tools](http://rsn.aarweb.org/spotlight-on/theo-ed/intersectionality/intersectionality-and-disclosure-pedagogical-tools). 
 
-Webber-Bey, Deimosa. “Runaway Quilt Project: Digital Humanities Exploration of Quilting During the Era of Slavery.” *The Journal of Interactive Teaching and Pedagogy* 6 (2014). [http://jitp.commons.gc.cuny.edu/runaway-quilt-project-digital-humanities-exploration-of-quilting-during-the-era-of-slavery/](http://jitp.commons.gc.cuny.edu/runaway-quilt-project-digital-humanities-exploration-of-quilting-during-the-era-of-slavery/).
+Webber-Bey, Deimosa. “Runaway Quilt Project." *Runaway Quilt Project.* [http://runawayquiltproject.org](http://runawayquiltproject.org).
 
 Wernimont, Jacqueline and Liz Losh. “Problems with White Feminism: Intersectionality and Digital Humanities.” *Doing Digital Humanities.* Eds. Constance Crompton, Richard Lane, and Ray Siemens. NY: Routledge, 2016. (forthcoming).
 
