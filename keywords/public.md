@@ -8,7 +8,7 @@ University of Mary Washington | [http://mcclurken.org](http://mcclurken.org)
 ##### Publication Status:
 * unreviewed draft
 * *draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review https://digitalpedagogy.commons.mla.org/**
+* **draft version undergoing peer-to-peer review**
 * published 
 
 --- 
@@ -21,7 +21,7 @@ My link selections here are shaped by my own experiences teaching at a small, pu
 
 One concern that is sometime broached by faculty when I talk about public projects revolves around the notion of student work not being good enough, of the possibility of students failing in a very public way.  Certainly students should have a safe space to work, but we also need to figure out ways to build iteration into students’ creation process because it is a key part of successful digital humanities projects and of learning more generally. [Other notions of "failure" can be seen in [Croxall and Warnick's keyword](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/failure.md).]
 
-Students get the value of public projects.  They are proud of them, sharing them with family and friends.  They point to them in job portfolios and graduate school applications.  They welcome the chance to share all they have learned.  Students surveyed in my classes over the last 5+ years consistently indicate that they invest more effort, time, and attention on public class projects because they know that their creations are viewed by an audience that goes well beyond their instructors, that those creations live on beyond the class, and that they are engaged in meaningful, relevant contributions to public discourse.
+Students understand the value of public projects.  They are proud of them, sharing them with family and friends.  They point to them in job portfolios and graduate school applications.  They welcome the chance to share all they have learned.  Students surveyed in my classes over the last 5+ years consistently indicate that they invest more effort, time, and attention on public class projects because they know that their creations are viewed by an audience that goes well beyond their instructors, that those creations live on beyond the class, and that they are engaged in meaningful, relevant contributions to public discourse.
 
 
 ## CURATED ARTIFACTS

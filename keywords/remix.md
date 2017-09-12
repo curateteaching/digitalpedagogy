@@ -15,9 +15,9 @@ type: book
 
 
 
-# REMIX (Draft)
+# Remix
 
-## Kim Middleton
+### Kim Middleton
 Mount Saint Mary's University, Los Angeles 
 
 
@@ -25,7 +25,7 @@ Mount Saint Mary's University, Los Angeles
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review** https://digitalpedagogy.commons.mla.org/
+* **draft version undergoing peer-to-peer review**
 * published 
 
 --- 
@@ -38,18 +38,14 @@ Where did remix come from? Scholars point to the overlapping histories of collag
 
 Simultaneously pervasive and controversial, remix emerged as a fundamental vernacular practice that requires defense. Law professor and activist Lawrence Lessig situates the right to remix as "a critical expression of creative freedom that . . . no free society should restrict" (56). He defends this bold claim by placing remix at the center of a culture in which citizens have the ability not only to consume cultural artifacts made by professionals, but to contribute to the culture by creating and re-creating what is around them. Like Lessig, Media Studies scholar Henry Jenkins identifies this phenomenon as "participatory culture" wherein individuals and affinity groups "archive, annotate, appropriate, and recirculate media content in powerful new ways." For Jenkins, these extant participatory practices suggest a set of goals for those coming of age in this era: "encourage youths to develop the skills, knowledge, ethical frameworks, and self-confidence needed to be full participants in contemporary culture" (8-9). The exuberance of both scholars (and many more like them) is tempered by the significant challenges to remix as civic engagement--most notably, the corporate and governmental insistence on legal copyright as imprimatur of a work's ownership, which prevents its use as a source for new work. 
 
-The pedagogical exigency of remix, then, grows out of two specific, but linked, contexts. On the one hand, the ubiquity of remix in popular culture conceals the complex meaning-making that it can and does perform. On the other hand, its foundational practices exist in constant and ever-changing tension with high-stakes legal and economic consequences for engaging in those same practices. Remix challenges our cultural beliefs about authorship and ownership; passive consumption and active participation; creativity, critique, and claim; yet the everyday habits of consuming, composing, and recirculating remixes already comprise a coherent logic for daily interaction. Bringing remix into our classes, then, creates the space for students to investigate these contested concepts as they appear in the media and materials of everyday life through experimentation with the critical tools of our varied academic disciplines. Remix allows us to underscore, for our students, the moments when our fields question or collaborate with these commonplace practices, and when it calls into question our own aesthetic and ideological criteria. Literary scholars, for example, might draw a productive parallel to the constellation of appropriated texts at the heart of T.S. Eliot’s canonical poem *The Wasteland*, and consider the ways that the selection and juxtaposition of those fragments allow for engagement with, and commentary on, cultures of the day, the definition of art, and the role of the artist. In "The Rhetoric of Remix," Virginia Kuhn notes the subversive function of the genre: "Remix lays bare the constructed nature of the original and often calls attention to its own construction" (5.4). Teaching remix provides an opportunity for us to participate in a shared project with our students: the examination of our common philosophical investment in "originals," and the transformation of our collective contributions to the evolving cultural logic of our time.
+The pedagogical exigency of remix, then, grows out of two specific, but linked, contexts. On the one hand, the ubiquity of remix in popular culture conceals the complex meaning-making that it can and does perform. On the other hand, its foundational practices exist in constant and ever-changing tension with high-stakes legal and economic consequences for engaging in those same practices. Remix challenges our cultural beliefs about authorship and ownership; passive consumption and active participation; creativity, critique, and claim; yet the everyday habits of consuming, composing, and recirculating remixes already comprise a coherent logic for daily interaction. Bringing remix into our classes, then, creates the space for students to investigate these contested concepts as they appear in the media and materials of everyday life through experimentation with the critical tools of our varied academic disciplines. Remix allows us to underscore, for our students, the moments when our fields question or collaborate with these commonplace practices, and when it calls into question our own aesthetic and ideological criteria. Literary scholars, for example, might draw a productive parallel to the constellation of appropriated texts at the heart of T.S. Eliot’s canonical poem "The Waste Land," and consider the ways that the selection and juxtaposition of those fragments allow for engagement with, and commentary on, cultures of the day, the definition of art, and the role of the artist. In "The Rhetoric of Remix," Virginia Kuhn notes the subversive function of the genre: "Remix lays bare the constructed nature of the original and often calls attention to its own construction" (5.4). Teaching remix provides an opportunity for us to participate in a shared project with our students: the examination of our common philosophical investment in "originals," and the transformation of our collective contributions to the evolving cultural logic of our time.
 
 The artifacts that follow were chosen for the ways that they provide pragmatic approaches to those pedagogical exigencies of remix--revealing its array of contexts and meaning making, and elucidating the terrain of copyright and its participatory-friendly concept fair use. The list begins with syllabi, which offer models that illustrate a semester-long engagement with remix. Next are sources for assignments, assessment, and an example of student work, all of which could be adapted for a module in a standing course. The list ends with three sources that can be incorporated as primary source material and/or serve as examples of the active life of remix outside the classroom. 
 
-
-
 ## CURATED ARTIFACTS 
 
-
-### Copy This Class (The Art of the Remix)
+#### Copy This Class (The Art of the Remix)
 ![screenshot](images/remix-middleton-copythisclass.png)
-
 * Artifact Type: Syllabus
 * Source URL: [http://j-l-r.org/wp-content/uploads/remix-syllabus-final.pdf](http://j-l-r.org/wp-content/uploads/remix-syllabus-final.pdf)
 * Artifact Permissions: Creative Commons Attribution-ShareAlike License
@@ -58,9 +54,8 @@ The artifacts that follow were chosen for the ways that they provide pragmatic a
 
 Julie Levin Russo's undergraduate film studies course takes remix as its central topic. Through the assigned reading, media, and experiences each week, students are introduced to remix from a historical perspective and a philosophical one. Russo's course plays through an array of contexts that highlight the variety and complexity of remix as object, and as a set of practices (e.g., appropriation, authorship, sampling, “playbor”—a clever and telling neologism to describe the intersection of “play” and “labor” in digital culture). Collaborative student remix projects comprise a significant portion of the semester, making evident the core value of participation and peer engagement in remix culture. Finally, in a knowing wink to our own habits of syllabus composition, Russo cites the syllabi and assignments that she has remixed to create this course.
 
-### Copyright + Culture
+#### Copyright + Culture
 ![screenshot](images/remix-middleton-copyrightculture.png)
-
 * Artifact Type: Syllabus
 * Source URL: [http://cyberhouse.arted.psu.edu/811/](https://oxycopyrightandculture.wordpress.com/syllabus/)
 * Artifact Permissions:  permission of author, Creative Commons: Attribution Non-Commercial License
@@ -69,9 +64,8 @@ Julie Levin Russo's undergraduate film studies course takes remix as its central
 Suzanne Scott's 2012 course *Copyright + Culture* foregrounds the fundamental conflicts between intellectual property and cultural production/participation--the very positions that condition the creation and circulation of remix. The content of the course is interdisciplinary in nature; it attends to the history and philosophy of art and authorship, and provides case studies in fair use, fandom, and transformative works. Designed for first year students, *Copyright + Culture* also features a set of assignments (including a collaborative remix video project) that invites students to hone their argumentation skills across a variety of platforms, hearkening back to Kuhn's call for a "rhetoric of remix". For more information about Scott's video essay assignment and its careful navigation of fair use and copyright claims, see her 
 [*Cinema Journal Teaching Dossier*](http://www.teachingmedia.org/teaching-transformativitytransformative-teaching-fair-use-and-the-video-essay), which is also included in the [*Multimodal*](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/multimodal.md) keyword entry. 
 
-### ds106
+#### ds106
 ![screenshot](images/remix-middleton-ds106.png)
-
 * Artifact Type: Assignment bank
 * Source URL: [http://assignments.ds106.us/](http://assignments.ds106.us/)
 * Artifact Permissions: open online course
@@ -79,9 +73,8 @@ Suzanne Scott's 2012 course *Copyright + Culture* foregrounds the fundamental co
 
 The "ds" in ds106 stands for "Digital Storytelling," a genre that encourages individuals to use digital tools to tell stories about their lives. The first iteration of the course was a 2010 Computer Science class at the University of Mary Washington, taught by self-described "edupunk" Jim Groom. Grounded in a pedagogical commitment to participatory culture (students regularly blog, tweet, as well as complete assignments), ds106 has spread across disciplines at UMW, over additional campuses, and also exists as a "headless" course--a self-paced set of readings, activities and assignments that any participants can choose to take. (At the Connected Learning project, Howard Rheingold provides a thorough [case study](http://connectedlearning.tv/case-studies/ds106-enabling-open-public-participatory-learning) of ds106 as an example of the principle of open, public learning.) While the ds106 website makes syllabi and participant work visible and available for use, its assignment bank is a true treasure trove of ideas provided both by faculty and students of the wider community. Assignments are sorted by type and/or genre (e.g., writing, visual, audio, mashup). These can also be searched by term; currently, a search for "remix" yields 27 different assignments. Distinct from those, the [Remix Machine](http://remix.ds106.us) experiment will randomly combine an entry in the assignment bank with one of 31 "remix cards" that provide different approaches to remix, making for a seemingly-endless stream of ideas for assignments and activities to suit various learning objectives.
 
-### Audio Collage Assignment
+#### Audio Collage Assignment
 ![screenshot](images/remix-middleton-audiocollage.png)
-
 * Artifact Type: assignment
 * Source URL: 
 * Artifact Permissions: permission of author
@@ -90,9 +83,8 @@ The "ds" in ds106 stands for "Digital Storytelling," a genre that encourages ind
 
 In this assignment, Jean Bessette outlines a 4-6 minute audio collage project designed to "use existing media that has an important place in the history of gender and sexuality to think through gender and sexuality.” At the center of this multi-part, scaffolded project is students’ work with an online archive of gay liberation radio shows. They first engage these recordings as listeners, and use written analysis to discuss form and content. Students then transition to the audio collage assignment itself, where they must apply that analysis in a new way: as remixers who listen for patterns, make thoughtful selections, and “carve out a focus” from hundreds of hours of material. In many places in the document, Bessette emphasizes the importance of listening, a crucial literacy for any audio project, but a particularly necessary one for *respectful* composing with material that may challenge conventional cultural assumptions. In a 2016 article for [*Computers and Composition*](http://www.journals.elsevier.com/computers-and-composition/), Bessette provides case studies of this assignment and contends that listening widely and iteratively in the selection and editing process contribute not only to students' increased engagement with the texts, but also to an openness toward difference when the archive material is far from students' experience and comfort zone.
 
-### *Flows of Reading: Engaging with Texts*
+#### *Flows of Reading: Engaging with Texts*
 ![screenshot](images/remix-middleton-flowsofreading.png)
-
 * Artifact Type: Online Digital Book
 * Source URL: [http://scalar.usc.edu/anvc/flowsofreading/index](http://scalar.usc.edu/anvc/flowsofreading/index)
 * Artifact Permissions: permission of author
@@ -102,9 +94,8 @@ The stated goal of *Flows of Reading* is "to inspire teachers and students to re
 
 Composed in Scalar, the non-linear, born-digital book includes a profusion of multimedia content to be read along with the text. As such, *Flows of Reading* suggests multiple uses and adaptations for the classroom. The book and its sections can be read as course texts; its assignments and examples are also ripe for adaptation for courses with different foci. Those with particular interests in assignments and modules should also examine the affiliated [*Reading in a Participatory Culture* Teachers' Strategy Guide](http://www.newmedialiteracies.org/teachers-strategy-guide/]). While its content is designed for high school students, the activities are easily adaptable for more advanced students.
 
-### Stirred, Not Shaken: An Assessment Remixology
+#### Stirred, Not Shaken: An Assessment Remixology
 ![screenshot](images/remix-middleton-stirred.png)
-
 * Artifact Type: Ebook chapter 
 * Source URL: [http://ccdigitalpress.org/dwae/06_mccorkle.html](http://ccdigitalpress.org/dwae/06_mccorkle.html)
 * Artifact Permissions: Open Access, Creative Commons License
@@ -112,9 +103,8 @@ Composed in Scalar, the non-linear, born-digital book includes a profusion of mu
 
 Part of the larger 2013 collection [*Digital Writing, Assessment and Evaluation*]([http://ccdigitalpress.org/dwae/), "Stirred, Not Shaken" provides a set of sample assignments and evaluation processes for remix projects in writing courses, and describes additional analytical and reflective writing assignments that expand students' concepts of remix practices and circulation. In addition to these assignments, authors provide a project evaluation rubric developed in collaboration with students; a narrative describing the implementation of fair use; and an assessment of the role of remix in larger institutional learning outcomes. 
 
-### Exquisite Engendering Remix Exhibition
+#### Exquisite Engendering Remix Exhibition
 ![screenshot](images/remix-middleton-exquisiteengendering.png)
-
 * Artifact Type: Exhibition of student work
 * Source URL: [http://cyberhouse.arted.psu.edu/811/](http://cyberhouse.arted.psu.edu/811/)
 * Artifact Permissions: permission of author
@@ -122,9 +112,8 @@ Part of the larger 2013 collection [*Digital Writing, Assessment and Evaluation*
 
 At its most basic level, Karen Keifer-Boyd's final class project for her graduate course in Art Education provides a varied set of student remixes. On the whole, however, the course is far more ambitious, situating remix in a larger series of interactions. The course itself is one node on a larger network of individuals teaching FemTechNet's Distributed Open Collaborative Course, which is designed to forward "a feminist approach for 21st century learning and teaching in the age of social media connectivity" (a more detailed description of the FTN DOCC can be found in their [*Roadshow Blog Series*](http://femtechnet.org/2015/05/ftn-roadshow-blog-series-course/). The Exquisite Engendering Remix students spent a semester in conversation with students at the University of Helsinki, a collaboration which clearly contributed to the spirit of openness and dialogue about their remixes. The participatory nature of their work is evident in the final exhibition, which encourages the audience to comment on the videos; in fact, the website offers a series of prompts to focus those comments toward the exhibition's theme of gender. The [detailed assignment](http://cyberhouse.arted.psu.edu/visualculture/projects/Remix_Assignment.pdf) for the remix also offers a wealth of resources to inform students' understanding of approaches and digital tools.
 
-### Code of Best Practices in Fair Use for Online Video
+#### Code of Best Practices in Fair Use for Online Video
 ![screenshot](images/remix-middleton-codebestpractices.png)
-
 * Artifact Type: Resource guide
 * Source URL: [http://www.centerforsocialmedia.org/fair-use/related-materials/codes/code-best-practices-fair-use-online-video#getting](http://www.centerforsocialmedia.org/fair-use/related-materials/codes/code-best-practices-fair-use-online-video#getting)
 * Artifact Permissions: pending
@@ -132,7 +121,7 @@ At its most basic level, Karen Keifer-Boyd's final class project for her graduat
 
 Published in 2008, the CMSI report and resources provide a thorough-yet-readable guide to delineate fair use practices from copyright violations. Structured with reference to the six allowable contexts for fair use, the guide elucidates each of these principles, and also describes the limitations of each. In addition to the guide to best practices, the website also features related reports, including an introduction to copyright and "Recut, Reframe, Recycle," a study of fair use practices in transformative works, and a list of linked examples that adhere to these practices. While the resources here are predominantly applicable to video, they offer a philosophical framework with which to assess the use of audio and textual materials as well. 
 
-### Everything is a Remix
+#### Everything is a Remix
 ![screenshot](images/remix-middleton-everythingremix.png)
 * Artifact Type: Documentary film 
 * Source URL: [https://vimeo.com/139094998](https://vimeo.com/139094998)
@@ -141,7 +130,7 @@ Published in 2008, the CMSI report and resources provide a thorough-yet-readable
 
 This short, four-part documentary film is a student-friendly overview of remix that frames the history of the genre in multiple fields (music, film, technology) with an over-arching thematic: "copy/transform/combine." These practices, Ferguson contends, are not just the fundamental building blocks of remix, but of creativity writ large. The film begins with side-by-side comparisons of music samples and builds to an analysis of intellectual property and copyright, and the future of creativity and ownership. The [companion website](http://everythingisaremix.info/) to the film houses a list of hardware and software used to make the film; a complete list of the texts that Ferguson references; and, perhaps most importantly as a model for student remixes, a comprehensive list complete with time stamps and links to the original sources of the samples used throughout. 
 
-### hitRECord
+#### hitRECord
 ![screenshot](images/remix-middleton-hitrecord.png)
 * Artifact Type: Creative online community/production company
 * Source URL: [https://www.hitrecord.org/](https://www.hitrecord.org/)
@@ -149,7 +138,6 @@ This short, four-part documentary film is a student-friendly overview of remix t
 * Creator and Affiliation: Joseph Gordon-Levitt
 
 HitRECord is an online open community that encourages participants to contribute their original writing, drawing, music, video, animation, etc. compositions for others to combine, modify, and remix. Founded in 2005 by the actor Joseph Gordon-Levitt, the site has evolved into a community that issues challenges to creators, and creates collaborative projects for commercial distribution; thus far, the hitRECord community has produced CDs, books, short films and a television show. Profits are distributed to creators whose work is featured in each project via a collaboratively-negotiated formula. the hitRECord website and community provides a few different opportunities for work with students. First, it can function as a case study for "remix in the wild"--it's a functioning participatory community that encourages and monetizes remix. Students may examine its working assumptions about authorship and ownership, about fair use, and collaboration. Second, instructors could incorporate the community's creative challenges and active projects, repurposing them as course assignments. Finally, a course could require and support students' participation and contribution to HitRECord. In this last instance, designing accompanying analytical assignments to ensure that students parse their own expectations about the circulation and potential for modification to their own work would help to mitigate any concerns about joining an extensive online community.
-
 
 ## RELATED MATERIALS
 
@@ -163,7 +151,6 @@ Ridolfo, Jim and Danielle Nicole DeVoss. “Composing for Recomposition: Rhetori
 
 *RiP!: A Remix Manifesto.* Dir. Brett Taylor. 2008. Web. [https://vimeo.com/8040182]([https://vimeo.com/8040182)
 
-
 ## WORKS CITED
 
 Bessette, Jean. “Audio, Archives, and the Affordances of Listening in a Pedagogy of Difference.” *Computers and Composition.* 39 (2016): 71-82.
@@ -176,7 +163,7 @@ Keifer-Boyd, Karen. “FTN Roadshow Blog Series—Course.” *FemTechNet.* FemTe
 
 Kuhn, Virginia. “The Rhetoric of Remix.”*Transformative Works and Cultures.* vol. 9 (2012). n. pag. Web. 22 Feb. 2016.
 
-Lessig, Lawrence. *Remix: Making Art and Commerce Thrive in a Hybrid Economy.” London, England: Bloomsbury Press. 2008.
+Lessig, Lawrence. *Remix: Making Art and Commerce Thrive in a Hybrid Economy.* London, England: Bloomsbury Press. 2008.
 
 Manovich, Lev. *The Language of New Media.* Cambridge, MA: MIT Press, 2001. 
 McKee, Heidi A., and Dànielle Nicole DeVoss DeVoss, Eds. Digital Writing Assessment & Evaluation. Logan, UT: Computers and Composition Digital Press/Utah State 	University Press, 2013. Web.

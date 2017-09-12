@@ -14,7 +14,7 @@ Associate Professor, UW-Green Bay | http://chuckrybak.com
 
 --- 
  
-## CURATORIAL STATEMENT (roughly 750-800 words, MLA Format)
+## CURATORIAL STATEMENT 
 
 To talk about poetry and pedagogy is a task fraught with complication from the start. Do we mean to explore how we read, construct, and teach interpretations of poetry? Or are we interested in the pedagogy of the creative process: the writing and composition itself? Do we mean both? In the academy's recent history, these concerns are usually separated into "literature" versus "creative writing" curriculum and programs. Yet, digital pedagogy in the humanities presents us with fresh opportunities to reexamine our boundaries, and this collection of artifacts should be considered the result of such reflection. 
 

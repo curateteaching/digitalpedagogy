@@ -1,4 +1,4 @@
-# Draft List of Keywords for DIGITAL PEDAGOGY IN THE HUMANITIES: CONCEPTS, MODELS, AND EXPERIMENTS
+# FINAL List of Keywords for DIGITAL PEDAGOGY IN THE HUMANITIES: CONCEPTS, MODELS, AND EXPERIMENTS
 
 *A curated collection of downloadable, reusable, and remixable pedagogical resources.*
 
@@ -13,46 +13,63 @@ Hashtag for news and updates: [#curateteaching](https://twitter.com/hashtag/cura
 
 ## CURRENT KEYWORDS
 
+* [Access](keywords/access.md)
+* [Affect](keywords/affect.md)
 * [Annotation](keywords/annotation.md)
 * [Archive](keywords/archive.md)
-* Assessment
-* Attention
-* Audio
-* Blogging
-* Classroom
+* [Assessment](keywords/assessment.md)
+* [Authorship](keywords/authorship.md)
+* [Blogging](keywords/blogging.md)
+* [Classroom](keywords/classroom.md)
 * [Code](keywords/code.md)
 * [Collaboration](keywords/collaboration.md)
 * [Community](keywords/community.md)
-* Composition
-* Curation
+* [Community College](keywords/community_college.md)
+* [Curation](keywords/curation.md)
 * [Design](keywords/design.md)
-* Disability
+* [Diaspora](keywords/diaspora.md)
+* [Digital Divides](keywords/digital_divides.md)
+* [Disability](keywords/disability.md)
+* [ePortfolio](keywords/eportfolio.md)
 * [Failure](keywords/failure.md)
-* Fieldwork
-* Gaming
-* Gender
-* Hacking
-* History
+* [Fiction](keywords/fiction.md)
+* [Fieldwork](keywords/fieldwork.md)
+* [Futures](keywords/futures.md)
+* [Gaming](keywords/gaming.md)
+* [Gender](keywords/gender.md)
+* [Hacking](keywords/hacking.md)
+* [Hashtag](keywords/hashtag.md)
+* [History](keywords/history.md)
 * [Hybrid](keywords/hybrid.md)
-* Information
+* [Indigenous](keywords/indigenous.md)
+* [Information](keywords/information.md)
 * [Interface](keywords/interface.md)
-* Makerspace
+* [Intersectionality](keywords/intersectionality.md)
+* [Iteration](keywords/iteration.md)
+* [Labor](keywords/labor.md)
+* [Language Learning](keywords/language_learning.md)
+* [Makerspaces](keywords/makerspaces.md)
+* [Mapping](keywords/mapping.md)
 * [Multimodal](keywords/multimodal.md)
+* [Network](keywords/network.md)
+* [Online](keywords/online.md)
 * [Open](keywords/open.md)
-* Peer Review
 * [Play](keywords/play.md)
+* [Poetry](keywords/poetry.md)
 * [Praxis](keywords/praxis.md)
 * [Professionalization](keywords/professionalization.md)
 * [Project Management](keywords/projectManagement.md)
-* Prototyping
+* [Prototype](keywords/prototype.md)
 * [Public](keywords/public.md)
 * [Queer](keywords/queer.md)
 * [Race](keywords/race.md)
-* Remix
+* [Reading](keywords/reading.md)
+* [Remix](keywords/remix.md)
 * [Rhetoric](keywords/rhetoric.md)
 * [Sexuality](keywords/sexuality.md)
+* [Social Justice](keywords/social_justice.md)
 * [Sound](keywords/sound.md)
-* Storytelling
+* [Storytelling](keywords/storytelling.md)
 * [Text Analysis](keywords/textanalysis.md)
 * [Video](keywords/video.md)
-* Work
+* [Visualization](keywords/visualization.md)

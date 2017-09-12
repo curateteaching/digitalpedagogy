@@ -55,7 +55,7 @@ Does it matter if a classroom is a little rectangle in a building or a little re
 "You're accustomed to doing 'readings' of literature and producing a specific kind of output: a paper," Helen Burgess tells her students. "In this exercise the 'input' will be the same . . . but the 'output' will be different. Thus it will require two sets of skills." Burgess's four-part "sonnet conversion" process asks students to deform Shakespeare's sonnets materially, and remediate them as: visual representations; an object comprised of fourteen parts; a schema comprised of encoding, composition and decoding (a student decodes someone else's composition); a program that builds a sonnet when it's executed. This exercise takes "deformance" a step further by reforming ("converting") the sonnet into a computational object. The progress through the four stages is to strip away the impressionistic and replace it with the procedural.
 
 ### Italian Language Study Using Geospatial Methodology
-![screenshot](images/interface-italian-hip-hop-concept-map.png)
+![screenshot](images/interface-clo-hiphopitalian.png)
 
 * Source URL: <https://www.arcgis.com/apps/MapJournal/index.html?appid=36d80c623d9a4b4291eea52c9ae279ac>
 * Copy of Artifact: forthcoming
