@@ -43,7 +43,7 @@ The artifacts collected here include student work, standalone assignments, assig
 ![screenshot](images/intersectionality-Runaway-Quilt-Project.png)
 
 * Artifact Type: Student project
-* Source: [http://runawayquiltproject.org](http://runawayquiltproject.org)
+* Source URL: [http://runawayquiltproject.org](http://runawayquiltproject.org)
 * Copy of Artifact: [files/intersectionality-Runaway-Quilt-Project.pdf](files/intersectionality-Runaway-Quilt-Project.pdf)
 * Creator: Deimosa Webber-Bey, Pratt Institute School of Library and Information Science  
 
@@ -53,7 +53,7 @@ Created for an assignment in Chris Alen Sula’s [introductory digital humanitie
 ![screenshot](images/intersectionality-Digital-Ethnography.png)
 
 * Artifact Type: assignment
-* Source: [http://joglep.com/files/5914/3934/2744/5._Teaching_Artifact-Ostergaard-Digital_Ethnography.pdf](http://joglep.com/files/5914/3934/2744/5._Teaching_Artifact-Ostergaard-Digital_Ethnography.pdf)
+* Source URL: [http://joglep.com/files/5914/3934/2744/5._Teaching_Artifact-Ostergaard-Digital_Ethnography.pdf](http://joglep.com/files/5914/3934/2744/5._Teaching_Artifact-Ostergaard-Digital_Ethnography.pdf)
 * Copy of Artifact: [files/intersectionality-Digital-Ethnography.pdf](files/intersectionality-Digital-Ethnography.pdf)
 * Creator: Lori Ostergaard, Oakland University
 
@@ -63,7 +63,7 @@ The digital ethnography assignment designed by Lori Ostergaard positions interse
 ![screenshot](images/intersectionality-Women-Writing-Worldwide.png)
 
 * Artifact Type: assignment
-* Source: [http://www.highpoint.edu/digiped/files/2014/02/20140331_JennBrandt_0001.pdf](http://www.highpoint.edu/digiped/files/2014/02/20140331_JennBrandt_0001.pdf)
+* Source URL: [http://www.highpoint.edu/digiped/files/2014/02/20140331_JennBrandt_0001.pdf](http://www.highpoint.edu/digiped/files/2014/02/20140331_JennBrandt_0001.pdf)
 * Copy of Artifact: [files/intersectionality-Women-Writing-Worldwide.pdf](files/intersectionality-Women-Writing-Worldwide.pdf)
 * Creator: Jenn Brandt, High Point University 
 
@@ -72,7 +72,7 @@ Through the assignment “Women Writing Worldwide,” Jenn Brandt’s students e
 #### “Teaching with Tumblr: Building a Digital Archive of Gender, Race & Empire” ![screenshot](images/intersectionality-Teaching-with-Tumblr.png)
 
 * Artifact Type: blog post 
-* Source: [http://notchesblog.com/2015/09/29/teaching-with-tumblr-building-a-digital-archive-of-gender-race-empire/](http://notchesblog.com/2015/09/29/teaching-with-tumblr-building-a-digital-archive-of-gender-race-empire/)
+* Source URL: [http://notchesblog.com/2015/09/29/teaching-with-tumblr-building-a-digital-archive-of-gender-race-empire/](http://notchesblog.com/2015/09/29/teaching-with-tumblr-building-a-digital-archive-of-gender-race-empire/)
 * Copy of Artifact: [files/intersectionality-Teaching-with-Tumblr.pdf](files/intersectionality-Teaching-with-Tumblr.pdf)
 * Creator: Bianca Murillo, California State University, Dominguez Hills
 
@@ -82,7 +82,7 @@ Created by Bianca Murillo’s history students, [“Gender, Race & Empire”](ht
 ![screenshot](images/intersectionality-Latina-Life-Stories.png)
 
 * Artifact Type: video
-* Source: [https://www.youtube.com/watch?v=bLbh2gw8EsA](https://www.youtube.com/watch?v=bLbh2gw8EsA)
+* Source URL: [https://www.youtube.com/watch?v=bLbh2gw8EsA](https://www.youtube.com/watch?v=bLbh2gw8EsA)
 * Copy of Artifact: [files/intersectionality-Latina-Life-Stories.mp4](files/intersectionality-Latina-Life-Stories.mp4)
 * Creator: Rina Benmayor, California State University, Monterey Bay
 
@@ -92,7 +92,7 @@ Rina Benmayor’s work with students on Latina Life Stories at California State,
 ![screenshot](images/intersectionality-Teaching-Twentieth-Century-Art-History.png)
 
 * Artifact Type: article
-* Source: [http://jitp.commons.gc.cuny.edu/teaching-twentieth-century-art-history-with-gender-and-data-visualizations/](http://jitp.commons.gc.cuny.edu/teaching-twentieth-century-art-history-with-gender-and-data-visualizations/)
+* Source URL: [http://jitp.commons.gc.cuny.edu/teaching-twentieth-century-art-history-with-gender-and-data-visualizations/](http://jitp.commons.gc.cuny.edu/teaching-twentieth-century-art-history-with-gender-and-data-visualizations/)
 * Copy of Artifact: [files/intersectionality-Teaching-Twentieth-Century-Art-History.pdf](files/intersectionality-Teaching-Twentieth-Century-Art-History.pdf)
 * Creator: Nancy Ross, Dixie State University
 
@@ -102,7 +102,7 @@ In this article, Nancy Ross describes her approach to teaching gender and sexual
 ![screenshot](images/intersectionality-Teaching-Embodiment-through-Technology.png)
 
 * Artifact Type: assignment
-* Source: [http://www.culanth.org/fieldsights/682-teaching-embodiment-through-technology](http://www.culanth.org/fieldsights/682-teaching-embodiment-through-technology)
+* Source URL: [http://www.culanth.org/fieldsights/682-teaching-embodiment-through-technology](http://www.culanth.org/fieldsights/682-teaching-embodiment-through-technology)
 * Copy of Artifact: [files/intersectionality-Teaching-Embodiment-through-Technology.pdf](files/intersectionality-Teaching-Embodiment-through-Technology.pdf)
 * Creators: Leah Zani, University of California, Irvine and Marzieh Kaivanara, University of Bristol
 
@@ -112,7 +112,7 @@ Leah Zani and Marzieh Kaivanara’s modular assignment sequence asks students to
 ![screenshot](images/intersectionality-Video-Games-as-Feminist-Pedagogy.png)
 
 * Artifact Type: article
-* Source: [http://journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166](http://journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166)
+* Source URL: [http://journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166](http://journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166)
 * Copy of Artifact: [files/intersectionality-Video-Games-as-Feminist-Pedagogy.pdf](files/intersectionality-Video-Games-as-Feminist-Pedagogy.pdf)
 * Creator: Samantha Allen, Independent Scholar
 
@@ -122,7 +122,7 @@ Samantha Allen makes the case that videogames are essential to teaching feminist
 ![screenshot](images/intersectionality-Panama-Silver-Asian-Gold.png)
 
 * Artifact type: syllabi
-* Source: [http://dloc.com/digital/panamasilver](http://dloc.com/digital/panamasilver)
+* Source URL: [http://dloc.com/digital/panamasilver](http://dloc.com/digital/panamasilver)
 * Copy of Artifact: [files/intersectionality-Panama-Silver-Asian-Gold.pdf](files/intersectionality-Panama-Silver-Asian-Gold.pdf)
 * Creators: Leah Rosenberg, Donette Francis, and Rhonda Cobham-Sander, University of Florida
 
