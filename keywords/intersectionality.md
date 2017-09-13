@@ -88,12 +88,12 @@ Created by Bianca Murillo’s history students, [“Gender, Race & Empire”](ht
 
 Rina Benmayor’s work with students on Latina Life Stories at California State, Monterey Bay, connects students with the intersections of race, ethnicity, class, immigration status, sexuality, and technology. After studying writing by Latinas of Mexican, Puerto Rican, Dominican, Cuban, Chicana, and mixed heritage, students produce digital stories exploring their own identities and experiences. In these stories, Benmayor’s students share personal and family histories on themes like bodies, migration, and violence. By encouraging students to produce digital stories, Benmayor helps them find their own voices as writers and to reflect on their own histories, situated at the intersections of their identities. Additionally, the assignment suggests how students can be critical makers of technology, blending recorded narrative with visuals to bring their personal stories to life. 
 
-#### “Teaching Twentieth Century Art History with Gender and Data Visualizations”
-![screenshot](images/intersectionality-Teaching-Twentieth-Century-Art-History.png)
+#### “Digital Art History for Beginners: The Spreadsheet”
+![screenshot](images/intersectionality-Digital-Art-History.png)
 
-* Artifact Type: article
-* Source URL: [http://jitp.commons.gc.cuny.edu/teaching-twentieth-century-art-history-with-gender-and-data-visualizations/](http://jitp.commons.gc.cuny.edu/teaching-twentieth-century-art-history-with-gender-and-data-visualizations/)
-* Copy of Artifact: [files/intersectionality-Teaching-Twentieth-Century-Art-History.pdf](files/intersectionality-Teaching-Twentieth-Century-Art-History.pdf)
+* Artifact Type: assignment
+* Source URL: [http://arthistoryteachingresources.org/2015/02/digital-art-history-for-beginners-the-spreadsheet/](http://arthistoryteachingresources.org/2015/02/digital-art-history-for-beginners-the-spreadsheet/)
+* Copy of Artifact: [files/intersectionality-Teaching-Twentieth-Century-Art-History.pdf](files/intersectionality-Digital-Art-HistoryHistory.pdf)
 * Creator: Nancy Ross, Dixie State University
 
 In this article, Nancy Ross describes her approach to teaching gender and sexuality in 20th century art history with interactive data visualization. Ross speaks to the challenges of teaching about gender and sexuality at a conservative university in Utah, suggesting that engaging students with art through a new approach facilitates their understanding and experiences with the topics. Through similar assignments that include [teaching Renaissance art history with Pinterest,](Teaching Renaissance Art History with Pinterest) and [data visualization of exhibition catalogs,](Digital Art History for Beginners: The Spreadsheet), Ross’s students explore connections between women artists and their interlocutors, taking into account sexuality as well. biographical data or their assumptions that these artists were all heterosexual. Instructors can draw on assignments such as these to give students the opportunity to challenge their own biases, prejudices, and deeply held beliefs about the intersections of identity categories with cultural production, whether in art history or in other disciplines. 
