@@ -44,6 +44,7 @@ The artifacts collected here include student work, standalone assignments, assig
 
 * Artifact Type: student work
 * Source URL: [http://runawayquiltproject.org](http://runawayquiltproject.org)
+* Artifact Permissions: Copyright
 * Copy of Artifact: [files/intersectionality-Runaway-Quilt-Project.png](files/intersectionality-Runaway-Quilt-Project.png)
 * Creator: Deimosa Webber-Bey (Pratt Institute School of Library and Information Science)
 
@@ -54,6 +55,7 @@ Created for an assignment in Chris Alen Sula’s [introductory digital humanitie
 
 * Artifact Type: assignment
 * Source URL: [http://joglep.com/files/5914/3934/2744/5._Teaching_Artifact-Ostergaard-Digital_Ethnography.pdf](http://joglep.com/files/5914/3934/2744/5._Teaching_Artifact-Ostergaard-Digital_Ethnography.pdf)
+* Artifact Permissions: Unknown
 * Copy of Artifact: [files/intersectionality-Digital-Ethnography.pdf](files/intersectionality-Digital-Ethnography.pdf)
 * Creator: Lori Ostergaard (Oakland University)
 
@@ -64,6 +66,7 @@ The digital ethnography assignment designed by Lori Ostergaard positions interse
 
 * Artifact Type: assignment
 * Source URL: [http://www.highpoint.edu/digiped/files/2014/02/20140331_JennBrandt_0001.pdf](http://www.highpoint.edu/digiped/files/2014/02/20140331_JennBrandt_0001.pdf)
+* Artifact Permissions: Unknown
 * Copy of Artifact: [files/intersectionality-Women-Writing-Worldwide.pdf](files/intersectionality-Women-Writing-Worldwide.pdf)
 * Creator: Jenn Brandt (High Point University)
 
@@ -73,6 +76,7 @@ Through the assignment “Women Writing Worldwide,” Jenn Brandt’s students e
 
 * Artifact Type: student work 
 * Source URL: [http://gender-race-empire.tumblr.com](http://gender-race-empire.tumblr.com)
+* Artifact Permissions: Unknown
 * Copy of Artifact: [files/intersectionality-gender-race-empire.pdf](files/intersectionality-gender-race-empire.pdf)
 * Creator: Bianca Murillo (California State University, Dominguez Hills)
 
@@ -83,6 +87,7 @@ Created by Bianca Murillo’s history students, [“Gender, Race & Empire”](ht
 
 * Artifact Type: video
 * Source URL: [https://www.youtube.com/watch?v=bLbh2gw8EsA](https://www.youtube.com/watch?v=bLbh2gw8EsA)
+* Artifact Permissions: Standard YouTube License
 * Copy of Artifact: [files/intersectionality-Latina-Life-Stories.mp4](files/intersectionality-Latina-Life-Stories.mp4)
 * Creator: Rina Benmayor (California State University, Monterey Bay)
 
@@ -93,6 +98,7 @@ Rina Benmayor’s work with students on Latina Life Stories at California State,
 
 * Artifact Type: assignment
 * Source URL: [http://arthistoryteachingresources.org/2015/02/digital-art-history-for-beginners-the-spreadsheet/](http://arthistoryteachingresources.org/2015/02/digital-art-history-for-beginners-the-spreadsheet/)
+* Artifact Permissions: CC-BY-NC 4.0
 * Copy of Artifact: [files/intersectionality-Teaching-Twentieth-Century-Art-History.pdf](files/intersectionality-Digital-Art-HistoryHistory.pdf)
 * Creator: Nancy Ross (Dixie State University)
 
@@ -103,6 +109,7 @@ In this assignment, Nancy Ross describes her approach to teaching at the interse
 
 * Artifact Type: assignment
 * Source URL: [http://www.culanth.org/fieldsights/682-teaching-embodiment-through-technology](http://www.culanth.org/fieldsights/682-teaching-embodiment-through-technology)
+* Artifact Permissions: CC-BY-NC-SA 4.0
 * Copy of Artifact: [files/intersectionality-Teaching-Embodiment-through-Technology.pdf](files/intersectionality-Teaching-Embodiment-through-Technology.pdf)
 * Creators: Leah Zani (University of California, Irvine) and Marzieh Kaivanara (University of Bristol)
 
