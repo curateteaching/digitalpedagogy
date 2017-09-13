@@ -1,16 +1,16 @@
-# **Collaboration**
+# Collaboration
 
-## Amanda Licastro
+### Amanda Licastro
 
-**Stevenson University | [cuny.is/digitocentrism](http://cuny.is/digitocentrism)**
+Stevenson University | [cuny.is/digitocentrism](http://cuny.is/digitocentrism)
 
-## Katina Rogers
+### Katina Rogers
 
-**The Graduate Center, CUNY | [katinarogers.com](http://katinarogers.com/bio)**
+The Graduate Center, CUNY | [katinarogers.com](http://katinarogers.com/bio)
 
-## Danica Savonick
+### Danica Savonick
 
-**The Graduate Center, CUNY | [danicasavonick.com](http://danicasavonick.com)**
+The Graduate Center, CUNY | [danicasavonick.com](http://danicasavonick.com)
 
 * * *
 
@@ -28,13 +28,13 @@
 
 In research, writing, and teaching, ideas build on countless others, weaving a complex network of influences. Collaborative work foregrounds this network, celebrating the value that many hands bring to a project. It includes diverse perspectives, flips the dichotomy of expert and novice, and explores alternative ideas—something Cathy Davidson, co-founder of the [HASTAC](http://www.hastac.org/) network, articulates as "[collaboration by difference](https://www.youtube.com/watch?v=zk8mvIYaO3w)". No matter what form collaboration takes—whether crowd-sourced projects, co-authored research, networked learning, or building and gaming—it depends on difference. 
 
-Collaboration by difference is especially valuable in classroom environments. Julia Gergits and James Schramer note that "fruitful collaboration often starts with the recognition that difference is essential if a group wishes to generate truly original ideas" ([190](http://www.jaconlinejournal.com/archives/vol14.1/gergits-collaborative.pdf)). According to Andrea Lunsford and Lisa Ede, assignments that are labor-intensive,  require multiple areas of expertise, or involve synthesis of divergent perspectives are best suited to collaboration (*Singular* 123). These can range from low-stakes, informal, in-class activities to larger long-term projects.
+Collaboration by difference is especially valuable in classroom environments. Julia Gergits and James Schramer note that "fruitful collaboration often starts with the recognition that difference is essential if a group wishes to generate truly original ideas" ([190](http://www.jaconlinejournal.com/archives/vol14.1/gergits-collaborative.pdf)). According to Andrea Lunsford and Lisa Ede, assignments that are labor-intensive require multiple areas of expertise, or involve synthesis of divergent perspectives are best suited to collaboration (*Singular* 123). These can range from low-stakes, informal, in-class activities to larger long-term projects.
 
 Teaching with an emphasis on collaboration enables the instructor to function less as what Rancière calls a "master explicator" (11) and more as a facilitator. Collaborative pedagogy is closely related to student-centered pedagogy, in which students take greater ownership over learning. Kenneth Bruffee argues that collaborative learning does not negate the space for lecture, but shifts authority so that students learn from their peers as well as the instructor. Collaborative learning environments create “transition communities or support groups that students can rely on as they go through the risky process of becoming new members of the knowledge communities” [(8](http://www.amazon.com/Collaborative-Learning-Education-Interdependence-Authority/dp/0801852323/ref=sr_1_1?s=books&ie=UTF8&qid=1436799019&sr=1-1&keywords=9780801852329#reader_0801852323)).  
 
-As educators ourselves, we integrate these approaches into our courses. For example, Danica Savonick structures [courses](http://www.hastac.org/blogs/danicasavonick/2015/05/18/%E2%80%9Cintroduction-narrative%E2%80%9D-collaborative-experimental-intellectual-adv) around student-centered learning, public writing, and low-stakes group assignments, all leading up to a collaborative, digital, public research project, which students evaluate after designing a rubric. Amanda Licastro scaffolds digital projects into writing courses by adding new tools and techniques slowly throughout the semester. Students begin by posting provocations to a [course blog](https://wp.nyu.edu/licastro_fall14/), sharing "[Digital Literacy Timelines](https://wp.nyu.edu/licastro_fall14/tag/timeline/)," [live-tweeting](https://wp.nyu.edu/licastro_fall14/tag/atwood/) their readings, collectively annotating texts, and posting drafts for peer review. This leads to a collaborative [“Design Fiction](https://wp.nyu.edu/licastro_fall14/category/final_projects/)” project (based on Kari Kraus’s [Bibliocircuitry](http://www.karikraus.com/?p=334) project) in which students design a new reading or writing technology by pitching ideas, voting on proposals, creating group contracts, and executing a prototype together. 
+As educators ourselves, we integrate these approaches into our courses. For example, Danica Savonick structures [courses](https://www.hastac.org/blogs/danicasavonick/2015/05/18/introduction-narrative-collaborative-experimental-intellectual) around student-centered learning, public writing, and low-stakes group assignments, all leading up to a collaborative, digital, public research project, which students evaluate after designing a rubric. Amanda Licastro scaffolds digital projects into writing courses by adding new tools and techniques slowly throughout the semester. Students begin by posting provocations to a [course blog](https://wp.nyu.edu/licastro_fall14/), sharing "[Digital Literacy Timelines](https://wp.nyu.edu/licastro_fall14/tag/timeline/)," [live-tweeting](https://wp.nyu.edu/licastro_fall14/tag/atwood/) their readings, collectively annotating texts, and posting drafts for peer review. This leads to a collaborative [“Design Fiction](https://wp.nyu.edu/licastro_fall14/category/final_projects/)” project (based on Kari Kraus’s [Bibliocircuitry](http://www.karikraus.com/?p=334) project) in which students design a new reading or writing technology by pitching ideas, voting on proposals, creating group contracts, and executing a prototype together. 
 
-Whether in the classroom or beyond, digital tools can streamline collaboration. Videoconferencing makes it simple for classes discussing similar or complementary topics to connect. Open-source tools like [Commons In A Box](http://commonsinabox.org/), [Omeka](https://www.omeka.net/), [Neatline](http://neatline.org/), [Zotero](https://www.zotero.org/), [Voyant](http://voyant-tools.org/), and others allow scholars to share their work, build on one another's ideas, and leverage different strengths to create projects that are as insightful as they are beautiful. Still, there is nothing magical about the ways tools like these enable people to work together. Some of the most effective collaboration techniques involve nothing more sophisticated than [note cards and pencils](http://www.hastac.org/blogs/cathy-davidson/2012/04/08/single-best-free-way-transform-classroom).
+Whether in the classroom or beyond, digital tools can streamline collaboration. Videoconferencing makes it simple for classes discussing similar or complementary topics to connect. Open-source tools like [Commons In A Box](http://commonsinabox.org/), [Omeka](https://www.omeka.net/), [Neatline](http://neatline.org/), [Zotero](https://www.zotero.org/), [Voyant](http://voyant-tools.org/), and others allow scholars to share their work, build on one another's ideas, and leverage different strengths to create projects that are as insightful as they are beautiful. Still, there is nothing magical about the ways tools like these enable people to work together. Some of the most effective collaboration techniques involve nothing more sophisticated than [note cards and pencils](https://www.hastac.org/blogs/cathy-davidson/2012/04/08/single-best-way-transform-classrooms-any-size).
 
 Learning how to work together across differences is essential training for engaged citizenship and a robust democratic society, and is also critical in the professional environments that students will enter after earning their degrees. Teaching collaborative skills in the scaffolded environment of the classroom, then, makes sense not only in terms of improving students' learning outcomes, but also to equip them to succeed beyond the classroom. Educators are increasingly using this pedagogical practice to connect students to broader communities through projects that extend beyond the university to pair with local community-based organizations. 
 
@@ -57,7 +57,7 @@ We hope that these resources will inspire educators to experiment with collabora
 ### [B-Social](http://beautifulsocial.org/) 
 ![screenshot](images/collaboration_BSocial.png)
 - Type: a Digital Research Collaborative at St. Joseph's University
-- Source: http://beautifulsocial.org/
+- Source URL: [http://beautifulsocial.org/](http://beautifulsocial.org/)
 - Copy of artifact: 
 - Artifact Permissions: Permission granted by Aimée Knight
 - Creator: Aimée Knight
@@ -69,7 +69,7 @@ Directed by Aimée Knight, assistant professor in the Department of Communicatio
 ### "Digital Labor, Urban Space, and Materiality"
 ![screenshot](images/collaboration_posner_DigitalLabor.png)
 - Type: Assignment 
-- Source:  [http://digitalmateriallabor.org/final-project/](http://digitalmateriallabor.org/final-project/) 
+- Source URL:  [http://digitalmateriallabor.org/final-project/](http://digitalmateriallabor.org/final-project/) 
 - Copy of artifact: artifact-copies/collaboration_posner_DigitalLabor.pdf 
 - Artifact Permissions: Creative Commons license 
 - Creator: Miriam Posner
@@ -81,7 +81,7 @@ In [Digital Humanities 150](http://digitalmateriallabor.org/) at UCLA, Professor
 ### Falling Up
 ![screenshot](images/collaboration_wesch_falling-up.png)
 - Type: Final Project Assignment
-- Source: [https://www.youtube.com/watch?v=BFuluIy-5QY](https://www.youtube.com/watch?v=BFuluIy-5QY) 
+- Source URL: [https://www.youtube.com/watch?v=BFuluIy-5QY](https://www.youtube.com/watch?v=BFuluIy-5QY) 
 - Copy of artifact:
 - Artifact Permissions: Standard YouTube license; permission granted by Mike Wesch
 - Creator: Mike Wesch 
@@ -93,7 +93,7 @@ Students in Mike Wesch’s "Digital Ethnography" courses move out of the dormito
 ###  Feminisms and Interaction Design (IxD)
 ![screenshot](images/collaboration_sano-franchini-assignment.png)
 - Type: Final Project Assignment
-- Source: [http://www.jsanofranchini.com/wp-content/uploads/2015/01/ENGL4874-Final-Project-Web.pdf](http://www.jsanofranchini.com/wp-content/uploads/2015/01/ENGL4874-Final-Project-Web.pdf)
+- Source URL: [http://www.jsanofranchini.com/wp-content/uploads/2015/01/ENGL4874-Final-Project-Web.pdf](http://www.jsanofranchini.com/wp-content/uploads/2015/01/ENGL4874-Final-Project-Web.pdf)
 - Copy of artifact: artifact-copies/collaboration_sano-franchini-assignment.pdf
 - Artifact Permissions: CC BY-NC-SA 4.0
 - Creator: Jennifer Sano-Franchini
@@ -105,7 +105,7 @@ This project was designed by Sano-Franchini as the culmination of [Issues in Pro
 ### Distributed Open Collaborative Course (DOCC)
 ![screenshot](images/collaboration_FemTechNet-DOCC.png)
 - Type: Course
-- Source: [http://femtechnet.org/docc/nodes/](http://femtechnet.org/docc/nodes/) 
+- Source URL: [http://femtechnet.org/docc/nodes/](http://femtechnet.org/docc/nodes/) 
 - Copy of artifact:
 - Artifact Permissions:
 - Creator: FemTechNet
@@ -117,7 +117,7 @@ FemTechNet is an active network of scholars, artists, and students working on, w
 ### “It’s Complicated: The Social Lives of Networked Teens (danah boyd)” - Collaborative Book Engagement
 ![screenshot](images/collaboration_boyd_book-review.png)
 - Type: Collaborative Book Review and Engagement
-- Source: [http://www.hastac.org/pages/its-complicated-collaborative-book-engagement](http://www.hastac.org/pages/its-complicated-collaborative-book-engagement) 
+- Source URL: [https://www.hastac.org/its-complicated-social-lives-networked-teens-danah-boyd-collaborative-book-engagement](https://www.hastac.org/its-complicated-social-lives-networked-teens-danah-boyd-collaborative-book-engagement) 
 - Copy of artifact:
 - Artifact Permissions: [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-nc-sa/3.0/) 
 - Creator: HASTAC Scholars, organized by Megan Farnel, Iskandar ‘izul’ Zulkarnain, and Fiona Barnett
@@ -129,7 +129,7 @@ This “book review and engagement” is a collaboratively-authored book review 
 ### Living Laboratory
 ![screenshot](images/collaboration_livinglab.png)
 - Type: Experiential, community-based learning
-- Source: [https://openlab.citytech.cuny.edu/livinglab/](https://openlab.citytech.cuny.edu/livinglab/) 
+- Source URL: [https://openlab.citytech.cuny.edu/livinglab/](https://openlab.citytech.cuny.edu/livinglab/) 
 - Copy of artifact:
 - Artifact Permissions: [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-nc-sa/3.0/) 
 - Creator: Jonas Reitz, Charlie Edwards, and team
@@ -141,9 +141,8 @@ The mission of the undergraduate collaborative at CUNY’s City Tech is to "re-e
 ### Not Your Mama’s Gamer (NYMG)
 ![screenshot](images/collaboration_nymg.png)
 - Type: Collaborative Blog
-- Source: [http://www.nymgamer.com/?page_id=2](http://www.nymgamer.com/?page_id=2) 
+- Source URL: [http://www.nymgamer.com/?page_id=2](http://www.nymgamer.com/?page_id=2) 
 - Copy of artifact:
-- Artifact Permissions: Creative Commons License 
 - Creator: Samantha Blackmon
 - Affiliation: Independent Collaboration
 - Screenshot: images/collaboration_nymg.png
@@ -153,7 +152,7 @@ NYMG is a collaborative blog with a series of regular and featured contributors 
 ### The Pedagogy Project
 ![screenshot](images/collaboration_pedagogy-project.png)
 - Type: Crowd-Sourced Collection of Assignments and Syllabi
-- Source: [http://www.hastac.org/pedagogy-project](http://www.hastac.org/pedagogy-project) 
+- Source URL: [http://www.hastac.org/pedagogy-project](http://www.hastac.org/pedagogy-project) 
 - Copy of artifact:
 - Artifact Permissions: [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 License](http://creativecommons.org/licenses/by-nc-sa/3.0/) 
 - Creator: HASTAC Scholars
@@ -165,7 +164,7 @@ The Pedagogy Project is a crowd-sourced collection of more than 80 projects and 
 ### Teaching #BlackLivesMatter: Countering the Pedagogies of Anti-Black Racism, A Collaborative, Crowd-Sourced Syllabus 
 ![screenshot](images/collaboration_BlackLivesMatter.png)
 - Type: Crowd-Sourced Syllabus
-- Source: [https://docs.google.com/document/d/1yjV779VAC2jJpM5-7aJ6OCFS71JiqTr8AToj0VNINRg/edit](https://docs.google.com/document/d/1yjV779VAC2jJpM5-7aJ6OCFS71JiqTr8AToj0VNINRg/edit)
+- Source URL: [https://docs.google.com/document/d/1yjV779VAC2jJpM5-7aJ6OCFS71JiqTr8AToj0VNINRg/edit](https://docs.google.com/document/d/1yjV779VAC2jJpM5-7aJ6OCFS71JiqTr8AToj0VNINRg/edit)
 - Copy of artifact: artifact-copies/collaboration_BlackLivesMatter.pdf
 - Artifact Permissions: Open, public Google Doc
 - Creator: Mentoring Future Faculty of Color
@@ -240,13 +239,13 @@ Reitz, Jonas, and Charlie Edwards. "A Living Laboratory | Revitalizing General E
 
 Sano-Franchini, Jennifer. "Feminisms and Interaction Design (IxD) Final Project Assignment." Virginia Polytechnic Institute and State University. 2015. Web. 22 July 2015. [http://www.jsanofranchini.com/wp-content/uploads/2015/01/ENGL4874-Final-Project-Web.pdf](http://www.jsanofranchini.com/wp-content/uploads/2015/01/ENGL4874-Final-Project-Web.pdf)
 
-Savonick, Danica. "‘Introduction to Narrative’: A Collaborative, Experimental Intellectual Adventure." *HASTAC*. 18 May 2015. Web. 20 July 2015. [http://www.hastac.org/blogs/danicasavonick/2015/05/18/%E2%80%9Cintroduction-narrative%E2%80%9D-collaborative-experimental-intellectual-adv](http://www.hastac.org/blogs/danicasavonick/2015/05/18/%E2%80%9Cintroduction-narrative%E2%80%9D-collaborative-experimental-intellectual-adv)
+Savonick, Danica. "‘Introduction to Narrative’: A Collaborative, Experimental Intellectual Adventure." *HASTAC*. 18 May 2015. Web. 20 July 2015. [https://www.hastac.org/blogs/danicasavonick/2015/05/18/introduction-narrative-collaborative-experimental-intellectual](https://www.hastac.org/blogs/danicasavonick/2015/05/18/introduction-narrative-collaborative-experimental-intellectual)
 
 The Scholars’ Lab. "Neatline." The University of Virginia. Web. 22 July 2015. [http://neatline.org/](http://neatline.org/)
 
 Sinclair, Stéfan, and Geoffrey Rockwell. "Voyant Tools: Reveal Your Texts." Web. 22 July 2015. [http://voyant-tools.org/](http://voyant-tools.org/)
 
-"Special Issue: Mentorship and Collaboration." *The Journal of Interactive Technology and Pedagogy* 7 (2015). [http://jitp.commons.gc.cuny.edu/category/issues/issue-7/] (http://jitp.commons.gc.cuny.edu/category/issues/issue-7/) 
+"Special Issue: Mentorship and Collaboration." *The Journal of Interactive Technology and Pedagogy* 7 (2015). [http://jitp.commons.gc.cuny.edu/category/issues/issue-7/](http://jitp.commons.gc.cuny.edu/category/issues/issue-7/) 
 
 Spiro, Lisa. "Zotero | Groups > Collaborative Scholarship in the Digital Humanities." Web. 22 July 2015. [https://www.zotero.org/groups/collaborative_scholarship_in_the_digital_humanities](https://www.zotero.org/groups/collaborative_scholarship_in_the_digital_humanities) 
 
