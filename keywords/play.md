@@ -180,66 +180,66 @@ Abelson, Hal, et al. *Blown to Bits: Your Life, Liberty, and Happiness After the
 
 Anthropy, Anna. *Rise of the Videogame Zinesters: How Freaks, Normals, Amateurs, Artists, Dreamers, Dropouts, Queers, Housewives, and People Like You Are Taking Back an Art Form.* Seven Stories Press, 2012.
 
-Anthropy, Anna. *How to Make Games with Twine.* [http://www.auntiepixelante.com/twine/](http://www.auntiepixelante.com/twine/). Accessed 12 Sept. 2017.
+Anthropy, Anna. "How to Make Games with Twine." *Auntie Pixelante*, 5 Sept. 2007, [http://www.auntiepixelante.com/twine/](http://www.auntiepixelante.com/twine/).
 
 Bogost, Ian. “The Proceduralist Style.” *Gamasutra*, 21 Jan. 2009, [http://www.gamasutra.com/view/feature/3909/persuasive_games_the_.php?print=1](http://www.gamasutra.com/view/feature/3909/persuasive_games_the_.php?print=1).
 
-Bogost, Ian. *Alien Phenomenology, Or, What It’s Like to Be a Thing.* University of Minnesota Press, 2012.
+Bogost, Ian. *Alien Phenomenology, Or, What It’s Like to Be a Thing.* University of Minnesota P, 2012.
 
-Boluk, Stephanie. "Metagames: Games about Games and the Practice of Play." HMS 540. Fall 2013, [http://stephanieboluk.com/teaching/HMS540F13/blog/?page_id=2](http://stephanieboluk.com/teaching/HMS540F13/blog/?page_id=2).
+Boluk, Stephanie. "Metagames: Games about Games and the Practice of Play." *HMS 540. Fall 2013*, [http://stephanieboluk.com/teaching/HMS540F13/blog/?page_id=2](http://stephanieboluk.com/teaching/HMS540F13/blog/?page_id=2).
 
-Boluk, Stephanie, and Patrick LeMieux. *Metagaming: Playing, Competing, Spectating, Cheating, Trading, Making, and Breaking Videogames.* University of Minnesota Press, 2017.
+Boluk, Stephanie, and Patrick LeMieux. *Metagaming: Playing, Competing, Spectating, Cheating, Trading, Making, and Breaking Videogames.* University of Minnesota P, 2017.
 
-Brown, James, Jr. "Game Design Project." Inter-L&S 102: Writing and Coding. 2012. [http://courses.jamesjbrownjr.net/node/3372](http://courses.jamesjbrownjr.net/node/3372).
+Brown, James, Jr. "Game Design Project." *Inter-L&S 102: Writing and Coding*, 2012, [http://courses.jamesjbrownjr.net/node/3372](http://courses.jamesjbrownjr.net/node/3372).
 
-Caillois, Roger. *Man, Play, and Games.* Trans. Meyer Barash. The Free Press, 2003. 
+Caillois, Roger. *Man, Play, and Games.* Trans. Meyer Barash. The Free Press, 2003.
 
 Csikszentmihalyi, Mihaly. *Flow.* Harper Collins, 2009.
 
 Drucker, Johanna, Jerome McGann, Bethany Nowviskie, and the Scholars' Lab. *Ivanhoe*. Charlottesville, VA, 2014.
 
-Ellison, Cara. “Anna Anthropy and the Twine Revolution.” *The Guardian*, 10 Apr. 2013. [http://www.theguardian.com/technology/gamesblog/2013/apr/10/anna-anthropy-twine-revolution](http://www.theguardian.com/technology/gamesblog/2013/apr/10/anna-anthropy-twine-revolution).
+Ellison, Cara. “Anna Anthropy and the Twine Revolution.” *The Guardian*, 10 Apr. 2013, [http://www.theguardian.com/technology/gamesblog/2013/apr/10/anna-anthropy-twine-revolution](http://www.theguardian.com/technology/gamesblog/2013/apr/10/anna-anthropy-twine-revolution).
 
-Flanagan, Mary. *Critical Play: Radical Game Design.* MIT Press, 2009.
+Flanagan, Mary. *Critical Play: Radical Game Design.* MIT P, 2009.
 
 Gee, James Paul. *What Video Games Have to Teach Us About Learning and Literacy.* 2nd ed. Macmillan, 2003.
 
-Haraway, Donna. "A Cyborg Manifesto." *Simians, Cyborgs, and Women: The Reinvention of Nature*. Routledge, 1991. 149–182.
+Haraway, Donna. "A Cyborg Manifesto." *Simians, Cyborgs, and Women: The Reinvention of Nature*. Routledge, 1991, pp. 149–182.
 
 Huizinga, Johan. *Homo Ludens: A Study of the Play-Element in Culture.* Routledge and Kegan Paul, 1949.
 
 Kee, Kevin, ed. *Pastplay: Teaching and Learning History with Technology.* Digital Culture Books. University of Michigan Press, 2014. [http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12544152.0001.001;rgn=full%20text;view=toc;xc=1;g=dculture](http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12544152.0001.001;rgn=full%20text;view=toc;xc=1;g=dculture).
 
-LaFleur, Liss. "Hack for Humanities." THATCamp Piedmont. 2014. Web. 1 Aug. 2015. [https://docs.google.com/presentation/d/15t6hjDLGZR_slg-6ztVqDF21buk_1eeUmfqnBTph5VY/pub?start=true&loop=false&delayms=5000#slide=id.p3](https://docs.google.com/presentation/d/15t6hjDLGZR_slg-6ztVqDF21buk_1eeUmfqnBTph5VY/pub?start=true&loop=false&delayms=5000#slide=id.p3).
+LaFleur, Liss. "Hack for Humanities." THATCamp Piedmont, 2014,  [https://docs.google.com/presentation/d/15t6hjDLGZR_slg-6ztVqDF21buk_1eeUmfqnBTph5VY/pub?start=true&loop=false&delayms=5000#slide=id.p3](https://docs.google.com/presentation/d/15t6hjDLGZR_slg-6ztVqDF21buk_1eeUmfqnBTph5VY/pub?start=true&loop=false&delayms=5000#slide=id.p3). Accessed 1 Aug. 2015.
 
-Owens, Trevor. "Glitching Files for Understanding: Avoiding Screen Essentialism in Three Easy Steps." *The Signal.* 5 Nov. 2012. Web. 11 Oct. 2015. [http://blogs.loc.gov/digitalpreservation/2012/11/glitching-files-for-understanding-avoiding-screen-essentialism-in-three-easy-steps/](http://blogs.loc.gov/digitalpreservation/2012/11/glitching-files-for-understanding-avoiding-screen-essentialism-in-three-easy-steps/).
+Owens, Trevor. "Glitching Files for Understanding: Avoiding Screen Essentialism in Three Easy Steps." *The Signal,* 5 Nov. 2012, [http://blogs.loc.gov/digitalpreservation/2012/11/glitching-files-for-understanding-avoiding-screen-essentialism-in-three-easy-steps/](http://blogs.loc.gov/digitalpreservation/2012/11/glitching-files-for-understanding-avoiding-screen-essentialism-in-three-easy-steps/).
 
-Phillips, Amanda. "ENGL 165LG: Literature and Gaming." 2012. Web. 1 Aug. 2015. [http://engl165lg.wordpress.com/](http://engl165lg.wordpress.com/).
+Phillips, Amanda. "ENGL 165LG: Literature and Gaming." 2012, [http://engl165lg.wordpress.com/](http://engl165lg.wordpress.com/). Accessed 1 Aug. 2015.
 
-Phillips, Amanda. "Thoughts on Teaching Literature and Gaming." HASTAC. 20 Oct. 2010. Web. 1 Oct. 2015. [https://www.hastac.org/blogs/amanda-phillips/2010/10/20/thoughts-teaching-literature-and-gaming](https://www.hastac.org/blogs/amanda-phillips/2010/10/20/thoughts-teaching-literature-and-gaming).
+Phillips, Amanda. "Thoughts on Teaching Literature and Gaming." *HASTAC*, 20 Oct. 2010,  [https://www.hastac.org/blogs/amanda-phillips/2010/10/20/thoughts-teaching-literature-and-gaming](https://www.hastac.org/blogs/amanda-phillips/2010/10/20/thoughts-teaching-literature-and-gaming).
 
-Pope, Rob. *Textual Intervention: Critical and Creative Strategies for Literary Studies.* Routledge, 1994. 
+Pope, Rob. *Textual Intervention: Critical and Creative Strategies for Literary Studies.* Routledge, 1994.
 
-Ramsay, Stephen. *Reading Machines: Toward and Algorithmic Criticism.* University of Illinois Press, 2011.
+Ramsay, Stephen. *Reading Machines: Toward and Algorithmic Criticism.* University of Illinois P, 2011.
 
-Ratto, Matt. “Critical Making: Conceptual and Material Studies in Technology and Social Life.” *The Information Society* 27.4 (2011): 252–260.
+Ratto, Matt. “Critical Making: Conceptual and Material Studies in Technology and Social Life.” *The Information Society*, vol. 27, no. 4, 2011, pp. 252–260.
 
-Richardson, Virginia. "Constructivist Pedagogy." *The Teachers College Record* 105.9 (2003): 1623–1640.
+Richardson, Virginia. "Constructivist Pedagogy." *The Teachers College Record*, vol. 105, no. 9, 2003, pp. 1623–1640.
 
-Salen, Katie, and Eric Zimmerman. *Rules of Play: Game Design Fundamentals*. MIT Press, 2004.
+Salen, Katie, and Eric Zimmerman. *Rules of Play: Game Design Fundamentals*. MIT P, 2004.
 
-Salen, Katie, and Eric Zimmerman. *The Game Design Reader: A Rules of Play Anthology.* MIT Press, 2006.
+Salen, Katie, and Eric Zimmerman. *The Game Design Reader: A Rules of Play Anthology.* MIT P, 2006.
 
-Salter, Anastasia Salter. "Games in the Classroom." *Profhacker.* 2011. Web. 1 Aug. 2015. [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-1/35596](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-1/35596), [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-2/36075](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-2/36075), [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-3/36217](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-3/36217), [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-4/36294](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-4/36294).
+Salter, Anastasia Salter. "Games in the Classroom." *Profhacker*, 2011,  [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-1/35596](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-1/35596), [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-2/36075](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-2/36075), [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-3/36217](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-3/36217), [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-4/36294](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-4/36294). Accessed 1 Aug. 2015.
 
-Samuels, Lisa, and Jerome McGann. "Deformance and Interpretation." *New Literary History* 30.1 (1999): 25–56.
+Samuels, Lisa, and Jerome McGann. "Deformance and Interpretation." *New Literary History*, vol. 30, no. 1, 1999, pp. 25–56.
 
-Sansing, Chad. “SLJ Reviews the MaKey MaKey.” *School Library Journal.* 17 Apr. 2015. Web. 31 July 2015. [http://www.slj.com/2015/04/opinion/test-drive/slj-reviews-the-makey-makey-test-drive/](http://www.slj.com/2015/04/opinion/test-drive/slj-reviews-the-makey-makey-test-drive/).
+Sansing, Chad. “SLJ Reviews the MaKey MaKey.” *School Library Journal*, 17 Apr. 2015,  [http://www.slj.com/2015/04/opinion/test-drive/slj-reviews-the-makey-makey-test-drive/](http://www.slj.com/2015/04/opinion/test-drive/slj-reviews-the-makey-makey-test-drive/).
 
-Scholars' Lab. *Ivanhoe*. University of Virginia. 2014. Web. 1 Aug. 2015. [http://ivanhoe.scholarslab.org/index.html](http://ivanhoe.scholarslab.org/index.html).
+Scholars' Lab. *Ivanhoe*. University of Virginia, 2014,  [http://ivanhoe.scholarslab.org/index.html](http://ivanhoe.scholarslab.org/index.html).
 
-Sennett, Richard. *The Craftsman.* Yale University Press, 2008.
+Sennett, Richard. *The Craftsman.* Yale University P, 2008.
 
-Woodward, Tom. "Spreadsheet Invasion." DS106 Assignment Bank. Web. 1 Oct. 2015. [http://assignments.ds106.us/assignments/spreadsheet-invasion/](http://assignments.ds106.us/assignments/spreadsheet-invasion/).
+Woodward, Tom. "Spreadsheet Invasion." *DS106 Assignment Bank*,  [http://assignments.ds106.us/assignments/spreadsheet-invasion/](http://assignments.ds106.us/assignments/spreadsheet-invasion/). Accessed 1 Oct. 2015.
 
-Whalen, Zach. "How to Make a Twitter Bot with Google Spreadsheets (Version 0.4)." zachwhalen.net. 17 May 2015. Web. 1 Aug. 2015. [http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/).
+Whalen, Zach. "How to Make a Twitter Bot with Google Spreadsheets (Version 0.4)." *zachwhalen.net*, 17 May 2015,  [http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/).
