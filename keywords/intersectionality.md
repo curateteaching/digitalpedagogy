@@ -120,6 +120,7 @@ Leah Zani and Marzieh Kaivanara’s modular assignment sequence asks students to
 
 * Artifact Type: article
 * Source URL: [http://journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166](http://journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166)
+* Artifact Permissions: 
 * Copy of Artifact: [files/intersectionality-Halo-and-Intersectionality.pdf](files/intersectionality-Video-Games-as-Feminist-Pedagogy.pdf)
 * Creator: Samantha Allen (Independent Scholar)
 
