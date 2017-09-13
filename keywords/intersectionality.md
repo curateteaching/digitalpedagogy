@@ -108,15 +108,15 @@ In this assignment, Nancy Ross describes her approach to teaching at the interse
 
 Leah Zani and Marzieh Kaivanara’s modular assignment sequence asks students to think critically about the technologized body. Their goal for this sequence is to encourage students to understand their own bodies in relation to technology and power. They begin the assignment with theoretical discussions of race, gender, and other facets of identity. Students participate in activities intended to connect them with their own bodies and supplement their understanding of embodiment. Then, they introduce students to scholarship on technological embodiment. Finally, the class collectively analyzes images of technologized bodies sourced by students. Zani and Kaivanara then ask their students to consider their own use of bodily technologies, from glasses to cavities to wearable activity monitors. In doing so, they offer a model for teaching students to reflect on the relationship between gender, ability, and technology. 
 
-#### “Video Games as Feminist Pedagogy”
-![screenshot](images/intersectionality-Video-Games-as-Feminist-Pedagogy.png)
+#### “Activity #2: *Halo* and Intersectionality”
+![screenshot](images/intersectionality-Halo-and-Intersectionality.png)
 
 * Artifact Type: article
 * Source URL: [http://journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166](http://journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166)
-* Copy of Artifact: [files/intersectionality-Video-Games-as-Feminist-Pedagogy.pdf](files/intersectionality-Video-Games-as-Feminist-Pedagogy.pdf)
+* Copy of Artifact: [files/intersectionality-Halo-and-Intersectionality.pdf](files/intersectionality-Video-Games-as-Feminist-Pedagogy.pdf)
 * Creator: Samantha Allen, Independent Scholar
 
-Samantha Allen makes the case that videogames are essential to teaching feminist pedagogy. She describes using videogames to teach units on transgender studies and intersectionality. These games, Allen argues, bridge gaps between students who do not share an understanding of feminism, leveraging their experiences with a shared understanding of videogames. She introduces her students to independent videogames, such as *dys4ia,* *Lim,* and *Mainichi,* made by people who are part of sexual and gender minorities  to introduce students to perspectives other than their own. Additionally, Allen guided them through play of the mass-market game, *Halo,* interspersing game play with discussion groups to facilitate critical thinking about the game and to model intersectional dimensions of oppression. These assignments take advantage of students’ immersion in technological cultures to introduce theories of intersectionality and challenge them to consider their own experiences in relation to those who may not share them.
+In her article positioning video games in feminist pedagogy, Samatha Allen describes two class activities that promote critical inquiry of identity in video games. The second activity, "*Halo* and Intersectionality" guides students through the experience of playing the mass-market military science-fiction first person shooter game *Halo*. Allen intersperses game play with discussion groups to facilitate critical thinking about the game and to examine intersectional dimensions of oppression inherent in games, such as the difficulty of game play for characters whose identities include multiple axes of oppression.  These assignments take advantage of students’ immersion in technological cultures to introduce theories of intersectionality and challenge them to consider their own experiences in relation to those who may not share them.
 
 #### “Panama Silver, Asian Gold: Migration, Money, and the Making of the Modern Caribbean & Panama Silver, Asian Gold: Reimagining Diasporas, Archives, and the Humanities”
 ![screenshot](images/intersectionality-Panama-Silver-Asian-Gold.png)
