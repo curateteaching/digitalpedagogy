@@ -120,7 +120,7 @@ Leah Zani and Marzieh Kaivanara’s modular assignment sequence asks students to
 
 * Artifact Type: article
 * Source URL: [http://journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166](http://journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166)
-* Artifact Permissions: 
+* Artifact Permissions: Open access
 * Copy of Artifact: [files/intersectionality-Halo-and-Intersectionality.pdf](files/intersectionality-Video-Games-as-Feminist-Pedagogy.pdf)
 * Creator: Samantha Allen (Independent Scholar)
 
@@ -131,6 +131,7 @@ In her article positioning video games in feminist pedagogy, Samatha Allen descr
 
 * Artifact type: syllabi
 * Source URL: [http://dloc.com/digital/panamasilver](http://dloc.com/digital/panamasilver)
+* Artifact Permissions: All rights reserved
 * Copy of Artifact: [files/intersectionality-Panama-Silver-Asian-Gold.pdf](files/intersectionality-Panama-Silver-Asian-Gold.pdf)
 * Creators: Leah Rosenberg, Donette Francis, and Rhonda Cobham-Sander (University of Florida)
 
@@ -141,6 +142,7 @@ In her article positioning video games in feminist pedagogy, Samatha Allen descr
 
 * Artifact type: syllabus
 * Source URL: [http://fashioningcircuits.com/?page_id=2365](http://fashioningcircuits.com/?page_id=2365)
+* Artifact Permissions: Copyright
 * Copy of Artifact: [files/intersectionality-Fashioning-Circuits.pdf](files/intersectionality-Fashioning-Circuits.pdf)
 * Creator: Kim A. Knight (University of Texas at Dallas)
 
