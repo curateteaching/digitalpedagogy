@@ -24,7 +24,7 @@ University of Western Ontario | Department of History | [Website](http://william
 * unreviewed draft
 * draft version undergoing editorial review
 * draft version undergoing peer-to-peer review
-* ** this keyword has been withdrawn from the collection **
+* **this keyword has been withdrawn from the collection**
 
 --- 
 
