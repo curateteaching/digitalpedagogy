@@ -99,7 +99,7 @@ Rina Benmayor’s work with students on Latina Life Stories at California State,
 * Artifact Type: assignment
 * Source URL: [http://arthistoryteachingresources.org/2015/02/digital-art-history-for-beginners-the-spreadsheet/](http://arthistoryteachingresources.org/2015/02/digital-art-history-for-beginners-the-spreadsheet/)
 * Artifact Permissions: CC-BY-NC 4.0
-* Copy of Artifact: [files/intersectionality-Teaching-Twentieth-Century-Art-History.pdf](files/intersectionality-Digital-Art-HistoryHistory.pdf)
+* Copy of Artifact: [files/intersectionality-Digital-Art-History.pdf](files/intersectionality-Digital-Art-History.pdf)
 * Creator: Nancy Ross (Dixie State University)
 
 In this assignment, Nancy Ross describes her approach to teaching at the intersections of gender and class in 20th century art history through data visualization. Drawing on data from the Armory Show of 1913 exhibition catalog, Ross engages her students in finding data, developing data sets, identifying sets of questions intended to promote intersectional inquiry, and digging into the data to begin finding answers for these questions. She also discusses making graphs to visualize the data, then building on them to create more complicated ones. Ross’s approach speaks to the challenges she has experienced while teaching topics about topics like gender and sexuality at a conservative university in Utah and to her success engaging with digital art history for intersectional analysis. Instructors can draw on assignments such as these to give students the opportunity to challenge their own biases, prejudices, and deeply held beliefs about the intersections of identity categories with cultural production, whether in art history or in other disciplines.
