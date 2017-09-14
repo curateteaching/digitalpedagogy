@@ -163,7 +163,7 @@ VanGilder, Kirk. “Intersectionality and Disclosure as Pedagogical Tools. *Reli
 
 Allen, Samantha. “Video Games as Feminist Pedagogy.” *The Journal of the Canadian Game Studies Association,* vol 8, no. 13, 2014, pp. 61-80. [journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166](http://journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166).
 
-Benmayor, Rina. “Digital Storytelling as a Signature Pedagogy for the New Humanities.” *Arts and Humanities in Higher Education,* vol. 7, no. 2, 2008, pp. 188-204. [ahh.sagepub.com/content/7/2/188.short](http://ahh.sagepub.com/content/7/2/188.short)
+Benmayor, Rina. “Digital Storytelling as a Signature Pedagogy for the New Humanities.” *Arts and Humanities in Higher Education,* vol. 7, no. 2, 2008, pp. 188-204. [ahh.sagepub.com/content/7/2/188.short](http://ahh.sagepub.com/content/7/2/188.short).
 
 Benmayor, Rita. “Latina Life Stories.” *YouTube,* uploaded by calstatemontereybay, 5 Apr. 2010, [www.youtube.com/watch?v=bLbh2gw8EsA](https://www.youtube.com/watch?v=bLbh2gw8EsA).
 
