@@ -149,76 +149,54 @@ Kim Knight’s course materials for “Fashioning Circuits” bring together the
 
 ## RELATED MATERIALS
 
-Benmayor, Rina. “Digital Storytelling as a Signature Pedagogy for the New Humanities.” *Arts and Humanities in Higher Education* 7.2 (2008): 188-204. [http://ahh.sagepub.com/content/7/2/188.short](http://ahh.sagepub.com/content/7/2/188.short).
+Davis, Dawn Rae. “Unmirroring Pedagogies: Teaching with Intersectional and Transnational Methods in the Women and Gender Studies Classroom.” *Feminist Formations,* vol. 22, no. 1, 2010, pp. 136-62. [muse.jhu.edu/article/381453](https://muse.jhu.edu/article/381453).
 
-Davis, Dawn Rae. “Unmirroring Pedagogies: Teaching with Intersectional and Transnational Methods in the Women and Gender Studies Classroom.” *Feminist Formations* 22.1 (2010): 136-62. [https://muse.jhu.edu/article/381453](https://muse.jhu.edu/article/381453).
+Risam, Roopika. “Beyond the Margins: Intersectionality and Digital Humanities.” *Digital Humanities Quarterly,* vol. 9, no. 2, 2015. [www.digitalhumanities.org/dhq/vol/9/2/000208/000208.html](http://www.digitalhumanities.org/dhq/vol/9/2/000208/000208.html).
 
-Risam, Roopika and micha cárdenas. “De/Post/Colonial Digital Humanities.” HILT 2015. [http://www.dhtraining.org/hilt2015/course/depostcolonial-digital-humanities/](http://www.dhtraining.org/hilt2015/course/depostcolonial-digital-humanities/).
+Risam, Roopika and micha cárdenas. “De/Post/Colonial Digital Humanities.” *HILT 2015*, [www.dhtraining.org/hilt2015/course/depostcolonial-digital-humanities/](http://www.dhtraining.org/hilt2015/course/depostcolonial-digital-humanities/).
 
-Stern, Danielle. “You Had Me at Foucault: Living Pedagogically in the Digital Age.” *Text and Performance Quarterly* 31.3 (2011): 249-66. [http://www.tandfonline.com/doi/abs/10.1080/10462937.2011.573191](http://www.tandfonline.com/doi/abs/10.1080/10462937.2011.573191).
+Stern, Danielle. “You Had Me at Foucault: Living Pedagogically in the Digital Age.” *Text and Performance Quarterly,* vol. 31, no. 3, 2011, pp. 249-66. [www.tandfonline.com/doi/abs/10.1080/10462937.2011.573191](http://www.tandfonline.com/doi/abs/10.1080/10462937.2011.573191).
 
-VanGilder, Kirk. “Intersectionality and Disclosure as Pedagogical Tools. *Religious Studies News.* 29 Apr. 2015. [http://rsn.aarweb.org/spotlight-on/theo-ed/intersectionality/intersectionality-and-disclosure-pedagogical-tools](http://rsn.aarweb.org/spotlight-on/theo-ed/intersectionality/intersectionality-and-disclosure-pedagogical-tools). 
-
-Webber-Bey, Deimosa. “Runaway Quilt Project: Digital Humanities Exploration of Quilting During the Era of Slavery.” *The Journal of Interactive Teaching and Pedagogy* 6 (2014). [http://jitp.commons.gc.cuny.edu/runaway-quilt-project-digital-humanities-exploration-of-quilting-during-the-era-of-slavery/](http://jitp.commons.gc.cuny.edu/runaway-quilt-project-digital-humanities-exploration-of-quilting-during-the-era-of-slavery/).
+VanGilder, Kirk. “Intersectionality and Disclosure as Pedagogical Tools. *Religious Studies News,* 29 Apr. 2015, [rsn.aarweb.org/spotlight-on/theo-ed/intersectionality/intersectionality-and-disclosure-pedagogical-tools](http://rsn.aarweb.org/spotlight-on/theo-ed/intersectionality/intersectionality-and-disclosure-pedagogical-tools). 
 
 ## WORKS CITED
 
-Allen, Samantha. “Video Games as Feminist Pedagogy.” *The Journal of the Canadian Game Studies Association* 8.13 (2014): 61-80. [http://journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166](http://journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166).
+Allen, Samantha. “Video Games as Feminist Pedagogy.” *The Journal of the Canadian Game Studies Association,* vol 8, no. 13, 2014, pp. 61-80. [journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166](http://journals.sfu.ca/loading/index.php/loading/article/viewFile/135/166).
 
-Arvidsson, Viktor and Anna Foka. “Digital Gender: Perspective, Phenomena, Practice.” *First Monday* 20.4 (2015). [http://firstmonday.org/ojs/index.php/fm/article/view/5930/4430](http://firstmonday.org/ojs/index.php/fm/article/view/5930/4430).
+Benmayor, Rina. “Digital Storytelling as a Signature Pedagogy for the New Humanities.” *Arts and Humanities in Higher Education,* vol. 7, no. 2, 2008, pp. 188-204. [ahh.sagepub.com/content/7/2/188.short](http://ahh.sagepub.com/content/7/2/188.short)
 
-Bailey, Moya. “All the Digital Humanists Are White, All the Nerds Are Men, But Some of Us Are Brave.” *Journal of Digital Humanities* 1.1 (2011). [http://journalofdigitalhumanities.org/1-1/all-the-digital-humanists-are-white-all-the-nerds-are-men-but-some-of-us-are-brave-by-moya-z-bailey/](http://journalofdigitalhumanities.org/1-1/all-the-digital-humanists-are-white-all-the-nerds-are-men-but-some-of-us-are-brave-by-moya-z-bailey/).
+Benmayor, Rita. “Latina Life Stories.” *YouTube,* uploaded by calstatemontereybay, 5 Apr. 2010, [www.youtube.com/watch?v=bLbh2gw8EsA](https://www.youtube.com/watch?v=bLbh2gw8EsA).
 
-Barnett, Fiona, Zach Blas, micha cárdenas, Jacob Gaboury, Jessica Marie Johnson, and Margaret Rhee. “QueerOS: A User’s Manual.” *Debates in Digital Humanities, 2016*. Eds. Lauren Klein and Matthew K. Gold. Minneapolis: University of Minneapolis Press. (forthcoming). 
+Brandt, Jenn. “Women Writing Worldwide Global Focus Mapping Project.” 2014, [www.highpoint.edu/digiped/files/2014/02/20140331_JennBrandt_0001.pdf](http://www.highpoint.edu/digiped/files/2014/02/20140331_JennBrandt_0001.pdf).
 
-Benmayor, Rina. “Digital Storytelling as a Signature Pedagogy for the New Humanities.” *Arts and Humanities in Higher Education* 7.2 (2008): 188-204. [http://ahh.sagepub.com/content/7/2/188.short](http://ahh.sagepub.com/content/7/2/188.short)
+Carbin, Maria and Sara Edenheim. “The Intersectional Turn in Feminist Theory: A Dream of a Common Language.” *European Journal of Women’s Studies,* vol. 20, no. 3, 2013, pp. 233-48. [ejw.sagepub.com/content/20/3/233.abstract](http://ejw.sagepub.com/content/20/3/233.abstract). 
 
-Benmayor, Rita. “Latina Life Stories.” 5 Apr. 2010. [https://www.youtube.com/watch?v=bLbh2gw8EsA](https://www.youtube.com/watch?v=bLbh2gw8EsA).
+Crenshaw, Kimberlé. “Mapping the Margins: Intersectionality, Identity Politics, and Violence Against Women of Color.” *Stanford Law Review,* vol. 43, no. 6, 1991, pp. 1241-99. [www.jstor.org/stable/1229039](http://www.jstor.org/stable/1229039).
 
-Brandt, Jenn. “Women Writing Worldwide Global Focus Mapping Project.” 2014. [http://www.highpoint.edu/digiped/files/2014/02/20140331_JennBrandt_0001.pdf](http://www.highpoint.edu/digiped/files/2014/02/20140331_JennBrandt_0001.pdf).
+Davis, Dawn Rae. “Unmirroring Pedagogies: Teaching with Intersectional and Transnational Methods in the Women and Gender Studies Classroom.” *Feminist Formations,* vol. 22, no. 1, 2010, pp. 136-62. [muse.jhu.edu/article/381453](https://muse.jhu.edu/article/381453).
 
-Carbin, Maria and Sara Edenheim. “The Intersectional Turn in Feminist Theory: A Dream of a Common Language.” *European Journal of Women’s Studies* 20.3 (2013):233-48. [http://ejw.sagepub.com/content/20/3/233.abstract](http://ejw.sagepub.com/content/20/3/233.abstract). 
+Davis, Kathy. “Intersectionality as Buzzword: A Sociology of Science Perspective on What Makes a Feminist Theory Successful.” *Feminist Theory,* vol. 9, no. 1, 2008, pp. 67-85. [fty.sagepub.com/content/9/1/67.short](http://fty.sagepub.com/content/9/1/67.short).
 
-Crenshaw, Kimberlé. “Mapping the Margins: Intersectionality, Identity Politics, and Violence Against Women of Color.” *Stanford Law Review* 43.6 (1991): 1241-99. [http://www.jstor.org/stable/1229039](http://www.jstor.org/stable/1229039).
+Knight, Kim. *Fashioning Circuits.* 2014, [fashioningcircuits.com/?page_id=2365](http://fashioningcircuits.com/?page_id=2365).
 
-Davis, Dawn Rae. “Unmirroring Pedagogies: Teaching with Intersectional and Transnational Methods in the Women and Gender Studies Classroom.” *Feminist Formations* 22.1 (2010): 136-62. [https://muse.jhu.edu/article/381453](https://muse.jhu.edu/article/381453).
+Murillo, Bianca. *Gender/Race/Empire.* [gender-race-empire.tumblr.com](http://gender-race-empire.tumblr.com).
 
-Davis, Kathy. “Intersectionality as Buzzword: A Sociology of Science Perspective on What Makes a Feminist Theory Successful.” *Feminist Theory* 9.1 (2008): 67-85. [http://fty.sagepub.com/content/9/1/67.short](http://fty.sagepub.com/content/9/1/67.short).
+Murillo, Bianca. “Teaching with Tumblr: Building a Digital Archive of Gender, Race & Empire.” *Notches,* 29 Sept. 2015, [notchesblog.com/2015/09/29/teaching-with-tumblr-building-a-digital-archive-of-gender-race-empire/](http://notchesblog.com/2015/09/29/teaching-with-tumblr-building-a-digital-archive-of-gender-race-empire/).
 
-Earhart, Amy and Toniesha Taylor. “Pedagogies of Race: Digital Humanities in the Age of Ferguson.” *Debates in Digital Humanities, 2016*. Eds. Lauren Klein and Matthew K. Gold. Minneapolis: University of Minnesota Press, 2016. 251-64.
+Ostergaard, Lori. “Teaching Artifact - Assignment: Digital Ethnography.” *Journal of Global Literacies, Technologies, and Emerging Pedagogies,* vol. 3, no. 1, 2015, pp. 422-25. [joglep.com/files/5914/3934/2744/5._Teaching_Artifact-Ostergaard-Digital_Ethnography.pdf](http://joglep.com/files/5914/3934/2744/5._Teaching_Artifact-Ostergaard-Digital_Ethnography.pdf).
 
-Gil, Alex. “The (Digital) Library of Babel.” *@elotroalex.* 7 Jun. 2014. [http://elotroalex.webfactional.com/digital-library-babel/](http://elotroalex.webfactional.com/digital-library-babel/).
+Purkayastha, Bandana. “Intersectionality in a Transnational World.” *Gender and Society,* vol. 26, no. 1, 2012, pp. 55-66. [gas.sagepub.com/content/26/1/55.extract](http://gas.sagepub.com/content/26/1/55.extract).
 
-Keeling, Kara. “Queer OS.” *Cinema Journal* 53.2 (2014): 152-7. [https://muse.jhu.edu/article/535715/pdf](https://muse.jhu.edu/article/535715/pdf).
+Risam, Roopika and micha cárdenas. “De/Post/Colonial Digital Humanities.” HILT 2015. [www.dhtraining.org/hilt2015/course/depostcolonial-digital-humanities/](http://www.dhtraining.org/hilt2015/course/depostcolonial-digital-humanities/).
 
-Knight, Kim. *Fashioning Circuits.* 2014. [http://fashioningcircuits.com/?page_id=2365](http://fashioningcircuits.com/?page_id=2365).
+Rosenberg, Leah, Donette Francis, and Rhonda Cobham-Sander. *Panama Silver, Asian Gold: Reimagining Diasporas, Archives, and the Humanities.* [dloc.com/digital/panamasilver](http://dloc.com/digital/panamasilver). 
 
-McPherson, Tara. “Why Are the Digital Humanities So White?: Thinking the Histories of Race and Computation.” *Debates in Digital Humanities*. Ed. Matthew K. Gold. Minneapolis: University of Minnesota Press, 2012. [http://dhdebates.gc.cuny.edu/debates/text/29](http://dhdebates.gc.cuny.edu/debates/text/29).
+Ross, Nancy. “Teaching Twentieth Century Art History with Gender and Data Visualizations.” *Journal of Interactive Teaching and Pedagogy,* vol. 4, 2013. [jitp.commons.gc.cuny.edu/teaching-twentieth-century-art-history-with-gender-and-data-visualizations/](http://jitp.commons.gc.cuny.edu/teaching-twentieth-century-art-history-with-gender-and-data-visualizations/).
 
-Murillo, Bianca. "Gender/Race/Empire." [http://gender-race-empire.tumblr.com](http://gender-race-empire.tumblr.com)
-
-Murillo, Bianca. “Teaching with Tumblr: Building a Digital Archive of Gender, Race & Empire.” *Notches.* 29 Sept. 2015. [http://notchesblog.com/2015/09/29/teaching-with-tumblr-building-a-digital-archive-of-gender-race-empire/](http://notchesblog.com/2015/09/29/teaching-with-tumblr-building-a-digital-archive-of-gender-race-empire/).
-
-Ortega, Élika. “RedHD: Open, Collective, and Multilingual Work Dynamics.” Canadian Society of Digital Humanities and Association for Computers and the Humanities Joint Conference. University of Ottawa. Ottawa, Canada. 3 Jun. 2015. 
-
-Ostergaard, Lori. “Teaching Artifact - Assignment: Digital Ethnography.” *Journal of Global Literacies, Technologies, and Emerging Pedagogies* 3.1 (2015): 422-25. [http://joglep.com/files/5914/3934/2744/5._Teaching_Artifact-Ostergaard-Digital_Ethnography.pdf](http://joglep.com/files/5914/3934/2744/5._Teaching_Artifact-Ostergaard-Digital_Ethnography.pdf).
-
-Purkayastha, Bandana. “Intersectionality in a Transnational World.” *Gender and Society* 26.1 (2012): 55-66. [http://gas.sagepub.com/content/26/1/55.extract](http://gas.sagepub.com/content/26/1/55.extract).
-
-Risam, Roopika and micha cárdenas. “De/Post/Colonial Digital Humanities.” HILT 2015. [http://www.dhtraining.org/hilt2015/course/depostcolonial-digital-humanities/](http://www.dhtraining.org/hilt2015/course/depostcolonial-digital-humanities/).
-
-Risam, Roopika. “Beyond the Margins: Intersectionality and Digital Humanities.” *Digital Humanities Quarterly* 9.2 (2015). [http://www.digitalhumanities.org/dhq/vol/9/2/000208/000208.html](http://www.digitalhumanities.org/dhq/vol/9/2/000208/000208.html).
-
-Rosenberg, Leah, Donette Francis, and Rhonda Cobham-Sander. *Panama Silver, Asian Gold: Reimagining Diasporas, Archives, and the Humanities.* [http://dloc.com/digital/panamasilver](http://dloc.com/digital/panamasilver). 
-
-Ross, Nancy. “Teaching Twentieth Century Art History with Gender and Data Visualizations.” *Journal of Interactive Teaching and Pedagogy* 4 (2013). [http://jitp.commons.gc.cuny.edu/teaching-twentieth-century-art-history-with-gender-and-data-visualizations/](http://jitp.commons.gc.cuny.edu/teaching-twentieth-century-art-history-with-gender-and-data-visualizations/).
-
-Stern, Danielle. “You Had Me at Foucault: Living Pedagogically in the Digital Age.” *Text and Performance Quarterly* 31.3 (2011): 249-66. [http://www.tandfonline.com/doi/abs/10.1080/10462937.2011.573191](http://www.tandfonline.com/doi/abs/10.1080/10462937.2011.573191).
-
-VanGilder, Kirk. “Intersectionality and Disclosure as Pedagogical Tools. *Religious Studies News.* 29 Apr. 2015. [http://rsn.aarweb.org/spotlight-on/theo-ed/intersectionality/intersectionality-and-disclosure-pedagogical-tools](http://rsn.aarweb.org/spotlight-on/theo-ed/intersectionality/intersectionality-and-disclosure-pedagogical-tools). 
+VanGilder, Kirk. “Intersectionality and Disclosure as Pedagogical Tools. *Religious Studies News,* 29 Apr. 2015, [http://rsn.aarweb.org/spotlight-on/theo-ed/intersectionality/intersectionality-and-disclosure-pedagogical-tools](http://rsn.aarweb.org/spotlight-on/theo-ed/intersectionality/intersectionality-and-disclosure-pedagogical-tools). 
 
 Webber-Bey, Deimosa. “Runaway Quilt Project." *Runaway Quilt Project.* [http://runawayquiltproject.org](http://runawayquiltproject.org).
 
-Wernimont, Jacqueline and Liz Losh. “Problems with White Feminism: Intersectionality and Digital Humanities.” *Doing Digital Humanities.* Eds. Constance Crompton, Richard Lane, and Ray Siemens. NY: Routledge, 2016. (forthcoming).
+Webber-Bey, Deimosa. “Runaway Quilt Project: Digital Humanities Exploration of Quilting During the Era of Slavery.” *The Journal of Interactive Teaching and Pedagogy,* vol. 6, 2014. [jitp.commons.gc.cuny.edu/runaway-quilt-project-digital-humanities-exploration-of-quilting-during-the-era-of-slavery/](http://jitp.commons.gc.cuny.edu/runaway-quilt-project-digital-humanities-exploration-of-quilting-during-the-era-of-slavery/).
 
-Zani, Leah and Marzieh Kaivanara. “Teaching Embodiment through Technology.” *Cultural Anthropology.* 17 May 2015. [http://www.culanth.org/fieldsights/682-teaching-embodiment-through-technology](http://www.culanth.org/fieldsights/682-teaching-embodiment-through-technology).
+Zani, Leah and Marzieh Kaivanara. “Teaching Embodiment through Technology.” *Cultural Anthropology.* 17 May 2015, [www.culanth.org/fieldsights/682-teaching-embodiment-through-technology](http://www.culanth.org/fieldsights/682-teaching-embodiment-through-technology).
