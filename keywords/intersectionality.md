@@ -187,11 +187,15 @@ Ostergaard, Lori. “Teaching Artifact - Assignment: Digital Ethnography.” *Jo
 
 Purkayastha, Bandana. “Intersectionality in a Transnational World.” *Gender and Society,* vol. 26, no. 1, 2012, pp. 55-66. [gas.sagepub.com/content/26/1/55.extract](http://gas.sagepub.com/content/26/1/55.extract).
 
+Risam, Roopika. “Beyond the Margins: Intersectionality and Digital Humanities.” *Digital Humanities Quarterly,* vol. 9, no. 2, 2015. [www.digitalhumanities.org/dhq/vol/9/2/000208/000208.html](http://www.digitalhumanities.org/dhq/vol/9/2/000208/000208.html).
+
 Risam, Roopika and micha cárdenas. “De/Post/Colonial Digital Humanities.” HILT 2015. [www.dhtraining.org/hilt2015/course/depostcolonial-digital-humanities/](http://www.dhtraining.org/hilt2015/course/depostcolonial-digital-humanities/).
 
 Rosenberg, Leah, Donette Francis, and Rhonda Cobham-Sander. *Panama Silver, Asian Gold: Reimagining Diasporas, Archives, and the Humanities.* [dloc.com/digital/panamasilver](http://dloc.com/digital/panamasilver). 
 
 Ross, Nancy. “Teaching Twentieth Century Art History with Gender and Data Visualizations.” *Journal of Interactive Teaching and Pedagogy,* vol. 4, 2013. [jitp.commons.gc.cuny.edu/teaching-twentieth-century-art-history-with-gender-and-data-visualizations/](http://jitp.commons.gc.cuny.edu/teaching-twentieth-century-art-history-with-gender-and-data-visualizations/).
+
+Stern, Danielle. “You Had Me at Foucault: Living Pedagogically in the Digital Age.” *Text and Performance Quarterly,* vol. 31, no. 3, 2011, pp. 249-66. [www.tandfonline.com/doi/abs/10.1080/10462937.2011.573191](http://www.tandfonline.com/doi/abs/10.1080/10462937.2011.573191).
 
 VanGilder, Kirk. “Intersectionality and Disclosure as Pedagogical Tools. *Religious Studies News,* 29 Apr. 2015, [http://rsn.aarweb.org/spotlight-on/theo-ed/intersectionality/intersectionality-and-disclosure-pedagogical-tools](http://rsn.aarweb.org/spotlight-on/theo-ed/intersectionality/intersectionality-and-disclosure-pedagogical-tools). 
 
