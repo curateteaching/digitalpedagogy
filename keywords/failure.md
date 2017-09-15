@@ -32,6 +32,10 @@ Virginia Tech | [http://quinnwarnick.com](http://quinnwarnick.com)
 
 ---
 
+### Cross-Reference Keywords: Assessment; Blogging; Collaboration; Community; Digital Divides; Play; Praxis; Remix
+
+---
+
 ## CURATORIAL STATEMENT
 "Failure" is a complicated word to include in a volume that examines and highlights professional praxes. Although no one wants to be "a failure" in one's work, failing takes on a different meaning when it happens in the context of pedagogy. Teachers know, through long experience in the classroom, that failure is intertwined with learning (Blackburn and Cushman; Hjortshoj; Kapur; Kapur and Bielaczyc; Myers, Staats, and Gino; Shaughnessy). These failures can include difficulties students have in grasping a concept as well as our own failures to present the material effectively to a particular set of personalities. Moreover, a failure to immediately grasp a concept often positions our students—or ourselves—to better teach the it to others who might have similar difficulties. As such, failure is an important feature of learning *and* teaching. The affective response to failure—either when one is a student or a teacher, or as a teacher witnessing your student's failure—can of course be negative. While such affective experiences cannot be waved away, we agree with what Judith Halberstam writes in *The Queer Art of Failure*: "Under certain circumstances failing [...] may in fact offer more creative, more cooperative, more surprising ways of being in the world" (2-3). We believe the artifacts below speak to both experiences of failure, frustration and stimulation.
 
