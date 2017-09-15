@@ -1,12 +1,29 @@
-# KEYWORD ENTRY TEMPLATE
+---
+title: Digital Pedagogy in the Humanities
+subtitle: Concepts, Models, and Experiments
+chapter: KEYWORD
+URL: keywords/KEYWORD.md
+author: 
+- family: FAMILY NAME
+  given: GIVEN NAME
+editor: 
+- family: FAMILY NAME
+  given: GIVEN NAME
+publisher: Modern Language Association
+type: book
+---
+
+# ORIGINAL KEYWORD ENTRY TEMPLATE
 
 **Note: Maximum Length for each keyword entry (including works cited) is 3000 words**
 
-**The entry should be authored in Markdown, saved as an .md file. If you'd like, then you can simply copy the [raw Markdown for this file](https://raw.githubusercontent.com/curateteaching/digitalpedagogy/master/keywords/!template.md) and replace it with your own content.**
+**The entry should be authored in Markdown, saved as an .md file. If you'd like, then you can simply copy the [raw Markdown for this file](https://github.com/curateteaching/digitalpedagogy/edit/master/keywords/!template-skeleton.md) and replace it with your own content.**
 
 Please email your assigned editor with any questions or concerns. Your assigned editor is the person who contacted you with details about this template.
 
-# KEYWORD
+---
+
+# KEYWORD NAME
 
 ## AUTHOR(S)
 Institutional Affiliation (if any) | Website
@@ -19,7 +36,11 @@ Institutional Affiliation (if any) | Website
 * draft version undergoing peer-to-peer review
 * published 
 
---- 
+---
+
+### Cross-Reference Keywords: add suggestions for other keywords that may be related to your keyword. See list of keywords https://github.com/curateteaching/digitalpedagogy/blob/master/listOfKeywords.md
+
+---  
 
 ## CURATORIAL STATEMENT (roughly 750-800 words, MLA Format)
 
@@ -35,13 +56,13 @@ Unless it draws upon your first-person experience in the classroom, please limit
 
 ## CURATED ARTIFACTS (ten artifacts, each with metadata, a screenshot, and a 150-word annotation)
 
-Select ten pedagogical artifacts (no more, no less) to feature for your keyword. The emphasis should be the everyday stuff of teaching, not after-the-fact reflections on teaching. These artifacts should demonstrate what you and others use to teach your keyword. What teaching and learning projects do you turn to when crafting your teaching materials? What prompts or assignments have inspired you? Which or whose syllabi have you borrowed from, revised, or built upon? Put this way, pedagogical artifacts may include (but are not limited to) syllabi, teaching guidelines, assignments, lesson plans, course sites, learning objective, collaborative projects, and even student work. A balanced variety of artifacts types is optimal. Please note, however, that of the ten annotated artifacts included in every keyword, at least two of them must be assignments or syllabi. 
+Select ten pedagogical artifacts (no more, no less) to feature for your keyword. The emphasis should be the everyday stuff of teaching, not after-the-fact reflections on teaching. These artifacts should demonstrate what you and others use to teach your keyword. What teaching and learning projects do you turn to when crafting your teaching materials? What prompts or assignments have inspired you? Which or whose syllabi have you borrowed from, revised, or built upon? Put this way, pedagogical artifacts may include (but are not limited to) syllabi, teaching guidelines, assignments, lesson plans, course sites, learning objective, collaborative projects, and even student work. A balanced variety of artifacts types is optimal. No more than two artifacts from your own teaching materials. Please note, however, that of the ten annotated artifacts included in every keyword, at least two of them must be assignments or syllabi. 
 
 For each of your ten artifacts, please provide: 
 
 * Title of Artifact (as it appears on the actual "document")
-* Artifact Type: Pedagogical artifacts may include (but are not limited to) syllabi, teaching guidelines, assignments, lesson plans, course sites, learning objective, collaborative projects, and even student work.
 * Screenshot (PNG or JPG), titled “keyword artifact title,” e.g. “work-AfAm-syllabus.png”
+* Artifact Type: Pedagogical artifacts may include (but are not limited to) syllabi, teaching guidelines, assignments, lesson plans, course sites, learning objective, collaborative projects, and even student work.
 * Source URL 
 * Artifact Permissions (note whether content is shared under a Creative Commons license)
 * Copy of the Artifact (in HTML, PDF, DOCX, TXT, MD, RTF, MP3, MP4, MOV, PNG, or JPG), if possible 
