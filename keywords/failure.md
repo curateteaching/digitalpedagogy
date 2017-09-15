@@ -18,9 +18,9 @@ type: book
 # FAILURE (Draft)
 
 ## Brian Croxall and Quinn Warnick
-Brown University | Brown University Library and the Brown Center for Digital Scholarship | [Website](http://briancroxall.net)
+Brigham Young University | [http://briancroxall.net](http://briancroxall.net)
 
-Virginia Tech | Technology-enhanced Learning and Online Strategies| [Website](http://quinnwarnick.com)
+Virginia Tech | [http://quinnwarnick.com](http://quinnwarnick.com)
 
 ##### Publication Status:
 * unreviewed draft
