@@ -59,9 +59,9 @@ The artifacts selected below represent objects from the different tiers of failu
 
 ## CURATED ARTIFACTS
 
-## Tier One
+### Tier One
 
-### “Google Wave: Pedagogical Success, Technological Failure?”
+#### “Google Wave: Pedagogical Success, Technological Failure?”
 * Artifact Type: Reflective essay and assignment
 ![screenshot](images/failure-fitzpatrick.png)
 
@@ -71,9 +71,9 @@ The artifacts selected below represent objects from the different tiers of failu
 
 Google Wave was billed as “what email would look like if it were invented today” when it was announced in 2009 (Pash). But Kathleen Fitzpatrick saw the real-time, group-writing space of Wave as an opportunity for her students to collaboratively create class notes. Along with providing the details of the assignment, she considers the web services (e.g., Google accounts) and classroom infrastructure (e.g. laptops available to students) that the assignment depended on. Fitzpatrick relates that the assignment worked well and that she had hoped to continue working with Wave in the future, but that the platform itself was discontinued due to its instability and Google’s inability to market it appropriately as “extremely powerful groupware.” As such, Wave is an example of a first-tier failure. Similar capabilities exist within Google Docs, but the too-familiar environment of word processing might constrain what students would do with it.
 
-## Tier Two 
+### Tier Two 
 
-### “How Could You Let That Happen?: Student Expectations for Blog Monitoring”
+#### “How Could You Let That Happen?: Student Expectations for Blog Monitoring”
 * Artifact Type: Reflective essay
 ![screenshot](images/failure-pepper.png)
 
@@ -83,7 +83,7 @@ Google Wave was billed as “what email would look like if it were invented toda
 
 *The Journal of Interactive Technology & Pedagogy* features a section on “[teaching fails](http://jitp.commons.gc.cuny.edu/category/teaching-fails/),” and in this one Mark D. Pepper discusses what happened when a controversial image was shared on his class’s blog. When the comment thread “got ugly,” students wanted to know why their teacher hadn’t intervened---not noticing that it was 11pm at night. Pepper considers this a teaching fail because he did not meet his student expectations nor did he help them understand how a blog functions differently from a class discussion. This experience is a second tier failure since the issue stems from people’s expectations of technologies rather than the tool itself. The essay closes by discussing how Pepper now prepares students to interact with the blog and to establish ground rules, and is a useful site for those who include similar public assignments.
 
-### The Wikiblitz: A *Wikipedia* Editing Assignment in a First Year Undergraduate Class
+#### The Wikiblitz: A *Wikipedia* Editing Assignment in a First Year Undergraduate Class
 * Artifact Type: Reflective essay and assignment
 ![screenshot](images/failure-graham.png)
 
@@ -93,19 +93,9 @@ Google Wave was billed as “what email would look like if it were invented toda
 
 In a order to teach his students “how historians create knowledge using digital tools,” Shawn Graham’s students collectively edited a single *Wikipedia* entry within one class session. They then watched over the following days to see how the community would accept or reject the edits. This work was preceded by several days of discussion about Wikipedia style and editorial policies. The assignment successfully taught the conservative nature of both the discipline of history and the web. But what caught his surprise was the reluctance of the history majors in his class (who made up a minority) to participate. Many of them expressed a desire for an authoritative voice (as opposed to that of the crowd), and several skipped the in-class project. This artifact suggests that teachers who employ digital pedagogy should prepare for resistance from those who are most closely tied to their domain and is accordingly a human-based, tier-two failure.
 
-## Tier Three
+### Tier Three
 
-### “Interrogating the Interface”
-* Artifact Type: Assignment description
-![screenshot](images/failure-warnick.png)
-
-* Source URL: [http://3844f13.quinnwarnick.com/unit3/](http://3844f13.quinnwarnick.com/unit3/)
-* Copy of Artifact:
-* Creator: [Quinn Warnick](http://quinnwarnick.com/) (Virginia Tech)
-
-To help students learn to see digital media as a product of design and choices, Quinn Warnick asks students to “step back and critically examine the interface of a web-based service or mobile app.” While working with a particular tool, class members need to consider both its affordances--what it allows one to do--and its constraints--what it prevents one from doing. The assignment actively encourages students to find moments where the website crashes or otherwise fails. Finished projects include an essay and an [Ignite](http://igniteshow.com/)-style presentation. By focusing on the specificities--including the failures--of a site made by others, this project encourages students to work within the third tier of failure. Teachers could adopt this project for any course that examines digital media, and they could easily adapt it for peer review of multimodal composition or for evaluating user interface and experience (UI / UX). 
-
-### Creating (And Coding) a Professional Website
+#### Creating (And Coding) a Professional Website
 * Artifact Type: Assignment description and student responses
 ![screenshot](images/failure-brooks.png)
 
@@ -115,9 +105,9 @@ To help students learn to see digital media as a product of design and choices, 
 
 After students have created professional online portfolios using simple, free tools like [WordPress](http://wordpress.com) and [Weebly](http://www.weebly.com/), Ron Brooks asks them to re-create, or "reverse engineer," their websites from scratch using HTML and CSS. Given that most of his students have little to no experience with web design, Brooks acknowledges that "many of us are going to fail"; indeed, "failure is part of the point." A key aspect of the assignment, then, is for students to carefully document and reflect on the failures they encounter. By completing a series of short exercises that stretch their technical skill to (and beyond) the breaking point, students gain an appreciation for the complexity of professional websites and develop strategies for helping themselves and their classmates overcome—and sometimes accept—failure. Ultimately, the process of replicating a website helps students weigh the costs and benefits of using templates versus writing markup by hand. 
 
-## Tier Four
+### Tier Four
 
-### “Teaching to Fail”
+#### “Teaching to Fail”
 * Artifact Type: Reflective essay and assignment description
 ![screenshot](images/failure-burger.png)
 
@@ -127,7 +117,7 @@ After students have created professional online portfolios using simple, free to
 
 Mathematician and Southwestern University President Edward Burger suggests that teachers are prone to providing a too-neat, re-written version of intellectual history within their subjects and that the corrective is “to teach students the power of failure and how to fail effectively.” To accomplish this, he makes 5% of his students’ grades dependent on their “quality of failure.” Fostering a culture in which failure is expected and can lead to new insights helps students speak up in class and for the class to identify if, how, and where they were wrong--and how they can learn from those missteps. Students evaluate themselves at the semester’s end based on how they have grown from their failures within and beyond the class. Although it is perhaps easy to understand how students are regularly wrong in math classes, Burger’s methods can be easily adapted in the humanities and represent the fourth tier of failure. He does not provide the exact language from his syllabus, so those looking to take this approach would have to create that up front or reach out to him directly.
 
-### “Flogging Reflection”
+#### “Flogging Reflection”
 * Artifact Type: Assignment
 ![screenshot](images/failure-sample.png)
 
@@ -137,7 +127,7 @@ Mathematician and Southwestern University President Edward Burger suggests that 
 
 As part of a new Digital Studies program at Davidson College, Mark Sample’s *Hacking Remixing Design* course asks students to investigate all three terms as both creative and critical practices. Since students will be working with unfamiliar technologies and new vocabularies, they are asked to keep a “failure log” or “flog” to help individuals “reflect on things that don’t work for you in this class” [link](http://sites.davidson.edu/hacking/course-guidelines/). As a mid-semester assignment, the “Flogging Reflection” leads students to describe, analyze, and reflect upon their failures to that point. As Sample makes clear, “flogging” is very similar to the blogging that he assigns in other classes but focusing solely on moments of confusion or technical difficulty. Although he does not directly invite his students to fail, this assignment fits into the fourth tier due to its reconfiguring of success within the class.
 
-### “Failure Assessment”
+#### “Failure Assessment”
 * Artifact Type: Assignment
 ![screenshot](images/failure-salo.png)
 
@@ -147,7 +137,7 @@ As part of a new Digital Studies program at Davidson College, Mark Sample’s *H
 
 Taking inspiration from Edward Burger’s “Teaching to Fail” (mentioned above), Dorothea Salo requires her library science students to “fail early and often.” As one of the final assignments for the course, her students are asked to discuss their risk-taking and how they coped with their failures. The course has a number of highly technical requirements, as might be expected in an LIS program, and the inclusion of this assignment helps alleviate any potential concern students might have in approaching the subject matter. That said, the assignment allows for students to consider more than just technology fails but also “blind alley[s]” within their research and previously held viewpoints that they now know to be wrong. The students must also assess how failing changed their “professional self-image.” This last requirement makes it a useful model for graduate education, where students are often presumed to already know what they are being taught.
 
-### “Micro-Project VI: Glitched Aberrations”
+#### “Micro-Project VI: Glitched Aberrations”
 * Artifact Type: Assignment
 ![screenshot](images/failure-packer-gonzalez.png)
 
@@ -157,7 +147,7 @@ Taking inspiration from Edward Burger’s “Teaching to Fail” (mentioned abov
 
 In a class focusing on “Internet Art & Culture,” Randall Packer and Juan Camilo González ask their students to tackle glitch art with hands-on exercises. Students select images to transform and take one of two paths: 1) using a text editor to alter the stream of characters that make up the image or 2) altering the metadata about the file in the RAW format. Both approaches produce altered images, but the results are impossible to predict. By investigating the aesthetic of these “failed” images, this assignment qualifies as tier four. Instructors looking to provide a short tutorial to glitch art could reliably use this tutorial (see also Stearns).
 
-### “In Support of Failure”
+#### “In Support of Failure”
 * Artifact Type: Reflective essay and assignment description
 ![screenshot](images/failure-carr.png)
 
