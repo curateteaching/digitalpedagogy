@@ -223,7 +223,7 @@ Myers, Christopher G., Bradley R. Staats, and Francesca Gino. "'My Bad!’ How I
 
 Packer, Randall and Juan Camilo González. "Micro-project VI: Glitched Aberrations." *Internet Art & Culture*. Web. 2 March 2015. \<http://oss.adm.ntu.edu.sg/2014-da9003/micro-project-vi-glitched-abberations/\> 
 
-Pash, Adam. "Google Wave 'Is what Email would Look Like if it was Invented Today" *Lifehacker* 28 May 2009. Web. 24 February 2015. \<http://lifehacker.com/5272048/google-wave-is-what-email-would-look-like-if-it-were-invented-today\> 
+Pash, Adam. "Google Wave 'Is what Email would Look Like if it was Invented Today.'" *Lifehacker* 28 May 2009. Web. 24 February 2015. \<http://lifehacker.com/5272048/google-wave-is-what-email-would-look-like-if-it-were-invented-today\> 
 
 Pepper, Mark D. "How Could You Let That Happen?: Student Expectations for Blog Monitoring." *The Journal of Interactive Technology & Pedagogy* (4 April 2013): n.p. Web. 26 February 2015. \<http://jitp.commons.gc.cuny.edu/how-could-you-let-that-happen-student-expectations-for-blog-monitoring/\>
 
