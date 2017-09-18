@@ -67,7 +67,7 @@ The artifacts presented here represent a broad spectrum of approaches to teachin
 
 
 #### Digital Pedagogy Unplugged
-![screenshot](images/text-analysis-dig-hum-unplugged.png)
+![screenshot](images/text-analysis-dig-ped-unplugged.png)
 
 * Artifact Type: article
 * Source URL: http://www.digitalhumanities.org/dhq/vol/5/3/000106/000106.html
@@ -103,7 +103,7 @@ The origin of humanities computing is usually dated to 1949, when Father Roberto
 This assignment in using the [Voyant](http://voyant-tools.org/) online suite of tools for text analysis foregrounds the difference between traditional close reading approaches to a small number of texts and distant reading of a larger set of texts. In presenting the assignment, Croxall emphasizes the ludic tradition in text analysis, reminding students that they are "operating here under the principle of experimentation that has guided our class" (cf. McGann and Samuels, Rockwell, and Ramsay "Hermeneutics"). This experimental attitude is important in introducing students to tools that help them see textual patterns in new ways. This assignment also asks students to contribute to the work of transcribing the texts for digital analysis. Making the labor of text preparation and cleaning evident to students demystifies the processes of text analysis and opens up conversations about textual transmission more generally. 
 
 #### Team Project Description for English 203 (_Hamlet_ in the Humanities Lab)
-![screenshot](images/text-analysis-team-project-descrip.png)
+![screenshot](images/text-analysis-team-project-description.png)
 
 * Artifact Type: assignment
 * Source URL: http://ullyot.ucalgaryblogs.ca/2012/01/12/team-project-description-for-english-203/
@@ -115,7 +115,7 @@ This assignment sets up a two-phase group project in which students first learn 
 
 
 #### Topic Modeling Assignment 
-![screenshot](images/text-analysis-topic-modeling-assign.png)
+![screenshot](images/text-analysis-topic-modeling-assignment.png)
 
 * Artifact Type: two part assignment
 * Source URL: https://sherlockholmeslondondh.wordpress.com/2015/03/23/topic-modeling-assignment/
@@ -141,7 +141,7 @@ As Elijah Meeks and Scott Weingart suggest in their introduction to a special is
 Singer's article examines the utility of the TEI (Text Encoding Initiative) XML markup protocols as a method for analyzing and describing poetic texts, focusing on her experience teaching TEI encoding to an undergraduate senior seminar. Singer presents text encoding not merely as a means to producing an end result, such as a digital edition, but as "a dynamic, hands-on method for self-conscious, unhurried reading" that encourages debates about critical interpretation. Her essay includes discussion not only of the pedagogical approach and assignments she used, but also of student papers written after completing the encoding unit. As Singer suggests, to teach methods like TEI encoding can serve two purposes, equipping students with practical project based skills as well as exposing the interpretive choices that are at the heart of textual editing and text encoding.
 
 #### Digital Annotation Project
-![screenshot](images/text-analysis-digital-annotation.png)
+![screenshot](images/text-analysis-digital-annotation-project.png)
 
 * Artifact Type: assignment
 * Source URL: NA
@@ -152,7 +152,7 @@ Singer's article examines the utility of the TEI (Text Encoding Initiative) XML 
 This sequence of interrelated assignments guides students to work individually and in groups to create a critical edition of a text for use by future classes of their peers. Students define key terms to be annotated, research topics in digitized eighteenth- and nineteenth-century periodicals, and add research-based annotations to the text using [A.nnotate.com](http://a.nnotate.com/). Exposing students to primary research with digitized materials deepens the context for their understanding of the text. Asking students to participate in the process of annotating a text in a collaborative digital environment reveals the research and editorial decisions that lie behind any classroom text. This clearly structured assignment could be adapted for a wide variety of literary or historical texts or for use with other annotation tools.  
 
 #### Juxta Commons Revision/Collation Assignment
-![screenshot](images/text-analysis-Juxta-assignment.png)
+![screenshot](images/text-analysis-juxta-commons-revision.png)
 
 * Artifact Type: assignment
 * Source URL: NA
