@@ -68,7 +68,7 @@ Each artifact is organized into a category and practice of assessment described 
 
 **Assessment and Digital Pedagogy**
 
-Assignments connected to digital pedagogy take many forms such as archiving, badging, blogging coding, gaming, e-portfolios, maker spaces, multimodal projects, and storytelling, among the key words in this project. 
+Assignments connected to digital pedagogy take many forms such as archiving, badging, blogging, coding, gaming, e-portfolios, maker spaces, multimodal projects, and storytelling, among the other keywords in the *Digital Pedagogy in the Humanities* collection. 
  
 An institution might measure student learning for accreditation through student work highlighted in an e-portfolio using rubrics designed around competencies. Students might add badges to a resume to showcase the specific skills they learned in a course or set of courses. Game-based learning can introduce a non-punitive, recursive element to the curriculum, as students learn through repeated attempts in engaged, interactive learning. 
 
@@ -82,7 +82,7 @@ The integration of technologies into assessment methods is more than assessing d
 
 ### Syllabus: Typography One: Type as Image
 
-Artifact Type: Syllabus
+* Artifact Type: Syllabus
 * Source: [http://www.cmu.edu/teaching/designteach/design/syllabus/samples-creative/TypographySyllabus.pdf](http://www.cmu.edu/teaching/designteach/design/syllabus/samples-creative/TypographySyllabus.pdf)
 * Copy of Artifact: forthcoming
 * Creators: Karen Moyer and Dan Boyarski, Carnegie Mellon University
@@ -95,7 +95,7 @@ This syllabus serves as an introduction to both the work of the course and its p
 
 ### Syllabus: American Carnival
 
-Artifact Type: Syllabus
+* Artifact Type: Syllabus
 * Source: [http://www.tonahangen.com/wp-content/uploads/2010/06/193.Fall14.pdf)
 * Copy of Artifact: forthcoming
 * Creator: Tona Hangen, Worcester State University
@@ -108,7 +108,7 @@ Tona Hangen's "[Writing Syllabi Worth Reading](http://www.tonahangen.com/courses
 ### Evaluating Digital Humanities Projects: Collaborative Course Assessment
 ![screenshot](images/assessmentGould.png)
 
-Artifact Type: Assignment
+* Artifact Type: Assignment
 * Source: [http://sites.duke.edu/lit80s_01_f2014/evaluating-digital-humanities-projects-collaborative-course-assessment/](http://sites.duke.edu/lit80s_01_f2014/evaluating-digital-humanities-projects-collaborative-course-assessment/)
 * Copy of Artifact: forthcoming 
 * Creator: Amanda Starling Gould, Duke University
@@ -120,7 +120,7 @@ This assignment includes multiple measures, collaboration, integration of concep
 
 ### #arthistory: Instagram and the Intro to Art History Course
 
-Artifact Type: Assignment
+* Artifact Type: Assignment
 * Source: [http://arthistoryteachingresources.org/2014/06/arthistory-instagram-and-the-intro-to-art-history-course/](http://arthistoryteachingresources.org/2014/06/arthistory-instagram-and-the-intro-to-art-history-course/) 
 * Copy of Artifact: forthcoming 
 * Creator: Hallie Scott, CUNY Graduate Center
@@ -133,7 +133,7 @@ Students curate a series of images on Instagram and connect them to key course c
 ### Mentira
 ![screenshot](images/assessmentLaMentira.jpg)
 
-Artifact Type: Assignment
+* Artifact Type: Assignment
 * Source: [http://www.mentira.org/](http://www.mentira.org)
 * Copy of Artifact: forthcoming
 * Creators: Chris Holden and Julie Sykes, University of New Mexico, Lead Designers; Linda Lemus, Aaron Salinger, Derek Roff, University of New Mexico, Game Designers
@@ -146,7 +146,7 @@ While games cannot replace the experience of travel in a foreign country, they c
 ### Structuring Reflection
 ![screenshot](images/assessmentLuther.png)
 
-Artifact Type: Assignment
+* Artifact Type: Assignment
 * Source: [https://www.hastac.org/blogs/taxomania/2014/01/28/02-using-zines-classroom](https://www.hastac.org/blogs/taxomania/2014/01/28/02-using-zines-classroom)
 * Copy of Artifact: forthcoming 
 * Creator: Jason Luther, Syracuse University
@@ -159,7 +159,7 @@ Staging meaningful reflection can be difficult. Luther’s course relied on the 
 ### Reflection from Emblematica Online
 ![screenshot](images/assessmentHeim.png)
 
-Artifact Type: Student Work
+* Artifact Type: Student Work
 * Source: [https://emblematicaonlineuiuc.wordpress.com/heidi-heim/](https://emblematicaonlineuiuc.wordpress.com/heidi-heim/)
 * Copy of Artifact: forthcoming 
 * Creator: Heidi Heim, University of Illinois at Urbana-Champaign
@@ -171,7 +171,7 @@ Heim participated  in an undergraduate digital humanities research team that cre
 
 ### Are We Who We Think We Are
 
-Artifact Type: Student Work and Assessment Narrative
+* Artifact Type: Student Work and Assessment Narrative
 * Source: [http://neu.mcnrc.org/oa-story/](http://neu.mcnrc.org/oa-story/)
 * Copy of Artifact: forthcoming 
 * Creators: Gail Matthews-Denatale, Northeastern University
@@ -183,7 +183,7 @@ Practices: Professional Development, Integration, Technology
 
 ### Between Modes: Assessing Students' New Media Compositions
 
-Artifact Type: Assignment Assessment
+* Artifact Type: Assignment Assessment
 * Source: http://technorhetoric.net/10.2/coverweb/sorapure/betweenmodes.html
 * Copy of Artifact: forthcoming
 * Creators: Madeleine Sorapure, UC Santa Barbara
@@ -195,7 +195,7 @@ This multimodal article examines the disconnect between new media assignments an
 
 ### Big Data, Learning Analytics, and Social Assessment
 
-Artifact Type: Assignment Assessment
+* Artifact Type: Assignment Assessment
 * Source: http://journalofwritingassessment.org/article.php?article=68
 * Copy of Artifact: forthcoming
 * Creator: Joe Moxley, University of South Florida 
