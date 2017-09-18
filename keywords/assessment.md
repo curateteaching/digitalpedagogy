@@ -15,7 +15,7 @@ tags:
   - portfolios
   - gamification
 ---
-# ASSESSMENT (Draft)
+# ASSESSMENT
  
 ### J. Elizabeth Clark
 LaGuardia Community College, CUNY
@@ -48,7 +48,7 @@ While programmatic, institutional and cross-institutional assessment are key pie
 
 **Practices of Assessment**
 
- Practices of assessment demonstrate an intentional way of thinking, demonstrating, and understanding learning as a dynamic, integrative process. 
+Practices of assessment demonstrate an intentional way of thinking, demonstrating, and understanding learning as a dynamic, integrative process. 
 
 *Design*: Assessment design does not focus on a single product but the relationship between all of the learning in a course. Linda Suskie recommends beginning with student learning outcomes when designing a course (117). Intentional course design asks what skills and knowledge a student will need to demonstrate their learning experiences (sometimes known as backwards design) and embeds them strategically throughout the course.
 
