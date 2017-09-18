@@ -19,7 +19,6 @@ type: book
 
 ## Brian Croxall and Quinn Warnick
 Brigham Young University | [http://briancroxall.net](http://briancroxall.net)
-
 Virginia Tech | [http://quinnwarnick.com](http://quinnwarnick.com)
 
 ---
