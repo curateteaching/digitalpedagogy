@@ -80,7 +80,7 @@ The Indigenous Foundations website was developed as a resource for instructors, 
 This website can be used as a secondary resource for students exploring Indigenous media. Before requiring students to analyze or engage with the pieces listed below, theyÑand you, as the instructorÑshould be familiar with the histories of colonialism and the present contexts of Indigenous resurgence. Require students to reference Foundations as a secondary source when writing analysis of Indigenous new media. As an example, have students write a brief, in-class analysis of ALie Nation (listed below), making specific reference to the Indigenous Foundations entry on the Indian Act (under ÒGovernment PolicyÓ). How do students understand ATCR and their success differently in the context of legislation such as the Potlatch ban? 
 
 #### ALie Nation
-![ALie Nation](images/Indigenous-ALieNation)
+![ALie Nation](images/Indigenous-ALieNation.png)
  
 * Assignment
 * Source URL:  https://www.youtube.com/watch?v=WhlKs_3Srj0
@@ -93,7 +93,7 @@ ALie Nation is a site of activation from which students can begin to reflect on 
 Instructors can use the video to begin conversations on the relationships between technology, land, and colonialism, which students can then share with their communities. Use the following questions to provoke conversation: what does ÒalienationÓ mean for Indigenous peoples within the contexts of the city? What does alienation mean for Indigenous peoples within the contexts of the digital? How are ATCR using technology to re-write colonial histories and Indigenous presence in urban and digital spaces? After discussion, have students confront alienation on your own campus and map spaces of Indigenous resurgence on that territory. Students should research the Indigenous histories of the lands they live and study on. What Indigenous territory is your university on? What resources are available to Indigenous students on your campus? Is there Indigenous art or architecture on campus? Where is it and what is its history? Have students upload their research to Historypin or Google maps and share it with the university community via social media.
   
 #### Podcast Pedagogy
-![Podcast Pedagogy](images/Indigenous-PodcastPedagogy.jpg)
+![Podcast Pedagogy](images/Indigenous-PodcastPedagogy.png)
  
 * Type: Student work
 * Source URL: https://rebadeguevara.wordpress.com/2015/12/31/podcast-pedagogy-stories-from-the-land/
@@ -106,7 +106,7 @@ Instructors can use the video to begin conversations on the relationships betwee
 This blog post is an excellent example of close reading practices as applied to podcasting and Indigenous storytelling and can be integrated into syllabi as a prompt for students writing on similar topics. Instructors can ask their students to reflect on the ways in which De Guevera incorporates land into a conversation about technology. Instructors can also ask students to consider the tone and voice De Guevera uses in this piece. How does she connect McMahonÕs work to her own experiences? What opportunities do blogs, podcasts, and other digital technologies offer for anti-colonial thought?
 
 #### Speaking the Language of Spiders
-![Speakingthelanguageofspiders](images/Indigenous-Speakingthelanguageofspiders.png) 
+![Speakingthelanguageofspiders](images/Indigenous-speakingthelanguageofspiders.png) 
  
 * Type: Assignment
 * Source URL: http://spiderlanguage.net
@@ -142,7 +142,7 @@ Instructors should encourage students to visit the ÒlibraryÓ on the CyberPowWo
  
 *God's Lake Narrows* is an interactive website written and designed by Swampy Cree artist Kevin Lee Burton. The website was conceived as a space to introduce non-Indigenous people to life on BurtonÕs home reservation (also called God's Lake Narrows), thus disrupting many of the stereotypes about life on a reservation. What makes BurtonÕs work so provocative is how he uses technology to provide access to his home, but also how he brings Internet and Indigenous protocols together to evoke hospitality and guesthood in that space. 
 
-Before engaging BurtonÕs piece, students should read Students should read David GaertnerÕs essay, ÒIndigenous in Cyberspace: CyberPowWow, GodÕs Lake Narrows, and the Contours of Online Indigenous Territory.Ó  Instructors can then use BurtonÕs work piece to initiate conversation about the relationship between Indigenous land and cyberspace as well as Internet protocol and community protocol. Specifically, instructors should focus on the ways in which how Burton uses technology to identify and Òlook backÓ at users (see in particular the ÒaboutÓ page). Have students move through the piece carefully, either individually or in small groups. How does Burton use sound, visuals, information, and technology to welcome visitors into the space? What are viewers expected to know before they are granted access to the homes? 
+Before engaging Burton's piece, students should read Students should read David Gaertner's essay, "Indigenous in Cyberspace: CyberPowWow, God's Lake Narrows, and the Contours of Online Indigenous Territory."  Instructors can then use Burton's work piece to initiate conversation about the relationship between Indigenous land and cyberspace as well as Internet protocol and community protocol. Specifically, instructors should focus on the ways in which how Burton uses technology to identify and "look back" at users (see in particular the "about" page). Have students move through the piece carefully, either individually or in small groups. How does Burton use sound, visuals, information, and technology to welcome visitors into the space? What are viewers expected to know before they are granted access to the homes? 
  
 #### Where the Red Receives Me
 ![Where the Red Receives Me](images/Indigenous-wheretheredreceivesme.png)
@@ -158,7 +158,7 @@ Before engaging BurtonÕs piece, students should read Students should read David
 Using ErlendsonÕs work as a model, students can build their own digital stories on Twine (https://twinery.org/). Easy to follow tutorials are available on the site and free hosting is available with a Twitter account. This assignment works best when students are asked to remediate a story that comes from their home, community, or family. In building personal stories into simple websites, the class is encouraged to think about the delicate ecologies that make up digital storytelling and to think critically about how and why these stories generate and extend constellations of affinity and kinship. Have students share their stories with the class and ask how the translation of their story into the web changed the way they understood it.
  
 ####  Ay I Oh Stomp
-![Ay I Oh Stomp](images/Indigenous-Stomp.jpg)
+![Ay I Oh Stomp](images/Indigenous-Stomp.png)
  
 * Type: Assignment
 * Source URL: www.youtube.com/watch?v=FS43pk8Yjos
@@ -184,7 +184,7 @@ Elizabeth LaPansee's *Honour Water* activates Anishinaabemowin songs gifted by S
 After playing *Honour Water,* students should be encouraged to research and travel to the portal sites of underground waterways in respective Indigenous territories, and build sonic intimacies through the act of singing water songs along with the app. Students should also consider the ways in which sound shapes movements, flows and migrations throughout the cities. How might these flows be acknowledge radical alterities? Who are the Indigenous stewards/ caretakers and those visioning futurities in the city within which they are living, and how might these original languages/songs impact the futurities of water?
  
 #### Taking it to the People
-![Indigen-eyez](screenshot-Indigenous-indigen-eyez.png) 
+![Indigen-eyez](images/Indigenous-indigen-eyez.png) 
  
 * Type: Assignment
 * Source URL: from syllabus
