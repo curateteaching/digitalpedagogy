@@ -67,7 +67,7 @@ The artifacts selected below represent objects from the different tiers of failu
 * Artifact Type: Reflective essay and assignment
 * Source URL: [http://learningthroughdigitalmedia.net/google-wave-pedagogical-success-technological-failure](http://learningthroughdigitalmedia.net/google-wave-pedagogical-success-technological-failure)
 * Permissions:
-* Creator and Affiliation: [Kathleen Fitzpatrick](http://www.plannedobsolescence.net) (Michigan State University)
+* Creator and Affiliation: [Kathleen Fitzpatrick](http://www.plannedobsolescence.net), Michigan State University
 * Tags: 
 
 Google Wave was billed as “what email would look like if it were invented today” when it was announced in 2009 (Pash). But Kathleen Fitzpatrick saw the real-time, group-writing space of Wave as an opportunity for her students to collaboratively create class notes. Along with providing the details of the assignment, she considers the web services (e.g., Google accounts) and classroom infrastructure (e.g. laptops available to students) that the assignment depended on. Fitzpatrick relates that the assignment worked well and that she had hoped to continue working with Wave in the future, but that the platform itself was discontinued due to its instability and Google’s inability to market it appropriately as “extremely powerful groupware.” As such, Wave is an example of a first-tier failure. Similar capabilities exist within Google Docs, but the too-familiar environment of word processing might constrain what students would do with it.
