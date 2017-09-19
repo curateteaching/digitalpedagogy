@@ -100,6 +100,18 @@ In a order to teach his students "how historians create knowledge using digital 
 
 ### Tier Three
 
+#### “Interrogating the Interface”
+
+![screen shot](images/failure-warnick.png)
+
+* Artifact Type: Assignment description
+* Source URL: [http://3844f13.quinnwarnick.com/unit3/](http://3844f13.quinnwarnick.com/unit3/)
+* Permissions:
+* Creator and Affiliation: [Quinn Warnick](http://quinnwarnick.com/), Virginia Tech
+* Tags:
+
+To help students learn to see digital media as a product of design and choices, Quinn Warnick asks students to “step back and critically examine the interface of a web-based service or mobile app.” While working with a particular tool, class members need to consider both its affordances--what it allows one to do--and its constraints--what it prevents one from doing. The assignment actively encourages students to find moments where the website crashes or otherwise fails. Finished projects include an essay and an [Ignite](http://igniteshow.com/)-style presentation. By focusing on the specificities--including the failures--of a site made by others, this project encourages students to work within the third tier of failure. Teachers could adopt this project for any course that examines digital media, and they could easily adapt it for peer review of multimodal composition or for evaluating user interface and experience (UI / UX). 
+
 #### Creating (And Coding) a Professional Website
 
 ![screenshot](images/failure-brooks.png)
