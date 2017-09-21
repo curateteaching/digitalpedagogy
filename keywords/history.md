@@ -24,7 +24,7 @@ Carleton University, Ottawa | [http://electricarchaeology.ca](http://electricarc
 * unreviewed draft
 * draft version undergoing editorial review
 * draft version undergoing peer-to-peer review https://digitalpedagogy.commons.mla.org/
-* **Draft version undergoing MLA copyediting**
+* **draft version undergoing MLA copyediting**
 * published
 
 ---
