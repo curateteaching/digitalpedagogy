@@ -23,7 +23,8 @@ Carleton University, Ottawa | [http://electricarchaeology.ca](http://electricarc
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review** https://digitalpedagogy.commons.mla.org/
+* draft version undergoing peer-to-peer review https://digitalpedagogy.commons.mla.org/
+* **Draft version undergoing MLA copyediting**
 * published
 
 ---
@@ -67,7 +68,7 @@ This assignment operationalizes [Caleb McDaniel's arguments](http://wcm1.web.ric
 + Creator and Affiliation: Ryan Cordell, Northeastern University
 + Tags: getting started
 
-How do we grade digital artifacts in history? One answer is 'the unessay'. Daniel Paul O'Donnell coined the ideas and rationale behind an ['unessay']((http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay); in this artifact, Ryan Cordell operationalizes the concept and provides examples of student work. Because the students can choose their _own_ platform, the unessay shifts the focus from technical competency to how the medium and the argument intersect, reinforce, or contradict each other.
+How do we grade digital artifacts in history? One answer is 'the unessay'. Daniel Paul O'Donnell coined the ideas and rationale behind an ['unessay'](http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay); in this artifact, Ryan Cordell operationalizes the concept and provides examples of student work. Because the students can choose their _own_ platform, the unessay shifts the focus from technical competency to how the medium and the argument intersect, reinforce, or contradict each other.
 
 #### Collaborative Annotation
 ![screenshot](images/history-dougherty-assignment.png)
@@ -117,7 +118,7 @@ This artifact, and its associated discussion at the history and gaming group blo
 + Creator and Affiliation: William G. Thomas, Patrick D. Jones, University of Nebraska Lincoln; see [the full list of collaborators](http://historyharvest.unl.edu/acknowledgements)
 + Tags: advanced; Omeka
 
-The History Harvest is a public crowdsourcing project that brings undergraduate historians into a community where they work with members of that community to curate and then exhibit historical artifacts using the [Omeka](http://omeka.org) platform. Students plan and implement a day where interested members of the public share their historical materials, according to a theme. The students digitize (scan or photograph) the objects, collect the relevant meta-data and story, and discuss with the public the implications of putting the material online. The web exhibit is the final stage in the project. A 'lessons learned' and suggestions for running one's own 'history harvest' is published [here](https://www.historians.org/publications-and-directories/perspectives-on-history/january-2013/history-harvests).
+The History Harvest is a public crowdsourcing project that brings undergraduate historians into a community where they work with members of that community to curate and then exhibit historical artifacts using the [Omeka](http://omeka.org) platform. Students plan and implement a day where interested members of the public share their historical materials, according to a theme. The students digitize (scan or photograph) the objects, collect the relevant meta-data and story, and discuss with the public the implications of putting the material online. The web exhibit is the final stage in the project. A 'lessons learned' and suggestions for running one's own 'history harvest' are published [here](https://www.historians.org/publications-and-directories/perspectives-on-history/january-2013/history-harvests).
 
 #### Digital Atlas of Egyptian Archaeology (DAEA)
 ![screenshot](images/history-anthro-class-msu-daea.png)
@@ -143,7 +144,7 @@ Marking up text with machine-readable semantic encoding has many pedagogical ben
 ![screenshot](images/)
 + Artifact Type: tutorial
 + Source URL: [https://medium.com/the-fake-news-reader/tiny-flashing-thumbs-how-to-bot-your-way-to-fake-news-success-f834bf44c4b4](https://medium.com/the-fake-news-reader/tiny-flashing-thumbs-how-to-bot-your-way-to-fake-news-success-f834bf44c4b4)
-+ Artifact Permissions:
++ Artifact Permissions: CC-BY
 + Creator and Affiliation: Zach Whalen, University of Mary Washington
 + Tags: advanced; Google Sheets; Twitter
 
@@ -153,7 +154,7 @@ An important role of the historian is to humanize the past, while confronting th
 
 Elliot, Devon, Robert MacDougall, and William Turkel. "New Old Things: Fabrication, Physical Computing, and Experiment in Historical Practice." _Canadian Journal of Communication 37.1_ (2012). Web. [<http://www.cjc-online.ca/index.php/journal/article/view/2506>](http://www.cjc-online.ca/index.php/journal/article/view/2506).
 
-Kelly, Mills. _Teaching History in the Digital Age_. Ann Arbor, MI: U of Michigan Press, 2013. Web. [<http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12146032.0001.001;rgn=full text;view=toc;xc=1;g=dculture>](http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12146032.0001.001;rgn=full text;view=toc;xc=1;g=dculture).
+Kelly, Mills. _Teaching History in the Digital Age_. Ann Arbor, MI: U of Michigan Press, 2013. Web. [<http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12146032.0001.001;rgn=full text;view=toc;xc=1;g=dculture>](http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12146032.0001.001;rgn=fulltext;view=toc;xc=1;g=dculture).
 
 Lutz, John, Ruth Sandwell, et. al. "We Need Your Help!" _Great Unsolved Mysteries in Canadian History._ Canadian Heritage / University of Victoria, 1997. Web. 24 Feb. 2016. [<http://canadianmysteries.ca/en/index.php>](http://canadianmysteries.ca/en/index.php).
 
