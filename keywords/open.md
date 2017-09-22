@@ -59,7 +59,7 @@ Many proponents of open practices (open source, open access, open standards) fav
 
 
 #### Wikipedia Syllabus for Feminist Theory  
-Screenshot: ![screenshot](screenshot-open-wikipedia.png)
+Screenshot: ![screenshot](images/open-wikipedia.png)
 * Artifact Type: syllabus
 * Source URL [https://en.wikipedia.org/w/index.php?title=Education_Program:Richard_Stockton_College_of_New_Jersey/GIS_3614_Feminist_Theory_(Fall_2014)) 
 * Permissions:
@@ -68,7 +68,7 @@ Screenshot: ![screenshot](screenshot-open-wikipedia.png)
 As an example of having students contribute to an existing resource, Adeline Koh uses Wikipedia, the open source encyclopedia, as a platform for her students to create and curate entries for her feminist theory class. By challenging her students to do their work via editing wikipedia articles, Koh forces them to confront  questions about knowledge, power, authority, and standards. Wikipedia in turn [cautions](https://en.wikipedia.org/wiki/Wikipedia:Student_assignments) faculty that simply turning students loose to edit entries may do no good for the students, and no good for Wikipedia. In this case, students are learning through contributing their work to an open, crowd-sourced encyclopedia, contributing new material in a small, manageable, and yet meaningful way. 
 
 #### Teaching Digital History: Collaborative Markup
-![screenshot](open-teaching-digital-history.png)
+![screenshot](images/open-teaching-digital-history.png)
 * Artifact Type: teaching assignment
 * Source URL: [http://wheatoncollege.edu/digital-history-project/teaching/) 
 * Permissions:
