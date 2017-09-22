@@ -136,7 +136,7 @@ Screenshot: ![screenshot](images/affect-Brexit.jpg)
 
 A syllabus is generally seen as a bureaucratic cut-and-dried legalistic document that is intended to establish course expectations.  In contrast, hashtag activism is often associated with real-time emotional responses to current events  For Roopika Risam, the Brexit Syllabus was a way to channel “anger, unhappiness, and anxiety” and to use the genre of the hashtag syllabus “to engage people” who might be “coming at Brexit from other disciplinary knowledges.”  Working with historian Hanna Clutterbuck-Cook and communication scholar Toniesha Taylor, literary critic Risam harvested material tagged #BrexitSyllabus that ranged from popular songs and television episodes to scholarly essays on postcolonial theory and immigration history.  
 
-#### [CV OF FALURE](https://www.princeton.edu/~joha/Johannes_Haushofer_CV_of_Failures.pdf)
+#### [CV OF FAILURE](https://www.princeton.edu/~joha/Johannes_Haushofer_CV_of_Failures.pdf)
 Screenshot: ![screenshot](images/affect-CVofFailure.jpg)
 * Artifact Type: document
 * Source URL: https://www.princeton.edu/~joha/Johannes_Haushofer_CV_of_Failures.pdf
