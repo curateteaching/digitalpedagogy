@@ -24,7 +24,8 @@ University of Pittsburgh | [http://annettevee.com/](http://annettevee.com/)
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review**
+* draft version undergoing peer-to-peer review
+* **draft version undergoing MLA copyediting**
 * published
 
 ---
