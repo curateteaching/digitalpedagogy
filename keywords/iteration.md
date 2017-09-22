@@ -29,6 +29,10 @@ University of Pittsburgh | [http://annettevee.com/](http://annettevee.com/)
 
 ---
 
+### Cross-reference keywords: remix, failure, design, hacking, code, makerspaces
+
+---
+
 ## CURATORIAL STATEMENT
 
 Iteration: a hard-edged word, signaling copies, cycles, circuits. Its primary dictionary definitions belong to math and computer science. In these contexts, iteration is working on a problem repetitively, with feedback, to incrementally solve it or improve it. Designers also iterate; they may produce many different versions of a logo or cover or website. Teachers iterate, too: each course brings repeated gestures, assignments and approaches, as well as tweaks for new students, insights and contexts. An assignment featured below (“Concept in 60 seconds”) went through multiple iterations as different teachers adapted it to their own courses and objectives. As Kathi Inman Berens writes in “Interface” for this collection, “the best teachers tweak the assignment iteratively, learning how the students mis/use the interface.” For teaching, iteration may be thought of as remix, mashup, adaptation, elaboration, repetition, reworking, signifying, retelling, doing-over, or variation. New affordances of digital media make iteration an especially vibrant form of pedagogy because students can work through ideas across platforms.
