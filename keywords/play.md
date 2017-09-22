@@ -13,7 +13,7 @@ publisher: Modern Language Association
 type: book
 ---
 
-# PLAY (Final)
+# PLAY
 
 ### Mark Sample
 Davidson College | Digital Studies | [Website](http://www.samplereality.com)
