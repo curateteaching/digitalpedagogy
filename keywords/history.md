@@ -58,17 +58,17 @@ Digital pedagogy in history changes not just how we teach, but how we _do_, hist
 + Creator and Affiliation: Shawn Graham, Carleton University
 + Tags: getting started; Github repository and personal blog
 
-This assignment operationalizes [Caleb McDaniel's arguments](http://wcm1.web.rice.edu/open-notebook-history.html) for why historians should make the historical research process open to inspection, situating the idea within practices familiar to historians. The 'Fail Log' assignment surfaces the hidden 'gotchas' of doing digital work, and permits students a way of 'showing their work'; since students all have different starting points with digital materials, these notebooks and the sharing of materials can be used to help build community and support. Mark Sample called this approach ['flogging' - fail logging](https://wayback.archive.org/web/20150124022659/http://sites.davidson.edu/hacking/course-guidelines/). The open notebook can also be an effective introduction to open peer review journal and book projects, such as those undertaken by [Michelle Moravec](http://michellemoravec.com/michelle-moravec/). It is allied with familiar forms such as course blogging.
+This assignment operationalizes [Caleb McDaniel's arguments](http://wcm1.web.rice.edu/open-notebook-history.html) for why historians should make the historical research process open to inspection, situating the idea within practices familiar to historians. The 'Fail Log' assignment surfaces the hidden 'gotchas' of doing digital work, and permits students a way of 'showing their work'. As students all have different starting points with digital materials, these notebooks and the sharing of materials can be used to help build community and support. Mark Sample called this approach ['flogging' - fail logging](https://wayback.archive.org/web/20150124022659/http://sites.davidson.edu/hacking/course-guidelines/). The open notebook can also be an effective introduction to open peer review journal and book projects, such as those undertaken by [Michelle Moravec](http://michellemoravec.com/michelle-moravec/). It parallels more familiar forms such as course blogging.
 
 #### The Unessay
 ![screenshot](images/history-Cordell-Unessay-Prompt.png)
 + Artifact Type: assignment prompt
-+ Source URL: [http://f17rwda.ryancordell.org/assignments.html#unessay_(25%)](http://f17rwda.ryancordell.org/assignments.html#unessay_(25%))
++ Source URL: [http://f17rwda.ryancordell.org/assignments.html#unessay_(15%)](http://f17rwda.ryancordell.org/assignments.html#unessay_(25%))
 + Permissions: CC
 + Creator and Affiliation: Ryan Cordell, Northeastern University
 + Tags: getting started
 
-How do we grade digital artifacts in history? One answer is 'the unessay'. Daniel Paul O'Donnell coined the ideas and rationale behind an ['unessay'](http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay); in this artifact, Ryan Cordell operationalizes the concept and provides examples of student work. Because the students can choose their _own_ platform, the unessay shifts the focus from technical competency to how the medium and the argument intersect, reinforce, or contradict each other.
+How do we grade assess artifacts in history that don't look like essays? One answer is to frame them as 'unessays', where the student chooses their _own_ platform, their own expressive medium, to examine a question. Particularly for digital work, the unessay shifts the focus from technical competency to how the medium and the argument intersect, reinforce, or contradict each other. Daniel Paul O'Donnell coined the ideas and rationale behind an ['unessay'](http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay); in this artifact, Ryan Cordell operationalizes the concept and provides [examples of student work](http://f17rwda.ryancordell.org/assignments.html#model_unessays), from an imaginative 'manifesto' by 'Ada Lovelace', to highly annotated code, to Tumblr photo essays. 
 
 #### Collaborative Annotation
 ![screenshot](images/history-dougherty-assignment.png)
@@ -88,17 +88,17 @@ In this assignment, Dougherty shows how to use [the Hypothes.is web annotation t
 + Creator and Affiliation: Ian Milligan, University of Waterloo
 + Tags: getting started; Python; Omeka; Wordpress; Sketchup Make; Google Earth
 
-This syllabus provides an example of a course designed explicitly to build digital skills for historians. Its focus is on hands-on engagement with a wide variety of tools that a digital historian might reasonably be expected to use as part of their practice. It is pitched at the undergraduate level, and frames that playful exploration of tools in the wider contexts of historiography, methods, and workflows. Its assessment exercises focus on the process of working with the materials.
+This syllabus provides an example of a course designed explicitly to build digital skills for historians. Milligan's focus is on hands-on engagement with a wide variety of tools (including Omeka, Sketchup Make, the Google N-gram viewer, and the tutorials published by [The Programming Historian website](https://programminghistorian.org/lessons/)) that a digital historian might reasonably be expected to use as part of their practice. It is pitched at the undergraduate level, and frames that playful exploration of tools in the wider contexts of historiography, methods, and workflows. Its assessment exercises focus on the process of working with the materials.
 
 #### The Knotted Line Curriculum Guide
 ![screenshot](images/history-Knotted-Line.png)
 + Artifact Type: lesson plans
-+ Source URL: [http://scalar.usc.edu/anvc/the-knotted-line/curriculum-guide](http://scalar.usc.edu/anvc/the-knotted-line/curriculum-guide)
++ Source URL: [http://scalar.usc.edu/anvc/the-knotted-line/curriculum-guide](http://scalar.usc.edu/anvc/the-knotted-line/curriculum-guide) [PDF Version](https://docs.google.com/file/d/0BynaievnTP0pdHozZjQ5LXlFLWM/edit)
 + Permissions: CC-BY-NC-SA
 + Creator and Affiliation: Evan Bissell and Ora Wise
 + Tags: getting started; Scalar
 
-The [Knotted Line](http://scalar.usc.edu/anvc/the-knotted-line/external?link=http%3A%2F%2Fknottedline.com%2Ftkl.html&prev=http%3A%2F%2Fscalar.usc.edu%2Fanvc%2Fthe-knotted-line%2Findex) is a multi-media exploration of the United States' entangled history of freedom and incarceration. It is built using the [Scalar](http://scalar.usc.edu/scalar/) publishing platform for scholarly born-digital content. This curriculum guide provides a rich set of remixable lesson and workshop plans and prompts for using the Knotted Line in one's class. The structure of these plans could be adapted for use with other kinds of born-digital resources.
+The [Knotted Line](http://scalar.usc.edu/anvc/the-knotted-line/external?link=http%3A%2F%2Fknottedline.com%2Ftkl.html&prev=http%3A%2F%2Fscalar.usc.edu%2Fanvc%2Fthe-knotted-line%2Findex) is a multi-media exploration of the United States' entangled history of freedom and incarceration. It is built using the [Scalar](http://scalar.usc.edu/scalar/) publishing platform for scholarly born-digital content. This curriculum guide provides a rich set of remixable lesson and workshop plans and prompts for using the Knotted Line in one's class (including some multi-week projects, complete with learning objectives and assessment structures, like '['Flipping the Script: Making History with Media'](http://scalar.usc.edu/anvc/the-knotted-line/flipping-the-script-making-history-with-media). The structure of these plans could be adapted for use with other kinds of born-digital resources.
 
 #### Historical Twine Project Rubric
 ![screenshot](images/history-McCall-IHF.png)
@@ -118,7 +118,7 @@ This artifact, and its associated discussion at the history and gaming group blo
 + Creator and Affiliation: William G. Thomas, Patrick D. Jones, University of Nebraska Lincoln; see [the full list of collaborators](http://historyharvest.unl.edu/acknowledgements)
 + Tags: advanced; Omeka
 
-The History Harvest is a public crowdsourcing project that brings undergraduate historians into a community where they work with members of that community to curate and then exhibit historical artifacts using the [Omeka](http://omeka.org) platform. Students plan and implement a day where interested members of the public share their historical materials, according to a theme. The students digitize (scan or photograph) the objects, collect the relevant meta-data and story, and discuss with the public the implications of putting the material online. The web exhibit is the final stage in the project. A 'lessons learned' and suggestions for running one's own 'history harvest' are published [here](https://www.historians.org/publications-and-directories/perspectives-on-history/january-2013/history-harvests).
+The History Harvest is a public crowdsourcing project that brings undergraduate historians into a community where they work with members of that community to curate and then exhibit historical artifacts using the [Omeka](http://omeka.org) platform. Students plan and implement a day where interested members of the public share their historical materials, according to a theme. The students digitize (scan or photograph) the objects, collect the relevant meta-data and story, and discuss with the public the implications of putting the material online. The web exhibit is the final stage in the project. This process gives students experience in applied public history. A 'lessons learned' and suggestions for running one's own 'history harvest' are published [here](https://www.historians.org/publications-and-directories/perspectives-on-history/january-2013/history-harvests).
 
 #### Digital Atlas of Egyptian Archaeology (DAEA)
 ![screenshot](images/history-anthro-class-msu-daea.png)
