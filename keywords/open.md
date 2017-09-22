@@ -8,7 +8,7 @@ author:
   given: Michael
 editor:
 - family: Harris
-  given: Katherine
+  given: Katherine D.
 publisher: Modern Language Association
 type: book
 ---
