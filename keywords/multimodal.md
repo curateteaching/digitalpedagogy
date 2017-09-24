@@ -13,12 +13,17 @@ publisher: Modern Language Association
 type: book
 ---
 
-#MULITIMODAL
+# MULITIMODAL (draft)
 
 ## VIRGINIA KUHN
 University of Southern California, School of Cinematic Arts, Division of Media Arts + Practice | [virginiakuhn.net](http://virginiakuhn.net) 
 
 ##### Publication Status: 
+* unreviewed draft
+* draft version undergoing editorial review
+* draft version undergoing peer-to-peer review
+* **draft version undergoing MLA copyediting**
+* published 
 
 ---
 
