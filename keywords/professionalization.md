@@ -14,7 +14,7 @@ Indiana University-Purdue University Indianapolis | http://jguiliano.com/
 --- 
 
 ## CURATORIAL STATEMENT 
-When we think about professionalization in the context of pedagogy, most frequently we are referring to teaching about one of three things: 1) classroom management; 2) presenting oneself in writing via curriculum vitae and resumes; and 3) presenting one's research in oral forms via presentations and interviews. In part, this limited view of professionalization is a result of the continuing dominance of academics, and particularly academics engaged in teaching master's and doctoral students, in determining the context through which professionalization is taught. As Professor Louis Menard remarks in his essay entitled *The Ph.D. Problem*:
+When we think about professionalization in the context of pedagogy, most frequently we are referring to teaching about one of three things: 1) classroom management; 2) presenting oneself in writing via curriculum vitae and resumes; and 3) presenting one's research in oral forms via presentations and interviews. In part, this limited view of professionalization is a result of the continuing dominance of academics, and particularly academics engaged in teaching master's and doctoral students, in determining the context through which professionalization is taught. As Louis Menand remarks in his essay entitled *The Ph.D. Problem*:
 
 > It is easy to see how the modern academic discipline reproduces all the salient features of the professionalized occupation. It is a self-governing and largely closed community of practitioners who have an almost absolute power to determine the standards for entry, promotion, and dismissal in their fields. The discipline relies on the principle of disinterestedness, according to which the production of new knowledge is regulated by measuring it against existing scholarship through a process of peer review, rather than by the extent to which it meets the needs of interests external to the field.
 
@@ -22,7 +22,7 @@ The rise of the alternative academic as well as sub-disciplinary concerns relate
 
 In part, departments have continued separating the knowledge they provide from the techniques, methods, and processes of its application in non-academic environments because it allows boundaries around their profession to remain non-permeable. They continue to arbitrate who can participate in knowledge-making as well as the systems of reward available to those who are deemed "professional"-enough.  Bluntly put, departments have largely avoided confronting that the majority of degree students are no longer moving toward the doctoral degree or a tenure-track professorships; thus, they have either outsourced much of the work of knowledge discovery, teaching, and distribution with regards to professionalization or have focused only on skills that will enable students to get a tenure-track job rather than knowledge, techniques, and methodologies that might serve them as they move into multiplicity of careers and stages. As a result, professionalization focuses on the act of getting a job rather than situations, attitudes, behaviors, and processes that student might encounter throughout the variety of career stages one might inhabit. This is re-affirmed continually by the focus on tracking first-job placements rather than long-term career statistics. 
 
-###Criteria 
+### Criteria 
 For our purposes, then, rather than focusing on professional knowledge used to seek a job, we'll concentrate on materials that can assist you in not just becoming a professional, but also navigating common issues in professional environments: What does it mean to be an individual in a professional environment? What knowledge should you have to operate as a professional in a collaborative work environment? What techniques can assist you in to developing aptitude across professional environments? The curated pedagogical artifacts included represent a variety of materials that might be useful when teaching about knowledge, methods, skills, and techniques for professional development. Organized alphabetically, they will assist you in developing your own pedagogy around professionalism.
 
 
@@ -92,7 +92,7 @@ ORCID is an open, non-profit, community-driven effort to create and maintain a r
 While this guide to professionalism is specific to the US context, the included exercises on identifying workplace bias, generational and cultural stereotypes, professional attitudes, and social dynamics within the workplace are invaluable. Each exercise offers a short activity, a journal or reflective activity, as well as suggested extension activities that instructors might build on to the particular topic. Importantly, little professionalism training in the academy focuses on social and cultural dynamics making these tutorials quite unique and useful for those looking to be successful in professional environments. Instructors will find these activities perfect for role-playing within the classroom while students will be able to work through their own responses to common workplace scenarios.
 
 ### “You Call It Professionalism, I Call It Oppression in a Three-Piece Suit” 
-![screenshot](images/Rios_You_Call_It.jpg)
+![screenshot](images/professionalism_Rios_You_Call_It.jpg)
 
 * Source URL: [http://everydayfeminism.com/2015/02/professionalism-and-oppression/](http://everydayfeminism.com/2015/02/professionalism-and-oppression/)
 * Copy of Artifact: [files/professionalism_Rios_You_Call_It.pdf](files/professionalism_Rios_You_Call_It.pdf)
@@ -128,7 +128,7 @@ Laker, Dennis R., and Ruth Laker. “The Five-Year Resume: A Career Planning Exe
 
 McGarrity, Matt. “Introduction to Public Speaking - University of Washington.” Coursera, Inc. Web. 6 Apr. 2015. <https://www.coursera.org/learn/public-speaking>
 
-Menard, Louis. “Professionalization in the Academy". Harvard Magazine. N.p., Dec. 2009. Web. 6 Apr. 2015. <http://harvardmagazine.com/2009/11/professionalization-in-academy>
+Menand, Louis. “The Ph.D. Problem." *Harvard Magazine*. N.p., Dec. 2009. Web. 6 Apr. 2015. <http://harvardmagazine.com/2009/11/professionalization-in-academy>
 
 Morrison, Aimée. “Hook and Eye: Graduate Professionalization Seminar.” *Hook and Eye*, 4 September 2013. Web. <http://www.hookandeye.ca/2013/09/graduate-professionalization-seminar.html>
 
