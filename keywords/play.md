@@ -1,19 +1,19 @@
 ---
 title: Digital Pedagogy in the Humanities
-subtitle: Concepts, Models, and Experiments 
+subtitle: Concepts, Models, and Experiments
 chapter: Play
 URL: keywords/play.md
-authors: 
-- family: Sample 
-  given: Mark 
-editor: 
+authors:
+- family: Sample
+  given: Mark
+editor:
 - family: Harris
   given: Katherine D.
 publisher: Modern Language Association
 type: book
 ---
 
-# PLAY (Final)
+# PLAY
 
 ### Mark Sample
 Davidson College | Digital Studies | [Website](http://www.samplereality.com)
@@ -24,14 +24,15 @@ Davidson College | Digital Studies | [Website](http://www.samplereality.com)
 * unreviewed draft
 * draft version undergoing editorial review
 * draft version undergoing peer-to-peer review
-* **awaiting pre-print copy**
-* published 
+* **draft version undergoing MLA copyediting**
+* awaiting pre-print copy
+* published
 
 ---
 
-### Tags: 
+### Cross-Reference Keywords: Design, Failure, Gaming, Hacking, Makerspaces, Remix
 
---- 
+---
 
 ## CURATORIAL STATEMENT
 
@@ -44,13 +45,13 @@ A growing number of faculty, instructional designers, and learning professionals
 A comparison between playful pedagogy and serious pedagogy highlights distinctions between the two:
 
 - **Process over product.** Playful pedagogy, like play itself, emphasizes process over product. As a consequence, learning comes to be a series of pathways, different for every student, rather than a straight shot toward a desired destination.   
-- **Low stakes over high stakes.** Serious pedagogy is a high stakes pedagogy, high stakes which may in fact limit creative problem-solving. Playful pedagogy rewards risk-taking, and risk-taking itself is an end itself. 
+- **Low stakes over high stakes.** Serious pedagogy is a high stakes pedagogy, high stakes which may in fact limit creative problem-solving. Playful pedagogy rewards risk-taking, and risk-taking itself is an end itself.
 - **Mistakes over Success.** Play abounds with mistakes, failures, and most importantly, second chances. Every "Game Over" is also the start of a new game.
 - **Ambiguity over Certainty.** As anyone who has played Euchre knows, once the outcome of a hand of cards is certain, the round is over, even if cards remain to be played. Certainty is the enemy of play, while ambiguity sustains it.  
 - **Discovery over Objectives.** With play, curiosity itself is an objective. Furthermore, playful pedagogy allows learners themselves to discover their own objectives—and to change them if need be.
 - **Divergent thinking over convergent thinking.** Playful pedagogy recognizes that there is no single correct answer; rather there are always multiple approaches to a problem. In many ways, divergent thinking is similar to the concept of emergent play, a kind of play game designers hope to promote. Emergent play refers to the way creative and unpredictable gameplay emerges from a set of rules. Similarly, playful pedagogy uses rules as constraints that foster creativity, rather than stifle it.
 
-This list of differences is incomplete and meant to be merely suggestive. The artifacts presented here share one or more of these characteristics, and then some. The artifacts are grouped according to several categories of playful pedagogy: 
+This list of differences is incomplete and meant to be merely suggestive. The artifacts presented here share one or more of these characteristics, and then some. The artifacts are grouped according to several categories of playful pedagogy:
 
 1. **Interventions.** These pedagogical strategies are the most recognizable, for they begin with conventional pedagogies, but pivot upon an activist or constructivist intervention into that pedagogical principle, taking it into surprising directions. An example of an interventionist strategy is deformance—the deliberate misreading of a text or cultural artifact, such as reading a poem backwards (Samuels and McGann 29). Interventions such as these have a long history, but digital texts and digital tools have made them readily available (Ramsay).
 
@@ -70,7 +71,7 @@ This list of differences is incomplete and meant to be merely suggestive. The ar
 * Creator: Tom Woodward
 * Tags: digital storytelling, assignments, hacking
 
-The "Spreadsheet Invasion" is a playful intervention into the software conceit of productivity. This assignment asks students to animate cells in Excel, turning Microsoft Office into a playground. An inspiration for the more generalized [Software Invasion](http://sites.davidson.edu/hacking/course-guidelines/hack-2-software-invasion/) assignment, the spreadsheet assignment is part of DS106, an immensely popular online companion to a digital storytelling course at the University of Mary Washington. The [DS106 assignment bank](http://assignments.ds106.us/) is a ready-to-use collection of hundreds of other assignments that similarly demand critical and creative interventions into digital media. Assignment types include video mashups, remixes, photo collages, soundscapes, animated GIFs, and much more. The DS106 Assignment Bank should be the first place to look for innovative new media assignments, as well as illustrative examples of completed student work. 
+The "Spreadsheet Invasion" is a playful intervention into the software conceit of productivity. This assignment asks students to animate cells in Excel, turning Microsoft Office into a playground. An inspiration for the more generalized [Software Invasion](http://sites.davidson.edu/hacking/course-guidelines/hack-2-software-invasion/) assignment, the spreadsheet assignment is part of DS106, an immensely popular online companion to a digital storytelling course at the University of Mary Washington. The [DS106 assignment bank](http://assignments.ds106.us/) is a ready-to-use collection of hundreds of other assignments that similarly demand critical and creative interventions into digital media. Assignment types include video mashups, remixes, photo collages, soundscapes, animated GIFs, and much more. The DS106 Assignment Bank should be the first place to look for innovative new media assignments, as well as illustrative examples of completed student work.
 
 
 ### Glitching Files for Understanding
@@ -80,7 +81,7 @@ The "Spreadsheet Invasion" is a playful intervention into the software conceit o
 * Creator: [Trevor Owens](www.trevorowens.org/) (Institute of Museum and Library Services)
 * Tags: glitch, deformance, hacking
 
-Written while Owens was a digital archivist at the Library of Congress, this tutorial introduces the idea of glitching—intentionally corrupting a digital artifact—as a kind of playful deformance. Such intrusive digital interventions can serve a forensics purpose by exposing underlying metadata, but they can also defamiliarize the digital media in question. Owens walks through the glitching of music and image files. This process could be easily expanded to include other media types, including audiobooks, PDFs, and EPUBs, all very much of interest in a literature classroom.
+Written while Owens was a digital archivist at the Library of Congress, this tutorial introduces the idea of glitching—intentionally corrupting a digital artifact—as a kind of playful deformance. Such intrusive digital interventions can serve a forensics purpose by exposing underlying metadata of digital objects, but they can also defamiliarize the digital media in question. Defamiliarization shocks users out of their habituated media practices, allowing them to see the media from new perspectives. Owens walks through the glitching of music and image files, and this process easily expands to include other media types, including audiobooks, PDFs, and EPUBs, all very much of interest in a literature classroom.
 
 ### Ivanhoe
 ![screenshot](images/play-ivanhoe.png)
@@ -89,7 +90,7 @@ Written while Owens was a digital archivist at the Library of Congress, this tut
 * Creators: Johanna Drucker, Jerome McGann, Bethany Nowviskie, and the Scholars' Lab (University of Virginia)
 * Tags: literature, narrative, Wordpress
 
-Ivanhoe began as a turn-based game of textual interventions, in which students assume the roles of  existing characters—or new characters—in a novel or other cultural artifact. Each player makes a "move," describing an action or decision their character makes, and the next player makes a move in response. The students thus actively intervene in the original text, rewriting it in unexpected ways. The original Ivanhoe was Java-based, but that game environment no longer functions. In 2014 the Scholars' Lab at the University of Virginia released a new version of Ivanhoe as a WordPress theme. One of the unique features of Ivanhoe is that the game doesn't actually require _any_ technology. For an example of digital pedagogy inspiring analog pedagogy, see Jason Jones' low tech adaption in [Teaching Literature with Ivanhoe](http://www.jbj.wordherders.net/2008/06/16/teaching-literature-with-ivanhoe/). Similarly, Chandler Sansing describes using [Ivanhoe](http://texttechnology.mcmaster.ca/pdf/vol12_2_04.pdf) in a middle school classroom. 
+Ivanhoe began as a turn-based game of textual interventions, in which students assume the roles of  existing characters—or new characters—in a novel or other cultural artifact. Each player makes a "move," describing an action or decision their character makes, and the next player makes a move in response. The students thus actively intervene in the original text, rewriting it in unexpected ways. The original Ivanhoe was Java-based, but that game environment no longer functions. In 2014 the Scholars' Lab at the University of Virginia released a new version of Ivanhoe as a WordPress theme. One of the unique features of Ivanhoe is that the game doesn't actually require _any_ technology. For an example of digital pedagogy inspiring analog pedagogy, see Jason Jones' low tech adaption in [Teaching Literature with Ivanhoe](http://www.jbj.wordherders.net/2008/06/16/teaching-literature-with-ivanhoe/). Similarly, Chandler Sansing describes using [Ivanhoe](http://texttechnology.mcmaster.ca/pdf/vol12_2_04.pdf) in a middle school classroom.
 
 ## Crafting
 
@@ -106,7 +107,7 @@ Hackathons are discrete crystallizations of maker culture, and they have become 
 ![screenshot](images/play-twitterbot.png)
 * Artifact Type: Classroom Activity
 * Source URL: [http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04)
-* Creator: Zach Whalen (University of Mary Washington) 
+* Creator: Zach Whalen (University of Mary Washington)
 * Tags: Twitter, bots, hacking
 
 Twitter bots are small autonomous programs that algorithmically generate tweets. Bots are most often associated with spam and online marketing, but they can also be creative endeavors that help understand texts, authorship, and originality more deeply. Zach Whalen provides a classroom-ready way for students to create bots, using only Google Spreadsheets. This method is not an introduction to programming so much as an introduction to playful thinking with words. Crafting is often associated with *things*, but disassembling and reassembling language through computer models reveals that crafting can also be performed with *words*. What is writing, after all, but a craft? Building a bot reveals the seams and stitches of that craft.
@@ -119,7 +120,7 @@ Twitter bots are small autonomous programs that algorithmically generate tweets.
 * Artifact Type: Classroom Activity
 * Source URL: [http://www.slj.com/2015/04/opinion/test-drive/slj-reviews-the-makey-makey-test-drive/](http://www.slj.com/2015/04/opinion/test-drive/slj-reviews-the-makey-makey-test-drive/)
 * Creator: Chad Sansing (Mozilla Foundation)
-* Tags: cyborgs, interfaces, hacking 
+* Tags: cyborgs, interfaces, hacking
 
 A Makey Makey is an inexpensive microcontroller that replaces typical computer inputs (mouse, arrows, keyboard controls) with any object that conducts electricity. YouTube abounds with videos of bananas turned into electronic piano keys, but such experiments only scratch the surface of Makey Makeys. For instance, Makey Makeys can be used to dramatize Donna Haraway's still-important "Cyborg Manifesto" or to create alternative reading interfaces for poetry. In this article Chad Sansing explains why teachers might want to teach literature and the arts using Makey Makeys. Though framed for middle school students, the playful pedagogy highlighted here transfers well to higher education. In particular, Makey Makeys emphasize discovery and divergent thinking; working with these devices thrusts students into such unfamiliar territory, they have no choice but to approach problems from new perspectives.
 
@@ -151,7 +152,7 @@ Anthropy's book *Rise of the Videogame Zinesters* (2012) launched what has come 
 * Creator: Amanda Phillips (University of California-Davis)
 * Tags: literature, narrative, games
 
-Literature and Gaming is an undergraduate course at UC-Santa Barbara taught by Dr. Amanda Phillips. This syllabus makes connections between print-based narratives and video game-based narratives, explicitly questioning assumptions about the differences between the two. In particular, the students explore the five categories of play, narrative, space, time, and avatar across both media.  
+Literature and Gaming is an undergraduate course at UC-Santa Barbara taught by Dr. Amanda Phillips. This syllabus makes connections between print-based narratives and video game-based narratives, explicitly questioning assumptions about the differences between the two. In particular, the students explore the five categories of play, narrative, space, time, and avatar across both media. Phillips reflects on the successes and challenges of this course in a worthwhile [blog post](https://www.hastac.org/blogs/amanda-phillips/2010/10/20/thoughts-teaching-literature-and-gaming) on HASTAC.
 
 ### Metagames
 ![screenshot](images/play-metagames.png)
@@ -160,19 +161,13 @@ Literature and Gaming is an undergraduate course at UC-Santa Barbara taught by D
 * Creator: Stephanie Boluk (University of California-Davis)
 * Tags: avant-garde, games, postmodernism
 
-Metagames is a course about games about games. While metafiction is a staple of postmodern literature, it is less common to think about  videogames—and by extension, play—in these terms. Boluk's syllabus provides a theoretical frame for thinking about play in unfamiliar contexts, including the practices and counter-practices of play. The [reading schedule](http://stephanieboluk.com/teaching/HMS540F13/blog/?page_id=2) for Metagames calls attention to the playfullest of playful games, including avant-garde videogames, art videogames, and what Boluk calls "eccentric" games. A PDF version of [the syllabus](http://stephanieboluk.com/teaching/HMS540F13/docs/HMS540-Metagames_Syllabus.pdf) is also available.
+Metagames is a course about games about games. While metafiction is a staple of postmodern literature, it is less common to think about  videogames—and by extension, play—in these terms. Boluk's syllabus provides a theoretical frame for thinking about play in unfamiliar contexts, including the practices and counter-practices of play. The [reading schedule](http://stephanieboluk.com/teaching/HMS540F13/blog/?page_id=2) for Metagames calls attention to the playfullest of playful games, including avant-garde videogames, art videogames, and what Boluk calls "eccentric" games. A PDF version of [the syllabus](http://stephanieboluk.com/teaching/HMS540F13/docs/HMS540-Metagames_Syllabus.pdf) is available. The subject of Boluk's course is also grist for her book with Patrick LeMieux, [*Metagaming*](https://www.upress.umn.edu/book-division/books/metagaming) (2017). The University of Minnesota has made an online [open access version of Metagaming](http://staging.manifoldapp.org/project/fcc2bb4d-6a16-4fca-b6de-490dd4bd49da) available on Manifold, its digital publishing platform.
 
 ## Related Materials
-
-Davies, Russell. “Playful.” 9 Nov. 2009. Web. 5 May 2010. [<http://russelldavies.typepad.com/planning/2009/11/playful.html>](http://russelldavies.typepad.com/planning/2009/11/playful.html).
 
 Kee, Kevin, ed. *Pastplay: Teaching and Learning History with Technology.* Digital Culture Books. Ann Arbor: University of Michigan Press, 2014. Web. [<http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12544152.0001.001;rgn=full%20text;view=toc;xc=1;g=dculture>](http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12544152.0001.001;rgn=full%20text;view=toc;xc=1;g=dculture).
 
 Flanagan, Mary. *Critical Play: Radical Game Design.* Cambridge, Mass: MIT Press, 2009. Print.
-
-PBS Digital Studios. *The Art of Glitch.* Off Book. 2012. Film. 1 Sept. 2015. [<https://youtu.be/gr0yiOyvas4>](https://youtu.be/gr0yiOyvas4).
-
-Phillips, Amanda. "Thoughts on Teaching Literature and Gaming." HASTAC. 20 Oct. 2010. Web. 1 Oct. 2015. [https://www.hastac.org/blogs/amanda-phillips/2010/10/20/thoughts-teaching-literature-and-gaming>](https://www.hastac.org/blogs/amanda-phillips/2010/10/20/thoughts-teaching-literature-and-gaming).
 
 Salen, Katie, and Eric Zimmerman. *Rules of Play: Game Design Fundamentals*. Cambridge, Mass.: MIT Press, 2004. Print.
 
@@ -180,82 +175,72 @@ Salen, Katie, and Eric Zimmerman. *The Game Design Reader: A Rules of Play Antho
 
 Salter, Anastasia. "Games in the Classroom." *Profhacker.* 2011. Web. 1 Aug. 2015. [<http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-1/35596>](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-1/35596), [<http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-2/36075>](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-2/36075), [<http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-3/36217>](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-3/36217), [<http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-4/36294>](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-4/36294).
 
-Sawyer, R. Keith. *Explaining Creativity: The Science of Human Innovation.* Oxford University Press, USA, 2011. Print.
-
-Sheldon, Lee. "Gaming the Classroom Syllabus." Indiana University, Bloomington. 2010. Web. 1 Aug. 2015. [<https://gamingtheclassroom.wordpress.com/syllabus/>](https://gamingtheclassroom.wordpress.com/syllabus/).
-
 ## Works Cited
 
-Abelson, Hal, Ken Ledeen, and Harry Lewis. *Blown to Bits: Your Life, Liberty, and Happiness After the Digital Explosion*. Upper Saddle River, NJ: Addison-Wesley, 2008. Print.
+Abelson, Hal, et al. *Blown to Bits: Your Life, Liberty, and Happiness After the Digital Explosion.* Addison-Wesley, 2008.
 
-Anthropy, Anna. *Rise of the Videogame Zinesters: How Freaks, Normals, Amateurs, Artists, Dreamers, Dropouts, Queers, Housewives, and People Like You Are Taking Back an Art Form.* New York: Seven Stories Press, 2012. Print.
+Anthropy, Anna. *Rise of the Videogame Zinesters: How Freaks, Normals, Amateurs, Artists, Dreamers, Dropouts, Queers, Housewives, and People Like You Are Taking Back an Art Form.* Seven Stories Press, 2012.
 
-Anthropy, Anna. "How to Make Games with Twine." auntiepixelante.com. Web. 1 Oct. 2015. [<http://www.auntiepixelante.com/twine/>](http://www.auntiepixelante.com/twine/).
+Anthropy, Anna. "How to Make Games with Twine." *Auntie Pixelante*, 5 Sept. 2007, [http://www.auntiepixelante.com/twine/](http://www.auntiepixelante.com/twine/).
 
-Bogost, Ian. "The Proceduralist Style." Gamasutra. 21 Jan. 2009. Web. 1 Feb. 2009.
+Bogost, Ian. “The Proceduralist Style.” *Gamasutra*, 21 Jan. 2009, [http://www.gamasutra.com/view/feature/3909/persuasive_games_the_.php?print=1](http://www.gamasutra.com/view/feature/3909/persuasive_games_the_.php?print=1).
 
-Bogost, Ian. *Alien Phenomenology, Or, What It’s Like to Be a Thing.* Minneapolis: University of Minnesota Press, 2012. Print.
+Bogost, Ian. *Alien Phenomenology, Or, What It’s Like to Be a Thing.* University of Minnesota P, 2012.
 
-Boluk, Stephanie. "Metagames: Games about Games and the Practice of Play." HMS 540, Pratt Institute. 2013. Web. 1 Aug. 2015.
+Boluk, Stephanie. "Metagames: Games about Games and the Practice of Play." *HMS 540. Fall 2013*, [http://stephanieboluk.com/teaching/HMS540F13/blog/?page_id=2](http://stephanieboluk.com/teaching/HMS540F13/blog/?page_id=2).
 
-Brown, James, Jr. "Game Design Project." Inter-L&S 102: Writing and Coding. 2012. Web. 1 Aug. 2015. [<http://courses.jamesjbrownjr.net/node/3372>](http://courses.jamesjbrownjr.net/node/3372).
+Boluk, Stephanie, and Patrick LeMieux. *Metagaming: Playing, Competing, Spectating, Cheating, Trading, Making, and Breaking Videogames.* University of Minnesota P, 2017.
 
-Caillois, Roger. *Man, Play, and Games.* Trans. Meyer Barash. New York: The Free Press, 2003. Print.
+Brown, James, Jr. "Game Design Project." *Inter-L&S 102: Writing and Coding*, 2012, [http://courses.jamesjbrownjr.net/node/3372](http://courses.jamesjbrownjr.net/node/3372).
 
-Csikszentmihalyi, Mihaly. *Flow.* Harper Collins, 2009. Print.
+Caillois, Roger. *Man, Play, and Games.* Trans. Meyer Barash. The Free Press, 2003.
 
-Davies, Russell. “Playful.” 9 Nov. 2009. Web. 5 May 2010. [<http://russelldavies.typepad.com/planning/2009/11/playful.html>](http://russelldavies.typepad.com/planning/2009/11/playful.html).
+Csikszentmihalyi, Mihaly. *Flow.* Harper Collins, 2009.
 
 Drucker, Johanna, Jerome McGann, Bethany Nowviskie, and the Scholars' Lab. *Ivanhoe*. Charlottesville, VA, 2014.
 
-Ellison, Cara. "Anna Anthropy and the Twine Revolution." *The Guardian* 10 Apr. 2013. Web. 11 Oct. 2015.
+Ellison, Cara. “Anna Anthropy and the Twine Revolution.” *The Guardian*, 10 Apr. 2013, [http://www.theguardian.com/technology/gamesblog/2013/apr/10/anna-anthropy-twine-revolution](http://www.theguardian.com/technology/gamesblog/2013/apr/10/anna-anthropy-twine-revolution).
 
-Flanagan, Mary. *Critical Play: Radical Game Design.* Cambridge, Mass: MIT Press, 2009. Print.
+Flanagan, Mary. *Critical Play: Radical Game Design.* MIT P, 2009.
 
-Gee, James Paul. *What Video Games Have to Teach Us About Learning and Literacy.* 2nd ed. New York: Macmillan, 2003. Print.
+Gee, James Paul. *What Video Games Have to Teach Us About Learning and Literacy.* 2nd ed. Macmillan, 2003.
 
-Haraway, Donna. "A Cyborg Manifesto." *Simians, Cyborgs, and Women: The Reinvention of Nature*. New York, NY: Routledge, 1991. 149–182. Print.
+Haraway, Donna. "A Cyborg Manifesto." *Simians, Cyborgs, and Women: The Reinvention of Nature*. Routledge, 1991, pp. 149–182.
 
-Huizinga, Johan. *Homo Ludens: A Study of the Play-Element in Culture.* London: Routledge and Kegan Paul, 1949. Print.
+Huizinga, Johan. *Homo Ludens: A Study of the Play-Element in Culture.* Routledge and Kegan Paul, 1949.
 
-Kee, Kevin, ed. *Pastplay: Teaching and Learning History with Technology.* Digital Culture Books. Ann Arbor: University of Michigan Press, 2014. Web. [<http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12544152.0001.001;rgn=full%20text;view=toc;xc=1;g=dculture>](http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12544152.0001.001;rgn=full%20text;view=toc;xc=1;g=dculture).
+Kee, Kevin, ed. *Pastplay: Teaching and Learning History with Technology.* Digital Culture Books. University of Michigan Press, 2014. [http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12544152.0001.001;rgn=full%20text;view=toc;xc=1;g=dculture](http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12544152.0001.001;rgn=full%20text;view=toc;xc=1;g=dculture).
 
-LaFleur, Liss. "Hack for Humanities." THATCamp Piedmont. 2014. Web. 1 Aug. 2015. [<https://docs.google.com/presentation/d/15t6hjDLGZR_slg-6ztVqDF21buk_1eeUmfqnBTph5VY/pub?start=true&loop=false&delayms=5000#slide=id.p3>](https://docs.google.com/presentation/d/15t6hjDLGZR_slg-6ztVqDF21buk_1eeUmfqnBTph5VY/pub?start=true&loop=false&delayms=5000#slide=id.p3).
+LaFleur, Liss. "Hack for Humanities." THATCamp Piedmont, 2014,  [https://docs.google.com/presentation/d/15t6hjDLGZR_slg-6ztVqDF21buk_1eeUmfqnBTph5VY/pub?start=true&loop=false&delayms=5000#slide=id.p3](https://docs.google.com/presentation/d/15t6hjDLGZR_slg-6ztVqDF21buk_1eeUmfqnBTph5VY/pub?start=true&loop=false&delayms=5000#slide=id.p3). Accessed 1 Aug. 2015.
 
-Owens, Trevor. "Glitching Files for Understanding: Avoiding Screen Essentialism in Three Easy Steps." The Signal. 5 Nov. 2012. Web. 11 Oct. 2015. [<http://blogs.loc.gov/digitalpreservation/2012/11/glitching-files-for-understanding-avoiding-screen-essentialism-in-three-easy-steps/>](http://blogs.loc.gov/digitalpreservation/2012/11/glitching-files-for-understanding-avoiding-screen-essentialism-in-three-easy-steps/).
+Owens, Trevor. "Glitching Files for Understanding: Avoiding Screen Essentialism in Three Easy Steps." *The Signal,* 5 Nov. 2012, [http://blogs.loc.gov/digitalpreservation/2012/11/glitching-files-for-understanding-avoiding-screen-essentialism-in-three-easy-steps/](http://blogs.loc.gov/digitalpreservation/2012/11/glitching-files-for-understanding-avoiding-screen-essentialism-in-three-easy-steps/).
 
-Phillips, Amanda. "ENGL 165LG: Literature and Gaming." 2012. Web. 1 Aug. 2015. [<http://engl165lg.wordpress.com/>](http://engl165lg.wordpress.com/).
+Phillips, Amanda. "ENGL 165LG: Literature and Gaming." 2012, [http://engl165lg.wordpress.com/](http://engl165lg.wordpress.com/). Accessed 1 Aug. 2015.
 
-Phillips, Amanda. "Thoughts on Teaching Literature and Gaming." HASTAC. 20 Oct. 2010. Web. 1 Oct. 2015. [<https://www.hastac.org/blogs/amanda-phillips/2010/10/20/thoughts-teaching-literature-and-gaming>](https://www.hastac.org/blogs/amanda-phillips/2010/10/20/thoughts-teaching-literature-and-gaming).
+Phillips, Amanda. "Thoughts on Teaching Literature and Gaming." *HASTAC*, 20 Oct. 2010,  [https://www.hastac.org/blogs/amanda-phillips/2010/10/20/thoughts-teaching-literature-and-gaming](https://www.hastac.org/blogs/amanda-phillips/2010/10/20/thoughts-teaching-literature-and-gaming).
 
-PBS Digital Studios. *The Art of Glitch.* Off Book. 2012. Film. 1 Sept. 2015. [<https://youtu.be/gr0yiOyvas4>](https://youtu.be/gr0yiOyvas4).
+Pope, Rob. *Textual Intervention: Critical and Creative Strategies for Literary Studies.* Routledge, 1994.
 
-Pope, Rob. *Textual Intervention: Critical and Creative Strategies for Literary Studies.* London: Routledge, 1994. Print.
+Ramsay, Stephen. *Reading Machines: Toward and Algorithmic Criticism.* University of Illinois P, 2011.
 
-Ramsay, Stephen. *Reading Machines: Toward and Algorithmic Criticism.* University of Illinois Press, 2011. Print.
+Ratto, Matt. “Critical Making: Conceptual and Material Studies in Technology and Social Life.” *The Information Society*, vol. 27, no. 4, 2011, pp. 252–260.
 
-Ratto, Matt. “Critical Making: Conceptual and Material Studies in Technology and Social Life.” *The Information Society* 27.4 (2011): 252–260. Web.
+Richardson, Virginia. "Constructivist Pedagogy." *The Teachers College Record*, vol. 105, no. 9, 2003, pp. 1623–1640.
 
-Richardson, Virginia. "Constructivist Pedagogy." *The Teachers College Record* 105.9 (2003): 1623–1640. Print.
+Salen, Katie, and Eric Zimmerman. *Rules of Play: Game Design Fundamentals*. MIT P, 2004.
 
-Salen, Katie, and Eric Zimmerman. *Rules of Play: Game Design Fundamentals*. Cambridge, Mass.: MIT Press, 2004. Print.
+Salen, Katie, and Eric Zimmerman. *The Game Design Reader: A Rules of Play Anthology.* MIT P, 2006.
 
-Salen, Katie, and Eric Zimmerman. *The Game Design Reader: A Rules of Play Anthology.* Cambridge, Mass.: MIT Press, 2006. Print.
+Salter, Anastasia Salter. "Games in the Classroom." *Profhacker*, 2011,  [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-1/35596](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-1/35596), [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-2/36075](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-2/36075), [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-3/36217](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-3/36217), [http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-4/36294](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-4/36294). Accessed 1 Aug. 2015.
 
-Salter, Anastasia Salter. "Games in the Classroom." *Profhacker.* 2011. Web. 1 Aug. 2015. [<http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-1/35596>](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-1/35596), [<http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-2/36075>](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-2/36075), [<http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-3/36217>](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-3/36217), [<http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-4/36294>](http://chronicle.com/blogs/profhacker/games-in-the-classroom-part-4/36294).
+Samuels, Lisa, and Jerome McGann. "Deformance and Interpretation." *New Literary History*, vol. 30, no. 1, 1999, pp. 25–56.
 
-Samuels, Lisa, and Jerome McGann. "Deformance and Interpretation." *New Literary History* 30.1 (1999): 25–56. Print.
+Sansing, Chad. “SLJ Reviews the MaKey MaKey.” *School Library Journal*, 17 Apr. 2015,  [http://www.slj.com/2015/04/opinion/test-drive/slj-reviews-the-makey-makey-test-drive/](http://www.slj.com/2015/04/opinion/test-drive/slj-reviews-the-makey-makey-test-drive/).
 
-Sansing, Chad. “SLJ Reviews the MaKey MaKey.” *School Library Journal.* 17 Apr. 2015. Web. 31 July 2015. [<http://www.slj.com/2015/04/opinion/test-drive/slj-reviews-the-makey-makey-test-drive/>](http://www.slj.com/2015/04/opinion/test-drive/slj-reviews-the-makey-makey-test-drive/).
+Scholars' Lab. *Ivanhoe*. University of Virginia, 2014,  [http://ivanhoe.scholarslab.org/index.html](http://ivanhoe.scholarslab.org/index.html).
 
-Sawyer, R. Keith. *Explaining Creativity: The Science of Human Innovation.* Oxford University Press, USA, 2011. Print.
+Sennett, Richard. *The Craftsman.* Yale University P, 2008.
 
-Scholars' Lab. *Ivanhoe*. University of Virginia. 2014. Web. 1 Aug. 2015. [<http://ivanhoe.scholarslab.org/index.html>](http://ivanhoe.scholarslab.org/index.html).
+Woodward, Tom. "Spreadsheet Invasion." *DS106 Assignment Bank*,  [http://assignments.ds106.us/assignments/spreadsheet-invasion/](http://assignments.ds106.us/assignments/spreadsheet-invasion/). Accessed 1 Oct. 2015.
 
-Sennett, Richard. *The Craftsman.* New Haven: Yale University Press, 2008. Print.
-
-Sheldon, Lee. "Gaming the Classroom Syllabus." Indiana University, Bloomington. 2010. Web. 1 Aug. 2015. [<https://gamingtheclassroom.wordpress.com/syllabus/>](https://gamingtheclassroom.wordpress.com/syllabus/).
-
-Woodward, Tom. "Spreadsheet Invasion." DS106 Assignment Bank. Web. 1 Oct. 2015. [<http://assignments.ds106.us/assignments/spreadsheet-invasion/>](http://assignments.ds106.us/assignments/spreadsheet-invasion/).
-
-Whalen, Zach. "How to Make a Twitter Bot with Google Spreadsheets (Version 0.4)." zachwhalen.net. 17 May 2015. Web. 1 Aug. 2015. [<http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/>](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/).
+Whalen, Zach. "How to Make a Twitter Bot with Google Spreadsheets (Version 0.4)." *zachwhalen.net*, 17 May 2015,  [http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/).

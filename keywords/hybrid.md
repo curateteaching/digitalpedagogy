@@ -81,7 +81,7 @@ The keyword "hybrid" suggests a methodology for teachers to employ in constructi
 This assignment offers a guide to having students contribute to Wikipedia. Orienting students to the back-end of Wikipedia helps them think critically about networked communities and knowledge construction on the Web. In Fall 2014, Adeline Koh incorporated this activity into her hybrid [Feminist Theory Seminar](http://www.adelinekoh.org/blog/2014/08/20/syllabus-draft-gis-3614-seminar-in-feminist-theory-fall-2014/) as a major project aimed at improving “conceptual skills, critical thinking, and oral and written communication.” She contextualized the assignment within a discussion of how women are represented within the Encyclopedia, and how this representation is driven (or exactly not driven) by the dearth of female contributors. Asking students to write and rewrite Wikipedia encourages them to engage directly in public scholarship. Even if their revisions don’t *stick*, this work invites a critical discussion of agency that moves well beyond the too often closed space of a physical classroom.
 
 ### "Introduction to Digital Studies"
-![screenshot]
+![screenshot](images/hybrid-Intro-Digital-Studies.png)
 
 * Artifact Type: Course sites
 * Source URL: <https://digitalstudies.pushpullfork.com/Home>
