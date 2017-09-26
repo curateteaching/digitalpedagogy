@@ -24,7 +24,8 @@ Portland State University | [English Department - Book Publishing](http://publis
 * unreviewed draft
 * draft version undergoing editorial review
 * draft version undergoing peer-to-peer review
-* **awaiting pre-print copy**
+* **draft version undergoing MLA copyediting**
+* awaiting pre-print copy
 * published 
 
 ---
