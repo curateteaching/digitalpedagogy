@@ -89,7 +89,7 @@ The goal of *IVANHOE*, Johanna Drucker explains, was to offer “a model digital
 #### Teju Cole, “Seven Stories About Drones”
 ![screenshot](images/fiction_drone-stories.png)
 
-* Source URL: [http://thenewinquiry.com/blogs/dtake/seven-short-stories-about-drones/](http://thenewinquiry.com/blogs/dtake/seven-short-stories-about-drones/)
+* Source URL: [https://thenewinquiry.com/blog/seven-short-stories-about-drones/](https://thenewinquiry.com/blog/seven-short-stories-about-drones/)
 * Type: Text
 * Creator: Teju Cole
 
@@ -109,8 +109,7 @@ In this article, Annie Swafford describes teaching a DH course centered around s
 #### Rise of the Novel Syllabus
 ![screenshot](./images/fiction_buurma_rise-of-the-novel.png)
 
-* Source URL: [https://github.com/rbuurma/rise-2015/blob/master/rise_2015_syllabus.md](https://github.com/rbuurma/rise-2015/blob/master/rise_2015_syllabus](https://github.com/rbuurma/rise-2015/blob/master/rise_2015_syllabus.md](https://github.com/rbuurma/rise-2015/blob/master/rise_2015_syllabus)
-
+* Source URL: [https://github.com/rbuurma/rise-2015/blob/master/Syllabus/rise_2015_syllabus.md](https://github.com/rbuurma/rise-2015/blob/master/Syllabus/rise_2015_syllabus.md)
 * Type: Syllabus
 * Creator: [Rachel Sagner Buurma](http://rachelsagnerbuurma.org/) (Swarthmore College)
 
@@ -120,7 +119,7 @@ This syllabus integrates a variety of digital tools (including Named Entity Reco
 
 The syllabuses readings and activities provide a model for how to integrate digital tools alongside more conventional activities (e.g. close reading, descriptive bibliography).
 
-#### Typical TV Episodes: Visualizing Topics in Screen Time
+#### Fundamental Plot Arcs, Seen Through Multidimensional Analysis of thousands of TV and Movie Scripts
 ![screenshot](./images/fiction_schmidt_phrase-i-love-you.png)
 
 * Source URL: [http://sappingattention.blogspot.com/2014/12/fundamental-plot-arcs-seen-through.html](http://sappingattention.blogspot.com/2014/12/fundamental-plot-arcs-seen-through.html)
@@ -159,9 +158,13 @@ Jockers, Matthew. “Revealing Sentiment and Plot Arcs with the Syuzhet Package.
 
 Auden, W. H. “The Guilty Vicarage.” *The Critical Performance*. Ed. Stanley Edgar Hyman. Vintage Books, 1956, pp. 301-314.
 
+Buurma, Rachel Sagner. "Rise of the Novel Syllabus." Fall 2015. <https://github.com/rbuurma/rise-2015/blob/master/rise_2015_syllabus.md>.
+
 Cole, Teju. “A Piece of the Wall.” Web. [<https://twitter.com/tejucole/timelines/444262126954110977>](https://twitter.com/tejucole/timelines/444262126954110977)
 
 ———. “Hafiz.” Web. [<https://twitter.com/tejucole/timelines/437242785591078912?lang=en>](https://twitter.com/tejucole/timelines/437242785591078912?lang=en)
+
+———. "Seven Short Stories About Drones." *The New Inquiry*. Jan 14, 2013. <https://thenewinquiry.com/blog/seven-short-stories-about-drones/>
 
 Dalen-Oskam, Karina van. “Names in Novels: An Experiment in Computational Stylistics.” *Literary and Linguist Computing* (2013) 28 (2): 359-370 first published online March 9, 2012 doi:10.1093/llc/fqs007
 [<http://llc.oxfordjournals.org/content/28/2/359.abstract>](http://llc.oxfordjournals.org/content/28/2/359.abstract)
@@ -171,6 +174,8 @@ Drucker, Johanna. “2.2 Ivanhoe.” *SpecLab: Digital Aesthetics and Projects i
 ———. “Humanities Approaches to Graphical Display.” *Digital Humanities Quarterly*, vol. 5, no. 1, 2011. [<http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html>](http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html)
 
 Egan, Jennifer. “Black Box.” *New Yorker*. June 4 and 11, 2012. Web. [<http://www.newyorker.com/magazine/2012/06/04/black-box-2>](http://www.newyorker.com/magazine/2012/06/04/black-box-2) 
+
+Harris, Kathleen. "*Frankenstein* Digital Edition Assignment." Dec 17, 2009.  <http://www.sjsu.edu/faculty/harris/TechnoRom_F09/Assignments.htm#FinalProj>.
 
 Liu, Alan. “From Reading to Social Computing.” *Literary Studies in the Digital Age: An Evolving Anthology*. 2013, 
 [<https://dlsanthology.commons.mla.org/from-reading-to-social-computing/>](https://dlsanthology.commons.mla.org/from-reading-to-social-computing/)
@@ -185,6 +190,20 @@ Moretti, Franco. “The Slaughterhouse of Literature.” *MLQ: Modern Language Q
 
 Piper, Andrew. “Novel Devotions: Conversional Reading, Computational Modeling, and the Modern Novel.” *New Literary History*, vol. 46, no. 1, Winter 2015. pp 63-98.
 
+Ryback, Chuck. "Character Networks in Gephi (or Word, for the Low-Fi Lovers)." *Sad Iron*. <http://chuckrybak.com/characters-networks-in-gephi-or-word-for-the-low-fi-lovers/>.
+
+Scholars Lab. *IVANHOE*. <http://ivanhoe.scholarslab.org/>.
+
+Schmidt, Ben. "Fundamental plot arcs, seen through multidimensional analysis of thousands of TV and movie scripts." *Sapping Attention*. Dec 16, 2014. <http://sappingattention.blogspot.com/2014/12/fundamental-plot-arcs-seen-through.html>.
+
 Spiegelman, Art. “A Problem of Taxonomy.” *New York Times* Dec 29, 1991. ProQuest. Web.
+
+Swafford, Annie. "Teaching Literature Through Technology: Sherlock Holmes and Digital Humanities." *The Journal of Interactive Technology and Pedagogy* 9. June 16, 2016. <http://jitp.commons.gc.cuny.edu/teaching-literature-through-technology-sherlock-holmes-and-digital-humanities/>.
+
+Tanigawa, Katie. "Visualizing a Changing Nostromo." *Conrad First: The Joseph Conrad Periodical Archive*. <http://www.conradfirst.net/conrad/scholarship/authors/tanigawa>.
+
+txtLab. "txtlab Multilingual Novels [txtLAB450]." Jan 28, 2016. <http://txtlab.org/?p=601> 
+
+Visconti, Amanda, ed. *Infinite Ulysses.* <http://www.infiniteulysses.com/>.
 
 Zhang, Sarah. “Teju Cole on the ‘Empathy Gap’ and Tweeting Drone Strikes.” *Mother Jones*. March 6, 2013. Web. [<http://www.motherjones.com/media/2013/03/teju-cole-interview-twitter-drones-small-fates>](http://www.motherjones.com/media/2013/03/teju-cole-interview-twitter-drones-small-fates)
