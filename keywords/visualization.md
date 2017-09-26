@@ -46,6 +46,15 @@ The last set of questions have to do with thinking about visualizations as human
 
 ## CURATED ARTIFACTS 
 
+The curated artifacts below are grouped into two categories:
+
+1. *Concepts & Foundations*: these are resources that provide a theoretical and historical grounding for visualization, particularly in a humanistic context.
+1. *Tools for Creating Visualizations*: these are user-friendly web-based tools that facilitate experimentation with visualizing data.
+
+The sequential organization of artefacts into these two categories should not discourage liberal interweaving of them, where concepts are introduced and reinforced through experimentation with the tools. Proficiency with visualization — as consumers or as creators — is best accomplished through a symbiosis of theory and practice.
+
+### Concepts & Foundations
+
 #### “What is Visualization?”
 
 ![VisualSense by Lev Manovich](images/visualization-VisualSense.png)
@@ -56,7 +65,7 @@ The last set of questions have to do with thinking about visualizations as human
 
 This article provides a useful on-ramp for defining some aspects of information visualization, or *infovis* as it is commonly abbreviated. Manovich situates infovis in relation to other fields such as scientific visualization and information design, while also recognizing that the distinctions are sometimes fuzzy. Two core principles of information visualization are discussed in more depth: 1) *reduction* (ignoring details of individual items in favour of representing patterns from a subset of characteristics); and 2) *spaciality* (using variables such as position, size, shape, and movement). Manovich argues that the explosive development of computer graphics during the past two decades has enabled visualization without reduction, or what he calls “direct” or “media” visualization: items individual items are represented in some recognizable form instead of abstract representations like dots on a graph.
 
-Students can be asked to navigate through several galleries of visualizations (see “Related Materials”) and identify 5 examples of direct visualizations while thinking about the advantages and disadvantages of this technique.
+This article helpfully compiles several well-known and rather sophisticated visualizations that use data from various domains. While the examples may be inspiring they may also be intimidating. A useful preliminary exercise is to ask students to begin considering how their objects of study (digital texts, musical scores, collection of images, etc.) might produce data: what can be counted, compared, associated and otherwise represented? Students can then be asked to navigate through several galleries of visualizations (see “Related Materials”) and identify 5 examples of visualizations that might fit their data (without worrying for now about the practicalities of actually producing or representing the data).
  
 #### “Humanities Approaches to Graphical Display”
 
@@ -68,7 +77,12 @@ Students can be asked to navigate through several galleries of visualizations (s
 
 Johanna Drucker’s article is an excellent way of framing epistemological issues of visualization in the humanities. She urges us to rethink the notion of *data* as what is given and instead think of *capta* as what is taken and constructed. Drucker argues that this move will lead us to forms of graphical expression that are more nuanced and truer to humanistic perspectives on knowledge. By providing examples of how to reconceptualize visualizations such as bar charts, timelines, and maps, Drucker shows how every aspect of visualization is subject to interpretation, even though most visualizations mask the uncertainty and the decision-making processes.
 
-In discussing this article it may be useful to provide some philosophical context for subjectivity and epistemology, especially with respect to cultural interpretation. A useful exercise is to provide students a conventional example of data visualization and have them imagine how it might be reworked to expose how the interpretative act of visualization—how the data was captured, manipulated, by who and for whom.
+In discussing this article it may be useful to provide some philosophical context for subjectivity and epistemology. While wanting to avoid an over-simplified binary, Drucker does distinguish between empirical *sciences* and interpretive *humanities*: it is well worth having students explore how they understand these two cultures of knowledge (see Snow).
+
+Drucker's article is effective in pointing out two important moments in working with visualizations, each of which can have an associated exercise:
+
+1. *Gathering Data/Capta*: we make choices (consciously or not) about what data are gathered and how they are expressed as values. Students might be asked to gather (or even invent) data about some aspect of student life (such as the frequency of weekly visits to coffee shops by various measures like academic major), noting some of the choices and nuances along the way.
+1. *Representation*: choices are made about how to represent data. Students might be asked to create a couple of hand-drawn sketches, a first one that is more conventional (such as a simple bar chart) and a second one that expresses more of the nuance and subjectivity of the data.
 
 #### “Information Visualization for Humanities Scholars”
 
@@ -80,16 +94,6 @@ In discussing this article it may be useful to provide some philosophical contex
 
 This article explores information visualization for the specific purposes of humanities scholarship. Given that the humanities value original and persuasive arguments, the value of individual visualizations can be assessed by determining how well they promote the proliferation of perspectives. This is partly why interactive interfaces can be so enriching for humanities scholarship: they’re conducive to exploration and co-creation. Based largely on the authors’ visualization prototyping work, the article reviews a range of visualization archetypes including 1) Browsing by Grouping; 2) Revealing Features; Time and Space; Typographic Form; and Interactive Glyphs. The article focuses on humanities scholarship, it can be interesting to ask students to think through how applicable the article is to other disciplines and/or outside of academia.
 
-#### “Visualizing Information for Advocacy”
-
-![Screenshot of visualisingadvocacy.org](images/visualization-Advocacy.png)
-
-* Artifact Type: Website including open access book
-* Source: [http://visualisingadvocacy.org/](http://visualisingadvocacy.org/)
-* Creators: Maya Indira Ganesh, Stephanie Hankey, Tom Longley and Marek Tuszynski
-
-This is a rich website that provides a wide range of resources from guidance on [working with data](http://visualisingadvocacy.org/working-data) to a list of [visualization tools](http://visualisingadvocacy.org/resources/visualisationtools). There is also an [open access book](http://visualisingadvocacy.org/getbook) that discusses visual rhetoric and—based on several case studies—guides the reader through the stages of a project from getting an idea and constructing a dataset to developing a visualization and disseminating it. Though the book may not place as much emphasis on interpretation as Drucker (see previous item), it does insist on creativity, rhetoric, and audiences. It also bridges visual information design and activism in ways that will resonate with anyone interested in the public humanities. Students can be asked to read the book while starting a list of possible social causes that could interest them for a course project.
-
 #### “The Ethics of Visualization”
 
 ![Screenshot of video of Chris Alen Sula](images/visualization-Sula.png)
@@ -99,6 +103,28 @@ This is a rich website that provides a wide range of resources from guidance on 
 * Creator and Affiliation: Chris Alen Sula
 
 This is a video of a talk given by Chris Alen Sula that starts with a brief but useful history of visualization.  He makes the point that ethics aren’t often addressed in discussions of visualization, especially in the academic context. Sula proposes that useful groundwork for an ethics of visualization can be provided by 1) speech act theory, 2) role-based morality, and most powerfully 3) general ethics frameworks. The talk unpacks each of these and provides several useful perspectives for thinking about the ethics of visualization, particularly in the context of the Digital Humanities.
+
+Sula's video provides a welcome (and relatively rare) reminder of ethical dimensions to visualization work, for the digital humanities and beyond. A productive exercise is to have students watch the video in advance and then to form into small groups to compare notes about ethical issues raised by Sula. Students might be asked to further reflect on who bears ethical responsibility, from creators to sonsumers of visualizations. Why are such questions important for a visually-oriented digital society?
+
+#### “Visualizing Information for Advocacy”
+
+![Screenshot of visualisingadvocacy.org](images/visualization-Advocacy.png)
+
+* Artifact Type: Open access book
+* Source: [http://visualisingadvocacy.org/getbook](http://visualisingadvocacy.org/getbook)
+* Creators: Maya Indira Ganesh, Stephanie Hankey, Tom Longley and Marek Tuszynski
+
+This freely available [open access book](http://visualisingadvocacy.org/getbook) focuses on the potential of visualization for advocacy and intervention through well-planned projects (and it builds nicely on the previous artefact on ethics and visualization). In particular, the book discusses visual rhetoric and — based on several case studies — guides the reader through the stages of a project from getting an idea and constructing a dataset to developing a visualization and disseminating it. Though the book may not place as much emphasis on interpretation as Drucker's article, it does insist on creativity, rhetoric, and audiences. It also bridges visual information design and activism in ways that will resonate with anyone interested in the public humanities.
+
+The book has a rich companion website that provides a wide range of resources from guidance on [working with data](http://visualisingadvocacy.org/working-data) to a list of [visualization tools](http://visualisingadvocacy.org/resources/visualisationtools).
+
+The book's final chapter is entitled "Putting it into Practice" and provides a framework that students can use as they imagine and plan a hypothetical advocacy campaign with visualization. In particular, students are asked to answer the following questions, though it is important to emphasize the purpose of trying to answer the questions rather than getting bogged down by practical considerations:
+
+1. What is the aim?
+1. What is the benchmark you are trying to reach?
+1. Who will get you there?
+1. How are you going to do it?
+1. How will you implement the visual campaign?
 
 #### “Studies in Communication and Culture: Data”
 
@@ -111,6 +137,8 @@ This is a video of a talk given by Chris Alen Sula that starts with a brief but 
 Though not solely on visualization, Lauren Klein’s syllabus touches on a many essential topics related to uses of data in the digital humanities. Several topics explore the relationship between facts and data, there’s an overview of major kinds of visualization, and she addresses cultural and social issues that arise from data (from art to surveillance). Interspersed with the academic readings are several excerpts of fiction, such as *Minority Report*, *The Matrix*, and *Gattaca*.
 
 Klein has also explored the way the history of visualization has been presented and alternative histories. A [talk she gave to the 3DH project is here](https://lecture2go.uni-hamburg.de/l2go/-/get/v/19629) where she talked about the [Speculative Designs project](http://dhlab.lmc.gatech.edu/speculative-designs/) which is recovering the work of Elizabeth Peabody. There is a prototype that lets students build Peabody mural charts. This project creates a context for discussing the stories told about visualization.
+
+### Tools for Creating Visualizations
 
 #### “Infogr.am”
 
