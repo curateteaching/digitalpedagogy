@@ -66,7 +66,7 @@ These Interface assignments address a wide spectrum of student readiness and ins
 “The candle is a non-textual medium that has profoundly affected the texts we have inherited from previous generations," observes Ryan Cordell.  Undergraduates in his "Technologies of Text" course write with quills and ink for one class period in the dark at a table lit by candles. A fire marshal with an extinguisher at his hip monitors the scrivening, which is held in a windowless, enclosed room.  Students discover that bookmaking is a laborious process when they transcribe a text of their choice from the *Norton Anthology.*  Hands cramp.  Eyes strain.  Backs tire. Ink might get knocked over. This assignment historicizes the physical labor of writing.  Just as with hand-coding websites, scrivening prompts interface awareness.
 <!-- #2  -->
 ### Close Reading *House of Leaves* using collage and Tumblr
-![screenshot](images/interface-tumblr-douglass-hol.png)
+![screenshot](images/interface-HoL-Douglass-Pokornowski.png)
 
 * Source URL: <http://english10introductiontolit.tumblr.com>
 * Copy of Artifact: [files/interface-Douglass-Pok-ENGL-10-HoL-Remix.pdf](files/interface-Douglass-Pok-ENGL-10-HoL-Remix.pdf)
