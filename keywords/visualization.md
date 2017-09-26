@@ -136,7 +136,7 @@ The book's final chapter is entitled "Putting it into Practice" and provides a f
 * Source URL: [http://lkleincourses.lmc.gatech.edu/data13/schedule/](http://lkleincourses.lmc.gatech.edu/data13/schedule/)
 * Creator and Affiliation: Lauren Klein (Georgia Tech)
 
-Though not solely on visualization, Lauren Klein’s syllabus touches on a many essential topics related to uses of data in the digital humanities. Several topics explore the relationship between facts and data, there’s an overview of major kinds of visualization, and she addresses cultural and social issues that arise from data (from art to surveillance). Elsewhere Klein has also explored the way the history of visualization has been presented and possible alternative histories (see for instance her [talk to the 3DH project](https://lecture2go.uni-hamburg.de/l2go/-/get/v/19629) where she examines the [Speculative Designs project](http://dhlab.lmc.gatech.edu/speculative-designs/) which is recovering the work of Elizabeth Peabody).
+Though not solely on visualization, Lauren Klein’s syllabus touches on a many essential topics related to uses of data in the digital humanities. Several topics explore the relationship between facts and data, there’s an overview of major kinds of visualization, and she addresses cultural and social issues that arise from data (from art to surveillance). Elsewhere Klein has also explored the way the history of visualization has been presented and possible alternative histories (see for instance her [talk to the 3DH project](https://lecture2go.uni-hamburg.de/l2go/-/get/v/19629)).
 
 Interspersed with the academic readings of the syllabus are several excerpts of fiction, such as *Minority Report*, *The Matrix*, and *Gattaca*. Students might be asked to reflect, with specific examples, on how data visualization depicted in popular culture might influence how we consider visualization for research and teaching in the humanities.
 
@@ -200,14 +200,39 @@ Below is a list of visualization galleries. Having students travel through the g
 
 ## WORKS CITED
 
-Bertin, J. (2010). Semiology of Graphics: Diagrams, Networks, Maps. [Reprint from Esri Press](http://www.esri.com/news/releases/10_4qtr/bertin.html).
+4Humanities Collective. "Humanities Matter!" http://4humanities.org/2013/07/the-humanities-matter-infographic/.
 
-Drucker, J. (2010). “Graphesis: Visual Knowledge Production and Representation.” Poetess Archive Journal. 2:1. [PDF Available](https://journals.tdl.org/paj/index.php/paj/article/view/4/50). 
+_BatchGeo_ https://batchgeo.com.
 
-Drucker, J. (2014). “Graphesis: Visual Forms of Knowledge Production.” [Harvard University Press](http://www.hup.harvard.edu/catalog.php?isbn=9780674724938). 
+Bertin, Jacques. "Semiology of Graphics: Diagrams, Networks, Maps." [Reprint from Esri Press](http://www.esri.com/news/releases/10_4qtr/bertin.html).
 
-Manovich, L. (2001). "What is Visualization." Diagrec Series. 6. [PDF Available](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/5047/file/digarec06_S116_156.pdf).
+Bobstock, Mike. _D3_. https://d3js.org.
 
-Rockwell, G. and S. Sinclair (2016). *Hermeneutica: Computer-Assisted Interpretation in the Humanities*. MIT Press. [See also *Hermeneutica* web site.](http://hermeneuti.ca)
+Density Design. _RAWGraphs_. http://rawgraphs.io.
 
-Tufte, E. (1983). The Visual Display of Quantitative Information. Cheshire, CT, Graphics Press. [See also Tufte’s web site.](https://www.edwardtufte.com/tufte/)
+Drucker, Johanna. “Graphesis: Visual Knowledge Production and Representation.” _Poetess Archive Journal_. 2:1, 2010, https://journals.tdl.org/paj/index.php/paj/article/view/4/50. 
+
+Drucker, Johanna."Humanities Approaches to Graphical Display." _Digital Humanities Quarterly_. 5:1, 2011, http://www.digitalhumanities.org/dhq/vol/5/1/000091/000091.html
+
+Drucker, Johanna. _Graphesis: Visual Forms of Knowledge Production_. Harvard University Press, 2014.
+
+Ganesh, Maya Indira, Stephanie Hankey, Tom Longley and Marek Tuszynski (2013). _Visualising Information for Advocacy_. Big Cartel, http://visualisingadvocacy.org/sites/drawingbynumbers.ttc.io/files/VIFA_singlepage_large.pdf.
+
+Infogram, https://infogram.com.
+
+Klein, Lauren. "Studies in Communication and Culture: Data." (Course Syllabus.) 3 Nov. 2016, http://web.archive.org/web/20160328145006/http://lkleincourses.lmc.gatech.edu:80/data13/schedule/.
+
+Klein, Lauren. "Speculative Designs: Lessons from the archive of data visualization." Video. University of Hamburg. 30 Jun. 2016, lecture2go.uni-hamburg.de/l2go/-/get/v/19629.
+
+Manovich, Lev. "What is Visualization." Diagrec Series. 6, 2011, https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/5047/file/digarec06_S116_156.pdf.
+
+Rockwell, Geoffrey and Stéfan Sinclair. *Hermeneutica: Computer-Assisted Interpretation in the Humanities*. MIT Press, 2016.
+
+Sinclair, Stéfan, Stan Ruecker, and Milena Radzikowska. "Information Visualization for Humanities Scholars." _Literary Studies in the Digital Age
+An Evolving Anthology_. Ed. Kenneth Price and Raymond Siemens, 2013. <https://dlsanthology.mla.hcommons.org/information-visualization-for-humanities-scholars/>.
+
+Sinclair, Stéfan and Geoffrey Rockwell. _Voyant Tools_, https://voyant-tools.org.  
+
+Sula, Chris Alen. "The Ethics of Visualization." _YouTube_. 2 Jan. 2013, youtube.com/watch?v=tL7amXznq4A.
+
+Tufte, Edward. _The Visual Display of Quantitative Information_. Cheshire, CT, Graphics Press, 1983.
