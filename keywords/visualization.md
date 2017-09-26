@@ -206,6 +206,8 @@ Drucker, J. (2010). “Graphesis: Visual Knowledge Production and Representation
 
 Drucker, J. (2014). “Graphesis: Visual Forms of Knowledge Production.” [Harvard University Press](http://www.hup.harvard.edu/catalog.php?isbn=9780674724938). 
 
+Manovich, L. (2001). "What is Visualization." Diagrec Series. 6. [PDF Available](https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/5047/file/digarec06_S116_156.pdf).
+
 Rockwell, G. and S. Sinclair (2016). *Hermeneutica: Computer-Assisted Interpretation in the Humanities*. MIT Press. [See also *Hermeneutica* web site.](http://hermeneuti.ca)
 
 Tufte, E. (1983). The Visual Display of Quantitative Information. Cheshire, CT, Graphics Press. [See also Tufte’s web site.](https://www.edwardtufte.com/tufte/)
