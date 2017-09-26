@@ -9,6 +9,8 @@ author:
 editor:
 - family: Sayers
   given: Jentery
+- family: Davis
+  given: Rebecca Frost
 publisher: Modern Language Association
 type: book
 ---
@@ -23,11 +25,13 @@ Ohio University | Department of English
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review** 
+* draft version undergoing peer-to-peer review
+* **draft version undergoing MLA copyediting**
+* awaiting pre-print copy
 * published 
 
+---
 Cross-Reference Keywords: Digital Divides, Disability, Gender, Intersectionality, Race, Sexuality
-
 --- 	
 
 ### Curatorial Statement 
@@ -51,117 +55,117 @@ If queer pedagogy is about "the problem of curriculum [becoming] one of prolifer
 ### Curated Resources 
 
 [Refracting the Digital Humanities](http://thejarahtree.com/2014/07/05/refracting-digital-humanities/)
-
-*Artifact Type: syllabus, course site, reading list
-*Source URL: http://thejarahtree.com/2014/07/05/refracting-digital-humanities/
-*Permissions: 
-*Creator and Affiliation: Jarah Moesch, American Studies, University of Maryland
-*Tags: advanced
+Screenshot: ![screenshot](images/screenshot-queer-refracting.jpg)
+* Artifact Type: syllabus, course site, reading list
+* Source URL: http://thejarahtree.com/2014/07/05/refracting-digital-humanities/
+* Permissions: 
+* Creator and Affiliation: Jarah Moesch, American Studies, University of Maryland
+* Tags: advanced
 
 Self-described as "an experimental artist-scholar who uses the queer sick body to challenge the limits of the phenomenological," Moesch's course and syllabus offer an intersectional way to examine the ways "the methods and tools used and produced by Digital Humanists function as organizing principles that frame how race, gender, sexuality, and ability." What is exemplary about this resource is the fact that Moesch's syllabus solidly combines theory and practice, exploring and doing. As the course description reads, "By pairing hands-on learning/making with Critical Race Theory, Queer, and Gender Theories, we will interrogate the structures of the tools themselves while creating our own collaborative practices and methods for ‘doing’ (refracting) DH differently."  In particular, Moesch’s course attends to a range of DH tools and methods including audio, computer code, and mapping.  
 
 [Queer Culture Collection: Archive Project](http://sites.psu.edu/245spring2015/about/archive-project/)
-
-*Artifact Type: assignment
-*Source URL: http://sites.psu.edu/245spring2015/about/archive-project/
-*Permissions: Yes
-*Creator and Affiliation: Colin Hogan, English, Penn State University
-*Tags: archives, crowdsourcing, representation
+Screenshot: ![screenshot](images/screenshot-queer-archive-project.jpg)
+* Artifact Type: assignment
+* Source URL: http://sites.psu.edu/245spring2015/about/archive-project/
+* Permissions: Yes
+* Creator and Affiliation: Colin Hogan, English, Penn State University
+* Tags: archives, crowdsourcing, representation
 
 Hogan's "English and Women's Studies 245: Introduction to Lesbian and Gay Studies" course at Penn State University culminates in a digital archive project for which students crowdsource a collection of LGBTQA representations and artifacts including literature, music, film, art, and institutions.  According to the assignment page, "The archive project attempts a digital approach to queer archives, one that takes Derrida’s emphasis on 'participation' and 'access,' 'constitution,' and 'interpretation' seriously by handing these tasks over to you as students."  The assignment is well-conceived and organized detailing student roles, group roles, curation and annotation exercises, and overall requirements.  
 
 [Digital Pedagogy: Twitter, Close Reading, and Learning/Teaching in Public](http://litilluminations.wordpress.com/2014/01/31/digital-pedagogy-close-reading-and-learning-in-public/)
-
-*Artifact Type: assignments
-*Source URL: http://litilluminations.wordpress.com/2014/01/31/digital-pedagogy-close-reading-and-learning-in-public/
-*Permissions: Yes
-*Creator and Affiliation: Petra Dierkes-Thrun, Comparative Literature, Stanford University
-*Tags: close reading, Oscar Wilde, Charles Baudelaire, Twitter
+Screenshot: ![screenshot](images/screenshot-queer-twitter.jpg)
+* Artifact Type: assignments
+* Source URL: http://litilluminations.wordpress.com/2014/01/31/digital-pedagogy-close-reading-and-learning-in-public/
+* Permissions: Yes
+* Creator and Affiliation: Petra Dierkes-Thrun, Comparative Literature, Stanford University
+* Tags: close reading, Oscar Wilde, Charles Baudelaire, Twitter
 
 Dierkes-Thrun's website offers a quick overview of the variety of different digital pedagogy exercises and assignments she has developed for her literature seminars and feminist, gender and sexuality classes at Stanford, including "Twitter for Crowdsourcing and Role-Play Exercises," close reading and collaborative interpretation exercises, and other teaching and learning tools.  Dierkes-Thrun includes assignments on Oscar Wilde's *The Picture of Dorian Gray*, Wilde's poem "The Harlot's House," and Charles Baudelaire’s "Hymn to Beauty."  This resource serves as a jumping off point for adapting Dierkes-Thrun's assignments or for generating new ones. What is most useful is the inclusion of reflection on the assignments by both the instructor and the students.
 
 [iLogs](http://www.edmondchang.com/466/assignments.html)
-
-*Artifact Type: assignment
-*Source URL: http://www.edmondchang.com/466/assignments.html
-*Permissions: Yes
-*Creator and Affiliation: Edmond Y. Chang, English, Ohio University
-*Tags: identity
+Screenshot: ![screenshot](images/screenshot-queer-ilogs.jpg)
+* Artifact Type: assignment
+* Source URL: http://www.edmondchang.com/466/assignments.html
+* Permissions: Yes
+* Creator and Affiliation: Edmond Y. Chang, English, Ohio University
+* Tags: identity
 
 These brief assignments ask students to keep and maintain a weekly "identity log" or "iLog," recording, detailing, and thinking about their own identities and identifications. These "iLogs" will function as a kind of identity workbook, an analytical and metacognitive journal, connecting students' observations and experiences to the texts, theories, and ideas of an Introduction to LGBT Studies class. Prompts include thinking about identities, sexuality, queer space, and popular culture, which are shared with the class via the class's Tumblr website. The overall course syllabus and reading list are included as well.  Though the “iLogs” are not formally graded (except on timeliness and completion), they generate a portfolio, an archive of ideas, objects, and occasions for discussion, study, and reflection.  Once collected together, students can see the breadth and depth of intellectual, critical, and even affective work they and their classmates have done over the course of a term.  See for example [iLog #4: Queer Bodies](http://engl466a.tumblr.com/tagged/iLog-4).
 
 [Queer Geek Theory: Classes](http://www.queergeektheory.org/teaching_main/classes/)
-
-*Artifact Type: course sites, syllabi
-*Source URL: http://www.queergeektheory.org/teaching_main/classes/
-*Permissions: 
-*Creator and Affiliation: Alexis Lothian, Women's Studies/LGBTQ Studies, University of Maryland
-*Tags: 
+Screenshot: ![screenshot](images/screenshot-queer-queergeektheory.jpg)
+* Artifact Type: course sites, syllabi
+* Source URL: http://www.queergeektheory.org/teaching_main/classes/
+* Permissions: 
+* Creator and Affiliation: Alexis Lothian, Women's Studies/LGBTQ Studies, University of Maryland
+* Tags: 
 
 This resource offers a range of courses and reflections on teaching queer, LGBTQ, and women's studies material. Included in Lothian's descriptions are specific mentions of incorporating digital humanities and digital technologies into the classes.  Lothian encourages the sharing of course rationales, assignments, and integrations of digital tools, saying, "I definitely consider all of the syllabi linked above to be open source documents from which other teachers should borrow as they see fit."  Lothian outlines her use of blogging platforms, WordPress plugins, Twitter, as well as more traditional classroom
 technologies.  She says her course try to satisfy “learning objectives through engaging students with the practice and theory of digital humanities, new media, and technoculture studies, as well as with literature and film.  I use public websites, run on WordPress, to organize the classes and open them up beyond the walled spaces of learning management software. Students must (with guidance) think through the consequences of online public speech as part of their participation in the classes.”
 
 [Teaching Tolerance: Lessons](https://www.tolerance.org/classroom-resources/lessons)
- 
-*Artifact Type: activities, lesson plans
-*Source URL: https://www.tolerance.org/classroom-resources/lessons
-*Permissions: 
-*Creator and Affiliation: Teaching Tolerance, A Project of the Southern Law Poverty Center
-*Tags: getting started, middle school, high school
+ Screenshot: ![screenshot](images/screenshot-queer-teachingtolerance.jpg)
+* Artifact Type: activities, lesson plans
+* Source URL: https://www.tolerance.org/classroom-resources/lessons
+* Permissions: 
+* Creator and Affiliation: Teaching Tolerance, A Project of the Southern Law Poverty Center
+* Tags: getting started, middle school, high school
 
 Part of the Teaching Tolerance project, this website offers a running list of resources and best practices for teachers, administrators, and schools to give them "the knowledge they need to create a climate in which their most vulnerable students feel safe and valued . . . to build an educational environment that is truly welcoming to all students." Though the resource is aimed at middle and secondary schools, the "LGBT 101"-style material and inclusive policies are a necessary starting point in developing vocabularies, course rationales, teaching philosophies, and ways to think about the institution.  Lesson plans include analyzing gender stereotypes in the media, challenging homophobia in sports, the history of civil rights, analyzing environmental justice, accommodating disabilities, and much more.  The broader website also includes a publication entitled "[Best Practices: Creating an LGBT-inclusive School Climate](https://www.tolerance.org/magazine/publications/best-practices-creating-an-lgbtinclusive-school-climate)," which outlines a range of queer-friendly activities, organizations, and policy recommendations.  
 
 [#TransformDH](http://transformdh.org/) 
-
-*Artifact Type: collaborative projects
-*Source URL: http://transformdh.org/
-*Permissions:
-*Creator and Affiliation: #TransformDH, Multiple Contributors
-*Tags: manifestos, advanced
+Screenshot: ![screenshot](images/screenshot-queer-transformdh.jpg)
+* Artifact Type: collaborative projects
+* Source URL: http://transformdh.org/
+* Permissions:
+* Creator and Affiliation: #TransformDH, Multiple Contributors
+* Tags: manifestos, advanced
 
 What is important about the #TransformDH blog and collaborative project is the idea that the digital humanities must be a more open, inclusive, and diverse space, discipline, and set of inquiries. #TransformDH hopes to "do" race, ethnicity, gender, sexuality, and class. As a project that grew out of the experiences, scholarship, and activism of a handful of people across institutions, #TransformDH is exemplary in its demonstration of collaboration, interdisciplinarity, and grass-roots "making" and "doing" in digital humanities.  The website provides not only a [call-to-action](http://www.hastac.org/blogs/amanda-phillips/2011/10/26/transformdh-call-action-following-asa-2011) for transforming DH but also collects and curates a wide variety of stories, actions, perspectives, and projects walking the walk and talking the talk, including Natalie Cicire’s [In Defense of Transforming DH](http://nataliacecire.blogspot.com/2012/01/in-defense-of-transforming-dh.html), Roger Whitson’s [Does DH Really Need to be Transformed? My Reflections on #MLA12](http://www.rogerwhitson.net/?p=1358), and many others.    
 
 [Digital Storytelling Project](http://queeringthemuseum.org/current-projects/digital-storytelling-project/)
-
-*Artifact Type: collaborative project, short films
-*Source URL: https://queeringthemuseum.org/previous-projects/digital-storytelling-project/
-*Permissions: 
-*Creator and Affiliation: Digital Story Telling Project, A Project of Queering the Museum
-*Tags: short films, getting started, personal narratives
+Screenshot: ![screenshot](images/screenshot-queer-queeringthemuseum.jpg)
+* Artifact Type: collaborative project, short films
+* Source URL: https://queeringthemuseum.org/previous-projects/digital-storytelling-project/
+* Permissions: 
+* Creator and Affiliation: Digital Story Telling Project, A Project of Queering the Museum
+* Tags: short films, getting started, personal narratives
 
 The Digital Storytelling Project is a Seattle-based project suppored by Queering the Museum, a group dedicated to increasing LGBTQ representation in museums. The storytelling project invites LGBTQ individuals from the Puget Sound region to reflect on their lives, to use their own narration and photos to create a short video. The project allows people to tell their own stories, to decide how they want to be represented, and to share these stories in a queer-themed exhibit at The Museum of History and Industry in Seattle.  The website includes links to three short films and artist statements that could be easily included in a course, particularly paired with a student video project (see the "Personal Narrative Audio Essay" assignment below).  The three films are [Omecihuatl: Reclaiming Gender through Undocumented Stories](https://queeringthemuseum.org/2015/11/02/omecihuatl-reclaiming-gender-through-undocumented-stories/), [De Facto](https://queeringthemuseum.org/2016/03/16/de-facto/), and [Identity](https://queeringthemuseum.org/2016/04/16/queer-digital-stories-identity/).   
 
 [Lim](http://mkopas.net/files/Lim/)
- 
-*Artifact Type: digital game
-*Source URL: http://mkopas.net/files/Lim/
-*Permissions: Yes
-*Creator and Affiliation: merritt k
-*Tags: teachable game, 5-minute game, getting started, queer glitches
+ Screenshot: ![screenshot](images/screenshot-queer-lim.jpg)
+* Artifact Type: digital game
+* Source URL: http://mkopas.net/files/Lim/
+* Permissions: Yes
+* Creator and Affiliation: merritt k
+* Tags: teachable game, 5-minute game, getting started, queer glitches
 
 On the surface, Lim is a very simple game where the play moves a small, flashing, multi-hued square through a maze populated by other squares. At first, the other squares do not bother the player's avatar as long as they blend in, changing their color to match those around them. But, as the player progresses, the other squares begin to attack the player's square. Lim is about many things: identity, difference, belonging, passing, inclusion, exclusion, community, and so on. The game is brief (less than ten minutes to play) and accessible via common web browsers, which makes it ideal for low- and high-tech classrooms.  Lim also provides much needed opportunities to talk about how game content and narrative intersects with and is informed by game mechanics and algorithms, particularly in the moments of play when the game seems to glitch or have unintended results.  The game paired with Ian Bryce Jones's [Lesson Plan: You’re There. You’re a Square. Get Over It.](https://intermittentmechanism.wordpress.com/2016/11/16/lesson-plan-games-about-squares/), which talks about teaching procedural representation.  Finally, Lim is demonstrative of not only queer issues and concerns but of the success of queer, independent game-makers such as Merritt Kopas.    
 
 [Personal Narrative Audio Essay](http://digitalwriting101.net/content/assignment-personal-narrative-audio-essay-upper-division/)
-
-*Artifact Type: assignment
-*Source URL: http://digitalwriting101.net/content/assignment-personal-narrative-audio-essay-upper-division/
-*Permissions:
-*Creator and Affiliation: Amy Goodloe, Digital Writing 101
-*Tags: getting started, audio, Garage Band, Audacity, iMovie 
+Screenshot: ![screenshot](images/screenshot-queer-personal-narrative-audio-essay.jpeg)
+* Artifact Type: assignment
+* Source URL: http://digitalwriting101.net/content/assignment-personal-narrative-audio-essay-upper-division/
+* Permissions:
+* Creator and Affiliation: Amy Goodloe, Digital Writing 101
+* Tags: getting started, audio, Garage Band, Audacity, iMovie 
 
 This thoughtful assignment asks students to draw on their own personal experiences with gender and sexuality to explore a concept from a gender or queer theorist like Jacques Derrida or Michel Foucault or Judith Butler.    Goodloe's assignment provides a full assignment overview, rationale, process description, and audience analysis for the audio essays.  Inspired by assigned personal narrative readings and sample audio essays from Ira Glass's *This American Life*, the students will write their own essays and then translate them from page to recording.  In fact, what makes Goodloe's assignment outstanding is the attention not only to the importance of gender and queer personal narratives but also the strengths, limitations, and challenges of medium.  Goodloe writes, "Your narrative will be designed for audio delivery rather than text, which will encourage you to consider how messages are shaped by the modality we choose to deliver them in."  Included on the assignment's page are links to help and "how to" resources for recording and editing audio as well as student samples.   
 
 ### Related Materials 
 
-* Adair, Joshua and Paul Walker.  "Turned On: On the Impossibility of Queer (and) Composition." *Hybrid Pedagogy*.  2015.  [http://www.digitalpedagogylab.com/hybridped/turned-on-the-impossibility-of-queer-composition/](http://www.digitalpedagogylab.com/hybridped/turned-on-the-impossibility-of-queer-composition/).
+Adair, Joshua and Paul Walker.  "Turned On: On the Impossibility of Queer (and) Composition." *Hybrid Pedagogy*.  2015.  [http://www.digitalpedagogylab.com/hybridped/turned-on-the-impossibility-of-queer-composition/](http://www.digitalpedagogylab.com/hybridped/turned-on-the-impossibility-of-queer-composition/).
 
-* "Blogging (as) Feminist Digital Pedagogy." *Media Praxis*.  27 Jan. 2014. [https://aljean.wordpress.com/2014/01/27/blogging-as-feminist-digital-pedagogy/](https://aljean.wordpress.com/2014/01/27/blogging-as-feminist-digital-pedagogy/).
+"Blogging (as) Feminist Digital Pedagogy." *Media Praxis*.  27 Jan. 2014. [https://aljean.wordpress.com/2014/01/27/blogging-as-feminist-digital-pedagogy/](https://aljean.wordpress.com/2014/01/27/blogging-as-feminist-digital-pedagogy/).
 
-* O'Riordan, Kate and David J. Phillips. *Queer Online: Media, Technology, and Sexuality*. New York: Peter Lang, 2007.
+O'Riordan, Kate and David J. Phillips. *Queer Online: Media, Technology, and Sexuality*. New York: Peter Lang, 2007.
 
-* "Queer Pedagogical Performance: Funded Project Evaluation." Simpson Center for the Humanities. University of Washington, 2012. [http://mkopas.net/files/2012_Report_QPP_Appended.pdf](http://mkopas.net/files/2012_Report_QPP_Appended.pdf).
+"Queer Pedagogical Performance: Funded Project Evaluation." Simpson Center for the Humanities. University of Washington, 2012. [http://mkopas.net/files/2012_Report_QPP_Appended.pdf](http://mkopas.net/files/2012_Report_QPP_Appended.pdf).
 
-* Queerness and Games Conference Videos. 2013-14. [http://www.twitch.tv/qgcon/profile](http://www.twitch.tv/qgcon/profile).
+Queerness and Games Conference Videos. 2013-14. [http://www.twitch.tv/qgcon/profile](http://www.twitch.tv/qgcon/profile).
 
 ### Works Cited 
 
