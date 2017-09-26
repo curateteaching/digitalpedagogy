@@ -134,13 +134,13 @@ This student blog post on [HASTAC](https://www.hastac.org/), which documents the
 Rikers Bot names an ongoing project on the part of Columbia's [Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/) to teach programming workshops at the Rikers Island Correctional Facility, and the output of the project: a Twitter bot that tells the story of the young adults incarcerated there. As such, it speaks both to the utility of learning to code (as part of the workshop, participants are trained in how to present the project in future job interviews) and to the argumentative force of a bot (forcibly disconnected from the outside world, the inmates require a bot to speak for them). Rikers Bot remains complicated, but in its engagement in the world, and in its attempt to introduce a humanistic overlay onto the teaching and learning of code, it marks a move towards social justice and civic engagement that the field would do well to more fully engage. 
 
 #### “TransCoder: Queer Programming Anti-Language”
-![screenshot](images/code-transcoder.png)
+![screenshot](images/code-TC-1.jpg)
 * Artifact Type: Project website
-* Source URL: [http://users.design.ucla.edu/~zblas/artwork/transcoder_archive/transcoder_archive.htm](http://users.design.ucla.edu/~zblas/artwork/transcoder_archive/transcoder_archive.htm) 
-* Artifact Permissions: NEED
+* Source URL: [http://www.zachblas.info/works/queer-technologies/](http://www.zachblas.info/works/queer-technologies/) 
+* Artifact Permissions: Image courtesy of the artist
 * Creator and Affiliation: [Zach Blas](http://www.zachblas.info/), Goldsmiths, University of London. 
 
-Moving from the lived conditions of incarceration to the realm of conceptual art, Zach Blas's TransCoder project, a "queer programming anti-language," provides an example of how theory can be expressed in and through code (n.p.). Styling his project in the tradition of an [esolang](http://esoteric.codes/post/105355658088/esolangs-as-an-experiential-practice), Blas defines a set of basic computational functions that, if implemented, would constitute a programming language that procedurally represents the major concepts of queer theory. (See [his interview with Jacob Gaboury](https://rhizome.org/editorial/2010/aug/18/interview-with-zach-blas/) for a more extended discussion). As a design for, rather than an implementation of a programming language, Blas also models how speculative design can function as a valuable pedagogical method. Asking students to envision rather than implement a computational artifact might open additional creative possibilities for the study of code, as well as invite broader participation. 
+Moving from the lived conditions of incarceration to the realm of conceptual art, Zach Blas's TransCoder project, a "queer programming anti-language"-- part of a larger project, [Queer Technologies (2007-2012)](http://www.zachblas.info/works/queer-technologies/)-- provides an example of how theory can be expressed in and through code (n.p.). Styling his project in the tradition of an [esolang](http://esoteric.codes/post/105355658088/esolangs-as-an-experiential-practice), Blas defines a set of basic computational functions that, if implemented, would constitute a programming language that procedurally represents the major concepts of queer theory. (See [his interview with Jacob Gaboury](https://rhizome.org/editorial/2010/aug/18/interview-with-zach-blas/) for a more extended discussion). As a design for, rather than an implementation of a programming language, Blas also models how speculative design can function as a valuable pedagogical method. Asking students to envision rather than implement a computational artifact might open additional creative possibilities for the study of code, as well as invite broader participation. 
 
 ## RELATED MATERIALS
 
@@ -162,7 +162,7 @@ Ahmed, Manan, Zeinab Aina, Thomas Brown III, et al., "Rikers Bot." *Columbia's G
 
 The Black Scholar, "Now Available: Black Code." 14 August 2017. Web. [http://www.theblackscholar.org/now-available-black-code/](http://www.theblackscholar.org/now-available-black-code/)
 
-Blas, Zach. "TransCoder: A Queer Programming Anti-Language." n.d. Web. [http://users.design.ucla.edu/~zblas/artwork/transcoder_archive/transcoder_archive.htm](http://users.design.ucla.edu/~zblas/artwork/transcoder_archive/transcoder_archive.htm)
+Blas, Zach. "Queer Technologies." n.d. Web. [http://www.zachblas.info/works/queer-technologies/](http://www.zachblas.info/works/queer-technologies/)
 
 Buurma, Rachel. "The Rise of the Novel" (Github repository). n.d. Web. [https://github.com/rbuurma/rise-2015](https://github.com/rbuurma/rise-2015)
 
