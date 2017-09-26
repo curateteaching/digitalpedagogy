@@ -1,206 +1,265 @@
-# Indigenous
+---
+title: Digital Pedagogy in the Humanities
+subtitle: Concepts, Models, and Experiments
+chapter: Indigenous
+URL: keywords/indigenous.md
+author:
+- family: Gaertner
+  given: David
+- family: Recollet
+  given: Karyn
+- family: LaPensee
+  given: Elizabeth
+editor:
+- family: Sayers & Harris
+  given: Jentery & Katherine D.
+publisher: Modern Language Association
+type: book
+---
  
-### David Gaertner 
+# INDIGENOUS
+ 
+### David Gaertner
 University of British Columbia ([First Nations and Indigenous Studies Program](http://fnis.arts.ubc.ca))
  
 ### Karyn Recollet
-University of Toronto ([Women and Gender Studies Institute](http://www.wgsi.utoronto.ca)) 
+University of Toronto ([Women and Gender Studies Institute](http://www.wgsi.utoronto.ca))
  
-### with Elizabeth LaPensée
+### with Elizabeth LaPensee 
+(note: second e has accent over but couldn't encode in GitHub)
 Michigan State University (Media & Information and Writing, Rhetoric, and American Cultures)
  
-## CURATORIAL STATEMENT 
+---
  
-In the context of digital studies, we understand “Indigenous” in relation to Indigenous places, bodies, and futures. Traditionally framed as a “landless territory,” Western conceptions of cyberspace risk eliding the core principles of critical Indigenous studies, which are founded in place-based pedagogies. Evoking “Indigenous” in digital environments thus raises vital questions about our relationships to cosmologies, space, and lands. It also compels us to ask whether Indigenous lands and life can be repatriated through forms of creative intimacies formulated as cyber-justice. 
+##### Publication Status:
+* unreviewed draft
+* draft version undergoing editorial review
+* draft version undergoing peer-to-peer review
+* **draft version undergoing MLA copyediting**
+* awaiting pre-print copy
+* published 
+ 
+---
+### Cross-Reference Keywords: Community, Digital Divide, Futures, Intersectionality, Race, Social Justice
+---
 
-The pedagogical resources gathered here connect with “Indigenous” as an opportunity to:
+## CURATORIAL STATEMENT
  
-* Conceive of new relationships to land and cyberspace through the digital,
-* Envision new ways of conceptualizing land as multiscalar,
-* Reconceive “extractivism” in digital spaces,
-* Explore and critique the unique intimacies and connections available through cyberspace, and
-* Reorient cyberspaces in relation to colonialism and Indigenous histories.
+In the contexts of technology and digital space, Indigenous must be understood in relation to Indigenous places, bodies, and futures. Traditionally framed as a "landless territory," Western conceptions of cyberspace risk eliding the core principles of critical Indigenous studies, which are founded in land and place-based pedagogies (Simpson, "Land as Pedagogy"). Evoking "Indigenous" in digital environments raises vital questions about relationships to cosmologies and space, digital creative intimacies with cyberspace and lands, and compels students to question if Indigenous lands and life can be repatriated through forms of creative intimacies formulated as cyber justice. The pedagogical resources gathered here connect with Indigenous as an opportunity to:
  
-In the classroom, Indigenous perspectives on digital studies promote critical understandings of and engagement with the colonial foundations of media analysis and the “whiteness” (McPherson) of the field through critical analysis and place-based learning. Too often, Indigenous peoples and knowledges are seen as mutually exclusive to modernity and technology. Our pedagogy pushes for nuanced understanding of “traditional innovation” (Glaskin), the crossroads at which Indigenous pasts, presents, and futures meet and expand into new worlds.
+* Foreground Indigenous voices in and around digital spaces
+* Conceive of new relationships to land and cyberspace through the digital
+* Envision new ways of conceptualizing land as multiscalar
+* Explore and critique the unique intimacies and ecologies available through cyberspace, and
+* Reorient cyberspaces in relation to colonialism and Indigenous histories
  
-Engagement with Indigenous new media technologies also encourages students to find spaces of safety, love, and breath within an environment (the digital) that has traditionally been alienating and even hostile for Indigenous peoples, particularly Indigenous women and non-gender conforming peoples. We take seriously the possibility of radical decolonial love as proffered by Anishinaabe artist/activist/scholar, Leanne Simpson, as well as Cree scholars, Billy-Ray Belcourt and Kirsten Lindquist. Such love may have a glitching effect on the colonial machinery of technology. The glitch (Belcourt) provides spaces for rematriative sonic, visual, and embodied sovereignties and thus imagines, designs, and activates new futurisms that are anything but frontier spaces. 
+Indigenous digital pedagogy begins from the idea that cyberspace and the digital are not Western phenomena. Both conceptually, and in practice, cyberspace has always existed for Indigenous peoples. Mohawk new media scholar Steven Loft argues: "that hardware technology has made it [cyberspace] accessible through a tactile regime in no way diminishes its power as a spiritual, cosmological, and mythical 'realm'" (175). Additionally, Angela Haas (Cherokee) argues that Wampum, beaded belts used by the Haudenosaunee peoples to record history, traditions and laws, is an early, Indigenous, example of hypertext: "both Western and wampum hypertexts employ digital rhetoric to communicate non-linear information" (84). 
+
+In the classroom, Indigenous perspectives on digital ecologies promote critical understanding of and engagement with the colonial foundations of media analysis and the whiteness (McPherson) of digital space through close reading and place-based learning. In all classrooms, engagement with Indigenous digital pedagogy promotes critical reflection on the intersections between place, technology, and kinship and encourages anti-colonial engagement with the digital. Engagement with Indigenous new media technologies encourages Indigenous students to find spaces of safety, love, and breath within an environment (the digital) that has traditionally been alienating and even hostile for Indigenous peoples, particularly Indigenous women, and non-gender conforming peoples. 
+
+The following artifacts were selected according to three broad principles:
  
-### Our Own Pedagogy
+First, all of the following resources were created by Indigenous artists, authors, programmers, scholars, and media makers. Indigenous digital pedagogy foregrounds Indigenous creators and thinkers. Non-Indigenous audiences should be encouraged to listen and learn. Hence, many of the resources listed below are produced projects. Students should be asked to listen carefully to and think with Indigenous media makers. Questions and assignments are provided to spark engagement along these lines.
  
-We have compiled these resources from both Indigenous and non-Indigenous engagements with Indigenous new media and Indigenous futurism. The pieces we have selected offer Indigenous critiques of settler colonial structuring, namely their erasures in a project of Indigenous dispossession. We begin with the idea that cyberspace and the digital are not Western phenomena. For instance, it is our belief that virtual reality is ancient; our elders have always worlded through space-time travel. Cyberspace has always existed for Indigenous people. Mohawk new media scholar Steven Loft argues that the fact “that hardware technology has made [cyberspace] accessible through a tactile regime in no way diminishes its power as a spiritual, cosmological, and mythical ‘realm’” (175). Additionally, Angela Haas has convincingly argued that Wampum is an early, Indigenous example of hypertext: “both Western and wampum hypertexts employ digital rhetoric to communicate non-linear information” (84). Understanding cyberspace as a notional environment that Indigenous peoples have conceptualized in parallel to Western technology provides new depth to understanding the limitations and possibilities of that space. Indigenous folks have enacted the traditional in the future by activating the “slipstream” as a platform or portal space to dream up new possibilities (Dillon; Jackson; Belcourt), where “imagining otherwise” (Crawley) is the glitch. The slipstream represents creases in space-time to produce radical constellatory genealogies and connectivities to land spaces. For example, relationships to human and non-human, the not yet and the already present, are activated within and through breath in LaPensée’s *Honour Water*. As an act of coming up for air, the breath itself is a worlding process, and such futuristically ancient activations have always been multiscalar. Radical relationality does this for digital pedagogy: it activates all that is underneath, above, and around. An Indigenous digital commons is a radical mapping exercise of love and futurity building.
+Second, the included resources throw into relief the colonial implications of cyberspace, but also recast those spaces for Indigenous peoples to reimagine the possibilities of the digital and imagine Indigenous bodies in future worlds.
  
-### Rationale and Criteria
+Finally, the included resources all explore, in different ways, kinstillatory relationalities: that is the ways in which kinship is built, maintained, and folded across time and space to produce radical constellatory genealogies and connectivities to community and land spaces. 
+
+## CURATED ARTIFACTS
  
-We have selected the following resources according to four broad principles, which apply to our teaching and research:
+#### Indigenous Foundations
+![Foundations](images/Indigenous-IndigenousFoundations.png)
  
-First, we chose resources that were created by Indigenous artists, authors, programmers, and media makers, simply to highlight the cutting-edge work Indigenous media makers are doing and to push back against the persistent settler colonial notion that Indigeneity and digital technologies are incompatible. In this sense, we resist the word “artifact” in the way it connotes historical interest. The pieces we have chosen are all connected to living moments, places, peoples, and cultures, and they evoke continued conversation and the projection of Indigenous peoples and knowledges’ real and imagined futures.
+* Artifact Type: Course Site/Syllabus
+* Source URL: http://indigenousfoundations.arts.ubc.ca/home/
+* Permissions: Screenshot
+* Creator: First Nations and Indigenous Studies Program, University of British Columbia
+* Getting Started
  
-Second, we wanted to include a range of projects that explore and expand the range of digital pedagogy, Indigenous new media, and Indigenous futurisms, including the multifarious ways in which these works connect users to places and bodies or ask them to engage in critical thinking about place and body. As such, we have included works that engage users visually, sonically, and haptically, blurring the distinctions between the digital and the analogue. 
- 
-Third, we included resources that both throw into relief the colonial implications of cyberspace, but also recast those spaces for Indigenous peoples to reimagine the possibilities of the digital and imagine Indigenous bodies in future worlds.
- 
-Finally, the examples we include all explore, in different ways, what we call kinstillatory relationalities: that is, the ways in which kinship is built, maintained, and folded across time and space to produce radical constellatory genealogies and connectivities to community and land spaces. We see cyberspace and digital pedagogy as possible extensions of kinship models developed on the land and developed by Indigenous scholars such as Daniel Heath Justice. Kinship, Justice writes, “is best thought of as a verb rather than a noun, because kinship, in most Indigenous contexts, is something that’s done more than something that simply is” (150). We see cyberspace as another plane for the work of kinship to be done on new scales of time and place, providing powerful constellations of affinity and relationship.
- 
-## CURATED ARTIFACTS 
- 
+The Indigenous Foundations website was developed as a resource for instructors, researchers, and students looking for a place to begin studying issues related to Indigenous peoples, cultures, and knowledges. The site covers a wide range of topics, including terminology, land rights, title, and government policy, amongst others. 
+
+This website can be used as a secondary resource for students exploring Indigenous media. Before requiring students to analyze or engage with the pieces listed below, they, and you, as the instructor, should be familiar with the histories of colonialism and the present contexts of Indigenous resurgence. Require students to reference Foundations as a secondary source when writing analysis of Indigenous new media. As an example, have students write a brief, in-class analysis of ALie Nation (listed below), making specific reference to the Indigenous Foundations entry on the Indian Act (under "Government Policy"). How do students understand ATCR and their success differently in the context of legislation such as the Potlatch ban? 
+
 #### ALie Nation
-
-![ALie Nation](images/ALieNation.png)
+![ALie Nation](images/Indigenous-ALieNation.png)
  
-* Source URL:  [https://www.youtube.com/watch?v=WhlKs_3Srj0](https://www.youtube.com/watch?v=WhlKs_3Srj0)
+* Assignment
+* Source URL:  https://www.youtube.com/watch?v=WhlKs_3Srj0
+* Permissions: Screenshot
 * Creator: A Tribe Called Red
+* Tags: Getting started; Historypin
  
-ALie Nation is a site of activation from which students can begin to reflect on the complex relationships between Indigeneity, modernity, and digital space. The urban environment A Tribe Called Red (ATCR) captures, moves through, and writes over is registered not simply as a space of oppression for Indigenous peoples (although that critique is present), but of possible futures, in which modernity and the gaze itself are captured from a top-down, Indigenous point of view. We suggest that the poetics of its title, A Lie Nation, is of course an Alien nation: a society of immigrants convinced of their native belonging to stolen land. But the deeper lie may also be the Ally-Nation, a citizenry that loudly asserts its apologies and goodwill while leaving the colonial machinery to run unabated. Instructors inspired by this video might ask students to reflect on the poetics of its title and the Jeremy Bentham-inspired logo featured within it. What does “alienation” mean within the contexts of the digital? How are ATCR mobilizing those same spaces towards Indigenous resistance and resurgence? 
- 
-#### Ashes on the Water
+ALie Nation is a site of activation from which students can begin to reflect on the complex relationships between Indigeneity, modernity, and digital and urban spaces. The urban environment that A Tribe Called Red captures, moves through, and writes over, is registered not simply as a space of oppression for Indigenous peoples, but of possible Indigenous futures. Of specific interest for instructors here are the ways in which ATCR use technology to write on and over urban landscapes.
 
-![Ashes on the Water](images/Ashes.jpg)
+Instructors can use the video to begin conversations on the relationships between technology, land, and colonialism, which students can then share with their communities. Use the following questions to provoke conversation: what does "alienation" mean for Indigenous peoples within the contexts of the city? What does alienation mean for Indigenous peoples within the contexts of the digital? How are ATCR using technology to re-write colonial histories and Indigenous presence in urban and digital spaces? After discussion, have students confront alienation on your own campus and map spaces of Indigenous resurgence on that territory. Students should research the Indigenous histories of the lands they live and study on. What Indigenous territory is your university on? What resources are available to Indigenous students on your campus? Is there Indigenous art or architecture on campus? Where is it and what is its history? Have students upload their research to Historypin or Google maps and share it with the university community via social media.
+  
+#### Podcast Pedagogy
+![Podcast Pedagogy](images/Indigenous-PodcastPedagogy.png)
  
-* Source URL: [http://neworldtheatre.com/portfolio-item/podplays/](http://neworldtheatre.com/portfolio-item/podplays/)
-* Creator: Quelemia Sparrow
- 
-Ashes on the Water is a podplay, a piece of interactive theatre that audiences download onto a smartphone and then listen to while walking on a particular piece of land. Ashes is set on Squamish territory in what is now known as CRAB PARK in Vancouver, British Columbia. It tells the story of the Women’s Paddle Song, which was written by Squamish people in 1886 as they rowed across the Burrard Inlet to rescue settlers fleeing Vancouver’s Great Fire. Instructors interested in this piece might ask students to consider the ways in which Sparrow’s work closes the gap between the digital and the material, or to consider the ways in which oral storytelling works as an augmentative technology. This piece is best experienced on the land itself, but for those not in Vancouver it stands as a story on its own. It can also be experienced from a distance using Google maps or other mapping software.
- 
-#### Podcast Pedagogy 
-
-![Podcast Pedagogy](images/PodcastPedagogy.jpg)
- 
-* Source URL: [https://rebadeguevara.wordpress.com/2015/12/31/podcast-pedagogy-stories-from-the-land/](https://rebadeguevara.wordpress.com/2015/12/31/podcast-pedagogy-stories-from-the-land/)
+* Type: Student work
+* Source URL: https://rebadeguevara.wordpress.com/2015/12/31/podcast-pedagogy-stories-from-the-land/
+* Copyright: Screenshot
 * Creator: Reba De Guevera
+* Tags: Getting Started; wordpress
  
-“Podcast Pedagogy” is an example of a final blog post assignment written by an undergraduate student for FNIS 401F (Indigenous New Media and Digital Storytelling) taught at the University of British Columbia. In the post, the author explores the relationships between land, storytelling, and digital technologies via a close reading of Anishinaabe media-maker Ryan McMahon’s podcast, Stories from the Land. The blog post is an excellent example of close reading practices as applied to podcasting and Indigenous storytelling and can be integrated into syllabi as a prompt for students writing on similar topics. Instructors might ask their students to reflect on the ways in which De Guevera incorporates land into a conversation about technology. 
- 
-#### Where the Red Receives Me
+"Podcast Pedagogy" is an example of a final blog post assignment written by an undergraduate student about Indigenous new media. In the post the author explores the relationships between land, storytelling, and digital technologies via a close reading of Anishinaabe media maker RyanÕs McMahonÕs podcast *Stories from the Land*. 
 
-![Where the Red Receives Me](images/WheretheRedReceivesMe.png)
- 
-* Source URL: [http://www.philome.la/chloerlendson/where-the-red-receives-me/play](http://www.philome.la/chloerlendson/where-the-red-receives-me/play)
-* Creator: Chloe Erlendson
- 
-“Where the Red Receives Me” is a digital storytelling assignment written by an undergraduate student for Indigenous New Media, taught at the University of British Columbia. For this assignment, the student used Twine (interactive storytelling software, workshopped in class) to remediate a poem written by the student’s mother about her Métis identity. The story works well in classrooms as an example of the ways in which family and community stories can be shared and revitalized through digital media. “Where the Red Receives Me” is also a good example of the type of interactive storytelling that can be done using Twine in the classroom and the ways in which Indigenous storytelling and technology intersect.    
- 
-#### FNIS 454: Indigenous New Media and Digital Storytelling
+This blog post is an excellent example of close reading practices as applied to podcasting and Indigenous storytelling and can be integrated into syllabi as a prompt for students writing on similar topics. Instructors can ask their students to reflect on the ways in which De Guevera incorporates land into a conversation about technology. Instructors can also ask students to consider the tone and voice De Guevera uses in this piece. How does she connect McMahon's work to her own experiences? What opportunities do blogs, podcasts, and other digital technologies offer for anti-colonial thought?
 
-![FNIS 454](images/fnsp401f.png)
+#### Speaking the Language of Spiders
+![Speakingthelanguageofspiders](images/Indigenous-speakingthelanguageofspiders.png) 
  
-* Source URL: [https://novelalliances.com/2016/10/30/fnis-454-indigenous-new-media-and-digital-storytelling/](https://novelalliances.com/2016/10/30/fnis-454-indigenous-new-media-and-digital-storytelling/)
-* Creator: David Gaertner
+* Type: Assignment
+* Source URL: http://spiderlanguage.net
+* Copyright: Screenshot
+* Creator: Ahasiw Maskegon-Iskwew 
+* Tags: Getting Started; site map
  
-Rationale: FNIS 454 represents an entire upper-level course built around the intersections and divergences of critical Indigenous studies and new media/the digital humanities. The syllabus provides a number of primary and secondary sources as well as assignments and a rationale. FNIS 454 (or portions thereof) can be used and adapted for courses on new media and digital humanities contending with Indigenous studies, futurisms, and critical race studies. The syllabus also includes assignments, such as blog post prompts and a new media design project adapted for the Indian Residential School History and Dialogue Centre at UBC.
- 
-#### Ay I Oh Stomp
+Speaking the Language of Spiders is one of the first interactive, Indigenous websites launched on the world wide web. It was created by Cree artist Ahasiw Maskegon-Iskwew and his collaborator, programmer Shelia Urbanoski in 1997. Spiders is an entirely singular look at Indigenous cosmologies and ecologies as they exist online. The site is constructed as an interactive screenplay and multi-media storyboard (Diamond).
 
-![Ay I Oh Stomp](images/Stomp.jpg)
- 
-* Source URL: [https://www.youtube.com/watch?v=FS43pk8Yjos](https://www.youtube.com/watch?v=FS43pk8Yjos)
-* Creator: Skookum Sound System
- 
-Students are asked to produce sonic and/or visual maps, engaging the narratives of future relationships towards lands and territories, thus creating an artistic production which considers how we can activate (re)mapping to explore complex land histories. This assignment allows students to practice, in their own ways, creative intimacies with the spatial scales of land, bodies, and territories (water, land-terrestrial, or celestial). The video, Ay I Oh Stomp, by Skookum Sound Systems can be read as a sonic map illuminating the time/space collapse mobilized through the remix. We ask students to create visual/sonic maps to explore the futuristic narratives of lands and territories through layering lands/territories/waters, or celestial maps remixed with recorded futurity narratives (this could take the form of spoken word poetry or other narrative devices). Students can read the text, “Gesturing Indigenous Futurity through the Remix” (Recollet), considering in particular how mapping (visual, choreographic, spatial, and sonic) carries potential for reworlding through digitally remixed platforms.  
+The assignment connected to this website is a reverse site map. A site map is a diagram that plans, visualizes, and organizes the hierarchical structure material of on a webpage (see https://speckyboy.com/collection-inspiring-sitemaps-user-flow-maps/ for examples). For this assignment, using paper, post-it notes, and coloured markers, students should attempt to map out Maskegon-Iskwew's website in the analogue after engaging its content. The learning objective here is to get students thinking about the unique ways in which Maskegon-Iskwew construct time and space and thus, in a McLuhanesque sense, how the medium informs the message. Unpacking the storyboard as a site map also illustrates to students the complex, non-linear, and interactive ways in which stories can be unfolded via hyperlinks. Students should also visit http://lovingthespider.net, a companion site to the original, designed by Ubranoski and Cree artist Archer Pechawis.  
 
 #### CyberPowWow
-
-![CyberPowWow](images/CyberPowWow.jpg)
+![CyberPowWow](images/Indigenous-Cyberpowwow.png)
  
-* Source URL: [http://www.cyberpowwow.net/](http://www.cyberpowwow.net/)
+* Type: Assignment
+* Source URL: http://www.cyberpowwow.net/
 * Creator: Skawennati
+* Permissions: screenshot
+* Tags: getting started; wordclouds
  
-CyberPowWow was the first interactive, online, Indigenous art gallery running from 1997–2004. Using software from the Palace (early graphical chatroom platform owned and operated by Time Warner), Mohawk artist Skawennati curated artworks created by Indigenous artists in a linked, interactive space. Artists then convened in those spaces via avatars (also designed by Indigenous artists) to share and discuss the work. A large part of how CyberPowWow was imagined was through the performativity of the space: participants and their conversations were core to how the art and poetics of the piece functioned. In this sense, the gallery was an early instantiation of Web 2.0 thinking. CyberPowWow went dark in 2004, so it is no longer “live” in the same sense, but students and teachers can still explore some of the visual and written pieces created for it in the curated link. Instructors should encourage students to engage the spaces in groups and encourage conversation in and around the artwork. Students should also be encouraged to visit the “library.” Texts in this space can be used to critically analyze the artwork. 
- 
-#### *God’s Lake Narrows*
+CyberPowWow was the first interactive, online, Indigenous art gallery. Adapting early graphical chatroom software, Mohawk artist Skawennati curated artworks by Indigenous artists in a linked, interactive space. Artists then convened in those spaces via avatars to share and discuss the work. The gallery provides unique access into what Skawennati and Jason Lewis call "Aboriginal Territories in Cyberspace" (Lewis and Skawennati). 
 
-![God’s Lake Narrows](images/GodsLakeNarrows.png)
+Instructors should encourage students to visit the "library" on the CyberPowWow website, where they will find a collection of critical and creative pieces on Indigenous presence in cyberspace. Of particular interest is Jolene Rickard's essay "First Nation Territory in Cyber Space Declared: No Treaties Needed." Rickard argues that CyberPowWow is a natural extension of Indigenous culture and politics. Archer Pechawis makes similar connections between tradition and innovation in his essay, "Not So Much a Land Claim." Ask students what it means for these writers to be Indigenous in cyberspace. Divide students into small groups and have them construct wordclouds (https://www.jasondavies.com/wordcloud/) out of key terms from the Rickard and Pechawis' essays. Compare and contrast those wordclouds with the entire group. What are the similarities? What are the differences? What is at stake in these essays in defining Indigeneity in cyberspace?
+
+#### *God's Lake Narrows*
+![God's Lake Narrows](images/Indigenous-GodsLakeNarrows.png)
  
-* Source URL: [http://godslake.nfb.ca/#/godslake](http://godslake.nfb.ca/#/godslake)
+* Type: Assignment
+* Source URL: http://godslake.nfb.ca/#/godslake
 * Creator: Kevin Lee Burton
+* Permissions: screenshot
+* Tags: getting started
  
-*God’s Lake Narrows* is an interactive website written and designed by Swampy Cree artist, Kevin Lee Burton. The website is based on an installation piece that Burton originally conceived for the Urban Shaman Gallery in Winnipeg, Manitoba. Both the installation and the website were conceived as spaces to introduce non-Indigenous people, who would likely never visit in real life (IRL), to life on Burton’s reservation and thus disrupt many of the stereotypes about reservation life. What makes Burton’s work so provocative is how he uses technology to provide access to home, but also how he brings Internet and Indigenous protocols together to evoke hospitality and guesthood in that space. Teachers can use this piece to initiate conversation about the relationship between Indigenous land and cyberspace and Internet protocol and community protocol. Consider, for instance, how Burton uses geotagging to identify users and how he inverts the gaze (see in particular the “about” page).
+*God's Lake Narrows* is an interactive website written and designed by Swampy Cree artist Kevin Lee Burton. The website was conceived as a space to introduce non-Indigenous people to life on Burton's home reservation (also called God's Lake Narrows), thus disrupting many of the stereotypes about life on a reservation. What makes Burton's work so provocative is how he uses technology to provide access to his home, but also how he brings Internet and Indigenous protocols together to evoke hospitality and guesthood in that space. 
+
+Before engaging Burton's piece, students should read Students should read David Gaertner's essay, "Indigenous in Cyberspace: CyberPowWow, God's Lake Narrows, and the Contours of Online Indigenous Territory."  Instructors can then use Burton's work piece to initiate conversation about the relationship between Indigenous land and cyberspace as well as Internet protocol and community protocol. Specifically, instructors should focus on the ways in which how Burton uses technology to identify and "look back" at users (see in particular the "about" page). Have students move through the piece carefully, either individually or in small groups. How does Burton use sound, visuals, information, and technology to welcome visitors into the space? What are viewers expected to know before they are granted access to the homes? 
+ 
+#### Where the Red Receives Me
+![Where the Red Receives Me](images/Indigenous-wheretheredreceivesme.png)
+ 
+* Type: Student work 
+* Source URL: http://www.philome.la/chloerlendson/where-the-red-receives-me/play
+* Permissions: Screenshot
+* Creator: Chloe Erlendson
+* Tags: Advanced; Twine
+ 
+"Where the Red Receives Me" is a digital storytelling assignment designed by an undergraduate student for an upper-level course in Indigenous New Media. For this assignment, the student used Twine (interactive storytelling software, work shopped in class) to remediate a poem written by her mother about MŽtis identity. The story works well in classrooms as an example of the ways in which family and community stories can be shared and revitalized through digital media. 
+
+Using Erlendson's work as a model, students can build their own digital stories on Twine (https://twinery.org/). Easy to follow tutorials are available on the site and free hosting is available with a Twitter account. This assignment works best when students are asked to remediate a story that comes from their home, community, or family. In building personal stories into simple websites, the class is encouraged to think about the delicate ecologies that make up digital storytelling and to think critically about how and why these stories generate and extend constellations of affinity and kinship. Have students share their stories with the class and ask how the translation of their story into the web changed the way they understood it.
+ 
+####  Ay I Oh Stomp
+![Ay I Oh Stomp](images/Indigenous-Stomp.png)
+ 
+* Type: Assignment
+* Source URL: www.youtube.com/watch?v=FS43pk8Yjos
+* Creator: Skookum Sound Systems 
+* Permissions: screenshot
+* Tags: advanced
+ 
+The video "Ay I Oh Stomp," by Skookum Sound Systems can be read as a sonic map illuminating the time/space collapse mobilized through the remix. After watching the video, Instructors can ask students to create visual/sonic maps to explore the futuristic narratives of lands and territories through layering lands/ territories/ waters, or celestial maps remixed with recorded futurity narratives (this could take the form of spoken word poetry or other narrative devices).  
+
+Students can read the text "Gesturing Indigenous futurity through the remix" (Recollet 2016), considering, in particular, how mapping (visual, choreographic, spatial & sonic) carries potential as sites of reworlding through digitally remixed platforms. This assignment allows students to practice, in their own ways, creative intimacies with the spatial scales of land, bodies, and territories (water, land -terrestrial, or celestial). 
  
 #### *Honour Water*
-
-![Honour Water](images/Honorwater.jpg)
+![Honour Water](images/Indigenous-honourwater.png)
  
-* Source URL: [http://www.honourwater.com/](http://www.honourwater.com/)
-* Creator: Elizabeth LaPensée
+* Type: Assignment
+* Source URL: http://www.honourwater.com/
+* Permissions: screenshot
+* Creator: Elizabeth LaPensee, Michigan State University
+* Tags: advanced; game
  
-Elizabeth LaPansée’s Honour Song activates Anishinaabemowin songs gifted by Sharon Day, the Oshkii Giizhik Singers, and Elders. Repatriating Indigenous land and life as in-motion or in-migration through the kinesthetic waves of water, Honour Song activates Indigenous intelligence through voicing forms of “sonic intimacies” (Campbell) between bodies and waters in digital space-time. Since water holds space underneath the gravel and concrete of the cities, Honour Song can be introduced to the students as an exercise of spatially/sonically mapping the oftentimes hidden (paved over, buried) underground waterways in citified Indigenous territories. Students are encouraged to research and travel to the portal sites of underground waterways in respective Indigenous territories and build sonic intimacies through the act of singing water songs along with the app. Be mindful of how the body is being realigned/reoriented in relationship to the sound kinesthetic (how sounds shape space) produced through singing in Anishinaabemowin. Consider the ways in which sound shapes movements, flows, and migrations throughout the cities as gathering spaces. How might these flows (sonically, in relationship within the bodies of water) be acknowledging radical alterities? Who are the Indigenous stewards/caretakers and those visioning futurities in the city within which you are living, and how might these original languages/songs impact the futurities of water?
+Elizabeth LaPansee's *Honour Water* activates Anishinaabemowin songs gifted by Sharon Day, the Oshkii Giizhik Singers, and Elders. Repatriating Indigenous land and life as in-motion, in-migration "through the kinesthetic waves of water" *Honour Water* activates Indigenous intelligence through voicing forms of "sonic intimacies" (Campbell) between bodies and waters in digital space/time. 
 
-#### Skins: Workshops on Aboriginal Storytelling in Digital Media
+After playing *Honour Water,* students should be encouraged to research and travel to the portal sites of underground waterways in respective Indigenous territories, and build sonic intimacies through the act of singing water songs along with the app. Students should also consider the ways in which sound shapes movements, flows and migrations throughout the cities. How might these flows be acknowledge radical alterities? Who are the Indigenous stewards/ caretakers and those visioning futurities in the city within which they are living, and how might these original languages/songs impact the futurities of water?
+ 
+#### Taking it to the People
+![Indigen-eyez](Indigenous-Indigen-eyez.png) 
+ 
+* Type: Assignment
+* Source URL: from syllabus
+* Creator: Daniel Heath Justice, University of British Columbia
+* Permissions: Madeson Singh
+* Tags: advanced; capstone
+ 
+It's not enough to simply talk about decolonization in class -- part of the work of Indigenous Studies is moving outside of the privileges of the academy to the wider world and other audiences. 
 
-![Skins](images/Skins.png)
-
-* Source URL: [http://skins.abtec.org/game_.html](http://skins.abtec.org/game_.html)
-* Creators: Jason Lewis & Skawennati
-
-Skins is a unique digital media workshop for Indigenous youth, designed and facilitated by an “Aboriginally determined team of game designers, artists and educators” known as Aboriginal Territories in Cyberspace (AbTeC). Via the URL provided here, students can download videogames designed in these workshops and read blog entries from the game makers. A documentary on the workshop and a curriculum are also available for instructors. The data provided through the URL are great for students to consider the intersections between tradition and innovation (Glaskin) and experience the ways in which Indigenous youth are mobilizing technology towards Indigenous storytelling in cyberspace (Todd). 
+Ask students to choose a venue outside of class, and preferably outside the University, to share some part of their learning about Indigenous issues (for instance from A Tribe Called Red, Elizabeth LaPensee, or Kevin Burton) with friends, family, strangers, etc., and report back with a one-page summary /reflection and some evidence of the activity, such as a photo, screen capture, handouts from the event, etc. Examples might include leading a public screening of Burton or LaPense's work, writing a Wikipedia entry or an online review, writing a blog or posting on an online "comments" section, or participating in an online Indigenous event (see, for instance, the Initiatives for Indigenous Futures website).  
  
 ## RELATED MATERIALS
  
-Aboriginal Territories in Cyberspace. [http://www.abtec.org/](http://www.abtec.org/)
+Conrum, Lou. Jarrett Martineau. "Indigenous Futurisms Mixtape." *Revolutions per Minute (RPM)*, November 20, 2014.   http://rpm.fm/music/download-indigenous-futurisms-mixtape/ 
 
-Loft, Steven and Kerry Swanson. *Coded Territories: Tracing Indigenous Pathways in New Media Art*. [http://press.ucalgary.ca/books/9781552387061](http://press.ucalgary.ca/books/9781552387061)
- 
-MacMahon, Ryan. *Stories From the Land* (podcast). [http://www.indianandcowboy.com/stories-from-the-land-podcast/](http://www.indianandcowboy.com/stories-from-the-land-podcast/)
- 
-Recollet, Karyn. “Gesturing Indigenous Futurities through the Remix.” *Dance Research Journal* 48.1. [https://muse.jhu.edu/article/617353](https://muse.jhu.edu/article/617353)
- 
-Revolutions per Minute (RPM), “Indigenous Futurisms Mixtape,” November 22, 2014, [http://rpm.fm/music/download-indigenous-futurisms-mixtape/](http://rpm.fm/music/download-indigenous-futurisms-mixtape/)
- 
+Duarte, Marisa Elena. *Network Sovereignty: Building the Internet across Indian Country.* http://www.washington.edu/uwpress/search/books/DUANET.html
+
+Igloliorte, Heather, Julie Nagam, and Carla Tauton, editors. Indigenous Art: New Media and the Digital. Public 54 (Winter 2016).
+
+Lewis, Jason. *Initiative for Indigenous Futures.* http://abtec.org/iif/ 
+
+Loft, Steven and Kerry Swanson. *Coded Territories: Tracing Indigenous Pathways in New Media Art*. http://press.ucalgary.ca/books/9781552387061 
+
 ## WORKS CITED
  
-@spacendn and @culturite. Revolutions per Minute (RPM), “Indigenous Futurisms Mixtape,” November 22, 2014. [http://rpm.fm/music/download-indigenous-futurisms-mixtape/](http://rpm.fm/music/download-indigenous-futurisms-mixtape/)
+@spacendn and @culturite. "Indigenous Futurisms Mixtape," November 22, 2014, http://rpm.fm/music/download-indigenous-futurisms-mixtape/ 
  
-A Tribe Called Red. ALie Nation  Ft. John Trudell, Tanya Tagaq, Lido Pimienta & Northern Voice. Youtube, September 2, 2016. Web.
+A Tribe Called Red. ALie Nation  Ft. John Trudell, Tanya Tagaq, Lido Pimienta & Northern Voice. September 2, 2016, https://www.youtube.com/watch?v=WhlKs_3Srj0   
  
-Belcourt, Billy-Ray. Nakinisowin. [https://nakinisowin.wordpress.com](https://nakinisowin.wordpress.com)
+Burton, Kevin. *God's Lake Narrows*. National Film Board of Canada. 2011,
+http://godslake.nfb.ca/#/godslake
  
-Burton, Kevin. *God’s Lake Narrows*. National Film Board of Canada, 2011. [http://godslake.nfb.ca/#/godslake](http://godslake.nfb.ca/#/godslake)
+Campbell, Mark. "Sonic intimacies: On Djing Better Futures." *Decolonization: Indigeneity, Education, and Society*. March, 25, 2015, https://decolonization.wordpress.com/2015/03/25/sonic-intimacies-on-djing-better-futures/  
  
-Byrd, Jodi. “‘Do they not have rational souls?’: consolidation and sovereignty in digital new worlds.” *Settler Colonial Studies* 6.4 (2016). 423–437.
+De Guevera, Reba. "Podcast Pedagogy: Stories From the Land." *Trickster Media,* December 31,  2015, 
+https://rebadeguevara.wordpress.com/2015/12/31/podcast-pedagogy-stories-from-the-land/    
+ 
+Diamond, Sara. "Performing Transformations: Ahasiw Maskegon-Iskwew." *Ghost Keeper*. n.d. http://ghostkeeper.gruntarchives.org/essay-performing-transformations-ahasiw-maskegon-iskwew-sara-diamond.html 
 
-Campbell, Mark. “Sonic intimacies: On Djing Better Futures.” *Decolonization: Indigeneity, Education, and Society*. March, 25, 2015. 
- 
-Crawley, Ashon. “Otherwise Movements.” *The New Inquiry*, 2015. [http://thenewinquiry.com/essays/otherwise-movements/](http://thenewinquiry.com/essays/otherwise-movements/)
-
-Deerchild, Rosanna. “Indigenous Game Designer CHallenges Stereotypes.” CBC Radio. March 6, 2016. Web. [http://www.cbc.ca/radio/unreserved/unreserved-honours-the-strength-of-indigenous-women-1.3472826/indigenous-game-designer-challenges-stereotypes-1.3476519](http://www.cbc.ca/radio/unreserved/unreserved-honours-the-strength-of-indigenous-women-1.3472826/indigenous-game-designer-challenges-stereotypes-1.3476519)
- 
-De Guevera, Reba. “Podcast Pedagogy: Stories From the Land” Web. December 31, 2015. [https://rebadeguevara.wordpress.com/2015/12/31/podcast-pedagogy-stories-from-the-land/](https://rebadeguevara.wordpress.com/2015/12/31/podcast-pedagogy-stories-from-the-land/)
- 
 Dillon, Grace. *Walking the Clouds: An Anthology of Indigenous Science Fiction*. Tuscan: University of Arizona Press, 2012.
-
-Erlendson, Chloe. Where the Red Receives Me. Web. 2014. [http://www.philome.la/chloerlendson/where-the-red-receives-me/play](http://www.philome.la/chloerlendson/where-the-red-receives-me/play)
- 
-Gaertner, David. FNIS 454: Indigenous New Media and Digital Storytelling. Web. September 2016. [https://novelalliances.com/2016/10/30/fnis-454-indigenous-new-media-and-digital-storytelling/](https://novelalliances.com/2016/10/30/fnis-454-indigenous-new-media-and-digital-storytelling/)
- 
-Glaskin, Katie. “Innovation and Ancestral Revelation: The Case of Dreams.” *Journal of the Royal Anthropological Institute* 11.2 (2009): 297–314.
- 
-Haas, M. Angela. “Wampum as Hypertext: An American Indian Intellectual Tradition of Multimedia Theory and Practice.” *Studies in American Indian Literatures* 19.4 (2007): 77–100
- 
-Jackson, Lisa. *Vistas: The Visit*. National Film Board of Canada (2009). 
- 
-Justice, Daniel Heath. “‘Go Away, Water!’ Kinship Criticism and the Decolonization Imperative.” *Reasoning Together: The Native Critics Collective*. Eds., Craig S. Womack, Daniel Heath Justice, Christopher B. Teuton. Norman: University of Oklahoma Press, 2008. 147–68. 
-                                                                                                           
-Johnson, Imani Kai.  “Music Meant to Make You Move: Considering the Aural Kinesthetic.” Blog post. Sounding Out. [http://soundstudiesblog.com/2012/06/18/music-meant-to-make-you-move-considering-the-aural-kinesthetic/](http://soundstudiesblog.com/2012/06/18/music-meant-to-make-you-move-considering-the-aural-kinesthetic/)
-
-LaPensée, Elizabeth. *Honor Water*. 2016. Ipad.
-
-———. *We Sing for Healing*. Web. 2015. 
-
-Loft, Steven. “Mediacosmology.” *Coded Territories: Tracing Indigenous Pathways in New Media Art*. Eds. Steven Loft and Kerry Swanson. Calgary: University of Calgary Press, 2014. 169–86.
- 
-Loft, Steven and Kerry Swanson, eds. *Coded Territories: Tracing Indigenous Pathways in New Media Art*. Calgary: University of Calgary Press, 2014. 
   
-MacMahon, Ryan. *Stories from the Land*. Web. 2014-Present. [http://www.indianandcowboy.com/stories-from-the-land-podcast/](http://www.indianandcowboy.com/stories-from-the-land-podcast/)
+Erlendson, Chloe. *Where the Red Receives Me.* 2014.
+http://www.philome.la/chloerlendson/where-the-red-receives-me/play
  
-McPherson, Tara. “Why are the Digital Humanities so White: Thinking the Histories of Race and Computation.” *Debates in the Digital Humanities*. Ed. Matthew K. Gold. Minneapolis: University of Minnesota Press, 2012.
- 
-Recollet, Karyn. “Gesturing Indigenous Futurities Through the Remix.” *Dance Research Journal* 48.1 (2016): 91–105.
- 
-Simpson, Leanne. *Islands of Decolonial Love*. Winnipeg: ARP, 2013.
- 
-Skawennati. CyberPowWow. Web (decommissioned). 1997–2004. Highlights available at [http://www.cyberpowwow.net/](http://www.cyberpowwow.net/)
+Gaertner, David. "Indigenous in Cyberspace: CyberPowWow, God's Lake Narrows, and the Contours of Online Indigenous Territory." *American Indian Culture and Research Journal* 39.4 (2015): 55-76.
 
-Skookum Sound System. 2012. “Ay I Oh Stomp & Operator” (ft. Deano & Amphibian14). [https://www.youtube.com/watch?v=FS43pk8Yjos](https://www.youtube.com/watch?v=FS43pk8Yjos)
-  
-Sparrow, Quelemia. *Ashes on the Water*. Neworld Theatre. Web. 2011. [http://neworldtheatre.com/portfolio-item/podplays/](http://neworldtheatre.com/portfolio-item/podplays/)
+Glaskin, Katie. "Innovation and Ancestral Revelation: The Case of Dreams." *Journal of the Royal Anthropological Institute* 11.2 (2009): 297-314.
  
-Tuck, Eve and Wayne Yang. “Decolonization is not a Metaphor.” *Decolonization: Indigeneity, Education & Society* 1.1 (2012). Web. [http://decolonization.org/index.php/des/article/view/18630](http://decolonization.org/index.php/des/article/view/18630)
+Haas, M. Angela. "Wampum as Hypertext: An American Indian Intellectual Tradition of Multimedia Theory and Practice." *Studies in American Indian Literatures* 19.4 (2007): 77-100.
+ 
+Igloliorte, Heather, Julie Nagam, and Carla Tauton, editors. Indigenous Art: New Media and the Digital. Public 54, Winter 2016.
+
+Lewis, Jason. Initiative for Indigenous Futures. 2017. http://abtec.org/iif/ 
+
+Lapensee, Elizabeth. *Honor Water*. 2016. Ipad.
+  
+Lewis, Jason. Skawennati. "Aboriginal Territories in Cyberspace." *Cultural Survival Quarterly Magazine*. June 2005. https://www.culturalsurvival.org/publications/cultural-survival-quarterly/aboriginal-territories-cyberspace 
+
+Loft, Steven. "Mediacosmology." *Coded Territories: Tracing Indigenous Pathways in New Media Art*. Eds. Steven Loft and Kerry Swanson. Calgary: University of Calgary Press, 2014. 169-86.
+ 
+Loft, Steven and Kerry Swanson, eds. *Coded Territories: Tracing Indigenous Pathways in New Media Art*. Calgary: University of Calgary Press, 2014.
+ 
+MacMahon, Ryan. *Stories from the Land*. Web. 2014-Present.
+http://www.indianandcowboy.com/stories-from-the-land-podcast/
+ 
+McPherson, Tara. "Why are the Digital Humanities so White: Thinking the Histories of Race and Computation." *Debates in the Digital Humanities*. Ed. Matthew K. Gold. Minneapolis: University of Minnesota Press, 2012.
+ 
+Recollet, Karyn. "Gesturing Indigenous Futurities Through the Remix." *Dance Research Journal* 48.1 (2016): 91-105.
+ 
+Simpson, Leanne. "Land as Pedagogy." *Decolonization* 3.3 (2014). Web. 
+http://decolonization.org/index.php/des/article/view/22170 
+ 
+Skawennati. CyberPowWow (decommissioned), 1997-2004, highlights available at http://www.cyberpowwow.net/ 
+ 
+Skookum Sound System. "Ay I Oh Stomp & Operator" (ft. Deano & Amphibian14). 2012. https://www.youtube.com/watch?v=FS43pk8Yjos
+
+Urbanoski, Shelia. Archer Pechawis. *Loving the Spider*, 2012, http://lovingthespider.net

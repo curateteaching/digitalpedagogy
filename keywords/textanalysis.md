@@ -24,12 +24,13 @@ Department of English | University of Massachusetts Lowell | [Website](http://nm
 * unreviewed draft
 * draft version undergoing editorial review
 * draft version undergoing peer-to-peer review
-* **awaiting pre-print copy**
+* **draft version undergoing MLA copyediting**
+* awaiting pre-print copy
 * published 
 
 ---
 
-### Tags: text, reading,  pattern,  interpretation,  analysis
+### Cross-reference keywords: annotation, poetry, reading
 
 ---
 
@@ -44,7 +45,7 @@ Text analysis is fundamental to humanities scholarship and teaching because read
 * interpret the significance of these patterns, relationships, and texts; 
 * develop arguments for the larger significance of these interpretations.
 
-In humanities research, these steps are often iterative and recursive and are rarely labeled as hypothesis, data collection, experimentation, analysis, and argument. Instead, all of these things are called _reading_. This conflation of very different activities under one word has heightened recent debates between data driven approaches to large scale analysis, what Franco Moretti has termed distant reading, and the traditional formalist and hermeneutic approach called literary close reading (Moretti, Trumpener, Goodwin and Holbo). If reading is often hailed as a specific kind of pleasurable, human activity, the term _text analysis_ may seem in contrast to emphasize statistical approaches to quantifiable aspects of language (Hoover; Jockers 25). The specific disciplinary and institutional histories of computer-assisted text analysis, humanities computing, and computational linguistics variously intersect and diverge from those of literary studies more generally (Rockwell, Jockers, Ramsay 2011, Bonelli). 
+In humanities research, these steps are often iterative and recursive and are rarely labeled as hypothesis, data collection, experimentation, analysis, and argument. Instead, all of these things are called _reading_. This conflation of very different activities under one word has heightened recent debates between data driven approaches to large scale analysis, what Franco Moretti has termed distant reading, and the traditional formalist and hermeneutic approach called literary close reading (Moretti; Hayot). If reading is often hailed as a specific kind of pleasurable, human activity, the term _text analysis_ may seem in contrast to emphasize statistical approaches to quantifiable aspects of language (Hoover; Jockers 25). The specific disciplinary and institutional histories of computer-assisted text analysis, humanities computing, and computational linguistics variously intersect and diverge from those of literary studies more generally (Rockwell 209-212; Bonelli 14-20). 
 
 But other scholars have argued that computational analysis merely makes explicit the codes and rules already embedded in the nature of textuality itself. Michael Witmore explains:
 
@@ -59,15 +60,15 @@ Such abstractions include words, characters, themes, or phrases within a particu
 * the widespread availability of computational power and storage offer new ways of curating, displaying, and using collections of texts for human or machine analysis;
 * tools for data visualization and multimodal composition offer new ways of exploring texts and building arguments.
 
-Not only might the objects of humanist study be seen as always addressable, but also its methods of analysis can be understood as already aligned with computation. Stephen Ramsay points out that "critical reading practices already contain elements of the algorithmic" because critical interpretation "relies on a heuristic of radical transformation. The critic . . . puts forth not the text, but a new text in which the data has been paraphrased, elaborated, selected, truncated, and transduced" (Ramsay 2011, 16). Digital technologies can be used to expand the scale of traditional methods (and thereby transform them) or to open entirely new modes and possibilities for text analysis. 
+Not only might the objects of humanist study be seen as always addressable, but also its methods of analysis can be understood as already aligned with computation. Stephen Ramsay points out that "critical reading practices already contain elements of the algorithmic" because critical interpretation "relies on a heuristic of radical transformation. The critic . . . puts forth not the text, but a new text in which the data has been paraphrased, elaborated, selected, truncated, and transduced" (_Reading Machines_ 16). Digital technologies can be used to expand the scale of traditional methods (and thereby transform them) or to open entirely new modes and possibilities for text analysis. 
 
-The artifacts presented here represent a broad spectrum of approaches to teaching text analysis, which I have organized into four categories: rethinking the digital, text analysis tools and methods, textual editing as text analysis, and communicating text analysis digitally. I have focused on assignments aimed at the undergraduate classroom, but many of these could be adapted for other levels. More specialized resources and syllabi for text analysis in courses involving programming languages can be found under Further Resources. 
+The artifacts presented here represent a broad spectrum of approaches to teaching text analysis, which are organized into four categories: rethinking the digital, text analysis tools and methods, textual editing as text analysis, and communicating text analysis digitally. These are assignments aimed at the undergraduate classroom, but many of them could be adapted for other levels. More specialized resources and syllabi for text analysis in courses involving programming languages can be found under Further Resources. 
 
 ### Rethinking the Digital
 
 
 #### Digital Pedagogy Unplugged
-![screenshot](images/text-analysis-dig-hum-unplugged.png)
+![screenshot](images/text-analysis-dig-ped-unplugged.png)
 
 * Artifact Type: article
 * Source URL: http://www.digitalhumanities.org/dhq/vol/5/3/000106/000106.html
@@ -98,12 +99,12 @@ The origin of humanities computing is usually dated to 1949, when Father Roberto
 * Source URL: http://www.briancroxall.net/s15dh/assignments/distant-reading-duffy/
 * Artifact Permissions:
 * Copy of the Artifact:
-* Creator and Affiliation: Brian Croxall (Brown University)
+* Creator and Affiliation: Brian Croxall (Brigham Young University)
 
-This assignment in using the [Voyant](http://voyant-tools.org/) online suite of tools for text analysis foregrounds the difference between traditional close reading approaches to a small number of texts and distant reading of a larger set of texts. In presenting the assignment, Croxall emphasizes the ludic tradition in text analysis, reminding students that they are "operating here under the principle of experimentation that has guided our class" (cf. McGann and Samuels, Rockwell, and Ramsay 2014). This experimental attitude is important in introducing students to tools that help them see textual patterns in new ways. This assignment also asks students to contribute to the work of transcribing the texts for digital analysis. Making the labor of text preparation and cleaning evident to students demystifies the processes of text analysis and opens up conversations about textual transmission more generally. 
+This assignment in using the [Voyant](http://voyant-tools.org/) online suite of tools for text analysis foregrounds the difference between traditional close reading approaches to a small number of texts and distant reading of a larger set of texts. In presenting the assignment, Croxall emphasizes the ludic tradition in text analysis, reminding students that they are "operating here under the principle of experimentation that has guided our class" (cf. McGann and Samuels, Rockwell, and Ramsay "Hermeneutics"). This experimental attitude is important in introducing students to tools that help them see textual patterns in new ways. This assignment also asks students to contribute to the work of transcribing the texts for digital analysis. Making the labor of text preparation and cleaning evident to students demystifies the processes of text analysis and opens up conversations about textual transmission more generally. 
 
 #### Team Project Description for English 203 (_Hamlet_ in the Humanities Lab)
-![screenshot](images/text-analysis-team-project-descrip.png)
+![screenshot](images/text-analysis-team-project-description.png)
 
 * Artifact Type: assignment
 * Source URL: http://ullyot.ucalgaryblogs.ca/2012/01/12/team-project-description-for-english-203/
@@ -115,14 +116,14 @@ This assignment sets up a two-phase group project in which students first learn 
 
 
 #### Topic Modeling Assignment 
-![screenshot](images/text-analysis-topic-modeling-assign.png)
+![screenshot](images/text-analysis-topic-modeling-assignment.png)
 
 * Artifact Type: two part assignment
 * Source URL: https://sherlockholmeslondondh.wordpress.com/2015/03/23/topic-modeling-assignment/
 https://sherlockholmeslondondh.wordpress.com/2015/03/27/topic-modeling-part-2-graphing-the-results/
 * Artifact Permissions:
 * Copy of the Artifact
-* Creator and Affiliation: Joanna Swafford (SUNY New Paltz)
+* Creator and Affiliation: Joanna Swafford (Tufts University)
 
 As Elijah Meeks and Scott Weingart suggest in their introduction to a special issue of _Journal of Digital Humanities_, "Topic modeling could stand in as a synecdoche of digital humanities" because of its algorithmic complexity and potential obscurity. Swafford's two-part topic modeling assignment for undergraduates makes it accessible by giving a clear explanation of the several steps required to prepare textual data, import it into the graphical user interface tool for MALLET, and explore the results. This assignment requires students to try the topic modeling process with different parameters and to assess the results of their experiments. This assignment helps students learn a specific method of text analysis as well as skills in visualizing and interpreting its results in relation to the historical and literary topics of the course. 
 
@@ -141,7 +142,7 @@ As Elijah Meeks and Scott Weingart suggest in their introduction to a special is
 Singer's article examines the utility of the TEI (Text Encoding Initiative) XML markup protocols as a method for analyzing and describing poetic texts, focusing on her experience teaching TEI encoding to an undergraduate senior seminar. Singer presents text encoding not merely as a means to producing an end result, such as a digital edition, but as "a dynamic, hands-on method for self-conscious, unhurried reading" that encourages debates about critical interpretation. Her essay includes discussion not only of the pedagogical approach and assignments she used, but also of student papers written after completing the encoding unit. As Singer suggests, to teach methods like TEI encoding can serve two purposes, equipping students with practical project based skills as well as exposing the interpretive choices that are at the heart of textual editing and text encoding.
 
 #### Digital Annotation Project
-![screenshot](images/text-analysis-digital-annotation.png)
+![screenshot](images/text-analysis-digital-annotation-project.png)
 
 * Artifact Type: assignment
 * Source URL: NA
@@ -152,7 +153,7 @@ Singer's article examines the utility of the TEI (Text Encoding Initiative) XML 
 This sequence of interrelated assignments guides students to work individually and in groups to create a critical edition of a text for use by future classes of their peers. Students define key terms to be annotated, research topics in digitized eighteenth- and nineteenth-century periodicals, and add research-based annotations to the text using [A.nnotate.com](http://a.nnotate.com/). Exposing students to primary research with digitized materials deepens the context for their understanding of the text. Asking students to participate in the process of annotating a text in a collaborative digital environment reveals the research and editorial decisions that lie behind any classroom text. This clearly structured assignment could be adapted for a wide variety of literary or historical texts or for use with other annotation tools.  
 
 #### Juxta Commons Revision/Collation Assignment
-![screenshot](images/text-analysis-Juxta-assignment.png)
+![screenshot](images/text-analysis-juxta-commons-revision.png)
 
 * Artifact Type: assignment
 * Source URL: NA
@@ -160,7 +161,7 @@ This sequence of interrelated assignments guides students to work individually a
 * Copy of the Artifact [files/textanalysis-Walsh-Juxta-Commons-Assignment.pdf](files/textanalysis-Walsh-Juxta-Commons-Assignment.pdf)
 * Creator and Affiliation: Brandon Walsh (Washington and Lee University)
 
-Text analysis tools can be useful for the process of composition as well. In this assignment, and in a related MLA talk [published on his blog](http://bmw9t.github.io/blog/2015/01/17/collation/), Walsh repurposes the scholarly method of collation, the comparing of multiple copies or witnesses of a text, for the teaching of writing. Walsh's assignment teaches students to use Juxta Commons, an online collation tool, to compare multiple drafts of one paragraph from their own essay in order to examine how specific changes alter the writing's focus or tone. On his blog, Walsh also describes an exercise in which students each write out a new version of a draft sentence in a shared Google Document. These assignments make visible the many different choices available to writers, encouraging students "to internalize the practice of collation and reflect on the interpretive possibilities offered by such differences." 
+Text analysis tools can be useful for the process of composition as well. In this assignment, and in a related MLA talk [published on his blog](http://walshbr.com/blog/2015/01/17/collation/), Walsh repurposes the scholarly method of collation, the comparing of multiple copies or witnesses of a text, for the teaching of writing. Walsh's assignment teaches students to use Juxta Commons, an online collation tool, to compare multiple drafts of one paragraph from their own essay in order to examine how specific changes alter the writing's focus or tone. On his blog, Walsh also describes an exercise in which students each write out a new version of a draft sentence in a shared Google Document. These assignments make visible the many different choices available to writers, encouraging students "to internalize the practice of collation and reflect on the interpretive possibilities offered by such differences." 
 
 ### Communicating Text Analysis Digitally
 
@@ -191,71 +192,65 @@ This assignment requires students to use multimedia digital technologies to comm
 
 ## RELATED MATERIALS
 
-Fyfe, Paul. "How to Not Read a Victorian Novel." _Journal of Victorian Culture_ 16.1 (Spring 2011): 84-88.
+Fyfe, Paul. "How to Not Read a Victorian Novel." _Journal of Victorian Culture_ vol. 16, no. 1, Spring 2011, pp. 84-88.
 
 Jockers, Matthew. _Text Analysis with R for Students of Literature_. Cham, Switzerland: Springer, 2014. 
 
 Selected Syllabi for Courses Including Computational Text Analysis. [files/text-analysis-syllabi.md](files/text-analysis-syllabi.md)
 
-Sinclair, St&eacute;fan and Geoffrey Rockwell. "Teaching Computer-Assisted Text Analysis." _Digital Humanities Pedagogy: Practices, Principles and Politics. Ed. Brett D. Hirsch. Open Book Publishers, 2012. Kindle file.
+Sinclair, St&eacute;fan and Geoffrey Rockwell. "Teaching Computer-Assisted Text Analysis." _Digital Humanities Pedagogy: Practices, Principles and Politics_, edited by Brett D. Hirsch, Open Book Publishers, 2012. Kindle file.
 
-Weingart, Scott. "Topic Modeling for Humanists: A Guided Tour." _The Scottbot Irregular_. 25 July 2012. Web. Accessed 30 Mar. 2015.
+Weingart, Scott. "Topic Modeling for Humanists: A Guided Tour." _The Scottbot Irregular_. 25 July 2012. www.scottbot.net/HIAL/index.html@p=19113.html. Accessed 30 Mar. 2015.
 
 
 ## WORKS CITED
 
-Bonelli, Elena Tognini. "Theoretical overview of the evolution of corpus linguistics." _The Routledge Handbook of Corpus Linguistics_. London: Routledge, 2010. Print.
+Bonelli, Elena Tognini. "Theoretical overview of the evolution of corpus linguistics." _The Routledge Handbook of Corpus Linguistics_. London: Routledge, 2010. 
 
-Buurma, Rachel Sagner. "Indexing _In Memoriam_ Assignment." 13 Nov. 2014. Web. Accessed 30 Mar. 2015.
+Buurma, Rachel Sagner. "Indexing _In Memoriam_ Assignment." 13 Nov. 2014. github.com/rbuurma/vic_info/blob/master/Indexing_In_Memoriam_assignment.md. Accessed 30 Mar. 2015.
 
-Croxall, Brian. "Distant Reading Duffy." _Intro to DH Engl 389 Emory University Spring 2015_. Web. Accessed 30 Mar. 2015.
+Croxall, Brian. "Distant Reading Duffy." _Intro to DH Engl 389 Emory University Spring 2015_. www.briancroxall.net/s15dh/assignments/distant-reading-duffy/. Accessed 30 Mar. 2015.
 
-Dierkes-Thrun, Petra. "Image and Sound Interpretation: Wilde, "The Harlot's House." Course assignment. Oscar Wilde and the French Decadents. Stanford University. 29 September 2012. Web. Accessed 30 Mar. 2015.   
+Dierkes-Thrun, Petra. "Image and Sound Interpretation: Wilde, "The Harlot's House." Course assignment. Oscar Wilde and the French Decadents. Stanford University. 29 September 2012. https://wildedecadents.wordpress.com/2012/09/29/image-and-sound-interpretation-wilde-the-harlots-house-exercise-2/. Accessed 30 Mar. 2015.   
 
-Fyfe, Paul. "Digital Pedagogy Unplugged." _Digital Humanities Quarterly (DHQ)_ 5.3 (2011). Web. Accessed 30 Mar. 2015.
+Fyfe, Paul. "Digital Pedagogy Unplugged." _Digital Humanities Quarterly (DHQ)_ 5.3 (2011). www.digitalhumanities.org/dhq/vol/5/3/000106/000106.html. Accessed 30 Mar. 2015.
 
-Fyfe, Paul. "How to Not Read a Victorian Novel." _Journal of Victorian Culture_ 16.1 (Spring 2011): 84-88. Print.
+Fyfe, Paul. "How to Not Read a Victorian Novel." _Journal of Victorian Culture_ vol. 16, no. 1, Spring 2011, pp. 84-88.
 
-Goodwin, Jonathan and John Holbo, eds. _Reading Graphs, Maps, and Trees: Responses to Franco Moretti_. Parlor Press, 2011. Web. Accessed 30 March 2015.
+Hayot, Eric. "A Hundred Flowers." _Reading Graphs, Maps, and Trees: Responses to Franco Moretti_, edited by Jonathan Goodwin and John Holbo. Parlor Press, 2011. 64-70.
 
-Hockey, Susan. "The History of Humanities Computing." _A Companion to Digital Humanities_. Ed. Susan Schreibman, Ray Siemens, and John Unsworth. Oxford: Blackwell, 2004. Online edition. Web. Accessed 30 March 2015.
+Hockey, Susan. "The History of Humanities Computing." _A Companion to Digital Humanities_. Ed. Susan Schreibman, Ray Siemens, and John Unsworth. Oxford: Blackwell, 2004. Online edition. www.digitalhumanities.org/companion/. Accessed 30 March 2015.
 
-Hoover, David L. "Textual Analysis." _Literary Studies in the Digital Age: An Evolving Anthology_. Modern Language Association. Web. Accessed 30 March 2015.
+Hoover, David L. "Textual Analysis." _Literary Studies in the Digital Age: An Evolving Anthology_. Modern Language Association. dlsanthology.mla.hcommons.org/textual-analysis/. Accessed 30 March 2015.
 
-Hunter, Leeann. "Digital Poster." Assignment handout. Architecture and Design in Victorian Literature. Georgia Institute of Technology. Atlanta. Spring 2011. Web. Accessed 30 March 2015.    
+Hunter, Leeann. "Digital Poster." Assignment handout. Architecture and Design in Victorian Literature. Georgia Institute of Technology. Atlanta. Spring 2011. http://www.leeannhunter.com/wp-content/uploads/2011/10/DigitalPoster.pdf. Accessed 30 March 2015.    
 
-Malone, Katherine. "Digital Annotation Project." Assignment handout. Mosaic Humanities Seminar, Temple University. Philadelphia. Spring 2013. Print.
+Malone, Katherine. "Digital Annotation Project." Assignment handout. Mosaic Humanities Seminar, Temple University. Philadelphia. Spring 2013. 
 
-Jockers, Matthew. _Macroanalysis: Digital Methods & Literary History_. Urbana: U of Illinois P, 2013. Print.
+Jockers, Matthew. _Macroanalysis: Digital Methods & Literary History_. Urbana: U of Illinois P, 2013. 
 
-McGann, Jerome and Lisa Samuels. "Deformance and Interpretation." _New Literary History_ 30.1 (Winter 1999): 25-56. Print.
+McGann, Jerome and Lisa Samuels. "Deformance and Interpretation." _New Literary History_ vol. 30, no. 1, Winter 1999, pp. 25-56.
 
-Meeks, Elijah and Scott B. Weingart. "The Digital Humanities Contribution to Topic Modeling." _Journal of Digital Humanities_ 2.1 (Winter 2012). Web. Accessed 30 Mar. 2015. 
+Meeks, Elijah and Scott B. Weingart. "The Digital Humanities Contribution to Topic Modeling." _Journal of Digital Humanities_ vol. 2, no. 1, Winter 2012, http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/. Accessed 30 Mar. 2015. 
 
-Moretti, Franco. _Distant Reading_. London: Verso, 2013. Print.
+Moretti, Franco. _Distant Reading_. London: Verso, 2013. 
 
-Ramsay, Stephen. "The Hermeneutics of Screwing Around; or What You Do with a Million Books." _Pastplay: Teaching and Learning History with Technology_.  Ann Arbor, MI: U of Michigan P, 2014. 111-120. Web. Accessed 30 Mar. 2015.
+Ramsay, Stephen. "The Hermeneutics of Screwing Around; or What You Do with a Million Books." _Pastplay: Teaching and Learning History with Technology_.  Ann Arbor, MI: U of Michigan P, 2014. 111-120. dx.doi.org/10.3998/dh.12544152.0001.001. Accessed 30 Mar. 2015.
 
-Ramsay, Stephen. _Reading Machines: Toward an Algorithmic Criticism_. Urbana: U of Illinois P, 2011. Print.
+Ramsay, Stephen. _Reading Machines: Toward an Algorithmic Criticism_. Urbana: U of Illinois P, 2011. 
 
-Rockwell, Geoffrey. "What is Text Analysis, Really?" _Literary and Linguistic Computing_ 18.2 (2003): 209-219. Print. 
+Rockwell, Geoffrey. "What is Text Analysis, Really?" _Literary and Linguistic Computing_ vol. 18, no. 2, 2003, pp. 209-219. 
 
-Sinclair, St&eacute;fan and Geoffrey Rockwell. "Teaching Computer-Assisted Text Analysis." _Digital Humanities Pedagogy: Practices, Principles and Politics. Ed. Brett D. Hirsch. Open Book Publishers, 2012. Kindle file. 
+Singer, Kate. "Digital Close Reading: TEI for Teaching Poetic Vocabularies." _The Journal of Interactive Technology and Pedagogy_, vol. 3, 2013, jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/. Accessed 30 Mar. 2015.
 
-Singer, Kate. "Digital Close Reading: TEI for Teaching Poetic Vocabularies." _The Journal of Interactive Technology and Pedagogy_ 3 (2013). Web. Accessed 30 Mar. 2015.
+Swafford, Joanna. "Topic Modeling Assignment" _Digital Tools for the 21st Century: Sherlock Holmes's London_, 23 March 2015, sherlockholmeslondondh.wordpress.com/2015/03/23/topic-modeling-assignment/. Accessed 30 Mar. 2015. 
 
-Swafford, Joanna. "Topic Modeling Assignment" _Digital Tools for the 21st Century: Sherlock Holmes's London_. 23 March 2015. Web. Accessed 30 Mar. 2015. 
+Swafford, Joanna. "Topic Modeling Part 2: Graphing the Results." _Digital Tools for the 21st Century: Sherlock Holmes's London_. 27 March 2015. sherlockholmeslondondh.wordpress.com/2015/03/27/topic-modeling-part-2-graphing-the-results/. Accessed 30 Mar. 2015.  
 
-Swafford, Joanna. "Topic Modeling Part 2: Graphing the Results." _Digital Tools for the 21st Century: Sherlock Holmes's London_. 27 March 2015. Web. Accessed 30 Mar. 2015.  
+Ullyot, Michael. "Team Project Description for English 203." _Michael Ullyot_, ullyot.ucalgaryblogs.ca/2012/01/12/team-project-description-for-english-203/. Accessed 30 Mar. 2015.  
 
-Trumpener, Katie. "Paratext and Genre System: A Repsonse to Franco Moretti." _Critical Inquiry_ 36 (Autumn 2009): 159-171. Print.
+Ullyot, Michael. "Teaching _Hamlet_ in the Humanities Lab." Renaissance Society of America, 23 March 2012, _Michael Ullyot_,ullyot.ucalgaryblogs.ca/2012/04/05/teaching-hamlet-in-the-humanities-lab/. Accessed 30 Mar. 2015. 
 
-Ullyot, Michael. "Team Project Description for English 203." _Michael Ullyot_. Web. Accessed 30 Mar. 2015.  
+Walsh, Brandon. "Collation and Writing Pedagogy." _Brandon Walsh_, 17 Jan. 2015, http://walshbr.com/blog/2015/01/17/collation/.  Accessed 30 Mar. 2015.
 
-Ullyot, Michael. "Teaching _Hamlet_ in the Humanities Lab." Renaissance Society of America, 23 March 2012. _Michael Ullyot_. Web. Accessed 30 Mar. 2015. 
-
-Walsh, Brandon. "Collation and Writing Pedagogy." _Brandon Walsh_. 17 Jan. 2015. Web.  Accessed 30 Mar. 2015.
-
-Weingart, Scott. "Topic Modeling for Humanists: A Guided Tour." _The Scottbot Irregular_. 25 July 2012. Web. Accessed 30 Mar. 2015.
-
-Witmore, Michael. "Text: A Massively Addressable Object." _Debates in the Digital Humanities_. Ed. Matthew K. Gold. Open access edition. Web. Accessed 30 Mar. 2015.
+Witmore, Michael. "Text: A Massively Addressable Object." _Debates in the Digital Humanities_, edited by Matthew K. Gold, Open access edition, http://dhdebates.gc.cuny.edu/debates/text/28. Accessed 30 Mar. 2015.
