@@ -33,7 +33,7 @@ The last set of questions have to do with thinking about visualizations as human
 
 **Graphical Features:** An important part of learning to read and create visualizations is to understand what graphical features like colour, orientation, or location mean. For example, in a word cloud, does the colour of words mean something about the text or is it an aesthetic selection of the programmer? One can start a workshop by showing simple visualizations and asking students to identify the features used and then guess at how the visualization uses them to show meaning. This can lead to a discussion of what one could do with graphical features and what graphical features are best suited for representing what types of evidence. See Bertin’s *Semiology of Graphics* (2010) for an influential discussion of the types of variables from size, position, colour, shape, orientation and texture.
 
-**Progression:** One way to teach a practice based stream where students use visualizations is to progress from using relatively simple tools (like [Infogr.am](https://infogr.am/) and [Voyant](https://voyant-tools.org) to adapting the data, code and styling of [D3 visualizations](https://d3js.org/), using [RAW](http://raw.densitydesign.org/) as a bridge. 
+**Progression:** One way to teach a practice based stream where students use visualizations is to progress from using relatively simple tools (like [Infogr.am](https://infogr.am/) and [Voyant](https://voyant-tools.org) to adapting the data, code and styling of [D3 visualizations](https://d3js.org/), using [RAWGraphs](http://raw.densitydesign.org/) as a bridge. 
 
 **Questions:** Some questions that provide a context for discussion include:
 
@@ -156,7 +156,7 @@ Infogr.am is a web-based application that makes it relatively easy to experiment
 
 Infographics can be introduced by discussing the rhetorical style of [“The Humanities Matter!” infographic](http://4humanities.org/2013/07/the-humanities-matter-infographic/), followed by asking students to experiment with storytelling in Infogr.am using several different charts and maps, on a topic of their choice. The free version of Infogr.am is usually sufficient for the purposes of creating simple infographics.
 
-#### “RAW”
+#### “RAWGraphs”
 
 ![Screenshot of RAW website](images/visualization-Raw.png)
 
@@ -164,9 +164,9 @@ Infographics can be introduced by discussing the rhetorical style of [“The Hum
 * Source URL: [http://raw.densitydesign.org/](http://raw.densitydesign.org/)
 * Creator and Affiliation: DensityDesign Lab (Giorgio Caviglia, Giorgio Uboldi, Matteo Azzi, Michele Mauri)
 
-RAW says in its tagline that it is “The missing link between spreadsheets and vector graphics”. It may not be the only missing link out there, but it certainly is powerful and user-friendly. Students can choose from one of the sample datasets (cars, movies, music, cocktails), or copy and paste data from their own spreadsheet. Next students can choose from one of 16 interesting chart types and customize which data column should be used for structure, colour, size and other chart dimensions.
+RAWGraphs says in its tagline that it is “The missing link between spreadsheets and vector graphics”. It may not be the only missing link out there, but it certainly is powerful and user-friendly. The site provides a [Learning section](http://rawgraphs.io/learning/) with short and clear tutorials for creating and customizing different kinds of charts.
 
-RAW provides ample opportunity for students to think about the nature and format of different datasets, the rhetorical baggage of different genres of visualization, and how different visualizations with different options can show the same data very differently. RAW is also an excellent on-ramp for [web-based D3 visualizations](https://d3js.org/).
+RAWGraphs provides ample opportunity for students to think about the nature and format of different datasets, the rhetorical baggage of different genres of visualization, and how different visualizations with different options can show the same data very differently. RAWGraphs is also an excellent on-ramp for [web-based D3 visualizations](https://d3js.org/).
 
 #### “Voyant Tools”
 
