@@ -78,7 +78,7 @@ These Interface assignments and Related Materials address a wide spectrum of stu
 It's ambitious to assign *House of Leaves* in an introductory literature class.  Jeremy Douglass and Steven Pokornowski create a two-part interface assignment. The prompt procedurally guides students through making a [remix] (https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/remix.md) of one page--and only one page--in *HoL*. Making their collages, students can work with digital image software or with the other "digits," their fingers, making collage from arts and craft supplies. Handmade remixes are photographed; all remixes are tagged and uploaded to the class's Tumblr site which itself remixes the individual pages into a fragmentary collective reading of the novel. Their heterogeneity, and the accumulation of student work over time, refracts the source text's unfinalizability.
 <!-- #3-->
 ### Deformance as Remix
-![screenshot](images/interface-deformance) 
+![screenshot](images/interface-deformance.jpg) 
 
 * Artifact Type: Assignment 
 * Source URL: <https://tuelit13.wordpress.com/deformation/>
