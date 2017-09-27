@@ -60,7 +60,7 @@ In each of the four tiers outlined here, failure may prove productive and engagi
 
 * Artifact Type: collaborative projects
 * Source URL: [https://archive.org/details/LearningThroughDigitalMedia](https://archive.org/details/LearningThroughDigitalMedia)
-* Permissions:
+* Permissions: CC BY-NC-SA 3.0
 * Creator and Affiliation: [Kathleen Fitzpatrick](http://www.plannedobsolescence.net), Michigan State University
 * Tags: reflective essay; Google Wave; defunct technology; class notes; getting started; writing
 
@@ -74,7 +74,7 @@ Google Wave was billed as "what email would look like if it were invented today"
 
 * Artifact Type: assignments
 * Source URL: [http://jitp.commons.gc.cuny.edu/how-could-you-let-that-happen-student-expectations-for-blog-monitoring/](http://jitp.commons.gc.cuny.edu/how-could-you-let-that-happen-student-expectations-for-blog-monitoring/)
-* Permissions: 
+* Permissions: CC BY-NC-SA 3.0
 * Creator and Affiliation: Mark D. Pepper, Utah Valley University
 * Tags: reflective essay; blogging; getting started; writing
 
@@ -86,7 +86,7 @@ Google Wave was billed as "what email would look like if it were invented today"
 
 * Artifact Type: collaborative projects
 * Source URL: [http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.3](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.3)
-* Permissions: 
+* Permissions: CC BY-NC-ND 3.0
 * Creator and Affiliation: [Shawn Graham](http://electricarchaeology.ca/), Carleton University
 * Tags: reflective essays; wikis; Wikipedia; getting started; writing
 
@@ -100,7 +100,7 @@ In a order to teach his students "how historians create knowledge using digital 
 
 * Artifact Type: assignments
 * Source URL: [http://3844f13.quinnwarnick.com/unit3/](http://3844f13.quinnwarnick.com/unit3/)
-* Permissions:
+* Permissions: CC BY-NC-SA 3.0
 * Creator and Affiliation: [Quinn Warnick](http://quinnwarnick.com/), Virginia Tech
 * Tags: user interface; user experience; UI/UX; evaluation; getting started; PowerPoint; writing
 
@@ -112,7 +112,7 @@ To help students understand digital artifacts as a product of both intentional d
 
 * Artifact Type: assignments
 * Source URL: [http://www.rooksbay.com/2015/03/creating-and-coding-a-professional-website/](http://www.rooksbay.com/2015/03/creating-and-coding-a-professional-website/) 
-* Permissions: 
+* Permissions: Permissions form
 * Creator and Affiliation: [Ron Brooks](http://www.rooksbay.com), Montclair State University
 * Tags: reverse engineering; CSS; HTML; coding; getting started; portfolio
 
@@ -126,7 +126,7 @@ After students have created professional online portfolios using simple, free to
 
 * Artifact Type: learning objective
 * Source URL: [http://www.insidehighered.com/views/2012/08/21/essay-importance-teaching-failure](http://www.insidehighered.com/views/2012/08/21/essay-importance-teaching-failure)
-* Permissions: 
+* Permissions: Permissions form
 * Creator and Affiliation: [Edward Burger](http://www.southwestern.edu/president/), Southwestern University
 * Tags: reflective essay; getting started; writing; grading
 
@@ -138,7 +138,7 @@ Mathematician and Southwestern University President Edward Burger suggests teach
 
 * Artifact Type: assignments
 * Source URL: [http://web.archive.org/web/20150822212436/sites.davidson.edu/hacking/course-guidelines/flogging-reflection](http://web.archive.org/web/20150822212436/sites.davidson.edu/hacking/course-guidelines/flogging-reflection)
-* Permissions: 
+* Permissions: Permissions form
 * Creator and Affiliation: 
 * Creator: [Mark Sample](http://samplereality.com), Davidson College
 * Tags: writing; blogging; reflective essay; getting started
@@ -151,7 +151,7 @@ As part of a new Digital Studies program at Davidson College, Mark Sample's *Hac
 
 * Artifact Type: syllabi
 * Source URL: [http://files.dsalo.info/644syllsum2014.pdf](http://files.dsalo.info/644syllsum2014.pdf)
-* Permissions:
+* Permissions: CC0 US
 * Creator: [Dorothea Salo](http://dsalo.info/), University of Wisconsin--Madison
 * Tags: writing; reflective essay; getting started
 
@@ -163,7 +163,7 @@ Taking inspiration from Edward Burger's "Teaching to Fail" (mentioned above), Do
 
 * Artifact Type: assignments
 * Source URL: [http://oss.adm.ntu.edu.sg/2014-da9003/micro-project-vi-glitched-abberations/](http://oss.adm.ntu.edu.sg/2014-da9003/micro-project-vi-glitched-abberations/)
-* Permissions:
+* Permissions: Permissions form
 * Creator: [Randall Packer](http://www.randallpacker.com/), Nanyang Technological University
 * Tags: art; getting started; Photoshop; text editor; blogging; images; code; hacking
 
@@ -175,7 +175,7 @@ In a class focusing on "Internet Art & Culture," Randall Packer provides his stu
 
 * Artifact Type: assignments
 * Source URL: [http://compositionforum.com/issue/27/failure.php](http://compositionforum.com/issue/27/failure.php)
-* Permissions:
+* Permissions: CC BY-SA 3.0
 * Creator: Allison Carr, Coe College
 * Tags: reflective essay; affect; emotion; graduate school; pedagogy; writing
 
