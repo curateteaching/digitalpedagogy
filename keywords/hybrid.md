@@ -140,7 +140,7 @@ In her hybrid USC Annenberg course, Kathi Inman Berens works with students face-
 A hybrid learning environment deconstructs hierarchies, giving students a fuller sense of their own agency. In winter 2013, I co-taught with Kathi Inman Berens a small seminar with four non-traditional undergraduate students. Together, the students worked with the Library of Congress in Washington D.C. to build a social media campaign promoting the LOC's first exhibit of electronic literature. The students also coordinated a physical event at the Lake Oswego Library outside Portland, OR. Their goal was to bring the Library of Congress to Portland and the Web—and to bring Portland and the Web to the Library of Congress, using digital technology to connect physical work happening at two remote locations. From the [artist statement](http://spinepoetry.com/about): “Spine poems bridge the physical world of books with stories that are born digitally.” The project was the course, designed and developed by the students from the start with the teachers participating as co-learners.
 
 ### "The Kelly Writers House"
-screenshot (sent via e-mail)
+![screenshot](images/hybrid-kelly-writers-house.png)
 
 * Type of Artifact: Collaborative Projects
 * Source URL: <http://writing.upenn.edu/wh/>
