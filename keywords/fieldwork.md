@@ -8,10 +8,13 @@ author:
   given: Colette 
 - family: Levy
   given: Michelle 
-  
+ - family: Zahir
+  given: Abdul  
 editor: 
 - family: Sayers
   given: Jentery
+- family: Davis
+  given: Rebecca Frost
 publisher: Modern Language Association
 type: book
 ---
@@ -26,8 +29,10 @@ Simon Fraser University
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review**
-* published
+* draft version undergoing peer-to-peer review
+* **draft version undergoing MLA copyediting**
+* awaiting pre-print copy
+* published 
 
 ---
 
