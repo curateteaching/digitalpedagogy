@@ -63,7 +63,7 @@ As expected, questions of embodiment and presence pervade the literature on onli
 * Artifact permissions: CC-BY 4.0
 * Creator and Affiliation: Adam Croom & John Stewart, University of Oklahoma
 
-GitHub is a platform for authorship, collaboration, and peer review. Originally created for software developers to share code, GitHub gained popularity because of its “fork” functionality, which allows users to copy code to their own GitHub account and make changes without affecting original files. The Fork U! resource, assembled by Croom and Stewart, offers low-risk GitHub activities. Fork U! resources are forkable (i.e., can be copied and reused without affecting the “master” project) and can be used to explore digital authorship, as it allows students to author projects, share and discuss copies of those projects, and copy/edit resources authored by others. Group projects authored via GitHub could deepen collaboration and extend shared authorship. Other examples of Github resources include this [Musicianship syllabus](http://kris.shaffermusic.com/musicianshipResources/), course materials for [Humanizing Technology](https://github.com/karlstolley/ht), assignments for [Fashioning Circuits](https://github.com/fashioning-circuits), and peer assessment activities for [Reproducible Data](https://github.com/rdpeng/RepData_PeerAssessment1). 
+GitHub is a platform for authorship, collaboration, and peer review. Originally created for software developers to share code, GitHub gained popularity because of its “fork” functionality, which allows users to copy code to their own GitHub account and make changes without affecting original files. The Fork U! resource, assembled by Croom and Stewart, offers low-risk GitHub activities. Fork U! resources are forkable (i.e., can be copied and reused without affecting the “master” project) and can be used to explore digital authorship, as it allows students to author projects, share and discuss copies of those projects, and copy/edit resources authored by others. Group projects authored via GitHub could deepen collaboration and extend shared authorship. Other examples of Github resources include these [Musicianship resources](https://github.com/kshaffer/musicianshipResources), course materials for [Humanizing Technology](https://github.com/karlstolley/ht), assignments for [Fashioning Circuits](https://github.com/fashioning-circuits), and peer assessment activities for [Reproducible Data](https://github.com/rdpeng/RepData_PeerAssessment1). 
 
 
 #### ds106 Assignment Bank creator
@@ -95,7 +95,7 @@ Thought Vectors, a course offered at Virginia Commonwealth University, follows t
 * Artifact permissions: Wikity content is CC-0
 * Creator and Affiliation: Mike Caulfield, Washington State University - Vancouver
 
-Mike Caulfield launched digipo, a wiki where students from any university or college can evaluate information and claims made on the web, in response to the alarming prevalence of inaccurate and fake information on the web. Through digipo assignments, students develop skills in evaluating digital information and media, such as online news stories, memes, and images, and then author analyses on the digipo wiki. Instructors who want to use digipo in their classes can visit the [digipo help page](https://www.digipo.io/wiki/help/index.htm)
+Mike Caulfield launched digipo, a wiki where students from any university or college can evaluate information and claims made on the web, in response to the alarming prevalence of inaccurate and fake information on the web. Through digipo assignments, students develop skills in evaluating digital information and media, such as online news stories, memes, and images, and then author analyses on the digipo wiki. Students develop key digital and information literacy skills, such as understanding  the context for information they find on the web, and the process of creating information on the web (for more, see the [Association of College and Research Libraries Framework for Information Literacy in Higher Education](http://www.ala.org/acrl/standards/ilframework). Instructors who want to use digipo in their classes can visit the [digipo help page](https://www.digipo.io/wiki/help/index.htm)
 
 
 ### Community
@@ -108,7 +108,7 @@ Mike Caulfield launched digipo, a wiki where students from any university or col
 * Artifact permissions: CC-BY-SA 4.0
 * Creator and Affiliation: Educator Innovator / National Writing Project
 
-Many of today’s MOOCs—explicitly or implicitly—do not aim to foster community. But the first MOOCs, which started well before Coursera and EdX were established, focused on creating networks of learners that could be responsive to evolving interests and needs. These MOOCs demonstrated the power of connected learning, that “is not simply a ‘technique’ for improving individual educational outcomes, but rather seeks to build communities and collective capacities for learning and opportunity…” (Ito et al., 8). Communities to which students connect, more than the instructor alone, can provide ongoing resources and can be a source of new connections as a learner develops areas of interest, inquiry, and work. clMOOC shows how a course can be designed to intentionally foster community and makes explicit its goal of providing ample opportunities for learners to connect. In particular, see examples of Twitter chats, Make Cycles, Blog Hub, Make Bank, and social tools.
+Many of today’s MOOCs—explicitly or implicitly—do not aim to foster community. But the first MOOCs, which started well before Coursera and EdX were established, focused on creating networks of learners that could be responsive to evolving interests and needs. These MOOCs demonstrated the power of connected learning, that “is not simply a ‘technique’ for improving individual educational outcomes, but rather seeks to build communities and collective capacities for learning and opportunity…” (Ito et al., 8). Communities to which students connect, more than the instructor alone, can provide ongoing resources and can be a source of new connections as a learner develops areas of interest, inquiry, and work. clMOOC shows how a course can be designed to intentionally foster community and makes explicit its goal of providing ample opportunities for learners to connect. In particular, see examples of [Twitter chats](http://clmooc.educatorinnovator.org/2015/guide-to-social-tools/getting-started-with-twitter-and-twitter-chats/), [Make Cycles](http://clmooc.educatorinnovator.org/2015/make-cycles/), [Blog Hub](http://clmooc.educatorinnovator.org/2015/blog-hub/), [Make Bank](https://clmoocmb.educatorinnovator.org/home/), and [social tools](http://clmooc.educatorinnovator.org/2015/guide-to-social-tools/).
 
 
 #### FemTechNet: Key Learning Projects
@@ -180,6 +180,8 @@ Stommel, Jesse. “Online learning: A Manifesto.” *Hybrid Pedagogy*. 3 Decembe
 
 ## WORKS CITED
 
+Association of College and Research Libraries. "Framework for Information Literacy for Higher Education." 11 January 2016. Accessed 27 September 2017. [http://www.ala.org/acrl/standards/ilframework](http://www.ala.org/acrl/standards/ilframework)
+
 Bayne, Siân. “The Embodiment of the Online Learner.” *Beyond the comfort zone: Proceedings of the 21st ASCILITE Conference*. (2004): pp. 105-115. Accessed 1 May 2016. [http://www.ascilite.org/conferences/perth04/procs/pdf/bayne.pdf](http://www.ascilite.org/conferences/perth04/procs/pdf/bayne.pdf)
 
 Campbell, Gardner. “A personal cyberinfrastructure.” *Educause Review*. vol. 44, no. 5 (September/October 2009): 58–59. Accessed 1 May 2016. [http://er.educause.edu/articles/2009/9/a-personal-cyberinfrastructure](http://er.educause.edu/articles/2009/9/a-personal-cyberinfrastructure)
@@ -206,6 +208,8 @@ Holden, Remi. “About that Annotation Flash Mob.” 27 April 2016. Accessed 1 M
 
 Jenkins, Henry et al. “Confronting the Challenges of Participatory Culture: Media Education for the 21st Century.” MIT Press. 2009. Accessed 10 June 2016. [https://mitpress.mit.edu/sites/default/files/titles/free_download/9780262513623_Confronting_the_Challenges.pdf](https://mitpress.mit.edu/sites/default/files/titles/free_download/9780262513623_Confronting_the_Challenges.pdf)
 
+Knight, Kim & Harrison Massey. "Fashioning Circuits." Accessed 27 September 2017. [https://github.com/fashioning-circuits](https://github.com/fashioning-circuits)
+
 Ito, Mizuko et al. “Connected Learning: An Agenda for Research and Design.” Connected Learning Research Network. 2012. Accessed 10 June 2016. [http://dmlhub.net/wp-content/uploads/files/Connected_Learning_report.pdf](http://dmlhub.net/wp-content/uploads/files/Connected_Learning_report.pdf)
 
 Land, Ray. “Issues of embodiment and risk.” *Beyond the comfort zone: Proceedings of the 21st ASCILITE Conference*. (2004): pp. 105-115. Accessed 1 May 2016. [http://www.ascilite.org/conferences/perth04/procs/land.html](http://www.ascilite.org/conferences/perth04/procs/land.html)
@@ -220,6 +224,8 @@ Morris, Sean Michael. “Decoding digital pedagogy, Pt. 1: Beyond the LMS.” *H
 
 Pacansky-Brock, Michelle. “Introduction to Still Photography syllabus.” Accessed 1 May 2016. [https://voicethread.com/myvoice/#thread/2610203](https://voicethread.com/myvoice/#thread/2610203)
 
+Peng, Roger D. et al. "Rep Data Peer Assessment." Accessed 27 September 2017. [https://github.com/rdpeng/RepData_PeerAssessment1](https://github.com/rdpeng/RepData_PeerAssessment1)
+
 Rheingold, Howard. Attention, and other 21st-century social media literacies. *Educause Review*. vol. 45, no. 5 (September/October 2010): 14–24. Accessed 12 June 2016. [http://er.educause.edu/articles/2010/10/attention-and-other-21stcentury-social-media-literacies](http://er.educause.edu/articles/2010/10/attention-and-other-21stcentury-social-media-literacies)
 
 Rheingold, Howard. *Net Smart: How to Thrive Online*. Cambridge: The MIT Press, 2014. 
@@ -230,8 +236,16 @@ Ross, Jen & Amy Collier. “Complexity, Mess, and Not-yetness: Teaching Online w
 
 Ross, Jen et al. “Manifesto for Online Teaching.” Accessed 1 May 2016. [https://onlineteachingmanifesto.wordpress.com/](https://onlineteachingmanifesto.wordpress.com/)
 
+Schaeffer, Kris. "Musicianship resources." Accessed 27 September 2017. [https://github.com/kshaffer/musicianshipResources](https://github.com/kshaffer/musicianshipResources)
+
 Schaeffer, Kris. “Push, Pull, Fork: GitHub for Academics.” *Hybrid Pedagogy*. 26 May 2013. Accessed 12 June 2016. [http://www.digitalpedagogylab.com/hybridped/push-pull-fork-github-for-academics/](http://www.digitalpedagogylab.com/hybridped/push-pull-fork-github-for-academics/)
+
+Stoller, Karl. "Humanizing technology." Accessed 27 September 2017. [https://github.com/karlstolley/ht](https://github.com/karlstolley/ht)
 
 Stommel, Jesse. “Online learning: A Manifesto.” *Hybrid Pedagogy*. 3 December 2012. Accessed 1 May 2016. [http://www.digitalpedagogylab.com/hybridped/online-learning-a-manifesto/](http://www.digitalpedagogylab.com/hybridped/online-learning-a-manifesto/)
 
 Straumsheim, Carl. “Love letter to Blended Learning.” *Inside Higher Ed*. 20 April 2016. Accessed 1 May 2016. [https://www.insidehighered.com/news/2016/04/20/mit-online-learning-report-notes-importance-teachers-instructional-designers](https://www.insidehighered.com/news/2016/04/20/mit-online-learning-report-notes-importance-teachers-instructional-designers)
+
+Watkins, Brian. "Better Reading Through Annotating: An Anthropology Example." *Digital Pedagogy @ Austin College.* 21 April 2016. 27 September 2017.
+
+Watters, Audrey. "The Web We Need to Give Students." *Medium* 15 July 2015. Accessed 27 September 2017. [https://medium.com/bright/the-web-we-need-to-give-students-311d97713713#.y7hguujk3](https://medium.com/bright/the-web-we-need-to-give-students-311d97713713#.y7hguujk3)
