@@ -8,7 +8,7 @@ author:
   given: Colette 
 - family: Levy
   given: Michelle 
- - family: Zahir
+- family: Zahir
   given: Abdul  
 editor: 
 - family: Sayers
