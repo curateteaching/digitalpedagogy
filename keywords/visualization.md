@@ -10,7 +10,7 @@ University of Alberta | [geoffreyrockwell.com](http://geoffreyrockwell.com)
 
 ## CURATORIAL STATEMENT
 
-Although for many humanities disciplines (literature, history, philosophy, etc.) text tends to be the dominant currency for apprehending and expressing knowledge, data visualizations have a long history and much to offer, particularly when the amount of text exceeds what can be reasonably read and represented by more traditional means. As is argued in two of the artifacts below (“Information Visualization for Humanities Scholars” and “Humanities Approaches to Graphical Display”), interactive visualizations can be a valuable way of interpreting evidence and sharing those interpretations. Further, sharing interactive visualizations allows other to explore evidence and come to their own conclusions.
+Although for many humanities disciplines (literature, history, philosophy, etc.) text tends to be the dominant currency for apprehending and expressing knowledge, data visualizations have a long history and much to offer, particularly when the amount of text exceeds what can be reasonably read and represented by more traditional means. Interactive visualizations can be a valuable way of interpreting evidence and sharing those interpretations (Drucker 2011; Sinclair, Ruecker and Radzikowska, 2013). Further, sharing interactive visualizations allows other to explore evidence and come to their own conclusions.
 
 Given the proliferation of visualizations in online media, especially for exploring big data, it has become important to teach students to treat them critically. One way to do that is to have students fiddle with different types of visualization and reflect on the graphical features and how they might reflect evidence or not. Having students then create their own visualizations is an effective way of encouraging them to leverage their humanities training in the interpretation of a variety of contemporary issues, from the environment to various social inequalities. Visualizations are an eminently shareable form of communication and students can be empowered to communicate through visualizations, sharing results via social media.
 
@@ -84,18 +84,6 @@ Drucker's article is effective in pointing out two important moments in working 
 1. *Gathering Data/Capta*: we make choices (consciously or not) about what data are gathered and how they are expressed as values. Students might be asked to gather (or even invent) data about some aspect of student life (such as the frequency of weekly visits to coffee shops by various measures like academic major), noting some of the choices and nuances along the way.
 1. *Representation*: choices are made about how to represent data. Students might be asked to create a couple of hand-drawn sketches, a first one that is more conventional (such as a simple bar chart) and a second one that expresses more of the nuance and subjectivity of the data.
 
-#### “Information Visualization for Humanities Scholars”
-
-![Mandala Browser by Sinclair and Ruecker](images/visualization-Mandala.png)
-
-* Artifact Type: Open access online journal article
-* Source URL: [https://dlsanthology.commons.mla.org/information-visualization-for-humanities-scholars/](https://dlsanthology.commons.mla.org/information-visualization-for-humanities-scholars/)
-* Creator and Affiliation: Stéfan Sinclair, Stan Ruecker, and Milena Radzikowska
-
-This article explores information visualization for the specific purposes of humanities scholarship. Given that the humanities value original and persuasive arguments, the value of individual visualizations can be assessed by determining how well they promote the proliferation of perspectives. This is partly why interactive interfaces can be so enriching for humanities scholarship: they’re conducive to exploration and co-creation. Based largely on the authors’ visualization prototyping work, the article reviews a range of visualization archetypes including 1) Browsing by Grouping; 2) Revealing Features; Time and Space; Typographic Form; and Interactive Glyphs.
-
-A core argument of the article is that interactive visualizations can be more conducive to humanistic exploration and argumentation than static visualizations. Students can be asked to consider that argument in the context of different phases of scholarship, from initial research  through to analysis and synthesis that lead to conference presentations and publications in different media. How well do current modes of humanities scholarship support visualization?
-
 #### “The Ethics of Visualization”
 
 ![Screenshot of video of Chris Alen Sula](images/visualization-Sula.png)
@@ -139,6 +127,20 @@ The book's final chapter is entitled "Putting it into Practice" and provides a f
 Though not solely on visualization, Lauren Klein’s syllabus touches on a many essential topics related to uses of data in the digital humanities. Several topics explore the relationship between facts and data, there’s an overview of major kinds of visualization, and she addresses cultural and social issues that arise from data (from art to surveillance). Elsewhere Klein has also explored the way the history of visualization has been presented and possible alternative histories (see for instance her [talk to the 3DH project](https://lecture2go.uni-hamburg.de/l2go/-/get/v/19629)).
 
 Interspersed with the academic readings of the syllabus are several excerpts of fiction, such as *Minority Report*, *The Matrix*, and *Gattaca*. Students might be asked to reflect, with specific examples, on how data visualization depicted in popular culture might influence how we consider visualization for research and teaching in the humanities.
+
+#### “Calling Bullshit: Data Reasoning for the Digital Age”
+
+![Screenshot of course website](images/visualization-Bullshit.png)
+
+* Artifact Type: Course syllabus
+* Source URL: [http://callingbullshit.org/syllabus.html](http://callingbullshit.org/syllabus.html)
+* Creator and Affiliation: Carl T. Bergstrom and Jevin West (University of Washington)
+
+This course syllabus provides a rich set of readings and resources to help better understand how data are used and misused all around us. Bergstrom and West make a convincing argument for the relevance and significance of a more informed and critical perspective on data:
+
+  The world is awash in bullshit. Politicians are unconstrained by facts. Science is conducted by press release. Higher education rewards bullshit over analytic thought. Startup culture elevates bullshit to high art. Advertisers wink conspiratorially and invite us to join them in seeing through all the bullshit — and take advantage of our lowered guard to bombard us with bullshit of the second order. The majority of administrative activity, whether in private business or the public sphere, seems to be little more than a sophisticated exercise in the combinatorial reassembly of bullshit. We're sick of it. It's time to do something, and as educators, one constructive thing we know how to do is to teach people. So, the aim of this course is to help students navigate the bullshit-rich modern environment by identifying bullshit, seeing through it, and combating it with effective analysis and argument.
+
+Bergstrom and West even provide a [useful template for an exercise](http://callingbullshit.org/exercises_inventory.html): a one-week inventory of bullshit that students encounter. Students might be encouraged to not worry too much about specific examples and how they're visualized, but rather just the increase attention that is paid to information and data that constantly bombard us.
 
 ### Tools for Creating Visualizations
 
@@ -203,6 +205,8 @@ Below is a list of visualization galleries. Having students travel through the g
 4Humanities Collective. "Humanities Matter!" http://4humanities.org/2013/07/the-humanities-matter-infographic/.
 
 _BatchGeo_ https://batchgeo.com.
+
+Bergstrom, Carl T. and Jevin West. "Calling Bullshit: Data Reasoning for the Digital Age." 20 Sep. 2017, http://callingbullshit.org/syllabus.html.
 
 Bertin, Jacques. "Semiology of Graphics: Diagrams, Networks, Maps." [Reprint from Esri Press](http://www.esri.com/news/releases/10_4qtr/bertin.html).
 
