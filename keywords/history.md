@@ -23,117 +23,138 @@ Carleton University, Ottawa | [http://electricarchaeology.ca](http://electricarc
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review** https://digitalpedagogy.commons.mla.org/
+* draft version undergoing peer-to-peer review https://digitalpedagogy.commons.mla.org/
+* **draft version undergoing MLA copyediting**
 * published
 
 ---
 
 ## CURATORIAL STATEMENT
 
-The essay looms large in the minds of our students as the thing above all else that historians _do_. "How many pages? How many words? How many sources?" If it isn't an essay, students balk, students resist. With good reason: the status quo signifier for historical seriousness, for scholarship, is indeed the essay (and its longer cousin, the monograph) (cf Blevins and Mullen 2015, p39). Digital work that transgresses this 'compulsory figure' (O'Donnell, 2012) is only slowly being recognized (Gibbs 2016; Robertson 2016; but see also the posts by Sheila Brennan listed below on reviews of digital work in academic scholarship). Since how we practice our scholarship informs our teaching, this transgression is what marks the difference between a digital pedagogy and mere online learning.
+History, as a discipline, has several approaches to the teaching and _doing_ of history that can often incorporate digital tools and techniques while at the same time not necessarily being 'digital pedagogy'. What distinguishes 'history' in terms of digital pedagogy is in its motivations. Robertson points out that social historians have long used web based technologies to reach teachers and schools, motivated by a commitment 'to democratizing the creation of the past', which is also the core of what distinguishes digital history from Digital Humanities. This also has had the effect of situating digital history in an alliance with practitioners of public history ("Differences"). Robertson points out that public history is not necessarily in the mainstream of historical practice, and so digital history continues to occupy a marginal position. The key idea in terms of a digital pedagogy emerging from the digital historian's practice derives from the root word for history, ιστορία 'istoria' _inquiry_, meaning a (public) questioning or interrogating.
 
-Online education is about the compulsory figures of academia, about recreating a controllable, observable classroom through a system that watches and monitors everything.  Essays are easy to track, easy to turn-it-in. Compulsory figures lend themselves well to instrumentalization and credentialism. Mere online education turns us into content providers for the system. Digital pedagogy by its transgressive nature cannot easily fit inside the systems that manage our learning, and allows us to resist the neoliberal program. A digital pedagogy (however instantiated) pushes beyond compulsory figures and breaks the system, whilst online learning merely reinforces those figures. Students will understandably resist, when compulsory figures are what they know and expect and _have become good at_. Digital pedagogies that do not fit into the managed system are good not only for our students, but for our universities as well. Learning management systems and 'best practices' impose a kind of sameness on every course that it strikes me is antithetical to what a University should be about.
+'History' then is an active verb. The artifacts collected below speak to the idea of digital pedagogy as a kind of public inquiry into the causes of things, as a kind of [making](https://digitalpedagogy.mla.hcommons.org/keywords/makerspaces/). Thus, they are organized to both facilitate inquiry, but also, its assessment. This puts digital pedagogy in history in a transgressive situation, especially when we remember that the status quo signifier for historical seriousness, for scholarship, is essay-writing (and its longer cousin, the monograph) (cf Blevins and Mullen, 39). Digital work that transgresses this 'compulsory figure' (O'Donnell) is only slowly being recognized. Fredd Gibbs argues that the problem comes down to the fact that there is 'virtually no precedent' for what is now possible to do in digital history. Robertson points out that the difficulty centers on the extent to which "traditional, print scholarship and its conventions can be used as a measure in assessing digital history" (Robertson, "Reviewing Digital History").
 
-For this keyword, I have selected artifacts that expand the realm of the possible, for showing how an expanded universe of historical writing can be folded into one's digital pedagogy in a way that transgresses the replicated-classroom model of online education.  My vision of what history means as a keyword in digital pedagogy is to remember what the _spirit_ of the essay (from the French, _essayer_, to try) entails. It was a wild thing, an exploration, in Montaigne's original formulation (in the 16th century; [http://plato.stanford.edu/entries/montaigne/](http://plato.stanford.edu/entries/montaigne/). It is in the 19th century that the rhetorical forms that come to dominate the classroom experience of the essay emerge, Mack 1993). To write an essay was to sketch out an experience, an argument, for the audience of a world where things might be different than they are here: in other words, it was a sort of simulation. Simulations and games, playful experiences, for an audience: digital pedagogy in history expands and reinvents Montaigne's essay in a form fitting for the age. This vision is very outward facing and so helps to turn our teaching inside-out; the teaching of history becomes an act of public history in this model. Public history is ever aware of its audiences. Montaigne's essays changed with time, as he reworked them and reconsidered them for _his_ various audiences. As in the discussion for the keyword [Public](https://digitalpedagogy.commons.mla.org/keywords/public/), the act of making work outward-facing is itself transgressive and transcends the closed systems described above. 
+Many acts of digital history begin with the idea of the online exhibit (often built on the [Omeka](http://omeka.org) platform). Translating physical materials into their digital simulacra necessitates the idea of 'paradata'. In the field of archaeological visualization and 3d reconstruction, the [London Charter (item 4.6)](http://www.londoncharter.org/principles/documentation.html) advocates for 'paradata' documents that detail and discuss the transformations of materials into their digital counterparts and the choices made to effect that transformation, because that process is necessary to examine in order to understand the full meaning of the digital work. The creation of such paradata documents (however instantiated) should be an integral part of digital pedagogy in history so that the digital transformations do not become unmoored from the 'real world'. In many respects, the concept of paradata for digital pedagogy ties into other kinds of reflective pedagogical practice such as [eportfolios](https://digitalpedagogy.mla.hcommons.org/keywords/eportfolio/). Paradata enable novel forms of digital work to fit into the existing patterns and expectations of assessment, even while they subtly shift the goalposts of what becomes 'normal' in historical work.
 
-The artifacts collected for this keyword represent key moments/movements/examples that lay a pathway for us to employ this vision of a digital pedagogy of history, whether that teaching takes place in a classroom or in public, online or off. The artifacts are arranged in an order that should facilitate the integration of digital pedagogies into one's teaching and research. They move from a more theoretical grounding to concrete instantiated examples. To highlight a few, Mark Sample's assignment prompt discussed in his post, 'What's wrong with writing essays?', Daniel O'Donnel's framework for the 'unessay', and the HeritageJam's wonderfully eclectic inventions and inversions on museum collections or the concept of 'buried' (in archaeological contexts) provide some concrete examples of how to implement these ideas.
+The artifacts collected for this keyword represent examples that lay a pathway for us to employ this vision of a digital pedagogy of history, whether that teaching takes place in a classroom or in public, online or off. These artifacts:
 
-Digital pedagogy in history changes not just how we teach, but how we _do_, history - how we work on our own, with colleagues, with students, and with the public. All of these pieces are essays in the sense of _essayer_ to try, to experiment, to change the world a little bit.
+  - embody approaches that embrace an open approach to research and crafting history (including ideas around 'failing in public' (see also ['failure'](https://digitalpedagogy.mla.hcommons.org/keywords/failure/) in this volume)
+	- engage students with other modes of historical 'writing' (where 'writing' is a synonym for both crafting and communicating the results of historical method)
+	- explicitly or implicitly are entangled with the concept of 'paradata'
+	- provide models for reuse and assessment
+
+The artifacts are arranged in an order that should facilitate the integration of digital pedagogies into one's teaching and research. They move from general exercises that embed openness in the student's research practice, to ways of allowing students to engage the wider public in the process of historical research, to more creative examples of student work. This vision of 'history' is very outward facing and so helps to turn our teaching inside-out; the teaching of history becomes an act of public history in this model. Public history is ever aware of its audiences. As in the discussion for the keyword [Public](https://digitalpedagogy.commons.mla.org/keywords/public/), the act of making work outward-facing is itself transgressive. Other keywords in this collection that are germane to 'history' as envisioned here include [Blogging](https://digitalpedagogy.mla.hcommons.org/keywords/blogging/), [ePortfolio](https://digitalpedagogy.mla.hcommons.org/keywords/eportfolio/), [Gaming](https://digitalpedagogy.mla.hcommons.org/keywords/gaming/), [Play](https://digitalpedagogy.mla.hcommons.org/keywords/play/), [Mapping](https://digitalpedagogy.mla.hcommons.org/keywords/mapping/), and [Text Analysis](https://digitalpedagogy.mla.hcommons.org/keywords/text-analysis/)
+
+Digital pedagogy in history changes not just how we teach, but how we _do_, history - how we work on our own, with colleagues, with students, and with the public.
 
 ## CURATED ARTIFACTS
 
-#### What's Wrong with Writing Essays?
-![screenshot](images/history-MarkSample-wrong-with-essays.png)
-+ Artifact Type: description of an assignment that imagines 'writing' to be more akin to 'making'
-+ Source URL: [http://www.samplereality.com/2009/03/12/whats-wrong-with-writing-essays/](http://www.samplereality.com/2009/03/12/whats-wrong-with-writing-essays/)
-+ Copy of the Artifact: (in HTML, PDF, DOCX, TXT, MD, RTF, MP3, MP4, MOV, PNG, or JPG), if possible
-+ Creator and Affiliation: Mark Sample, Davidson College
+#### Fail log and Open Notebook
+![screenshot](images/history-Graham-Fail-Log-Assignment.png)
++ Artifact Type: teaching guidelines
++ Source URL: [http://site.craftingdigitalhistory.ca/rubric-and-assessment.html#weekly-work](http://site.craftingdigitalhistory.ca/rubric-and-assessment.html#weekly-work)
++ Permissions: CC BY-NC-SA
++ Creator and Affiliation: Shawn Graham, Carleton University
++ Tags: getting started; Github repository and personal blog
 
-This piece crystalizes the issue around essays: we are too much concerned with 'form' and forgetting about 'content'. Sample points out that 'text' derives from the Latin 'to weave', and uses that metaphor to suggest expanding the range of possibilities. Accordingly, Sample offers an example of an assignment designed to 'take the words out of writing', a prompt to create an 'abstract mapping' of a videogame's underlying complexity and representation of the world. A similar prompt could be devised for domains beyond the representation of history in videogames, for instance, the organization of an archival fonds (that is, the collection of documents originating from a single source).
+This assignment operationalizes [Caleb McDaniel's arguments](http://wcm1.web.rice.edu/open-notebook-history.html) for why historians should make the historical research process open to inspection, situating the idea within practices familiar to historians. The 'Fail Log' assignment surfaces the hidden 'gotchas' of doing digital work, and permits students a way of 'showing their work'. As students all have different starting points with digital materials, these notebooks and the sharing of materials can be used to help build community and support. Mark Sample called this approach ['flogging' - fail logging](https://wayback.archive.org/web/20150124022659/http://sites.davidson.edu/hacking/course-guidelines/). The open notebook can also be an effective introduction to open peer review journal and book projects, such as those undertaken by [Michelle Moravec](http://michellemoravec.com/michelle-moravec/). It parallels more familiar forms such as course blogging.
 
 #### The Unessay
-![screenshot](images/history-odonnell-unessay.png)
+![screenshot](images/history-Cordell-Unessay-Prompt.png)
 + Artifact Type: assignment prompt
-+ Source URL: [http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay](http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay)
-+ Artifact Permissions: CC BY-NC-SA 3.0
-+ Creator and Affiliation: Daniel Paul O'Donnell, University of Lethbridge
++ Source URL: [http://f17rwda.ryancordell.org/assignments.html#unessay_(15%)](http://f17rwda.ryancordell.org/assignments.html#unessay_(25%))
++ Permissions: CC
++ Creator and Affiliation: Ryan Cordell, Northeastern University
++ Tags: getting started
 
-This assignment prompt documents problems with 'essays' as they have come to be in the modern undergraduate classroom. What's more, it provides a framework for re-situating them as digital pedagogy, returning agency to the student, and an entirely useful set of criteria for assessing work that does not look like traditional forms. The criteria provided can be transformed into a rubric with two criteria, that the work is 'compelling' and 'effective'. When we are dealing with students that come to our classes with widely varying backgrounds and varying degrees of digital literacy, [a rubric](https://github.com/shawngraham/highschoolhistorygaming/blob/master/rubric.md) can be a useful ways of calming these fears. Because the students can choose their _own_ platform, the focus shifts from technical competency to how the medium and the argument intersect, reinforce, or contradict each other. It takes seriously Marshall's old chestnut, 'the medium is the message'. 
+How do we grade assess artifacts in history that don't look like essays? One answer is to frame them as 'unessays', where the student chooses their _own_ platform, their own expressive medium, to examine a question. Particularly for digital work, the unessay shifts the focus from technical competency to how the medium and the argument intersect, reinforce, or contradict each other. Daniel Paul O'Donnell coined the ideas and rationale behind an ['unessay'](http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay); in this artifact, Ryan Cordell operationalizes the concept and provides [examples of student work](http://f17rwda.ryancordell.org/assignments.html#model_unessays), from an imaginative 'manifesto' by 'Ada Lovelace', to highly annotated code, to Tumblr photo essays. 
 
-#### Open Notebook History
-![screenshot](images/history-wcalebmcdaniel-wiki-screenshot.png)
-+ Artifact Type: blog reflection
-+ Source URL: [http://wcm1.web.rice.edu/open-notebook-history.html](http://wcm1.web.rice.edu/open-notebook-history.html)
-+ Artifact Permissions: CC BY-SA 3.0
-+ Creator and Affiliation: W. Caleb McDaniel, Rice University
+#### Collaborative Annotation
+![screenshot](images/history-dougherty-assignment.png)
++ Artifact Type: teaching guidelines
++ Source URL: [http://commons.trincoll.edu/cssp/seminar/annotate-with-hypothesis/](http://commons.trincoll.edu/cssp/seminar/annotate-with-hypothesis/)
++ Permissions: CC-BY-NC
++ Creator and Affiliation: Jack Dougherty, Trinity College
++ Tags: getting started; Hypothes.is
 
-McDaniel opens a dialogue with proponents of so-called 'open notebook science', and situates it within practices familiar to historians (a process similar to what Chad Black has called, ['Hacking the Papers of You'](https://parezcoydigo.wordpress.com/2010/05/28/the-individual-research-archive-hacking-the-papers-of-you/)). McDaniel argues that we cannot know the full value of what we have until we allow others to see it. He outlines the use of Gitit, a personal wiki program combined with Git versioning control, for maintaining such a notebook. Gitit has a steep learning curve and it is not recommended for new practitioners. A gentler option might be to use a combination of text editor and github repository to achieve the same effect (saving files to a folder on one's computer which are then synced to an open webpage that others may read or make a copy of). Open notebooks can be integrated into a course as both a way for students to keep track of the hidden 'gotchas' of doing digital work, and also as a way of 'showing their work'; since students all have different starting points with digital materials, these notebooks and the sharing of materials can be used to help build community and support. The inevitable fears of 'being scooped' or 'not being seen to be scholarly' can then be used for discussion of open access issues, gatekeeping, the culture of the academy. The open notebook can also be an effective introduction to open peer review journal and book projects, such as those undertaken by Michelle Moravec.
+In this assignment, Dougherty shows how to use [the Hypothes.is web annotation tool](http://web.hypothes.is) as part of a seminar in history. This work was discussed in a public webinar hosted by Jeremy Dean of [Hypothes.is](http://web.hypothes.is) (viewable at [https://www.youtube.com/watch?v=nWXbF-IDCUY](https://www.youtube.com/watch?v=nWXbF-IDCUY)). Collaborative annotation allows the instructor to model close reading in the open and helps the students to learn this disciplinary practice. Dougherty's materials, and the webinar participants' discussion, provide multiple examples and advice on building collaborative annotation assessment for history students. See also the [annotation](https://digitalpedagogy.mla.hcommons.org/keywords/annotation/) keyword in this volume.
 
-#### Writing in Public
-![screenshot](images/history-moravec-writinginpublic.png)
-+ Artifact Type: web page
-+ Source URL: [http://michellemoravec.com/michelle-moravec/](http://michellemoravec.com/michelle-moravec/)
-+ Creator and Affiliation: Michelle Moravec, Rosemont College
+#### HIST303 History Gone Digital: An Introduction
+![screenshot](images/history-Milligan-Syllabus.png)
++ Artifact Type: syllabus
++ Source URL: [https://ianmilligan.ca/teaching/hist-303-syllabus/](https://ianmilligan.ca/teaching/hist-303-syllabus/)
++ Permissions: CC-BY-SA
++ Creator and Affiliation: Ian Milligan, University of Waterloo
++ Tags: getting started; Python; Omeka; Wordpress; Sketchup Make; Google Earth
 
-This page is a landing page for Moravec's writing projects; her goal in writing in public is to demystify the processes of academic labour. She situates this goal within her research on women's liberation movements, as part of a tradition of work that breaks down the boundaries between public and private 'to reveal the politics underneath'. Moravec provides links to projects in progress, and projects completed. She uses a combination of google docs, twitter hashtags, and curated shortlinks to keep track of her readers' engagement with her work. Moravec's process, while different than the open notebook approach advocated by McDaniel, models for the student what a sustained engaged open practice looks like. It shows the authentic tasks of the historian and it normalizes this kind of work as something that historians just do. This helps to break down the small-c conservatism of what is 'appropriate' for historians. A professor could model this with her students by posting a piece of her own writing and limiting comments to the enrolled students, and rework the piece over the duration of the course in light of the students' developing engagement with the course materials, for instance. This would also have the effect of minimizing students' exposure to some of the more dangerous aspects of web-culture as it puts the focus on the professor rather than the students. The toxicity of web culture in our current moment is something that cannot be avoided, and if we are to work in public safely and effectively with our students we need to take into consideration the work of scholars like Tressie McMillan Cottom.
+This syllabus provides an example of a course designed explicitly to build digital skills for historians. Milligan's focus is on hands-on engagement with a wide variety of tools (including Omeka, Sketchup Make, the Google N-gram viewer, and the tutorials published by [The Programming Historian website](https://programminghistorian.org/lessons/)) that a digital historian might reasonably be expected to use as part of their practice. It is pitched at the undergraduate level, and frames that playful exploration of tools in the wider contexts of historiography, methods, and workflows. Its assessment exercises focus on the process of working with the materials.
 
-#### Who do you think you are?
-![screenshot](images/history-cottom-who-do-you-think-you-are.png)
-+ Artifact Type: journal article
-+ Source URL: [http://adanewmedia.org/2015/04/issue7-mcmillancottom/](http://adanewmedia.org/2015/04/issue7-mcmillancottom/)
-+ Artifact Permissions: CC BY-NC-ND 4.0
-+ Creator and Affiliation: Tressie McMillan Cottom, Virginia Commonwealth University
+#### The Knotted Line Curriculum Guide
+![screenshot](images/history-Knotted-Line.png)
++ Artifact Type: lesson plans
++ Source URL: [http://scalar.usc.edu/anvc/the-knotted-line/curriculum-guide](http://scalar.usc.edu/anvc/the-knotted-line/curriculum-guide) [PDF Version](https://docs.google.com/file/d/0BynaievnTP0pdHozZjQ5LXlFLWM/edit)
++ Permissions: CC-BY-NC-SA
++ Creator and Affiliation: Evan Bissell and Ora Wise
++ Tags: getting started; Scalar
 
-It can be dangerous when we break down the walls of our teaching and research, and expose these processes to the wider world. In "Who do you think you are?", Tressie McMillan Cottom analyzes the sociology of the performative attention economy of online work. She exposes the ways that if you don't look like a white man online, what can or cannot be done in terms of a public-facing digital work becomes much more complicated and dangerous. The piece serves as a counterbalance to the artifacts discussed above. As a white man, I am insulated by privilege and I can recommend tools and integrate approaches that do not work (or are not safe) for everyone. A new practitioner of digital pedagogy needs to balance and negotiate with their students these zones (see also Cathy Davidson on [negotiating the syllabus with students](https://www.hastac.org/blogs/cathy-davidson/2015/08/06/getting-started-pt-3-syllabus)). Cottom's piece enables this conversation to happen and should be used as a discussion prompt and a point of departure for negotiation over degrees of exposure to the wider web.
+The [Knotted Line](http://scalar.usc.edu/anvc/the-knotted-line/external?link=http%3A%2F%2Fknottedline.com%2Ftkl.html&prev=http%3A%2F%2Fscalar.usc.edu%2Fanvc%2Fthe-knotted-line%2Findex) is a multi-media exploration of the United States' entangled history of freedom and incarceration. It is built using the [Scalar](http://scalar.usc.edu/scalar/) publishing platform for scholarly born-digital content. This curriculum guide provides a rich set of remixable lesson and workshop plans and prompts for using the Knotted Line in one's class (including some multi-week projects, complete with learning objectives and assessment structures, like '['Flipping the Script: Making History with Media'](http://scalar.usc.edu/anvc/the-knotted-line/flipping-the-script-making-history-with-media). The structure of these plans could be adapted for use with other kinds of born-digital resources.
+
+#### Historical Twine Project Rubric
+![screenshot](images/history-McCall-IHF.png)
++ Artifact Type: assignments
++ Source URL: [https://historicalsimulations.files.wordpress.com/2017/03/historical-twine-project-rubric-1-0.pdf](https://historicalsimulations.files.wordpress.com/2017/03/historical-twine-project-rubric-1-0.pdf)
++ Permissions: CC-BY-NC-SA
++ Creator and Affiliation: Jeremiah McCall, Cincinnati Country Day School
++ Tags: getting started; Twine
+
+This artifact, and its associated discussion at the history and gaming group blog [Play the Past](http://www.playthepast.org/?p=5752) provide a clear and lucid model for integrating the creation of simulations into one's creative engagement with digital pedagogy. McCall provides an example and rationale for integrating Twine as part of the historian's toolkit for crafting engaging history. A chief reason is that this engagement confronts the student with what she does not know (or cannot know) about the past from the available materials, and forces the student to grapple with the ambiguity.
+
+#### History Harvest
+![screenshot](images/history-History-Harvest.png)
++ Artifact Type: assignments
++ Source URL: [http://historyharvest.unl.edu/](http://historyharvest.unl.edu/)
++ Permissions: CC-BY
++ Creator and Affiliation: William G. Thomas, Patrick D. Jones, University of Nebraska Lincoln; see [the full list of collaborators](http://historyharvest.unl.edu/acknowledgements)
++ Tags: advanced; Omeka
+
+The History Harvest is a public crowdsourcing project that brings undergraduate historians into a community where they work with members of that community to curate and then exhibit historical artifacts using the [Omeka](http://omeka.org) platform. Students plan and implement a day where interested members of the public share their historical materials, according to a theme. The students digitize (scan or photograph) the objects, collect the relevant meta-data and story, and discuss with the public the implications of putting the material online. The web exhibit is the final stage in the project. This process gives students experience in applied public history. A 'lessons learned' and suggestions for running one's own 'history harvest' are published [here](https://www.historians.org/publications-and-directories/perspectives-on-history/january-2013/history-harvests).
 
 #### Digital Atlas of Egyptian Archaeology (DAEA)
 ![screenshot](images/history-anthro-class-msu-daea.png)
-+ Artifact Type: class project
-+ Source URL: [https://matrix-msu.github.io/daea/](https://matrix-msu.github.io/daea/) (Source code at [https://github.com/matrix-msu/daea-fs14](https://github.com/matrix-msu/daea))
++ Artifact Type: assignments
++ Source URL: [https://msu-anthropology.github.io/daea/](https://msu-anthropology.github.io/daea/) (Source code at [https://github.com/msu-anthropology/daea-fs14](https://github.com/msu-anthropology/daea-fs14))
 + Artifact Permissions: CC-BY-SA
 + Creator and Affiliation: Students in the Fall 2014 semester in the Archaeology of Ancient Egypt class (ANP 455) at Michigan State University, led by Ethan Watrall and supported by Brian Geyer.
++ Tags: advanced; Github; Leaflet.js
 
-The Digital Atlas of Egyptian Archaeology (DAEA) as a work of collaborative scholarship exemplifies many of the ideas that the previous artifacts point towards. Writing and researching in public includes not just _text_ but also the _code_ that enables digital scholarship. Moreover, the act of putting the source code online allows this student scholarship to be leveraged by other students, expanded, and transmogrified. Christina Ross forked this and repurposed it to become a microhistory of St. John's, Newfoundland http://xtina-r.github.io/daea/, which was then repurposed and extended by Rob Blades (http://pembrokesoundscapes.ca). Ross's version is on the syllabus in Jeffery McClurken's 'Adventures in Digital History'. (http://courses.mcclurken.org/adh/syllabus/). The DAEA shows ways that student work can have impact beyond the classroom.
+The Digital Atlas of Egyptian Archaeology (DAEA) as a work of collaborative scholarship exemplifies many of the ideas that the previous artifacts point towards. Writing and researching in public includes not just _text_ but also the _code_ that enables digital scholarship. The code for the DAEA is well commented, and can be repurposed by swapping out the data contained in the '[sites/AA-sites-popup.csv](https://github.com/msu-anthropology/daea-fs14/blob/master/sites/AA-sites-popup.csv)' file. The act of putting the source code online allows this student scholarship to be leveraged by other students, expanded, and transformed. An example of student reuse at another university became a [microhistory of St. John's, Newfoundland](http://xtina-r.github.io/daea/).
 
 #### TEI Close Reading Exercise
 ![screenshot](images/history-beals-close-reading.png)
-+ Artifact Type: exercise
++ Artifact Type: assignments
 + Source URL: [https://github.com/mhbeals/TEI-Close-Reading](https://github.com/mhbeals/TEI-Close-Reading)
 + Artifact Permissions: CC-BY
 + Creator and Affiliation: Melodee Beals, Loughborough University
++ Tags: advanced; Github; TEI markup
 
-While marking up text and annotation has long been a staple of digital humanities work, Beals' exercise does the necessary heavy lifting to make it clear how one could teach TEI (the Text Encoding Initiative is a set of standards for the digital annotation of primary sources) and the pedagogical value of a digitally informed close reading. In its clarity of exposition, and in its arrangement of materials and organization, it is a good model for the new practitioner of digital history pedagogies to emulate. Beyond the narrow concerns of TEI, this exercise demonstrates how exposing our research and teaching materials to the world (in this case, via a repository on Github) builds teaching capacity for the rest of us. Some academic journals are now beginning to include digital teaching materials as part of their remit (notably, the [Journal of Interactive Technology and Pedagogy](https://jitp.commons.gc.cuny.edu/) has sections on 'teaching fails' and 'blueprints' for exercises). Beals' use of github enables a powerful, quicker, model for sharing and collaborative, distributed building that journals typically can't promote. A useful exercise for students can be to try to _improve_ the exercise by expanding on the parts that tripped them up. They can then issue a pull request to the original author of the materials who may choose to incorporate or ignore the request, giving them a taste of what real-world collaboration is like. (A publicaton that _does_ incorporate this Github strategy is _The Programming Historian_.)
+Marking up text with machine-readable semantic encoding has many pedagogical benefits, forcing close attention to a historical text. Beals' exercise provides a clear example of how one could incorporate TEI (the Text Encoding Initiative) standards for the semantic markup of primary sources found online. In its clarity of exposition, and in its arrangement of materials and organization, it is a useful model for the new practitioner of digital history pedagogies to emulate. Beyond the narrow concerns of TEI, this exercise demonstrates how exposing our research and teaching materials to the world (in this case, via a repository on Github) builds teaching capacity for the rest of us. A useful exercise for students can be to try to _improve_ the exercise by expanding on the parts that tripped them up.
 
-#### The Programming Historian, issue #152
-![screenshot](images/history-crymbleetal-proghist.png)
-+ Artifact Type: issues thread
-+ Source URL: [https://github.com/programminghistorian/jekyll/issues/152](https://github.com/programminghistorian/jekyll/issues/152)
-+ Creator and Affiliation: Adam Crymble, Miriam Posner, et al.
+#### Tiny Flashing Thumbs: How to bot your way to fake news success
+![screenshot](images/)
++ Artifact Type: tutorial
++ Source URL: [https://medium.com/the-fake-news-reader/tiny-flashing-thumbs-how-to-bot-your-way-to-fake-news-success-f834bf44c4b4](https://medium.com/the-fake-news-reader/tiny-flashing-thumbs-how-to-bot-your-way-to-fake-news-success-f834bf44c4b4)
++ Artifact Permissions: CC-BY
++ Creator and Affiliation: Zach Whalen, University of Mary Washington
++ Tags: advanced; Google Sheets; Twitter
 
-[The Programming Historian team](http://programminghistorian.org) has long sought to make the processes of publication, peer review, of digital work in History, transparent and accountable. This thread in particular, with its thoughtful and wide-ranging discussion, which does not shy away from some hard truths shows a community of practice around digital pedagogy and capacity building wrestling with an issue in a way that is collegial, humble, and open. The issues of political economy of digital writing in the academy highlighted by Moravec and Cottom are seen in action in this thread. In which case, in courses that rely on discussion forums as the primary pedagogical tool, this artifact is particularly helpful. Examples of spontaneous productive online conversations, within the ambit of digital history and digital pedagogy, are not easily found. This discussion featuring the editors and contributors to the Programming Historian is a model for productive online discussion where there are important issues at stake and where there are markedly different opinions on how best to proceed.
-
-#### The HeritageJam
-![screenshot](images/history-heritagejam.png)
-+ Artifact Type: website
-+ Source URL: [http://heritagejam.org](http://heritagejam.org)
-+ Creator and Affiliation: Andrew Masinton, Sarah Perry, Tara Copplestone, Izzy Bartley. University of York.
-
-Having just gone through its second iteration, the Heritage Jam is an annual two-day event, where participants collaborate to make something along a particular theme, from a particular collection, with a decidedly public-facing inflection. It brings together participants both live (in a kind of camp-out) and online. Aside from the wonderful things participants make, the Jam rules require them to document the _paradata_ that supports the work. The paradata document draws on a long history in archaeological research of visualizations and making (there is an entire subfield, 'experimental archaeology', which has strong affinities to digital humanities pedagogy and deformance) as codified in the 2009 London Charter of Heritage Visualization (http://www.londoncharter.org/) . Paradata "provide the space through which we communicate ambiguity and transparency, and account for our practices". In this way, the viewers learn how to think critically about the construction of the past. In many respects, the concept of paradata for digital work ties into other kinds of reflective pedagogical practice such as eportfolios. Paradata enable novel forms of digital work to fit into the existing patterns and expectations of assessment, even while they subtly shift the goalposts of what becomes 'normal' in historical work.
-
-#### Every Three Minutes
-![screenshot](images/history-wcalebmcdaniel-every3minutes.png)
-+ Artifact Type: twitter robot
-+ Source URL: [https://twitter.com/every3minutes](https://twitter.com/every3minutes), associated post detailing why 3 minutes, and the source research at [http://wcm1.web.rice.edu/slave-sales-on-twitter.html](http://wcm1.web.rice.edu/slave-sales-on-twitter.html)
-+ Artifact Permissions: CC BY-SA 4.0
-+ Creator and Affiliation: W. Caleb McDaniel, Rice University
-
-Our teaching and research, when freed from the confines of an essay, can literally have a kind of algorithmic agency (what Mark Sample calls a ['bot of conviction'](https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa#.k7zhd3p6e)). Such a creature directly confronts the public with the past. Originally devised as a backdrop to a classroom lecture, the affordances of the online medium, of twitter-as-platform-for-building, are used to devastating effect in the regular monotony of an update, every three minutes. Zach Whalen has an excellent tutorial on how to make simple twitter bots at [http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/](http://www.zachwhalen.net/posts/how-to-make-a-twitter-bot-with-google-spreadsheets-version-04/). A simple version of this idea could be effected in the classroom by having a powerpoint presentation set with a timer to page automatically through the slides. An important role of the historian is to humanize the past, while confronting the audience with the simultaneous alienness of it. The use of this kind of bot as a counterpoint to the lecture or discussion demonstrates a use of digital tools for pedagogy as a kind of co-teacher.
+An important role of the historian is to humanize the past, while confronting the audience with the simultaneous alienness of it. What Mark Sample calls ['bots of conviction'](https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa#.k7zhd3p6e)) can enable that confrontation. This artifact shows how to make a Twitter bot (an account that tweets automatically) powered by a variety of different generators. The potential power of a Twitter bot for History is demonstrated by Caleb McDaniel's 'Every 3 Minutes' bot, which tweets every three minutes with the historical details of a slave sale in the United States. The associated paradata post at [http://wcm1.web.rice.edu/slave-sales-on-twitter.html](http://wcm1.web.rice.edu/slave-sales-on-twitter.html) discusses the underlying research and rationale for this particular bot. Students could use Whalen's templates to 'real-time' tweet a historical event, or adopt the persona of a historical personage, or follow McDaniel's example to uncover similar histories.
 
 ## RELATED MATERIALS
 
 Elliot, Devon, Robert MacDougall, and William Turkel. "New Old Things: Fabrication, Physical Computing, and Experiment in Historical Practice." _Canadian Journal of Communication 37.1_ (2012). Web. [<http://www.cjc-online.ca/index.php/journal/article/view/2506>](http://www.cjc-online.ca/index.php/journal/article/view/2506).
 
-Kelly, Mills. _Teaching History in the Digital Age_. Ann Arbor, MI: U of Michigan Press, 2013. Web. [<http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12146032.0001.001;rgn=full text;view=toc;xc=1;g=dculture>](http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12146032.0001.001;rgn=full text;view=toc;xc=1;g=dculture).
+Kelly, Mills. _Teaching History in the Digital Age_. Ann Arbor, MI: U of Michigan Press, 2013. Web. [<http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12146032.0001.001;rgn=full text;view=toc;xc=1;g=dculture>](http://quod.lib.umich.edu/cgi/t/text/text-idx?cc=dh;c=dh;idno=12146032.0001.001;rgn=fulltext;view=toc;xc=1;g=dculture).
 
 Lutz, John, Ruth Sandwell, et. al. "We Need Your Help!" _Great Unsolved Mysteries in Canadian History._ Canadian Heritage / University of Victoria, 1997. Web. 24 Feb. 2016. [<http://canadianmysteries.ca/en/index.php>](http://canadianmysteries.ca/en/index.php).
 
@@ -143,38 +164,58 @@ Terras, Melissa. "A Virtual Tomb for Kelvingrove: Virtual Reality, Archaeology a
 
 ## WORKS CITED
 
-ANP 455. "Digital Atlas of Egyptian Archaeology." Digital Atlas of Egyptian Archaeology. _MATRIX_, Michigan State University, Fall 2014. Web. 24 Feb. 2016. [<https://matrix-msu.github.io/daea/>](https://matrix-msu.github.io/daea/).
+Alliance for Networking Visual Culture. _Scalar_. 2017. Web [<http://scalar.usc.edu/scalar/>](http://scalar.usc.edu/scalar/).
 
 Beals, Melodee. "TEI Close Reading." _GitHub.com/mhbeals_. 30 Dec. 2014. Web. 24 Feb. 2016. [<https://github.com/mhbeals/TEI-Close-Reading>](https://github.com/mhbeals/TEI-Close-Reading).
 
+Bissell, Evan. "The Knotted Line" _Scalar_. 19 Aug. 2014. Web. [<http://scalar.usc.edu/anvc/the-knotted-line/index>](http://scalar.usc.edu/anvc/the-knotted-line/index).
+
 Blevins, Cameron, and Lincoln Mullins. "Jane, John ... Leslie? A Historical Method for Algorithmic Gender Prediction." _DHQ: Digital Humanities Quarterly_ 9.3 (2015). [<http://www.digitalhumanities.org/dhq/vol/9/3/000223/000223.html>](http://www.digitalhumanities.org/dhq/vol/9/3/000223/000223.html).
 
-Brennan, Sheila (@sherah1918). "Additional 100s were done for History Matters, starting in '99, [http://historymatters.gmu.edu/browse/wwwhistory/](http://historymatters.gmu.edu/browse/wwwhistory/)" February 18, 2016, 11:01 am. [<https://twitter.com/sherah1918/status/700364507747590144>](https://twitter.com/sherah1918/status/700364507747590144).
+Cordell, Ryan. "Reading and Writing in the Digital Age". 2017. Web. [<http://f17rwda.ryancordell.org/assignments.html>](http://f17rwda.ryancordell.org/assignments.html).
 
-Brennan, Sheila (@sherah1918). "Also digital history reviews have appeared in Common-Place, The Public Historian. W&M Quarterly started in '99 http://oieahc.wm.edu/wmq/openwmq_digital.cfm" February 18, 2016, 11:08 am. [<https://twitter.com/sherah1918/status/700366222832041984>](https://twitter.com/sherah1918/status/700366222832041984).
+Dean, Jeremy., et al. "Collaborative Annotation in the History Classroom". _Youtube_. 31 May 2016. Web. [<https://youtu.be/nWXbF-IDCUY>](https://youtu.be/nWXbF-IDCUY).
 
-Brennan, Sheila (@sherah1918). "RE: lack of regular professional review of digital history projects, since 2001, Journal of Am History has reviwed ~275 web projects." February 18, 2016, 10:56 am [<https://twitter.com/sherah1918/status/700363335078903809>](https://twitter.com/sherah1918/status/700363335078903809).
-
-Brennan, Sheila (@sherah1918). "The Public History Resource Center started in 2000, and published digital project reviews for a few years: [http://www.publichistory.org/reviews/](http://www.publichistory.org/reviews/)" February 18, 2016, 11.03 am. [<https://twitter.com/sherah1918/status/700365148251410437>](https://twitter.com/sherah1918/status/700365148251410437).
-
-Cottom, Tressie McMillan. ""Who Do You Think You Are?": When Marginality Meets Academic Microcelebrity." _Ada: A Journal of Gender, New Media, & Technology_ 7 (2015). Web. [<http://adanewmedia.org/2015/04/issue7-mcmillancottom/>](http://adanewmedia.org/2015/04/issue7-mcmillancottom/).
-
-Crymble, Adam, Miriam Posner, et. al. "How Can We Make the PH More Friendly for Women to Contribute? · Issue #152" _GitHub.com/programminghistorian_. 8 Nov. 2015. Web. 24 Feb. 2016. [<https://github.com/programminghistorian/jekyll/issues/152>](https://github.com/programminghistorian/jekyll/issues/152).
+Dougherty, Jack. "Seminar Syllabus for Spring 2016" _Cities, Suburbs & Schools Project at Trinity College_. 2016. Web. [<http://commons.trincoll.edu/cssp/seminar/>](http://commons.trincoll.edu/cssp/seminar/).
 
 Gibbs, Frederick W. "New Forms of History: Critiquing Data and Its Representations." _The American Historian._ Organization of American Historians, Issue 7, Feb. 2016. Web. 24 Feb. 2016. [<http://tah.oah.org/february-2016/new-forms-of-history-critiquing-data-and-its-representations/>](http://tah.oah.org/february-2016/new-forms-of-history-critiquing-data-and-its-representations/).
 
-Mack, Peter. “Rhetoric and the Essay”. Rhetoric Society Quarterly 23.2 (1993): 41–49. [<http://www.jstor.org/stable/3885924>](http://www.jstor.org/stable/3885924>).
+Graham, Shawn.  "Course Manual for Crafting Digital History" _craftingdigitalhistory.ca_ 2017. Web. [<http://craftingdigitalhistory.ca>](http://craftingdigitalhistory.ca).
 
-Masinton, Anthony, Sarah Perry, Tara Copplestone, and Izzy Bartley. "The Heritage Jam." _The Heritage Jam_. Department of Archaeology, York University, 2014. Web. 24 Feb. 2016. [<http://www.heritagejam.org/>](http://www.heritagejam.org/).
+Hypothes.is Project. _Hypothes.is - Annotate the Web, with anyone, anywhere_. N.d., Web. [<http://web.hypothes.is>](http://web.hypothes.is).
+
+Londoncharter.org. _The London Charter for the Computer-Based Visualisation of Cultural Heritage_. 2009. Web. [<http://www.londoncharter.org/>](http://www.londoncharter.org/).
+
+McCall, Jeremiah. "Creating Interactive Histories in History Class (Twine Teacher Diary)" _Play the Past_. Web log post. N.p., 10 Oct. 2016. Web. [<http://www.playthepast.org/?p=5752>](http://www.playthepast.org/?p=5752)l
+
+McCall, Jeremiah. "Historical Twine Project Rubric 1.0" _Gaming The Past_. File. 2017.  [<https://historicalsimulations.files.wordpress.com/2017/03/historical-twine-project-rubric-1-0.pdf>](https://historicalsimulations.files.wordpress.com/2017/03/historical-twine-project-rubric-1-0.pdf).
 
 McDaniel, W. Caleb. "@Every3Minutes." _Twitter_, 15 Nov. 2014. Web. 24 Feb. 2016. [<https://twitter.com/every3minutes>](https://twitter.com/every3minutes).
 
 McDaniel, W. Caleb. "Open Notebook History." Weblog post. _W. Caleb McDaniel_. 22 May 2013. Web. 24 Feb. 2016. [<http://wcm1.web.rice.edu/open-notebook-history.html>](http://wcm1.web.rice.edu/open-notebook-history.html).
 
+Milligan, Ian. "HIST 303 Syllabus" _ianmilligan.ca_. 2017. Web. [<https://ianmilligan.ca/teaching/hist-303-syllabus/>](https://ianmilligan.ca/teaching/hist-303-syllabus/).
+
 Moravec, Michelle. "Writing in Public." _Michelle Moravec_. 11 Jan. 2013. Web. 24 Feb. 2016. [<http://michellemoravec.com/michelle-moravec/>](http://michellemoravec.com/michelle-moravec/).
 
 O'Donnell, Daniel Paul. "The Unessay." Weblog post. _Daniel Paul O'Donnell_. 4 Sept. 2012. Web. 24 Feb. 2016. [<http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay>](http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay).
 
+Roberston, Stephen. "The Differences between Digital Humanities and Digital History" _Debates in the Digital Humanities 2016_, edited by Matthew K. Gold and Lauren F. Klein, University of Minnesota Press, 2016. Web. [<http://dhdebates.gc.cuny.edu/debates/text/76>](http://dhdebates.gc.cuny.edu/debates/text/76).
+
 Robertson, Stephen. "Reviewing Digital History: An Exchange on Digital Harlem in the American Historical Review." Web log post. _Dr Stephen Robertson_. N.p., 11 Feb. 2016. Web. 24 Feb. 2016. [<http://drstephenrobertson.com/article/reviewing-digital-history-digital-harlem-in-the-american-historical-review/>](http://drstephenrobertson.com/article/reviewing-digital-history-digital-harlem-in-the-american-historical-review/).
 
-Sample, Mark. "What's Wrong With Writing Essays?" Weblog post. _Sample Reality_. N.p., 12 Mar. 2009. Web. [<http://www.samplereality.com/2009/03/12/whats-wrong-with-writing-essays/>](http://www.samplereality.com/2009/03/12/whats-wrong-with-writing-essays/).
+Ross, Christina. "St. John's Micro-History Mapping Project" _Github_. 8 Apr. 2015. Web. [<https://xtina-r.github.io/daea/>](https://xtina-r.github.io/daea/).
+
+Roy Rosenzweig Center for History and New Media, George Mason University. _Omeka_. 2007-2017. Web. [<omeka.org/>](http://omeka.org).
+
+Sample, Mark. "A Protest Bot is a Bot So Specific You Can't Mistake It for Bullshit: A Call for Bots of Conviction" Web log post. _Medium_. N.p., 30 May 2014. Web. [<https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa#.k7zhd3p6e>](https://medium.com/@samplereality/a-protest-bot-is-a-bot-so-specific-you-cant-mistake-it-for-bullshit-90fe10b7fbaa#.k7zhd3p6e).
+
+Sample, Mark. "Hacking Remixing Design: Course Guidelines". 2015. Web. [<https://wayback.archive.org/web/20150124022659/http://sites.davidson.edu/hacking/course-guidelines/>](https://wayback.archive.org/web/20150124022659/http://sites.davidson.edu/hacking/course-guidelines/).
+
+Thomas, William G., and Patrick D. Jones. "The History Harvest" _historyharvest.unl.edu_. N.d., Web. [<http://historyharvest.unl.edu>](http://historyharvest.unl.edu).
+
+Thomas, William G., Patrick D. Jones, and Andrew Witmer. "History Harvest: What Happens When Students Collect and Digitize the People's History?" _Perspectives on History_. Jan 2013. Web. [<https://www.historians.org/publications-and-directories/perspectives-on-history/january-2013/history-harvests>](https://www.historians.org/publications-and-directories/perspectives-on-history/january-2013/history-harvests).
+
+Watrall, Ethan, Bryan Geyer, and students enrolled in Fall 2014 ANP455: Ancient Egyptian Archaeology. "The Digital Atlas of Egyptian Archaeology" _Github_. 14 Aug. 2016. Web. [<https://github.com/msu-anthropology/daea-fs14>](https://github.com/msu-anthropology/daea-fs14).
+
+Whalen, Zach. "Tiny Flashing Thumbs: How to Bot your way to Fake News Success" Web log post. _Medium_. N.p., 3 Feb. 2017. Web. [<https://medium.com/the-fake-news-reader/tiny-flashing-thumbs-how-to-bot-your-way-to-fake-news-success-f834bf44c4b4>](https://medium.com/the-fake-news-reader/tiny-flashing-thumbs-how-to-bot-your-way-to-fake-news-success-f834bf44c4b4).

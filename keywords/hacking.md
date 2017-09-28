@@ -23,8 +23,8 @@ University of Western Ontario | Department of History | [Website](http://william
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review**
-* published 
+* draft version undergoing peer-to-peer review
+* **this keyword has been withdrawn from the collection**
 
 --- 
 

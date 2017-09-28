@@ -1,154 +1,177 @@
-# Disability
+---
+title: Digital Pedagogy in the Humanities
+subtitle: Concepts, Models, and Experiments
+chapter: Disability 
+URL: keywords/disability.md
+author: 
+- family: Yergeau
+  given: Melanie
+editor: 
+- family: Sayers
+  given: Jentery
+publisher: Modern Language Association
+type: book
+---
+
+# DISABILITY  
 
 ## Melanie Yergeau
+University of Michigan | [http://kuiama.net](http://kuiama.net)
+
+---
+
+##### Publication Status:
+* unreviewed draft  
+* draft version undergoing editorial review 
+* **draft version undergoing MLA copyediting**
+* awaiting pre-print copy
+* published 
+
+---
+
+### Cross-Reference Keywords: access, rhetoric, social justice
+
+---
 
 ## CURATORIAL STATEMENT 
 
-Many institutional statements on disability fixate on numbers. Numbers can be particularly alarmist artifacts. They call upon imagery of burden, worry, and distant hopes of rehabilitation. Numbers tell us that disabled students increasingly enroll in college every year. Numbers also tell us that disabled students face higher attrition rates than their nondisabled peers, and, even among those who graduate, disabled students face fewer employment prospects (Belch; Getzel and Thoma).
+Representation is a double-edged sword in disability studies. Representation, as a term, signals how disability is represented across media: in literature, film, public policy statements, ad campaigns, and so on. In other words, how are disabled people represented by others? But representation also summons questions about constituency and participation. For instance, how are disabled people included in the conversations that most concern them, if at all? How do disabled people advocate, collectivize, make meaning, and crip social structures? These representational questions are central to disability studies, not merely because of their re-centering of disability from the margins, but because they prod scholars and activists to consider historical and contemporary elisions in the field.
 
-Of course, as with any terministic screen, numbers hide things. Numbers do not reveal how many disabled faculty and staff work at colleges and universities, at least not reliably still (Kerschbaum and Price). Numbers also suggest that upward of 90% of Internet spaces remain inaccessible to users of adaptive technologies, and yet the very framing of certain technology as “adaptive” obscures the extent and reaches of accessibility as a rhetorical and socio-technological problem (Oswal and Hewett). Even more, numbers indicate the dearth of resources available to disabled people on college campuses, wherein student services, digital media centers, libraries, and counseling services struggle to meet student demand. Yet, these numbers are partial and often encourage still more labor from those who are already most over-extended.
+This particular curation examines disability's exigences by means of topics that complicate notions of passive representation. Students who have taken disability studies courses frequently relate that it is hard to unsee disability, in the world writ large, after they have taken such a class. Attention to disability, whether in a class exercise or major assignment, has tremendous potential to reshape the ways in which students come to understand themselves and the world around them. In this regard, representation often holds a dual meaning in disability-oriented pedagogy. For instance, disability activists work to direct thinking from "how many people have disabilities and how do we help them?" to "how, where, and to what extent are disabled voices being amplified"? With the latter question, there is a move from *assisting* and *curing* toward organizing and agency. This question can be asked in terms of self-representation, or how disabled people are given space and opportunity to narrate their own experiences. It can also be asked in terms of other-representation, or how nondisabled people effect representations of disability.
 
-If it weren’t already clear, this curation holds some ambivalence toward numbers, central as they are to disability and curricula. This isn’t to say that the numbers aren’t true, or that the problems they intimate aren’t real or widely felt. But to rely on numbers as an exigency suggests that disability is only important to consider when it impacts the nondisabled (i.e., disability could happen to any of us at any time). These are, of course, the struggles of many minoritarian discourses: How to make others *care*?
+These questions concerning representation have significantly evolved over the past twenty years. In 1998, Simi Linton famously claimed in *Claiming Disability: Knowledge and Identity* that humanistic fields were perhaps the most hospitable spaces for teaching disability studies. Her argument, in effect, concerned the ways in which allied health fields -- in particular, medicine, psychology, and special education -- conceived disability purely as a phenomenon in need of fixing, as numbers that should inspire fear in us all. In short, such classes tend to imagine cohorts of nondisabled students who will, in their future careers, serve as helpers and fixers -- this, as opposed to a pedagogical focus on systems change, culture, or identity. Over the past decade, disability studies has expanded well beyond Linton's earlier framework. As Elizabeth Brewer and Brenda Brueggemann note in their survey of articles published in [*Disability Studies Quarterly*](http://dsq-sds.org/article/view/4258/3598) between 2000-2012, the field has grown considerably more interdisciplinary, and considerably more mediated. 
 
-This particular curation examines disability’s exigences by means of topics that bristle against numbers, that locate their exigences not by means of disability’s burden but disability’s representation. Students who have taken disability studies courses frequently relate that it is hard to unsee disability, in the world writ large, after they’ve taken such a class. Attention to disability, whether in a class exercise or major assignment, has tremendous potential to reshape the ways in which students come to understand themselves and the world around them. In this regard, representation often holds a dual meaning in disability-oriented pedagogy. First, if we return to dreaded numbers, we might direct our thinking from “how many people have disabilities and how do we help them?” to “how, where, and to what extent are disabled voices being amplified”? With the latter question, there’s a move from *assisting* and *curing* toward organizing and agency. We can ask this question in terms of self-representation, or how disabled people are given space and opportunity to narrate their own experiences. We can also ask this question in terms of other-representation, or how nondisabled people effect representations of disability.
+The mediation of disability studies has largely to do with conflicting affordances and drawbacks of digital spaces for disability activism. But it also has to do with other questions about representation, not only about nondisabled people and ideologies of ability, but the ways in which disability studies and activism has represented itself. As many of the artifacts below contend, disability studies has been a concertedly white and classed project , what Chris Bell and Sami Schalk have referred to as White Disability Studies. Disabled people of color are routinely erased from the narratives scholar-activists tell about the field and its histories. As well, academic spaces are spaces of distinct class and educational privilege. Queer and disabled activists of color have forwarded disability justice as an intersectional framework that works to redress these omissions and injustices, encouraging interdependence, solidarity, and collective access as modes of action. As Patty Berne notes, disability justice "holds a vision born out of collective struggle, drawing upon the legacies of cultural and spiritual resistance within a thousand underground paths, igniting small persistent fires of rebellion in everyday life." 
 
-These questions concerning representation have significantly evolved over the past twenty years. In 1998, Simi Linton famously claimed that humanistic fields were perhaps the most hospitable spaces for teaching disability studies. Her argument, in effect, concerned the ways in which allied health fields—in particular, medicine, psychology, and special education—conceived disability purely as a phenomenon in need of fixing, as numbers that should inspire fear in us all. In short, such classes tend to imagine cohorts of nondisabled students who will, in their future careers, serve as helpers and fixers—this, as opposed to a pedagogical focus on systems change, culture, or identity. Over the past decade, disability studies has expanded well beyond Linton’s earlier framework. As Elizabeth Brewer and Brenda Brueggemann note in their survey of articles published in [*Disability Studies Quarterly*](http://dsq-sds.org/article/view/4258/3598) between 2000–2012, the field has grown considerably more interdisciplinary, and considerably more mediated. 
+As teachers, we need to consider the ways in which our classrooms, and our own positions and privilege, recreate the dynamics that disability studies has long sought to dismantle: that of the distal researcher studying marginal subjects, without their consent in the subjects that concern them most. Those who are new to disability studies should not come to these artifacts with yet more trepidation. Rather, these dynamics, many of them painful, might inspire questions, hopes, ideas, and, as Jay Dolmage says, "[places to start](http://dsq-sds.org/article/view/4632/3946)" in the re/design of pedagogical and activist spaces that work to center multiply marginalized people. Whose voices are being amplified in the texts that we assign or analyze? 
 
-The mediation of disability studies has largely to do with conflicting affordances and drawbacks of digital spaces for disability activism. But it also has to do with other questions about representation, not only about nondisabled people and ideologies of ability, but the ways in which disability studies and activism has represented itself. As many of the artifacts below contend, disability studies has been a concertedly white and classed project (Schalk). As a white disabled academic, I write this sentence with no small irony. Disabled people of color are routinely erased from the narratives we tell about the field and its histories. As well, academic spaces are spaces of distinct class and educational privilege. As teachers, we need to consider the ways in which our classrooms, and our own positions and privilege, recreate the dynamics that disability studies has long sought to dismantle: that of the distal researcher studying marginal subjects, without their consent in the subjects that concern them most.
-
-In laying out the above, my hope is that those who are new to disability studies will not come to these artifacts with yet more trepidation. Rather, I hope that these dynamics, many of them painful, might inspire questions, hopes, ideas, and, as Jay Dolmage says, “[places to start](http://dsq-sds.org/article/view/4632/3946).” Whose voices are we amplifying in the texts that we assign or analyze?
-
-The artifacts below are not exhaustive introductions to disability studies, but they provide entry points for considering the many valences of the field—its erasures, its emerging conversations, and its complicated relationships with digital pedagogy. Thematically, these artifacts might be conceptualized as resources that highlight human rights issues, theorize intersectionality and identity, relate the potentialities as well as the incommensurabilities of multimodal texts, and/or provide archival and information clearinghouses for teachers, activists, and researchers. As well, these artifacts complicate and “crip” what we might term academic texts. Such conversations about power and the academy are important in disability studies, and they can spark robust discussions in the classroom about norms, genre, identity, and composing.
+The artifacts below are not exhaustive introductions to disability studies, but they provide entry points for considering the many valences of the field -- its erasures, its emerging conversations, and its complicated relationships with digital pedagogy. Thematically, these artifacts might be conceptualized as resources that highlight human rights issues, theorize intersectionality and identity, relate the potentialities as well as the incommensurabilities of multimodal texts, and/or provide methods for helping students apprehend the complexities of the field. As well, these artifacts complicate and "crip" what we might term academic texts. Such conversations about power and the academy are important in disability studies, and they can spark robust discussions in the classroom about norms, genre, identity, and composing.
 
 ## CURATED ARTIFACTS 
 
-#### Developing and Reflecting on a Black Disability Studies Pedagogy
+### Developing and Reflecting on a Black Disability Studies Pedagogy
+![screenshot](images/disability-blackds.png)
 
-![screenshot](images/disabilityBlackds.png)
-
-* Artifact type: Article 
+* Artifact type: Article, syllabus 
 * Source: [http://dsq-sds.org/article/view/4637/3933](http://dsq-sds.org/article/view/4637/3933)
 * Creators: Jane Dunhamn, Jerome Harris, Shancia Jarrett, Leroy Moore, Akemi Nishida, Margaret Price, Britney Robinson, Sami Schalk
 
-This comprehensive article troubles disability studies and its elisions of Black disability, as well as African American and African diaspora studies. The article explores the contours of what Black Disability Studies (BDS) might mean both as a curricular agent and a discipline unto itself, while also resisting a definition or singular construction of BDS. The authors pose a series of meditations on their experiences as faculty, students, and activists in disability studies classes and the field writ large. The article concludes with an outline of a course themed on Black Disabled Experience, which includes learning objectives, core competencies, and a list of course readings. The authors note that these resources could be used in service of a stand-alone BDS course, but they could also be used in service of radically reimagining other courses. For example, while this article will strike instructors as being incredibly generative and paradigm-changing for graduate courses or teacher training, it can also be a powerful read in undergraduate courses. Students, for example, might consider how and where to re/narrate intersections of blackness, identity, and/or disability in courses they have taken, and to think critically about their own positionalities and the paucity of such conversations or texts in their classes. As well, students might be encouraged to design their own BDS resources and to make their work accessible to broader publics online.
+Combining reflective essay and syllabus, this article troubles disability studies and its elisions of Black disability, as well its failure to engage African American and African diaspora studies. The article explores the contours of what Black Disability Studies (BDS) might mean both as a curricular agent and a discipline unto itself, while also resisting a definition or singular construction of BDS. The authors pose a series of meditations on their experiences as faculty, students, and activists in disability studies classes and the field writ large. The article concludes with an outline of a course themed on Black Disabled Experience, which includes learning objectives, core competencies, and a list of course readings. The authors note that this syllabus could form the basis of a stand-alone BDS course, but it could also be used in service of radically reimagining other courses. For example, while this article will strike instructors as being incredibly generative and paradigm-changing for graduate courses or teacher training, it can also be a powerful read in undergraduate courses. Students, for example, might consider how and where to re/narrate intersections of blackness, identity, and/or disability in courses they have taken, and to think critically about their own positionalities and the paucity of such conversations or texts in their classes. As well, students might be encouraged to design their own BDS resources and to make their work accessible to broader publics online.
 
-#### Disability in KidLit
+### Disability Blog Carnival
+![screenshot](images/disability-carnival.png)
 
-![screenshot](images/disabilityDiskidlit.png )
+* Artifact type: Assignment 
+* Source: [http://kuiama.net/portfolio/wp-content/uploads/2017/09/carnival.pdf](http://kuiama.net/portfolio/wp-content/uploads/2017/09/carnival.pdf)
+* Creator: Melanie Yergeau
 
-* Artifact type: Reviews 
-* Source: [http://disabilityinkidlit.com/](http://disabilityinkidlit.com/)
-* Creators: Corinne Duyvis, Kayla Whaley, Natasha Razi, Yahong Chi, and Kody Keplinger
+Often likened to a traveling blog, blog carnivals typically host links and summaries of blog posts related to a specific topic. A prominent disability blog carnival, for example, is [Blogging Against Disablism Day](https://www.facebook.com/BloggingAgainstDisablismDay/) (BADD), in which bloggers write on topics relating to disability discrimination and social justice. Modeled after BADD, the disability blog carnival assignment asks students to choose a disability-related topic, research an allied set of disability rights blogs, and compose a longform blog post that synthesizes key strands among 6-8 blog posts related to their chosen topic. Student carnivals, for example, might include topics such as Latinx disability rights, neuroqueer activism, psychiatric survivorship, or capitalism and disability. In the broader spirit of accessibility, students are also tasked with creating visual maps that summarize or supplement the overall findings within their carnival. Blogs that students typically find useful as starting points for their research include [Krip Hop Nation](http://kriphopnation.com/), [Autistic Hoya](http://autistichoya.com/), [Disability Studies at Temple](http://disstud.blogspot.com/), [Intersected](http://intersecteddisability.blogspot.com/),[Disability in KidLit](http://disabilityinkidlit.wordpress.com), and [NeuroQueer](http://neuroqueer.blogspot.com/).
 
-*Disability in KidLit* is a multi-authored site that examines representations of disability in young adult and children’s literature. Importantly, as the editors note, the articles in *Disability and KidLit* privilege the perspectives of disabled people, and the call for submissions emphasizes that only disabled people can submit contributions to the site. The editorial call here diverges radically from most scholarship on disability and literature, emphasizing, in particular, that the site works to dispel the “problematic portrayals of disability” that tend to permeate young adult literature and other media representations. The website is vast, accessibly designed, and meticulously organized. Users can search for content according to grade level, genre, disability type, or assistive tool type. The website serves as a welcome resource to instructors in K12 and in college, as well as librarians. To begin, instructors might encourage students to read the many interviews hosted on the site, most of which feature disabled writers. These interviews can be illuminating for creative writers or digital storytellers, especially those who are thinking through the ethics of writing (and representing) disabled characters.
+### (Disability) Persona
+![screenshot](images/disability-persona.png)
 
-#### Disability Rhetoric
+* Artifact type: Assignment 
+* Source: [http://allisonhitt.com/3306_project1.pdf](http://allisonhitt.com/3306_project1.pdf)
+* Creator: Allison Hitt
 
-![screenshot](images/disabilityDisrhetoric.png)
+An assignment for Hitt's undergraduate Writing As Information Design class, the disability persona project asks students to profile an imaginary disabled student at the University of Central Arkansas. Students are tasked with conducting demographic research, learning about a disability of their choosing, and conceptualizing their imagined student's needs and abilities when engaging texts across mode and platform. Hitt instructs students to avoid stereotyping disabled people and suggests they learn about disability from first-person blogs and life writing, while also attending to intersecting aspects of identity, such as nationality, race, gender, and class. Importantly, this assignment is the first in a larger sequence of accessibility protocols and user testing projects in the class. In the prompt, Hitt notes that conducting user research with this level of specifity is key to thinking about accessible design and thinking critically about disability.
 
-* Artifact type: Teaching resource website
-* Source: [http://disabilityrhetoric.com/](http://disabilityrhetoric.com/)
-* Creators: Amy Vidali and Dev Bose, with Hilary Selznick, Tara Wood, and Dale Ireland
+### Disability Rights Organizations and Collectives
+![screenshot](images/disability-orgs.png)
 
-Created by Amy Vidali in 2009, *Disability Rhetoric* is a project of the Disability Standing Group at the Conference of College Composition and Communication (CCCC). Currently maintained by Dev Bose, *Disability Rhetoric* hosts a number of resources related to teaching and research in disability studies, including syllabi, bibliographies, job postings, and calls for papers. While the website’s exigence emerges from the field of rhetoric and composition, the bibliographies and syllabi traverse remarkable breadth, moving across topics and fields such as phenomenology, queer studies, affect theory, design and digital studies, and feminism. Relatedly, the standing group also runs a (co)mentoring program for interested scholars at different stages in their careers, and visitors to the website can find blog posts written by emerging DS scholars on the DisRhet blog. To begin, instructors might consult the site’s resource guides that suggest best practices for accessible pedagogy and design, such as “Resources on Writing Image Descriptions” or the many lesson plans on universal design and creating accessible (virtual and physical) spaces.
+* Artifact type: Activity 
+* Source: [http://bit.ly/2wfQn55](http://bit.ly/2wfQn55)
+* Creator: Melanie Yergeau
 
-#### Disability Studies, Temple U.
+Structured across one or more class periods, this activity rotates between small group discussion, web research, and digital reporting of findings via a short presentation in class. In teams of two or four, students investigate a disability rights organization and/or a grassroots collective and research its history, initiatives, and representations of disability (visually, textually, and aurally). Discussion questions prompt students to not only learn the missions of an organization, but to also critically examine how the collective imagines disability in the context of broader intersectional discourses on oppression, identity, and civil rights. Typically, this exercise follows an earlier activity in which students examine and present findings on disability charities, which are overwhelmingly white and affluent in the make-up of board members as well as images on websites. Notably, the charities from the first exercise tend to be rehabilitative and corporate in approach, a radical divergence from the groups students encounter in this exercise. As well, the organizations in this exercise include nonprofits, archival projects, performance collectives, and virtually-based grassroots groups. Students report their findings via a shared blog space, taking care to make all material created accessible to a broad audience within and beyond the class.
 
-![screenshot](images/disabilityTemple.png)
+### Incorporating ASL Music Videos in an Accessible Multimodal Pedagogy
+![screenshot](images/disability-asl.png)
 
-* Artifact type: Blog 
-* Source: [http://disstud.blogspot.com/](http://disstud.blogspot.com/)
-* Creators: Penny Richards, Mike Dorn, and Carol Marfisi
+* Artifact type: Handout 
+* Source: [http://kairos.technorhetoric.net/21.1/topoi/butler/pedagogy1.html](http://kairos.technorhetoric.net/21.1/topoi/butler/pedagogy1.html)
+* Creator: Janine Butler
 
-The Disability Studies at Temple blog might be better termed a blog hub or blog conglomerate than a singular blog. For those wishing to delve into the digital world of disability activism, blogging spaces represent an important place to start, both historically and contemporarily. Boasting over a decade of work, the DS at Temple blog curates and hosts links to dozens of current and archived disability blogs, most of which are locatable on the seemingly never-ending sidebar. These blogs range considerably, both in terms of types of disability identities as well as in bloggers’ relationships to disability (e.g., disabled person, parent, sibling, researcher). Of course, Disability Studies, Temple U. is a blog in its own right, and its contributors regularly weigh in on disability issues and participate in disability blog carnivals, such as the long-running [Blogging Against Disablism Day](http://blobolobolob.blogspot.co.uk/p/blogging-against-disablism-day-2016.html). In my classes, the blog has served a generative starting point for students’ work on their own blog carnival projects, in which they synthesize 10–12 blog posts on a topic of interest (e.g., disability and sports, disability and immigration, disability and digital access). 
+Butler's ASL music video handout is embedded in a *Kairos* webtext article that examines the affordances of multisensory pedagogies. Describing the viewing experience as "a stimulatory moment in which teachers and students alike can assess their initial reaction to viewing a video that embodies sound through dynamic visual text, facial expressions, body language, and ASL," Butler asks students to watch videos such as Sean Forbes's "Sean Forbes 'Let’s Mambo' Ft. Marlee Matlin." She then structures class discussion around a series of prompts from the discussion handout, each of which encourages students to consider the complex interrelations between visual and rhetorical analysis. While this handout is primarily directed toward writing classes, Butler notes that this exercise can be used across discipline, rank, and mode of composition, and could be used as a tool to jumpstart discussions about collective access and interdependence.
 
-#### Judge Rotenberg Center Living Archive 
+### Modes of Embodiment: MULTI MODE ACCESS
+![screenshot](images/disability-embodiment.png)
 
-![screenshot](images/disabilityJrc.png)
-
-* Artifact type: Archive 
-* Source: [https://autistichoya.net/judge-rotenberg-center/](https://autistichoya.net/judge-rotenberg-center/)
-* Creator: Lydia Brown
-
-The Judge Rotenberg Center (JRC) is an institution that uses aversive contingent electric shock on its disabled students, many of whom are children. Located in Canton, MA, the JRC has been recipient of increased scrutiny for its shock devices, which the Center forces students to wear via backpack. As Lydia Brown notes, these devices are “intentionally designed to be more powerful and painful than a police taser,” and the U.N. has declared JRC’s practices as tantamount to torture. The JRC Living Archive, created and maintained by Brown, is an expansive repository that hosts a number of documents, including survivor testimonies, trial coverage documents, media reports, governmental memoranda, op-eds, and posters and ephemera from disability rights protests, among other resources. While the reading is disturbing and covers extremely violent content, the Archive can serve as a tremendous resource for those who work or teach on activism and human rights issues.
-
-#### Krip-Hop Nation
-
-![screenshot](images/disabilityKriphop.png)
-
-* Artifact type: Organization 
-* Source: [http://kriphopnation.com/](http://kriphopnation.com/)
-* Creator: Leroy Moore
-
-Krip-Hop Nation, founded by Leroy Moore in 2007, actively promotes the work and representation of disabled Hip-Hop artists. In particular, Krip-Hop Nation works to educate teachers and those in the media industry about disabled artists and disability music history (from the distant past to the immediate present), with a concerted focus on what Moore has termed AfroKrip performance. The Krip-Hop website is home to a prolific blog, in which Moore conducts interviews and writes on topics spanning African American Studies, poetry, police brutality, Black Disability Studies, and lyric analysis. The site likewise hosts videos of Krip-Hop performances, lectures, and campaigns that showcase a number of disabled artists. With its highly mediated web presence, Krip-Hop Nation provides extensive resources for those learning or teaching about disability, race, representation, performance, and/or poetry. In class, the site can serve as a jumping-off point for many discussions or modes of analysis, ranging from conversations on multimodal/crip poetics and Black Lives Matter to accessible web design and disability cultures.
-
-#### Modes of Embodiment: MULTI MODE ACCESS
-
-![screenshot](images/disabilityEmbodiment.png)
-
-* Artifact type: Student-run conference website
+* Artifact type: Student work
 * Source: [https://multimodeaccess.wordpress.com/](https://multimodeaccess.wordpress.com/)
 * Creators: Aimi Hamraie and Informational Access Design Team at Vanderbilt University
 
-A collaboration between Hamraie and their students, this website is a collaboratively organized conference developed as part of Hamraie’s 2015 [Bionic Bodies, Cyborg Cultures](https://aimihamraie.wordpress.com/teaching/) course. Organized across modes, the website provides material access through text, audio recordings, PowerPoint slides, and an active tweetstream. The conference site provides not only an example of an accessible website, but it likewise models robust collaborative pedagogy. Hamraie notes that Master’s students organize and moderate the panels, taking communal responsibility for advertising and running the conference. As well, the conference routinely extends beyond the contours of the class. Community members attend sessions, and people external to Vanderbilt participate in the conversation via Twitter.
+*Modes of Embodiment* is a student-organized website and conference developed as part of Hamraie's 2015 [Bionic Bodies, Cyborg Cultures](https://aimihamraie.wordpress.com/teaching/) course. For their final project in the course, students may choose between composing an individual paper or group design project. Students then present these projects at a conference that they collaboratively organize, both physically and virtually, with an attention to accessibility. Structured across modes, the conference website provides material access through text, audio recordings, PowerPoint slides, and an active tweetstream. The conference site provides not only an example of an accessible website, but it likewise models robust collaborative pedagogy. Hamraie notes that Master's students organize and moderate the panels on top of designing the website, taking communal responsibility for advertising and running the conference. As well, the conference routinely extends beyond the contours of the class. Community members attend sessions, and people external to Vanderbilt participate in the conversation via Twitter.
 
-#### NeuroQueer
+### Multimedia Composition: Inclusion in a Digital Age
+![screenshot](images/disability-inclusion.png)
 
-![screenshot](images/disabilityNq.png)
+* Artifact type: Syllabus
+* Source: [https://view.officeapps.live.com/op/view.aspx?src=https://avidali.files.wordpress.com/2013/03/3084-syllabus-sp-2012.doc](https://view.officeapps.live.com/op/view.aspx?src=https://avidali.files.wordpress.com/2013/03/3084-syllabus-sp-2012.doc)
+* Creator: Amy Vidali
 
-* Artifact type: Blog 
-* Source: [http://neuroqueer.blogspot.com/](http://neuroqueer.blogspot.com/)
-* Creators: Elizabeth J. (Ibby) Grace, Dani Ryskamp, Michael Monje Jr., and Nick Walker
+An upper-level undergraduate seminar, Vidali's course employs inclusivity as a lens through which to re-assess common methods in multimodal composing: visual rhetoric, auditory rhetoric, and hypertextual rhetoric. For instance, Vidali asks students to consider how Temple Grandin's *Thinking in Pictures* complicates some of the common assumptions that visual rhetoric scholarship imparts about seeing and knowing. The curriculum is structured evenly across texts from digital rhetoric and disability studies, with works from each field spanning genre and mode. In keeping with the diversity of course texts, Vidali asks students to compose broadly. Assignments include analyzing a personal experience in comic form; a musical genre analysis, in which students present their findings via podcast; and an accessibly designed hypertext. Instructors will find Vidali's syllabus a useful launching point for assignment and reading ideas, but perhaps most notable is the syllabus's attention to accessibility (see, for example, the disability inclusion statement) as well as its embedded links to the course blog, which features student writing. 
 
-*NeuroQueer* (NQ) is a multi-authored blog that publishes cross-genre work that spans disability and queer studies. A mashup of the words *neurologically queer*, the term neuroqueer signals an emerging movement that seeks to build coalitions among people who may variously identify as mad, neurodivergent, disabled, and/or queer. The NQ blog, in particular, prizes and embodies hybridity, seeking to reach activist and academic audiences alike. Contributors include emerging activist voices as well as established authors (novelists, poets, dramaturgs, and scholars), each seeking to push the bounds of disability culture and activism. Given the complexity and discursive breadth (queering?) of the blog, instructors might find the [introductory posts](http://neuroqueer.blogspot.com/2015/05/neuroqueer-introduction-by-nick-walker.html), linked from the sidebar, to be particularly generative starting points for class discussions.
+### Recognizing Disability Studies
+![screenshot](images/disabilityrecognizing.png)
 
-#### SQUARE 8: Squawk About Disability and Society
+* Artifact type: Syllabus
+* Source: 
+* Creator: Margaret Price
 
-![screenshot](images/disabilitySquare8.png)
+*Recognizing Disability Studies* is a graduate-level seminar that examines the histories, turns, and challenges within disability studies as a field. Structured around elisions and potential futures, the course features units dedicated to bioethics, critical race theory, mental disability, crip theory, and materiality. Accessibility thematically structures all course projects. In particular, Price encourages students to compose in a modality of their choosing (i.e., via forms most accessible to students), while also requiring students to craft accessibly designed projects (i.e. creating projects accessible to broad audiences). Course projects include reading responses and participation in the class discussion forum, a collaborative presentation of supplemental course readings, and a final project composed in a genre and/or mode relevant to students' home fields. 
 
-* Artifact type: Blog 
-* Source URL: [http://aspergersquare8.blogspot.com/](http://aspergersquare8.blogspot.com/)
+### SQUARE 8: Autism Acceptance Challenge
+![screenshot](images/disability-square8.png)
+
+* Artifact type: Exercise 
+* Source URL: [http://aspergersquare8.blogspot.com/search/label/Autism%20Acceptance%20Challenge](http://aspergersquare8.blogspot.com/search/label/Autism%20Acceptance%20Challenge)
 * Creator: Bev Harp
 
-Even though it hasn’t been updated since 2015, *SQUARE 8*, as with Krip-Hop Nation, represents among the most mediated and resourced examples of disability activism blogs. Run by Bev Harp, *SQUARE 8* has led a number of internet campaigns over the past decade, ranging from 2015’s [Autism Acceptance Challenge](http://aspergersquare8.blogspot.com/search/label/Autism%20Acceptance%20Challenge) to 2010’s [Late Intervention Campaign](http://aspergersquare8.blogspot.com/2010/02/late-interventions-contributions-from.html), the latter of which wryly targeted the curative and often child-centric focus of autism research. Readers of *SQUARE 8* may find its video posts useful in a variety of contexts, including conversations related to disability, gender, and professionalization more generally. Many of Harp’s videos, such as “[Perseveration in the Workplace](http://aspergersquare8.blogspot.com/2010/02/perseveration-in-workplace.html),” deconstruct ableist and sexist notions of what it means to be collegial, punctual, interested, and professional.
+*SQUARE 8* represents among the most heavily mediated and resourced examples of disability activism blogs. Run by Bev Harp, *SQUARE 8* has led a number of internet campaigns over the past decade, ranging from 2015's [Autism Acceptance Challenge](http://aspergersquare8.blogspot.com/search/label/Autism%20Acceptance%20Challenge) to 2010's [Late Intervention Campaign](http://aspergersquare8.blogspot.com/2010/02/late-interventions-contributions-from.html), the latter of which wryly targeted the curative and often child-centric focus of autism research. The Autism Acceptance Challenge is more of an education-centered campaign, one that is directed broadly toward an audience that is wanting and willing to learn. A series of twenty different posts, the challenges include [an exercise that involves interviewing autistic people](http://aspergersquare8.blogspot.com/2015/04/autism-acceptance-challenge-16-ask.html), a [discussion (or writing) prompt](http://aspergersquare8.blogspot.com/2015/04/autism-acceptance-challenge-15-whats.html) wherein Harp asks readers to reflect on what object/idea/obsesson gets them through the day, and a [neuroqueering challenge](http://aspergersquare8.blogspot.com/2015/04/autism-acceptance-challenge-14.html) that encourages readers to remix, vandalize, and/or queer autism stereotypes found in images and visual ad campaigns. 
 
-#### “Why I Mind” 
+### "Why I Mind" 
+![screenshot](images/disability-brueggemann.png)
 
-![screenshot](images/disabilityBrueggemann.png)
-
-* Artifact type: Video 
+* Artifact type: Exercise, video
 * Source URLs: Video with subtitles: [https://www.youtube.com/watch?v=RoNR6EWT7D4](https://www.youtube.com/watch?v=RoNR6EWT7D4); video without subtitles: [https://www.youtube.com/watch?v=J4ak5HHcrnI](https://www.youtube.com/watch?v=J4ak5HHcrnI)
 * Creator: Brenda Brueggemann
 
-In this six-minute video, Brueggemann stories through the common refrain that deaf people face when asking others to repeat words and conversations: “never mind.” Using a combination of audio narration, subtitles, visuals, and ASL, Brueggemann leads viewers through the story of Carl Dupree, a Gallaudet student who was killed by police while trying to sign. The screenshot featured here depicts Brueggemann’s subtitled version of “Why I Mind,” whereas the second linked URL directs to the uncaptioned version. When leading workshops on captioning and disability, Brueggemann typically asks viewers to watch both versions, paying close attention to the rhetorical affordances of the captioned video. As well, Brueggemann at times plays a third variant of the videos, using YouTube’s auto-caption feature on the uncaptioned video. Auto-caption, on the whole, results in wildly inaccurate captions, but also, as Brueggemann notes, can generate a kind of found disability poetry.
+When leading workshops on captioning and disability, Brueggemann asks viewers to watch two versions of "Why I Mind": one captioned, the other not. In this six-minute video, Brueggemann stories through the common refrain that deaf people face when asking others to repeat words and conversations: "never mind." Using a combination of audio narration, subtitles, visuals, and ASL, Brueggemann leads viewers through the story of Carl Dupree, a Gallaudet student who was killed by police while trying to sign. Upon showing each version, Brueggemann asks students to write on notecards, instructing them to pay close attention to the rhetorical affordances of the captioned video. As well, Brueggemann at times plays a third variant of the videos, using YouTube's auto-caption feature on the uncaptioned video. Auto-caption, on the whole, results in wildly inaccurate captions, but also, as Brueggemann notes, can generate a kind of found disability poetry. Typically, students will have read Sean Zdenek's ["Which  Sounds Are Significant?"](http://dsq-sds.org/article/view/1667/1604) prior to this exercise; Zdenek's piece provides students a starting point for observing text contrast, placement, proximity, speed, and transcription choices.
 
 ## RELATED MATERIALS
  
-Dolmage, Jay. “Universal Design: Places to Start.” [http://dsq-sds.org/article/view/4632/3946](http://dsq-sds.org/article/view/4632/3946)
+Dolmage, Jay. "Universal Design: Places to Start." [http://dsq-sds.org/article/view/4632/3946](http://dsq-sds.org/article/view/4632/3946)
 
-Faust Films and Diane Wilkins. “Annie Dearest.” [https://www.youtube.com/watch?v=MXNUN5OCZdY](https://www.youtube.com/watch?v=MXNUN5OCZdY)
+*All the Weight of Our Dreams: On Living Racialized Autism*. Eds. Lydia X.Z. Brown, E. Ashkenazy, and Morénike Giwa Onaiwu. 2017. [https://autismandrace.com/](https://autismandrace.com/)
 
-Gosling, Ju. “I Want to Help the Handicapped.” [http://ju90.co.uk/help/eng/help1.htm](http://ju90.co.uk/help/eng/help1.htm)
+Rhett & Link. "CAPTION FAIL: Lady Gaga Putt-Putt Rally." [https://www.youtube.com/watch?v=hVNrkXM3TTI](https://www.youtube.com/watch?v=hVNrkXM3TTI)
 
-Rhett & Link. “CAPTION FAIL: Lady Gaga Putt-Putt Rally.” [https://www.youtube.com/watch?v=hVNrkXM3TTI](https://www.youtube.com/watch?v=hVNrkXM3TTI)
+Vidali, Amy, and Dev Bose, with Hilary Selznick, Tara Wood, and Dale Ireland. *Disability Rhetoric*. [http://disabilityrhetoric.com/](http://disabilityrhetoric.com/)
 
-Wood, Caitlin (ed.). Criptiques. [https://criptiques.com/](https://criptiques.com/)
+Wood, Caitlin (ed.). Criptiques. https://criptiques.com/
 
 ## WORKS CITED
 
-Belch, Holley A. “Retention and Students With Disabilities.” *Journal of College Student Retention*, 6.1 (2004): 3–22. 
+Bell, Chris. "Introducing White Disability Studies: A Modest Proposal." *The Disability Studies Reader*, 2nd ed. Ed. Lennard J. Davis. New York, NY: Routledge, 2006. 275-282.
 
-Brewer, Elizabeth, and Brenda Brueggemann. “The View from DSQ.” *Disability Studies Quarterly*, 34.2 (2014): [http://dsq-sds.org/article/view/4258/3598](http://dsq-sds.org/article/view/4258/3598)
+Berne, Patty. "Disability Justice -- A Working Draft." *Sins Invalid*. [http://sinsinvalid.org/blog/disability-justice-a-working-draft-by-patty-berne](http://sinsinvalid.org/blog/disability-justice-a-working-draft-by-patty-berne)
 
-Brown, Lydia. “Judge Rotenberg Center Living Archive.” [https://autistichoya.net/judge-rotenberg-center/](https://autistichoya.net/judge-rotenberg-center/)
+Brewer, Elizabeth, and Brenda Brueggemann. "The View from DSQ." *Disability Studies Quarterly*, 34.2 (2014): [http://dsq-sds.org/article/view/4258/3598](http://dsq-sds.org/article/view/4258/3598)
 
-Brueggemann, Brenda. “Why I Mind.” [https://www.youtube.com/watch?v=RoNR6EWT7D4](https://www.youtube.com/watch?v=RoNR6EWT7D4)
+Brown, Lydia. *Autistic Hoya*. [http://autistichoya.com/](http://autistichoya.com/)
 
-Dunhamn, Jane, Jerome Harris, Shancia Jarrett, Leroy Moore, Akemi Nishida, Margaret Price, Britney Robinson, and Sami Schalk. “Developing and Reflecting on a Black Disability Studies Pedagogy: Work from the National Black Disability Coalition.” *Disability Studies Quarterly*, 35.2 (2015). [http://dsq-sds.org/article/view/4637/3933](http://dsq-sds.org/article/view/4637/3933)
+-- . "Judge Rotenberg Center Living Archive." [https://autistichoya.net/judge-rotenberg-center/](https://autistichoya.net/judge-rotenberg-center/)
 
-Duyvis, Corinne, Kayla Whaley, Natasha Razi, Yahong Chi, and Kody Keplinger, eds. *Disability in KidLit*. [http://disabilityinkidlit.com/ ](http://disabilityinkidlit.com/ )
+Brueggemann, Brenda. "Why I Mind." [https://www.youtube.com/watch?v=RoNR6EWT7D4](https://www.youtube.com/watch?v=RoNR6EWT7D4)
 
-Getzel, Elizabeth E., and Colleen A. Thoma. “Experiences of College Students With Disabilities and the Importance of Self-Determination in Higher Education Settings.” *Career Development for Exceptional Individuals*, 31.2 (2008): 77–84. 
+Butler, Janine. "Where Access Meets Multimodality: The Case of ASL Music Videos." *Kairos: A Journal of Rhetoric, Technology, and Pedagogy*, 21.1 (2016). [http://kairos.technorhetoric.net/21.2/topoi/butler/pedagogy1.html](http://kairos.technorhetoric.net/21.2/topoi/butler/pedagogy1.html)
+
+Çevik, Kerima. *Intersected*. [http://intersecteddisability.blogspot.com/](http://intersecteddisability.blogspot.com/)
+
+Dunhamn, Jane, Jerome Harris, Shancia Jarrett, Leroy Moore, Akemi Nishida, Margaret Price, Britney Robinson, and Sami Schalk. "Developing and Reflecting on a Black Disability Studies Pedagogy: Work from the National Black Disability Coalition." *Disability Studies Quarterly*, 35.2 (2015). [http://dsq-sds.org/article/view/4637/3933](http://dsq-sds.org/article/view/4637/3933)
+
+Duyvis, Corinne, Kayla Whaley, Natasha Razi, Yahong Chi, and Kody Keplinger, eds. *Disability in KidLit*. http://disabilityinkidlit.com/ 
 
 Grace, Elizabeth J. (Ibby), Dani Ryskamp, Michael Monje Jr., and Nick Walker, eds. *NeuroQueer*. [http://neuroqueer.blogspot.com/](http://neuroqueer.blogspot.com/)
 
@@ -156,18 +179,18 @@ Hamraie, Aimi, and Informational Access Design Team at Vanderbilt University. *M
 
 Harp, Bev. *SQUARE 8: Squawk About Disability in Society*. [http://aspergersquare8.blogspot.com/](http://aspergersquare8.blogspot.com/)
 
-Kerschbaum, Stephanie, and Margaret Price. “Flexibility and Its Discontents: Designing Accessible Spaces and Assignments.” Lecture at the University of Michigan, Institute for the Humanities. September 2014.
-
 Linton, Simi. *Claiming Disability: Knowledge and Identity*. New York: NYU P, 1998.
 
 Moore, Leroy. *Krip-Hop Nation*. [http://kriphopnation.com/](http://kriphopnation.com/)
 
-Oswal, Sushil K., and Beth L. Hewett. “Accessibility Challenges for Visually Impaired Students and Their Online Writing Instructors.” *Rhetorical AccessAbility*. Ed. Lisa Meloncon. Amityville, NY: Baywood Press, 2011. 135–155.
+Price, Margaret. "Recognizing Disability Studies."
 
 Richards, Penny, Mike Dorn, and Carol Marfisi. *Disability Studies, Temple U*. [http://disstud.blogspot.com/](http://disstud.blogspot.com/)
 
-Schalk, Sami. “Coming to Claim Crip: Disidentification with/in Disability Studies.” *Disability Studies Quarterly*, 33.2 (2013). [http://dsq-sds.org/article/view/3705/3240](http://dsq-sds.org/article/view/3705/3240)
+Schalk, Sami. "Coming to Claim Crip: Disidentification with/in Disability Studies." *Disability Studies Quarterly*, 33.2 (2013). [http://dsq-sds.org/article/view/3705/3240](http://dsq-sds.org/article/view/3705/3240)
 
-Taylor, Julie L., and Marsha M. Seltzer. “Employment and Post-Secondary Educational Activities for Young Adults with Autism Spectrum Disorders During the Transition to Adulthood.” *Journal of Autism and Developmental Disorders*, 41.5 (2011): 566–574.
+Vidali, Amy. "Multimedia Composition: Inclusion in a Digital Age." [http://amyvidali.com](http://amyvidali.com)
 
-Vidali, Amy, and Dev Bose, with Hilary Selznick, Tara Wood, and Dale Ireland. *Disability Rhetoric*. [http://disabilityrhetoric.com/](http://disabilityrhetoric.com/)
+Yergeau, Melanie. "Disability Blog Carnival."
+
+--. "Disability Rights Organizations and Collectives."
