@@ -60,7 +60,7 @@ The collection of teaching objects (arranged alphabetically) incorporates analog
 ## CURATED ARTIFACTS
 
 ### "Archive Project"
-![screenshot](images/archive-archive project.jpg)
+![screenshot](images/archive-archiveproject.jpg)
 
 * Artifact Type: assignment and student work
 * Source URL: [http://digital.lib.lehigh.edu/remain/con/lit376_over.html](http://digital.lib.lehigh.edu/remain/con/lit376_over.html)
@@ -72,7 +72,7 @@ In this transcription exercise, students both use and build archives, which has 
 
 
 ### Commonplacing Assignment
-![screenshot](images/archive-commonplacing assignment.jpg)
+![screenshot](images/archive-commonplacingassignment.jpg)
 
 * Artifact Type: assignment
 * Source URL: [http://www.rci.rutgers.edu/~ag978/355/commonplace/single.html](http://www.rci.rutgers.edu/~ag978/355/commonplace/single.html)
@@ -84,7 +84,7 @@ A commonplace book is a form of personal archive, a means of recording and arran
 
 
 ### "Composing Digital Media: Citizen Archives"
-![screenshot](images/archive-composing digital media.jpg)
+![screenshot](images/archive-composingdigitalmedia.jpg)
 
 * Artifact Type: syllabus
 * Source URL: [http://www.digitaltrishacampbell.com/cdm_citizen.html](http://www.digitaltrishacampbell.com/cdm_citizen.html)
@@ -95,7 +95,7 @@ This course demonstrates one way to focus students’ attention on what is left 
 
 
 ### *Designing Object-Based Experiences: A Prototyping Game*
-![screenshot](images/archive-designing object based experiences.jpg)
+![screenshot](images/archive-designingobjectbasedexperiences.jpg)
 
 * Artifact Type: game
 * Source URL: [https://issuu.com/metalab4/docs/bd_game_cards](https://issuu.com/metalab4/docs/bd_game_cards)
@@ -107,7 +107,7 @@ What kinds of experiences can archival materials generate?  Students get to play
 
 
 ### *A Guide for Using Primary Source or Original Source Documents: Origins, Purpose, Values, Limitations (OPVL)*
-![screenshot](images/archive-guide using primary sources.jpg)
+![screenshot](images/archive-guideusingprimarysources.jpg)
  
 * Artifact Type: teaching guidelines
 * Source URL: [http://www.mnhum.org/Resources/primary_source_documents.pdf](http://www.mnhum.org/Resources/primary_source_documents.pdf)
@@ -119,7 +119,7 @@ A basic object analysis exercise can turn a student's initial wonder about an ob
  
 
 ### "Introduction to Omeka: Lesson Plan"
-![screenshot](images/archive-introduction to omeka.jpg)
+![screenshot](images/archive-introductiontoomeka.jpg)
 
 * Artifact Type: lesson plan
 * Source URL: [http://amandafrench.net/2013/11/12/introduction-to-omeka-lesson-plan](http://amandafrench.net/2013/11/12/introduction-to-omeka-lesson-plan)
@@ -131,7 +131,7 @@ A student-curated digital exhibit is a foundational and flexible archival exerci
 
 
 ### "Media, Materiality, and Archives" Syllabus
-![screenshot](images/archive-media materiality archives.jpg)
+![screenshot](images/archive-mediamaterialityarchives.jpg)
 
 * Artifact Type: syllabus
 * Source URL: [http://blogs.iac.gatech.edu/archives14/syllabus/ ](http://blogs.iac.gatech.edu/archives14/syllabus/ )
@@ -142,7 +142,7 @@ This course integrates literary study of contemporary texts with archival theory
 
 
 ### *Metadata Games*
-![screenshot](images/archive-metadata games.jpg)
+![screenshot](images/archive-metadatagames.jpg)
 
 * Artifact Type: set of games
 * Source URL: [http://www.metadatagames.org/#games ](http://www.metadatagames.org/#games )
@@ -153,7 +153,7 @@ It can be difficult to suture the sense of wonder that archives can produce to p
 
 
 ### "Panama Silver, Asian Gold: Migration, Money, and the Making of Modern Caribbean Literature" Syllabus
-![screenshot](images/archive-panama silver.jpg)
+![screenshot](images/archive-panamasilver.jpg)
 
 * Artifact Type: syllabus and related assignments
 * Source URL: [http://ufdc.ufl.edu/AA00013935/00001](http://ufdc.ufl.edu/AA00013935/00001)
@@ -165,7 +165,7 @@ In this class, students read early twentieth-century and contemporary Caribbean 
 
 
 ### "Your House or School in 100 Years"
-![screenshot](images/archive-your house or school.jpg)
+![screenshot](images/archive-yourhouseorschool.jpg)
 
 * Artifact Type: student activity
 * Source URL: [https://docs.google.com/document/d/13Ay2Dzx1AnnOMlfbr12qMblO24eJdvETIrLw1hKu6Vk/edit](https://docs.google.com/document/d/13Ay2Dzx1AnnOMlfbr12qMblO24eJdvETIrLw1hKu6Vk/edit)
