@@ -13,7 +13,7 @@ publisher: Modern Language Association
 type: book
 ---
 
-# INTERFACE (Final)
+# INTERFACE 
 
 ### [Kathi Inman Berens](http://kathiiberens.com)
 Portland State University | [English Department - Book Publishing](http://publishing.pdx.edu/faculty/)
@@ -46,7 +46,7 @@ GUI was designed to make computational logic less foreign to humans.  The "invis
 
 When curating the keyword "Interface," I pursued the opposite of "deference."  Assignments included here ask students to note how interface "competes" with the output, draws attention to its materiality and constructedness.  These artifacts and related materials prompt students to see the labor and mess of human/computer interaction, giving them occasion to examine interface from technical, material, and cultural perspectives. Study of interface is a contact point for nonhuman/human difference, an "in-betweenness,” as Homi Bhabha says of multiculturalism.  
 
-"Autocomplete poetry" is a simple and fast classroom exercise to prompt critical thinking about interface.  Instruct students to type the same phrase into a commercial search bar, then each student screenshots the suggested autocompletions. (This works less well in [Duckduckgo](https://duckduckgo.com/), which doesn't track query data.)  Students can use phones, laptops, lab computers--device doesn't matter.  They can stack several screenshots of autocomplete and read them as a poem.  Or they can compile screenshots of the same autocompleted phrase into one composit.  Can we find patterns in autocompletions of the same phrase on different machines?  Whose interest might such autocompleted result serve?  Anna Jobin and Frederic Kaplan found a [correlation between autocompletion results and Google's commercial interests] (http://dh2013.unl.edu/abstracts/ab-223.html).  
+"Autocomplete poetry" is a simple and fast classroom exercise to prompt critical thinking about interface.  Instruct students to type the same phrase into a commercial search bar, then each student screenshots the suggested autocompletions. (This works less well in [Duckduckgo](https://duckduckgo.com/), which doesn't track query data.)  Students can use phones, laptops, lab computers--device doesn't matter.  They can stack several screenshots of autocomplete and read them as a poem.  Or they can compile screenshots of the same autocompleted phrase into one composit.  Can we find patterns in autocompletions of the same phrase on different machines?  Whose interest might such autocompleted result serve?  Anna Jobin and Frederic Kaplan found a [correlation between autocompletion results and Google's commercial interests](http://dh2013.unl.edu/abstracts/ab-223.html).  
 
 John Cayley and Daniel C. Howe's excellent work on Google data as public commons in the arts-based [The Readers Project] (thereadersproject.org) interrogates who owns the information amassed by human activity in the world's largest public repositories, the volunteer labor that builds public commons owned by corporations.  Eli Pariser’s influential *The Filter Bubble* (2011) became freshly and ominously relevant after disclosures of “fake news” during the 2016 U.S. presidential election revealed the extent to which enterprise interface customization comes at the cost of universally shared common information.
 
@@ -58,7 +58,7 @@ These Interface assignments and Related Materials address a wide spectrum of stu
 ## CURATED ARTIFACTS
 <!-- #1  -->
 ### Simulating the Scriptorium
-![screenshot](images/interface-Cordell-Scrivening.png)
+![screenshot](images/interface-scrivening.png)
 
 * Artifact Type: Assignment 
 * Source URL: <http://f14tot.ryancordell.org/2014/09/16/lab-3-simulating-the-scriptorium/>
@@ -68,7 +68,7 @@ These Interface assignments and Related Materials address a wide spectrum of stu
 “The candle is a non-textual medium that has profoundly affected the texts we have inherited from previous generations," observes Ryan Cordell.  Undergraduates in his "Technologies of Text" course for one class period in the dark at a table lit by candles. A fire marshal with an extinguisher at his hip monitors the scrivening, which is held in a windowless, enclosed room.  Students discover that bookmaking is a laborious process when they transcribe a text of their choice from the *Norton Anthology.*  Hands cramp.  Eyes strain.  Backs tire. This assignment historicizes the physical labor of writing.  Just as with hand-coding websites, scrivening prompts interface awareness.
 <!-- #2  -->
 ### Close Reading *House of Leaves* using collage and Tumblr
-![screenshot](images/tumblr-douglass-hol.png)
+![screenshot](images/interface-tumblr-hol.png)
 
 * Artifact Type: Assignment 
 * Source URL: <http://english10introductiontolit.tumblr.com>
@@ -83,7 +83,7 @@ It's ambitious to assign *House of Leaves* in an introductory literature class. 
 * Artifact Type: Assignment 
 * Source URL: <https://tuelit13.wordpress.com/deformation/>
 * Copy of Artifact: K.Harris has PDF
-* Creator: Paul Benzon (Skidmore College)
+* Creator: Paul Benzon (Skidmore College); Deformance by Portland State University undergraduate Ivy Knight (above)
 
 Paul Benzon teaches students how altering the materiality of a source text refigures how and why it means something.  Such an interface invokes theories of “deformance” by McGann & Samuels and Sample, which students read in advance of doing this assignment.  Benzon suggests these potential deformances, and encourages students to invent their own:
 •	reorder the book’s pages 
@@ -96,14 +96,14 @@ Paul Benzon teaches students how altering the materiality of a source text refig
 
 I remixed Benzon’s assignment using as my source texts T.S. Eliot’s The Waste Land and contemporary poet John Beer’s The Waste Land.  These we studied in various medial forms: paper, audio, Poetry Foundation website, Google images.  My students deformed the source texts into: 
 •	an RPG game; 
-•	a remixable, combinatory poem made of lines pasted onto cardboard multiplication flashcards; 
-•	a Twine hypertext story; 
+•	a remixable, combinatory poem made of lines pasted onto cardboard multiplication flashcards (by Portland State University undergraduate Ivy Knight, pictured above); 
+•	a Twine hypertext story;
 •	an interactive, redacted poem; 
 •	a video with originally composed music, glitch video and spoken word; 
 •	a hand-made zine
 •	a hand-drawn spiral of words, photographed and uploaded to a class repository (this by a retiree auditing my class who had never used a smart phone or seen a blog comment).  
 
-The generic diversity of my students’ deformances led to bold and exciting conversation anchored in Jessica Pressman’s assessment of medium-specific close reading in Digital Modernism: Making it New in New Media (2014).  
+The generic diversity of my students’ deformances led to bold and exciting conversation anchored in Jessica Pressman’s assessment of medium-specific close reading in *Digital Modernism: Making it New in New Media* (2014).  
 <!-- #4  -->
 ### Spanish-Language Life Histories Audio Wiki In-Progress
 ![screenshot](images/interface-esta-vida.png)
@@ -122,11 +122,11 @@ I chose this interface because, like many digital humanities passion projects, *
 * Artifact Type: Assignment 
 * Source URL: <http://nickm.com/taroko_gorge/ >
 * Copy of Artifact: K.Harris has PDF
-* Creator: Nick Montfort (Massachusetts Institute of Technology)
+* Creator: Nick Montfort (Massachusetts Institute of Technology); "Talking Orange" remix (above) by Portland State University Master's candidate Brooke Austin
 
-Nick Montfort wrote the generated poem “Taroko Gorge” on the plane home from Taiwan as a machinic version of British Romantic landscape poems.  Instead of the author-genius crafting memorable verse, Python code instructs the computer to print stanzas randomly selected from words in six variable strings.  The generated poem prints one line at a time for as long as the program is running.  Once a line is pushed up and off the screen by new lines, it’s gone forever.  Montfort ported “Taroko Gorge” to Javascript so that it would run in a brower, and Scott Rettberg was the first to remix it.  My remix “Tournedo Gorge” was my first experience with Javascript.  It is anthologized, along with several other Taroko remixes, in the [Electronic Literature Collection Volume 3] (http://collection.eliterature.org/3/collection-taroko.html).
+Nick Montfort wrote the generated poem “Taroko Gorge” on the plane home from Taiwan as a machinic version of British Romantic landscape poems.  Instead of the author-genius crafting memorable verse, Python code instructs the computer to print stanzas randomly selected from words in six variable strings.  The generated poem prints one line at a time for as long as the program is running.  Once a line is pushed up and off the screen by new lines, it’s gone forever.  Montfort ported “Taroko Gorge” to Javascript so that it would run in a brower, and Scott Rettberg was the first to remix it.  My poem “Tournedo Gorge” was my first experience modifying Javascript.  My poem is anthologized, along with several other "Taroko" remixes, in the [Electronic Literature Collection Volume 3] (http://collection.eliterature.org/3/collection-taroko.html).
 
-“Taroko Gorge” is a venerable classroom exercise, a high-impact way to teach the culture of code copying, remix, and imparting the values of early Web, non-corporate interface.  “Taroko” accommodates all levels of learners.  In the same class, I’ve taught it to students who’ve never before looked at source code and professional programmers.  Student remixes have run the gamut from a sophisticated, [Panoptic theme] (http://nickm.com/taroko_gorge/take_gonzo/) with jarring soundtrack and auto-redacting words by Anders Gonzo Gaard, to a mashup of the dueling fictions of Scott and Zelda Fitzgerald overlaid on a watercolor painted Zelda by Silje Fossdal, to “Talking Orange” by Brooke Austin pictured here: Trump’s words from the three presidential debates recombined into tercets that resemble, in their jumbled but imperative declarations, Trump’s ordinary sequential speech.
+“Taroko Gorge” is a venerable classroom exercise, a high-impact way to teach the culture of code copying/remix, and impart the values of open-access early Web.  “Taroko” accommodates all levels of learners.  In the same class, I’ve taught it to students who’ve never before looked at source code and to professional programmers.  Student remixes have run the gamut from a sophisticated, [Panoptic theme] (http://nickm.com/taroko_gorge/take_gonzo/) with jarring soundtrack and auto-redacting words by Anders Gonzo Gaard, to a mashup of the dueling fictions of Scott and Zelda Fitzgerald overlaid on a watercolor painted Zelda by Silje Fossdal, to “Talking Orange” by Brooke Austin pictured here: Trump’s words from the three presidential debates recombined into tercets that resemble, in their jumbled but imperative declarations, Trump’s ordinary sequential speech.
 <!-- #6  -->
 ### Rare Books Collaborative Undergraduate Research Project
 ![screenshot](images/interface-harris-collab-research.jpg)

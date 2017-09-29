@@ -14,7 +14,7 @@ type: book
 ---
 
 
-# ACCESS (Revised Draft)
+# ACCESS 
 
 ## GEORGE H. WILLIAMS
 University of South Carolina Upstate | [http://georgehwilliams.net](http://georgehwilliams.net)
@@ -24,6 +24,7 @@ University of South Carolina Upstate | [http://georgehwilliams.net](http://georg
 ### Publication Status:
 
 * unreviewed draft
+* draft version undergoing peer-to-peer review
 * **draft version undergoing MLA copyediting**
 * awaiting pre-print copy
 * published 

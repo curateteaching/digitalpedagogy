@@ -8,14 +8,14 @@ author:
   given: J. Elizabeth 
 editor: 
 - family: Sayers & Harris
-  given: Jentery & Katherine
+  given: Jentery & Katherine D.
 publisher: Modern Language Association
 type: book
 tags: 
   - portfolios
   - gamification
 ---
-# ASSESSMENT
+# ASSESSMENT 
  
 ### J. Elizabeth Clark
 LaGuardia Community College, CUNY
@@ -23,64 +23,39 @@ LaGuardia Community College, CUNY
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review**
+* draft version undergoing peer-to-peer review
+* **draft version undergoing MLA copyediting**
+* awaiting pre-print copy
 * published 
+
+---
+### Cross-Reference Keywords: archive, badge, blogging coding, gaming, e-portfolios, makerspaces, multimodal, storytelling 
 --- 
 ## CURATORIAL STATEMENT
 
 **Defining Assessment**
 
-The modern assessment movement beginning in 1985 has its roots in differing “practice traditions.” Peter Ewell notes that the “values and methodological traditions” between these practices “are frequently contradictory, revealing conceptual tensions that have fueled assessment discussions ever since” (6). Assessment encompasses everything from faculty evaluation of student learning in a single course to program-level curricula review to institutional-level accreditation to emerging cross-institutional criteria. The central tension is between quantitative and qualitative data, between assessment of student learning in the classroom and institutional assessment.
+In many ways, this is the beginning of the era of digital assessment because technology offers the possibility of a more robust assessment methodology. Research is at the heart of all scholarly work, including teaching. Assessment is simply an intellectual and scholarly investigation into the question: what are students learning and how do we know? How do new digital pedagogies transform what we need to measure and evaluate? The integration of technology into assessment methods is more than evaluating digital work; emerging assessments allow for more complex and granular understanding of student skill and knowledge-development over time.
 
-Thomas Angelo defines assessment as an “ongoing process aimed at understanding and improving student learning. It involves making our expectations explicit and public; setting appropriate criteria and high standards for learning quality; systematically gathering, analyzing, and interpreting evidence to determine how well performance matches those expectations and standards; and using the resulting information to document, explain, and improve performance” (7). Assessment often involves the collection and analysis of student work against a set of expectations.
+Assessment is an all-encompassing term used to indicate anything from faculty evaluation of student learning in a single course to program-level curricula review to institutional-level accreditation to emerging cross-institutional criteria. Thomas Angelo defines assessment as an “ongoing process aimed at understanding and improving student learning. It involves making our expectations explicit and public; setting appropriate criteria and high standards for learning quality; systematically gathering, analyzing, and interpreting evidence to determine how well performance matches those expectations and standards; and using the resulting information to document, explain, and improve performance” (7). Evaluating student learning has always been part of faculty responsibility, quantifying what and how students have learned. Much of the model assessment work that exists in the digital ecosystem is deeply connected and rooted in its analog precursors; therefore, some of the language of assessment remains the same: formative, summative, and self-assessments are categories of assessment that indicate the goals and stakes of the assessment. 
 
-Assessment is particularly important in discussions of digital pedagogy because there are competing ideologies. One is the fear that technology can automate assessment which is often seen as a direct attack on faculty autonomy (Perelman). Conversely, emerging digital tools can assist with new modes of assessment.  
+In its most basic form, digital assessment replicates traditional pedagogy. Quizzes and tests can be given through a course management system, offering students immediate feedback and weary instructors less to grade. Savvy users can track how often students log into the system, how long they spend on course units, and how many times they view particular modules. 
 
-**Categories of Assessment**
+In its more complex curricular form, assignments connected to digital pedagogy can include archiving, badging, blogging coding, gaming, e-portfolios, maker spaces, multimodal projects, and storytelling, among the keywords in *Digital Pedagogy in the Humanities*. On a larger scale, an institution might measure student learning for accreditation through student work highlighted in an e-portfolio using rubrics designed around competencies. Students might add badges to a resume to showcase specific skills learned in a course or set of courses. Game-based learning can introduce a non-punitive, recursive element to the curriculum, as students learn through repeated attempts in engaged, interactive learning. 
 
-While programmatic, institutional and cross-institutional assessment are key pieces of the assessment landscape in higher education, this discussion is focused on the classroom and three key categories of assessment. 
+Assessment also has the potential to impact the the public sphere through student work. Work might take the shape of a public product published digitally--on a website or an app--allowing knowledge from the classroom to flow back into the college and local communities. What students learn has a different weight than an assignment produced in isolation. Their knowledge is not only transparent, but also interactive: they learn by doing and by engaging others. 
 
-*Formative assessments* provide gradual, developmental feedback. John Bean’s *Engaging Ideas* offers a thorough overview of low-stakes assignments such as scaffolding, reflective writing, surveys, and minute papers.
+Good assessment design is predicated on multiple measures. Digitally-based assessments model the way students will be asked to work in the future. Technology supports a better deeper understanding of student learning, more easily combining hard data with qualitative, descriptive, narrative, or reflective assessment. Emerging assessment methods disrupt traditional notions of skill and knowledge evaluation in part because these new methods engage students in longitudinal learning and scaffolded skill development that requires the mastery of one skill before moving onto the next one. Digital assessment also encourages, if not privileges, integration and connections. The transparency of digital assessment galvanizes the portability of skills and concepts from one course to another. Students can document and reflect on their academic trajectory across courses finding connections that faculty may not expect. Students' longitudinal learning, instead of being a happy accident, is carefully connected through and across courses and co-curricular experiences. 
 
-*Summative assessments* represent the culminating judgment of a student’s work on high-stakes assignments such as exams, final papers (without staging or drafts), and portfolios. 
+The artifacts demonstrate that these practices in the digital ecosystem are also rooted in the analog tradition and demonstrate an intentional way of thinking and understanding learning as a dynamic, integrative process: from syllabus construction to learner-centered assessments to summative assignments. The artifacts are tagged to emphasize which assessment practice they represent: 
 
-*Self-assessments* are provided by the learner in dialogue with a faculty member. 
-
-**Practices of Assessment**
-
-Practices of assessment demonstrate an intentional way of thinking, demonstrating, and understanding learning as a dynamic, integrative process. 
-
-*Design*: Assessment design does not focus on a single product but the relationship between all of the learning in a course. Linda Suskie recommends beginning with student learning outcomes when designing a course (117). Intentional course design asks what skills and knowledge a student will need to demonstrate their learning experiences (sometimes known as backwards design) and embeds them strategically throughout the course.
-
-*Communication*: Student learning outcomes, rubrics, and other clearly formulated articulations of faculty expectations are a key to effective assessment. 
-
-*Process*: Peggy Maki refers to assessment as a process which provides the opportunity for students to build on prior learning (33).
-
-*Participation*: Learner-centered assessments shift teaching from lecture to inquiry modes where students are guided through the curriculum. Brian Huot calls this "instructive evaluation" which “requires that we involve the student in all phases of the assessment of her work" (69). This participatory process helps students master the skill of self-evaluation.  
-
-*Inquiry and Professional Development*: Asking what student work demonstrates helps faculty members to understand learning better. Assessment supports evidence-based changes to improve teaching.
-
-*Integration*: The Association of American Colleges and Universities advocates for integrative learning that culminates in “signature work,” independent, integrative projects that allow students to examine real world issues with guidance from faculty members (Peden n. pag.). These projects document a range of skills and knowledge across the curriculum.
-
+Assessment Design: the relationship between all the learning in a course. Intentional assessment design considers what skills and knowledge a student will need to demonstrate their learning experiences (sometimes known as backwards design) and embeds them strategically throughout the course.  *Communication*: Student learning outcomes, rubrics, and other clearly stated faculty expectations are a key to effective assessment.   *Process*: Peggy Maki refers to assessment as a process which provides the opportunity for students to build on prior learning (33).  *Participation*: Learner-centered assessments shift teaching from lecture to inquiry modes where students are guided through the curriculum. Brian Huot calls this "instructive evaluation" (69), a participatory process that helps students master the skill of self-evaluation.    *Inquiry and Professional Development*: Assessment supports evidence-based changes to improve teaching.  *Integration*: The Association of American Colleges and Universities advocates for integrative learning using a range of skills and knowledge across the curriculum. (Peden n. pag.). 
 *Technology*: Digital tools have encouraged the development of new ways for students to receive, perform, produce, and share knowledge.  
-
-Each artifact is organized into a category and practice of assessment described above.
-
-**Assessment and Digital Pedagogy**
-
-Assignments connected to digital pedagogy take many forms such as archiving, badging, blogging, coding, gaming, e-portfolios, maker spaces, multimodal projects, and storytelling, among the other keywords in the *Digital Pedagogy in the Humanities* collection. 
- 
-An institution might measure student learning for accreditation through student work highlighted in an e-portfolio using rubrics designed around competencies. Students might add badges to a resume to showcase the specific skills they learned in a course or set of courses. Game-based learning can introduce a non-punitive, recursive element to the curriculum, as students learn through repeated attempts in engaged, interactive learning. 
-
-Digital assessment design allows for greater transparency; instead of the traditional transactional relationship between faculty member and student, work is now crafted for a wider discourse community. Work is often a public product published digitally--on a website or an app--allowing for feedback from faculty, fellow students, and sometimes the public.   
-
-Students can document and reflect on their academic trajectory across courses finding connections that faculty may not expect. Connections are fostered by the portability of digital tools that allow students to "carry" work from one course to another. Carefully designed reflective assignments assess student learning in a single course while also prompting students to make connections between courses. Students' longitudinal learning and integration, instead of being a happy accident, is carefully orchestrated through and across courses and co-curricular experiences. 
-
-The integration of technologies into assessment methods is more than assessing digital work; emerging assessments allow for new understandings of student learning emerging digital ecosystems. 
 
 ## CURATED ARTIFACTS 
 
 ### Syllabus: Typography One: Type as Image
+![screenshot]
 
 * Artifact Type: Syllabus
 * Source: [http://www.cmu.edu/teaching/designteach/design/syllabus/samples-creative/TypographySyllabus.pdf](http://www.cmu.edu/teaching/designteach/design/syllabus/samples-creative/TypographySyllabus.pdf)
@@ -94,9 +69,10 @@ This syllabus serves as an introduction to both the work of the course and its p
 
 
 ### Syllabus: American Carnival
+![screenshot]
 
 * Artifact Type: Syllabus
-* Source: [http://www.tonahangen.com/wp-content/uploads/2010/06/193.Fall14.pdf)
+* Source: (http://www.tonahangen.com/wp-content/uploads/2010/06/193.Fall14.pdf)
 * Copy of Artifact: forthcoming
 * Creator: Tona Hangen, Worcester State University
 
@@ -219,14 +195,6 @@ McKee, Heidi A. and Danielle Nicole DeVoss, Eds. [*Digital Writing: Assessment a
 
 Angelo, Thomas A. "Reassessing (and Defining) Assessment." *AAHEA Bulletin*. 48.3 (Nov. 1995): 7. Print.
 
-Bean, John C., and Maryellen Weimer. *Engaging Ideas: The Professor's Guide to Integrating Writing, Critical Thinking, and Active Learning in the Classroom* (2nd Edition). N.p.: Jossey-Bass, 2011. Print.
-
-Ewell, Peter T. “An Emerging Scholarship: A Brief History of Assessment.” *Building a Scholarship of Assessment*. Ed. Trudy W. Banta. San Francisco, CA: Jossey-Bass. 2002. 3-25. Print.
-
----. “[Assessment, Accountability, and Improvement: Revisiting the Tension](http://www.learningoutcomeassessment.org/documents/PeterEwell_005.pdf)” (NILOA Occasional Paper No. 1). National Institute for Learning Outcomes Assessment. November 2009. Web. 14 May 2016.
-
-Eynon, Bret, Laura Gambino, Randy Bass, and Helen Chen. *Catalyst for Learning ePortfolio [Site*.](http://c2l.mcnrc.org) Making Connections National Resource Center. 2014. Web. 14 May 2016.
-
 Gould, Amanda Starling. "[Evaluating Digital Humanities Projects: Collaborative Course Assessment](http://sites.duke.edu/lit80s_01_f2014/evaluating-digital-humanities-projects-collaborative-course-assessment/)." Duke University. 2013. Web. 14 May 2016.
 
 Hangen, Tona. "[American Carnival Syllabus](http://www.tonahangen.com/wp-content/uploads/2010/06/193.Fall14.pdf)." Tonahangen.com. Fall 2014. Web. 14 May 2016. 
@@ -259,13 +227,10 @@ Moyer, Karen and Dan Boyarski. "[Typography Syllabus](https://www.cmu.edu/teachi
 
 Peden, Wilson. "[Signature Work: A Survey of Current Practices](https://www.aacu.org/liberaleducation/2015/winter-spring/peden)." Association of American Colleges & Universities. AAC&U, 24 June 2015. Web. 14 May 2016.
 
-Perelman, Les C. "[Critique of Mark D. Shermis & Ben Hamner, 'Contrasting State-of-the-Art Automated Scoring of Essays: Analysis](http://journalofwritingassessment.org/article.php?article=69)'" *The Journal of Writing Assessment* 6.1 (2013): n. pag. The Journal of Writing Assessment. Journal of Writing Assessment. Web. 14 May 2016.
-
 Scott, Hallie. ["#arthistory: Instagram and the Intro to Art History Course."](http://arthistoryteachingresources.org/2014/06/arthistory-instagram-and-the-intro-to-art-history-course/) Art History Teaching Resources. 25 June 2014. Web. 14 May 2016.
 
 Sorapure, Madeleine. "[Between Modes: Assessing Students' New Media Compositions](http://technorhetoric.net/10.2/coverweb/sorapure/betweenmodes.html)." *Kairos* 10:2 (2005). Web. 14 May 2016.
 
-Suskie, Linda. *Assessing Student Learning: A Common Sense Guide*, 2nd edition. San Francisco: Jossey-Bass, 2009. Print. 
 
 
 
