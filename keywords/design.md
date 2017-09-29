@@ -9,8 +9,8 @@ author:
 - family: Arola
   given: Kristin L. 
 editor:
-- family: Sayers
-  given: Jentery
+- family: Sayers & Harris
+  given: Jentery & Katherine D. 
 publisher: Modern Language Association
 type: book
 ---
@@ -25,9 +25,9 @@ Michigan State University
 ##### Publication Status:
 * unreviewed draft  
 * draft version undergoing editorial review
-* draft version undergoing peer-to-peer review https://digitalpedagogy.commons.mla.org/
-* draft revision submitted 6/3/16, needs .pdf added to Curated Artifact Part 2, Autobiographical Icons. note: feedback sent in summer 2017 was NOT based on our revision, but on the first draft* 
-* **draft revision submitted 9/26/17** * 
+* draft version undergoing peer-to-peer review
+* **draft version undergoing MLA copyediting**
+* awaiting pre-print copy
 * published
 
 ---
@@ -69,8 +69,8 @@ Our first commitment to design involves finding and analyzing numerous examples.
 
 ![screenshot](images/design-analysis-sheppard.png)
 
+* Artifact Type: 
 * Source URL: [http://jennysheppard.com/wp-content/uploads/2017/09/sheppard_visual_rhetoric_monuments.pdf](http://jennysheppard.com/wp-content/uploads/2017/09/sheppard_visual_rhetoric_monuments.pdf)
-
 * Creator: Jennifer Sheppard
 
 This multi-step assignment asks students to select and analyze a monument or memorial of their choice. After completing several readings on visual, spatial, and performative rhetoric, student teams visit their chosen artifact (or review it online if it is not local) and complete a systematic analysis of its physical, contextual, and commemorative elements and present their findings to the rest of the class. As material objects, the design of monuments and memorials not only call viewers’ attention to visual symbols, but also to issues of location, kairos, absence, and audience interaction. That is, this analysis asks students to evaluate the multitude of ways the designer(s) created meaning and encouraged viewer participation in commemorative acts. 
@@ -79,6 +79,7 @@ This multi-step assignment asks students to select and analyze a monument or mem
 ### Visual Communication Audit
 ![screenshot](images/design-analysis-devoss.png)
 
+* Artifact Type: 
 * Source URL: [https://www.msu.edu/~devossda/360/modules/module1.pdf](https://www.msu.edu/~devossda/360/modules/module1.pdf) from a Visual Rhetoric and Document Design course, [https://www.msu.edu/~devossda/360/](https://www.msu.edu/~devossda/360/)
 * Creator: Danielle DeVoss
 
@@ -87,6 +88,7 @@ Focused on the professional writing classroom, this assignment asks students to 
 ### Multimodal Rhetorical Analysis
 ![screenshot](images/design-analysis-warnick.png)
 
+* Artifact Type: 
 * Source URL: [http://3844s13.quinnwarnick.com/unit3/ from a Writing &](http://3844s13.quinnwarnick.com/unit3/) from a Writing & Digital Media course http://3844s13.quinnwarnick.com/ 
 * Creator: Quinn Warnick
 
@@ -99,6 +101,7 @@ Our second commitment to design is hands-on learning in context, or put more sim
 ### Remix a Story
 ![screenshot](images/design-produce-gardner.png)
 
+* Artifact Type: 
 * Source URL: [http://3844s15.tracigardner.com/assignments/project-4-remix-a-story/](http://3844s15.tracigardner.com/assignments/project-4-remix-a-story/) 
 * Creator: Traci Gardner
 
@@ -107,6 +110,7 @@ Redesigning asks students to consider how the design of a text encourages a cert
 ### Autobiographical Icons
 ![screenshot](images/design-produce-kuure.png)
 
+* Artifact Type: 
 * Source URL:
 * PDF of entire assignment (online versions of each piece linked below) SEE .PDF EMAILED ON 6/3/16 
     * Part (1), [http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_1](http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_1)
@@ -120,6 +124,7 @@ In this three-part assignment, Jeff Kuure asks his students to develop a set of 
 ### Infographic Assignment
 ![screenshot](images/design-produce-wolff.png)
 
+* Artifact Type: 
 * Source URL: [http://williamwolff.org/courses/ia-spring-2013/ia-assignments-s13/ias13-infographic-assignment/ ](http://williamwolff.org/courses/ia-spring-2013/ia-assignments-s13/ias13-infographic-assignment/ )
 * Creator: Bill Wolff
 
@@ -128,6 +133,7 @@ Infographics are visual representations of information or data and provide an in
 ### Informational Campaign
 ![screenshot](images/design-produce-arola.png)
 
+* Artifact Type: 
 * Source URL: [http://arola.kuurola.com/355/fall14/project4.html ](http://arola.kuurola.com/355/fall14/project4.html )
 * Creator: Kristin Arola
 
@@ -140,6 +146,7 @@ Our third pedagogical commitment to design includes incorporating multiple oppor
 ### Writer/Designer: A Guide to Making Multimodal Projects
 ![screenshot](images/design-reflection-ball.png)
 
+* Artifact Type: 
 * Source URL: [http://www.macmillanhighered.com/Catalog/product/writerdesigner-firstedition-arola](http://www.macmillanhighered.com/Catalog/product/writerdesigner-firstedition-arola)
 * Creators: Cheryl E. Ball, Jennifer Sheppard, and Kristin L. Arola
 
@@ -149,8 +156,8 @@ As the authors of this textbook and this entry, we understand ourselves not so m
 ### Photo WebLog Assignment
 ![screenshot](images/design-reflection-newbold.png)
 
+* Artifact Type: 
 * Source URL: [http://thevisualcommunicationguy.com/wp-content/uploads/2013/10/PhotoWebLog_AssignmentDescription.pdf](http://thevisualcommunicationguy.com/wp-content/uploads/2013/10/PhotoWebLog_AssignmentDescription.pdf)
-
 * Creator: Curtis Newbold
 
 In this assignment, Curtis Newbold asks students to take photos of real life communication design and to analyze their effectiveness in helping people navigate the world. Importantly, students post these images and analyses to their blogs and then reflect on how they utilize (or don’t) concepts from the course readings. This final reflective step is crucial in helping students to bridge the divide between concepts in information design and the functionality and effectiveness of these concepts as implemented in the physical world.
@@ -160,8 +167,8 @@ In this assignment, Curtis Newbold asks students to take photos of real life com
 
 ![screenshot](images/design-reflection-joyner.png)
 
+* Artifact Type: 
 * Source URL: [http://www.uttyler.edu/communication/files/mcom3311_vis_design_fall_15.pdf](http://www.uttyler.edu/communication/files/mcom3311_vis_design_fall_15.pdf)
-
 * Creator: Vanessa Joyner
 
 In this semester-long project, Vanessa Joyner calls on students to document all stages in the design process (research, concept, design, and application) of their course projects. She argues that such notebooks can be useful for students in demonstrating their practices to potential employers and for reflecting on and improving their processes for thinking, researching, conceptualizing, and refining their design solutions. Significantly, Joyner calls students’ attention to the value of critical reflection on completed design in the “application” stage. Specifically, she asks them to consider the relevance and effectiveness of their final designs for their intended audiences and purposes and what they can apply from this experience to future projects. 
