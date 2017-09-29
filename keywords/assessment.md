@@ -8,14 +8,14 @@ author:
   given: J. Elizabeth 
 editor: 
 - family: Sayers & Harris
-  given: Jentery & Katherine
+  given: Jentery & Katherine D.
 publisher: Modern Language Association
 type: book
 tags: 
   - portfolios
   - gamification
 ---
-# ASSESSMENT (Draft)
+# ASSESSMENT 
  
 ### J. Elizabeth Clark
 LaGuardia Community College, CUNY
@@ -23,37 +23,34 @@ LaGuardia Community College, CUNY
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review**
+* draft version undergoing peer-to-peer review
+* **draft version undergoing MLA copyediting**
+* awaiting pre-print copy
 * published 
+
+---
+### Cross-Reference Keywords: archive, badge, blogging coding, gaming, e-portfolios, makerspaces, multimodal, storytelling 
 --- 
 ## CURATORIAL STATEMENT
 
 **Defining Assessment**
 
-In many ways, this is the beginning of the era of digital assessment. Technology offers the possibility of a more robust assessment methodology. The integration of technology into assessment methods is more than evaluating digital work; emerging assessments allow for more complex and granulated understanding of student skill and knowledge development over time.
+In many ways, this is the beginning of the era of digital assessment because technology offers the possibility of a more robust assessment methodology. Research is at the heart of all scholarly work, including teaching. Assessment is simply an intellectual and scholarly investigation into the question: what are students learning and how do we know? How do new digital pedagogies transform what we need to measure and evaluate? The integration of technology into assessment methods is more than evaluating digital work; emerging assessments allow for more complex and granular understanding of student skill and knowledge-development over time.
 
-Assessment is an all-encompassing term used to indicate anything from faculty evaluation of student learning in a single course to program-level curricula review to institutional-level accreditation to emerging cross-institutional criteria. Thomas Angelo defines assessment as an “ongoing process aimed at understanding and improving student learning. It involves making our expectations explicit and public; setting appropriate criteria and high standards for learning quality; systematically gathering, analyzing, and interpreting evidence to determine how well performance matches those expectations and standards; and using the resulting information to document, explain, and improve performance” (7). Evaluating student learning has always been part of faculty responsibility, quantifying what and how students have learned. Much of the model assessment work that exists in the digital ecosystem is deeply connected and rooted in its analog precursors therefore, some of the language of assessment remains the same: formative, summative, and self-assessments are categories of assessment that indicate the goals and stakes of the assessment. 
+Assessment is an all-encompassing term used to indicate anything from faculty evaluation of student learning in a single course to program-level curricula review to institutional-level accreditation to emerging cross-institutional criteria. Thomas Angelo defines assessment as an “ongoing process aimed at understanding and improving student learning. It involves making our expectations explicit and public; setting appropriate criteria and high standards for learning quality; systematically gathering, analyzing, and interpreting evidence to determine how well performance matches those expectations and standards; and using the resulting information to document, explain, and improve performance” (7). Evaluating student learning has always been part of faculty responsibility, quantifying what and how students have learned. Much of the model assessment work that exists in the digital ecosystem is deeply connected and rooted in its analog precursors; therefore, some of the language of assessment remains the same: formative, summative, and self-assessments are categories of assessment that indicate the goals and stakes of the assessment. 
 
 In its most basic form, digital assessment replicates traditional pedagogy. Quizzes and tests can be given through a course management system, offering students immediate feedback and weary instructors less to grade. Savvy users can track how often students log into the system, how long they spend on course units, and how many times they view particular modules. 
 
-Just as digital pedagogy is transforming the classroom, so too is it transforming our notion of assessment. Assignments connected to digital pedagogy take many forms such as archiving, badging, blogging coding, gaming, e-portfolios, maker spaces, multimodal projects, and storytelling, among the key words in this project. 
+In its more complex curricular form, assignments connected to digital pedagogy can include archiving, badging, blogging coding, gaming, e-portfolios, maker spaces, multimodal projects, and storytelling, among the keywords in *Digital Pedagogy in the Humanities*. On a larger scale, an institution might measure student learning for accreditation through student work highlighted in an e-portfolio using rubrics designed around competencies. Students might add badges to a resume to showcase specific skills learned in a course or set of courses. Game-based learning can introduce a non-punitive, recursive element to the curriculum, as students learn through repeated attempts in engaged, interactive learning. 
 
-An institution might measure student learning for accreditation through student work highlighted in an e-portfolio using rubrics designed around competencies. Students might add badges to a resume to showcase specific skills learned in a course or set of courses. Game-based learning can introduce a non-punitive, recursive element to the curriculum, as students learn through repeated attempts in engaged, interactive learning. 
+Assessment also has the potential to impact the the public sphere through student work. Work might take the shape of a public product published digitally--on a website or an app--allowing knowledge from the classroom to flow back into the college and local communities. What students learn has a different weight than an assignment produced in isolation. Their knowledge is not only transparent, but also interactive: they learn by doing and by engaging others. 
 
-Work might take the shape of a public product published digitally--on a website or an app--allowing knowledge from the classroom to flow back into the college and local communities. What students learn has a different weight than an assignment produced in isolation. Their knowledge is not only transparent, but also interactive: they learn by doing and by engaging others. Assessment happens both in the classroom and in the public sphere. 
+Good assessment design is predicated on multiple measures. Digitally-based assessments model the way students will be asked to work in the future. Technology supports a better deeper understanding of student learning, more easily combining hard data with qualitative, descriptive, narrative, or reflective assessment. Emerging assessment methods disrupt traditional notions of skill and knowledge evaluation in part because these new methods engage students in longitudinal learning and scaffolded skill development that requires the mastery of one skill before moving onto the next one. Digital assessment also encourages, if not privileges, integration and connections. The transparency of digital assessment galvanizes the portability of skills and concepts from one course to another. Students can document and reflect on their academic trajectory across courses finding connections that faculty may not expect. Students' longitudinal learning, instead of being a happy accident, is carefully connected through and across courses and co-curricular experiences. 
 
-Good assessment design is predicated on multiple measures. Digitally-based assessments model the way students will be asked to work in the future. Technology supports a better deeper understanding of student learning, more easily combining hard data with qualitative, descriptive, narrative, or reflective assessment. 
-
-Emerging assessment methods disrupt traditional notions of skill and knowledge evaluation in part because these new methods engage students in longitudinal learning and scaffolded skill development that requires the mastery of one skill before moving onto the next one.
-
-Digital assessment also encourages, if not privileges, integration and connections. The transparency of digital assessment galvanizes the portability of skills and concepts from one course to another. Students can document and reflect on their academic trajectory across courses finding connections that faculty may not expect. Students' longitudinal learning, instead of being a happy accident, is carefully connected through and across courses and co-curricular experiences. 
-
-Some of these practices in the digital ecosystem are also rooted in the analog tradition, demonstrating an intentional way of thinking and understanding learning as a dynamic, integrative process. The artifacts here demonstrate what that might look like in a course from syllabus construction to learner-centered assessments to summative assignments. The artifacts are tagged to emphasize which assessment practice they represent: 
+The artifacts demonstrate that these practices in the digital ecosystem are also rooted in the analog tradition and demonstrate an intentional way of thinking and understanding learning as a dynamic, integrative process: from syllabus construction to learner-centered assessments to summative assignments. The artifacts are tagged to emphasize which assessment practice they represent: 
 
 Assessment Design: the relationship between all the learning in a course. Intentional assessment design considers what skills and knowledge a student will need to demonstrate their learning experiences (sometimes known as backwards design) and embeds them strategically throughout the course.  *Communication*: Student learning outcomes, rubrics, and other clearly stated faculty expectations are a key to effective assessment.   *Process*: Peggy Maki refers to assessment as a process which provides the opportunity for students to build on prior learning (33).  *Participation*: Learner-centered assessments shift teaching from lecture to inquiry modes where students are guided through the curriculum. Brian Huot calls this "instructive evaluation" (69), a participatory process that helps students master the skill of self-evaluation.    *Inquiry and Professional Development*: Assessment supports evidence-based changes to improve teaching.  *Integration*: The Association of American Colleges and Universities advocates for integrative learning using a range of skills and knowledge across the curriculum. (Peden n. pag.). 
 *Technology*: Digital tools have encouraged the development of new ways for students to receive, perform, produce, and share knowledge.  
-
-Research is at the heart of all scholarly work, including teaching. Assessment is simply an intellectual and scholarly investigation into the question: what are students learning and how do we know? How do new digital pedagogies transform what we need to measure and evaluate? 
 
 ## CURATED ARTIFACTS 
 
