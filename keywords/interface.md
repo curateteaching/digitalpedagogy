@@ -13,7 +13,7 @@ publisher: Modern Language Association
 type: book
 ---
 
-# INTERFACE (Final)
+# INTERFACE 
 
 ### [Kathi Inman Berens](http://kathiiberens.com)
 Portland State University | [English Department - Book Publishing](http://publishing.pdx.edu/faculty/)
@@ -58,7 +58,7 @@ These Interface assignments and Related Materials address a wide spectrum of stu
 ## CURATED ARTIFACTS
 <!-- #1  -->
 ### Simulating the Scriptorium
-![screenshot](images/interface-Cordell-Scrivening.png)
+![screenshot](images/interface-scrivening.png)
 
 * Artifact Type: Assignment 
 * Source URL: <http://f14tot.ryancordell.org/2014/09/16/lab-3-simulating-the-scriptorium/>
