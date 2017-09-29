@@ -72,7 +72,7 @@ In this transcription exercise, students both use and build archives, which has 
 
 
 ### Commonplacing Assignment
-![screenshot](images/archive-commonplacingassignment.jpg)
+![screenshot](images/archive-commonplacebookassignment.jpg)
 
 * Artifact Type: assignment
 * Source URL: [http://www.rci.rutgers.edu/~ag978/355/commonplace/single.html](http://www.rci.rutgers.edu/~ag978/355/commonplace/single.html)
