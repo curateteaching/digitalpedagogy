@@ -15,7 +15,7 @@ publisher: Modern Language Association
 type: book
 ---
 
-# ARCHIVE (Final)
+# ARCHIVE 
 
 ### Lauren Coats (LSU) and Gabrielle Dean (Johns Hopkins University)
 
@@ -26,8 +26,9 @@ type: book
 * unreviewed draft
 * draft version undergoing editorial review
 * draft version undergoing peer-to-peer review
-* **awaiting pre-print copy**
-* published 
+* **draft version undergoing MLA copyediting**
+* awaiting pre-print copy
+* published  
 
 ---
 
