@@ -60,8 +60,6 @@ The resources collected here exploit the affordances of digital technology to en
 
 ## CURATED ARTIFACTS
 
-## CURATED ARTIFACTS
-
 ### *Metadata Games*
 ![screenshot](images/archive-metadatagames.jpg)
 
