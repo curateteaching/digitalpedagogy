@@ -32,7 +32,7 @@ type: book
 
 ---
 
-### Tags: archive, primary source, special collections, materiality, object
+### Cross-Reference Keywords: annotation, curation, labor, race, remix
 
 --- 
 
@@ -49,7 +49,7 @@ Such material considerations can ground further investigations of cultural forma
 
  
 ##### Curation
-An archive is the physical trace of value-laden actions. It represents a chain of selection decisions, policy implementations, and stewardship procedures, undertaken over and over again, in order to save particular materials from the past or present and offer them to an imagined future—or not. These processes are what make an archive; and they make an archive far from neutral. Archives, both official and lay, are assembled and arranged in ways that embody values. These values—beliefs, norms, cultural assumptions—may be explicit (as in the Society of American Archivists’ [Code of Ethics] (http://www2.archivists.org/statements/saa-core-values-statement-and-code-of-ethics))  (“SAA Core Values”) or implicit (as when the topical focus of a digital collection challenges or reinforces literary canons). Moreover, the values that shape an archive inflect its future use by forming points of access and interest.
+An archive is the physical trace of value-laden actions. It represents a chain of selection decisions, policy implementations, and stewardship procedures, undertaken over and over again, in order to save particular materials from the past or present and offer them to an imagined future—or not. These processes are what make an archive; and they make an archive far from neutral. Archives, both official and lay, are assembled and arranged in ways that embody values. These values—beliefs, norms, cultural assumptions—may be explicit (as in the Society of American Archivists’ [Code of Ethics](http://www2.archivists.org/statements/saa-core-values-statement-and-code-of-ethics) (“SAA Core Values”) or implicit (as when the topical focus of a digital collection challenges or reinforces literary canons). Moreover, the values that shape an archive inflect its future use by forming points of access and interest.
 
 Teaching with archival materials can make legible an archive’s foundational values and constituent processes. Collaborations between classroom instructors, archivists, and librarians—whether the setting is a special collections single session, a survey course, or an advanced seminar—are essential to this goal. Archivists and librarians bring a double knowledge to archive-focused pedagogy: a deep understanding of the collections they steward and expertise in the theories, systems, and techniques of archival labor. What students learn about archival principles and methods can be applied to activities in which they “practice” as archivists—performing the repertoire of actions that produce, structure, preserve, and open up a set of materials.
 
@@ -63,7 +63,7 @@ The resources collected here exploit the affordances of digital technology to en
 ## CURATED ARTIFACTS
 
 ### *Metadata Games*
-![screenshot](images/screenshot-archive-metadatagames.jpg)
+![screenshot](images/archive-metadatagames.jpg)
 
 * Artifact Type: game
 * Source URL: [http://www.metadatagames.org/#games ](http://www.metadatagames.org/#games )
@@ -74,7 +74,7 @@ The resources collected here exploit the affordances of digital technology to en
 It can be difficult to suture the sense of wonder that archives can produce to pedagogical and scholarly practice. This resource, a suite of metadata games, literally turns archival work into play. Players are asked to tag items with descriptive words or phrases; their tags feed back into the participating archives to become part of the objects’ descriptions. It’s a fun and easy way to introduce the role of metadata in digital discovery: How do you identify things in archives so that researchers can find relevant sources, and what happens to objects that lack descriptors? Follow-up conversations might address the differences between folksonomies (like the students’ tags) and controlled vocabularies, or the consequences of mistaken or false tags. An advanced version of this exercise might ask students to create their own archive games, for instance to [program a twitterbot](http://f14tot.ryancordell.org/2014/11/12/lab-12-scripting/) to remix content from a student-created or university archive.
 
 ### *A Guide for Using Primary Source or Original Source Documents: Origins, Purpose, Values, Limitations (OPVL)*
-![screenshot](images/screenshot-archive-guideusingprimarysources.jpg)
+![screenshot](images/archive-guideusingprimarysources.jpg)
  
 * Artifact Type: teaching guidelines
 * Source URL: [https://www.scribd.com/document/82886994/OPVL-Minnesota-Humanities](https://www.scribd.com/document/82886994/OPVL-Minnesota-Humanities)
@@ -85,7 +85,7 @@ It can be difficult to suture the sense of wonder that archives can produce to p
 A basic object analysis exercise can turn a student's initial wonder about an object—"what is it?"—into a foundation for further research by providing a scaffolding for observation and the pursuit of evidence. The resource models how much students can learn about an object through careful examination of its paratexts and bibliographic information. Although the "original source document" is presumed to be paper-based, the OPVL exercise is easily adapted to digital materials, just as the analog exercise can be extended by digital means, such as a class blog or online annotation tool. In our own classes, we have supplemented the exercise with specific questions about a textual object’s materiality: packaging, design, evidence of use. Teachers can find similar pedagogical resources within some digital collections, such as the [National Archives Docs Teach](http://docsteach.org/) that offers a suite of educational activities.
 
 ### *Designing Object-Based Experiences: A Prototyping Game*
-![screenshot](images/screenshot-archive-designingobjectbasedexperiences.jpg)
+![screenshot](images/archive-designingobjectbasedexperiences.jpg)
 
 * Artifact Type: game
 * Source URL: [https://issuu.com/metalab4/docs/bd_game_cards](https://issuu.com/metalab4/docs/bd_game_cards)
@@ -96,7 +96,7 @@ A basic object analysis exercise can turn a student's initial wonder about an ob
 What kinds of experiences can archival materials generate?  Students get to play with this question in this game, in which players stage a range of archival encounters. The game includes "object histories," with detailed information about six specific objects, and three sets of playing cards: one set that describes possible audiences (e.g., "a college student who is deaf"), one set devoted to presentation formats (e.g., "mobile app"), and one to presentation values (e.g., "shareability"). Participants draw one of each card, then "prototype an experience" with the selected object that fits the parameters. Teachers could develop their own object histories and cards to fit their course themes and media; the game could also help students brainstorm possibilities at the start of an archive- or exhibit-building assignment. The game helps students experiment with the variety of meanings artifacts can accrue through different kinds of mediation and curation.
 
 ### "Archive Project"
-![screenshot](images/screenshot-archive-archiveproject.jpg)
+![screenshot](images/archive-archiveproject.jpg)
 
 * Artifact Type: assignment and student work
 * Source URL: [http://digital.lib.lehigh.edu/remain/con/lit376_over.html](http://digital.lib.lehigh.edu/remain/con/lit376_over.html)
@@ -108,7 +108,7 @@ In this transcription exercise, students both use and build archives, which has 
 
 
 ### Commonplace Book Assignment
-![screenshot](images/screenshot-archive-commonplacebookassignment.jpg)
+![screenshot](images/archive-commonplacebookassignment.jpg)
 
 * Artifact Type: assignment
 * Source URL: [https://josephadelman.com/2014/09/04/commonplace-book-assignment/](https://josephadelman.com/2014/09/04/commonplace-book-assignment/l)
@@ -120,7 +120,7 @@ A commonplace book is a form of personal archive, a means of recording and arran
 
 
 ### "Introduction to Omeka: Lesson Plan"
-![screenshot](images/screenshot-archive-introductiontoomeka.jpg)
+![screenshot](images/archive-introductiontoomeka.jpg)
 
 * Artifact Type: lesson plan
 * Source URL: [http://amandafrench.net/2013/11/12/introduction-to-omeka-lesson-plan](http://amandafrench.net/2013/11/12/introduction-to-omeka-lesson-plan)
@@ -142,7 +142,7 @@ A student-curated digital exhibit is a foundational and flexible archival exerci
 Will the future care, or not, about the things the present holds dear? What objects will be preserved? This [“long-term thinking"](http://www.karikraus.com/?p=340) activity makes the stakes of these archival preservation questions immediately apparent and personal. In this exercise, students imagine how a familiar "physical structure [might] change, decay, age, and adapt" over the course of a century and represent its future state in a drawing, model, or description. The activity is part of [DUST](https://fallingdust.com/), an online educational Alternate Reality Game in which teen participants imagine the future and build research and analytic skills. The exercise could be adapted to focus on various materials. For example, students could explore [One Terabyte of Kilobyte Age](http://contemporary-home-computing.org/1tb/), a blog that resurrects and remixes old GeoCities websites from the 1990s, and then imagine the fate of their own born-digital materials.
 
 ### "Composing Digital Media: Citizen Archives"
-![screenshot](images/screenshot-archive-composingdigitalmedia.jpg)
+![screenshot](images/archive-composingdigitalmedia.jpg)
 
 * Artifact Type: syllabus
 * Source URL: [http://www.digitaltrishacampbell.com/cdm_citizen.html](http://www.digitaltrishacampbell.com/cdm_citizen.html)
@@ -153,7 +153,7 @@ Will the future care, or not, about the things the present holds dear? What obje
 This course demonstrates one way to focus students’ attention on what is left out, by teaching students to recognize and redress the gaps that exist in all archives. Building on the National Archives’ call for "citizen archivists" to contribute to its collections, Campbell’s readings and assignments help students develop digital media skills by composing narratives and artifacts for  "locally made, citizen composed archives."  The assignments, such as creating a photographic "Recovery Story" of a person or thing, encourage students to consider the historical importance and the ephemerality of individual perspectives and the everyday.  This course models how digital literacy or composition courses can productively engage with archival practices and theories.
 
 ### "Media, Materiality, and Archives" Syllabus
-![screenshot](images/screenshot-archive-mediamaterialityarchives.jpg)
+![screenshot](images/archive-mediamaterialityarchives.jpg)
 
 * Artifact Type: syllabus
 * Source URL: [http://blogs.iac.gatech.edu/archives14/syllabus/ ](http://blogs.iac.gatech.edu/archives14/syllabus/ )
@@ -164,7 +164,7 @@ This course demonstrates one way to focus students’ attention on what is left 
 This course integrates literary study of contemporary texts with archival theory and practice. The course texts include a pulp thriller, a work of "serious" literary fiction, a graphic novel, and an ephemeral electronic book; embodying a variety of forms, they address and enact the "concept of 'the archive.'" As students interrogate the relationship between archival formations and textual materiality, they gain fluency in a set of questions which they then transfer to digital projects: a class blog and a digital archive of sci-fi fanzines made from a library collection. Students thus engage with the challenges of mediation and curation both as consumers of literature and as producers of literary history.
 
 ### "Panama Silver, Asian Gold: Migration, Money, and the Making of Modern Caribbean Literature" Syllabus
-![screenshot](images/screenshot-archive-panamasilver.jpg)
+![screenshot](images/archive-panamasilver.jpg)
 
 * Artifact Type: syllabus and related assignments
 * Source URL: [http://ufdc.ufl.edu/AA00013935/00001](http://ufdc.ufl.edu/AA00013935/00001)
