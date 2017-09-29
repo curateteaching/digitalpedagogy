@@ -83,7 +83,7 @@ It's ambitious to assign *House of Leaves* in an introductory literature class. 
 * Artifact Type: Assignment 
 * Source URL: <https://tuelit13.wordpress.com/deformation/>
 * Copy of Artifact: K.Harris has PDF
-* Creator: Paul Benzon (Skidmore College)
+* Creator: Paul Benzon (Skidmore College); Deformance by Portland State University undergraduate Ivy Knight (above)
 
 Paul Benzon teaches students how altering the materiality of a source text refigures how and why it means something.  Such an interface invokes theories of “deformance” by McGann & Samuels and Sample, which students read in advance of doing this assignment.  Benzon suggests these potential deformances, and encourages students to invent their own:
 •	reorder the book’s pages 
@@ -96,14 +96,14 @@ Paul Benzon teaches students how altering the materiality of a source text refig
 
 I remixed Benzon’s assignment using as my source texts T.S. Eliot’s The Waste Land and contemporary poet John Beer’s The Waste Land.  These we studied in various medial forms: paper, audio, Poetry Foundation website, Google images.  My students deformed the source texts into: 
 •	an RPG game; 
-•	a remixable, combinatory poem made of lines pasted onto cardboard multiplication flashcards; 
-•	a Twine hypertext story; 
+•	a remixable, combinatory poem made of lines pasted onto cardboard multiplication flashcards (by Portland State University undergraduate Ivy Knight, pictured above); 
+•	a Twine hypertext story;
 •	an interactive, redacted poem; 
 •	a video with originally composed music, glitch video and spoken word; 
 •	a hand-made zine
 •	a hand-drawn spiral of words, photographed and uploaded to a class repository (this by a retiree auditing my class who had never used a smart phone or seen a blog comment).  
 
-The generic diversity of my students’ deformances led to bold and exciting conversation anchored in Jessica Pressman’s assessment of medium-specific close reading in Digital Modernism: Making it New in New Media (2014).  
+The generic diversity of my students’ deformances led to bold and exciting conversation anchored in Jessica Pressman’s assessment of medium-specific close reading in *Digital Modernism: Making it New in New Media* (2014).  
 <!-- #4  -->
 ### Spanish-Language Life Histories Audio Wiki In-Progress
 ![screenshot](images/interface-esta-vida.png)
@@ -122,11 +122,11 @@ I chose this interface because, like many digital humanities passion projects, *
 * Artifact Type: Assignment 
 * Source URL: <http://nickm.com/taroko_gorge/ >
 * Copy of Artifact: K.Harris has PDF
-* Creator: Nick Montfort (Massachusetts Institute of Technology)
+* Creator: Nick Montfort (Massachusetts Institute of Technology); "Talking Orange" remix (above) by Portland State University Master's candidate Brooke Austin
 
-Nick Montfort wrote the generated poem “Taroko Gorge” on the plane home from Taiwan as a machinic version of British Romantic landscape poems.  Instead of the author-genius crafting memorable verse, Python code instructs the computer to print stanzas randomly selected from words in six variable strings.  The generated poem prints one line at a time for as long as the program is running.  Once a line is pushed up and off the screen by new lines, it’s gone forever.  Montfort ported “Taroko Gorge” to Javascript so that it would run in a brower, and Scott Rettberg was the first to remix it.  My remix “Tournedo Gorge” was my first experience with Javascript.  It is anthologized, along with several other Taroko remixes, in the [Electronic Literature Collection Volume 3] (http://collection.eliterature.org/3/collection-taroko.html).
+Nick Montfort wrote the generated poem “Taroko Gorge” on the plane home from Taiwan as a machinic version of British Romantic landscape poems.  Instead of the author-genius crafting memorable verse, Python code instructs the computer to print stanzas randomly selected from words in six variable strings.  The generated poem prints one line at a time for as long as the program is running.  Once a line is pushed up and off the screen by new lines, it’s gone forever.  Montfort ported “Taroko Gorge” to Javascript so that it would run in a brower, and Scott Rettberg was the first to remix it.  My poem “Tournedo Gorge” was my first experience modifying Javascript.  My poem is anthologized, along with several other "Taroko" remixes, in the [Electronic Literature Collection Volume 3] (http://collection.eliterature.org/3/collection-taroko.html).
 
-“Taroko Gorge” is a venerable classroom exercise, a high-impact way to teach the culture of code copying, remix, and imparting the values of early Web, non-corporate interface.  “Taroko” accommodates all levels of learners.  In the same class, I’ve taught it to students who’ve never before looked at source code and professional programmers.  Student remixes have run the gamut from a sophisticated, [Panoptic theme] (http://nickm.com/taroko_gorge/take_gonzo/) with jarring soundtrack and auto-redacting words by Anders Gonzo Gaard, to a mashup of the dueling fictions of Scott and Zelda Fitzgerald overlaid on a watercolor painted Zelda by Silje Fossdal, to “Talking Orange” by Brooke Austin pictured here: Trump’s words from the three presidential debates recombined into tercets that resemble, in their jumbled but imperative declarations, Trump’s ordinary sequential speech.
+“Taroko Gorge” is a venerable classroom exercise, a high-impact way to teach the culture of code copying/remix, and impart the values of open-access early Web.  “Taroko” accommodates all levels of learners.  In the same class, I’ve taught it to students who’ve never before looked at source code and to professional programmers.  Student remixes have run the gamut from a sophisticated, [Panoptic theme] (http://nickm.com/taroko_gorge/take_gonzo/) with jarring soundtrack and auto-redacting words by Anders Gonzo Gaard, to a mashup of the dueling fictions of Scott and Zelda Fitzgerald overlaid on a watercolor painted Zelda by Silje Fossdal, to “Talking Orange” by Brooke Austin pictured here: Trump’s words from the three presidential debates recombined into tercets that resemble, in their jumbled but imperative declarations, Trump’s ordinary sequential speech.
 <!-- #6  -->
 ### Rare Books Collaborative Undergraduate Research Project
 ![screenshot](images/interface-harris-collab-research.jpg)
