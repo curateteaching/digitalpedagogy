@@ -10,8 +10,8 @@ author:
 - family: STORTI
   given: ANNA M.
 editor:
-- family: 
-  given:
+- family: Harris
+  given: Katherine D.
 publisher: Modern Language Association
 type: book
 ---
@@ -27,9 +27,11 @@ University of Maryland College Park | annamstorti.com
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* **    draft version undergoing peer-to-peer review**
-* published
- 
+* draft version undergoing peer-to-peer review
+* **draft version undergoing MLA copyediting**
+* awaiting pre-print copy
+* published 
+---
 ### Cross-reference keywords: gender, intersectionality, queer, social justice
 ---
 
@@ -49,6 +51,7 @@ The set of artifacts gathered below focuses on what is most useful when teaching
 ---
 
 #### Introduction to Lesbian, Gay, Bisexual, Transgender, and Queer Studies
+Screenshot: ![screenshot](images/sexuality-intro-to-lgbtq.jpg)
 
 * Artifact Type: course site
 * Source URL: http://lgbtqintro.queergeektheory.org/visuals-for-september-29-and-october-1-classes-understanding-bisexuality-and-asexuality/
@@ -59,6 +62,7 @@ This is a sample page from the website of Alexis Lothian’s Fall 2014 200-level
 ---
 
 #### Tangled Community, Entangled Differences: Lesbians and Always More
+Screenshot: ![screenshot](images/sexuality-tangled-community-entangled-communities.jpg)
 
 * Artifact Type: course site
 * Source URL: http://lezcom15.blogspot.com/p/how-class-will-be-organized-this-class.html
@@ -69,6 +73,7 @@ This page explains the organization of Katie King’s Spring 2015 Lesbian Commun
 ---
 
 #### Queer Music History 101
+Screenshot: ![screenshot](images/sexuality-queer-music-history-101.jpg)
 
 * Artifact type: course site
 * Source URL: http://www.qmh101.com/
@@ -79,6 +84,7 @@ This is a set of lesson plans available as web pages, audio files, or in streami
 ---
 
 #### Selfie Syllabus Week Four: Sexuality, Dating and Gender
+Screenshot: ![screenshot](images/sexuality-selfie-sex-dating.jpg)
 
 * Artifact Type: syllabus
 * Source URL: http://www.selfieresearchers.com/week-four-sexuality-dating-gender/
@@ -89,6 +95,7 @@ The Selfie Researchers Network, a transnational collective incorporating hundred
 ---
 
 #### Queer Literature and Film: Teaching projects and tools
+Screenshot: ![screenshot](images/sexuality-queer-literature-and-film-teaching-projects-and-tools.jpg)
 
 * Artifact Type: assignment
 * Source URL: https://queerlitfilm.wordpress.com/teaching-projects-and-tools/
@@ -99,6 +106,7 @@ This is an assignment from a mixed graduate and undergraduate class, cross liste
 ---
 
 #### Community Agreements
+Screenshot: ![screenshot](images/sexuality-community-agreements.jpg)
 
 * Artifact Type: collaborative project
 *  Source URL: https://go.umd.edu/agreements
@@ -109,9 +117,10 @@ This is a list of “Community Agreements” for Anna Storti’s Fall 2017 intro
 ---
 
 #### Pulse Orlando Syllabus
+Screenshot: ![screenshot](images/sexuality-pulseorlando-syllabus.jpg)
 
 * Artifact Type: syllabus
-*  Source URL: bit.ly/orlandosyllabus
+* Source URL: bit.ly/orlandosyllabus
 * Permissions: Public resource explicitly created for sharing, but no CC license. Permission requested from creators.
 * Creator and Affiliation: Jamie Berrout @jamieberrout, Venus Selenite @venusselenite, Oliver Bendorf @ohbendorf, and Lydia Willoughby @willoughbrarian
 
@@ -119,6 +128,7 @@ The #PulseOrlandoSyllabus is a collaborative document compiled in the wake of th
 ---
 
 #### Obergefell Syllabus
+Screenshot: ![screenshot](images/sexuality-obergefell-syllabus.jpg)
 
 * Artifact Type: syllabus
 *  Source URL: https://twitter.com/i/moments/879706862878429185
@@ -129,6 +139,7 @@ The Obergefell Syllabus is a publicly accessible resource on the Supreme Court c
 ---
  
 #### #SurvivedAndPunished: Survivor Defense as Abolitionist Praxis
+Screenshot: ![screenshot](images/sexuality-survived-and-punished.jpg)
 
 * Artifact Type: collaborative project
 *  Source URL: https://view.publitas.com/survived-and-punished/toolkit/page/1
@@ -139,9 +150,10 @@ The Obergefell Syllabus is a publicly accessible resource on the Supreme Court c
 ---
 
 #### Coming of Age
+Screenshot: ![screenshot](images/sexuality-coming-of-age.jpg)
 
 * Artifact Type: student work  
-*  Source URL: http://philome.la/UMDAnnaD/trans-story-final/play
+* Source URL: http://philome.la/UMDAnnaD/trans-story-final/play
 * Permissions: Form signed.
 * Creator and Affiliation: Anna Dennis
 
