@@ -81,12 +81,12 @@ The keyword "hybrid" suggests a methodology for teachers to employ in constructi
 This assignment offers a guide to having students contribute to Wikipedia. Orienting students to the back-end of Wikipedia helps them think critically about networked communities and knowledge construction on the Web. In Fall 2014, Adeline Koh incorporated this activity into her hybrid [Feminist Theory Seminar](http://www.adelinekoh.org/blog/2014/08/20/syllabus-draft-gis-3614-seminar-in-feminist-theory-fall-2014/) as a major project aimed at improving “conceptual skills, critical thinking, and oral and written communication.” She contextualized the assignment within a discussion of how women are represented within the Encyclopedia, and how this representation is driven (or exactly not driven) by the dearth of female contributors. Asking students to write and rewrite Wikipedia encourages them to engage directly in public scholarship. Even if their revisions don’t *stick*, this work invites a critical discussion of agency that moves well beyond the too often closed space of a physical classroom.
 
 ### "Introduction to Digital Studies"
-![screenshot](images/hybrid-Intro-Digital-Studies.png)
 
+![screenshot](images/hybrid-Intro-Digital-Studies.png)
 * Artifact Type: Course sites
 * Source URL: <https://digitalstudies.pushpullfork.com/Home>
 * Permissions: CC BY-SA 4.0
-* Creator and Affiliation: Kriss Shaffer, University of Mary Washington
+* Creator and Affiliation: Kris Shaffer, University of Mary Washington
 
 "Introduction to Digital Studies" offers a digitally-enabled hybrid entry for students interested in the University of Mary Washington's Digital Studies minor. In the class, Kris Shaffer creates an environment that plays with the idea of interface and literacy by incorporating open texts (the syllabus actually replaces the traditional "Textbooks" heading with "The Internet"), platforms that include Slack for class communication, social media as a focus of investigation, a variety of media—books, TV shows, and movies all available digitally—and the UMW Domain of One's Own project. Students not only develop skills in designing, building and sharing ideas that can be expressed through the uniquely multimodal, procedural, and networked capabilities of digital tools, and build, promote and sustain an active and engaged digital identity in the class, even the grading schema is hybrid, a combination of self-evaluation, discussion, and teacher observation. 
 
@@ -139,15 +139,15 @@ In her hybrid USC Annenberg course, Kathi Inman Berens works with students face-
 
 A hybrid learning environment deconstructs hierarchies, giving students a fuller sense of their own agency. In winter 2013, I co-taught with Kathi Inman Berens a small seminar with four non-traditional undergraduate students. Together, the students worked with the Library of Congress in Washington D.C. to build a social media campaign promoting the LOC's first exhibit of electronic literature. The students also coordinated a physical event at the Lake Oswego Library outside Portland, OR. Their goal was to bring the Library of Congress to Portland and the Web—and to bring Portland and the Web to the Library of Congress, using digital technology to connect physical work happening at two remote locations. From the [artist statement](http://spinepoetry.com/about): “Spine poems bridge the physical world of books with stories that are born digitally.” The project was the course, designed and developed by the students from the start with the teachers participating as co-learners.
 
-### "Modern and Contemporary American Poetry"
-![screenshot](images/hybrid-modpo-screenshot.jpg)
+### "The Kelly Writers House"
+![screenshot](images/hybrid-kelly-writers-house.png)
 
-* Type of Artifact: Course sites
-* Source URL: <https://www.coursera.org/course/modernpoetry>
-* Permissions: 2017 Coursera Inc. All rights reserved.
+* Type of Artifact: Collaborative Projects
+* Source URL: <http://writing.upenn.edu/wh/>
+* Permissions: Forthcoming
 * Creator: Al Filreis, University of Pennsylvania
 
-A truly "Hybrid" Massive Open Online Course that Al Filreis began offering in 2012. The course experiments with the MOOC format and hacks the Coursera platform to create opportunities for students to have a central role in both their own learning but also in the teaching of the course. Instead of focusing on video lectures at the head of each unit, Filreis hosts live discussions at the Kelly Writers House that feature himself, University of Pennsylvania students, as well as students from around the world that call in (and sometimes make visits to PA). The physical place of the Kelly Writers house becomes the fulcrum around which the online course pivots. The success of the course has less to do with inherent potentials of the MOOC platform and more to do with the way Filreis uses the platform to realize the mission and pedagogies of the Kelly Writers House.
+The Kelly Writers House is housed in the Special Collections Department of Van Pelt Library at the University of Pennsylvania, but contributes to hybrid courses and projects. For example, a truly "Hybrid" Massive Open Online Course that Al Filreis began offering in 2012, "[Modern and Contemporary American Poetry](https://www.coursera.org/course/modernpoetry)," experiments with the MOOC format and hacks the Coursera platform to create opportunities for students to have a central role in both their own learning but also in the teaching of the course. Instead of focusing on video lectures at the head of each unit, Filreis hosts live discussions at the Kelly Writers House that feature himself, University of Pennsylvania students, as well as students from around the world that call in (and sometimes make visits to PA). The physical place of the Kelly Writers House becomes the fulcrum around which the online course pivots. Kelly Writers House is also home to other digital and hybrid projects, including [PennSound](http://writing.upenn.edu/pennsound/), a podcast, and online book groups, poetry readings, and more.
 
 ### "Guidelines for Public, Student Class Blogs: Ethics, Legalities, FERPA and More"
 ![screenshot](images/hybrid-FERPA-guidelines.jpg)

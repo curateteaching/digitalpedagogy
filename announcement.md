@@ -21,7 +21,7 @@ For now, please follow *Digital Pedagogy in the Humanities* on Twitter through t
 * Cheryl Ball, West Virginia University
 * Bryan Carter, University of Arizona
 * Tanya Clement, University of Texas, Austin
-* Brian Croxall, Emory University
+* Brian Croxall, Brigham Young University
 * Douglas Eyman, George Mason University
 * Paul Fyfe, North Carolina State University
 * Gail E. Hawisher, University of Illinois at Urbana-Champaign (Professor Emeritus)

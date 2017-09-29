@@ -16,7 +16,7 @@ type: book
 # INTERFACE (Final)
 
 ### [Kathi Inman Berens](http://kathiiberens.com)
-Portland State University | [English Department - Book Publishing] (http://publishing.pdx.edu/faculty/)
+Portland State University | [English Department - Book Publishing](http://publishing.pdx.edu/faculty/)
 
 ---
 
@@ -24,7 +24,8 @@ Portland State University | [English Department - Book Publishing] (http://publi
 * unreviewed draft
 * draft version undergoing editorial review
 * draft version undergoing peer-to-peer review
-* **awaiting pre-print copy**
+* **draft version undergoing MLA copyediting**
+* awaiting pre-print copy
 * published 
 
 ---
@@ -35,159 +36,239 @@ Portland State University | [English Department - Book Publishing] (http://publi
 
 ## CURATORIAL STATEMENT
 
-Anyone who has rearranged classroom chairs from rows into a circle knows that the physical space of a classroom shapes students' interaction. So too digital interfaces shape student engagement in online learning environments. "The classroom" is a heuristic that manifests itself more variously today than when the classroom was bound by walls and directed student gaze to the lectern, or around a seminar table. Like “classroom,” "interface" is a heuristic that illuminates the changing ways students encounter learning digitally: synchronously in face-to-face or virtual/embodied blended classrooms; asynchronously in distance learning and open access platforms like iTunes U. or Coursera; or self-paced and -designed courses using YouTube tutorials and other "found" materials. In this keyword, "interface" refers to the meeting points between people and technologies that facilitate learning, from code to books to candlelight.  Preeminently in the digital humanities, "interface" is a function of code and markup, the human-readable language that translates bi-directionally between human command and machine output.
+Anyone who has rearranged classroom chairs from rows into a circle knows that a classroom’s physical space shapes students' learning. So, too, computational interfaces materially shape what and how students learn.  Computational interfaces link hardware, software, human users and other sources of data, creating the material contexts through which computing takes shape. Computer source code is the foundational human/computer interface.  Human language structured to be machine legible is "always symbolic, involv[ing] syntactical and symbolic mappings for operations" (Cramer and Fuller, 150).  Such operations are executable, and also culturally inscribed because they are human-authored. 
 
-Building a webpage in HTML and CSS remains a core interface literacy. No one today needs to write HTML to build a web presence. Unlike the early days of the Web, where all elements of the user interface (UI) were customized in hand-built webpages, today in social Web interfaces such as Facebook, Twitter, Medium and the like the UI is identical but for the modest customization afforded by user-uploaded images. These corporate interfaces of the social Web remove us further from the do-it-yourself culture of hobbyists and tinkerers who made the Web an open culture of shared resources; see Lori Emerson's second chapter in **Reading Writing Interfaces** to learn more about the implications of such a transformation. Not coding, people miss critical engagement with markup language as the bridge between human expression and nonhuman operations. We also miss the pressing need for and rewards of an open Web, where people teach each other in a gift economy. In "Related Materials," see **DML Central**, funded by the University of California at Irvine, for a great repository of collaboration prototypes, teaching with technology tips, and access to tools. Miriam Posner’s brilliant, easy-to-use “DH 101” tutorials restore critical attention to interface. Her handouts teach students how to build webpages using HTML and CSS, how to clean data, and how to make visualizations and timelines. Alan Liu's more advanced **DH Toychest** is a treasure trove. Janelle Jenstad's fifteen-year-old annotation project **Map of Early Modern London** now offers collaboration opportunities for undergraduate classes outside of the University of Victoria. Anne McGrail, a professor at Lane Community College in Eugene, Oregon, spearheads the new **DH in the CC** commons.
+Peoples’ most common conscious experience of interface is with enterprises (Google, Apple, Facebook, Amazon, Twitter, and the like) that supply information but also extract it, harvesting user "metadata" (information about information).  A Tweet's metadata outmasses the Tweeted content by more than 4:1, notes Peter Wilson, [a developer](https://peterwilson.cc/a-tweets-metadata/) who studied Twitter's API (application programming interface).  This is why something browsed in Safari or mentioned in a gmail might show up, seconds later, embedded as a sponsored ad in a different platform, like a Facebook wall.  Metadata is instantly harvested and auctioned.  Its information fuels inhumanly fast advertisement customization and placement.  These transactions pay for the “free” Web.  Interface encompasses vast swaths of nonhuman and human behavior:  everything from how software apps instruct the machine to constrain its many possible states to function as a calculator, or word processor, or video editor (Cramer and Fuller, 150) to how enterprises extract value from tracking human desires expressed through query.
 
-For the ten plug-and-play assignments, I culled work that addresses a wide spectrum of student readiness and support for DH, from elite institutions to income-insecure places where the students' only access to digital tools might be free apps on a cell phone. There's a productive tension between the “task-oriented efficiency” (Drucker, 1) of interface's traditional work, and the more exploratory, metacritical uses of interface in the assignments I feature here. Helen Burgess’ students "translate" a Shakespeare sonnet into various medial forms, for example, building in four iterations of the same sonnet beginning with tactile 3D art to authoring the sonnet as an executable computer program. Ryan Cordell's students in a history of technology course replicate the conditions of the medieval scriptorium. These defamiliarizations of the physical classroom-as-interface let us "see" the classroom as a medium-specific environment where liveness is a unique feature of embodied university instruction.
-  
-Does it matter if a classroom is a little rectangle in a building or a little rectangle above one’s keyboard? Doors are rectangles; rectangles are portals. We walk through. Our classrooms are defined not by walls or Windows, but by interfaces of networked collaboration critically appraised.
+In the early days of personal computing, the command line was the human/machine interface, where user and programming interfaces were one in the same. Today humans typically engage computers through a “graphical user interface,” GUI (“gooey”).  Opening a directory on a desktop, one clicks an icon of a manila folder and the folder "opens," which means systems software tells the computer to display that directory’s list of content.  GUI interfaces are "intuitive” because the interface's representational schema correspond to familiar objects or routines in the physical world, like emptying the trash.  Emojis, voice command, and autocompletion are read/write interface software: the software reads human inputs and then outputs suggestions, often before humans finish inputting information.  This tradeoff of speed for precision, or speed for privacy, is one that Bruce Schneier notes [humans are historically willing to make](https://news.harvard.edu/gazette/story/2017/08/when-it-comes-to-internet-privacy-be-very-afraid-analyst-suggests/). 
+
+GUI was designed to make computational logic less foreign to humans.  The "invisible" interface is the furthest outpost of this general aim.  Apple's [Human Interface Guidelines](https://developer.apple.com/ios/human-interface-guidelines/overview/themes/), written for mobile app developers, explains the design principle: an app should manifest "Deference," which Apple articulates as "[f]luid motion and a crisp, beautiful interface [to] help people understand and interact with content while never competing with it."  
+
+When curating the keyword "Interface," I pursued the opposite of "deference."  Assignments included here ask students to note how interface "competes" with the output, draws attention to its materiality and constructedness.  These artifacts and related materials prompt students to see the labor and mess of human/computer interaction, giving them occasion to examine interface from technical, material, and cultural perspectives. Study of interface is a contact point for nonhuman/human difference, an "in-betweenness,” as Homi Bhabha says of multiculturalism.  
+
+"Autocomplete poetry" is a simple and fast classroom exercise to prompt critical thinking about interface.  Instruct students to type the same phrase into a commercial search bar, then each student screenshots the suggested autocompletions. (This works less well in [Duckduckgo](https://duckduckgo.com/), which doesn't track query data.)  Students can use phones, laptops, lab computers--device doesn't matter.  They can stack several screenshots of autocomplete and read them as a poem.  Or they can compile screenshots of the same autocompleted phrase into one composit.  Can we find patterns in autocompletions of the same phrase on different machines?  Whose interest might such autocompleted result serve?  Anna Jobin and Frederic Kaplan found a [correlation between autocompletion results and Google's commercial interests] (http://dh2013.unl.edu/abstracts/ab-223.html).  
+
+John Cayley and Daniel C. Howe's excellent work on Google data as public commons in the arts-based [The Readers Project] (thereadersproject.org) interrogates who owns the information amassed by human activity in the world's largest public repositories, the volunteer labor that builds public commons owned by corporations.  Eli Pariser’s influential *The Filter Bubble* (2011) became freshly and ominously relevant after disclosures of “fake news” during the 2016 U.S. presidential election revealed the extent to which enterprise interface customization comes at the cost of universally shared common information.
+
+Building a webpage in HTML and CSS is a fundamental way to learn about interface, and there are several very good, free-to-use, browser-based resources in Related Materials, below.  To move from being a consumer to a [code](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/code.md) builder shifts students’ mindsets, giving a hands-on experience of how the open Web started as hand-coded webpages using [remix](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/remix.md) and [play](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/play.md), and tolerating [failure](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/failure.md).
+
+These Interface assignments and Related Materials address a wide spectrum of student readiness and institutional support for digital humanities work. They balance the number of male and female contributors, feature assignments designed for non-English speakers and non-English language learners, and meet the needs of beginning and advanced students.  Income-insecurity is not a barrier to learning about interface, as several of these assignments can be done using a cell phone.  The ten assignments are organized from technically easiest to hardest.  All of them are conceptually rigorous.
+
 
 ## CURATED ARTIFACTS
-
-### Remediated Shakespeare Sonnets
-![screenshot](images/interface-Burgess-Sonnet.png)
-
-* Source URL: <http://helenburgess.com/395sonnets/>
-* Copy of Artifact: [files/interface-Burgess-Sonnet_1.pdf](files/interface-Burgess-Sonnet_1.pdf), [files/interface-Burgess-Sonnet_2.pdf](files/interface-Burgess-Sonnet_2.pdf) , [files/interface-Burgess-Sonnet_3.pdf](files/interface-Burgess-Sonnet_3.pdf)
-* Creator: Helen Burgess (North Carolina State University)
-
-"You're accustomed to doing 'readings' of literature and producing a specific kind of output: a paper," Helen Burgess tells her students. "In this exercise the 'input' will be the same . . . but the 'output' will be different. Thus it will require two sets of skills." Burgess's four-part "sonnet conversion" process asks students to deform Shakespeare's sonnets materially, and remediate them as: visual representations; an object comprised of fourteen parts; a schema comprised of encoding, composition and decoding (a student decodes someone else's composition); a program that builds a sonnet when it's executed. This exercise takes "deformance" a step further by reforming ("converting") the sonnet into a computational object. The progress through the four stages is to strip away the impressionistic and replace it with the procedural.
-
-### Italian Language Study Using Geospatial Methodology
-![screenshot](images/interface-clo-hiphopitalian.png)
-
-* Source URL: <https://www.arcgis.com/apps/MapJournal/index.html?appid=36d80c623d9a4b4291eea52c9ae279ac>
-* Copy of Artifact: forthcoming
-* Creator: Clarissa Cló (San Diego State University)
-
-Students immersed themselves in the target language from the Italian Hip Hop Archive of San Diego State University library, which owns a collection of the 1990s Italian magazine **Aelle/AL**. Selecting articles and creating story map journals using Esri ArcGIS technology, students produced geographical-based narratives with accurate satellite locations, accompanied by pictures, videos and links. Coding was not required for this web-based open source system. Students worked through complex cross-cultural concepts and terminology and located them in time and place. They applied a geospatial methodology to their language learning, showcasing Italy's regional, cultural, and linguistic diversity. The study of Italian was contextual, integrated, and meaningful.
-
-### "Simulating the Scriptorium"
+<!-- #1  -->
+### Simulating the Scriptorium
 ![screenshot](images/interface-Cordell-Scrivening.png)
 
+* Artifact Type: Assignment 
 * Source URL: <http://f14tot.ryancordell.org/2014/09/16/lab-3-simulating-the-scriptorium/>
-* Copy of Artifact: forthcoming
+* Copy of Artifact: See assignment in Source URL blog post.
 * Creator: Ryan Cordell (Northeastern University)
 
-“The candle is a non-textual medium that has profoundly affected the texts we have inherited from previous generations," observes Ryan Cordell. Undergraduates in his "Technologies of Text" course write for a class period at a table lit by candles. Cordell reports that a fire marshal (with an extinguisher at his hip) monitored the entire scrivening, which was held in a windowless, enclosed room. Students discovered that bookmaking was a laborious process when they transcribed a text of their choice from the *Norton Anthology*. Hands cramped. Eyes strained. Backs tired. An aching body is a very interesting classroom interface. The point of this assignment, Cordell notes, is to "start students thinking about how canons and anthologies come to be, the complex, long textual histories that precede any piece appearing in the *Norton Anthology*'s Table of Contents."
+“The candle is a non-textual medium that has profoundly affected the texts we have inherited from previous generations," observes Ryan Cordell.  Undergraduates in his "Technologies of Text" course for one class period in the dark at a table lit by candles. A fire marshal with an extinguisher at his hip monitors the scrivening, which is held in a windowless, enclosed room.  Students discover that bookmaking is a laborious process when they transcribe a text of their choice from the *Norton Anthology.*  Hands cramp.  Eyes strain.  Backs tire. This assignment historicizes the physical labor of writing.  Just as with hand-coding websites, scrivening prompts interface awareness.
+<!-- #2  -->
+### Close Reading *House of Leaves* using collage and Tumblr
+![screenshot](images/tumblr-douglass-hol.png)
 
-### Close Reading *House of Leaves* via Tumblr
-![screenshot](images/interface-HoL-Douglass-Pokornowski.png)
-
+* Artifact Type: Assignment 
 * Source URL: <http://english10introductiontolit.tumblr.com>
 * Copy of Artifact: [files/interface-Douglass-Pok-ENGL-10-HoL-Remix.pdf](files/interface-Douglass-Pok-ENGL-10-HoL-Remix.pdf)
 * Creators: Jeremy Douglass (University of California Santa Barbara) and Steven Pokornowski (University of California Santa Barbara)
 
-It's ambitious to assign *House of Leaves* in an introductory literature class. Desultory, evasive and iconic, *HoL* will frustrate almost any reader who aims to read this text closely as humanists are trained to do. Jeremy Douglass and Steven Pokornowski create a two-part assignment interface. The prompt procedurally guides students through making a remix of one page--and only one page--in *HoL*. Making their collages, students can work with digital image tools or work with the other "digital," their fingers, making collage from arts and craft supplies. Handmade remixes are photographed; all remixes are tagged and uploaded to the class's Tumblr site which itself remixes the individual pages into a fragmentary collective. Their heterogeneity perfectly complements the source text's unfinalizability.
+It's ambitious to assign *House of Leaves* in an introductory literature class.  Jeremy Douglass and Steven Pokornowski create a two-part interface assignment. The prompt procedurally guides students through making a [remix] (https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/remix.md) of one page--and only one page--in *HoL*. Making their collages, students can work with digital image software or with the other "digits," their fingers, making collage from arts and craft supplies. Handmade remixes are photographed; all remixes are tagged and uploaded to the class's Tumblr site which itself remixes the individual pages into a fragmentary collective reading of the novel. Their heterogeneity, and the accumulation of student work over time, refracts the source text's unfinalizability.
+<!-- #3-->
+### Deformance as Remix
+![screenshot](images/interface-deformance.jpg) 
 
-### Distant Reading Victorian Novels
-![screenshot](images/interface-Wordle-fr-open-source-Fyfe.jpg)
+* Artifact Type: Assignment 
+* Source URL: <https://tuelit13.wordpress.com/deformation/>
+* Copy of Artifact: K.Harris has PDF
+* Creator: Paul Benzon (Skidmore College)
 
-* Source URL: <http://ryancordell.org/personal/grad-proseminar-guest-talk-not-reading/>
-* Source URL: open-access pre-print of the original article <http://diginole.lib.fsu.edu/eng_faculty_publications/2/>
-* Copy of Artifact: forthcoming
-* Creators: Paul Fyfe (North Carolina State University); forked by Ryan Cordell (Northeastern University)
+Paul Benzon teaches students how altering the materiality of a source text refigures how and why it means something.  Such an interface invokes theories of “deformance” by McGann & Samuels and Sample, which students read in advance of doing this assignment.  Benzon suggests these potential deformances, and encourages students to invent their own:
+•	reorder the book’s pages 
+•	white out every page and rewrite it 
+•	staple in your own writings 
+•	make origami out of its pages and scatter them across Philadelphia 
+•	encase it within another text 
+•	mail its pages to random people 
+•	scan it to Google Books and set the hard copy on fire
 
-Paul Fyfe's 4-page field note about teaching senior undergraduate English majors to read Victorian novels "distantly" provides the the best introduction I've found to distant reading techniques. Fyfe's "interrogative stance" invites students to use the sometimes confusing outputs to ask better questions that exploit the "distant" view of novels they *haven't* read. Students can get frustrated by being untethered from what Marcus and Best have called the "symptomatic reading" endemic to close reading. Fyfe teaches how to parse word frequency, concordance, and collocation to defamiliarize narrative as the primary means of knowing a novel. Unfortunately Fyfe's article is locked in a subscription-fee publication. Hunting for resources, I found that Ryan Cordell led a graduate workshop applying Fyfe's techniques, and published his guide on his website. I offer Cordell's variation on Fyfe's article as a means of framing two aspects of Digital Humanities interface: forking and the importance of open-access scholarship.
+I remixed Benzon’s assignment using as my source texts T.S. Eliot’s The Waste Land and contemporary poet John Beer’s The Waste Land.  These we studied in various medial forms: paper, audio, Poetry Foundation website, Google images.  My students deformed the source texts into: 
+•	an RPG game; 
+•	a remixable, combinatory poem made of lines pasted onto cardboard multiplication flashcards; 
+•	a Twine hypertext story; 
+•	an interactive, redacted poem; 
+•	a video with originally composed music, glitch video and spoken word; 
+•	a hand-made zine
+•	a hand-drawn spiral of words, photographed and uploaded to a class repository (this by a retiree auditing my class who had never used a smart phone or seen a blog comment).  
 
-### Rare Books Collaborative Undergraduate Research Project
-![screenshot](images/interface-Harris-Collab-Project.jpg)
+The generic diversity of my students’ deformances led to bold and exciting conversation anchored in Jessica Pressman’s assessment of medium-specific close reading in Digital Modernism: Making it New in New Media (2014).  
+<!-- #4  -->
+### Spanish-Language Life Histories Audio Wiki In-Progress
+![screenshot](images/interface-esta-vida.png)
 
-* Source URL: <http://triproftri.wordpress.com/2012/12/03/collaborative-project-on-19th-century-materials-assignment/#more-1191>
-* Copy of Artifact: forthcoming
-* Creator: Katherine D. Harris (San Jose State University)
-
-Lower-division literature majors are new to devising substantial research projects. To author one collaboratively makes knowledge production more complex, but also radically expands the amount of work the team can accomplish. Harris's "Collaborative Project on 19th-Century Materials" expertly introduces students to the materiality of textual scholarship, then trains students in project management, a vital skill for any Digital Humanities collaborative project. Harris makes available the Association of American Colleges and Universities rubrics for Teamwork/Collaboration to ground students' attention in specific tasks they must perform to advance the larger project. As they toggle between embodied classroom space and work in Google Docs, student writers assess the rare book's material attributes and then move to more complex questions of content and interpretation. One resulting project, about Louisa Henrietta Sheridan's *The Comic Offering: Satire Without Bite* is seamless, univocal prose.
-
-### Historical Role Playing Game: Interdisciplinary Collaboration
-![screenshot](images/interface-Hergenrader-Steampunk-Rochester-map.png)
-
-* Source URL: <http://steampunkrochester.wikispaces.com/Steampunk+Rochester>
-* Copy of Artifact: forthcoming
-* Creator: Trent Hergenrader (Rochester Institute of Technology)
-
-Three aspects of *Steampunk Rochester* make it an exceptional digital pedagogy interface. It blends real-life history of Rochester, New York 1915-25, site of the host university. Students create fictional characters where Rochester becomes an open-access playable game space. The result is speculative fiction that relies on the structured archive of wiki, a steampunk vision of the future that finds new technologic aspects in dynamic roleplay of the past.
-
-Created in collaboration among four departments at the Rochester Institute of Technology (English, Fine Arts, Interactive Games and Media, and 3D Digital Design) *Steampunk Rochester* will feed the local community with engaging story even as it also turns the city into a game lab. The large *Steampunk Rochester* wiki is already well populated with the people, places, and things that will become the raw material for the interactive video game to be developed. Trent Hergenrader's students, nimbly moving between play and creative writing, are engaging colleagues across the university in applied creative arts, where interdisciplinary projects make a "classroom" that is equal parts off-campus physical location, embodied imagination, wiki, and game mechanic.
-
-### Giving Voice to Spanish-Language Life Histories
-![screenshot](images/interface-Mongar-Esta-Vida.png)
-
+* Artifact Type: Assignment 
 * Source URL: <http://estavidaboricua.com/>
-* Copy of Artifact: forthcoming
+* Copy of Artifact: K.Harris has PDF
 * Creator: Sonja S. Mongar (Universidad de Puerto Rico de Mayagüez)
 
-“Consider it not so much a canonic history—constructed by class—but a subjective personal history,” declares Sonja S. Mongar on the front door of *Esta Vida Boricua* ("This Puerto Rican Life"). The huge number of life writing stories housed in this wiki are "ethnically rich with threads to Cuba, Dominican Republic, South America, England, Germany, Italy, France, China, United States, Israel, Palestine, Egypt [and] Australia," presents Puerto Rico as a "fertile ground for world Diaspora." In Spanish and English, this wiki features just one-third of its collected materials because the underfunded project hasn't the staff support to load its multimodal assets. It seeks volunteers who might edit and post from remote locations. *Esta Vida Boricua* has a strong pedagogical orientation with a tab specifically for educators: http://estavidaboricua.com/for-educators/ "Notes on Life Narrative," for example, presents fifty-two life writing classifications adapted from Sidonie Smith and Julia Watson's *Reading Autobiography*. The project developers invite classes to participate in content creation by taking some of the raw materials (mostly audio interviews) and preparing them for web distribution via the wiki.
+*Esta Vida Boricua* ("This Puerto Rican Life") is a wiki of "ethnically rich” life writing told in spoken word, tying Puerto Rico’s “threads to Cuba, Dominican Republic, South America, England, Germany, Italy, France, China, United States, Israel, Palestine, Egypt and Australia," observes project founder Sonja S. Mongar.  In Spanish and English, the wiki displays just one-third of its collected materials because the project hasn't staff to load its multimodal assets. It seeks volunteers who might edit and post from remote locations.
+*Esta Vida Boricua* has a strong pedagogical orientation with a tab specifically for educators: http://estavidaboricua.com/for-educators/ "Notes on Life Narrative," for example, presents fifty-two life writing classifications adapted from Sidonie Smith and Julia Watson's *Reading Autobiography*. 
+I chose this interface because, like many digital humanities passion projects, *Esta Vida Boricua* seeks ways to survive after the seed money is gone.  The opposite of YouTube--the world’s largest repository of autobiographical stories--*Esta Vida Boricua* reminds us that interfaces unsupported by advertising can meet the challenge of interface preservation with volunteer labor.
+<!-- #5  -->
+### Remixed Javascript Poem
+![screenshot](images/interface-javascript-poem.png) 
+* Artifact Type: Assignment 
+* Source URL: <http://nickm.com/taroko_gorge/ >
+* Copy of Artifact: K.Harris has PDF
+* Creator: Nick Montfort (Massachusetts Institute of Technology)
 
-### Participatory, Short-Form Critical Essay Writing
-![screenshot](images/interface-Twitter-bird-Stommel.jpg)
+Nick Montfort wrote the generated poem “Taroko Gorge” on the plane home from Taiwan as a machinic version of British Romantic landscape poems.  Instead of the author-genius crafting memorable verse, Python code instructs the computer to print stanzas randomly selected from words in six variable strings.  The generated poem prints one line at a time for as long as the program is running.  Once a line is pushed up and off the screen by new lines, it’s gone forever.  Montfort ported “Taroko Gorge” to Javascript so that it would run in a brower, and Scott Rettberg was the first to remix it.  My remix “Tournedo Gorge” was my first experience with Javascript.  It is anthologized, along with several other Taroko remixes, in the [Electronic Literature Collection Volume 3] (http://collection.eliterature.org/3/collection-taroko.html).
 
-* Source URL: <http://www.hybridpedagogy.com/journal/the-twitter-essay/>
-* Copy of Artifact: forthcoming
-* Creator: Jesse Stommel (University of Wisconsin-Madison)
+“Taroko Gorge” is a venerable classroom exercise, a high-impact way to teach the culture of code copying, remix, and imparting the values of early Web, non-corporate interface.  “Taroko” accommodates all levels of learners.  In the same class, I’ve taught it to students who’ve never before looked at source code and professional programmers.  Student remixes have run the gamut from a sophisticated, [Panoptic theme] (http://nickm.com/taroko_gorge/take_gonzo/) with jarring soundtrack and auto-redacting words by Anders Gonzo Gaard, to a mashup of the dueling fictions of Scott and Zelda Fitzgerald overlaid on a watercolor painted Zelda by Silje Fossdal, to “Talking Orange” by Brooke Austin pictured here: Trump’s words from the three presidential debates recombined into tercets that resemble, in their jumbled but imperative declarations, Trump’s ordinary sequential speech.
+<!-- #6  -->
+### Rare Books Collaborative Undergraduate Research Project
+![screenshot](images/interface-harris-collab-research.jpg)
 
-In the "Twitter Essay," Jesse Stommel exhorts students to convert their expertise texting and posting status updates into college writing concision. This is an ideal assignment for those new to digital interfaces because its instantaneous publication provides the possibility of immediate reception and feedback beyond the classroom. Faculty new to digital pedagogy should practice first on their own to learn firsthand the dynamics of such publication. Stommel's students hew to the usual compositional preparation sequence, with the catch that everything is done entirely in Tweets: brainstorming, composing, workshopping, and revising. An extra layer of interface savvy comes in Stommel's attention to audience, reception and post-publication circulation: a rare opportunity to trace the "afterlife" of a comp/rhet "paper." One essay prompt about #queer elicited from a Twitter neophyte: #queer #kwear #qu’eer #ckwewr #QuEeR #qr #kuere #CWEER #qawear #kwier #cawe’re #ckuere #cwear #qwere #chweir #q-u-e-e-r. In its profusion and perversion, such a Tweet "savvily disrupts how we tag ideas within a discourse."
+* Artifact Type: Assignment 
+* Source URL: <http://triproftri.wordpress.com/2012/12/03/collaborative-project-on-19th-century-materials-assignment/#more-1191>
+* Copy of Artifact: K.Harris has PDF
+* Creator: Katherine D. Harris (San Jose State University)
 
-### Mobile Text-and-Image Collaborative Story: 1WkNoTech
-![screenshot](images/interface-Wittig-1wknotech.png)
+Lower-division literature majors are new to devising substantial research projects.  Harris's "Collaborative Project on 19th-Century Materials" expertly introduces students to the materiality of textual scholarship, then trains students in project management, a vital skill for any digital humanities collaborative project. Harris uses the Association of American Colleges and Universities rubrics for Teamwork/Collaboration to ground students' attention in specific tasks they must perform to advance the larger project. As they toggle between embodied classroom space and work in Google Docs, students assess the rare book's material attributes and then move to questions of content and interpretation. One resulting research paper, about Louisa Henrietta Sheridan's *The Comic Offering: Satire Without Bite* is seamless, univocal prose.
 
-* Source URL: <http://1wknotech.tumblr.com/>
-* Copy of Artifact: forthcoming
-* Creator: Rob Wittig (University of Minnesota Duluth Department of Art and Design); Mark C. Marino (University of Southern California)
+This assignment allows for interface comparison as students juxtapose the materiality of rare books against the pervasive, on-demand availability of Google Docs.
 
-Netprov, the text/image art game installed in social media platforms, is an ideal interface for teaching visual rhetoric, dramatic irony and mobility. Created as a collaboration across disciplines (art and writing) and across the country (Duluth and Los Angeles), Wittig and Marino teach students how to compose images, caption them, and collaborate with a large, crowdsourced group. Students and faculty author alongside each other. "Students have passive visual literacy. They understand natively how to compose shots; a Netprov activates that knowledge," Wittig notes. Netprov concepts should be immediately apprehensible in one definitive example. The image of Wittig taking a selfie of himself giving up technology while walking through the woods is a visually arresting, ironic, and mobile image. Netprovs look deceptively simple, but in fact they are literary games that require conceptual planning, image and Tweet build-up before installation, and game challenges issued mid-week to spur participation through the end of the installation.
+<!-- #7  -->
+### Visualizing Unread Victorian Novels
+![screenshot](images/interface-distant-reading.png)
+* Artifact Type: Assignment 
+* Source URL: <http://ryancordell.org/personal/grad-proseminar-guest-talk-not-reading/>
+* Source URL: open-access pre-print of the original article <http://diginole.lib.fsu.edu/eng_faculty_publications/2/>
+* Copy of Artifact: K.Harris has PDF
+* Creator: Paul Fyfe (North Carolina State University); forked by Ryan Cordell (Northeastern University)
+
+Paul Fyfe's 4-page field note about teaching senior undergraduate English majors to distantly read Victorian novels they *haven’t* read defamiliarizes narrative as the conventional interface of novel interpretation.  Fyfe’s is the best introductory exercise I've found in distant reading techniques. His "interrogative stance" invites students to use the visualized novels’ sometimes-confusing outputs to seek patterns using word frequency, concordance, and collocation.  When I taught these techniques to my students using Wordle and Voyant, they could see how Voyant’s sophisticated visualization capabilities enabled deductive queries. 
+
+Fyfe's article is locked in a subscription-fee publication. Hunting for an open access version, I found that Ryan Cordell led a graduate workshop applying Fyfe's techniques, and published the workshop guide on his website. I offer both Fyfe’s original article in the **Journal of Victorian Culture,** and Cordell's variation to highlight two aspects of digital humanities practice--forking, and the importance of open-access scholarship.
+<!-- #8  -->
+### Italian Language Study Using Geospatial Methodology
+![screenshot](images/interface-italian-hip-hop.png)
+* Artifact Type: Assignment 
+* Source URL: <https://www.arcgis.com/apps/MapJournal/index.html?appid=36d80c623d9a4b4291eea52c9ae279ac>
+* Copy of Artifact: K.Harris has PDF
+* Creator: Clarissa Cló (San Diego State University)
+
+Students immersed themselves in the target language from the Italian Hip Hop Archive of San Diego State University library, which owns a collection of the 1990s Italian magazine **Aelle/AL**. Selecting articles and creating story map journals using Esri ArcGIS technology, students produced geographical-based narratives with accurate satellite locations, accompanied by pictures, videos and links. Coding was not required for this web-based open source system. Students worked through complex cross-cultural concepts and terminology and located them in time and place. They applied a geospatial methodology to their language learning, showcasing Italy's regional, cultural, and linguistic diversity. The study of Italian was contextual, integrated, and meaningful.
+<!-- #9  -->
+### Historical Role Playing Game: Interdisciplinary Collaboration
+![screenshot](images/interface-Hergenrader-Steampunk-Rochester-map.png)
+* Artifact Type: Assignment 
+* Source URL: <http://steampunkrochester.wikispaces.com/Steampunk+Rochester>
+* Copy of Artifact: K.Harris has PDF
+* Creator: Trent Hergenrader (Rochester Institute of Technology)
+
+Three aspects of *Steampunk Rochester* make it an exceptional digital pedagogy interface. It blends real-life history of Rochester, New York 1915-25. Students create fictional characters, making Rochester an open-access playable game space. The result is speculative fiction that relies on the structured archive of wiki, a steampunk vision of the future that finds new technologic aspects in dynamic roleplay of the past.
+
+Created in collaboration among four departments at the Rochester Institute of Technology (English, Fine Arts, Interactive Games and Media, and 3D Digital Design) *Steampunk Rochester* feeds the local community with engaging story even as it also turns the city into a game lab. The large *Steampunk Rochester* wiki is already well populated with the people, places, and things that will become the raw material for the interactive video game to be developed. Trent Hergenrader's students, nimbly moving between play and creative writing, are engaging colleagues across the university in applied creative arts, where interdisciplinary projects make a "classroom" that is equal parts off-campus physical location, embodied imagination, wiki, and game mechanic.
+<!-- #10  -->
+### Remediated Shakespeare Sonnets
+![screenshot](images/interface-Burgess-Sonnet.png)
+* Artifact Type: Assignment 
+* Source URL: <http://helenburgess.com/395sonnets/>
+* Copy of Artifact: [files/interface-Burgess-Sonnet_1.pdf](files/interface-Burgess-Sonnet_1.pdf), [files/interface-Burgess-Sonnet_2.pdf](files/interface-Burgess-Sonnet_2.pdf) , [files/interface-Burgess-Sonnet_3.pdf](files/interface-Burgess-Sonnet_3.pdf)
+* Creator: Helen Burgess (North Carolina State University)
+
+Burgess teaches her students that each version of the Shakespeare sonnet in this four-part "conversion" assignment attends to different interfaces of the same source text.  Learning outcomes are measured in how well the student articulates poetic interpretation as materialized in the four interface outputs.  The four-part process asks students to remediate the sonnet as 1) visual representation; 2) an object comprised of fourteen parts (each sonnet line is converted into an object; 3) a decomposition someone else's composition; 4) a computer program that builds a sonnet when it's executed. This exercise converts the sonnet into a computational object, building upon the impressionistic reading of the visual remediation and layers it with the procedural thinking to make it, finally, an object that is machine-readable. As Alexander Galloway observes in The Interface Effect, “the edges of art always make reference to the medium itself” (47).  
+
 
 ## RELATED MATERIALS
-Digital Media and Learning Central, <http://dmlcentral.net/>
+Anderson, Christian Ulrich and Søren Bro Pold.  *Metainterface: The Art of Platforms, Cities and Clouds*.  Cambridge, MA: The M.I.T. Press, [n.d.: in production, 2019 likely].
 
-Janelle Jenstad, "*Early Modern Map of London*: Open Pedagogical Partnerships" <http://mapoflondon.uvic.ca/pedagogical_partnership.htm>
+Free learn-to-code materials in-browser: a sampling.
+--Thimble: <https://thimble.mozilla.org>
+--HMTL Dog: <http://htmldog.com/>
+--W3 Schools: <https://www.w3schools.com>
+--Code Academy: https://www.codecademy.com/
 
-Alan Liu, "DH Toychest" (DH "tools for project building") <http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools>
+Montfort, Nick and Noah Wardrip-Fruin.  *The New Media Reader*.  Cambridge, MA: The M.I.T. Press, 2003.
 
-Anne McGrail, "Digital Humanities at the Community College: a Commons" <https://dhatthecc.lanecc.edu/>
+Posner, Miriam. "DH 101" <http://miriamposner.com/dh101f15/>
 
-Miriam Posner, "DH 101" <http://miriamposner.com/dh101f15/>
+Stommel, Jesse. "12 Steps for Creating a Digital Assignment or Hybrid Class" <http://www.jessestommel.com/blog/files/12-step-digital-assignment-hybrid-class.html> 
 
 
 ## WORKS CITED
+Apple Developer Human Interface Guidelines.  https://developer.apple.com/ios/human-interface-guidelines/overview/themes/ Accessed 15 September 2017.
 
-Burgess, Helen. "Shakespeare in Code: Sonnet Conversion." <http://helenburgess.com/395sonnets/>. Web. Accessed 15 November 2014.
+Anderson, Christian Ulrich and Søren Bro Pold. *Metainterface: The Art of Platforms, Cities and Clouds*. Cambridge, MA: The M.I.T. Press, [n.d.: in production, 2018-9 likely].
 
-Cordell, Ryan. "Grad ProSeminar Guest Talk: Not Reading." <http://ryancordell.org/personal/grad-proseminar-guest-talk-not-reading/> Web. Accessed 15 November 2014.
+Austin, Brooke.  “Talking Orange.” http://brookeaustin.com/orange/ 2016.  Accessed 15 September 2017.
 
-———. "Simulating the Scriptorium." <http://f14tot.ryancordell.org/2014/09/16/lab-3-simulating-the-scriptorium/> Web. Accessed 15 November 2014.
+Beer, John.  *The Waste Land and Other Poems*.  Canarium Books, 2010.
+
+Benzon, Paul.  “Deformance Assignment.”  https://tuelit13.wordpress.com/deformation/>  Accessed 15 September 2017.
+
+Berens, Kathi Inman.  “Introduction to Digital Humanities: Digital Literary Studies.”  https://mla.hcommons.org/deposits/item/hc:10305/  Accessed 15 September 2017.
+
+Bhaba, Homi.  *The Location of Culture*.  London: Routledge, 1994.
+
+Burgess, Helen. "Shakespeare in Code: Sonnet Conversion." http://helenburgess.com/395sonnets/. Web. Accessed 15 September 2017.
+
+Cayley, John and Daniel C. Howe.  *The Readers Project*.  http://thereadersproject.org/ 
+
+Cló, Clarissa.  “Italian Language Study Using Geospatial Methodology.”  https://www.arcgis.com/apps/MapJournal/index.html?appid=36d80c623d9a4b4291eea52c9ae279ac.  Accessed 15 September 2017.
+
+Code Academy [free learn-to-code site, in-browser].  https://www.codecademy.com/  Accessed 17 September 2017.
+
+Cordell, Ryan. "Grad ProSeminar Guest Talk: Not Reading." http://ryancordell.org/personal/grad-proseminar-guest-talk-not-reading/ Web. Accessed 15 September 2017.
+
+———. "Simulating the Scriptorium." http://f14tot.ryancordell.org/2014/09/16/lab-3-simulating-the-scriptorium/ Web. Accessed 15 September 2017.
 
 Cramer, Florian and Matthew Fuller. "Interface." *Software Studies: a Lexicon*, ed. Matthew Fuller. Cambridge: M.I.T. Press. 2008.
 
-Digital Media and Learning Research Hub.  "Digital Media and Learning Central: The Power of Participation." http://dmlcentral.net/  Web. Accessed 4 April 2016.
+Douglass, Jeremy and Steven Pokornowski. "English 10 Introduction to Lit: House of Leaves Remix Assignment." http://english10introductiontolit.tumblr.com/ Web. Accessed 15 September 2017.
 
-Douglass, Jeremy and Steven Pokornowski. "English 10 Introduction to Lit: *House of Leaves* Remix Assignment." <http://english10introductiontolit.tumblr.com/> Web. Accessed 15 November 2014.
+*Electronic Literature Collection Volume 3*.  Editors Stephanie Boluk, Leonardo Flores, Jacob Garbe and Anastasia Salter.  Cambridge, MA: The Electronic Literature Organization, 2016.  http://collection.eliterature.org/3/  Accessed 15 September 2017.
 
-Drucker, Johanna. "Humanities Approaches to Interface Theory." *Culture Machine* 12 (2011).  <http://www.culturemachine.net/index.php/cm/article/viewArticle/434> Web. Accessed 4 April 2016.
+Fyfe, Paul. "How Not to Read a Victorian Novel." *Journal of Victorian Culture.* Vol. 16, No.1, April 2011, 84-88.
 
-Emerson, Lori. *Reading Writing Interfaces: From the Digital to the Bookbound.* Minneapolis: University of Minnesota Press. 2014. Print.
+Gaard, Anders Gonzo.  “Take Gonzo.”  http://nickm.com/taroko_gorge/take_gonzo/ 2014.  Accessed 15 September 2017.
 
-Engard, Nicole C. "Open Source Wordle." Photograph. Flickr. Creative Commons license. 24 May 2011. <https://www.flickr.com/photos/nengard/5755231642/in/photolist-9Lz4RL-53R7ce-7uXbL4-55ffYS-5nDNfb-5Dgro7-5DgrpW-5DcajT-5Dcana-5nkvGJ-4VqXVU-8djbH5-57YHrp-51emGt-5q6wAg-4YZG7E-5jbNP7-4Wi7Qp-5iQ7ap-5123jf-5nkvzC-4W5TdR-53Vkg3-5nDNff-65Uc9A-4WUKcq-69F2qW-5jyMZe-56NoFi-5YeG25-4ZQfPS-86hLUv-5iQE7c-4XkEyj-5jDeBh-59GNqR-5Y2H8A-4ZWCgc-5biXNd-5jfpZC-6TzvKt-6TDwXU-63re73-8D7BKF-51we2f-4Y81JQ-khtR6X-89Cm4U-5ZeqRv-8Vzj5T>. Web. Accessed 18 November 2014.
+Galloway, Alexander R.  *The Interface Effect*.  New York: Polity, 2012.
 
-Fyfe, Paul. "How Not To Read a Victorian Novel." *Journal of Victorian Culture.* Vol. 16, No.1, April 2011, 84-88.
+Harris, Katherine D. "Collaborative Assignment on Nineteenth-Century Materials Project." http://triproftri.wordpress.com/2012/12/03/collaborative-project-on-19th-century-materials-assignment/#more-1191 Web. Accessed 15 September 2017.
 
-Harris, Katherine D. "Collaborative Assignment on Nineteenth-Century Materials Project." <http://triproftri.wordpress.com/2012/12/03/collaborative-project-on-19th-century-materials-assignment/#more-1191> Web. Accessed 15 November 2014.
+Hergenrader, Trent. *Steampunk Rochester*. http://steampunkrochester.wikispaces.com/Steampunk+Rochester Web. Accessed 17 September 2017.
 
-Hergenrader, Trent. *Steampunk Rochester.* <http://steampunkrochester.wikispaces.com/Steampunk+Rochester> Web. Accessed 17 November 2014.
+HMTL Dog: http://htmldog.com/ [free learn-to-code site, in-browser].  Accessed 17 September 2017.
 
-Jenstad, Janelle. *Map of Early Modern London: Pedagogical Partners Project.* <http://mapoflondon.uvic.ca/pedagogical_partnership.htm> Web. Accessed 14 November 2014.
+Jobin, Anna and Frederic Kaplan.  “Are Google's linguistic prosthesis biased towards commercially more interesting expressions? A preliminary study on the linguistic effects of autocompletion algorithms.”  Talk presented at the 2013 Digital Humanities conference in Lincoln, Nebraska.  17 July 2013.  http://dh2013.unl.edu/abstracts/ab-223.html  Accessed 25 September 2017.
 
-Liu, Alan. *DH Tools Wiki.* <http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools> Web. Accessed 14 November 2014.
+Knight, Ivy.  “Combinatory ‘The Waste Land’” [image].  Portland, Oregon, 2016.
 
-Louisa Henrietta Sheridan's *The Comic Offering: Satire Without the Bite.* <http://scottfengl56b.wordpress.com/2012/10/11/louisa-henrietta-sheridans-the-comic-offering-satire-without-bite/> Web. Accessed 18 November 2014.
+Mineo, Liz.  “On Internet Privacy, Be Very Afraid.” *The Harvard Gazette*.  https://news.harvard.edu/gazette/story/2017/08/when-it-comes-to-internet-privacy-be-very-afraid-analyst-suggests/ Accessed 22 September 2017.
 
-Mongar, Sonja S. *Esta Vida Boricua.* <http://estavidaboricua.com> Web. Accessed 15 November 2014.
+Mongar, Sonja S. *Esta Vida Boricua*. http://estavidaboricua.com Web. Accessed 15 September 2017.
 
-Posner, Miriam. "DH 101" <http://miriamposner.com/dh101f15/>. Web. Accessed 4 April 2016.
+Montfort, Nick.  “Taroko Gorge.”  http://nickm.com/taroko_gorge/  Accessed 15 Sepember 2017.
 
-Stommel, Jesse. "12 Steps for Creating a Digital Assignment or Hybrid Class," <http://www.jessestommel.com/blog/files/12-step-digital-assignment-hybrid-class.html> Web. Accessed 15 November 2014.
+Montfort, Nick and Noah Wardrip-Fruin.  *The New Media Reader*.  Cambridge, MA: The M.I.T. Press, 2003.
 
-———. "The Twitter Essay." <http://www.hybridpedagogy.com/journal/the-twitter-essay/> Web. Accessed 15 November 2014.
+Pariser, Eli.  *The Filter Bubble: How the Personalized Web is Changing What We Read and How We Think*.  New York: Penguin Random House, 2011.  
 
-Wittig, Rob and Mark C. Marino. *1WkNoTech.* <http://1wknotech.tumblr.com/> Web. Accessed 14 November 2014.
+Posner, Miriam. "DH 101" <http://miriamposner.com/dh101f15/>  Accessed 15 September 2017.  
+
+____.  "How Did They Make That?  The Video." http://miriamposner.com/blog/how-did-they-make-that-the-video/ Web. Accessed 15 September 2017.
+
+Pressman, Jessica.  *Digital Modernism: Making It New in New Media.*  Oxford UP, 2014.
+
+Stommel, Jesse. "12 Steps for Creating a Digital Assignment or Hybrid Class," http://www.jessestommel.com/blog/files/12-step-digital-assignment-hybrid-class.html  Accessed 15 September 2017.
+
+Thimble [free learn-to-code site, in-browser]. https://thimble.mozilla.org  Accessed 15 September 2017.
+
+W3Schools [free learn-to-code site, in-browser]. https://www.w3schools.com  Accessed 15 September 2017.
+
+Wilson, Peter. “What’s in a Tweet’s Metadata.” https://peterwilson.cc/a-tweets-metadata/  Posted August 6, 2014.  Accessed 15 September 2017.
+
