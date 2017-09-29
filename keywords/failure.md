@@ -120,7 +120,7 @@ After students have created professional online portfolios using simple, free to
 
 ### Tier Four
 
-#### "Teaching to Fail
+#### "Teaching to Fail"
 
 ![screenshot](images/failure-burger.png)
 
