@@ -48,7 +48,6 @@ Never a subject that can be discussed purely within the bounds of a classroom or
 A digital pedagogy of sexuality, then, must attempt to account for a bewildering array of practices and experiences in private and public life. Learning from and alongside our students, we must seek to understand the ways that knowledge about sexuality is folded into and produced in networked publics. At the same time, we must not lose sight of the histories, contexts, and media landscapes within which our understandings of sex and gender identities, relationships, and orientations have developed. The archives of sexuality studies can help make sense of the ideas about sexual politics and identities that proliferate wildly in the networks our students frequent. Such emergent formations are difficult to pin down in a collection intended to function as a long term pedagogical resource.
 
 The set of artifacts gathered below focuses on what is most useful when teaching around a moving target. It showcases some ways teachers can honor the multiple kinds of knowledge students bring to a class, and some ways that students can work collectively or individually to bring new knowledges into being. Materials collected include both teachers' materials and sources from the production of digital knowledge about sexuality outside of academic settings. The collection begins with three course sites, two from university classes and one created as a public resource, that suggest ways of organizing class structures around the particular needs of studying sexuality as history, identity, and culture. Then two assignments highlight ways that students can combine research with their own situated knowledges and networks. Following these is an instructor-student collaboration used to establish open and respectful communication in the sexuality studies classroom. Then two online syllabi trace the ways race, violence, and legality contribute to the ways that sexuality is understood in the digital era. Next is an online toolkit on sexual violence and prison abolition providing resources for teaching about the too-frequent imbrication of sexuality and violence. The final example showcases student work with a project that engages sexuality studies through digital creative production.
----
 
 #### Introduction to Lesbian, Gay, Bisexual, Transgender, and Queer Studies
 Screenshot: ![screenshot](images/sexuality-intro-to-lgbtq.jpg)
@@ -59,7 +58,7 @@ Screenshot: ![screenshot](images/sexuality-intro-to-lgbtq.jpg)
 * Creator and Affiliations: Alexis Lothian, University of Maryland College Park
 
 This is a sample page from the website of Alexis Lothian’s Fall 2014 200-level LGBT Studies class, whose most successful digital element was Lothian’s use of Prezi to create dynamic discussion transcripts. To highlight the class’s development of its own archive of shared knowledge, Lothian would take notes directly into an [online presentation](https://prezi.com/ihbm45egxrli/bisexuality-and-asexuality-2016/) she had created in advance. The transcription of student comments makes them easier to unpack and contextualize, while separating their content from the person who has spoken them. It also enables any students who have difficulty processing oral discussions to participate more fully. This practice is especially well suited to situations where students analyzing personal experiences, and could be adapted to classrooms of many levels and sizes. A class-created archive such as this one could offer a tantalizing starting point for further research projects, as students might explore the origins and consequences of peers’ examples.
----
+
 
 #### Tangled Community, Entangled Differences: Lesbians and Always More
 Screenshot: ![screenshot](images/sexuality-tangled-community-entangled-communities.jpg)
@@ -70,7 +69,7 @@ Screenshot: ![screenshot](images/sexuality-tangled-community-entangled-communiti
 * Creator and Affiliations: Katie King, University of Maryland College Park
     
 This page explains the organization of Katie King’s Spring 2015 Lesbian Communities and Differences course, a 400-level class cross-listed in Women’s Studies and LGBT Studies. The structure of the course models multimodal and collaborative pedagogy in digital and physical spaces, as King demands that her students create “tangled community” of their own while they study the entangled differences that constitute genders and sexualities organized in relation to the term “lesbian.” King invites her students to participate in “techno-crafty delights” that include research posters and website development; her own “techno-crafty” illustrations offer visuals of class themes such as “connecting (policing).” This example of teaching as entanglement models a collaborative pedagogy, enabled by the digital, that honors the intellectual and emotional complexity of its subject matter.
----
+
 
 #### Queer Music History 101
 Screenshot: ![screenshot](images/sexuality-queer-music-history-101.jpg)
@@ -81,7 +80,7 @@ Screenshot: ![screenshot](images/sexuality-queer-music-history-101.jpg)
 * Creator and Affiliation: JD Doyle
 
 This is a set of lesson plans available as web pages, audio files, or in streaming video, covering the history of LGBT popular music from the 1920s to the 1980s. Created by veteran radio host JD Doyle, who presented a radio show on Queer Music Heritage from 2000 to 2015, the lessons offer a “two-hour crash course” drawn from the 375 hours of audio archived on Doyle’s main website. Visual and literary culture tend to be much better represented than audio material in both scholarship and teaching, and Doyle’s work provides an easily accessible entry point for those wishing to incorporate music into gender and sexuality-focused courses or to contextualize contemporary queer music cultures. In addition to using the lessons as they stand, Doyle’s archive opens possibilities for assigning student research in LGBT music history. It also offers a model for audio-based or podcasting assignments.
----
+
 
 #### Selfie Syllabus Week Four: Sexuality, Dating and Gender
 Screenshot: ![screenshot](images/sexuality-selfie-sex-dating.jpg)
@@ -92,7 +91,7 @@ Screenshot: ![screenshot](images/sexuality-selfie-sex-dating.jpg)
 * Creator and Affiliations: The Selfie Researchers Network: this week facilitated Kath Albury (University of New South Wales, Australia), Fatima Aziz (EHESS, France), Magdalena Olszanowski (Concordia University, Canada)
 
 The Selfie Researchers Network, a transnational collective incorporating hundreds of teachers, students, artists, and others, developed the class “Studying Selfies: A Critical Approach” in late 2014. Week Four focused on how “sexuality and gender are expressed (or signalled) through selfies.” It includes several assignments in which students critically engage how digital visual culture mediates their own expressions of sexuality, whether those be straight, queer, or something else. For example, students are asked to choose a selfie for a dating site or a couple photo, using the example to analyze the practices by which they produce an image to be read in the context of sexuality discourses. Selfies open up many pedagogical possibilities regarding sexuality in networked publics. How are the emerging conventions of digital self-representation affecting sexual identities and communities? How can thinking critically about gender and sexuality lead to new understandings of ourselves and our selfies?
----
+
 
 #### Queer Literature and Film: Teaching projects and tools
 Screenshot: ![screenshot](images/sexuality-queer-literature-and-film-teaching-projects-and-tools.jpg)
@@ -103,7 +102,7 @@ Screenshot: ![screenshot](images/sexuality-queer-literature-and-film-teaching-pr
 * Creator and Affiliation: Petra Dierkes-Thrun, Stanford University
 
 This is an assignment from a mixed graduate and undergraduate class, cross listed in Comparative Literature and in Feminist, Gender, and Sexuality studies at Stanford. Groups of students were asked to create a “mini crash course … designed as a compact three-week syllabus package complete with texts, handouts, assignments, and visual or video excerpts.” Many chose aspects of sexuality studies that are underrepresented in both scholarly writing and in available online resources for teaching. A student-designed advanced four-week syllabus in trans of color studies is one of the best resources we have found. For graduate classes in particular, it is the examples of student-originated pedagogical rationales – including a suggested curriculum for a Gay-Straight Alliance in a high school – that will be especially useful. It is also an exemplary work of public scholarship, making the digital pedagogy of sexuality both a subject and a method.
----
+
 
 #### Community Agreements
 Screenshot: ![screenshot](images/sexuality-community-agreements.jpg)
@@ -114,7 +113,7 @@ Screenshot: ![screenshot](images/sexuality-community-agreements.jpg)
 * Creator and Affiliation: Anna Storti, University of Maryland, College Park
 
 This is a list of “Community Agreements” for Anna Storti’s Fall 2017 introductory course in LGBT Studies. In this course, students study how sexuality and gender play an integral role in history, politics, culture, philosophy, and the everyday. The “Community Agreements” aim to establish a class consensus in approaching course material that may be uncomfortable or challenging to engage. The document compiles a list of classroom commitments constructed collaboratively between Storti and her students. It is a living document subject to change. The agreements provide students the space to develop their own stance and approach to course material. It also allows everyone in the classroom to hold themselves and each other accountable in their communication styles, critical perspectives, and learning processes. Moments of discomfort are an integral part of the learning process; the practice of establishing “Community Agreements” equips us with strategies to effectively lean into that discomfort. 
----
+
 
 #### Pulse Orlando Syllabus
 Screenshot: ![screenshot](images/sexuality-pulseorlando-syllabus.jpg)
@@ -125,7 +124,7 @@ Screenshot: ![screenshot](images/sexuality-pulseorlando-syllabus.jpg)
 * Creator and Affiliation: Jamie Berrout @jamieberrout, Venus Selenite @venusselenite, Oliver Bendorf @ohbendorf, and Lydia Willoughby @willoughbrarian
 
 The #PulseOrlandoSyllabus is a collaborative document compiled in the wake of the shooting at Pulse Night Club on June 12, 2016. This document exists as a resource to understand the violence that predominantly affected queer Latinx communities in Orlando. It showcases the collective knowledges of LGBTQ2S and QTPOC communities in order to remember the lives lost as well as to interrogate, challenge, and resist the endurance of racism and heterosexism. The #PulseOrlandoSyllabus was created with the intent to resist racist, homophobic, classist, and misogynistic citing practices. A variety of categories are featured including: ‘Self Care,’ ‘LGBTQ and Ally Collectives and Cooperatives,’ ‘Scholarly Books,’ ‘Archival Collections,’ ‘Movies,’ ‘Zines,’ ‘Music,’ ‘Podcasts,’ ‘Comics,’ ‘Websites,’ ‘Memes,’ ‘Resources for K-12 Schools,’ ‘Mental Health Resources,’ and ‘Activism and Action Steps.’ The syllabus offers instructors an approach to studies of sexuality where an analysis of race, violence, and place are at the center.  
----
+
 
 #### Obergefell Syllabus
 Screenshot: ![screenshot](images/sexuality-obergefell-syllabus.jpg)
@@ -147,7 +146,7 @@ Screenshot: ![screenshot](images/sexuality-survived-and-punished.jpg)
 * Creator and Affiliation: Love and Protect (@loveprotectorg) & Survived and Punished (@survivedandpunished)
 
 #SurvivedAndPunished is a collection of tools, tips, lessons and resources for survivors of sexual and gender-based violence. Sexuality’s pleasures and dangers intimately touch the lives of our students, ourselves, and others. Violence is pervasive. This resource shows how activist communities help us understand and combat sexual and gendered violence on and off line, including activities that teachers can bring directly into the classroom. The 29-page online toolkit begins by contextualizing the movement’s investment in prison abolition through explanations of gender justice, criminalization, and systems of incarceration. It then dives into pointed lessons on supporting immigrant and transgender survivors, letter writing to incarcerated people, working with lawyers, event planning, crowdfunding, and cultivating an online presence. As much as the toolkit gathers functional applications for survivors and students of sexual violence, it also archives the movement’s work which is led by Black women, women of color, immigrants, and trans and queer people.
----
+
 
 #### Coming of Age
 Screenshot: ![screenshot](images/sexuality-coming-of-age.jpg)
@@ -158,7 +157,7 @@ Screenshot: ![screenshot](images/sexuality-coming-of-age.jpg)
 * Creator and Affiliation: Anna Dennis
 
 This student project is an interactive fiction game created as a final project in Alexis Lothian’s class in 2016. The game invites players into the world of a young person discovering their sense of gender and sexual identity through experiences of pleasure, possibility, and community as well as violence and oppression. Created in response to [an open-ended assignment] (http://dcc208fa16.queergeektheory.org/requirements/creative-explorations/game-design-document/), Dennis’s game showcases how creative assignments can allow students to narrate their own relationships to sexuality, and how such narration can then itself become a pedagogical resource for others. Her project was inspired by online games from queer and trans creators––including anna anthropy’s [Dys4ia](https://w.itch.io/dys4ia), which uses simple graphics to explore multiple dimensions of gender transition, and micha cárdenas’s [Redshift and Portalmetal](http://micharoja.itch.io/redshift-and-portalmetal), which combines poetry, video, and storytelling to highlight the inseparability of sexuality and gender from disability, colonialism, race, and ecology.
----
+
 
 ## RELATED MATERIALS
 
