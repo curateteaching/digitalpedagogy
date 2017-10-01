@@ -2,7 +2,7 @@
 title: Digital Pedagogy in the Humanities
 subtitle: Concepts, Models, and Experiments
 chapter: Annotation
-URL: keywords/play.md
+URL: keywords/annotation.md
 authors:
 - family: Schacht
   given: Paul
@@ -92,9 +92,9 @@ Like many of the other artifacts collected here, Alan Jacobs' assignment is desi
 * Source URL: [http://web.uvic.ca/~englblog/pedagogydhsi/files/2012/05/baer.pdf](http://web.uvic.ca/~englblog/pedagogydhsi/files/2012/05/baer.pdf)
 * Permissions: Used with permission of author
 * Creator and Affiliation: P. A. Baer, University of Victoria
-* Tags: getting started, A.nnotate
+* Tags: advanced, A.nnotate
 
-P. A. Baer's annotation assignment for a course on "Old Norse Gods and Heroes" was developed as part of a course on [Digital Pedagogy](http://web.uvic.ca/~englblog/pedagogydhsi/) taught at DHSI, the Digital Humanities Summer Institute, by Katherine D. Harris, Diane Jakacki, and Jentery Sayers. It illustrates the value of social annotation for teaching students to read images as well as text. Baer's assignment has students use [A.nnotate](http://a.nnotate.com/), a platform that permits users to select image regions for annotation. She asks students to think of an unfamiliar image from Norse mythology "as a mystery in need of a solution that you will acquire the skills to solve." Solving the mystery involves recognizing some of the features that set images apart from written texts, such as the use of visual icons and the placement of figures in spacial relationships that generate meaning.
+P. A. Baer's annotation assignment for a course on "Old Norse Gods and Heroes" was developed as part of a course on [Digital Pedagogy](http://web.uvic.ca/~englblog/pedagogydhsi/) taught at DHSI, the Digital Humanities Summer Institute, by Katherine D. Harris, Diane Jakacki, and Jentery Sayers. It illustrates the value of social annotation for teaching students to read images as well as text. Baer's assignment has students use [A.nnotate](http://a.nnotate.com/), a platform that permits users to select image regions for annotation. She asks students to think of an unfamiliar image from Norse mythology "as a mystery in need of a solution that you will acquire the skills to solve." Solving the mystery involves recognizing some of the features that set images apart from written texts, such as the use of visual icons and the placement of figures in spatial relationships that generate meaning.
 
 #### Video Annotation Assignment
 
@@ -112,7 +112,7 @@ Jennifer Proctor's video annotation assignment uses an open-source platform for 
 * ![screenshot](images/annotation_socialbook.png)
 * Artifact Type: Student Sample
 * Source URL: [http://futureofthebook.org/blog/wp-content/uploads/2014/03/oroonoko-2.png](http://futureofthebook.org/blog/wp-content/uploads/2014/03/oroonoko-2.png)
-* Permissions:
+* Permissions: Fair use
 * Creator and Affiliation: Bob Stein, Institute for the Future of the Book
 * Tags: advanced, Social Book
 
@@ -122,7 +122,7 @@ This screenshot of an upper-level British literature survey class is included in
 * ![screenshot](images/annotation_readers_thoreau.png)
 * Artifact Type: Instructor Sample
 * Source URL: [http://commons.digitalthoreau.org/walden/economy/economy-30-44/#comment-2172](http://commons.digitalthoreau.org/walden/economy/economy-30-44/#comment-2172)
-* Permissions: Used with permission of author
+* Permissions: Fair use
 * Creator and Affiliation: Paul Schacht, State University of New York at Geneseo
 * Tags: advanced, CommentPress
 
@@ -155,10 +155,11 @@ Meera Nair's "Annotation Exercises for Fiction Boot Camp" has been included here
 * ![screenshot](images/annotation_hypothesis_resource_guide.png)
 * Artifact Type: Resource Guide
 * Source URL: [https://hypothes.is/teacher-resource-guide/](https://hypothes.is/teacher-resource-guide/)
+* Permissions: Fair use
 * Creator and Affiliation: Jeremy Dean, Director of Education, Hypothesis
 * Tags: getting started, Hypothes.is
 
-Unlike the other annotation tools represented here, [Hypothesis](http://hypothes.is) does not work by importing content into an annotation platform; instead, it superimposes annotation functionality on Web content wherever one finds it. It can even be used to annotate pdfs on the Web. This Teacher Resource Guide on the Hypothesis Web site explains how to install the Chrome extension and the bookmarklet for other browsers, walks users through the basics of creating an annotation, and provides several examples of assignments, including an assignment to annotate a scholarly article. In one of the resources, ["10 Ways to Annotate with Students"](https://hypothes.is/blog/back-to-school-with-annotation-10-ways-to-annotate-with-students/), Jeremy Dean, Director of Education for Hypothesis, points out the value of asking students to explore different users' annotation streams, apart from the texts to which the annotations are attached; this approach foregrounds social connections rather than texts.  
+Unlike the most of the other annotation tools represented here, [Hypothesis](http://hypothes.is) does not work by importing content into an annotation platform; instead, it superimposes annotation functionality on Web content wherever one finds it. It can even be used to annotate pdfs on the Web. This Teacher Resource Guide on the Hypothesis Web site explains how to install the Chrome extension and the bookmarklet for other browsers, walks users through the basics of creating an annotation, and provides several examples of assignments, including an assignment to annotate a scholarly article. In one of the resources, ["10 Ways to Annotate with Students"](https://hypothes.is/blog/back-to-school-with-annotation-10-ways-to-annotate-with-students/), Jeremy Dean, Director of Education for Hypothesis, points out the value of asking students to explore different users' annotation streams, apart from the texts to which the annotations are attached; this approach foregrounds social connections rather than texts.  
 
 ## RELATED MATERIALS
 
