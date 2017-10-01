@@ -58,7 +58,7 @@ The question raised by Dawson and Watters might itself make a useful conversatio
 * Artifact Type: Assignment
 * Source URL: [http://diglibarts.whittier.edu/?page_id=1372](http://diglibarts.whittier.edu/?page_id=1372)
 * Permissions: Used with permission of author
-* Creator and Affiliation: 
+* Creator and Affiliation: Jonathan Burton, Whittier College
 * Tags:
 
 Jonathan Burton's assignment uses social annotation to sharpen students' close reading skills and to teach collaboration. Working in teams, students select  passages from the assigned reading that they consider "rich in figurative language, curious in form or otherwise abundant in detail," transcribe them in Google docs, and annotate them. In a second round, they respond to some of their classmates' annotations. Finally, students draw on their annotated transcriptions to produce brief "problem papers." This assignment takes advantage of a simple digital tool with a very shallow learning curve to move students past the "solitary-reader-meets-text" model of textual analysis and scaffold their development of a more comprehensive argument. It can be easily adapted to any text.
@@ -68,7 +68,8 @@ Jonathan Burton's assignment uses social annotation to sharpen students' close r
 * ![screenshot](images/annotation_pbwiki.png)
 * Artifact Type: Assignment
 * Source URL: [http://introtoenglishstudies.pbworks.com/w/page/68678680/Group%204%20Wiki%20Page](http://introtoenglishstudies.pbworks.com/w/page/68678680/Group%204%20Wiki%20Page)
-* Creator and Affiliation: 
+* Permissions: 
+* Creator and Affiliation: Laura Lisabeth, St. John's University, NYC
 * Tags:
 
 Using [PBWorks](http://www.pbworks.com), a group of Laura Lisabeth's students produced this artifact for a class she describes in her article "Empowering Education with Social Annotation and Wikis," published in _Web Writing: Why and How for Liberal Arts Teaching and Learning_. This anthology of essays on digital writing pedagogy was itself assembled through an open peer-review process. (The CommentPress version of Lisabeth's essay may be found at [webwriting2013.trincoll.edu/citation-annotation/lisabeth-2013/?doing_wp_cron=1442324537.1288309097290039062500](http://webwriting2013.trincoll.edu/citation-annotation/lisabeth-2013/?doing_wp_cron=1442324537.1288309097290039062500)). Lisabeth asked students to respond to Strunk and White's *Elements of Style* — a freighted cultural object — encouraging them to comment not only discursively but also in ways that make use of links (literal or figurative) to other objects. This emphasis on objects deliberately pulls against the conventional notion of social annotation as conversation.
@@ -78,8 +79,8 @@ Using [PBWorks](http://www.pbworks.com), a group of Laura Lisabeth's students pr
 * ![screenshot](images/annotation_commentary_anthology.png)
 * Artifact Type: Assignment
 * Source URL: [http://blog.ayjay.org/uncategorized/assignment-commentary-and-anthology/](http://blog.ayjay.org/uncategorized/assignment-commentary-and-anthology/)
-* Permissions: Author copyright 
-* Creator and Affiliation: 
+* Permissions: Used with permission of author 
+* Creator and Affiliation: Alan Jacobs, Baylor University
 * Tags:
 
 Like many of the other artifacts collected here, Alan Jacobs' assignment is designed to encourage close reading. But Jacobs' explanation of the assignment also invites students to consider both their reading and their writing historically. Pointing out that commentary is a *genre*, he questions the cultural assumption that it is "passive" in comparison to the genre most students are asked to master in college: the argumentative essay. Jacobs has students compile an anthology of writings in [CommentPress](http://futureofthebook.org/commentpress/), a plugin for the WordPress blogging platform, then comment on these writings collaboratively. As he points out, the anthology, too, is a genre, and together the two genres of commentary and anthology represent major traditions of religious reading.
@@ -89,18 +90,19 @@ Like many of the other artifacts collected here, Alan Jacobs' assignment is desi
 * ![screenshot](images/annotation_image_annotation.png)
 * Artifact Type: Assignment
 * Source URL: [http://web.uvic.ca/~englblog/pedagogydhsi/files/2012/05/baer.pdf](http://web.uvic.ca/~englblog/pedagogydhsi/files/2012/05/baer.pdf)
-* Creator and Affiliation: 
+* Permissions: Used with permission of author
+* Creator and Affiliation: P. A. Baer, University of Victoria
 * Tags:
 
-Trish Baer's annotation assignment for a course on "Old Norse Gods and Heroes" was developed as part of a course on [Digital Pedagogy](http://web.uvic.ca/~englblog/pedagogydhsi/) taught at DHSI, the Digital Humanities Summer Institute, by Katherine D. Harris, Diane Jakacki, and Jentery Sayers. It illustrates the value of social annotation for teaching students to read images as well as text. Baer's assignment has students use [A.nnotate](http://a.nnotate.com/), a platform that permits users to select image regions for annotation. She asks students to think of an unfamiliar image from Norse mythology "as a mystery in need of a solution that you will acquire the skills to solve." Solving the mystery involves recognizing some of the features that set images apart from written texts, such as the use of visual icons and the placement of figures in spacial relationships that generate meaning.
+P. A. Baer's annotation assignment for a course on "Old Norse Gods and Heroes" was developed as part of a course on [Digital Pedagogy](http://web.uvic.ca/~englblog/pedagogydhsi/) taught at DHSI, the Digital Humanities Summer Institute, by Katherine D. Harris, Diane Jakacki, and Jentery Sayers. It illustrates the value of social annotation for teaching students to read images as well as text. Baer's assignment has students use [A.nnotate](http://a.nnotate.com/), a platform that permits users to select image regions for annotation. She asks students to think of an unfamiliar image from Norse mythology "as a mystery in need of a solution that you will acquire the skills to solve." Solving the mystery involves recognizing some of the features that set images apart from written texts, such as the use of visual icons and the placement of figures in spacial relationships that generate meaning.
 
 #### Video Annotation Assignment
 
 * ![screenshot](images/annotation_video_annotation.png)
 * Artifact Type: Assignment
 * Source URL: [http://files.cargocollective.com/18691/TVAnalysisPopcornMaker.pdf](http://files.cargocollective.com/18691/TVAnalysisPopcornMaker.pdf)
-* Permissions: CC-BY-NC 2.5
-* Creator and Affiliation: 
+* Permissions: CC-BY-NC 3.0
+* Creator and Affiliation: Jennifer Proctor, University of Michigan-Dearborn 
 * Tags:
 
 Jennifer Proctor's video annotation assignment uses an open-source platform for which the creator, Mozilla, has chosen to discontinue support: PopcornMaker. It thus illustrates one of the risks of social annotation and of digital pedagogy in general. However, it is included here not for the choice of platform but for the shape of the assignment and the fact that the annotated object is a moving image. Proctor's assignment establishes a very particular framework for the student's annotations, asking students to consider, for example, how reality is mediated and processed in the clip they are to annotate. Any platform that supports video annotation, such as [SocialBook](http://www.livemargin.com), could work for this assignment; another option would be to use open-source video annotation software such as that being developed by the [Open Video Annotation Project](https://github.com/CtrHellenicStudies/OpenVideoAnnotation). 
@@ -110,7 +112,8 @@ Jennifer Proctor's video annotation assignment uses an open-source platform for 
 * ![screenshot](images/annotation_socialbook.png)
 * Artifact Type: Student Sample
 * Source URL: [http://futureofthebook.org/blog/wp-content/uploads/2014/03/oroonoko-2.png](http://futureofthebook.org/blog/wp-content/uploads/2014/03/oroonoko-2.png)
-* Creator and Affiliation:
+* Permissions:
+* Creator and Affiliation: Bob Stein, Institute for the Future of the Book
 * Tags:
 
 This screenshot of an upper-level British literature survey class is included in Bob Stein's blogpost ["SocialBook in Action"](http://futureofthebook.org/blog/2013/08/18/socialbook-in-action/), which illustrates the range and power of [SocialBook](https://www.livemargin.com) as a collaborative annotation platform. Readers can establish social identities with avatars and belong to multiple groups. They can engage in rich, detailed interpretive discussion in the margins of a text, and they can connect these discussions to their broader social presence online; for example, by "liking" a marginal comment on Facebook. As Stein points out in his blogpost, the "emerging class of applications" to which SocialBook and other platforms collected here belong might be called '[collaborative] thinking processors' as opposed to reading environments or word processors. The stronger the social ties in a platform for collaborative annotation, the greater the likelihood that a class moves from conversation to a genuine sense of community. 
@@ -120,7 +123,7 @@ This screenshot of an upper-level British literature survey class is included in
 * Artifact Type: Instructor Sample
 * Source URL: [http://commons.digitalthoreau.org/walden/economy/economy-30-44/#comment-2172](http://commons.digitalthoreau.org/walden/economy/economy-30-44/#comment-2172)
 * Permissions: Used with permission of author
-* Creator and Affiliation: 
+* Creator and Affiliation: Paul Schacht, State University of New York at Geneseo
 * Tags:
 
 I have included my own comment in the margin of Henry David Thoreau's _Walden_ here to illustrate how an instructor's annotation can serve to make connections between a text under discussion and other texts in a variety of media. An instructor's comment can also prompt students to consider a particular passage in the larger context of the work or in the context of ideas. This social edition of _Walden_ can be found at [The Readers' Thoreau](http://commons.digitalthoreau.org), a site that embeds a library of Henry David Thoreau's works in a social network built with [Commons In A Box](http://commonsinabox.org) and [CommentPress](http://futureofthebook.org/commentpress/). Kristen Case (University of Maine, Farmington) and I describe how the network operates and our experience teaching with it in ["Reading Deliberately: Thoreau Online"](https://www.academia.edu/9729828/Reading_Deliberately_Thoreau_Online). Like [SocialBook](http://www.livemargin.com), The Readers' Thoreau attempts to build a sense of community among readers by extending their connections beyond the margins of the text.
@@ -130,7 +133,8 @@ I have included my own comment in the margin of Henry David Thoreau's _Walden_ h
 * ![screenshot](images/annotation_screenshot_studio.png)
 * Artifact Type: Lesson Plan
 * Source URL: [https://www.hastac.org/blogs/rachel-arteaga/2014/01/25/05-teaching-annotation-using-mits-annotation-studio-interface](https://www.hastac.org/blogs/rachel-arteaga/2014/01/25/05-teaching-annotation-using-mits-annotation-studio-interface)
-* Creator and Affiliation: 
+* Permissions: CC-BY-SA 3.0
+* Creator and Affiliation: Rachel Arteaga, University of Washington
 * Tags:
 
 Rachel Arteaga's lesson plan for annotating a portion of *Moby-Dick* using MIT's [Annotation Studio](http://www.annotationstudio.org/) not only encourages close reading and collaboration but also illustrates the variety of textual features that can be brought to students' attention through annotation. It also encourages students to think about those features taxonomically by taking advantage of Annotation Studio's ability to accept comment tags. Arteaga divides her students into 5 groups focused on annotating, respectively, vocabulary, cultural/literary/geographical references, claims, tone/language/syntax, and social contexts.
@@ -140,7 +144,8 @@ Rachel Arteaga's lesson plan for annotating a portion of *Moby-Dick* using MIT's
 * ![screenshot](images/annotation_genius_fiction.png)
 * Artifact Type: Best Practice
 * Source URL: [http://genius.com/Meera-nair-annotation-exercises-for-fiction-boot-camp-annotated](http://genius.com/Meera-nair-annotation-exercises-for-fiction-boot-camp-annotated)
-* Creator and Affiliation: 
+* Permissions: CC-BY-SA 3.0
+* Creator and Affiliation: Meera Nair, Gallatin School of Individualized Study, New York University
 * Tags:
 
 Meera Nair's "Annotation Exercises for Fiction Boot Camp" has been included here for its attempt to define what an "excellent fiction annotation" should contain, as well as for its use of [Genius](http://genius.com) as annotation platform. Most of the social annotation assignments collected here ask students to generate interpretive or explanatory annotations; Nair's does the same, but it also asks them to comment on passages with an eye towards craft — focusing, for example, on characterization, scenic presentation, and thematic development. Genius is a platform that many students will already be familiar with, and it is one where they can join a larger community of readers interested in annotating literature (particularly song lyrics) collaboratively. Nair has written about her use of social annotation to teach fiction for the [National Writing Project](http://thecurrent.educatorinnovator.org/resource/6179). 
