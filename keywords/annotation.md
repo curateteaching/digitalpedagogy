@@ -68,7 +68,7 @@ Jonathan Burton's assignment uses social annotation to sharpen students' close r
 * ![screenshot](images/annotation_pbwiki.png)
 * Artifact Type: Assignment
 * Source URL: [http://introtoenglishstudies.pbworks.com/w/page/68678680/Group%204%20Wiki%20Page](http://introtoenglishstudies.pbworks.com/w/page/68678680/Group%204%20Wiki%20Page)
-* Permissions: 
+* Permissions: CC-BY-NC 3.0
 * Creator and Affiliation: Laura Lisabeth, St. John's University, NYC
 * Tags: getting started, wiki
 
