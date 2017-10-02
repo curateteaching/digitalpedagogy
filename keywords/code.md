@@ -51,7 +51,7 @@ The artifacts included here adhere to a fairly narrow definition of "code." As s
 ## CURATED ARTIFACTS 
 
 #### “What is Code?”
-![screenshot](images/code-whatiscode.png)
+![screenshot](images/screenshot-code-whatiscode.png)
 * Artifact Type: Magazine article
 * Source URL: [http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/) 
 * Artifact Permissions: Article text is licensed under the Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International license. Embedded graphics and other interactive bits are variously licensed.  
@@ -61,7 +61,7 @@ The artifacts included here adhere to a fairly narrow definition of "code." As s
 Businessweek might seem like a paradoxical starting point for a set of resources intended to explore humanistic approaches to code, but Paul Ford's extended exegesis on the meaning of code presents a surprisingly legible overview of how code works, how code is written, and how code is deployed in a range of settings. Embedded in "What is Code?" are a variety of interactive elements-- simulations of circuitry and signal processing, and visualizations of data structures and algorithms, to name only a few-- each of which might be pulled out to enhance a classroom exercise. Students might also be encouraged to consider the implications of the article's placement in a magazine owned by Bloomberg, and what that says about the current media climate, about the power of the finance industry, and about how both relate more closely than one might expect to the long history of computation and code.  
 
 #### “Some Things to Think about before You Exhort Everyone to Code”
-![screenshot](images/code-somethings.png)
+![screenshot](images/screenshot-code-somethings.png)
 * Artifact Type: Blog post
 * Source URL: [http://miriamposner.com/blog/some-things-to-think-about-before-you-exhort-everyone-to-code/](http://miriamposner.com/blog/some-things-to-think-about-before-you-exhort-everyone-to-code/) 
 * Artifact Permissions: CC BY-NC-SA 3.0 US
@@ -70,7 +70,7 @@ Businessweek might seem like a paradoxical starting point for a set of resources
 “Some Things to Think about before You Exhort Everyone to Code,” Miriam Posner's pointed critique of unrestrained learn-to-code boosterism, is essential reading for anyone engaged in a project involving the teaching or learning of code. With references to scientific and sociological studies as well as more concrete examples, Posner clearly identifies the cultural biases and other structural inequalities that preclude a pedagogy of code from unfolding on an equal plane. Rather than act as a deterrent, however, Posner's post should encourage us to envision alternate pedagogical practices that might better account for the full range of student experience. Whether by [rethinking what we teach when we teach students to code](http://earsketch.gatech.edu/landing/) (Freeman et al.), [reimagining how we teach when we teach students to code](http://miriamposner.com/blog/a-better-way-to-teach-technical-skills-to-a-group/) (Posner, "Better"), or [reframing the task of learning to code from the ground up](http://thecomputerboys.com/) (Ensmenger), we can each work towards a more inclusive pedagogical model.
 	
 #### “Introduction to Computational Media”
-![screenshot](images/code-lmc2700.jpg)
+![screenshot](images/screenshot-code-lmc2700.jpg)
 * Artifact Type: Syllabus
 * Source URL: [https://docs.google.com/document/d/1I2XUqH7d_JDLe3abZglKYnHXd7kgE-ip9qW9Geg689Y/edit](https://docs.google.com/document/d/1I2XUqH7d_JDLe3abZglKYnHXd7kgE-ip9qW9Geg689Y/edit) 
 * Artifact Permissions: CC-BY-NC
@@ -79,7 +79,7 @@ Businessweek might seem like a paradoxical starting point for a set of resources
 This syllabus, created by Yanni Loukissas, documents the required introductory course in Georgia Tech's [Computational Media](http://cm.lmc.gatech.edu/) major. The major is designed with a "both/and" pedagogy of code in mind; students take courses in both computer science and the humanities so as to develop a deep and nuanced understanding of the computer as a medium. "Introduction to Computational Media" represents the students' first exposure to this synthesis, and as such, asks students to explore the history and theory of computation through a series of six focused projects. Each employs a different programming language, and each to a different end--among them, a data visualization, a narrative bot, or a procedural poem. Any one of these projects might be incorporated into another course as a capstone element, but the syllabus is most valuable as a whole, for how it leads students towards a syncretic understanding of the computer as an expressive form.  
 	
 #### “Feminist Digital Humanities”
-![screenshot](images/code-feministdh.png)
+![screenshot](images/screenshot-code-feministdh.png)
 * Artifact Type: Syllabus
 * Source URL: [https://jwernimont.wordpress.com/2014/06/02/feminist-digital-humanities-theoretical-social-and-material-engagements-around-making-and-breaking-computational-media/](https://jwernimont.wordpress.com/2014/06/02/feminist-digital-humanities-theoretical-social-and-material-engagements-around-making-and-breaking-computational-media/) 
 * Artifact Permissions: Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
@@ -88,7 +88,7 @@ This syllabus, created by Yanni Loukissas, documents the required introductory c
 This syllabus, created by Jacqueline Wernimont and Elizabeth Losh for a summer course on Feminist Digital Humanities at the [Digital Humanities Summer Institute](http://www.dhsi.org/), provides a second example of how the study of code can bring together technical knowledge with theoretical concerns. Wernimont and Losh employ feminism as both object and method of inquiry, exploring a range of examples of feminist engagements with technology, from video games to digital archives, through an intersectional feminist pedagogical approach. The more conceptually-focused nature of this course demonstrates how students can emerge with a clear sense of how a particular theoretical orientation can be expressed in and through code. In adapting this course for future use, one might consider how other major theoretical schools, such as queer or postcolonial theory, might similarly (or dissimilarly) find expression through the structure of a course, its objects of study, and its methods of inquiry.
 
 #### “Literary Data: Some Approaches”
-![screenshot](images/code-litdata.png)
+![screenshot](images/screenshot-code-litdata.png)
 * Artifact Type: Course website
 * Source URL: [http://www.rci.rutgers.edu/~ag978/litdata/](http://www.rci.rutgers.edu/~ag978/litdata/) 
 * Artifact Permissions: Creative Commons Attribution-NonCommercial 4.0 International 
@@ -98,7 +98,7 @@ This syllabus, created by Jacqueline Wernimont and Elizabeth Losh for a summer c
 Andrew Goldstone's syllabus for a graduate course on literary data is explicit about its dual aims: "to engage with the history and current practice of literary data analysis, and to introduce the foundational skills of literary data analysis in the R programming language." Through readings on the history and theory of data, coupled with programming exercises designed to introduce students to basic computational operations and constructs, Goldstone provides a model for how students might apply computational methods to humanistic research questions with historical, theoretical, and technical considerations in mind. Its focus on literary data functions as a valuable illustration of how a disciplinary focus can lead to greater depth of understanding; and its hybrid class structure might present a model for how to teach programming in the context of a humanities seminar.
 
 #### “The Rise of the Novel”
-![screenshot](images/code-riseofnovel.png)
+![screenshot](images/screenshot-code-riseofnovel.png)
 * Artifact Type: Course repository
 * Source URL: [https://github.com/rbuurma/rise-2015](https://github.com/rbuurma/rise-2015) 
 * Artifact Permissions: Creative Commons Attribution 4.0 International License
@@ -107,7 +107,7 @@ Andrew Goldstone's syllabus for a graduate course on literary data is explicit a
 The Github repository that documents Rachel Buurma's digitally-inflected literature course, "The Rise of the Novel," provides an additional example of how a focused humanistic research interest might be explored through computational techniques. Here, Buurma focuses on questions of realism as they relate to the rise of the novel, incorporating exercises that make use of software libraries that assist in various distant reading techniques. Buurma's course design demonstrates how such exercises might be framed conceptually, and anchored in specific texts--evidently to much success. (Student responses to the exercises are [documented on the course blog](http://rise2015.rachelsagnerbuurma.org/) (Buurma, "Rise"). When adapting this model for use in other contexts, one must consider *in advance* what types of questions are best suited to specific computational techniques, and what specific objects of inquiry--textual or otherwise--might serve as the best source for their application. 
 	
 #### “Feminism and Programming Languages”
-![screenshot](images/code-feminismandprogramming.png)
+![screenshot](images/screenshot-code-feminismandprogramming.png)
 * Artifact Type: Blog post
 * Source URL: [https://www.hastac.org/blogs/arielle-schlesinger/2013/11/26/feminism-and-programming-languages](https://www.hastac.org/blogs/arielle-schlesinger/2013/11/26/feminism-and-programming-languages) 
 * Artifact Permissions: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 
@@ -116,7 +116,7 @@ The Github repository that documents Rachel Buurma's digitally-inflected literat
 This student blog post on [HASTAC](https://www.hastac.org/), which documents the early phases of an undergraduate thesis project, demonstrates how a deceptively simple question--"What is a feminist programming language?--can function as an entry point into a deep discussion reliant on both technical and theoretical knowledge. Such discussions are incredibly generative, and ones with which "programming humanists," [to borrow a descriptor from Tara McPherson](http://dhdebates.gc.cuny.edu/debates/text/29), are uniquely positioned to engage (n.p.). This particular post also demonstrates, albeit inadvertently, the political charge with which many humanistic investigations into the nature of code are met; the post was picked up on Reddit, and the student became the subject of significant online harassment. Although those invested in digital pedagogy tend to align themselves with public-facing student work, this example also illustrates the importance of anticipating any potentially negative or hateful feedback for which students (or their professors) may be unprepared.   
 
 #### “The Codex”
-![screenshot](images/code-blackcodestudies.png)
+![screenshot](images/screenshot-code-blackcodestudies.png)
 * Artifact Type: Digital project
 * Source URL: [http://diasporahypertext.com/2012/11/29/new-project-the-codex/](http://diasporahypertext.com/2012/11/29/new-project-the-codex/) 
 * Artifact Permissions: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
@@ -125,7 +125,7 @@ This student blog post on [HASTAC](https://www.hastac.org/), which documents the
 "The Codex" was described by its creator, Jessica Marie Johnson, as an "attempt to process Atlantic slavery through application, code, and screen" (n.p.). It consisted of three digital "volumes," each presented in the form of a Tumblr; only one of the volumes, [African Diaspora Ph.D.](http://africandiasporaphd.tumblr.com/) remains live. Here, Johnson employs Tumblr rhetorically, using it to counter the dehumanizing effects of the formal records of the Atlantic slave trade with what she terms "diaspora catalogs" ("Codex," n.p.) (A recent [special issue of *The Black Scholar* on Black Code](http://www.theblackscholar.org/now-available-black-code/) elaborates upon the idea of alternative structuring logics). Johnson's Tumblr could be contextualized by [her introduction to the special issue](http://www.tandfonline.com.prx.library.gatech.edu/doi/full/10.1080/00064246.2017.1329608) (co-authored with Mark Anthony Neal). Students might also be encouraged to create their own "diaspora catalogs," or to consider how other constructs that have been challenged in terms of hierarchy, structure, and control, might lend themselves to a Tumblr-based critique. 
 
 #### “Rikers Bot”
-![screenshot](images/code-rikersbot.jpg)
+![screenshot](images/screenshot-code-rikersbot.jpg)
 * Artifact Type: Collaborative project
 * Source URL: [http://xpmethod.plaintext.in/public-discourse/rikersbot.html](http://xpmethod.plaintext.in/public-discourse/rikersbot.html) 
 * Artifact Permissions: GNU GPL 
@@ -134,7 +134,7 @@ This student blog post on [HASTAC](https://www.hastac.org/), which documents the
 Rikers Bot names an ongoing project on the part of Columbia's [Group for Experimental Methods in the Humanities](http://xpmethod.plaintext.in/) to teach programming workshops at the Rikers Island Correctional Facility, and the output of the project: a Twitter bot that tells the story of the young adults incarcerated there. As such, it speaks both to the utility of learning to code (as part of the workshop, participants are trained in how to present the project in future job interviews) and to the argumentative force of a bot (forcibly disconnected from the outside world, the inmates require a bot to speak for them). Rikers Bot remains complicated, but in its engagement in the world, and in its attempt to introduce a humanistic overlay onto the teaching and learning of code, it marks a move towards social justice and civic engagement that the field would do well to more fully engage. 
 
 #### “TransCoder: Queer Programming Anti-Language”
-![screenshot](images/code-TC-1.jpg)
+![screenshot](images/screenshot-code-TC-1.jpg)
 * Artifact Type: Project website
 * Source URL: [http://www.zachblas.info/works/queer-technologies/](http://www.zachblas.info/works/queer-technologies/) 
 * Artifact Permissions: Image courtesy of the artist
