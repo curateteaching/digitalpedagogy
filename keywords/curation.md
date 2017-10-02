@@ -153,7 +153,7 @@ This exercise was developed for an advanced institute on data curation in digita
 * Copy of the Artifact:  [5 Star Experience](files/curation-5_star_experience.html) 
 * Creator and Affiliation: Krystal Lam, UCLA; Hee Jae Choi, UCLA; Gabriela Chitwood, UCLA; Tammy Pham, UCLA; Erika Freisen, UCLA; Adam Brownell, UCLA; course instructor: Miriam Posner, UCLA.
 
-This class project documents a sustained curatorial project focused around the New York Public Library’s “What’s on the Menu?” collection, drawing on data downloaded from the NYPL site. As part of this project, students refined and filtered the data and developed visualizations and a detailed cultural analysis of ethnic influences on hotel menus in the early 20th century. (See the [full instructions for the assignment](http://miriamposner.com/dh101f15/index.php/assignments/final-project/).) Curation here is enacted through a complex and ambitious series of engagements with the data that result in new insight into both the data itself as data and also the cultural history to which it bears witness. The general framework of the assignment could be adapted to many different kinds of publicly accessible data, and it could be taught at different levels of technical detail. 
+This class project documents a sustained curatorial project focused around the New York Public Library’s “What’s on the Menu?” collection, drawing on data downloaded from the NYPL site. As part of this project, students refined and filtered the data and developed visualizations and a detailed cultural analysis of ethnic influences on hotel menus in the early 20th century. (See Miriam Posner's [full instructions for the assignment](http://miriamposner.com/dh101f15/index.php/assignments/final-project/).) Curation here is enacted through a complex and ambitious series of engagements with the data that result in new insight into both the data itself as data and also the cultural history to which it bears witness. The general framework of the assignment could be adapted to many different kinds of publicly accessible data, and it could be taught at different levels of technical detail. 
 
 #### Omeka Exhibit: Final Guide and Curation
 
@@ -218,6 +218,9 @@ Muñoz, Trevor, and Katie Rawson. *Curating Menus*. 14 September 2017 [http://ww
 NINES: Nineteenth-century Scholarship Online. 14 September 2017 [http://www.nines.org](http://www.nines.org).
 
 Palmer, Carole, Nicholas Weber, Trevor Muñoz, Allen Renear. “Foundations of Data Curation: The Pedagogy and Practice of ‘Purposeful Work’ with Research Data.” *Archive Journal* 3 (Summer 2013).  14 September 2017 [http://www.archivejournal.net/issue/3/archives-remixed/foundations-of-data-curation-the-pedagogy-and-practice-of-purposeful-work-with-research-data/.](http://www.archivejournal.net/issue/3/archives-remixed/foundations-of-data-curation-the-pedagogy-and-practice-of-purposeful-work-with-research-data/)
+
+Posner, Miriam. “Final Project – DH101.” *DH 101: Introduction to Digital Humanities*, Fall 2015, [http://miriamposner.com/dh101f15/index.php/assignments/final-project/](http://miriamposner.com/dh101f15/index.php/assignments/final-project/).
+
 
 Tavares, Elizabeth Elaine. “Omeka Exhibit: Final Guide and Curation.” *Omeka and Film*. 2016. Pacific University. 14 September 2017 [http://www.elizabethetavares.com/downloads_files/OM%20Final%20Curation.pdf.](http://www.elizabethetavares.com/downloads_files/OM%20Final%20Curation.pdf)
 
