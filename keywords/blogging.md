@@ -64,7 +64,7 @@ The syllabus outlines the structure of the course; the course materials and stud
 These assignments could be adapted into a variety of undergraduate and graduate rhetoric and communication courses. Instructors might complicate the assignment by challenging students to craft multi-part "threads" or critiquing their experience interacting with otherwise unknown interlocutors.
 
 #### "Texts, Maps, Networks: Digital Literary"
-![screenshot](http://images/blogging-Cordell-assignment.png)
+![screenshot](images/blogging-Cordell-assignment.png)
 * Artifact Type: Assignment
 * Source URL: [http://f14tmn.ryancordell.org/assignments/class-blogging/](http://f14tmn.ryancordell.org/assignments/class-blogging/)
 * Copy of the Artifact: Course site hosted by the University on the Wordpress platform. As of 9/18/2017 student work is publicly viewable, although several of the student sites have been taken down and some links lead to 404 errors.
@@ -73,7 +73,7 @@ These assignments could be adapted into a variety of undergraduate and graduate 
 This assignment is distinctive in that it is built upon another, in which students are required to set up their own [website](Cordell http://bit.ly/1n68PaP) Cordell then collects site details and aggregates posts into the master course site. Students are expected to write at the end of each course module, posting and commenting upon classmates' posts at least three times. The title for each post appears on the course site and links to the relevant post on the student's site, which is also where comments are posted. The rubric is general and evaluation is unclear, but Cordell indicates that he will supply more detailed feedback upon student request. 
 
 #### "Blogging about Duffy's Manuscripts" 
-![screenshot](http://images/blogging-Croxall-instructions.png)
+![screenshot](images/blogging-Croxall-instructions.png)
 * Artifact Type: Assignment
 * Source URL: [http://www.briancroxall.net/dh/assignments/blogging-about-duffys-manuscripts/](http://www.briancroxall.net/dh/assignments/blogging-about-duffys-manuscripts/)
 * Copy of the Artifact: Blog hosted on Croxall's website on the Wordpress platform. As of 9/18/2017 student work is publicly viewable.
@@ -83,7 +83,7 @@ This artifact is one element of a larger blogging assignment. The two assigned p
 for adjusting grading of the overall blogging assignment if a student does so. On the course website Croxall gives an explanation about why he assigns blogs (Croxall 2011), and emphasizes the conversational nature of blogging. This straightforward assignment could be readily adapted for a literature course with special emphasis on the relationship between manuscript and print. 
 
 #### "Thinking Goodly: Introduction to Ethics" 
-![screenshot](http://images/blogging-Gorges-site.png)
+![screenshot](images/blogging-Gorges-site.png)
 * Artifact Type: Course site with blog comments and links
 * Source URL: [https://boonebgorges.wordpress.com/2008/11/20/in-the-blogs-11202008/](https://boonebgorges.wordpress.com/2008/11/20/in-the-blogs-11202008/)
 * Copy of the Artifact: Blog hosted by Gorges on a course-specific website on the Wordpress.com platform. As of 9/18/2017 only some student work is publicly viewable (several students have deleted their blogs).
@@ -92,7 +92,7 @@ for adjusting grading of the overall blogging assignment if a student does so. O
 While this assignment from 2009 is old by digital pedagogy standards, Gorges's use of the hub-and-spoke blogging structure offers an interesting approach to public writing. The mechanisms (prompt, commentary, and links to student posts) are still available, inline with other course assignments on the course site. Post and comment submission deadlines are staggered, giving students time to comment upon one another's work. Gorges reads a selection of posts twice weekly, and aggregates several posts into the course site (the twice weekly "In the blogs" posts), which he notes results in better reading and commenting on specific posts. It is unclear whether Gorges manages grading this way, or just models good posting. This is an ambitious assignment, and Gorges acknowledges that it is not for the faint of heart (Gorges 2009). 
 
 #### Title of Artifact: "Shakespeare's (English) Histories”
-![screenshot](http://images/blogging-Jakacki2-description.png)
+![screenshot](images/blogging-Jakacki2-description.png)
 * Artifact Type: Assignment and rubric
 * Source URL: [http://blogs.iac.gatech.edu/henriad/short-research-project/](http://blogs.iac.gatech.edu/henriad/short-research-project/)
 * Copy of the Artifact: Course site hosted by the University in the Wordpress platform. As of 9/18/2017 the course site with assignment descriptions is publicly viewable; student work is private.
@@ -101,7 +101,7 @@ While this assignment from 2009 is old by digital pedagogy standards, Gorges's u
 This is one of two blog assignments in the course and is related to a research project. It involves two written augmentations to the formal in-class presentation: 1) a published abstract for each student project, including scholarly sources and media to be used in presentation; 2) a platform for peer feedback. The draft abstract was reviewed by me and Georgia Tech subject librarian Sherri Brown for revision. At the end of each student's presentation all students employed the comment feature on the presenter's abstract to give immediate feedback. The abstract was marked in draft and revised phases; all students received a completion mark for each comment, and peer feedback was incorporated into the presenter's grade. This assignment uses the blog to bridge the gap between in-class and written work, and reinforces the importance of constructive peer review.
 
 #### "Media, Materiality, and Archives" 
-![screenshot](http://images/blogging-Klein-syllabus.png)
+![screenshot](images/blogging-Klein-syllabus.png)
 * Artifact Type: Syllabus
 * Source URL: [http://blogs.iac.gatech.edu/archives16/syllabus/](http://blogs.iac.gatech.edu/archives16/syllabus/)
 * Copy of the Artifact: Course site hosted by the University in the Wordpress platform. As fo 9/18/2017 student work is visible. 
@@ -127,7 +127,7 @@ Little's prompts are exceptionally clear and comprehensive, explaining why as we
 This assignment would be a strong component of a course on life-writing or professional communication.
 
 #### "Selfies, Snapchat, & Cyberbullies: Coming of Age Online" 
-![screenshot](http://images/blogging-Posner-overview.png)
+![screenshot](images/blogging-Posner-overview.png)
 * Artifact Type: Assignment
 * Source URL: [http://miriamposner.com/dh150w15/assignments/weekly-blog-posts/](http://miriamposner.com/dh150w15/assignments/weekly-blog-posts/)
 * Copy of Artifact: Blog hosted on Posner's website on the Wordpress platform. As of 9/18/2017 student work is publicly viewable.
@@ -136,7 +136,7 @@ This assignment would be a strong component of a course on life-writing or profe
 In this clear, straightforward weekly assignment students submit a 300-400 word blog post that brings course readings in line with media that students encounter in daily life. Posts are submitted early in the week in advance of class; Posner instructs students to include some form of media or link that refers to the media item the writer describes, with an explanation of how their experience with the thing relates to the reading. Students post two substantial comments on classmates' work. The rubric is simple but evaluation is intentionally vague: Posner explains what she expects with a link to examples of other students' posts from a previous course. The assignment is tied to her Contract Grading system. Posts apparently are marked as complete. This assignment would be easy to adapt to many courses, and the focus on student self-evaluation addresses concerns about granular feedback of many blog assignments.
 
 #### "Tools, Techniques & Culture" 
-![screenshot](http://images/blogging-Sayers-description.png)
+![screenshot](images/blogging-Sayers-description.png)
 * Artifact type: Assignment
 * Source URL: [http://jenteryteaches.com/2011/150/assignments/](http://jenteryteaches.com/2011/150/assignments/)
 * Copy of Artifact: Blog hosted by Sayers on a Wordpress platform (unclear if this is hosted on the university's server). As of 9/17/2017 student work is password-protected.
@@ -147,7 +147,7 @@ This assignment is included specifically because it keeps student work public an
 Entries and commentaries comprise a significant (30%) portion of the student grade, with three grades given over the course of the term: Sayers explains that each grade consists of a minimum of two blog entries and a comment.
 
 #### "Virtually London: Literature and Laptops" 
-![screenshot](http://images/blogging-Swafford-rubric.png)
+![screenshot](images/blogging-Swafford-rubric.png)
 * Artifact Type: Rubric
 * Source URL: [https://hawksites.newpaltz.edu/virtuallylondon/grading-rubric/](https://hawksites.newpaltz.edu/virtuallylondon/grading-rubric/)
 * Copy of Artifact: Blog hosted by the University in the Wordpress platform. As of 9/18/2017 student work is publicly viewable.
