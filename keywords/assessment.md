@@ -55,7 +55,7 @@ Assessment Design: the relationship between all the learning in a course. Intent
 ## CURATED ARTIFACTS 
 
 ### Syllabus: Typography One: Type as Image
-![screenshot]
+![screenshot](images/assessment-typography.jpg)
 
 * Artifact Type: Syllabus
 * Source: [http://www.cmu.edu/teaching/designteach/design/syllabus/samples-creative/TypographySyllabus.pdf](http://www.cmu.edu/teaching/designteach/design/syllabus/samples-creative/TypographySyllabus.pdf)
@@ -69,7 +69,7 @@ This syllabus serves as an introduction to both the work of the course and its p
 
 
 ### Syllabus: American Carnival
-![screenshot]
+![screenshot](images/assessment-american-carnival.png)
 
 * Artifact Type: Syllabus
 * Source: (http://www.tonahangen.com/wp-content/uploads/2010/06/193.Fall14.pdf)
@@ -82,7 +82,7 @@ Practices: Design, Communication, Integration
 Tona Hangen's "[Writing Syllabi Worth Reading](http://www.tonahangen.com/courses/syllabusdesign/)" challenges the notion of traditional syllabi by suggesting that in giving her syllabi "extreme makeovers" she discovered she "also framed the class to give students more responsibility for the learning, including punching some holes in the semester to be filled with student-chosen content later. It was a course redesign on many levels, and the eye-catching syllabus that resulted was the culmination of a deeper rethinking of what I was teaching and what I wanted my students to learn" (n. pag.). This first year seminar syllabus on the American Carnival incorporates student learning outcomes shared by all first year seminars at Worcester State University and Hangen's commentary on those outcomes. As with the previous syllabus, work, expectations, and criteria for the course are fully articulated here providing groundwork for meaningful assessments later in the course. This syllabus also demonstrates Angelo’s concept of assessment as a process throughout the course of the semester with clearly staged, transparent, and increasingly complex expectations.
 
 ### Evaluating Digital Humanities Projects: Collaborative Course Assessment
-![screenshot](images/assessmentGould.png)
+![screenshot](images/assessment-DH-Evaluation.png)
 
 * Artifact Type: Assignment
 * Source: [http://sites.duke.edu/lit80s_01_f2014/evaluating-digital-humanities-projects-collaborative-course-assessment/](http://sites.duke.edu/lit80s_01_f2014/evaluating-digital-humanities-projects-collaborative-course-assessment/)
@@ -95,6 +95,7 @@ Practices: Communication, Professional Development, Technology
 This assignment includes multiple measures, collaboration, integration of concepts outside of the classroom, and modeling professional expectations. Students evaluate digital humanities projects and use digital markup tools to learn how to collaboratively evaluate and respond to digital work. This is an example of learning by doing: the form and content of the assignment and the assessment work together seamlessly. Students are assessed on how they mark up the digital work, how they work in a group collaboratively, and how they respond to digital work.  The task models how they will be evaluated, and it is a precursor to how students will work and engage on a professional level using technology after this course. The assessment design mimics professional work life, allowing students to perform and be evaluated in a more realistic context with professional stakes. 
 
 ### #arthistory: Instagram and the Intro to Art History Course
+![screenshot](images/assessment-art-history.png)
 
 * Artifact Type: Assignment
 * Source: [http://arthistoryteachingresources.org/2014/06/arthistory-instagram-and-the-intro-to-art-history-course/](http://arthistoryteachingresources.org/2014/06/arthistory-instagram-and-the-intro-to-art-history-course/) 
@@ -107,7 +108,7 @@ Practices: Process, Communication, Integration, Technology
 Students curate a series of images on Instagram and connect them to key course concepts. Then, they write a short comparative paper based on the class Instagram images. These short papers culminate in a final paper. Scott says, “By requiring students to build on their instagram posts through written analyses, Parts 2 and 3 of the assignment reinforce the connections made in Part 1 and further encourage original analysis (as well as discourage plagiarism.) They also strengthen visual and contextual analytic skills while directly demonstrating how these skills apply to the contemporary environment” (n. pag.). This assignment demonstrates scaffolding as low-stakes assignments lead to a high-stakes assignment. The faculty member has the opportunity to assess student learning periodically prior to the final high stakes assignment, allowing for faculty feedback and guidance in the process. The assignment also integrates a variety of skills. 
 
 ### Mentira
-![screenshot](images/assessmentLaMentira.jpg)
+![screenshot](images/assessment-mentira.jpg)
 
 * Artifact Type: Assignment
 * Source: [http://www.mentira.org/](http://www.mentira.org)
@@ -120,7 +121,7 @@ Practices: Process, Participation, Inquiry, Integration, Technology
 While games cannot replace the experience of travel in a foreign country, they can provide students with an immersive environment that offers a vehicle for practicing language acquisition skills, history, and culture in an interactive digital environment. The creators of La Mentira explain, "The backbone of this project is a focus on a natural context, outside the classroom, for the study of Spanish, and the development of materials for use in that context. We chose the Los Griegos neighborhood in Albuquerque/Los Ranchos for its connection to the Spanish language, documented history, diverse use and architecture, and walkability" (n. pag.). Students are assessed on their language skills as they navigate the challenges presented by the game in a real life context. As a low-stakes assessment, like most games, students have the opportunity practice and improve by repeating episodes in the game. Carefully implemented game design allows students to practice and demonstrate increasingly complicate skills sets that build on prior knowledge. Designed specifically for a Spanish-language course, Mentira demonstrates how faculty might consider game design and how a game can become an assessment of key goals and outcomes in a course replacing traditional assessments such as a quiz or oral exam.  
 
 ### Structuring Reflection
-![screenshot](images/assessmentLuther.png)
+![screenshot](images/assessment-structuring-reflection.png)
 
 * Artifact Type: Assignment
 * Source: [https://www.hastac.org/blogs/taxomania/2014/01/28/02-using-zines-classroom](https://www.hastac.org/blogs/taxomania/2014/01/28/02-using-zines-classroom)
@@ -133,7 +134,7 @@ Practices: Communication, Process, Participation, Inquiry
 Staging meaningful reflection can be difficult. Luther’s course relied on the use of student grading contracts for summative assessment. At the end of the course, students returned to those contracts, along with a set of prompts provided by the instructor. Students answered questions such as: "What goals did you have for this zine and did you meet them?" and "What was your vision and how was it compromised by these tool and technologies?" (n. pag.). These reflective questions engage students in a conversation about their own expectations and the results they achieved with their zines in a helpful analysis of the end product. Luther's assignment demonstrates the intentional use of guided questions to prompt self-assessment. This is a particularly useful strategy when students engage with new media technology; helping them to articulate what they have learned and what skills and knowledge they have integrated into their project. 
 
 ### Reflection from Emblematica Online
-![screenshot](images/assessmentHeim.png)
+![screenshot](images/assessment-emblematica.png)
 
 * Artifact Type: Student Work
 * Source: [https://emblematicaonlineuiuc.wordpress.com/heidi-heim/](https://emblematicaonlineuiuc.wordpress.com/heidi-heim/)
@@ -146,6 +147,7 @@ Practices: Participation, Inquiry and Professional Development
 Heim participated  in an undergraduate digital humanities research team that created metadata for Renaissance Emblem books. Heim's personal narrative provides a self-assessment of key skills and concepts learned in the context of this collaborative research project. Reflection is a key element in participatory assessment. Students are able to articulate their understanding of a project, course, or learning objective and then provide evidence for how they have achieved those goals. Heim discusses the skills she has learned and how she has showcased them in this project, and she also points to future skills that she now knows she needs to learn. Further, this project is a prime example of modeling professional expectations for students as Heim and her Emblem Scholars cohort worked alongside faculty as participatory researchers.  
 
 ### Are We Who We Think We Are
+![screenshot](images/assessment-are-we-who-we-think-we-are.png)
 
 * Artifact Type: Student Work and Assessment Narrative
 * Source: [http://neu.mcnrc.org/oa-story/](http://neu.mcnrc.org/oa-story/)
@@ -158,6 +160,7 @@ Practices: Professional Development, Integration, Technology
 “Are We Who We Think We Are” is an assessment narrative about Northeastern University’s use of ePortfolios as a formative assessment tool. Matthews-Denatale explains the systematic review of portfolios in the Master of Education program that led to curriculum redesign. Student examples are also available as a link on the site. This assessment narrative is part of the larger Catalyst for Learning site. The result of a three-year research project, key campuses using ePortfolios studied their own practices and documented them on the site. The student work, coupled with the metacognitive aspects of reflection, provide a powerful multimodal transcript of student development, integration, and learning across the curriculum. 
 
 ### Between Modes: Assessing Students' New Media Compositions
+![screenshot](images/assessment-beyond-modes.png)
 
 * Artifact Type: Assignment Assessment
 * Source: http://technorhetoric.net/10.2/coverweb/sorapure/betweenmodes.html
@@ -170,6 +173,7 @@ Practices: Professional Development, Integration, Technology
 This multimodal article examines the disconnect between new media assignments and traditional forms of assessment. Sorapure writes, "Examining how student work in new media is currently assessed, it is clear that we are at a transitional stage in the process of incorporating new media into our composition courses. As [Kathleen Blake] Yancey notes, we give multimodal assignments but often draw on what we are far more familiar with--that is, print--to assess student work" (n. pag.). This helpful discussion pushes readers to consider how to design meaningful assessments that align with the course goals and content. 
 
 ### Big Data, Learning Analytics, and Social Assessment
+![screenshot](images/assessment-big-data.png)
 
 * Artifact Type: Assignment Assessment
 * Source: http://journalofwritingassessment.org/article.php?article=68
