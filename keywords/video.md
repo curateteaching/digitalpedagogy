@@ -49,7 +49,7 @@ Given these familiar and experimental possibilities combined with the increasing
 ## CURATED ARTIFACTS
 
 ### "Disputing YouTube Content ID Takedowns"
-Screenshot: ![screenshot](images/video-archive-DWRL.jpg)
+Screenshot: ![screenshot](images/video-disputing-youtube-takedowns.png)
 
 * Artifact Type: lesson plans
 * Source URL: <https://lessonplans.dwrl.utexas.edu/content/disputing-youtube-content-id-takedowns>
@@ -60,7 +60,7 @@ Screenshot: ![screenshot](images/video-archive-DWRL.jpg)
 This assignment from UT-Austin’s [Digital Writing and Research Lab](http://lessonplans.dwrl.utexas.edu/pedagogical-goals-digital-literacy/video) (DWRL) guides students as they explore intellectual property concerns related to digital video. The assignment provides clearly articulated pedagogical goals, technological requirements, suggestions for evaluation, and “timeline[s] for optimal use” within a curriculum. The DWRL’s Lesson Plan archive contains a wealth of additional starting point lessons related to many other themes relevant to the reception and making of video and moving images. Lessons such as these helpt to articulate the goals and technologies for video projects within the context of more recent phenomena in video-making and culture.
 
 ### "Re-presentation: Kate Chopin's The Story of an Hour"
-Screenshot: ![screenshot](images/video-JUMPArticle.png)
+Screenshot: ![screenshot](images/video-representing-kate-chopin.png)
 
 * Artifact Type: student work
 * Source URL: <https://jumpplus.net/re-presentation-kate-chopins-the-story-of-an-hour/>
@@ -71,7 +71,7 @@ Screenshot: ![screenshot](images/video-JUMPArticle.png)
 Megan Cross’s “Re-Presentation: Kate Chopin’s The Story of an Hour” creates a video made with PowerPoint. It reminds us that when we talk about video, we are not simply talking about iMovie or cameras. Many contemporary compositional tools can be appropriated for working with the moving image. Geared toward student multimedia, [*The Jump*](https://jumpplus.net) is a great resource for instructors interested in helping undergraduates publish video-based research. Each project is accompanied by an author’s statement that includes reflections on the composing process. Publications also include pedagogical materials that support the student projects: assignments, information about the course, *etc*. And each project is accompanied by an instructor reflection, offering more details about the pedagogical dimensions of the projects. This resource might provide an authentic publishing venue for video projects. It also provides a wealth of student examples and sample instructional materials.
 
 ### "Animating Imaginary Worlds: A Digital-Meets-Handmade Animation Workshop Kit"
-Screenshot: ![screenshot](images/video-AnimatingImaginaryWorlds.jpg)
+Screenshot: ![screenshot](images/video-animating-imaginary-worlds.png)
 
 * Artifact Type: lesson plans
 * Source URL: <http://hyperrhiz.io/hyperrhiz13/workshops-kits/imaginary-worlds.html>
@@ -82,7 +82,7 @@ Screenshot: ![screenshot](images/video-AnimatingImaginaryWorlds.jpg)
 Assembled by Lynn Tomlinson and Diane Kuthy, “Animating Imaginary Worlds” offers students and teachers at multiple instructional levels a how-to for producing animated videos using cut-out, handmade materials.  Recontextualization operates at the core of this resource. The use of readily available video making technologies via mobile devices helps recontextualize smart phones and apps as means of knowledge production rather than simply consumption. Of particular interest is the “digital-meets-handmade” nature of the project. The use of lo-fi materials like paper, scissors, and paint recontextualizes animation as a rhetorically flexible art not restricted by access to expensive software or knowing how to write code. The ability for students to work with this historically important genre of moving image is of real value here. The kit includes guides for making hand-cut animations, a tutorial for the stop motion app OSnap!, a contextualizing essay, and samples of student work.
 
 ### "DV Lab: Lectures and Lab Videos"
-Screenshot: ![screenshot](images/video-MITdvlab.jpg)
+Screenshot: ![screenshot](images/video-lecture-and-lab-videos.png)
 
 * Artifact Type: learning objective
 * Source URL: <https://ocw.mit.edu/courses/anthropology/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/lecture-and-lab-videos/>
@@ -93,7 +93,7 @@ Screenshot: ![screenshot](images/video-MITdvlab.jpg)
 These lecture and lab videos provide ample introduction for the instructor to the kinds of issues that arise when having students do documentary and video work. Video lectures cover topics such as “Documentary and Ways of Seeing,” while lab videos address topics such as “Introduction to the Camera” and “Interviewing Techniques.” The  videos are part of the site, [“DV Lab: Documenting Science through Video and New Media,”](http://ocw.mit.edu/courses/anthropology/21a-550j-dv-lab-documenting-science-through-video-and-new-media-fall-2012/index.htm) which explores the intersections of science and technology studies and documentary film practice. The site also includes materials that deal with the ethics and legality of documentary film work, including items on “best practices in fair use” and a piece titled, “The Photographer’s Right.” The site is of particular interest to those thinking about video pedagogy in terms of interdisciplinarity.
 
 ### "Ilit: Reflecting on Learning Videos"
-Screenshot: ![screenshot](images/video-ILIT.png)
+Screenshot: ![screenshot](images/video-reflecting-on-learning-videos.png)
 
 * Artifact Type: student work
 * Source URL: <http://ilit.altscholarship.com/reflecting-learning>
@@ -104,7 +104,7 @@ Screenshot: ![screenshot](images/video-ILIT.png)
 In these videos, students use screen capture technologies to reflect on their projects and composing processes. The resources are part of [Ilit](http://ilit.altscholarship.com), a site that collects the projects of students in an Introduction to Literary Studies course. As a means of learning about poetry, students developed multiple versions of electronic poems in video format. The site includes readings that scaffold the work and a number of assignments. Also of interest are the many reflections on the use of readymade materials in the video poems, a strategy that greatly reduces the production challenges of video-based assignments. And key among these portfolio videos are pieces reflecting on aspects of learning, creating meta commentary on the processes and payoffs of video pedagogy. (More of these kinds of video reflections are captured in the essay, “This is What We Did in Our Class,” listed in the additional resource section below.)
 
 ### "Filmic Texts and the Rise of the Fifth Estate"
-Screenshot: ![screenshot](images/video-FILMICTEXTS.jpg)
+Screenshot: ![screenshot](images/video-filmic-texts.png)
 
 * Artifact Type: course sites
 * Source URL: <http://scalar.usc.edu/anvc/kuhn/index>
@@ -115,7 +115,7 @@ Screenshot: ![screenshot](images/video-FILMICTEXTS.jpg)
 This site captures and reports on the work of a class: IML 340, "The Praxis of New Media." The focus is on the intellectual components of digital video, especially the argumentative and rhetorical affordances of video modes and their connections to digital literacy. Particularly valuable within the Digital Pedagogy thread is Kuhn’s discussion of digital argument, which she defines as argument “that is born-digital and uses the various affordances of emergent technologies intentionally.” Additionally, Kuhn challenges the notion that audio-visual media are too ephemeral for sustained analysis, arguing that digitization allows for the "patience that books possess." The site provides a valuable resource for reflecting on the intellectual benefits and challenges of doing work with video. Finally, Kuhn’s use of the Scalar platform for publication of the work invites speculation towards the role that such platforms might play in video work, in terms of both delivery and analysis.
 
 ### "Loop Assignment"
-Screenshot: ![screenshot](images/video-PROCTOR.jpg)
+Screenshot: ![screenshot](images/video-loop-assignment.png)
 
 * Artifact Type: assignments
 * Source URL: <http://files.cargocollective.com/18691/Project1-Loop.pdf>
@@ -126,7 +126,7 @@ Screenshot: ![screenshot](images/video-PROCTOR.jpg)
 This “Loop Assignment” uses GIFs and Vines to create non-traditional forms of moving images. These kinds of assignments complicate traditional notions of videography. When students begin working with these alternative approaches, the agencies of an application like Instagram or the smartphone come as much to the fore as the rhetorical agency of the video-maker. This can help students to see video-making not only as a tool to be harnessed in the service of familiar rhetorical goals but also as an emergent mode that represents the shifting actors and agencies at work in digital composing spaces. [Proctor’s “Teaching Resources” page](http://cargo.jenniferproctor.com/Teaching-Resources) offers a range of materials, including assignments that move from traditional audio-visual work to more contemporary genres (such as vlogs and mash-ups) to emerging web-based video applications. Proctor’s pedagogy looks ahead to web-based, networked video-making. 
 
 ### "Post-Industrial Video Pedagogy"
-Screenshot: ![screenshot](images/video-PIV.jpg)
+Screenshot: ![screenshot](images/video-post-industrial-video-pedagogy.png)
 
 * Artifact Type: teaching guidelines
 * Source URL: <http://vogmae.net.au/piv/pedagogy>
@@ -137,7 +137,7 @@ Screenshot: ![screenshot](images/video-PIV.jpg)
 Adrian Miles presents here his teaching philosophy for post-industrial video. Miles seeks to create a space “where video is no longer looking backwards to its industrial restrictions of limited access and linear, single broadcast.” This approach foregrounds what it means to make video within the material constraints and affordances of digital networks. The answer to this question is, of course, complex, but the archive of student projects collected here begins to generate some paths for possible answers. The philosophy is part of a larger curriculum for [“post-industrial video.”](http://vogmae.net.au/piv/) For Miles, post-industrial video designates a shift from hardcopy paradigms of media production to what he terms softcopy forms, or those enabled by the development of digital networks. The curriculum features pedagogical experiment(s) with the interactive video system, Korsakow. 
 
 ### "Iterative Progress"
-Screenshot: ![screenshot](images/video-NEWGENRES.jpg)
+Screenshot: ![screenshot](images/video-iterative-progress.png)
 
 * Artifact Type: course sites
 * Source URL: <http://fall2014beginningnewgenres.tumblr.com/>
@@ -148,7 +148,7 @@ Screenshot: ![screenshot](images/video-NEWGENRES.jpg)
 This course site and the pedagogy it represents fall squarely on the post-industrial side of the digital video continuum. Assignments range from glitching images to creating processing-based animations to remix video responses. The materials provide an invitation to experiment with the dynamics of signal and noise, using videos to explore the role of machinic processing and social media in composing. Of particular interest is the way Lincoln’s pedagogy enacts a video paradigm built around the shifting relationships between humans and technology. While instructors might cull assignments or examples from the Tumblr stream, the site (and Lincoln’s [Notational Tumblr](http://notational.tumblr.com) might best be used as illustrative examples/enactments of how video pedagogy can help students and instructors participate in ever-expanding networks of media, devices, machines, and humans.
 
 ### "Introduction to Humanities Physical Computing w/Arduino and Processing"
-Screenshot: ![screenshot](images/video-RIEDER.jpg)
+Screenshot: ![screenshot](images/video-introduction-to-humanities-physical.png)
 
 * Artifact Type: syllabi
 * Source URL: <http://siteslab.org/resources/RIEDER_ENG583-798_FALL2011.pdf>
