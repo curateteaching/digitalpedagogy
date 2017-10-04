@@ -64,7 +64,7 @@ The figure of the primary text rightfully dominates much of literary and cultura
 
 #### "#Syllabus Assignment for _Blackness in the Post-Civil Rights Era_” 
 
-![screenshot](images/Pearlman_Hashtag-Syllabus.PNG)
+![screenshot](images/hashtag-pearlman-syllabus.PNG)
 
 * Artifact Type: research assignment
 * Source URL: https://github.com/mp285/MLA-hashtag/blob/master/Pearlman_Hashtag-Syllabus.pdf
