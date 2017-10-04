@@ -87,7 +87,7 @@ The #LemonadeSyllabus is a bit different from the other hashtag syllabi in how i
 
 #### “Fake News Assignment” 
 
-![screenshot](images/hashtag-kulak-slides.PNG)
+![screenshot](images/hashtag-kulak-slides.png)
 
 * Artifact Type: class assignment
 * Source URL: [https://github.com/mp285/MLA-hashtag/blob/master/hashtag-kulak-plan.pdf](https://github.com/mp285/MLA-hashtag/blob/master/hashtag-kulak-plan.pdf)
