@@ -141,7 +141,7 @@ The Digital Atlas of Egyptian Archaeology (DAEA) as a work of collaborative scho
 Marking up text with machine-readable semantic encoding has many pedagogical benefits, forcing close attention to a historical text. Beals' exercise provides a clear example of how one could incorporate TEI (the Text Encoding Initiative) standards for the semantic markup of primary sources found online. In its clarity of exposition, and in its arrangement of materials and organization, it is a useful model for the new practitioner of digital history pedagogies to emulate. Beyond the narrow concerns of TEI, this exercise demonstrates how exposing our research and teaching materials to the world (in this case, via a repository on Github) builds teaching capacity for the rest of us. A useful exercise for students can be to try to _improve_ the exercise by expanding on the parts that tripped them up.
 
 #### Tiny Flashing Thumbs: How to bot your way to fake news success
-![screenshot](images/)
+![screenshot](images/history-tiny-flashing-thumbs.png)
 + Artifact Type: tutorial
 + Source URL: [https://medium.com/the-fake-news-reader/tiny-flashing-thumbs-how-to-bot-your-way-to-fake-news-success-f834bf44c4b4](https://medium.com/the-fake-news-reader/tiny-flashing-thumbs-how-to-bot-your-way-to-fake-news-success-f834bf44c4b4)
 + Artifact Permissions: CC-BY
