@@ -51,7 +51,7 @@ The artifacts presented here offer a breadth of approaches to blogging as experi
 ## CURATED ARTIFACTS
 
 #### "Social Media and Digital Collaborative Applications: Microblogging"
-![screenshot]
+![screenshot](images/blogging-MicroBloggingArtifact.png)
 * Artifact Type: Syllabus
 * Source URL: [https://learntech.gmu.edu/assets/docs/syllabi/2017/syllabus_28003.pdf](https://learntech.gmu.edu/assets/docs/syllabi/2017/syllabus_28003.pdf)
 * Copy of Artifact: Syllabus is in PDF format hosted on GMU website. As of 9/18/2017 the syllabus is accessible and downloadable.
@@ -112,7 +112,7 @@ Klein's assignment demonstrates how blogs can form complex collaborative writing
 Students are broken into four groups; each group has a different task each week of a cycle: they serve as First Readers, Respondents, or Searchers (the fourth group gets a week off). Klein outlines what these tasks consist of, and how each student's work will be assessed per cycle (there are two cycles of 12 possible points each). In reading student work, it appears that blog writing is rooted in weekly readings(11), however the prompts are available only via Georgia Tech's LMS and so not available for review. This is a complex assignment, one better suited for an instructor who has experience assigning collaborative online writing. Commitment to explaining different tasks would be crucial for student success for an assignment worth 24% of the course grade.
 
 #### "The Art of Blogging"
-![screenshot]
+![screenshot](images/blogging-ArtofBloggingHeader.png)
 * Artifact type: Assignment
 * Source URL: [https://my.vanderbilt.edu/artofblogging/cv/]
 * Copy of Artifact: Website hosted on Vanderbilt WordPress platform. As of  9/18/2017 the assignment is accessible.
