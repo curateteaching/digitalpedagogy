@@ -31,7 +31,7 @@ Whittier College | [anitaconchita.org](http://anitaconchita.org)
 
 ## CURATORIAL STATEMENT 
 
-The Oxford English Dictionary defines gender as “kind, sort,” and “sex, quality of being male or female.” The term is commonly used to categorize and differentiate along binary lines: that which is male from that which is other (“Gender”). More than just a marker of essentialist difference, however, gender is a significant factor for developing affinity, forming alliances, and building community. It also marks bodies as targets of violence, whether female-presenting avatars in online spaces, or non-binary queer and trans bodies in physical spaces. 
+The term "gender" is commonly used to categorize and differentiate along binary lines: that which is male from that which is other. The Oxford English Dictionary defines it as “kind, sort,” and “sex, quality of being male or female” (“Gender”). More than just a marker of essentialist difference, however, gender is a significant factor for developing affinity, forming alliances, and building community. It also marks bodies as targets of violence, whether female-presenting avatars in online spaces, or non-binary queer and trans bodies in physical spaces. 
 
 “Gender,” as it is used in gender and sexuality studies, comes from the mid 20th-century work of psychologist John Money, who theorized gender as social and enacted sex roles, as opposed to biological sex roles assigned at birth. Money’s use of the term emphasizes difference, but recognizes the constructed and reinforced nature of that difference. Since then, this conception of gender has been developed, problematized, critiqued, and developed to move beyond gender binaries and include discussions of power (Ahmed, Davis), norms (Irigiray, Kristeva), queerness (Wittig, Halberstam, Edelman), performativity (Butler), racialization (Crenshaw, Anzaldua, Spillers, Mercer), labor (Boris, Parreñas, Nakamura, Haraway), and capital (Braidotti, Hennessy). Considering this breadth of scholarship, and the massive body of work associated with it, this keyword will not attempt to offer an exhaustive overview of digital pedagogy as it can be used to teach gender studies. Rather, this curatorial statement endeavors to point out major concerns for teaching about gender in the contemporary networked context, while the curated artifacts offer sample activities and methods to incorporate feminist praxis and gender critique into humanities courses. 
 
@@ -47,7 +47,7 @@ With this wide-ranging capacity in mind, the artifacts brought together here off
 
 #### "Decolonizing Late Victorian Biopolitics"
 ![screenshot](screenshot-gender-decolonizing-biopolitics-assignment.png)
-* Artifact Type: Assignment / Decolonizing the Archive
+* Artifact Type: Assignment 
 * Source URL: [http://limitsoflife.spokorn.com/blog/uncategorized/decolonizinglatevictorianbiopoliticsassignment/](http://limitsoflife.spokorn.com/blog/uncategorized/decolonizinglatevictorianbiopoliticsassignment/)
 * Artifact Permissions: CC BY 4.0
 * Creator and Affiliation: Steven Pokornowski (Rio Hondo College)
@@ -55,8 +55,8 @@ With this wide-ranging capacity in mind, the artifacts brought together here off
 [Digitizing Chinese Englishmen](http://chineseenglishmen.adelinekoh.org/) is an early-stage digital archive project by Adeline Koh (Stockton University), which digitizes the Straits Chinese Magazine, a journal published by diasporic Chinese in Southeast Asia at the turn of the 20th century. Steven Pokornowski here offers an example of how teachers can use this repository of primary texts to teach about gender, race, colonial politics, and biopolitics in the late Victorian Era. Juxtaposing the archive alongside the canonical text, *Dracula*, he provides context and theoretical framing to situate the novels as it relates to colonialism, imperialism, and race, as the “Victorian Chinesemen” at the heart of the publication present a complex portrait of precarious power in Imperial Britain. This  exercise builds on skills students are already learning in their class, but it broadens the canon and thus allows students to interrogate the production of gender and race within the British Empire. 
 
 #### “Gender Bias Exercise”
-![screenshot](screenshot-gender-gender bias-exercise.png)
-* Artifact Type: In-class Exercise
+![screenshot](screenshot-gender-gender-bias-activity.png)
+* Artifact Type: In-class Activity
 * Source URL: [http://kimknight.com/?p=2385](http://kimknight.com/?p=2385)
 * Artifact Permissions: Copyright kimknight.com 
 * Creator and Affiliation: Kim Knight (UT Dallas)
@@ -67,6 +67,7 @@ One difficulty of gender studies classes is in rendering visible the invisibilit
 ![screenshot](screenshot-gender-FTNMap-activity.png)
 * Artifact Type: In-class Activity
 * Source URL: [http://femtechnet.org/docc/feminist-mapping/situated-knowledge-map/](http://femtechnet.org/docc/feminist-mapping/situated-knowledge-map/)
+* Artifact Permissions: CC BY-NC 4.0
 * Creator and Affiliation: TL Cowan (University of Toronto), K. Surkan (MIT), and Laura Wexler (Yale)
 
 According to FemTechNet the "Situated Knowledges Map is an experiment in thinking about the relationship between space, place, mobility and knowledge production and circulation. By marking locations of significance to ourselves, we hope to get a sense of where we are coming from across the FemTechNet world." The assignment page includes a bibliography and uses Google Maps Engine to create a collaborative map where students drop annotated pins with reflections about the place with particular emphasis to how the place helped the individual come to understand keywords such as "power, class, gender, sex, assigned sex, race" or "migrant knowledges". The mapping activity hacks a commercial mapping platform for transformative and collective knowledge production works to link learning that is occurring in geographically disparate locations, while the collective mapping encourages participants to engage with the situated of knowledge of others. 
@@ -74,15 +75,14 @@ According to FemTechNet the "Situated Knowledges Map is an experiment in thinkin
 
 ### Modules
 
-### "Biography/Digital Curation Assignment"
+#### "Biography/Digital Curation Assignment"
 ![screenshot](screenshot-gender-biocuration-assignment.png)
-* Artifact Type: digital archive curation assignment
-* Artifact: [Biography/Digital Curation Assignment Prompt](gender-BiographyDigitalCurationAssignment.pdf)
+* Artifact Type: Assignment 
 * Source URL: [http://chicanapormiraza.org/mujeres](http://chicanapormiraza.org/mujeres)
 * Artifact Permissions: Copyright María Cotera used with permission
 * Creator and Affiliation: María Cotera, University of Michigan
 
-A major hurdle for digital humanities projects, especially those documenting marginal communities and using feminist and community-centered practices, is sustainability. María Cotera, the director of the Chicana Por Mi Raza digital archive of Chicana feminism, tackles this problem by incorporating the archive into her class in the form of a Biography and Digital Curation Assignment. In the "Biocuration" assignment, Cotera asks students to engage directly with the archive and create new content for the collection. As part of the project, students conduct original research, listen to oral histories, collect data, and write biographical and historical content that eventually populates the archive. Students therefore become important contributors to a public digital history project and produce public scholarship accessible to larger communities and publics.
+A major hurdle for digital humanities projects, especially those documenting marginal communities and using feminist and community-centered practices, is sustainability. María Cotera, the director of the Chicana Por Mi Raza digital archive of Chicana feminism, tackles this problem by incorporating the archive into her class in the form of a Biography and Digital Curation Assignment. In the "Biocuration" assignment, Cotera asks students to engage directly with the archive and create new content based on its collections. As part of the project, students conduct research in the closed archive and then create biographical and historical content for a website that publically represents the archive. According to Cotera, the public site therefore acts as a "staging zone for knowledge produced using materials from the archive." Students therefore become important contributors to a public digital history project and produce public scholarship accessible to larger communities and publics.
 
 #### “Hack Your Digital Sphere"
 ![screenshot](screenshot-gender-hack-digital-sphere-project.png)
@@ -94,22 +94,17 @@ A major hurdle for digital humanities projects, especially those documenting mar
 For individuals already immersed in digital life, it can be very difficult to objectively evaluate their social networks, let alone the role gender plays in that social network. In the "Social Media and Social Justice" unit of her Gender, Race, and Labor in the Digital Worlds course, Alexis Lothian asks her students to test the limits and boundaries of their social networks, document their experiments, and reflect upon their digital activities within larger social structures. Designed as a larger research project where students must determine their research topics, questions, and methods, students were given enormous freedom to evaluate their relationship to social media. This project could be remixed to evaluate online gaming networks such as [Fat, Ugly or Slutty](http://fatuglyorslutty.com/), a blog that documents the very gender-specific harassment that women gamers tend to receive, or communities such as those cohering around Facebook groups.
 
 #### Twine Game
-![screenshot](screenshot-gender-twinegame-assignment.png)
+![screenshot](screenshot-gender-twinegame-project.png)
 * Artifact Type: Assignment 
-*Artifact: [Assignment prompt](gender-Twine-Game Prompt.pdf)
 * Source URL: [http://www.digitalrhetoriccollaborative.org/2015/05/07/women-writing-in-digital-spaces-engaging-gamergate-and-twine-in-the-gender-studies-composition-course/](http://www.digitalrhetoriccollaborative.org/2015/05/07/women-writing-in-digital-spaces-engaging-gamergate-and-twine-in-the-gender-studies-composition-course/)
 * Creator and Affiliation: Sarah Einstein (University of Tennessee at Chattanooga) and Matthew Vetter (Indiana University of Pennsylvania)
 
 This group project asks students to create a choose-your-own adventure game that engages "gender politics, identity, and narrative in the writing classroom" using [Twine](http://twinery.org/). Students propose an original game addressing a gender studies issue, perform research, then develop a game. The purpose of the assignment is to create a narrative that reveals the complexity of potential danger of gender related issues in a navigable text where players can make choices and reach different outcomes. This assignment can also be adapted to a range of gender studies topics including trans narratives, which are exemplified in the work of Merritt Kopas, who curated such a selection in ["TransWomen & the New Hypertext"](https://www.lambdaliterary.org/features/07/08/trans-women-the-new-hypertext/), or genre narratives as anna anthropy has demonstrates with her own queer horror and science fiction twine games [http://www.auntiepixelante.com/games/](http://www.auntiepixelante.com/games/).
 
-
 #### "Feminist Wiki-storming"
-![screenshot](screenshot-gender-FTNwikistorming-activity.png)
+![screenshot](screenshot-gender-FTNwikistorming-assignment.png)
 * Artifact Type: Activity
 * Source URL: [http://femtechnet.org/docc/feminist-wiki-storming/](http://femtechnet.org/docc/feminist-wiki-storming/)
-*Artifact: [Assignment prompt](gender-BiographyDigitalCurationAssignment.pdf)
-* Creator and Affiliation: Elizabeth Losh (William and Mary)
-=======
 * Artifact Permissions: CC BY-NC 2.0
 * Creator and Affiliation: Elizabeth Losh (William & Mary)
 
@@ -117,28 +112,26 @@ Feminist Wikipedians, led initially by Adrianne Wadewitz, have been organizing e
 
 ### Semester-long Feminist Pedagogical Experiments
 
-#### "FemTechNet DOCC: Dialogues on Feminism and Technology"
+#### "FemTechNet DOCC: Collaborations in Feminism and Technology"
 ![screenshot](screenshot-gender-FTNDOCC-syllabus.png)
 * Artifact Type: Syllabus
-* Source URL: [http://scalar.usc.edu/works/ftn-ethnic-studies-pedagogy-workbook-/dialogues-on-feminism-and-technology-new-school](http://scalar.usc.edu/works/ftn-ethnic-studies-pedagogy-workbook-/dialogues-on-feminism-and-technology-new-school)
-* Creator and Affiliation: Anne Balsamo (UT Dallas) and Veronica Paredes (University of Illinois Urbana-Champaign)
+* Source URL: [http://scalar.usc.edu/works/ftn-ethnic-studies-pedagogy-workbook-/networked-activities](http://scalar.usc.edu/works/ftn-ethnic-studies-pedagogy-workbook-/networked-activities)
+* Creator and Affiliation: Sharon Irish (University of Illinois Urbana-Champaign)
 
-FemTechNet describes itself as “an activated network of scholars, artists, and students working on, with, and at the borders of technology, science, and feminism in a variety of fields including Science & Technology Studies (STS), Media and Visual Studies, Art, Gender, Queer, and Ethnic Studies.” The network’s biggest accomplishment includes a Distributed Open Collaborative Course (DOCC), developed as a critique of MOOCs (Massive Open Online Course). The Balsamo and Paredes syllabus from the New School is one of the early iterations (more sample syllabi can be found in the FTN Critical Race and Ethnic Studies Pedagogy Workbook). This syllabus is an example of a nodal DOCC course and offers an example of ways to incorporate digital learning activities in a semester-long course about gender, feminism and technology. The syllabus exemplifies a connected course that uses the networks materials: video dialogues and networked learning activities including keyword videos and Wikistorming.
+FemTechNet describes itself as “an activated network of scholars, artists, and students working on, with, and at the borders of technology, science, and feminism in a variety of fields including Science & Technology Studies (STS), Media and Visual Studies, Art, Gender, Queer, and Ethnic Studies.” The network’s biggest project is its Distributed Open Collaborative Course (DOCC). Sharon Irish’s syllabus is a graduate iteration (more syllabi can be found in the [FTN Critical Race and Ethnic Studies Pedagogy Workbook](http://scalar.usc.edu/works/ftn-ethnic-studies-pedagogy-workbook-/)) taught at UIUC and exemplifies the nodal DOCC course which incorporates connected digital learning activities about gender, feminism and technology. Most importantly it models feminist flexibility and situated knowledge by linking students to another node (here, a course taught by Dr. Maria-Belén Ordóñez at OCADU), which allows geographically disparate students to interact and co-learn using the network's collaboratively created and curated materials, such as video dialogues and networked learning activities.
 
-### "Digital Storytelling Assignment"
-![screenshot](screenshot-gender-digitalstorytelling-assignment.png
-)
-* Artifact Type: Digital Storytelling Assignment
-*Artifact: [Digital Storytelling Prompt](gender-digitalstorytellingassignment.pdf)
+#### "Digital Storytelling Assignment"
+![screenshot](screenshot-gender-digitalstorytelling-assignment.png)
+* Artifact Type: Assignment
 * Source URL: [http://teaching.diglibarts.whittier.domains/wp-content/uploads/2017/09/Final-Project-Guidelines3.pdf](http://teaching.diglibarts.whittier.domains/wp-content/uploads/2017/09/Final-Project-Guidelines3.pdf)
-* Creator and Affiliation: Laura McEnaney (Whittier College), Sonia Chaidez (Whittier College), and Kathy Filatreau (Whittier College)
+* Creator and Affiliation: Laura McEnaney (Whittier College), Sonia Chaidez (Whittier College)
 
 Professor of US history, Laura McEnaney, in collaboration with Sonia Chaidez and Kathy Filatreau, adapted [StoryCenter’s](https://www.storycenter.org/) digital storytelling framework to  to develop a critical self-reflexive multimedia course assignment for a gender studies and history course on the Modern Family. This assignment asks students to connect course content (around courtship, marriage, and birthing practices) to personal experience to produce a critical video essay. An exercise in research, contextualization, feedback , and revision, this project can be adapted to produce content for archival projects, oral history projects, museum exhibits, or other community-based digital collections. Most importantly, this project is included here because of its potential value in creating a non-hierarchical and democratic feminist classroom, accomplished through feedback sessions, or story circles. 
 
 #### “Course Guide for Sociology of Gender”
 ![screenshot](screenshot-gender-sociologicalimages-resources.png)
-* Artifact Type: Web page, teaching resources, Pinterest collections
-* Source URL: [https://thesocietypages.org/socimages/for-instructors/](https://thesocietypages.org/socimages/for-instructors/)
+* Artifact Type: Teaching Guide
+* Source URL: [https://thesocietypages.org/socimages/course-guide-for-sociology-of-gender/](https://thesocietypages.org/socimages/course-guide-for-sociology-of-gender/)
 * Artifact Permissions: Attribution-NonCommercial-ShareAlike 3.0 United States
 * Creator and Affiliation: Mary Nell Trautner (University at Buffalo, SUNY)
 
