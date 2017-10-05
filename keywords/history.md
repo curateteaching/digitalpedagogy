@@ -216,7 +216,7 @@ Thomas, William G., and Patrick D. Jones. "The History Harvest" _historyharvest.
 
 Thomas, William G., Patrick D. Jones, and Andrew Witmer. "History Harvest: What Happens When Students Collect and Digitize the People's History?" _Perspectives on History_. Jan 2013. Web. [<https://www.historians.org/publications-and-directories/perspectives-on-history/january-2013/history-harvests>](https://www.historians.org/publications-and-directories/perspectives-on-history/january-2013/history-harvests).
 
-Twine. https://twinery.org/. Accessed October 5, 2017.
+Twine. [https://twinery.org/](https://twinery.org/). Accessed October 5, 2017.
 
 Watrall, Ethan, Bryan Geyer, and students enrolled in Fall 2014 ANP455: Ancient Egyptian Archaeology. "The Digital Atlas of Egyptian Archaeology" _Github_. 14 Aug. 2016. Web. [<https://github.com/msu-anthropology/daea-fs14>](https://github.com/msu-anthropology/daea-fs14).
 
