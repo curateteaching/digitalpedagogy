@@ -108,7 +108,7 @@ The [Knotted Line](http://scalar.usc.edu/anvc/the-knotted-line/external?link=htt
 + Creator and Affiliation: Jeremiah McCall, Cincinnati Country Day School
 + Tags: getting started; Twine
 
-This artifact, and its associated discussion at the history and gaming group blog [Play the Past](http://www.playthepast.org/?p=5752) provide a clear and lucid model for integrating the creation of simulations into one's creative engagement with digital pedagogy. McCall provides an example and rationale for integrating Twine as part of the historian's toolkit for crafting engaging history. A chief reason is that this engagement confronts the student with what she does not know (or cannot know) about the past from the available materials, and forces the student to grapple with the ambiguity.
+This artifact, and its associated discussion at the history and gaming group blog [Play the Past](http://www.playthepast.org/?p=5752) provide a clear and lucid model for integrating the creation of simulations into one's creative engagement with digital pedagogy. McCall provides an example and rationale for integrating Twine, "an open-source tool for telling interactive, nonlinear stories" as part of the historian's toolkit for crafting engaging history (Twine). A chief reason is that this engagement confronts the student with what she does not know (or cannot know) about the past from the available materials, and forces the student to grapple with the ambiguity.
 
 #### History Harvest
 ![screenshot](images/history-History-Harvest.png)
@@ -215,6 +215,8 @@ Sample, Mark. "Hacking Remixing Design: Course Guidelines". 2015. Web. [<https:/
 Thomas, William G., and Patrick D. Jones. "The History Harvest" _historyharvest.unl.edu_. N.d., Web. [<http://historyharvest.unl.edu>](http://historyharvest.unl.edu).
 
 Thomas, William G., Patrick D. Jones, and Andrew Witmer. "History Harvest: What Happens When Students Collect and Digitize the People's History?" _Perspectives on History_. Jan 2013. Web. [<https://www.historians.org/publications-and-directories/perspectives-on-history/january-2013/history-harvests>](https://www.historians.org/publications-and-directories/perspectives-on-history/january-2013/history-harvests).
+
+Twine. https://twinery.org/. Accessed October 5, 2017.
 
 Watrall, Ethan, Bryan Geyer, and students enrolled in Fall 2014 ANP455: Ancient Egyptian Archaeology. "The Digital Atlas of Egyptian Archaeology" _Github_. 14 Aug. 2016. Web. [<https://github.com/msu-anthropology/daea-fs14>](https://github.com/msu-anthropology/daea-fs14).
 
