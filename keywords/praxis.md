@@ -82,7 +82,7 @@ Finally, we sought "artifacts" that demonstrate symbiotic relationships among pr
 ![screenshot](images/praxis-screenshot-bibliocircuitry.png)
 
 * Source URL: <http://scholarworks.iu.edu/journals/index.php/textual/article/view/5051>
-* Copy of Artifact: [files/praxis-artifact-bibliocircuitry.pdf](files/praxis-artifact-bibliocircuitry.pdf)
+* Copy of Artifact: [files/praxis-bibliocircuitry.pdf](files/praxis-bibliocircuitry.pdf)
 * Creators: Charity Hancock, Clifford Hichar, Carlea Holl-Jensen, [Kari Kraus](http://www.karikraus.com/), Cameron Mozafari, and Kathryn Skutlin (University of Maryland)
 
 "Bibliocircuitry and the Design of the Alien Everyday" details student exploration of the concept of reflective design through projects that investigate the book as interface. This activity perfectly highlights the way that exposure to and emphasis on process leads to unforeseen insight. These student authors also emphasize that digital work requires consideration of hardware and physical/tactile design. Instructors inspired by this article might select a particular type of object and ask students to devise ways to alter or enhance users' interaction with it. Students would demonstrate learning not only through their work in designing/redesigning objects, but also through oral or written presentations of them (much as the student authors of this journal article have done).
@@ -91,7 +91,7 @@ Finally, we sought "artifacts" that demonstrate symbiotic relationships among pr
 ![screen shot](images/praxis-screenshot-feministtheoryvideo.png)
 
 * Source URL: <http://adanewmedia.org/2014/07/issue5-hurst/>
-* Copy of Artifact: [files/praxis-artifact-feministtheoryvideo.pdf](files/praxis-artifact-feministtheoryvideo.pdf)
+* Copy of Artifact: [files/praxis-feministtheoryvideo.pdf](files/praxis-feministtheoryvideo.pdf)
 * Creator: [Rachel Alpha Johnston Hurst](http://www.rachelhurst.ca/Dr._Rachel_Alpha_Johnston_Hurst/Welcome%21.html) (St. Francis Xavier University)
 
 "How to 'Do' Feminist Theory Through Digital Video" is a reflective essay detailing an undergraduate assignment (titled, "Doing Feminist Theory Through Digital Video") and the literature informing the development of the assignment. Noticing her students were struggling to connect rich theoretical discussions within the classroom to "real life," Hurst offers a pathway for specific theoretical considerations (like feminism) to shape and be shaped by the application of praxis. Hurst applies Paulo Freire's definition of praxis ("reflection and action upon the world in order to change it") with the goal of fostering sustained deep reflection, both of the theoretical foundations of her course as well as on the student's emerging scholarly voices (Freire, [1970] 2000: 51). A semester-long, service-learning project is difficult to integrate into a content-based course. Hurst's article outlines strategies for nurturing deep learning through reflection and praxis. Reflecting on her process as well as implementation, Hurst points to methods for demystifying knowledge creation through iterative, collaborative work.
@@ -108,7 +108,7 @@ Finally, we sought "artifacts" that demonstrate symbiotic relationships among pr
 ![screenshot](images/praxis-screenshot-how-did-they-make-that.png)
 
 * Source URL: <http://miriamposner.com/blog/how-did-they-make-that/>
-* Copy of Artifact: [files/praxis-artifact-how-did-the-make-that.pdf](files/praxis-artifact-how-did-the-make-that.pdf)
+* Copy of Artifact: [files/praxis-how-did-the-make-that.pdf](files/praxis-how-did-the-make-that.pdf)
 * Creator: [Miriam Posner](http://miriamposner.com/) (University of California, Los Angeles)
 
 Miriam Posner offers a modest gallery of various digital projects, virtually disassembling them according to the tools and techniques used in their production. Her goal is to show how each is made, so that others might feel empowered to build similar projects or extend the ones highlighted. The site is a helpful starting point for students beginning their own digital projects. Have students explore the site, then visit each example project, to see how the list of parts and techniques correspond to and are manifested in specific results. Get a feel for the affordances of different types of digital projects. In addition to the post, Posner also offers a [video version](http://miriamposner.com/blog/how-did-they-make-that-the-video/) of "How Did They Make That."
@@ -117,7 +117,7 @@ Miriam Posner offers a modest gallery of various digital projects, virtually dis
 ![screenshot](images/praxis-screenshot-kits-for-cultural-history.png)
 
 * Source URL: <http://maker.uvic.ca/kch/>
-* Copy of Artifact: [files/praxis-artifact-kits-for-cultural-history.pdf](files/praxis-artifact-kits-for-cultural-history.pdf)
+* Copy of Artifact: [files/praxis-kits-for-cultural-history.pdf](files/praxis-kits-for-cultural-history.pdf)
 * Creator: [Nina Belojevic](http://maker.uvic.ca/author/nbelojevic/) (University of Victoria)
 
 Nina Belojevic provides an introduction and rationale for the *Kits for Cultural History* project at the University of Victoria's Maker Lab in the Humanities. These kits help humanists explore questions and topics related to history and culture. They are not intended to be simple instruction manuals, with step-by-step instructions to complete, but rather serve as examples, encouraging inquiry, modification, and reflection. Kits include: [*Electric Jewels*](http://maker.uvic.ca/kit1/), which explores 19th-century wearables, and [*Tennis for Two*](http://maker.uvic.ca/tennis/), which looks at the first video game. The kits suggest that praxis goes deeper than simple problem solving. One obvious way to integrate these kits into the classroom is to attempt a group project recreating or extending one. From there, students could be asked to create their own kits, and to write rationales, documenting the process through which they researched and designed them.
@@ -126,7 +126,7 @@ Nina Belojevic provides an introduction and rationale for the *Kits for Cultural
 ![screenshot](images/praxis-screenshot-lying-about-the-past.png)
 
 * Source URL: <http://chnm.gmu.edu/history/faculty/kelly/blogs/h389/f08syl.pdf>
-* Copy of Artifact: [files/praxis-artifact-lying-about-the-past.pdf](files/praxis-artifact-lying-about-the-past.pdf)
+* Copy of Artifact: [files/praxis-lying-about-the-past.pdf](files/praxis-lying-about-the-past.pdf)
 * Creator: [T. Mills Kelly](http://edwired.org/) (George Mason University)
 
 Mills Kelly has taught several iterations of an undergraduate history course entitled "Lying about the Past." The course conveys historical research methods and ethics by asking students to examine and debunk historical hoaxes. For their final projects, students create a convincing hoax of their own. [The results](http://www.theatlantic.com/technology/archive/2012/05/how-the-professor-who-fooled-wikipedia-got-caught-by-reddit/257134/) have been explosive. Alongside the emphasis on understanding history by re-shaping it, we find this an excellent example of a praxis-based syllabus, in which Kelly makes it clear that he considers his students as collaborators, and depends on their active engagement to shape the course.
@@ -135,7 +135,7 @@ Mills Kelly has taught several iterations of an undergraduate history course ent
 ![screenshot](images/praxis-screenshot-praxischarter.jpg)
 
 * Source URL: <http://praxis.scholarslab.org/>
-* Copy of Artifact: [files/praxis-artifact-praxischarter2011.pdf](files/praxis-artifact-charters.pdf)
+* Copy of Artifact: [files/praxis-praxischarter2011.pdf](files/praxis-charters.pdf)
 * Creator: [Scholars' Lab](http://scholarslab.org/) (University of Virigina)
 
 The [Praxis Program](http://praxis.scholarslab.org) is an extracurricular attempt to reimagine graduate training in the humanities for the demands of the digital age. Each year, the Scholars' Lab brings together six graduate students from across the humanities and social sciences to theorize, design, build, and [reflect on the process](http://connect.clir.org/blogs/bethany-nowviskie/2014/11/20/charter-ing-a-path) of constructing a digital tool.  Praxis Fellows work alongside the Scholars' Lab staff throughout the cycle of creating and launching a digital project. Before working on that project, Praxis fellows work together on a written charter. The charter provides a shared space to describe the goals of the group, the ways in which the group expects to extend credit for individual and collective work, and the overall tone for their collaborative work.
@@ -144,7 +144,7 @@ The [Praxis Program](http://praxis.scholarslab.org) is an extracurricular attemp
 ![screenshot](images/praxis-screenshot-victorianliterature.jpg)
 
 * Source URL: <http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/>
-* Copy of Artifact: [files/praxis-artifact-victorianliterature.pdf](files/praxis-artifact-victorianliterature.pdf)
+* Copy of Artifact: [files/praxis-victorianliterature.pdf](files/praxis-victorianliterature.pdf)
 * Creator: [Rachel Sagner Buurma](http://rachelsagnerbuurma.org/) (Swarthmore College)
 
 Victorian Literature and Victorian Informatics is a richly detailed English syllabus exploring "canonical Victorian literature through the lens of Victorian Information theory and knowledge organization practices." Buurma blends close, middle-distant, and distant reading techniques with an emphasis on digital methods for re-reading/re-making literary texts. With its variety of workshops, demonstrations, discussions, and readings, Buurma's syllabus is exemplary in incorporating fresh critical methods and interpretative tools into a more familiar and canonical reading list. Instructors experimenting with this model could readily incorporate related readings, tools, and workshops into a smaller unit within an existing course, but it is also easy to imagine developing a new one, organized along similar topical or thematic lines. The key innovation here is the integration of digital humanities methods and skill-building into a content-based course, rather than positioning praxis as something that stands alone, outside the core curriculum.
