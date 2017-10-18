@@ -12,127 +12,139 @@ Assistant Professor of English, LaGuardia Community College
 
 Instructor of History (Tenured), Seattle Central College
 
-### Bethany Holmstrom
-
-Assistant Professor of English, LaGuardia Community College
+Cross-reference keywords: Access, Classroom, Collaboration, Community, Digital Divides, Failure, Social Justice
 
 ## CURATORIAL STATEMENT
 
-Offering students low-cost, local, and open access to degrees, community colleges are a strength of the American public higher-education system. Community college students are some of the most diverse and also most vulnerable student populations in higher education. Their numbers are impressive: they comprise 46% of all undergraduates in the US; 41% of all first-time freshmen attend one of the more than 1200 community colleges in the country (American Association of Community Colleges “Enrollments”). Their profiles constitute a critical pedagogical context for equity in digital humanities (DH): a majority of Native American, Black, and Hispanic students begin their college careers in community colleges, and 43% of Asian/Pacific Islander students are enrolled there. Fifty-nine percent are women, and students from the lowest socioeconomic quintile are increasingly more likely to begin post-secondary education at community colleges. (American Association of Community Colleges “Fast Facts”). Immigrants, too, make up a significant constituency: one study estimates that about 25% of community college students come from an immigrant background (National Center for Education Statistics). 
+Offering students low-cost, local, and open access to degrees, community colleges are a strength of the American public higher-education system. Community college students are some of the most diverse and also most vulnerable student populations in higher education. Their numbers are impressive: they comprise 46% of all undergraduates in the US; 41% of all first-time freshmen attend one of the more than 1200 community colleges in the country (American Association of Community Colleges “Enrollments”). Their profiles constitute a critical pedagogical context for equity: a majority of Native American, Black, and Hispanic students begin their college careers in community colleges, and 43% of Asian/Pacific Islander students are enrolled there. Fifty-nine percent are women, and students from the lowest socioeconomic quintile are increasingly more likely to begin post-secondary education at community colleges. (American Association of Community Colleges “Fast Facts”). Immigrants, too, make up a significant constituency: one study estimates that about 25% of community college students come from an immigrant background (National Center for Education Statistics). 
  
 ### Access and Equity 
  
-An equitable digital humanities vision should embrace these students and the faculty who teach them. Digital projects offer empowering tools for community college students to represent their communities, to challenge inequalities and to be critical participants in digital culture. Adoption of digital approaches in community colleges is hindered, however, by systemic barriers such as faculty workloads: Community college faculty spend more than two times the number of hours in the classroom teaching than do public doctoral faculty; 67 percent of community college faculty teach from 75 to more than 150 students (Rifkin), and 58% of community college courses are taught by part-time and contingent faculty (Center for Community College Student Engagement). In addition, unreliable facilities and student access to even minimal technology also have slowed commitment to humanities computing in community colleges.
+An equitable vision for digital pedagogy embraces these students and the faculty who teach them. Digital projects develop empowering skills for students to represent their communities, to challenge inequalities, and to be critical participants in digital culture. Adoption of digital approaches in community colleges is hindered, however, by systemic barriers such as faculty workloads: Community college faculty spend more than two times the number of hours in the classroom teaching than do public doctoral faculty; 67 percent of community college faculty teach from 75 to more than 150 students (Rifkin), and 58% of community college courses are taught by part-time and contingent faculty (Center for Community College Student Engagement). In addition, unreliable facilities and student access to even minimal technology also have slowed the adoption of digital pedagogies in open-access colleges.
 
-Still, organizations have recently recognized the importance of inclusion in DH if the field is to reach its democratic potential. In 2015, for example, the NEH Office of Digital Humanities supported a summer institute for 29 community college teacher-scholars (see the Online Commons in “Related Materials” below) , and in 2017 a community college perspective will be represented at the MLA Convention’s Digital Humanities Forum (McGrail, “Don’t Minimize DH at Community Colleges”). Even the inclusion of the term in this volume signals the field’s developing capacity for and interest in cultivating novice digital humanists from all walks of life and from all strata of higher education.
+Recently, however, many teachers at community colleges have begun to integrate digital pedagogies into their curriculum as a means for helping open-access institutions reach their democratic potential. This development has been aided by recent support from organizations such as the NEH, which supported a summer institute in digital pedagogies for 29 community college teacher-scholars in 2015 (see the Online Commons in “Related Materials” below). And the inclusion of "community college" as a keyword in this volume signals the larger field of digital humanities' developing capacity for and interest in cultivating digital skills in novice humanists from all walks of life and from all strata of higher education.
  
 ### Curricular Anticipation and Translations 
 
-All 100- and 200-level digital humanities courses are not created equally. Although two-year faculty may teach lower-division courses that mirror those in a university catalog, the unique teaching context of community colleges entails customizing pedagogy and curriculum. Working on digital projects can provide a curricular mechanism for increasing equity at community colleges. But teachers face challenges from resource barriers to differential preparation. For community college courses to be successful, differentiated instructional design is often necessary to teach students with wide-ranging skill levels simultaneously. The American Literature syllabus below, for example,  allows for this differentiation in lab settings. Other widely accepted project management features such as collaboration and tight deadlines need to take account of exigencies of diverse students’ lives. Community college digital humanities projects should anticipate the context of working-class and diverse students struggling with lives immersed in precarity. (McGrail, “The Whole Game: Digital Humanities at Community Colleges.”)
+Digital pedagogies in 100- and 200-level courses benefit from tailoring to the unique needs of students in open-access environments. Although two-year faculty may teach lower-division courses that mirror those in a university catalog, the teaching context of community colleges entails customizing pedagogy so that comparable learning outcomes are achieved in differential contexts. Community college teachers face challenges from resource barriers to uneven student preparedness. For community college courses to be successful, differentiated instructional design is often necessary to teach students with wide-ranging skill levels simultaneously. The syllabus below entitled "Reading, Writing, and Digital Culture," for example, allows for this differentiation in online settings using freely available web tools. Widely accepted project management features of digital projects, such as collaboration and tight deadlines, need to take account of exigencies of diverse students’ lives. Community college digital projects should anticipate the context of working-class and diverse students struggling with lives immersed in precarity. 
 
-Community-college students’ responses to unfamiliarity, experimentation and failure may also differ significantly from middle-class students schooled in an atmosphere of productive challenge and soft landings. As the MLA keyword in this volume makes clear, “fails” and “failure” can play productive roles in innovation and discovery (Croxall and Warnick) . But handled too cavalierly, these signature features of DH practice can translate into student self-doubt and disappearance. The assignments featured here are characterized by an intentionally welcoming and generous instructional design that promotes an  explicitly positive classroom climate.  
+Community-college students’ responses to unfamiliarity, experimentation and failure may also differ significantly from middle-class students schooled in an atmosphere of productive challenge and soft landings. As the MLA keyword "fail" in this volume makes clear, failure can play productive roles in innovation and discovery (Croxall and Warnick). But handled too cavalierly, these signature features of digital practice can translate into student self-doubt and disappearance. The assignments featured here are characterized by an intentionally welcoming and generous instructional design that promotes equity.
 
-One shouldn’t think of community college students only in terms of deficits, however. These students arrive on open-access campuses with unique assets and more maturity than their more traditional-age counterparts. With an average age of 29 (AACC “Students at Community Colleges”) community college students draw on this life experience and abundant tacit knowledge to approach complex and unfamiliar tasks. The assignments that follow illustrate how embedding versions of digital annotation, distant reading, and digital publishing platforms, for example, strengthens traditional curricula in foundational courses. Even without classroom access to computers, students can study digital culture’s larger themes, e.g., the often hidden power of algorithms and databases, rhetorical awareness of interfaces, the changing norms of privacy and publicity, etc. As these artifacts and resources illustrate, with the proper scaffolding and attention to the material conditions of community college students’ lives, threshold concepts and signature practices of DH can be taught at entry level. Community college students are immersed in a digital world; DH can help them understand it. 
+One shouldn’t think of community college students only in terms of deficits, however. These students arrive on open-access campuses with unique assets and more maturity than their more traditional-age counterparts. With an average age of 29 (AACC “Students at Community Colleges”) community college students draw on life experience and abundant tacit knowledge to approach complex and unfamiliar tasks. The assignments that follow illustrate how embedding versions of digital annotation, distant reading, and digital publishing platforms, for example, strengthens traditional curricula in foundational courses. Even without classroom access to computers, students can study digital culture’s larger themes, e.g., the often hidden power of algorithms and databases, rhetorical awareness of interfaces, the changing norms of privacy and publicity, etc. By seeing digital pedagogy through the lens of equity, these artifacts and resources empower all students.
 
 ## CURATED ARTIFACTS 
 
 #### Advancing Humanities through Technology
  
-![screenshot](images/community_college_advancing.png)
+![screenshot](images/communitycollegeadvancinghumanities.png)
 
 - Source: [http://www.nvcc.edu/home/cevans/technology/index.html](http://www.nvcc.edu/home/cevans/technology/index.html)
 - Type: Grant Project Website ca. 1999
-- Creators: Charles Evans, Roy Rosensweig, David Berry
+- Permissions: CC-BY NC
+- Creator: Charles Evans, North Virginia Community College
 
 In 1999 the NEH, the Community College Humanities Association and North Virginia Community College initiated a humanities computing community of practice among seventeen colleges entitled, “Advancing the Humanities through Technology at Community Colleges.” [http://www.nvcc.edu/home/cevans/technology/index.html](http://www.nvcc.edu/home/cevans/technology/index.html) The institute fostered development of impressive projects, including Harper College’s Grendel website [http://www.harpercollege.edu/~kneumann/grendel/welcome.htm](http://www.harpercollege.edu/~kneumann/grendel/welcome.htm) and North Shore Community College’s Hawthorne in Salem [http://www.hawthorneinsalem.org/](http://www.hawthorneinsalem.org/), both of which remain relevant community college pedagogical online resources. Projects there demonstrate how early on community college faculty saw the democratic potential of humanities computing. They also anticipate and, in their own way, answer the later definitional debates about what authentically “counts” as digital humanities: projects include website development, electronic portfolios, archival access, cross-disciplinary collaboration and student-generated, public-facing family heritage archives.
 
 #### Hawthorne in Salem
 
-![screenshot](images/community_college_hawthorne.png)
+![screenshot](images/communitycollegehawthorneinsalem.png)
 
-- Source URL: [http://www.hawthorneinsalem.org/](http://www.hawthorneinsalem.org/)
-- Type: Website
-- Creator: Terri Whitney
+- Source URL: [http://www.hawthorneinsalem.org/Literature/customhousesketch/factsandfantasy/Explorations.html](http://www.hawthorneinsalem.org/Literature/customhousesketch/factsandfantasy/Explorations.html)
+- Type: Digital Archive Exploratory Learning Activities 
+- Permissions: CC-BY NC
+- Creator: Terri Whitney, PhD, North Shore Community College
 
-Hawthorne in Salem, a historical resource and pedagogical tool that actively engages with community college students, exemplifies the value of local community college partnerships with cultural assets such as museums, universities and cultural sites. Terri Whitney expanded her work begun with the CCHA/NEH institute in 1999 to provide an interactive archive with photos, audio and video tours and other artifacts that support public access to historical and literary research. Funded by another NEH grant in 2007, Whitney and North Shore Community College have collaborated with the Peabody Essex Museum, the House of Seven Gables and the Salem Maritime to create and maintain the site.
+Hawthorne in Salem, a historical resource and pedagogical tool, actively engages with community college students and exemplifies the value of local community college partnerships with cultural assets such as museums, universities and cultural sites. Terri Whitney expanded her work begun with the CCHA/NEH institute in 1999 to provide an interactive archive with photos, audio and video tours and other artifacts that support public access to historical and literary research. Guided site explorations and activities include panoramic tours through merchant homes and other architectural assets in Salem, Massachussetts, and themed explorative activities for students on Hawthorne's Framework of Faith, Native Americans in 19th Century Salem, Women, Quakers, and Accused Witches, and a Scholars' Forum, among other activities.
 
-#### Harper College’s Grendel
+#### Paleotranscription Exercise with Grendel Online
 
-![screenshot](images/community_college_grendel.png)
+![screenshot](images/communitycollegepaleotranscription.png)
 
-- Source: [http://www.harpercollege.edu/libarts/hum/dept/grendel/grenhom2.htm](http://www.harpercollege.edu/libarts/hum/dept/grendel/grenhom2.htm)
+- Source: [http://www.harpercollege.edu/~kneumann/grendel/paleo.htm](http://www.harpercollege.edu/~kneumann/grendel/paleo.htm)
+- Type: Paleography Transcription Exercise
+- Permissions: CC-BY NC
 - Creators: Professors Richard Johnson and Kurt Neuman, Harper College
 
 Harper College’s Grendel, designed by Richard Johnson and Kurt Neuman as part of the 1999 NEH grant project, is noteworthy for its interactivity in a pre-Web 2.0 context, and is an early instance of community college faculty’s recognition of the value of humanities computing for student engagement and participation. Using email to participate, students can identify and define significant words from Beowulf and have their work included in an online glossary. Ram files play back pronunciations. The same Web-based email system is used to support student annotations and translations of lines.
 
-#### American Literature Syllabus with Digital Humanities Labs
+#### Reading, Writing, and Digital Culture Syllabus
 
-![screenshot](images/community_college_americanlit.png)
+![screenshot](images/communitycollegereadingwritingdigitalculture.png)
 
-- Source: [http://blogs.lanecc.edu/dhatthecc/teachingnotesfall2012/american-literature-i-and-ii-syllabus-with-dh-labs/](http://blogs.lanecc.edu/dhatthecc/teachingnotesfall2012/american-literature-i-and-ii-syllabus-with-dh-labs/)
+- Source: [https://blogs.lanecc.edu/dhatthecc/wp-content/uploads/sites/28/2017/04/ENGLISH-217-SYLLABUS-with-Sandboxes-McGrail.pdf](https://blogs.lanecc.edu/dhatthecc/wp-content/uploads/sites/28/2017/04/ENGLISH-217-SYLLABUS-with-Sandboxes-McGrail.pdf)
 - Type: Syllabus and Course Calendar
+- Permissions: CC-BY NC
 - Creator: Anne B. McGrail, PhD, Lane Community College
 
-This is the syllabus and course calendar for a two-term sequence in American Literature (22 weeks total). The class is taught in a traditional classroom two days a week, and in a computer lab with Web access one day a week (for an hour).  “Digital Humanities Labs” were posted each week in the LMS Moodle. If community college students are going to create DH projects, the best course design embeds both course time and access to technology.  A “studio hour” setting can give students a chance to ask questions and collaborate. Later in the term students who are confident can work at home and post updates during the course hour, functionally creating a hybrid course. Detailed instructions for many student labs are in the Keywords artifact, “Thirteen Ways of Doing DH at the CC” (below) and more in the Keywords resource blog Doing DH at the CC [https://blogs.lanecc.edu/dhatthecc/teachingnotesfall2012/](https://blogs.lanecc.edu/dhatthecc/teachingnotesfall2012/)
+This is the syllabus and course calendar for an online course first taught in Spring 2017 as an introduction to digital humanities tools and methods. The grading method encourages maximum collaboration and experimentation. The class is taught online through a learning management system but students use tools on the open web. Detailed instructions for many student labs are in the Keywords resource blog Doing DH at the CC [https://blogs.lanecc.edu/dhatthecc/](https://blogs.lanecc.edu/dhatthecc/)
+#### World History Podcast Assignment
 
-#### Thirteen Ways of Doing DH at the CC
+![screenshot](communitycollegeworldhistorypodcast.png)
 
-![screenshot](images/community_college_13ways.png)
+- Source URL: [http://jacknorton.org/wp-content/uploads/2016/02/Podcast-Assignment1102_18Nov2012.pdf](http://jacknorton.org/wp-content/uploads/2016/02/Podcast-Assignment1102_18Nov2012.pdf)
+- Type: World History Class Assignments
+- Permissions: CC-BY NC
+- Creator: Jack Norton, Normandale Community College
 
-- Source URL: [https://blogs.lanecc.edu/dhatthecc/2013/10/21/thirteen-ways-of-doing-dh-at-the-cc/](https://blogs.lanecc.edu/dhatthecc/2013/10/21/thirteen-ways-of-doing-dh-at-the-cc/)
-- Type: Classroom assignments
-- Creator: Anne B. McGrail, PhD, Lane Community College. Adapted from multiple sources.
+One of a collection of multiple assignments focusing on creating "digital history courses that embrace an anti-poverty andragogy." Students share their work on a blog created by Norton [https://historyatnormandale.wordpress.com/](https://historyatnormandale.wordpress.com/). Other assignments include working with online numerical data tools and using Omeka. A framing feature of coursework here is the commitment to engaging students outside of the institution's learning management system and using the open web to host course materials and student work. 
 
-This collection of digital humanities assignments grew out of curriculum development work I did over several years in my American Literature and Women Writers courses at Lane Community College. Each assignment has proven highly successful for community college students, whether they are English majors or not. The assignments were developed with weekly student access to an hour in the computer lab, using readily available tools such as Tiki Toki timelines, archives such as Emily Dickinson’s papers, and free software such as Google Maps. While introductory in nature, each assignment explicitly engages with key tools and ideas in the field of digital humanities: collaborative text annotation of primary source documents; archival study; concepts such as “glitches” and “de-formation”; word clouds and distant reading; networked communication; spatial organization of narratives and events; the role of media in developing popular cultural epistemic frames. Professor Bridget Marshall’s Digital Document Assignment is a highly successful public research capstone for the class. Examples of student work (filmed and shared with student permission) appear in the “Resources” section of this Keywords entry.
+
 
 #### Public Interventions: A Photographic Record of People of Color and Education
 
-![screenshot](images/community_college_photographs.png)
+![screenshot](images/communitycollegepublicinterventions.png)
 
 - Type: History Assignment
 - [Source](Photographs.pdf)
-- Creator: Jaime Cardenas[a][b], PhD, Instructor of History, Tenured, Seattle Central College
+- Permissions: CC-BY NC
+- Creator: Jaime Cardenas[a][b], PhD, Instructor of History (Tenured), Seattle Central College
 
-Just like the understanding that all young people are “digital natives” is wrong, so is it wrong to assume that they are adroit interpreters of primary visual sources.  This assignment seeks to utilize the interest younger students have of visual culture in order to expand their abilities to interpret the past. In this case, because they are interpreting images of public education, something with which most of them have had direct experience, their interaction with these primary sources will be relatively intimate. Thus, this assignment has two built-in advantages: the use of visuals and a “projected” nostalgia. Students may not initially observe images within the historical context that produced the primary source.  As Barbara Ormond and others recommend, we should guide our students through a detailed process that makes images, initially, less discernible, so that in the end students will become better interpreters of the past.
+Just like the understanding that all young people are “digital natives” is wrong, so is it wrong to assume that they are adroit interpreters of primary visual sources.  This assignment seeks to utilize the interest younger students have of visual culture in order to expand their abilities to interpret the past. In this case, because they are interpreting images of public education, something with which most of them have had direct experience, their interaction with these primary sources will be relatively intimate. Thus, this assignment has two built-in advantages: the use of visuals, and a “projected” nostalgia. Students may not initially observe images within the historical context that produced the primary source.  As Barbara Ormond and others recommend, teachers should guide our students through a detailed process that makes images, initially, less discernible so that in the end students will become better interpreters of the past.
  
 #### Mapping Race in Seattle
 
-![screenshot](images/community_college_mappingrace.png)
+![screenshot](images/communitycollegemappingraceinseattle.png)
 
 - Type: History Assignment
 - [Source](Mapping Race.pdf)
-- Creator: Jaime Cardenas, PhD, Instructor of History, Tenured, Seattle Central College
+- Permissions: CC-BY NC
+- Creator: Jaime Cardenas, PhD, Instructor of History (Tenured), Seattle Central College
 
-Pedagogically, spatial understandings of inequality and inequity present a challenge in the USA and beyond (Hammersley et al). Our country has a great deal of geographic unawareness, in part because of the lack of geography education in K-16 educational systems (See “What College-Aged Students Know about the World”).  This assessment aids in the processes of aiding students in locating, literally and figuratively, how power is enacted geographically in Seattle.  The nexus of capital and race in this American city, since the late 1800s and the de facto expulsion of almost all Native people, has brought together anti-Asian and anti-Black spatial ideologies of de jure and de facto residential segregation.
+This assessment aids in the processes of aiding students in locating, literally and figuratively, how power is enacted geographically in Seattle.  Capital accumulation and racism since the late 1800s, as well as the de facto expulsion of almost all Native people, has combined in Seattle with anti-Asian and anti-Black residential segregation. The question is, how?
 
-When I’ve used this approach in the past, most students have responded with surprise (and this includes students whose grandparents were racially segregated in Seattle) at how segregated the city has been.  An interesting example comes from the proximity of African American and Asian American neighborhoods. Often students have not considered why the International District (which contains Chinatown and other Asian American neighborhoods) is adjacent to the Central District (the once mostly African American neighborhood of the city). Many of my students have thought it was just coincidence that the two neighborhoods are proximate to one another. When they see their mapping in conjunction to reading the secondary sources, their comprehension is deepened, something that I evaluate by I having simple pre-activity and post-activity quizzes so that I can assess their learning.
+This spatial approach to learning can be used, for example, when examining the proximity of African American and Asian American neighborhoods. Most students have not considered why the International District (which contains Chinatown and other Asian American neighborhoods) is adjacent to the Central District (the once mostly African American neighborhood of the city). When students see their mapping in conjunction to reading secondary sources and having discussions, their comprehension is deepened.
  
 #### Visualizing Discourse: Cloud Mapping Cultural Resistance
 
-![screenshot](images/community_college_cloudmap.png)
+![screenshot](images/communitycollegevisualizingdiscourse.png)
  
 - Type: History Assignment
 - [Source](Cloud Map.pdf)
-- Creator: Jaime Cardennas, PhD, Instructor of History, Seattle Central College
+- Permissions: CC-BY NC
+- Creator: Jaime Cardenas, PhD, Instructor of History (Tenured), Seattle Central College
 
-Word clouds are relatively commonplace on the Seattle Central College campus (e.g., flyers for workshops or a new course, etc).  Thankfully, what has captured the attention of the students is the actual “content of the content”, or the text that the algorithm presents once it has run in the application.  Of course, they could read the words before using the word cloud app, but the process of quantification and subsequent representation allows students to carefully notice words, words analyzed within the particular social and historical context from which the text (speech, poem, etc.) emerged.  For instance the sermon that Dr. King gave against the U.S. war in southeast Asia, in 1967, is a prime example and one that I’ve used while teaching the US history survey: [http://tinyurl.com/mlkandvietnamwordcloud](http://tinyurl.com/mlkandvietnamwordcloud).  In this primary source, tellingly, the words “nation” and “America” are used more often than “God”, but the word “world” occurs more often than all of these.
+Word clouds are relatively commonplace on college campuses (e.g., flyers for workshops, a new course offering, etc).  Thankfully, what has captured the attention of students is the actual “content of the content,” or the text that the algorithm presents once it has run in the application.  Of course, they could read the words before using the word cloud app, but the process of quantification and subsequent representation allows students to carefully notice words, words analyzed within the particular historical context from which the text (speech, poem, etc.) emerged.  For instance the 1967 sermon that Rev. King gave against the U.S. war in southeast Asia is a prime example and one that is useful while teaching the US history survey: [http://tinyurl.com/mlkandvietnamwordcloud](http://tinyurl.com/mlkandvietnamwordcloud).  In this primary source, tellingly, the words “nation” and “America” are used more often than “God,” but the word “world” occurs more often than all of these.
+
+ 
 
 #### Making Podcasts to Support Research-based Writing and Reflection
 
-![screenshot](images/community_college_podcast.jpg)
+![screenshot](images/communitycollegemakingpodcasts.jpg)
 
 - Type: Assignment and Student Work
 - [Source](files/podcast.pdf)
+- Permissions: CC-BY NC
 - Creators: Dominique Zino, Assistant Professor of English, LaGuardia Community College; Vilma and Carmen, LaGuardia Community College students
 
-In first-year composition courses at LaGuardia Community College, one learning objective is developing rhetorical awareness. While many students find rhetorical analysis challenging as they practice close reading and writing, building in live speakers and live audiences through a podcasting project makes the concept of a “rhetorical situation” more concrete. Podcasting can be an informal, low-stakes assignment or it can serve as a more in-depth final research assignment. When framing the writing and thinking work related to creating a podcast, one useful resource is the composition textbook Compose, Design, Advocate, which takes a rhetorical approach to creating various kinds of multimedia artifacts and emphasizes the importance of working in recognizable, real-world genres. Authors Anne Wysocki and Dennis Lynch suggest that writers approach any task by outlining the moving rhetorical parts (purpose, audience, context, strategies, medium, arrangement, and testing) through a document they call the “design plan.” The attached Word document includes an outline of a four-stage podcasting process, with the design plan at the center; it also includes two sample student design plans (one created as an early planning document and one amended after the student made her podcast), directions for interviewing and for creating a bibliography, and a grading rubric for a podcasting project.
+In first-year composition courses at LaGuardia Community College, one learning objective is developing rhetorical awareness. By building in live speakers and live audiences, a podcasting project makes the concept of a “rhetorical situation” more concrete. Podcasting can be an informal, low-stakes assignment or it can serve as a more in-depth final research assignment. One useful resource for those experimenting with this genre is the composition textbook <em>Compose, Design, Advocate</em>, which takes a rhetorical approach to creating various kinds of multimedia artifacts. Authors Anne Wysocki and Dennis Lynch suggest that writers outline the moving rhetorical parts of a task (purpose, audience, context, strategies, medium, arrangement, and testing) through a document they call the “design plan.” The attached Word document includes an outline of a four-stage podcasting process. It also includes two sample student design plans, directions for interviewing and for creating a bibliography, and a grading rubric for a podcasting project. 
  
 #### Capstone Liberal Arts Hybrid Final Digital Media Projects
 
-![screenshot](images/community_college_capstone.png)
+![screenshot](images/communitycollegecapstoneliberalarts.jpg)
 
 - Type: Website of student work
 - Source URL: [http://lib200fall15.bethanyholmstrom.net/](http://lib200fall15.bethanyholmstrom.net/)
+- Permissions: CC-BY NC
 - Creator: Bethany Holmstrom, Assistant Professor of English, LaGuardia Community College
 
 LaGuardia Community College has undertaken an in-house professional development [project](https://docs.google.com/document/d/1hHeCwupjlaJ8MgjSwZSRhgn3f03UVvLdOXSw15DnQRk/edit) to support work such as this capstone site. Bethany Holmstrom’s students in her hybrid liberal arts capstone class created digital media projects in response to their course theme, Artificial Intelligence in sci-fi film/TV shows. Students pitched their projects to the class, wrote research narratives, and chose the platform that best suited their needs. Students were also asked to consider accessibility when designing their project. The projects were shared publicly, along with the research narratives. In this way, students creatively apply research and content encountered during the semester, making projects that speak to their own skills, interests, and connections to the course materials.
@@ -176,15 +188,15 @@ MLA Committee on Community Colleges. “A Community College Teaching Career.” 
 McGrail, Anne B. “National Survey of Digital Humanities at Community Colleges.” Doing DH at the CC. October 2014.
 [https://blogs.lanecc.edu/dhatthecc/2014/02/03/survey-data-available-from-national-survey-of-digital-humanities-in-community-colleges/](https://blogs.lanecc.edu/dhatthecc/2014/02/03/survey-data-available-from-national-survey-of-digital-humanities-in-community-colleges/)
  
-———. “The Whole Game: Digital Humanities in Community Colleges.” In Debates in the Digital Humanities 2016. Eds Matthew K. Gold and Lauren F. Klein. University of Minnesota Press, 2016.
- 
-———. “Don’t Minimize DH at Community Colleges.” Modern Language Association Convention, Philadelphia, Pennsylvania, January 7, 2017.
- 
 National Center for Education Statistics, “Profile of Undergraduates in U.S. Postsecondary Education Institutions: 2003–04, With a Special Analysis of Community College Students.” U.S. Department of Education, 2006. [http://nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2006184](http://nces.ed.gov/pubsearch/pubsinfo.asp?pubid=2006184)
 
 Rifkin, Troni. “Public Community College Faculty.” American Association of Community Colleges. n.d. Web. [http://www.aacc.nche.edu/Resources/aaccprograms/pastprojects/Pages/publicccfaculty.aspx](http://www.aacc.nche.edu/Resources/aaccprograms/pastprojects/Pages/publicccfaculty.aspx)
 
 Wysocki, Anne and Dennis Lynch. _Compose, Design, Advocate: a Rhetoric for Integrating Written, Oral and Visual Communication_. Pearson: 2013.
+ 
+ 
+ 
+
  
  
  
