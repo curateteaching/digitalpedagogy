@@ -57,7 +57,7 @@ The question raised by Dawson and Watters might itself make a useful conversatio
 * ![screenshot](images/annotation_google_docs.png)
 * Artifact Type: Assignment
 * Source URL: [http://diglibarts.whittier.edu/?page_id=1372](http://diglibarts.whittier.edu/?page_id=1372)
-* Permissions: Used with permission of author
+* Permissions: CC-BY-NC 
 * Creator and Affiliation: Jonathan Burton, Whittier College
 * Tags: getting started, google docs
 
@@ -79,7 +79,7 @@ Using [PBWorks](http://www.pbworks.com), a group of Laura Lisabeth's students pr
 * ![screenshot](images/annotation_commentary_anthology.png)
 * Artifact Type: Assignment
 * Source URL: [http://blog.ayjay.org/uncategorized/assignment-commentary-and-anthology/](http://blog.ayjay.org/uncategorized/assignment-commentary-and-anthology/)
-* Permissions: Used with permission of author 
+* Permissions: CC-BY-NC 
 * Creator and Affiliation: Alan Jacobs, Baylor University
 * Tags: getting started, CommentPress
 
@@ -90,7 +90,7 @@ Like many of the other artifacts collected here, Alan Jacobs' assignment is desi
 * ![screenshot](images/annotation_image_annotation.png)
 * Artifact Type: Assignment
 * Source URL: [http://web.uvic.ca/~englblog/pedagogydhsi/files/2012/05/baer.pdf](http://web.uvic.ca/~englblog/pedagogydhsi/files/2012/05/baer.pdf)
-* Permissions: Used with permission of author
+* Permissions: CC-BY-NC
 * Creator and Affiliation: P. A. Baer, University of Victoria
 * Tags: advanced, A.nnotate
 
@@ -122,7 +122,7 @@ This screenshot of an upper-level British literature survey class is included in
 * ![screenshot](images/annotation_readers_thoreau.png)
 * Artifact Type: Instructor Sample
 * Source URL: [http://commons.digitalthoreau.org/walden/economy/economy-30-44/#comment-2172](http://commons.digitalthoreau.org/walden/economy/economy-30-44/#comment-2172)
-* Permissions: Fair use
+* Permissions: CC-BY-NC
 * Creator and Affiliation: Paul Schacht, State University of New York at Geneseo
 * Tags: advanced, CommentPress
 
