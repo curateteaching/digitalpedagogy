@@ -28,7 +28,9 @@ Georgia Institute of Technology | [http://lklein.com/](http://lklein.com/)
 * awaiting pre-print copy
 * published 
 
---- 
+---
+### Cross-Reference Keywords: gender, hacking, information, intersectionality, iteration, labor, praxis, race, queer 
+---
 
 ## CURATORIAL STATEMENT 
 
