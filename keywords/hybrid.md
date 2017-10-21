@@ -29,7 +29,9 @@ Instructional Designer, Office of Digital Learning, Middlebury College
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review** 
+* draft version undergoing peer-to-peer review
+* **draft version undergoing MLA copyediting**
+* awaiting pre-print copy
 * published 
 
 --- 
