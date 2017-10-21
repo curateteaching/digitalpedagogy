@@ -18,17 +18,22 @@ type: book
 # RACE (Draft)
 
 ## AUTHORS:
-## [Adeline Koh]
+### Adeline Koh
 [adelinekoh.org](http://adelinekoh.org)
 
-## [Viola Lasmana]
+### Viola Lasmana
 University of Southern California
 
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review**
+* draft version undergoing peer-to-peer review
+* **draft version undergoing MLA copyediting**
+* awaiting pre-print copy
 * published 
+
+---
+### Cross-Reference Keywords:
 
 --- 
 
@@ -36,7 +41,7 @@ University of Southern California
 
 The classroom is a space and place of entanglements. With the intersections of race, class, ethnicity, disability, gender, and sexuality
 as vital aspects to consider in various activites in and out of the classroom, how do we foster pedagogical practices attentive to
-multilayered sets of identities and relwtions, while opening up opportunities for exploring diverse texts and materials that deal with 
+multilayered sets of identities and relations, while opening up opportunities for exploring diverse texts and materials that deal with 
 issues of race and ethnicity in new and critical ways? In *Digital Humanities Pedagogy: Practices, Principles and Politics*, Brett D. 
 Hirsch calls attention to the importance of digital pedagogy in addressing these key topics, while also being mindful of the fact that 
 "the opportunities for pedagogy to bring these issues into useful discussion--and for digital humanities classrooms to create a more 
@@ -132,7 +137,7 @@ This site offers visualizations of crowdsourced data on people who have been sho
 ![screenshot](images/race-mukurtu.png)
 * Artifact Type: content management system
 * Source URL: http://www.mukurtu.org/ 
-* Permissions: 
+* Permissions: Open-source code available on github under GNU General Public License (or “GPL”) https://github.com/MukurtuCMS/mukurtucms
 * Creator and Affiliation: Kim Christen, University of Washington, Pullman; Michael Ashley, University of California, Berkeley
 * Tags: advanced, database 
 
@@ -154,7 +159,7 @@ Similar to *Invisible Australians*, this is an artifact that represents activist
     
 ### Soweto76
 ![screenshot](images/race-soweto76archive.jpg)
-* Artifact Type: 3D digital archive
+* Artifact Type: student project, 3D digital archive
 * Source URL: http://www.soweto76archive.org/ 
 * Permissions: Yes
 * Creator and Affiliation: Angel David Nieves, Hamilton College
