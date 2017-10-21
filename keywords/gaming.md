@@ -59,7 +59,7 @@ These resources are intended for instructors who are looking to supplement their
 
 * Artifact Type: Assignment
 * Source URL: [http://www.edmondchang.com/courses/3850/2.0plogs.pdf](http://www.edmondchang.com/courses/3850/2.0plogs.pdf) 
-* Artifact Permissions: Correspondence with author
+* Artifact Permissions: CC-BY-NC
 * Copy of the Artifact: 
 * Creator and Affiliation: Edmond Chang (Ohio University)
 
@@ -113,8 +113,7 @@ The GameCamp! website also hosts Creative Commons-licensed annotated lecture sli
 
 * Artifact Type: Lesson Plan
 * Source URL: [http://jayisgames.com/games/small-worlds/](http://jayisgames.com/games/small-worlds/) 
-* Artifact Permissions: Author consent
-* Copy of the Artifact:  
+* Artifact Permissions: CC-BY-NC 
 * Creator and Affiliation: Amanda Phillips (Georgetown University)
 
 David Shute’s Small Worlds is an exploration game in which a figure navigates a series of moody, pixelated worlds that are shrouded in darkness. Each scene begins zoomed closely on the avatar, and exploration reveals more of the background while the camera gradually zooms out. Uncovering these small worlds reveals a minimalist environmental narrative – an elegant example of narrative architecture with dystopic science fiction undertones. 
@@ -157,7 +156,7 @@ This game is simple and quick to play, but can open up conversations about commu
 
 * Artifact Type: Workshop (description and slides)
 * Source URL: N/A
-* Artifact Permissions: Correspondence with author
+* Artifact Permissions: CC-BY-NC
 * Copy of the Artifact: [Teaching Intersectionality through Critical Game Design](files/gaming-Intersectionality-and-Game-Design.pdf)
 * Creator and Affiliation: Bonnie Ruberg (University of California at Irvine) and Vicki Callahan (University of Southern California)
 
@@ -171,19 +170,19 @@ This activity is useful for talking about the theoretical concept of intersectio
 
 * Artifact Type: Design Framework
 * Source URL: [https://www.metrac.org/resources/power-to-the-people-anti-oppression-game-design-essay/](https://www.metrac.org/resources/power-to-the-people-anti-oppression-game-design-essay/)
-* Artifact Permissions: Free download from METRAC, Copyright 2011 IGI Global
+* Artifact Permissions: Free download from METRAC, "METRAC holds the copyright to the information on this website. METRAC authorizes the responsible, non-commercial use of this material to promote the safety of women and children. If you wish to use this material, in any way or format, for this purpose, METRAC requires that you explicitly acknowledge the source of the material and provide METRAC with notice of such use."	
 * Copy of the Artifact: 
 * Creator and Affiliation: Andrea Gunraj (METRAC), Susana Ruiz (University of California, Santa Cruz; Take Action Games), Ashley York (University of Southern California; Take Action Games)
 
 This chapter is a primer for how to apply anti-oppressive principles to game design. It is useful for designers at many levels, including the beginners that are likely to inhabit a humanities class. The authors combine instruction, case studies, and best practices to offer a comprehensive guide for students looking to improve their design practice. While there are many resources available for introducing game design into the classroom, this particular article offers a solid foundation to avoid many of the missteps that mainstream game designers make.
 
-####Game Design Documents On Racial Formation and Migration
+#### Game Design Documents On Racial Formation and Migration
 
 ![screenshot](images/gaming-design-sketches.jpg)
 
 * Artifact Type: Assignment
 * Source URL: N/A
-* Artifact Permissions: Correspondence with author
+* Artifact Permissions: CC-BY-NC
 * Copy of the Artifact: 
 * Creator and Affiliation: Alexandrina Agloro (Worcester Polytechnic Institute)
 
