@@ -67,7 +67,7 @@ The keyword "hybrid" suggests a methodology for teachers to employ in constructi
 
 * Artifact Type: Collaborative projects
 * Source URL: <http://amillionbluepages.net/>
-* Permissions: CC BY 2.0
+* Permissions: CC-BY-NC
 * Creator and Affliation: Zach Whalen, University of Mary Washington
 
 *House of Leaves* has produced an extensive network of digital marginalia. In 2011, Zach Whalen, Erin Templeton, Paul Benzon, Mark Sample, and Brian Croxall taught the novel together and [coauthored a collaborative assignment](http://www.briancroxall.net/dh/assignments/sharing-and-re-networking-house-of-leaves/) that bridged work done at each of their institutions. The resource I’m including here is a 2014 follow-up, which also connected classes at multiple institutions. *A Million Blue Pages* is a multimedia annotation of *House of Leaves*. It serves as an example of students and teachers using digital tools to work together outside the constraints of geography and institutional affiliation. And the contributions to the site have continued well after the various courses ended. This is one of the key components of a well-designed hybrid assignment—its ability to engage a community beyond its own bounds—to create learning spaces without a clear end.
@@ -106,7 +106,7 @@ This assignment offers a guide to having students contribute to Wikipedia. Orien
 
 * Artifact Type: Assignments
 * Source URL: <http://chuckrybak.com/tweeting-class-discussions-and-notes>
-* Permissions: CC BY 2.0
+* Permissions: CC-BY-NC
 * Creator and Affiliation: Chuck Rybak, University of Wisconsin-Green Bay
 
 Chuck Rybak offers an excellent example of how students can use a tool like Twitter to extend an otherwise face-to-face discussion. Rybak uses social media in his courses to build a literal and figurative *open-door* classroom. Students turn “oral discussions into usable texts,” a set of dialogic (as opposed to monologic) notes for a discussion, both for students to review and as a way of allowing outsiders to eavesdrop. Students [Storify](http://www.hybridpedagogy.com/journal/how-to-storify-why-to-storify/) their tweets, which makes a more permanent curated collection of tweets than their experience of the discussion. The students move through several recursive layers: ideas in their brains, discussion in a physical room, tweets that act as a sort of Greek chorus, a Storify that curates those thoughts further, and feedback to the Storify, which can be used to prompt future face-to-face discussions.
@@ -116,7 +116,7 @@ Chuck Rybak offers an excellent example of how students can use a tool like Twit
 
 * Artifact Type: Assignments
 * Source URL: <http://shelleysfrankenstein.wordpress.com/frankenstein-a-public-literary-twitter-role-play-on-twitter/>
-* Permissions: CC BY 2.0
+* Permissions: CC-BY-NC
 * Creator and Affiliation: Petra Dierkes-Thrun, Stanford University
 
 Petra Dierkes-Thrun has run several iterations of the Public Literary Twitter Role-play, having students re-enact and inhabit texts like *The Portrait of Dorian Gray*, *Lolita*, and *Frankenstein*. Each experiment has had a different prompt used to engage students in her physical class and also virtual participants around the world. Her [larger goals](http://www.fhi.duke.edu/events/petra-dierkes-thrun-lecture) focus on “close-reading, critical thinking, and critical writing,” allowing students to comment on the text and also put their readings to use, drawing non-scholars into animated language-play and literary discussion. Dierkes-Thrun does not “make” students participate openly online but “invites” them to. When asking students to work on the open Web, it’s important to give thought to student privacy, data, and FERPA, but what is most important is that students be given space to make informed choices about how they will occupy the Web.
@@ -136,7 +136,7 @@ In her hybrid USC Annenberg course, Kathi Inman Berens works with students face-
 
 * Type of Artifact: Collaborative projects
 * Source URL: <http://spinepoetry.com/>
-* Permissions: CC BY 2.0
+* Permissions: CC-BY-NC
 * Creator: Kathi Inman Berens, USC Annenberg; Lans Pacifico; Carrie Padian; Ken Schultz; Jesse Stommel, University of Mary Washington; Jessica Zisa
 
 A hybrid learning environment deconstructs hierarchies, giving students a fuller sense of their own agency. In winter 2013, I co-taught with Kathi Inman Berens a small seminar with four non-traditional undergraduate students. Together, the students worked with the Library of Congress in Washington D.C. to build a social media campaign promoting the LOC's first exhibit of electronic literature. The students also coordinated a physical event at the Lake Oswego Library outside Portland, OR. Their goal was to bring the Library of Congress to Portland and the Web—and to bring Portland and the Web to the Library of Congress, using digital technology to connect physical work happening at two remote locations. From the [artist statement](http://spinepoetry.com/about): “Spine poems bridge the physical world of books with stories that are born digitally.” The project was the course, designed and developed by the students from the start with the teachers participating as co-learners.
@@ -146,7 +146,7 @@ A hybrid learning environment deconstructs hierarchies, giving students a fuller
 
 * Type of Artifact: Collaborative Projects
 * Source URL: <http://writing.upenn.edu/wh/>
-* Permissions: Forthcoming
+* Permissions: CC-BY-NC
 * Creator: Al Filreis, University of Pennsylvania
 
 The Kelly Writers House is housed in the Special Collections Department of Van Pelt Library at the University of Pennsylvania, but contributes to hybrid courses and projects. For example, a truly "Hybrid" Massive Open Online Course that Al Filreis began offering in 2012, "[Modern and Contemporary American Poetry](https://www.coursera.org/course/modernpoetry)," experiments with the MOOC format and hacks the Coursera platform to create opportunities for students to have a central role in both their own learning but also in the teaching of the course. Instead of focusing on video lectures at the head of each unit, Filreis hosts live discussions at the Kelly Writers House that feature himself, University of Pennsylvania students, as well as students from around the world that call in (and sometimes make visits to PA). The physical place of the Kelly Writers House becomes the fulcrum around which the online course pivots. Kelly Writers House is also home to other digital and hybrid projects, including [PennSound](http://writing.upenn.edu/pennsound/), a podcast, and online book groups, poetry readings, and more.
