@@ -1,3 +1,20 @@
+---
+title: Digital Pedagogy in the Humanities
+subtitle: Concepts, Models, and Experiments
+chapter: Labor
+URL: keywords/labor.md
+authors:
+- family: Keralis
+  given: Spencer D.C.
+- family: Andrews
+  given: Pamela
+editor:
+- family: Davis
+  given: Rebecca Frost
+publisher: Modern Language Association
+type: book
+---
+
 # Labor
 
 ### Spencer D.C. Keralis
@@ -7,6 +24,18 @@ University of North Texas | [http://spencerkeralis.com/](http://spencerkeralis.c
 ### Pamela Andrews
 
 University of North Texas | [https://www.library.unt.edu](https://www.library.unt.edu/people/pamela-andrews) 
+
+---
+
+##### Publication Status:
+* unreviewed draft
+* draft version undergoing editorial review
+* draft version undergoing peer-to-peer review
+* **draft version undergoing MLA copyediting**
+* awaiting pre-print copy
+* published 
+
+--- 
 
 ## CURATORIAL STATEMENT 
 
@@ -18,7 +47,7 @@ Student exposure to digital production in the classroom often takes the form of 
 
 ### Curation
 
-.As with [archival selection](https://digitalpedagogy.commons.mla.org/keywords/archive/), the labor choices made on digital projects reflect the values of those scholars and project managers, within the context of institutional realities (Coats & Dean). When student labor is invisible, their choices and values are elided with those of the visible authors and are rendered less valuable outside of the class assignment framework. 
+As with [archival selection](https://digitalpedagogy.commons.mla.org/keywords/archive/), the labor choices made on digital projects reflect the values of those scholars and project managers, within the context of institutional realities (Coats & Dean). When student labor is invisible, their choices and values are elided with those of the visible authors and are rendered less valuable outside of the class assignment framework. 
 
 We are not arguing against students doing “work” in class. Some form of intellectual or practical labor to demonstrate understanding and applied skills is a necessary cornerstone of most pedagogy. The digital learning environment offers potential for humanities educators to diversify the way students learn and demonstrate mastery in our classes beyond the traditional seminar paper. However, there are many considerations that instructors must make when integrating digital labor into their pedagogy. 
 
@@ -150,7 +179,7 @@ This assignment gives students the opportunity to create their own website, with
 
 #### Device Narratives Grading Rubric
 
-![screenshot](images/screenshot-labor-rubric.JPG)  
+![screenshot](images/screenshot-labor-rubric.PNG)  
 
 * Artifact Type: rubric
 * Source URL: [http://digitalmateriallabor.org/wp-content/uploads/2013/12/DH-150-14W-Final-project-assignment1.pdf](http://digitalmateriallabor.org/wp-content/uploads/2013/12/DH-150-14W-Final-project-assignment1.pdf)
@@ -221,6 +250,7 @@ Posner, Miriam. “How did they make that?” Miriam Posner’s Blog. August 29,
 Rockwell, Geoffrey. “Short Guide to Evaluation of Digital Work.” *Journal of Digital Humanities.* Vol. 1, No. 4 Fall 2012. [http://journalofdigitalhumanities.org/1-4/short-guide-to-evaluation-of-digital-work-by-geoffrey-rockwell/](http://journalofdigitalhumanities.org/1-4/short-guide-to-evaluation-of-digital-work-by-geoffrey-rockwell/)
 
 University of North Texas. “Policy 16.13.1 Research Intellectual Property.” Policies of the University of North Texas. [https://research.unt.edu/sites/default/files/08-Intellectual%20Property_%20Research%20Intellectual%20Property_0.pdf](https://research.unt.edu/sites/default/files/08-Intellectual%20Property_%20Research%20Intellectual%20Property_0.pdf)
+
 University of Oregon Libraries. “For Instructors: Student Privacy and FERPA Compliance.” October 17, 2012. [http://library.uoregon.edu/cmet/blogprivacy](http://library.uoregon.edu/cmet/blogprivacy)
 
 Wen, Shawn. “The Ladies Vanish.” *The New Inquiry.* November 11, 2014. [http://thenewinquiry.com/essays/the-ladies-vanish/](http://thenewinquiry.com/essays/the-ladies-vanish/)
