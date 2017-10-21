@@ -53,55 +53,55 @@ The curatorial vision informing the following selection of artifacts presents th
 ## CURATED ARTIFACTS
 
 #### Interracial Intimacies: Sex and Race in Toronto: 1920-1950
-![screenshot](images/fieldworkInterracialintimacies.png)
+![screenshot](images/screenshot-fieldwork-interracialintimacies.png)
 
 * Artifact Type: Website
 * Source URL: http://interracialintimacies.org/how_to.html
-* Permissions: Need to be formally obtained (editors will provide means)
+* Permissions: CC BY-NC
 * Creator and Affiliation: Elise Chenier and Stacey Makortoff (Simon Fraser University)
 * Tags: oral history; how-to guide
 
 Interracial Intimacies is an interactive website and pedagogical tool that follows a historian on her journey from research question to published article. With detailed descriptions narrating every step of the process, historian Elise Chenier describes the process of historical fieldwork for students. Chenier begins with a question on Lesbian Bar Culture in Toronto in the 1950s and ‘60s, and navigates the circuitous path—through oral interviews, archival collection, and analysis of primary sources such as maps, newspaper reports, census data, marriage certifications, and photographs—towards the final published paper on interracial relationships between men of Chinese Heritage and women of Non-Asian Heritage in Toronto between 1910 and 1950. An example of oral history as fieldwork, and a how-to guide for aspiring historians, the site demonstrates to students the twists and turns involved in historical inquiry: “The thing about oral history is you never really know what you are going to find out.”
 
 #### Digital Storytelling Project for Study Abroad Programs
-![screenshot](images/fieldworkDigitalstorytelling-assignment.png)
+![screenshot](images/screenshot-fieldwork-digitalstorytellingproject.png)
 
 * Artifact Type: Assignment
 * Source URL: http://www.melodybuckner.com/#!studyabroad/cx4z
-* Permissions: Need to be formally obtained (editors will provide means)
+* Permissions: CC BY-NC
 * Creator and Affiliation: Melody Buckner (University of Arizona)
 * Tags: digital storytelling; study abroad
 
 This website outlines a student assignment for designing digital stories within study abroad programs. It brings a popular genre of personal storytelling, spearheaded by the Berkeley Centre of Digital Storytelling, to the field, situating the digital story as the capstone project. Drawing on the genre’s emotional power, it encourages self-expression, self-discovery, and interactive narration within a reflective fieldwork practice. Instructional support is provided in the form of assignment timelines, grading rubrics, storytelling tips, sample digital stories, and suggested story-making platforms. It designs its assignment around VoiceThread, a free web-based storytelling platform that allows users to mix text, images, and audio-visual recordings with social media functionality to bring work in the field to larger networks of family, friends, and peers. While based on a six-week study abroad trip, the assignment could be adapted for shorter or longer periods. Other free digital storytelling platforms could also be incorporated into the assignment.
 
 #### Sustainability Stories from the Field
-![screenshot](images/fieldworkSustainabilitystories-digitalstudentfieldwork.png)
+![screenshot](images/screenshot-fieldwork-sustainabilitystoriesfromthefield.png)
 
 * Artifact Type: Assignment
 * Source URL: http://fieldschools.geog.uvic.ca/
-* Permissions: Need to be formally obtained (editors will provide means)
+* Permissions: CC BY-NC
 * Creator and Affiliation: Cam Owens (University of Victoria)
 * Tags: student digital fieldwork; blogging
 
 This website showcases student digital fieldwork undertaken since 2012 during sustainability field courses run by the University of Victoria’s Department of Geography. The site discusses and shares “ examples of sustainability, resilience, regeneration” relevant to local and international fieldwork. These examples find expression in a range of student digital stories, including short videos, travel blogs, and interactive maps on topics like the creation of biking networks in Victoria and urban efforts to battle climate change. The website’s curatorial vision makes it pedagogically useful in digital fieldwork:  year by year, it compiles work by different students, at different stages of progress, and from different field courses, promoting a work-in-progress, team-based curatorial practice. Curation typically happens at one point; this website shows its integration in fieldwork, giving students a site for shared learning and expression, and instructors a model for collecting student fieldwork and giving value to it at various stages of development.
 
 #### Doing Feminist Theory through Digital Video
-![screenshot](images/fieldworkFeministvideo.png)
+![screenshot](images/screenshot-fieldwork-doingfeministtheory.png)
 
 * Artifact Type: Collaborative project 
 * Source URL: http://www.doingfeministtheory.ca/
-* Permissions: Need to be formally obtained (editors will provide means)
-* Creator and Affiliation: Rachel Hurst, Rory Begin, and Holly Chute (St. Francis Xavier University)
+* Permissions: CC BY-NC
+* Creator and Affiliation: Rachel Alpha Johnston Hurst, Rory Begin, and Holly Chute (St. Francis Xavier University)
 * Tags: digital video; feminist theory
 
 Students of a feminist theory course at St. Francis Xavier University were asked to consult with community groups in the field to create short, non-documentary digital videos (3-5 minutes in length) on a concept relevant to the study of feminist theory, such as decolonization, power, or sexual violence. “Inspired by the literatures on digital storytelling, participatory video, and creative feminist pedagogies,” students met with community groups and organizations and scripted and directed their documentaries with their community partners in mind. This detailed assignment sheet provides students with step-by-step instructions for every stage of the process: from conceptualizing and planning to strategies for meeting and working with community partners; from providing a curated list of videos students could use for inspiration to technical information about filming and editing. In addition to the assignment, the website includes research outcomes and links to the student videos produced in the course.
 
 #### Why We Like Pinterest for Fieldwork
-![screenshot](images/fieldworkWhywelikepinterestforfieldwork-digitaltool.png)
+![screenshot](images/screenshot-fieldwork-whywelikepinterestforfieldwork.png)
 
 * Artifact Type: Digital tool
 * Source URL: https://socialmediacollective.org/2014/07/14/why-we-like-pinterest-for-fieldwork/
-* Permissions: Need to be formally obtained (editors will provide means)
+* Permissions: CC BY-NC
 * Creator and Affiliation: Phil Howard (University of Oxford) and Nikki Usher (George Washington University)
 * Tags: Pinterest
 
@@ -109,18 +109,18 @@ Efficiently collecting data  during fieldwork is challenging. Notes scribbled on
 
 
 #### The Million Image Database
-![screenshot](images/fieldworkMillionImageDatabase.png)
+![screenshot](images/screenshot-fieldwork-themillionimagedatabase.png)
 
 * Artifact Type: Collaborative project
 * Source URL: http://www.millionimage.org.uk/
-* Permissions: Open-Access (permission may still need to be obtained) 
+* Permissions: Open-Access http://www.millionimage.org.uk/copyright/
 * Creator and Affiliation: The Institute for Digital Archaeology
 * Tags: open-access; Million Image Database; social fieldwork; cultural heritage
 
 The Million Image Database is an open-access photographic collection of world cultural heritage materials. Inspired by Wikipedia’s collaborative knowledge-assembling effort, the Institute of Digital Archaeology launched this social fieldwork project in collaboration with UNESCO and other academic partners. The site gathers images of objects, architecture, and places to document and preserve “humanity’s history as represented by the things we build” for now and the future. Through interactive maps, users can gain access, to high-quality anaglyph images of cultural sites. The database depends entirely on its user community: the Institute accepts all contributions and asserts no copyright over its images, making them available to exchange freely and without attribution. Though still in development, this database has the potential to become an important resource for digital heritage and virtual fieldwork as well as a teaching and learning platform for raising complex debates about citizen fieldwork, cultural rights and appropriation, and digital repatriation.
 
 #### A Journey Upstream: The Past and Presence of an “Extinct” People (Trailer)
-![screenshot](images/fieldworkAJourneyUpstream-documentarytrailer.png)
+![screenshot](images/screenshot-fieldwork-ajourneyupstream.png)
 
 * Artifact Type: Student work
 * Source URL: https://vimeo.com/78530205
@@ -131,7 +131,7 @@ The Million Image Database is an open-access photographic collection of world cu
 This is a trailer for the documentary “A Journey Upstream: The Past and Presence of an ‘Extinct’ People,” directed by archaeology graduate student, Erica Kowsz, and part of SEARCH, a multi-institutional archaeology, cultural heritage, and linguistics project. The project documents the history and continued presence of the Sinixt Nation in British Columbia, despite the Canadian government having pronounced it “extinct” in 1956. An example of student digital fieldwork, the video demonstrates technology’s crucial role in documentation, with interviews of the supposedly “extinct” members of Sinixt Nations. Currently in the data collection stage, the video exemplifies project staging, allowing the public some access to the project’s historical context and aims before completion. The project also demonstrates how students use multimedia to create and disseminate archaeological and anthropological research. The video, reflecting a preliminary stage of research, does not address directly issues of ownership and management of the documentary videos.
 
 #### A Look at the BISC Digital Humanities Field School
-![screenshot](images/fieldworkBiscTV.png)
+![screenshot](images/screenshot-fieldwork-biscdigitalhumanities.png)
 
 * Artifact Type: Video
 * Source URL: https://youtu.be/PCSzXG536BU
@@ -142,7 +142,7 @@ This is a trailer for the documentary “A Journey Upstream: The Past and Presen
 In this video, visiting fellow Chris Jones describes the Field School in Digital Humanities, offered in 2015, where students visit two medieval parish churches in Surrey containing historical objects that Jones is digitizing: a 1615 King James Bible and various medieval wall paintings. The field school’s aim is to investigate which digitizing technologies are appropriate for the artifacts. The video’s pedagogical use lies in its advocacy for site-specific research, to assess historical artifacts in the sites they would have been originally experienced in order to understand their social and material significance. High-resolution digital photos, for instance, distort the original experience of viewing the wall paintings by candlelight, and the censorship of the images during the medieval period. The video thus considers the adequacy of digital photography and videography as documentary tools, suggesting the need for contextualization through other media. It also demonstrates the need for site-specific sensitivity in digital fieldwork.
 
 #### Rome Lab
-![screenshot](images/fieldworkRomeLab.png)
+![screenshot](images/screenshot-fieldwork-romelab.png)
 
 * Artifact Type: Digital tool
 * Source URL: http://www.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=6bfc7de39700434bbc9c1df48fed8b52
@@ -153,11 +153,11 @@ In this video, visiting fellow Chris Jones describes the Field School in Digital
 RomeLab recreates three critical editions of the Roman Forum, for 210 BCE, 160 BCE, and 44 BCE. Developed within ArcGIS online using ArcMap shapefiles in Esri CityEngine, the project virtually reconstructs the Roman Forum at historical moments within interactive, three-dimensional interfaces. The interface allows the user to navigate within the reconstruction and view it from different perspectives. In performing virtual reconstruction, the researchers’ aim is to create “digital laboratories” where individuals can have a virtual world experience. These digital laboratories enable students and scholars to bring the field home, with digital technology enhancing what can be seen on-site, opening up new spatial perspectives and virtually reconstructing buildings that no longer exist. A built-in comparison tool uses a split-screen function to visualize different possible reconstructions, where data sources are uncertain or conflicting. The tool thus allows a screen-based fieldwork, as students and scholars can virtually reconstruct buildings in ways impossible on-site.
 
 #### 2013 Cultural Heritage Informatics Fieldschool: Visualization: Time, Space, and Data
-![screenshot](images/fieldworkCHIfieldschool-coursewebsite1.png)
+![screenshot](images/screenshot-fieldwork-culturalheritageinformatics.png)
 
 * Artifact Type: Program design/assignments
 * Source URL: http://chi.anthropology.msu.edu/fieldschool/
-* Permissions: Need to be formally obtained (editors will provide means)
+* Permissions: CC BY-NC
 * Creator and Affiliation: Ethan Watrall (Michigan State University)
 * Tags: field school; visualization; maps; space; time
 
@@ -196,7 +196,7 @@ Haraway, Donna. “Situated Knowledges: The Science Question in Feminism and the
 
 Howard, Phil and Nikki Usher. “Why We Like Pinterest for Fieldwork.” *Social Media Collective*, 14 Jul. 2014, https://socialmediacollective.org/2014/07/14/why-we-like-pinterest-for-fieldwork/. Accessed 15 Aug. 2016.
 
-Hurst, Rachel, Rory Begin and Holly Chute. *Doing Feminist Theory Through Digital Video*. St. Francis Xavier University, http://www.doingfeministtheory.ca/. Accessed 15 Aug. 2016.
+Hurst, Rachel Alpha Johnston, Rory Begin and Holly Chute. *Doing Feminist Theory Through Digital Video*. St. Francis Xavier University, http://www.doingfeministtheory.ca/. Accessed 15 Aug. 2016.
 
 Hyndman, Jennifer. “The Field as Here and Now, Not There and Then.” *Geographical Review*, vol. 91, no. 1, 2001, pp. 262-272. *JSTOR*, http://www.jstor.org.proxy.lib.sfu.ca/stable/3250827. Accessed 15 Aug. 2016.
 
