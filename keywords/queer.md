@@ -59,7 +59,7 @@ If queer pedagogy is about "the problem of curriculum [becoming] one of prolifie
 ![screenshot](images/screenshot-queer-refracting.jpg)
 * Artifact Type: syllabus, course site, reading list
 * Source URL: http://thejarahtree.com/2014/07/05/refracting-digital-humanities/
-* Permissions: 
+* Permissions: CC-BY-NC
 * Creator and Affiliation: Jarah Moesch, American Studies, University of Maryland
 * Tags: advanced
 
@@ -70,7 +70,7 @@ Self-described as "an experimental artist-scholar who uses the queer sick body t
 ![screenshot](images/screenshot-queer-archive-project.jpg)
 * Artifact Type: assignment
 * Source URL: http://sites.psu.edu/245spring2015/about/archive-project/
-* Permissions: Yes
+* Permissions: CC-BY-NC
 * Creator and Affiliation: Colin Hogan, English, Penn State University
 * Tags: archives, crowdsourcing, representation
 
@@ -81,7 +81,7 @@ Hogan's "English and Women's Studies 245: Introduction to Lesbian and Gay Studie
 ![screenshot](images/screenshot-queer-twitter.jpg)
 * Artifact Type: assignments
 * Source URL: http://litilluminations.wordpress.com/2014/01/31/digital-pedagogy-close-reading-and-learning-in-public/
-* Permissions: Yes
+* Permissions: CC-BY-NC
 * Creator and Affiliation: Petra Dierkes-Thrun, Comparative Literature, Stanford University
 * Tags: close reading, Oscar Wilde, Charles Baudelaire, Twitter
 
@@ -92,7 +92,7 @@ Dierkes-Thrun's website offers a quick overview of the variety of different digi
 ![screenshot](images/screenshot-queer-ilogs.jpg)
 * Artifact Type: assignment
 * Source URL: http://www.edmondchang.com/466/assignments.html
-* Permissions: Yes
+* Permissions: CC-BY-NC
 * Creator and Affiliation: Edmond Y. Chang, English, Ohio University
 * Tags: identity
 
@@ -148,11 +148,11 @@ The Digital Storytelling Project is a Seattle-based project suppored by Queering
 ![screenshot](images/screenshot-queer-lim.jpg)
 * Artifact Type: digital game
 * Source URL: http://mkopas.net/files/Lim/
-* Permissions: Yes
+* Permissions: CC-BY-NC
 * Creator and Affiliation: merritt k
 * Tags: teachable game, 5-minute game, getting started, queer glitches
 
-OOn the surface, Lim is a very simple game where the play moves a small, flashing, multi-hued square through a maze populated by other squares. At first, the other squares do not bother the player's avatar as long as they blend in. But, as the player progresses, the other squares begin to attack the player's square. Lim is about many things: identity, difference, belonging, passing, and so on. The game is brief and accessible via common web browsers.  Lim also provides much needed opportunities to talk about how game content and narrative intersects with game mechanics and algorithms.  The game paired with Ian Bryce Jones's [Lesson Plan: You’re There. You’re a Square. Get Over It.](https://intermittentmechanism.wordpress.com/2016/11/16/lesson-plan-games-about-squares/), which talks about teaching procedural representation.  Finally, Lim is demonstrative of not only queer issues and concerns but of the success of queer, independent game-makers such as merrit k.    
+On the surface, Lim is a very simple game where the play moves a small, flashing, multi-hued square through a maze populated by other squares. At first, the other squares do not bother the player's avatar as long as they blend in. But, as the player progresses, the other squares begin to attack the player's square. Lim is about many things: identity, difference, belonging, passing, and so on. The game is brief and accessible via common web browsers.  Lim also provides much needed opportunities to talk about how game content and narrative intersects with game mechanics and algorithms.  The game paired with Ian Bryce Jones's [Lesson Plan: You’re There. You’re a Square. Get Over It.](https://intermittentmechanism.wordpress.com/2016/11/16/lesson-plan-games-about-squares/), which talks about teaching procedural representation.  Finally, Lim is demonstrative of not only queer issues and concerns but of the success of queer, independent game-makers such as merrit k.    
 
 
 [Personal Narrative Audio Essay](http://digitalwriting101.net/content/assignment-personal-narrative-audio-essay-upper-division/)
