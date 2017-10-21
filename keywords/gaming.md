@@ -1,3 +1,7 @@
+---
+title: Digital Pedagogy in the Humanities
+subtitle: Concepts, Models, and Experiments
+chapter: Gaming
 URL: keywords/gaming.md
 author: 
 - family: Phillips
