@@ -53,7 +53,7 @@ This collection brings together a handful of resources that cross boundaries bet
 #### Learning Spaces
 ![screenshot](images/Classroom_Artifact_2_Learning_Spaces.png)
 * Artifact Type: Examples of physical classroom design spaces
-* Artifact Permissions: Public Website 
+* Artifact Permissions: Copyright Educause, Available as a free download
 * Source: [http://www.educause.edu/research-and-publications/books/learning-spaces](http://www.educause.edu/research-and-publications/books/learning-spaces)
 * Creators: Diana G. Oblinger, Editor
 
@@ -62,7 +62,7 @@ This edited collection, published by Educause, is available as a free PDF. It ex
 #### The Impact of Classroom Design on Student Learning
 ![screenshot](images/Classroom_Artifact_3_Impact_of_Design.png)
 * Artifact Type: Background reading
-* Artifact Permissions: Public Website 
+* Artifact Permissions: CC-BY 4.0 
 * Source: [http://www.sciencedirect.com/science/article/pii/S0360132315000700](http://www.sciencedirect.com/science/article/pii/S0360132315000700)
 * Creators: Peter Barrett, Fay Davies, Yufan Zhang & Lucinda Barrett 
 
@@ -71,7 +71,7 @@ This study found that differences in physical environments had a measurable impa
 #### Classroom Design Matters
 ![screenshot](images/Classroom_Artifact_4_Classroom_Design_Matters.png)
 * Artifact Type: Classroom Design Examples
-* Artifact Permissions: Public Website 
+* Artifact Permissions: unknown	 
 * Source: [http://kerileebeasley.com/2015/08/16/classroom-design-matters/](http://kerileebeasley.com/2015/08/16/classroom-design-matters/)
 * Creators: Keri-Lee Beasley
 
@@ -80,7 +80,7 @@ This blog site by digital literacy coach, Keri-Lee Beasley, includes a post titl
 #### "Space, The Final Frontier" 
 ![screenshot](images/Classroom_artifact_5_Stephen_Heppell.png)
 * Artifact Type: video
-* Artifact Permissions: Public Youtube video
+* Artifact Permissions: Standard YouTube License
 * Sources: [https://www.youtube.com/watch?v=kemWMuaHjBs 
 * Creator: Stephen Heppell
 
@@ -88,6 +88,8 @@ This video by Stephen Heppell is a thought-provoking resource for thinking about
 
 #### "The Seven Spaces of Technology in School Environments" 
 ![screenshot](images/Classroom_artifact_6_Ewan_McIntosh.png)
+* Artifact Type: video
+* Artifact Permissions: CC BY-NC-ND 3.0
 * Source: [https://vimeo.com/15945912]
 * Creator: Ewan McIntosh
 
@@ -106,6 +108,8 @@ This activity, designed for college-level classrooms, asks students (and teacher
 
 #### Learning Spaces Course Plan 
 ![screenshot](images/Classroom_Artifact_7_Learning_spaces_syllabus.png)
+* Artifact Type: Course Plan
+* Artifact Permissions: Author Permission
 * Source: [https://drive.google.com/folderview?id=0B0vrL-DffM_dZ200b1FPYnR5Ujg&usp=sharing](https://drive.google.com/folderview?id=0B0vrL-DffM_dZ200b1FPYnR5Ujg&usp=sharing)
 * Creator: Joyce R. Walker
 
@@ -115,7 +119,7 @@ The following course plan takes activity theory and learning spaces as its two k
 #### There's No App for Good Teaching: Eight Ways to Think about Tech
 ![screenshot](images/Classroom_artifact_8_No_Good_App_for_Teaching.png)
 * Artifact Type: TED article
-* Artifact Permissions: Public Website
+* Artifact Permissions: "© TED Conferences, LLC"
 * Source: [https://ideas.ted.com/theres-no-app-for-good-teaching/](https://ideas.ted.com/theres-no-app-for-good-teaching/)
 * Creators: Laura Moorhead
 
@@ -124,8 +128,7 @@ This TED article focuses on thinking about technology wisely in the classroom. I
 #### Free Tech for Teachers 
 ![screenshot](images/Classroom_artifact_9_Bryne_Free_Tech_For_Teachers.png)
 * Artifact Type: resource website
-* Artifact Permissions: Public Website
-
+* Artifact Permissions: copyright Byrne Instructional Media, LLC
 * Source: [http://www.freetech4teachers.com/](http://www.freetech4teachers.com/)
 * Creator: Richard Byrne
 
@@ -135,8 +138,8 @@ Once instructors have considered what kinds of learning activities they might wa
 #### Universal Design for Learning: Examples of UDL in Practice
 ![screenshot](images/Classroom_artifact_UDL_in_practice.png)
 * Artifact Type: UDL Course Plan examples
-* Artifact Permissions: Public Website
-* Source: [http://www.uvm.edu/~cdci/universaldesign/?Page=about-udl/examples.php&SM=about-udl/submenu.html/](http://www.uvm.edu/~cdci/universaldesign/?Page=about-udl/examples.php&SM=about-udl/submenu.html/)
+* Artifact Permissions: ©2017 THE UNIVERSITY OF VERMONT
+* Source: [https://www.uvm.edu/~cdci/universaldesign/?Page=about-udl/guidelines-principles.php&SM=about-udl/submenu.html](https://www.uvm.edu/~cdci/universaldesign/?Page=about-udl/guidelines-principles.php&SM=about-udl/submenu.html)
 * Creator: University of Vermont, College of Education and Social Services
 
 This website offers a wealth of practical information for post-secondary instructors working to understand and implement universal design for learning principles in their classrooms. The site contains overview materials and general guidelines as well, but the links on this page offer specific examples of how UDL principles can reshape learning environments throughout the university. In particular, these resources can help instructors think about issues of accessibility, but also issues of inclusive learning strategies; ways of making learning more active and offering students multiple ways to demonstrate their learning. Instructors may also want to visit the [Universal Design for Learning website](http://udloncampus.cast.org/page/planning_landing#.WeQGHBNSw0o) for another overview of UDL principles.
