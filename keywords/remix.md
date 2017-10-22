@@ -71,17 +71,16 @@ In this short article for *The Journal of Interactive Technology and Pedagogy*, 
 The non-linear, digital book *Flows of Reading* provocatively takes as its case study the canonical American novel *Moby Dick*. The section titled “Appropriation and Remixing” argues for an understanding of literature as an appropriative practice, and also provides some creative examples of remix assignments that connect popular culture to canonical literature. The subsections “Reading a Remix” and “Creating a Remix” offer both assignments and multimedia content that guide students through the questions that underpin good remix practice (e.g., “when and how should they borrow from other people’s work” (10)). Those with particular interests in a comprehensive lesson plan should also examine the affiliated [*Teachers’ Strategy Guide Unit: Appropriation and  Remixing*](http://www.newmedialiteracies.org/teachers-strategy-guide-approp/). While its content is designed for high school students, the activities are easily adaptable for more advanced students.
 
 
+# Audio Collage Assignment
 
-# Audio, Archives, and the Affordance of Listening in a Pedagogy of “Difference”
-
-![screenshot](images/remix-middleton-audioarchives.png)
-* Artifact Type: article about teaching
+![screenshot](images/remix-middleton-audiocollage.png)
+* Artifact Type: assignment
 * Source URL: http://www.sciencedirect.com/science/journal/87554615
 * Artifact Permissions: all rights reserved by Elsevier
-* Copy of the Artifact:
+* Copy of the Artifact:  files/remix-Audio-Collage-Assignment.pdf
 * Creator: Jean Bessette, University of Vermont
 
-In this article from the 2016 issue of the *Computers and Composition* journal, Jean Bessette describes a 4-6 minute audio collage assignment designed to “explore a focused, complex, and nuanced topic in gender and sexuality” (75). Here, students select and assemble materials from an online archive of gay liberation radio shows. She interprets two case studies of student projects, and highlights the emergence of their personal and rhetorical inquiry within the confines of the assignment. In addition to the model assignment, however, Bessette makes a larger argument about the outcomes of the approach. The process of listening to prepare to make the collage involves both listening widely to a number of elements in the archive, and listening iteratively in the selection and editing process. These, she contends, contribute not only to students’ increased engagement with the texts, but also to an openness toward difference when the archive material is far from students’ experience and comfort zone.
+This 4-6 minute audio collage assignment is designed, as Jean Bessette describes in an article from the 2016 issue of the *Computers and Composition* journal, to “explore a focused, complex, and nuanced topic in gender and sexuality” (75). Here, students select and assemble materials from an online archive of gay liberation radio shows. In the article, she interprets two case studies of student projects, and highlights the emergence of their personal and rhetorical inquiry within the confines of the assignment. In addition to the model assignment, however, Bessette makes a larger argument about the outcomes of the approach. The process of listening to prepare to make the collage involves both listening widely to a number of elements in the archive, and listening iteratively in the selection and editing process. These, she contends, contribute not only to students’ increased engagement with the texts, but also to an openness toward difference when the archive material is far from students’ experience and comfort zone.
 
 
 # ds106
