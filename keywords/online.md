@@ -56,7 +56,7 @@ As expected, questions of embodiment and presence pervade the literature on onli
 ### Authorship
 
 #### Fork U! Resource Page
-![screenshot](images/Online-forku-assignments.png)
+![screenshot](images/screenshot-online-forku.png)
 
 * Artifact type: Assignments, guide for learning and using Github
 * Source URL: [http://oudiglearn.github.io/forku/](http://oudiglearn.github.io/forku/)
@@ -67,7 +67,7 @@ GitHub is a platform for authorship, collaboration, and peer review. Originally 
 
 
 #### ds106 Assignment Bank creator
-![screenshot](images/Online-ds106-AssignmentBank.png)
+![screenshot](images/screenshot-online-ds106.png)
 
 * Artifact type: Github repository
 * Source URL: [https://github.com/cogdog/ds106bank](https://github.com/cogdog/ds106bank)
@@ -78,7 +78,7 @@ GitHub allows users to “fork” files from other users and make changes to pro
 
 
 #### ThoughtVectors in Concept Space syllabus
-![screenshot](images/Online-thoughtvectors-syllabus.png)
+![screenshot](images/screenshot-online-thoughtvectors.png)
 
 * Artifact type: Syllabus
 * Source URL: [http://thoughtvectors.net/syllabus/](http://thoughtvectors.net/syllabus/)
@@ -88,7 +88,7 @@ GitHub allows users to “fork” files from other users and make changes to pro
 Thought Vectors, a course offered at Virginia Commonwealth University, follows the model of [Domain of One’s Own](https://medium.com/bright/the-web-we-need-to-give-students-311d97713713#.y7hguujk3) an initiative based on the idea that every learner should have a domain on the web that they control, and upon which they can install tools they want to use as part of their digital identity and work. Gardner Campbell (Campbell, “A Personal Cyberinfrastructure) noted, “In building that personal cyberinfrastructure [through domain of one’s own], students not only would acquire crucial technical skills for their digital lives but also would engage in work that provides richly teachable moments ranging from multimodal writing to information science, knowledge management, bibliographic instruction, and social networking.” The Thought Vectors syllabus features a video from the course librarian, Jenny Stout, that helps students to think about the importance of sharing their ideas, through participation on the web, saying “we don’t really know what could happen…amazing things could happen.”
 
 #### digipo: The Digital Polarization Initiative
-![screenshot](images/Online_digipo.png)
+![screenshot](images/screenshot-online-digipo.png)
 
 * Artifact type: Assignment
 * Source URL: [https://www.digipo.io/wiki/commons/index.htm](https://www.digipo.io/wiki/commons/index.htm)
@@ -101,7 +101,7 @@ Mike Caulfield launched digipo, a wiki where students from any university or col
 ### Community
 
 #### clMOOC
-![screenshot](images/Online-clmooc-course.png)
+![screenshot](images/screenshot-online-clmooc.png)
 
 * Artifact type: Online community and course
 * Source URL: [http://clmooc.educatorinnovator.org/2015/](http://clmooc.educatorinnovator.org/2015/)
@@ -112,7 +112,7 @@ Many of today’s MOOCs—explicitly or implicitly—do not aim to foster commun
 
 
 #### FemTechNet: Key Learning Projects
-![screenshot](images/Online_FemTechNet-Assignments.png)
+![screenshot](images/screenshot-online-femtechnet.png)
 
 * Artifact type: Assignments
 * Source URL: [http://femtechnet.org/get-involved/self-directed-learners/key-learning-project/](http://femtechnet.org/get-involved/self-directed-learners/key-learning-project/)
@@ -122,7 +122,7 @@ Many of today’s MOOCs—explicitly or implicitly—do not aim to foster commun
 FemTechNet is a community that sponsors DoCCs—Distributed Open Collaborative Courses. DoCCs center on community building as a part of a feminist pedagogy orientation. The key learning projects are both the product of a community and an opportunity to create further community. The Community Participation via Blog Commenting project is a great model for giving learners skills and opportunities to engage with a professional community of their choosing. The project teaches students about intentionally participating in an online community and how preparation for engaging with that community (e.g., through formulating a rhetorical stance) can help them to connect to experts and to understand how communities work (and sometimes don’t work) in online settings. Additional key learning projects have been highlighted in this collection, including [the Situated Knowledges Map](https://digitalpedagogy.commons.mla.org/keywords/gender/), and the [Exquisite Engendering Remix](https://digitalpedagogy.commons.mla.org/keywords/remix/).
 
 #### The Daily Connector
-![screenshot](images/Online_ccourses_dailyconnector.png)
+![screenshot](images/screenshot-online-dailyconnector.png)
 
 * Artifact type: Assignments
 * Source URL: [https://dailyconnector.wordpress.com/](https://dailyconnector.wordpress.com/)
@@ -135,7 +135,7 @@ Henry Jenkins et al. (5) describe participatory culture as a culture with low ba
 ### Presence
 
 #### Introduction to Still Photography syllabus
-![screenshot](images/Online-stillphotography-syllabus.png)
+![screenshot](images/screenshot-online-introphotography.png)
 
 * Artifact type: Syllabus
 * Source URL: [https://voicethread.com/myvoice/#thread/2610203](https://voicethread.com/myvoice/#thread/2610203)
@@ -145,7 +145,7 @@ Henry Jenkins et al. (5) describe participatory culture as a culture with low ba
 In her paper on embodiment in online learning, Sîan Bayne notes, “that, in cyberspace and elsewhere, mind and body are indivisible entities is not to prevent us from looking to new technological environments as spaces where the conventional constraints and significations of embodiment can be challenged and shifted. The challenge to learners and teachers in cyberspace is in devising creative pedagogical approaches which work with these new articulations.” Voice-sharing technologies may help to combat disengagement in online courses. Voice can provide a sense of embodiment in online courses, where interactions may be limited to audio and video. Michelle Pacansky-Brock voice-annotates her syllabus and assignments, and she voices feedback to students. Her approach becomes a model for students on how to share their vocal presence with others in the course. Pacansky-Brock invites students to annotate course resources and assignments together giving students a chance to embody their work with their voices. 
 
 #### The Daily Create
-![screenshot](images/Online_ds106_dailycreate.png)
+![screenshot](images/screenshot-online-dailycreate.png)
 
 * Artifact type: Assignments
 * Source URL: [http://daily.ds106.us/](http://daily.ds106.us/)
@@ -156,7 +156,7 @@ Henry Jenkins et al. (5) describe participatory culture as having low barriers t
 
 
 #### Annotation Flash Mob
-![screenshot](images/Online-blogpost-annotationflashmob.png)
+![screenshot](images/screenshot-online-annotationflashmob.png)
 
 * Artifact type: Blog post with links to assignment details
 * Source URL: [https://gamesandlearning.wordpress.com/2016/04/27/about-that-annotation-flash-mob/](https://gamesandlearning.wordpress.com/2016/04/27/about-that-annotation-flash-mob/)
