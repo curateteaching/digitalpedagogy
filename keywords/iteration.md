@@ -58,7 +58,7 @@ Below are ten examples of iteration in digital pedagogy, spanning classes in com
 ### Iteration for multiple perspectives
 
 #### Map Labs + Atlas
-![screenshot](images/iteration-maplabs.png)
+![screenshot](images/iteration-maplabs.jpg)
 
 * Artifact Type: Portfolio assignment
 * Source: [http://www.wordsinspace.net/mapsmedia/fall2015/requirements-assignments/](http://www.wordsinspace.net/mapsmedia/fall2015/requirements-assignments/) [screenshot](http://www.wordsinspace.net/mapsmedia/fall2015/category/map-critiques/)
