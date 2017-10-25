@@ -58,7 +58,7 @@ Below are ten examples of iteration in digital pedagogy, spanning classes in com
 ### Iteration for multiple perspectives
 
 #### Map Labs + Atlas
-![screenshot](https://www.dropbox.com/home/iterationpedagogicalmaterials/iterationfiles_Sept2017/images?preview=screenshot-iteration-maplabs.png)
+![screenshot](images/iteration-maplabs.png)
 
 * Artifact Type: Portfolio assignment
 * Source: [http://www.wordsinspace.net/mapsmedia/fall2015/requirements-assignments/](http://www.wordsinspace.net/mapsmedia/fall2015/requirements-assignments/) [screenshot](http://www.wordsinspace.net/mapsmedia/fall2015/category/map-critiques/)
@@ -74,7 +74,7 @@ Additional student examples: [http://www.wordsinspace.net/wordpress/2013/12/18/m
 
 
 #### Prototyping Texts
-![screenshot](images/iteration-PrototypingTexts-Sayers.png)
+![screenshot](images/iteration-prototypingtextssyllabus.jpg)
 
 * Artifact Type: Syllabus
 * Source: [https://jentery.github.io/508/](https://jentery.github.io/508/)
@@ -90,7 +90,7 @@ Student examples: [Tiffany Chan’s “Act Natural”](http://eltiffster.github.
 
 
 #### “Words and Images ‘Notes’ and ‘Bios’”
-![screenshot](images/iteration-WordsAndImages-Banazek.png)
+![screenshot](images/iteration-wordsandimagesbios.jpg)
 
 * Artifact Type: Unit with readings and assignments
 * Source: [‘Notes’ and ‘Bios’ Unit for the Words and Images Course](http://kebanazek.com/wai/banazek-wai-bios.pdf)
@@ -101,7 +101,7 @@ Student examples: [Tiffany Chan’s “Act Natural”](http://eltiffster.github.
 In “Words and Images,” an undergraduate literature course, Kerry Banazek asks students to introduce themselves with six iterations of biographies: a paragraph, a sentence, five words, punctuation marks only, four emojis, then unlimited emojis. This exercise kicks off the course and a unit focused on expressing meaning and affect in both image and word. Later in the term, students translate poems into emoji and invent visualization methods for tracking patterns in poems. These iterative translation exercises help students develop dexterity in producing meaningful images and illustrative words.
 
 #### Exercises in Style
-![screenshot](images/iteration-ExercisesInStyle-Brooke.png)
+![screenshot](images/iteration-exercisesinstyle.jpg)
 
 * Artifact Type: Weekly exercises
 * Source: 
@@ -114,7 +114,7 @@ Collin Brooke’s undergraduate writing course was explicitly modeled on Queneau
 ### Iteration for Proliferation
 
 #### Digital Creative Writing
-![screenshot](images/iteration-DigitalCreativeWriting-Flores.png)
+![screenshot](images/iteration-digitalcreativewriting.jpg)
 
 * Artifact Type: Syllabus
 * Source: [http://leonardoflores.net/3238/](http://leonardoflores.net/3238/)
@@ -129,7 +129,7 @@ Student Twitterbots: [@atinyzoo](https://twitter.com/atinyzoo) [@BadNewsLetter](
 [Taroko Gorge remix collection in *Electronic Literature Volume 3*](http://collection.eliterature.org/3/collection-taroko.html)
 
 #### Internet Poetry
-![screenshot](images/iteration-InternetPoetry-Sullivan.png)
+![screenshot](images/iteration-internetpoetryassignment.jpg)
 
 * Artifact Type: Assignment
 * Source: [http://courses.rachaelsullivan.com/248/internet-poetry.html](http://courses.rachaelsullivan.com/248/internet-poetry.html)
@@ -142,7 +142,7 @@ With inspiration and theoretical background from Kenneth Goldsmith’s “uncrea
 ### Iteration as versioning
 
 #### “Concept in 60 Seconds” / “Emotion in 60 seconds” / “Audio cut-up”
-![screenshot](images/iteration-ComposingDigitalMedia-Hall.png)
+![screenshot](images/iteration-conceptin60.jpg)
 
 * Artifact Type: Assignment sequence
 * Sources:
@@ -161,7 +161,7 @@ Lauren Rae Hall, University of Pittsburgh
 Three iterations of this “60 seconds” audio/video assignment are featured here, all of which help students to try out audio/video composing with low stakes. “Concept in 60 Seconds” was developed by Scott Lloyd DeWitt, who co-runs the [Digital Media and Composition Institute (DMAC)](http://www.dmacinstitute.com/) at Ohio State. This assignment, which DeWitt describes the origins and motivations for in [“In Context (Techne in 60)”](http://www.dmacinstitute.com/showcase/issues/no1/dewitt-techne-60-context)”, asks students to compose a 60 second video that illustrates a concept such as rigor, loss, or comfort. Trisha Campbell revised the assignment to focus on an emotion such as first kiss, hunger, or how your grandmother makes you feel. Lauren Rae Hall’s version borrows from Campbell’s, then leads into a larger, Burroughs-inspired “Audio Cut-up” project, which asks students to make a “cut-up” of sound, speech and music to create a story, poem, song or argument that evokes emotion. As Hall’s sequence demonstrates, the “60 seconds” assignment could be used alone or as an early iteration—not meant for revision, but instead for preparing students for deeper engagement with a composition platform and paradigm.
 
 #### EBook Conversion Project
-![screenshot](images/iteration-EPubScreenshot-Lockridge.png)
+![screenshot](images/iteration-epubassignment.png)
 
 * Artifact Type: Assignment
 * Source: 
@@ -174,7 +174,7 @@ Tim Lockridge’s undergraduate Digital Publishing course teaches students about
 [Student Production Memo, by Collins, Duffy, Maggio and Moore](files/iteration-EPubAssignment-Lockridge-StudentProductionMemoCollinsMaggioMoore)
 
 #### Social Media Bios
-![screenshot](images/iteration-SocialMediaBios-Lockett.png)
+![screenshot](images/iteration-socialmediabios.jpg)
 
 * Artifact Type: Assignment
 * Source: [http://spelmanwrites384.tumblr.com/post/142041620452/week-11](http://spelmanwrites384.tumblr.com/post/142041620452/week-11)
