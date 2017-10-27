@@ -63,7 +63,7 @@ These resources are intended for instructors who are looking to supplement their
 * Copy of the Artifact: 
 * Creator and Affiliation: Edmond Chang (Ohio University)
 
-Edmond Chang’s plog assignment asks students to perform critical analysis of games in the manner of a close reading. In a reflective essay on the concept of close playing, Chang offers an important and thorough articulation of a practice that should be central to any study of games in a humanities classroom. Close playing, while evoking the literary practice of close reading, is a cyborg analytical practice that holds multiple threads and viewing angles in tension. It is difficult to do well. In Chang’s words, close playing lays at “the intersection of form, function, meaning, and action,” – an important formulation to keep in mind when students are frequently tempted to linger on representation while academics might emphasize form. His reflection, and this assignment is a reminder that the best game studies work can deftly shift between different registers of analysis to provide a comprehensive understanding of these complicated multimedia texts. Plogs and other close playing exercises in the classroom can bridge the gap between traditional literary studies and the study of video games, promoting the attention to detail that is the hallmark of close reading and the breadth of analysis that is required to understand complex systems. 
+Edmond Chang’s plog assignment asks students to perform critical analysis of games in the manner of a close reading. Chang explains that close playing is a cyborg analytical practice that holds multiple threads and viewing angles in tension. In Chang’s words, close playing lays at “the intersection of form, function, meaning, and action,” – an important formulation to keep in mind when students are frequently tempted to linger on representation while academics might emphasize form ("Close Playing"). His reflection, and this assignment is a reminder that the best game studies work can deftly shift between different registers of analysis to provide a comprehensive understanding of these complicated multimedia texts. Such exercises in the classroom can bridge the gap between traditional literary studies and the study of video games, promoting the attention to detail that is the hallmark of close reading and the breadth of analysis that is required to understand complex systems. 
 
 #### Talkthroughs: Bioshock’s Fort Frolic
 
@@ -101,24 +101,26 @@ In this article, Samantha Allen details two specific lesson plans using video ga
 * Copy of the Artifact: 
 * Creator and Affiliation: Josef Nguyen (University of Texas at Dallas) and Amanda Phillips (Georgetown University)
 
-GameCamp! is a series of seminars that introduces students of all levels to the principles of game design. It emphasizes paper prototyping and creativity exercises, but also includes technical tutorials for platforms such as Unity. While there are a number of workshops available on the site, this featured workshop introduces non-programmers to the concept of procedural thinking by playing an analog version of the swap-three game Candy Crush. Students learn how to read flowcharts that guide them through the step-by-step processes by which a computer might execute the game. The flow charts make the activity laborious and repetitive for a human user that might otherwise simply scan the board and move pieces around accordingly. However, this frustration is a useful teaching mechanism that can help students think about some of the unique features of digital media. How does procedurality affect the way a user encounters the text?  What strategies might a designer or programmer use to translate analog processes into digital form? What are the implications of step-by-step execution for the ideology of a particular game or artifact?
+GameCamp! is a series of seminars introducing students of all levels to the principles of game design, including paper prototyping, creativity exercises, technical tutorials for platforms such as Unity, etc. The Creative Commons-licensed materials and activities can be adapted for a variety of classroom purposes, such as teaching English majors how to make arguments about Shakespeare plays.  
 
-The GameCamp! website also hosts Creative Commons-licensed annotated lecture slideshows that can be adapted for a variety of classroom purposes, as well as printout files for their corresponding activities. For example, one instructor used these workshops to teach English majors how to make arguments about Shakespeare plays.
+This featured workshop introduces non-programmers to the concept of procedural thinking through an analog version of the swap-three game Candy Crush. Students play the game by reading flowcharts that guide them through a computer’s step-by-step processes to execute the game. Frustration with this laborious activity can help students think about some of the unique features of digital media. How does procedurality affect the way a user encounters the text?  What strategies might a designer or programmer use to translate analog processes into digital form? What are the implications of step-by-step execution for the ideology of a particular game or artifact? 
+
 
 ### Game Objects
 
 #### Introducing Game Studies with Small Worlds 
 
-![screenshot](images/gaming-Small-Worlds.png)
+![screenshot](images/screenshot-gaming-Small-Worlds.png)
 
 * Artifact Type: Lesson Plan
 * Source URL: [http://jayisgames.com/games/small-worlds/](http://jayisgames.com/games/small-worlds/) 
 * Artifact Permissions: CC-BY-NC 
+* Copy of the Artifact: [Introducing Game Studies with Small Worlds](files/gaming-Introducing-Game-Studies.pdf)
 * Creator and Affiliation: Amanda Phillips (Georgetown University)
 
-David Shute’s Small Worlds is an exploration game in which a figure navigates a series of moody, pixelated worlds that are shrouded in darkness. Each scene begins zoomed closely on the avatar, and exploration reveals more of the background while the camera gradually zooms out. Uncovering these small worlds reveals a minimalist environmental narrative – an elegant example of narrative architecture with dystopic science fiction undertones. 
+David Shute’s Small Worlds is an exploration game in which a figure navigates a series of moody, pixelated worlds, shrouded in darkness. Each scene begins zoomed closely on the avatar, and exploration reveals more of the background while the camera gradually zooms out. Uncovering these small worlds reveals a minimalist environmental narrative – an elegant example of narrative architecture with dystopic science fiction undertones. 
 
-In the context of a humanities class, Small Worlds is an excellent game to use for conversations about the fundamental properties of games, including the centrality of space and movement to narrative in games and how simple mechanics (such as the widening field of view) can encourage the gamer to perform specific tasks without explicit instructions. Understanding the unique aesthetic and rhetorical properties of games can lead to discussions about how other media use different representational and persuasive strategies. This lesson plan offers some suggestions on how to lead a class discussion about games using Small Worlds as an example.
+This lesson plan offers suggestions for leading a class discussion about games using Small Worlds as an example.  In a humanities classroom, it facilitates conversations about the fundamental properties of games, including the centrality of space and movement to narrative in games and how simple mechanics (such as the widening field of view) can encourage the gamer to perform specific tasks without explicit instructions. Understanding the unique aesthetic and rhetorical properties of games can lead to discussions about how other media use different representational and persuasive strategies. 
 
 #### Mainichi
 
@@ -130,9 +132,10 @@ In the context of a humanities class, Small Worlds is an excellent game to use f
 * Copy of the Artifact: 
 * Creator and Affiliation: Mattie Brice
 
-Mattie Brice’s Mainichi is a short and simple roleplaying game that catalogues the microaggressions and outright hostility faced by Black transwomen on a day-to-day basis. Mainichi provides an introduction to the RPG genre without the considerable time investment required of most of these types of games. The question of user agency and cause and effect may be explored with multiple playthroughs, as different decisions in getting dressed result in different interactions with people on the street. 
+Mattie Brice’s Mainichi is a short, simple roleplaying game that catalogues the microaggressions and outright hostility faced by Black transwomen on a day-to-day basis. It provides an introduction to the RPG genre without the considerable time investment typically required. The question of user agency and cause and effect may be explored with multiple playthroughs, as different decisions in getting dressed result in different interactions with people on the street. 
 
-As an example of Black trans art, Mainichi has an important place in a digital qpoc canon. The game’s emphasis on repetition, everyday temporality, and microaggressions also brings to mind constructions of queer time and failure that are omnipresent in gaming. Mainichi, therefore, demonstrates some of the ways that games can enact theoretical concepts. Instructors can use this as an object that illuminates theoretical readings about queer time and transgender studies. It can also be paired with game studies texts about the unique properties of time in video games.
+As an example of Black trans art, Mainichi has an important place in a digital qpoc canon. The game’s emphasis on repetition, everyday temporality, and microaggressions also surfaces constructions of queer time and failure that are omnipresent in gaming. Mainichi, therefore, demonstrates some of the ways that games can enact theoretical concepts. Instructors can use it as an object to illuminate theoretical readings about queer time and transgender studies or pair it with game studies texts about the unique properties of time in video games. 
+
 
 #### HUGPUNX
 
@@ -144,9 +147,7 @@ As an example of Black trans art, Mainichi has an important place in a digital q
 * Copy of the Artifact: 
 * Creator and Affiliation: merrit k 
 
-Merritt Kopas’s HUGPUNX is a browser-based, free-to-play game whose bouncy soundtrack and neon colors work together to create a queer fantasyland of informed consent. Flowers slowly grow in the background as people (and cats!) walk down the street and signal their willingness to hug by changing color and making flirtatious eyes. If the player chooses to take them up on the invitation, each hug produces an explosion of cheerful graffiti and a flower sprouting in the background. There is no pressure to perform here – the game proceeds at its own pace, culminating in a shower of sparks from the street lamps overhead.
-
-This game is simple and quick to play, but can open up conversations about communication (in games and in real life), consent, and queer modes of play that offer affirming alternatives to the grim narratives so often reserved for transgender lives. Any course interested in feminist and queer relationality, transgender politics, cultures of (and alternatives to) violence, or affect would find this a useful and easy conversation starter in the classroom.
+Merritt Kopas’s HUGPUNX is a browser-based, free-to-play game whose bouncy soundtrack and neon colors work together to create a queer fantasyland of informed consent. Flowers slowly grow in the background as people (and cats!) walk down the street and signal their willingness to hug by changing color and making flirtatious eyes. Each accepted invitation produces an explosion of cheerful graffiti and a flower sprouting in the background. There is no pressure to perform here – the game proceeds at its own pace, culminating in a shower of sparks from the street lamps overhead.  The game can open up conversations about communication (in games and in real life), consent, and queer modes of play that offer affirming alternatives to the grim narratives so often reserved for transgender lives. Any course interested in feminist and queer relationality, transgender politics, cultures of (and alternatives to) violence, or affect would find this a useful and easy conversation starter in the classroom.
 
 ### Game Making
 
@@ -178,12 +179,12 @@ This chapter is a primer for how to apply anti-oppressive principles to game des
 
 #### Game Design Documents On Racial Formation and Migration
 
-![screenshot](images/gaming-design-sketches.jpg)
+![screenshot](images/screenshot-gaming-design-sketches.jpg)
 
 * Artifact Type: Assignment
 * Source URL: N/A
 * Artifact Permissions: CC-BY-NC
-* Copy of the Artifact: 
+* Copy of the Artifact: [Game Design on Racial Formation and Migration Assignment](files/gaming-Racial-Formation-Docs.pdf)
 * Creator and Affiliation: Alexandrina Agloro (Worcester Polytechnic Institute)
 
 This assignment encourages students to explore questions of race and migration by creating a game design document. Design documents are speculative in nature, allowing students to "give careful thought to mechanics, aesthetic, rhetoric, and the game's relationship" to questions of power in society (Agloro) rather than exhaustive efforts on polishing a complete product. Producing a design document requires no technological expertise, which makes it a great fit for a humanities classroom context. As with the other activities listed in this section, encouraging students to think in terms of game design will help them to articulate the systematicity of racial formation and migration. In order to do so, they must examine relevant causes and effects and put them into relation with one another.
