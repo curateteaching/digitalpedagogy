@@ -126,7 +126,7 @@ Petra Dierkes-Thrun has run several iterations of the Public Literary Twitter Ro
 
 * Artifact Type: Course sites
 * Source URL: <http://kathiiberens.com/teaching/sample-syllabi/design-build/>
-* Permissions: 2017 Kathi Inman Berens
+* Permissions: CC-BY-NC
 * Creator: Kathi Inman Berens, USC Annenberg
 
 In her hybrid USC Annenberg course, Kathi Inman Berens works with students face-to-face, but also using synchronous video platforms. The course focuses on how we engage one another via digital media, and the students work in teams on projects for real-world clients. From the syllabus: “I expect you to be on your laptops and smartphones during class. Connectivity is essential to our work.” She asks students to keep a “Distraction Log” to “make observations about their own media consumption habits.” The course spans media, geography, and traditional/non-traditional learning environments. Helping students understand how to move within and between these spaces is a key literacy for working in digital space. [She writes of her teaching philosophy,](http://kathiiberens.com/teaching/philosophy/) "It doesn’t matter to me if my classroom is a little rectangle in a building or a little rectangle above my keyboard. Doors are rectangles; rectangles are portals. We walk through."
