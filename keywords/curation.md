@@ -172,7 +172,7 @@ This assignment highlights the intellectual and practical continuities between c
 
 #### Revision Description from Women Writers Project
 
-![screenshot](images/screenshot-curation_wwprevisiondesc.png)
+![screenshot](images/screenshot-curation-wwprevisiondesc.png)
 
 * Artifact Type: XML sample
 * Source URL: No URL
