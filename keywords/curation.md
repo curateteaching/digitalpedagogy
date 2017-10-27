@@ -160,7 +160,7 @@ This class project documents a sustained curatorial project focused around the N
 
 #### Omeka Exhibit: Final Guide and Curation
 
-![screenshot](images/screenshot-curation-OMFinalCuration.png)
+![screenshot](images/screenshot-curation-OMFinalCurationpg1.png)
 
 * Artifact Type: assignment
 * Source URL: [http://www.elizabethetavares.com/downloads_files/OM%20Final%20Curation.pdf](http://www.elizabethetavares.com/downloads_files/OM%20Final%20Curation.pdf) 
