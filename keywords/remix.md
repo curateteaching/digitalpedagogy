@@ -50,7 +50,7 @@ The artifacts that follow were chosen for the ways that they provide pragmatic a
 
 # Authentic Hybridity: Remix and Appropriation as Multimodal Composition
 
-![screenshot](images/remix-middleton-authentichybridity.png)
+![screenshot](images/remix-screenshot-authentichybridity.jpg)
 * Artifact Type: assignment/lesson plan 
 * Source URL: https://jitp.commons.gc.cuny.edu/authentic-hybridity-remix-and-appropriation-as-multimodal-composition/8
 * Artifact Permissions: open scholarly journal
@@ -77,7 +77,7 @@ The non-linear, digital book *Flows of Reading* provocatively takes as its case 
 * Artifact Type: assignment
 * Source URL: http://www.sciencedirect.com/science/journal/87554615
 * Artifact Permissions: all rights reserved by Elsevier
-* Copy of the Artifact:  files/remix-Audio-Collage-Assignment.pdf
+* Copy of the Artifact:  [Audio Collage Assignment](files/remix-Audio-Collage-Assignment.pdf)
 * Creator: Jean Bessette, University of Vermont
 
 This 4-6 minute audio collage assignment is designed, as Jean Bessette describes in an article from the 2016 issue of the *Computers and Composition* journal, to “explore a focused, complex, and nuanced topic in gender and sexuality” (75). Here, students select and assemble materials from an online archive of gay liberation radio shows. In the article, she interprets two case studies of student projects, and highlights the emergence of their personal and rhetorical inquiry within the confines of the assignment. In addition to the model assignment, however, Bessette makes a larger argument about the outcomes of the approach. The process of listening to prepare to make the collage involves both listening widely to a number of elements in the archive, and listening iteratively in the selection and editing process. These, she contends, contribute not only to students’ increased engagement with the texts, but also to an openness toward difference when the archive material is far from students’ experience and comfort zone.
@@ -125,7 +125,7 @@ Karen Keifer-Boyd’s final class project for her graduate course in Art Educati
 * Artifact Type: Syllabus
 * Source URL: http://j-l-r.org/wp-content/uploads/remix-syllabus-final.pdf
 * Artifact Permissions: Creative Commons Attribution-ShareAlike License
-* Copy of the Artifact:
+* Copy of the Artifact: [Copy This Class Syllabus](files/remix-copythisclasssyllabus.pdf)
 * Creator: Julie Levin Russo, The Evergreen State College
 
 Julie Levin Russo’s undergraduate film studies course takes remix as its central topic. Through the assigned reading, media, and experiences each week, students are introduced to remix from a historical perspective and a philosophical one. Russo’s course plays through an array of contexts that highlight the variety and complexity of remix as object, and as a set of practices (e.g., appropriation, authorship, sampling, “playbor”). Collaborative student remix projects comprise a significant portion of the semester, making evident the core value of participation and peer engagement in remix culture. Finally, in a knowing wink to our own habits of syllabus composition, Russo cites the syllabi and assignments that she has remixed to create this course.
