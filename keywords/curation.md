@@ -72,7 +72,7 @@ This assignment teaches XML text encoding as a curatorial practice in which the 
 
 #### HISP 355: Voyages, Navigations and Shipwrecks
 
-![screenshot](images/screenshot-curation-hisp355_01.png), [screenshot](images/screenshot-curation-hisp355_02.png)
+![screenshot](images/screenshot-curation-hisp355_01.png), ![screenshot](images/screenshot-curation-hisp355_02.png)
 
 * Artifact Type: course site
 * Source URL: [http://wheatoncollege.edu/hispanic-studies/hisp-355-voyages-navigations-shipwrecks/](http://wheatoncollege.edu/hispanic-studies/hisp-355-voyages-navigations-shipwrecks/) 
