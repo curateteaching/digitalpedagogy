@@ -53,7 +53,7 @@ The artifacts that follow were chosen for the ways that they provide pragmatic a
 ![screenshot](images/remix-screenshot-authentichybridity.jpg)
 * Artifact Type: assignment/lesson plan 
 * Source URL: https://jitp.commons.gc.cuny.edu/authentic-hybridity-remix-and-appropriation-as-multimodal-composition/8
-* Artifact Permissions: open scholarly journal
+* Artifact Permissions: In JITP Assignment Bank,  CC-BY-NC-SA 3.0
 * Creator: Marina Hassapopoulou
 
 In this short article for *The Journal of Interactive Technology and Pedagogy*, Marina Hassapopoulou describes an early assignment in her English Composition class, wherein students are prompted to choose a video and an image from the internet that represents them, and to consider whether these artifacts might require modification to fully capture their identities. Her seemingly simple guidelines open out to reveal the complex thinking about the internet and about themselves that students must undertake to complete the assignment. The article goes on to capture her rationale, required course viewings, and unexpected outcomes for the assignment, as well as several examples of her students’ work. Hassapopoulou has found a way to engage students in thinking about the motivations for remix without the need for significant technological expertise, making her assignment a perfect place for instructors to begin integrating remix into their courses. 
@@ -64,7 +64,7 @@ In this short article for *The Journal of Interactive Technology and Pedagogy*, 
 ![screenshot](images/remix-middleton-flowsofreading.png)
 * Artifact Type: Online Digital Book
 * Source URL: http://scalar.usc.edu/anvc/flowsofreading/index
-* Artifact Permissions: permission of authors
+* Artifact Permissions: CC-BY-NC
 * Copy of the Artifact:
 * Creators: Erin Reilly, Ritesh Meta, Henry Jenkins, USC Annenberg Center for Communication and Journalism
 
@@ -76,7 +76,7 @@ The non-linear, digital book *Flows of Reading* provocatively takes as its case 
 ![screenshot](images/remix-middleton-audiocollage.png)
 * Artifact Type: assignment
 * Source URL: http://www.sciencedirect.com/science/journal/87554615
-* Artifact Permissions: all rights reserved by Elsevier
+* Artifact Permissions: CC-BY-NC
 * Copy of the Artifact:  [Audio Collage Assignment](files/remix-Audio-Collage-Assignment.pdf)
 * Creator: Jean Bessette, University of Vermont
 
@@ -88,7 +88,7 @@ This 4-6 minute audio collage assignment is designed, as Jean Bessette describes
 ![screenshot](images/remix-middleton-ds106.png)
 * Artifact Type: Assignment bank
 * Source URL: http://assignments.ds106.us/
-* Artifact Permissions: open online course
+* Artifact Permissions: assignment submission conditional on sharing
 * Copy of the Artifact:
 * Creator: Jim Groom and ds106 community, University of Mary Washington
 
@@ -124,7 +124,7 @@ Karen Keifer-Boyd’s final class project for her graduate course in Art Educati
 ![screenshot](images/remix-middleton-copythisclass.png)
 * Artifact Type: Syllabus
 * Source URL: http://j-l-r.org/wp-content/uploads/remix-syllabus-final.pdf
-* Artifact Permissions: Creative Commons Attribution-ShareAlike License
+* Artifact Permissions: CC BY-SA 3.0
 * Copy of the Artifact: [Copy This Class Syllabus](files/remix-copythisclasssyllabus.pdf)
 * Creator: Julie Levin Russo, The Evergreen State College
 
@@ -136,7 +136,7 @@ Julie Levin Russo’s undergraduate film studies course takes remix as its centr
 ![screenshot](images/remix-middleton-copyrightculture.png)
 * Artifact Type: Syllabus
 * Source URL: https://oxycopyrightandculture.wordpress.com/syllabus/
-* Artifact Permissions: permission of author, Creative Commons: Attribution Non-Commercial License
+* Artifact Permissions: CC BY-NC 3.0
 * Copy of the Artifact:
 * Creator: Suzanne Scott, University of Texas at Austin
 
@@ -148,7 +148,7 @@ Suzanne Scott’s 2012 course *Copyright + Culture* foregrounds the fundamental 
 ![screenshot](images/remix-middleton-codebestpractices.png)
 * Artifact Type: Resource guide
 * Source URL: http://cmsimpact.org/code/code-best-practices-fair-use-online-video/
-* Artifact Permissions: pending
+* Artifact Permissions: after the list of the authoring committee on the page (http://cmsimpact.org/code/code-best-practices-fair-use-online-video/), see statement: "Feel free to reproduce this work in its entirety. For excerpts and quotations, depend upon fair use.”
 * Copy of the Artifact:
 * Creator: The Program on Information Justice and Intellectual Property and The Center for Media and Social Impact, American University
 
@@ -160,7 +160,7 @@ Originally published in 2008, the CMSI report and resources provide a thorough-y
 ![screenshot](images/remix-middleton-hitrecord.png)
 * Artifact Type: Collaborative project
 * Source URL: https://www.hitrecord.org/
-* Artifact Permissions: public website
+* Artifact Permissions: screenshot only (public website)
 * Copy of the Artifact:
 * Creator: Joseph Gordon-Levitt
 
