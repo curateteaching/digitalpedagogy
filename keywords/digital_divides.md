@@ -1,26 +1,57 @@
+ --- 
+title: Digital Pedagogy in the Humanities
+subtitle: Concepts, Models, and Experiments 
+chapter: Digital Divides
+URL: keywords/digital_divides.md
+author: 
+- family: Perez
+  given: Annemarie
+editor: 
+- family: Davis
+  given: Rebecca Frost
+publisher: Modern Language Association
+type: book
+---
+
 # Digital Divides
 
 ### Annemarie Perez
 
 California State University-Dominguez Hills
 
+##### Publication Status:
+* unreviewed draft
+* draft version undergoing editorial review
+* draft version undergoing peer-to-peer review
+* **draft version undergoing MLA copyediting**
+* awaiting pre-print copy
+* published 
+
+---
+
+### Cross-Reference Keywords: access, intersectionality, social justice
+
+---  
+
 ## CURATORIAL STATEMENT
 
 In January of 2015, President Obama made the statement “Today highspeed broadband is not a luxury, it’s a necessity” (Council of Economic Advisors Issue Brief). Yet at the moment he said this and as the Council of Economic Advisors Issue Brief makes clear, high speed broadband is not available to either all people either on the planet nor all people in the United States. Digital divides is a case of "haves" and "have nots." The term "digital divide" came into widespread usage in the mid to late 1990s following a report titled “Falling Through the Net: A Survey of the ‘Have Nots’ in Rural and Urban America” by the National Telecommunications & Information Administration. The term “digital divide” was not explicitly used in the report, but through discussion of the subject, the term “digital divide” was coined and entered into political and then popular discourse, first as a term referring to access versus lack of access to the internet and, more recently (as is the case with the Obama statement) being used to discuss access to highspeed internet (Graham 213-214). The term “digital divide,” in its singular form, is generally used to denote divides in access and usage of technology, especially information technology/the Internet for reasons such as poverty, disability, age and/or rural lack of access. This "divide" is discussed in global terms as the divide between the so-called “developed” or “first” world and “developing” or “third” worlds and within and between specific countries. It is used by and within political and governmental and not-for-profit communities, and within countries to discuss this same division of access to information technology caused by economic, educational, age, racial, and regional urban/rural access issues. It has also entered into popular usage through its use in the media. 
 
-While ”digital divide” in its singular form denotes issues of global and United States-based national economic and racial disparity and how these relate to conceptions of and access to the Internet and its usage, general thinking has evolved into one of intersecting “digital divides” (plural), which look at the divides as a series of intersections.  These digital divides, as Jeffrey T. Grabill’s article pointed out more than ten years ago, represent a space where race, ethnicity, and class intersect. These intersections create similar divides across differences, for example, a situation where a student in urban Detroit is unable to access the Internet to do their homework, in a similar way to one from rural south Texas.  Pew Research data demonstrates the importance of understanding “digital divides” as a multitude of intersecting circumstances, the causes for each divide are not discrete, but which overlap, creating situations where specific groups—for example, those who live in rural poverty without a high school diploma or any college education—are far less likely to have high speed Internet access and/or the ability to use the Internet than a person who is urban, affluent and college educated. 
+While ”digital divide” in its singular form denotes issues of global and United States-based national economic and racial disparity and how these relate to conceptions of and access to the Internet and its usage, general thinking has evolved into one of intersecting “digital divides” (plural), which look at the divides as a series of intersections.  These digital divides, as Jeffrey T. Grabill’s article pointed out more than ten years ago, represent a space where race, ethnicity, and class intersect. These intersections create similar divides across differences, for example, a situation where a student in urban Detroit is unable to access the Internet to do their homework, in a similar way to one from rural south Texas.  Pew Research data demonstrates the importance of understanding “digital divides” as a multitude of intersecting circumstances; the causes for each divide are not discrete but overlap, creating situations where specific groups—for example, those who live in rural poverty without a high school diploma or any college education—are far less likely to have high speed Internet access and/or the ability to use the Internet than a person who is urban, affluent and college educated. 
 
-The topic of digital divides is vital to university education using digital pedagogy in several respects. Central principals for addressing digital divides, which have implications for pedagogy, are technology (Internet and / or broadband) availability, affordability, inclusive design, and access (Building Digital Communities). Understanding of these divisions is not native to many students, first because for most students of traditional college age, especially those who live in the United States in the middle class or above, the privilege of available high-speed Internet access has been throughout their lives as present and invisible as their access to clean drinking water. In order to discuss problems as well as opportunities created by global technology’s move to online environments, students must first become aware, as Jen Schradie’s research demonstrates, that this access is not universal on international, national or local levels. Pedagogy surrounding this connects to the issues of intersectionality and the theories surrouding it (Schradie 555-556).  The study of digital divides offers students the opportunity to become aware of their own privilege and gain understanding of other perspectives. They may also see their own technological expertise. 
+The topic of digital divides is vital to university education using digital pedagogy in several respects. Central principles for addressing digital divides, which have implications for pedagogy, are technology (Internet and/or broadband) availability, affordability, inclusive design, and access (Building Digital Communities). Understanding of these divisions is not native to many students, first because for most students of traditional college age, especially those who live in the United States in the middle class or above, the privilege of available high-speed Internet access has been throughout their lives as present and invisible as their access to clean drinking water. In order to discuss problems as well as opportunities created by global technology’s move to online environments, students must first become aware, as Jen Schradie’s research demonstrates, that this access is not universal on international, national or local levels. Pedagogy surrounding this connects to the issues of intersectionality and the theories surrouding it (Schradie 555-556).  The study of digital divides offers students the opportunity to become aware of their own privilege and gain understanding of other perspectives. They may also see their own technological expertise. 
 
 Joo Tan and John Phillips take the topic of pedagogy and digital divides further, discussing how the use of experiential learning, where students work with communities with low Internet access, is especially fruitful. Students in these classes specifically work on solving the multiple layers of problems both caused by and creating lack of Internet access. The service learning based study of digital divides and students' various positions of relative privilage allows for practical learning outcomes in terms of digital skills used and learned, and theoretical outcomes as students study and work with issues of intersecting oppressions across race, class, and age relative to digital access and use, experiences that appear to be valuable across types of higher education institutions. Service learning practice as part of a study of digital divides adds to the learning outcomes the teaching of social justice and the value of working in and with communities in order to experience and facilitate student and community learning.
 
-These artifact selections are ordered based on service / experiential learning and then move into courses based on more theoretical work.  All of the artifacts are interdisciplinary, variously combining journalism, sociology, technology studies, communication, critical race studies, and composition studies. Some artifacts focus on the study of the intersectionality of digital divides as a course topic, while others look at the divides as a problem with the students challenged to find solutions to bridge the divides. The related materials, including Pew survey data, maps and video, are meant to supplement courses. Because this is a subject where the divides are continually evolving as connectivity evolves and changes, it is expected that these resources are presented as examples which would require updating each time the material is taught.
+These artifact selections are ordered based on service/experiential learning and then move into courses based on more theoretical work.  All of the artifacts are interdisciplinary, variously combining journalism, sociology, technology studies, communication, critical race studies, and composition studies. Some artifacts focus on the study of the intersectionality of digital divides as a course topic, while others look at the divides as a problem with the students challenged to find solutions to bridge the divides. The related materials, including Pew survey data, maps and video, are meant to supplement courses. Because this is a subject where the divides are continually evolving as connectivity evolves and changes, these informational resources are presented as examples which would require updating each time the material is taught.
 
 ## CURATED ARTIFACTS
 
+![screenshot](images/screenshot-digital_divides-teaching-digital-divide.png)
+
 ### Teaching the Digital Divide
-* Artifact Type: Students Course Blogs and Research Article About the Course
-* Source URLs: [http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=2898&context=libphilprac](http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=2898&context=libphilprac)
+* Artifact Type: Students Course Blogs
+* Source URLs: 
 [http://ingac397.blogspot.com](http://ingac397.blogspot.com)
 [http://deiro9.blogspot.com](http://deiro9.blogspot.com)
 [http://wwutroy.blogspot.com](http://wwutroy.blogspot.com)
@@ -28,7 +59,7 @@ These artifact selections are ordered based on service / experiential learning a
 * Artifact Permissions: Copyright Rebecca M. Marrall, Inga C, Jamie Marine, Nick Cordeiro, Troy
 * Creator and Affiliation: Rebecca M. Marrall, Western Washington University
 
-This artifact is a group of student blogs for a library science service learning course on library research mentoring in area public libraries while, as a class, they studied a range of concepts connecting digital participation and citizenship. The professor, Rebecca M. Marrall, wrote about the course for Library Philosophy and Practice (her article is the artifact's first link), discussing the course's ten week structure and how the service learning and course content were connected. The blogs, taken together, are a glimpse into the reflections of the students who took part in the course and offer a fascinating compliment to the Marrall's research and writing. Through their reflections, the students' growth in understanding of the concept of "digital divides" is evident. This artifact offers a useful case study for constructing a service learning course.  
+This artifact is a group of student blogs produced for a library science service learning course on library research mentoring in area public libraries, while as a class they studied a range of concepts connecting digital participation and citizenship. The professor, Rebecca M. Marrall, wrote about the course for the journal *Library Philosophy and Practice*, discussing the course's ten week structure and how the service learning and course content were connected. The blogs, taken together, are a glimpse into the reflections of the students who took part in the course and offer a fascinating compliment to the Marrall's research and writing. Through their reflections, the students' growth in understanding of the concept of "digital divides" is evident. This artifact offers a useful case study for constructing a service learning course around the theme of digital divides.  
 
 #### Digital Media Capstone
 
