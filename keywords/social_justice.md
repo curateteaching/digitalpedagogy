@@ -1,20 +1,44 @@
+ --- 
+title: Digital Pedagogy in the Humanities
+subtitle: Concepts, Models, and Experiments 
+chapter: Social Justice
+URL: keywords/social_justice.md
+author: 
+- family: Taylor
+  given: Toniesha
+editor: 
+- family: Davis
+  given: Rebecca Frost
+publisher: Modern Language Association
+type: book
+---
+
+
 # Social Justice
 
 ### Toniesha Taylor
 
 Prairie View A&M University | [http://www.drtonieshaltaylor.com](http://www.drtonieshaltaylor.com)
 
+##### Publication Status:
+* unreviewed draft
+* draft version undergoing editorial review
+* draft version undergoing peer-to-peer review
+* **draft version undergoing MLA copyediting**
+* awaiting pre-print copy
+* published 
+
+---
+
 ## CURATORIAL STATEMENT
 
-The opportunity to think through the ways I teach social justice as not only a theoretical or abstract concept but a concrete manifestation of a world my students and I can build as active citizens has been a wonderful yet arduous task. As an activist scholar engaged in teaching research and service at one of the  Historically Black Colleges and Universities (HBCU), I am constantly faced with the question, do I teach for the sake of learning and enlightenment or do I teach for the sake of enlightened action and equity? I always work toward the latter. So to think critically about the ways I and my colleagues in various disciplines make this possible is a demanding yet joyous task. 
+Social justice work, as framed here is an embodied first person experience with the understanding that we can only change what we can name and can only name what we can experience. There are two key thoughts or frames that guide teaching social justice and how I have chosen to curate the works included here. First, faculty must be willing, and able, to acknowledge our privileges at all levels and access points. Definitional frames for social justice are more fluid than scholars engaged in the study of languages and communication are comfortable. I operationalize social justice pedagogy as engaged the equitable creation of teaching and learning spaces where socially constructed identities are equitably presented, valued and involved in the building and maintenance of society. This definition starts with the frame that society, as currently configured, is not equitable. Rather, privilege is the social force guiding social interaction. To create socially just space, we must name privileges. For faculty, this means we must recognize and engage in simple truths about our institutional privileges. Research one institutions afford different access points in socially liberal states than those in socially conservative states. Private institutions may invest in technology at various rates than a public university were technology is a primary focus. Alongside institutional privileges are positional privileges of the faculty at different teaching levels. It may be true that the act of teaching social justice theory is revolutionary on a university campus that does not hold equity or equality as a principal tenant of its mission or its lived practice. For those teaching with the protection of tenure, at the rank of full professor, it may be easier to teach revolution and practice equity within classrooms. While a colleague listed in one of many titles afforded the non-tenured (adjunct, lecturer, seasonal faculty appointment) may not find it comfortable to teach the same content. 
 
-There are three key thoughts or frames that guide my thinking around teaching social justice, discussions with colleagues on how they may engage the same task, and how I have chosen to curate the works included here. First, faculty have to be willing, and able, to acknowledge their privileges at all levels and access points. The meaning of social justice is more fluid than perhaps scholars engaged in the study of languages and communication are comfortable with. It is impossible to find even disciplinary consistency. One element that seems consistent in those that teach and engage in social justice pedagogy is the recognition of privilege. The idea that you cannot change what you cannot name or that you cannot or will not change a system from which you benefit seems a central conceit. For faculty, this means we must recognize and engage in simple truths about our institutional privileges. It may be true that the act of teaching social justice theory is revolutionary on a university campus that does not hold equity or equality as a principal tenant of its mission or its lived practice. If you are teaching in an institution such as this with the protection of tenure at the rank of full professor you may find it easier to teach the revolution in your classrooms, while your colleague listed in one of many titles afforded the non-tenured (adjunct, lecturer, temporary faculty appointment, seasonal faculty appointment, guest lecturer) may not find teaching revolutionary content so comforting. Even the smallest gesture—assigning readings on social justice written during the British period of political enlightenment—may seem a step too far in a community not at all open to the conversation for a faculty member not afforded the employment protections of a medieval system of higher education.  Let me say here, I have tenure, I recognized my privilege, and I chose to leverage that privilege within the system to mentor and, at times, protect scholars whose desire is to teach, research, and engage in social justice activism in and out of the classroom. I ask that when we recognize our privilege, we do not end at the act of acknowledgment, but turn that acknowledgment into action. 
-	
-Second, social justice work, or action, is needed at all levels within the system at the same time. There are a number of excellent scholar-activists engaged in social justice work in ways that are digital and analog, on and off line. Some of those actions cross paths, like a great mix tape, and some stay firmly within their lane with discrete identities, like straight ahead jazz or rhetorical critique of the canonical literature. However you work to make a more socially just world, it is important to acknowledge the difference in effect and affect of the work with your students. Digital work(s) is often read as having less risk and subsequently less effect, however, the research on cyberbullying suggests that the psychological effects of digital are real. Social justice work in digital spaces must occur while work in physical spaces occurs. As professors it is important that we stay observant to avoid violence and bullying in digital spaces. While it is important to attend protests as protestors or as human rights observers, it is equally important to live tweet protests to get the word out or be in contact with school administrators to facilitate post-protest discussion to ensure policy changes that have a positive impact. Ensuring students are clear on the types of actions and the outcomes (known and unknown) and can clearly articulate their level of engagement and active/activist choices is extremely valuable. 
-	
-Finally, as instructors with our intersectional privileges, we need to recognize that we teach students with intersectional privileges. As people it is importation to understand that teaching and learning about social justice should be about theory, method, and action. I began this discussion saying that there are is not one single definition of social justice adhered to by all scholars engaged in this work. However, there are theories and philosophies of social justice commonly referred to by those engaged in the work. It is important to assign readings to your classes that meet the needs of interdisciplinary work and discussion. Social justice is an intersectional interdisciplinary work. We cannot fight or change socially unjust systems if we do not know the languages of injustice. When we know the languages of injustice (which are inextricably linked to one another), we can replace them with languages of justice.  Method applies differently to research on social justice versus social justice actions. As the instructor, I believe it is my responsibility to engage in actions and teach ethical research methods to ensure my students have a mentor they can follow. Actions matter. Actions are diverse. Actions are lasting. To this end, it is important to have application and discussion of social justice within the course time. Activists often speak of self-care; this concept particularly applies to teaching and learning. Build conversation into your courses and activities. Social justice is a hard-won community project, but it does not last if community members cannot replicate the small conversations and actions needed to sustain it. It does not matter if you and your students are “in these streets” or you are engaged in writing, reading, and communication—it matters that the actions taken can be sustained by the community. That means you have to talk with and care for each other. 
-	
-Curating the keyword social justice forced me to consider the number of ways in which I engage in digital pedagogy, digital humanities, and social justice as well as providing an opportunity to talk with my colleagues and friends who do this work well. In curating this keyword I have considered the various digital and traditional ways professors work through social justice as a lived praxis.  Included are ten pieces that demonstrate social justice pedagogy. The first three are syllabi focused on social justice that include activities where students have to create digital content as part of the learning process. Artifacts 4–6 are class activities related to the third syllabus listed. Artifact 7 requires some tech and media engagement by the faculty member and the  students. When tied to discussions on the use of words used to create databases, computer programs, and metadata, this activity allows students to think about privilege and language. Artifact 8 is a traditional classroom activity that requires no technology. As a traditional activity it can be used in a digital humanities class to engage students in discussion to provide language for understanding their privilege or the limits of privilege. Artifacts 9 and 10 are examples of public scholarship.  As such they allow scholars a way to engage in social justice work at an introductory level as either participants or observers.  Finally, some elements are self-explanatory (Ronda Ragsdale’s #SoJust Teach-In) where others may need a bit more context (Toniesha Taylor’s COMM 4543 syllabus). Each artifact includes a short contextual statement and metadata to add in use.
+Institutional privilege concerning teaching location and faculty rank is important to recognize since they are framed within socially constructed identity matrix. Students and faculty are embodied within racialized, gendered, classed, sexuality presented selves. Certain people are deemed citizens or non-citizens, socially accepted or not. Our access to systems is tied to our perceived belonging. As such, when engaged in social justice work as faculty we need to take the time to have conversations around privilege that are intersectional and equitable. At this moment as faculty our power is always present; therefore the same or more time for discussion should be afforded to students whose grades are dependent on their performance of social justice within our classrooms. (Johnson 245-255)
+
+Second, it is importation to focus teaching and learning through social justice grounded in theory, method, and action (Swartz 4; Wenshu 197). The readings, discussions, actions, and activities assigned to courses should meet the needs of interdisciplinary work and analysis. Social justice is intersectional and interdisciplinary. We cannot fight or change socially unjust systems if we do not know the languages of injustice. When we are aware of languages of injustice (which are inextricably linked to one another), we can replace them with languages of justice. This work starts by looking at our reading lists and activities. Do we create assignments to engage in actions that privilege the non-disabled? Do we use texts that marginalize or erase Latinx experience? Does the focus on digital assume knowledge, access or experience not mentioned in the course instruction? These are all questions we need to ask and answer. Creating a syllabus that includes digital projects but does not provide time to talk about the construction of racism or transphobia in the comment sections of websites may not yield the level of social change hoped. Ensuring students are clear on the types of actions and the outcomes (known and unknown) and can articulate their level of engagement as an active/activist choice is extremely valuable. Lasting social change can and does occur when students are invested in and can articulate the change they seek to maintain. It does not happen when the digital project created has limited connection to the rest of the world our students, and we inhabit. 
+
+In curating social justice keyword, there are ten pieces that demonstrate digital social justice pedagogy linked to social justice praxis. The first three are syllabi focused on social justice that include activities where students have to create digital content as part of the learning process. Artifacts 4–6 are class activities related to the third syllabus listed. Artifact 7 focuses discussions on the use of words to create databases, computer programs, and metadata; this activity allows students to think about privilege and language. Artifact 8 is an activity focused on embodied privileges. Artifacts 9 and 10 are examples of public scholarship. As such they allow scholars a way to engage in social justice work at an introductory level as either participants or observers.
 
 ## CURATED ARTIFACTS
 
@@ -28,7 +52,7 @@ Curating the keyword social justice forced me to consider the number of ways in 
 * Creator and Affiliation: Roopika Risam, Salem State University
 micha cárdenas, University of Southern California
 
-Dr. Risam developed “An Invitation Towards Social Justice in the Digital Humanities” course site with micha cárdenas for the DE/POST/COLONIAL DIGITAL HUMANITIES course delivered at HILT (Humanities Intensive learning and Teaching) in 2015. Scholars interested in digital humanities who attend HILT have a number of courses to choose from each summer. This course site provides scholars unable to attend access to the course syllabus, limited materials, and discussions. This is a unique artifact as it provides extensive digital sources and conversation around building pedagogy for scholars interested in teaching social justice in the digital humanities. When we ask undergraduate and graduate students to engage in social justice we should be considerate of the methods of action, research, and learning possible. Consider the discussion on “Material Conditions” and the list of questions Risam and cárdenas provide. This artifact is a perfect example of the practical ways in which scholar-activists can think through multiple levels of access and change.
+Roopika Risam, developed “An Invitation Towards Social Justice in the Digital Humanities” course site with micha cárdenas, Jeremy Boggs, Ashley Byock, Vinamarata Kaur, Joan Lubin, Emily Sessions, Danica Savonick, and Sveta Stoytcheva for the DE/POST/COLONIAL DIGITAL HUMANITIES course delivered at HILT (Humanities Intensive learning and Teaching) in 2015. The course site provides scholars access to the course syllabus, limited materials, and discussions. This is a unique artifact as it provides extensive digital sources and conversation around building pedagogy for scholars interested in teaching social justice in the digital humanities. The discussion on “Material Conditions” and the list of questions Risam et. al. provide is a perfect example of how to engage students in social justice with consideration of the methods of action, research, and learning possible while thinking through multiple levels of access and change.
 
 #### Race Class Social Justice Syllabus — Dr. Melissa Harris-Perry
 
@@ -36,18 +60,21 @@ Dr. Risam developed “An Invitation Towards Social Justice in the Digital Human
 
 * Artifact Type: syllabus
 * Source URL: [http://ajccenter.wfu.edu/wp-content/uploads/2014/06/RaceClassSocialJusticeFall2015W.pdf](http://ajccenter.wfu.edu/wp-content/uploads/2014/06/RaceClassSocialJusticeFall2015W.pdf) 
+* Artifact Permissions: 
+* Copy of the Artifact:
 * Creator and Affiliation: Melissa Harris-Perry, Wake Forest University
 
-The syllabus created by Dr. Harris-Perry is an excellent example of an interdisciplinary teaching created for an introductory level political science class, the readings on social justice come from journalists, activists, and scholars with various disciplinary backgrounds. Central to this syllabus is the combination of theory, method and action. Students are required to read theory and build definitions for their engagement through written assignments. They engage in practical methods for social action in the “Tool Kit” building assignment and finally engage in direct action in the social action activity and writing reflection. 
+The syllabus created by Dr. Harris-Perry is an example of an interdisciplinary teaching for an introductory level political science class, the readings on social justice come from journalists, activists, and scholars with various disciplinary backgrounds. Central to this syllabus is the combination of theory, method, and action. Students are required to read theory and build definitions for their engagement through written assignments. They engage in practical methods for social action in the “Tool Kit” building assignment and finally participate in direct action activity and writing reflection. 
 
-This is an excellent example of a course taught in an educational environment with clearly supported infrastructure for sustained social action. Dr. Harris-Perry is at a university and in a center where social engagement is supported and required in humanities and other courses. This syllabus should be used as a guide for including social action as a course requirement where the university climate is supportive of such action.
+The syllabus is an excellent example of a course taught in an educational environment with clearly supported infrastructure for sustained social action. As a guideline for creating socially engaged discourse within the classroom this syllabus demonstrates activities that live in closed and open digital space. Finally, it exemplifies the intentional creation of classroom space to hold conversations that contextualize social action. 
 
-#### Advanced Writing for the Discipline
+#### Advanced Writing for the Discipline Syllabus -- Dr. Toniesha L. Taylor
 
 ![screenshot](images/social_justice-Advanced-Writing-for-the-discipline.png)
 
 * Artifact Type: Syllabus
 * Source URL: [http://www.drtonieshaltaylor.com/teaching](http://www.drtonieshaltaylor.com/teaching) 
+* Artifact Permissions: 
 * Copy of the Artifact: [files/social_justice-Advanced-Writing-for-the-discipline.pdf](files/social_justice-Advanced-Writing-for-the-discipline.pdf)
 * Creator and Affiliation: Toniesha L. Taylor, Prairie View A&M University
 
@@ -56,51 +83,46 @@ This syllabus is for a course that teaches advanced research writing and design 
 #### GIS Mapping Introduction
 
 ![screenshot](images/social_justice-GISMapping_Introduction.png)
-
+* Source URL:  N/A
+* Artifact Permissions: 
 * Copy of the Artifact: [files/social_justice-GISMapping_Introduction.pdf](files/social_justice-GISMapping_Introduction.pdf)
 * Creator and Affiliation: Noel M. Estwick, Prairie View A&M University 
 
-This activity was created by Dr. Estwick for COMM 4543 where he was a guest lecturer. He delivered four lectures during the course of the sixteen week semester on GIS mapping. This is a great example of an activity that introduces students to the method of data collection for GIS Mapping and to gain valuable applicable understanding of the physicality of place and space as relates to communication research. Dr. Estwick asked students to contribute to the GIS data on historical markers and social justice sites on campus with this activity. Students enjoyed getting out of the classroom in subsequent activities where they used GIS devices and cameras to gather data on the physical space. 
+This activity was created by Dr. Estwick for COMM 4543 where he was a guest lecturer. He delivered four lectures during the sixteen week semester on GIS mapping. This activity introduces students to the method of data collection for GIS mapping allowing them to gain valuable understanding of the physicality of place and space as relates to communication research. Dr. Estwick asked students to contribute to the GIS data on historical markers and social justice sites on campus with this activity. 
+
+GIS mapping activities like this one are used to teach metadata and natural language impacts on mapping data. Students were asked to think critically about language choices. They focused on the digital structures of maps and access. Particularly on how race, class, and gender descriptors of locations within preexisting GIS metadata structures guide the input of new sites in a database.  
 
 #### Group Contract (COMM 4543)
 
 ![screenshot](images/social_justice-Group-Contract.png)
 
 * Source URL: [http://www.drtonieshaltaylor.com/teaching](http://www.drtonieshaltaylor.com/teaching) 
+* Artifact Permissions:
 * Copy of the Artifact: [files/social_justice-Group-Contract.pdf](files/social_justice-Group-Contract.pdf)
 * Creator and Affiliation: Toniesha L. Taylor, Prairie View A&M University
 
-Group work is always interesting. One of  the things that I find valuable is some form of social contract between participants. Contracts, when presented thoughtfully, can be negotiated equitably and ethically. When teaching social justice it is good to model a socially justice paradigm. I start this assignment by discussing the ways in which students need to consider the meaning of work, individual versus collaborative contribution, and work product. It is important to talk about what the contract means for the students and how you, as the instructor, will interpret the guidelines they set when you grade/assess work product resulting from the contract. This activity is designed to help students create a collaborative contract that recognizes the amount of work and shared responsibility of group mates. Guide them to writing an equitable contract, remember they may not know how to write a contract without totalitarian or authoritarian language. The directions for the assignment are included in the syllabus for COMM 4543. This artifact is an an example of a contract written by a small group of students to ensure their success on the class project. The included sample was written by students whose names and contact information have been removed. 
-
-#### Final Assignment CHECK LIST (Digital Humanities Project)
-
-![screenshot](images/social_justice-FINAL-ASSIGNMENT-CHECK-LIST.png)
-
-* Artifact Type: Handout
-* Source URL: [http://www.drtonieshaltaylor.com/teaching](http://www.drtonieshaltaylor.com/teaching) 
-* Copy of the Artifact: [files/social_justice-FINAL-ASSIGNMENT-CHECK-LIST.pdf](files/social_justice-FINAL-ASSIGNMENT-CHECK-LIST.pdf)
-* Creator and Affiliation: Toniesha L. Taylor, Prairie View A&M University
-
-This handout is used by students to organize their final projects. The expectation is that students will complete this assignment and submit it with the final project write-up after the curated project is presented to the entire class and invited guests. This assignment allows students to indicate the amount of work completed by each group member, if/when/how tasks were completed. Students are expected to indicate who completed elements and if that matched the contract worked out at the start of the semester. This assignment, in collaboration with the group member evaluation allows students to understand the importance of collaborative work and responsibility. Finally, assignments like these allow instructors to teach applied social justice and equity in project based work given that group work is a central tenant of media professions, encouraging students to create and maintain equatable groups gives them both the tools and language to create similar groups in their professionals endeavors. 
+Some form of equitable social contract is valuable between course participants. Contracts, when presented thoughtfully, can be negotiated equitably and ethically. When teaching social justice, it's critical to model a social justice paradigm. Start this assignment by discussing how students can consider the meaning of work, individual versus collaborative contribution, and work product. Remember, students may not know how to write a contract without totalitarian or authoritarian language. Guide them to writing an equitable contract. It is important to talk about how, as the instructor, you will interpret the guidelines they set when grading/assessing work product resulting from the contract. This activity is designed to help students create a collaborative contract that recognizes the amount of work and shared the responsibility of group mates. The directions for the assignment are in the COMM 4543 syllabus. Names and contact information removed from the sample. 
 
 #### Transferring Intersectional and Performative Responses
 
 ![screenshot](images/social_justice-Transferring-Intersectional-and-Performative-Responses.png)
 
-* Source URL: [http://www.drtonieshaltaylor.com/](http://www.drtonieshaltaylor.com/) 
+* Source URL: [https://www.drtonieshaltaylor.com/single-post/2017/01/05/ACTIVITY-Transferring-Intersectional-and-Performative-Responses-to-Mediated-Representations-of-Sexuality](https://www.drtonieshaltaylor.com/single-post/2017/01/05/ACTIVITY-Transferring-Intersectional-and-Performative-Responses-to-Mediated-Representations-of-Sexuality) 
 * Copy of the Artifact: [files/social_justice-Transferring-Intersectional-and-Performative-Responses.pdf](files/social_justice-Transferring-Intersectional-and-Performative-Responses.pdf)
+* Artifact Permissions:
 * Creator and Affiliation: Dr. Robert Gutierrez-Perez, Assistant Professor of Communication, University of Nevada, Reno (Original Creator), Dr. Amber L. Johnson, Assistant Professor of Communication, St. Louis University, and Dr. Toniesha L. Taylor, Associate Professor of Communication, Prairie View A&M University
 
-Dr. Johnson and I modified this activity from one created by Dr. Robert Gutierrez-Perez. Dr. Guiterrez-Perez’s original activity used music and focused on themes and terms around marriage equality. Dr. Johnson and I have have expanded the activity to include video and use hashtags, themes and terms used to discuss race, class, gender and sexuality. Dr. Johnson and I adapted the original activity as a creative interactive performance delivered at the Western States Communication Association Conference.  Since then we have each adapted the activity for classroom delivery in various communication classrooms. This activity allows professors to engage in mediated representations of intersectional identities. Moreover students are able to discuss the ways in which they understand social justice actions through identity matrixes. When delivered in classrooms this activity can be used to start conversation. 
+Dr. Johnson and Dr. Taylor modified this activity from one created by Dr. Robert Gutierrez-Perez. Dr. Guiterrez-Perez’s original activity used music and focused on themes and terms around marriage equality. Johnson and Taylor have have expanded the activity to include video and use hashtags, themes and terms used to discuss race, class, gender and sexuality. Johnson and Taylor adapted the original activity as a creative interactive performance delivered at the Western States Communication Association Conference.  Since then we have each adapted the activity for classroom delivery in various communication classrooms. This activity allows professors to engage in mediated representations of intersectional identities. Moreover students are able to discuss the ways in which they understand social justice actions through identity matrixes. When delivered in classrooms this activity can be used to start conversation. 
 
 #### Walk of Life - Power in Society
 
 ![screenshot](images/social_justice-walk-of-life.png)
-
+* Source URL:  N/A
+* Artifact Permissions:
 * Copy of the Artifact: [files/social_justice-Walk-of-Life.pdf](files/social_justice-Walk-of-Life.pdf)
-* Creator and Affiliation: Dr. Dreama G. Moon, California State University, San Marcos
+* Creator and Affiliation: Dreama G. Moon, California State University, San Marcos
 
-Over the years I have had the opportunity to use this activity with students in a number of situations. This is a great early to mid-semester activity. This activity serves to demonstrate the various ways in which privileges are lived and intersectional. Dr. Moon indicates in the instructions campus locations to complete this activity. Indoor and outdoor staircases are preferred locations for this exercise. It is important that students “lose sight” of each other or have distance. At the same time they need to be able to hear the instructor deliver the statements the further away they get. Interior staircases in the middle of buildings are nice as long as the instructor’s voice will not disturb other classes. I have delivered this activity in high traffic areas. Since students are not supposed to talk to each other or ask questions, the fact that their peers, not enrolled in the class may walk around them and not know what is going on seems to add to the heightened sense of recognizing privilege. 
+The activity serves to demonstrate the various ways in which privileges are lived and intersectional. Dr. Moon indicates in the instructions campus locations to complete this activity. Indoor and outdoor staircases are preferred locations for this exercise. However, in considering access, full flat campus courtyards are also useful. It is important that students “lose sight” of each other or have distance. At the same time, they need to be able to hear the instructor deliver the statements and move accordingly.  This exercise as part of digital pedagogy allows for conversations about privilege and how it is experienced and replicated in digital space. Once students have an embodied notion of their privilege, they can understand how it is transferred in and through digital spaces. 
 
 #### Saturday School
 
@@ -108,19 +130,35 @@ Over the years I have had the opportunity to use this activity with students in 
 
 * Artifact Type: Activity
 * Source URL: [http://funknbeans.com/category/saturdayschool/](http://funknbeans.com/category/saturdayschool/) 
+* Artifact Permissions:
+* Copy of the Artifact: 
 * Creator and Affiliation: Rhonda Ragsdale, Lone Star College - North Harris
 
-There are a number of ways to engage in digital pedagogy. Professor Ragsdale’s work on the #SaturdaySchool is a wonderful example of public engagement in teaching and learning. The site includes write-ups for each week’s theme on social justice. Professor Ragsdale runs the weekly twitter conversation throughout the day engaging with hundreds if not thousands of followers. As a form of direct action Professor Ragsdale brings critical engagement in social justice out of the college classroom and on Twitter with all sorts of audiences. As a classroom activity students can participate with the conversation as an observer or as a participant. Those interested in using this activity to teach methods of public intellectualism will find Professor Ragsdale’s philosophy on teaching and learning clearly thought through and honestly executed. Over time Professor Ragsdale has added the tag #SoJust to the #SaturdaySchool grouping and advertises the weekly tag 24 hours prior to the start of the live discussion. Students and professor will find the discussion productive and useful. 
+Professor Ragsdale’s #SaturdaySchool and #SoJust Twitter teach-in is an excellent example of public engagement in teaching and learning. The site includes write-ups for each week’s theme on social justice. Professor Ragsdale runs the weekly twitter conversation throughout the day engaging with hundreds to thousands of followers per week. As a form of direct action, Professor Ragsdale brings critical engagement in social justice out of the college classroom and on Twitter with all sorts of audiences. As a classroom activity, students can participate in the conversation as an observer or as a participant. Social justice Twitter teach-ins are an effective activity teachers can use to engage in public discourse over the course of the semester. Dr. Ragesdale provides a step by step guide for scholars new to using hashtags or social media teach-ins in the classroom at https://twitter.com/profragsdale/status/743878457164079105  
 
-#### #SoJust Saturday School Teach-In
+#### Radical Forgiveness--The Justice Fleet
 
-![screenshot](images/social_justice-SoJust-Twitter-Teach-In.png)
+![screenshot](  )
 
 * Artifact Type: Activity
-* Source URL: [https://twitter.com/profragsdale/status/743878457164079105](https://twitter.com/profragsdale/status/743878457164079105) 
-* Creator and Affiliation: Rhonda Ragsdale, Lone Star College - North Harris
+* Source URL: [https://www.thejusticefleet.com/copy-of-home) 
+* Artifact Permissions: Copyright Amber Johnson, Assistant Professor, Communication Department, Saint Louis University
+* Copy of the Artifact: 
+* Creator and Affiliation: Amber L. Johnson, Saint Louis University 
 
-Professor Ragsdale [https://twitter.com/profragsdale](https://twitter.com/profragsdale) generously created this eight point layout for instructors who wish to engage in future teach-ins. As a form of social justice, teach-ins are sustainable and proven means to engage all sorts of people in learning. As an introductory activity for instructors learning to engage audiences, a Twitter teach-in is an easy lift. Professor Ragsdale shows would-be instructors in an easy to follow 8 step discussion on the rules, the practices and methods of the teach-in. Participants are encouraged to use and follow the hashtags to participate whenever they want. For classroom instructors, this is a great way to engage students in class by asking them review and participate in the hashtag. It is also an excellent way to discuss media literacy, critical thinking, and digital presentations of information. 
+For many scholars and activist notions of social justice include clear concepts of self-care and radical forgiveness. Scholar and activist Angela Davis provides a clear and compelling reason for why social justice must include radical forgiveness to create sustained change (van Gelder). For social justice digital pedagogy, it is viable to use digital story-telling and art as part of the process of self-care and radical forgiveness. Dr. Amber Johnson has built an excellent website complete with lesson plans for executing radical forgiveness. Designed to occur in the classroom where students are creating corporeal art, these lessons also allow students to construct digital projects and spaces where an instructor can teach social justice as radical forgiveness. As both physical and digital constructions of the world, students and teacher use creative space for justice work. Dr. Johnson provides a step-by-step process for engagement in the tough work of radical forgiveness including definitions of forgiveness.  
+
+#### The Prophetic Ministry of Bishop Henry McNeal Turner Syllabus -- Dr. Andre Johnson
+
+![screenshot]( )
+* Artifact Type: Syllabus
+* Source URL: 
+* Artifact Permissions:
+* Copy of the Artifact: [ ]()
+* Creator and Affiliation: Andre Johnson, The University of Memphis 
+
+Some digital archive projects are social justice projects in practice and context. One such project is Dr. Andre Johnson's digital archive the "The #HMTProject" focused on the writings and study of the 19th century African Methodist Episcopal Bishop Henry McNeal Turner. As a model of historical rhetoric and digital archive, the #HMTProject provide students a means to engage historical text in understanding Bishop Turner's use of the prophetic to embody social justice. Director Dr. Johnson along with his research team Kimberley Travers, Dianna Watkins-Dickerson, and James Morgan III digitized or provide links to over sixty writings, over twenty letters, ten books or manuscripts written by Bishop Turner.The artifact included here is Dr. Johnson's syllabus, focusing specifically on Sep. 21 contains embedded links and discussion questions as an example of how to engage students in debates on the practical use of texts within the historical context. 
+
 
 ## RELATED MATERIALS
 
@@ -139,6 +177,30 @@ Justice and Communication Scholarship*, edited by Omar Swartz, Routledge, 2012, 
 
 ## WORK CITED
 
-Ragsdale, Rhonda. “#SaturdaySchool.” *funknbeans*, 
+Estwick, Noel M. “GIS Mapping Introduction.” 2016. PDF file
+
+Harris-Perry, Melissa. “Race Class Social Justice Syllabus.” Ann Julia Cooper Center, http://ajccenter.wfu.edu/wp-content/uploads/2014/06/RaceClassSocialJusticeFall2015W.pdf. Accessed 11 December 2016.
+
+Johnson, Amber L. Radical Forgiveness--The Justice Fleet. https://www.thejusticefleet.com/copy-of-home. Accessed 15 September 2017.
+
+Johnson, Amber L. and Toniesha L. (Original Creator, Robert Gutierrez-Perez). “Transferring Intersectional and Performative Responses.”  DrTonieshaLTaylor, https://www.drtonieshaltaylor.com/single-post/2017/01/05/ACTIVITY-Transferring-Intersectional-and-Performative-Responses-to-Mediated-Representations-of-Sexuality. Accessed 11 December 2016.
+
+Johnson, Andre. “The Prophetic Ministry of Bishop Henry McNeal Turner Syllabus.” 2017. PDF file.
+
+Moon, Dreama G. “Walk of Life - Power in Society.” 2015. PDF file.
+
+Ragsdale, Rhonda. “Saturday School.” funknbeans, http://funknbeans.com/category/saturdayschool. Accessed 11 December 2016.
+
+——“#SaturdaySchool.” *funknbeans*, 
 [http://funknbeans.com/category/saturdayschool/](http://funknbeans.com/category/saturdayschool/). Accessed 12 December 2016. 
+
+Risam, Roopika, micha cárdenas, Jeremy Boggs, Ashley Byock, Vinamarata Kaur, Joan Lubin, Emily Sessions, Danica Savonick, and Sveta Stoytcheva. “An Invitation Towards Social Justice in the Digital Humanities.” Social Justice and Digital Humanities, http://criticaldh.roopikarisam.com. Accessed 15 September 2017.
+
+Taylor, Toniesha L. “Advanced Writing for the Discipline Syllabus.” DrTonieshaLTaylor, http://www.drtonieshaltaylor.com/teaching. Accessed 11 December 2016. 
+
+——“Group Contract (COMM 4543).” 2015. PDF file.
+
+van Gelder, Sarah. "The Radical Work of Healing: Fania and Angela Davis on a New Kind of Civil Rights Activism." *yes! Magazine* 18 Feb. 2016, http://www.yesmagazine.org/issues/life-after-oil/the-radical-work-of-healing-fania-and-angela-davis-on-a-new-kind-of-civil-rights-activism-20160218. Accessed September 15, 2017.
+
+
 
