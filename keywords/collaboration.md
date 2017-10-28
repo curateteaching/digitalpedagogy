@@ -168,7 +168,7 @@ The OpenLab is a collaborative digital learning platform open to students, facul
 
 ### Not Your Mama’s Gamer (NYMG)
 
-![screenshot](images/collaboration_nymg.png)
+![screenshot](images/collaboration-screenshot-nymg.png)
 
 * Type: Collaborative Projects
 * Source URL: [http://www.nymgamer.com/?page_id=2](http://www.nymgamer.com/?page_id=2)
