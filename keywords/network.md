@@ -47,10 +47,10 @@ Even though particular locations and tools are mentioned here, the technologies 
 Artifacts were chosen to show diverse ways of networking, many of which are meta: opportunities to  learn about networking while observing/experiencing networking. Artifacts include assignments, course sites, and collaborative projects, some are exemplars teachers can adapt, others can be used directly as they are.
 
 
-##Curated Artifacts
+## Curated Artifacts
 
 
-###Connectivism & Connected Knowledge
+### Connectivism & Connected Knowledge
 
 ![screenshot](images/network-connectivism.jpg)
  
@@ -66,7 +66,7 @@ facilitators, but what the participants themselves make of it - facilitators
 share an [aggregation of feeds from participant blogs/tweets](http://cck11.mooc.ca/feeds.htm). See sample [daily newsletter](http://cck11.mooc.ca/archive/11/04_01_newsletter.htm), incorporating participant content as well as facilitator-led activities. 
 
 
-###FemTechNet Commons
+### FemTechNet Commons
 
 ![screenshot](images/network-femtechnet.jpg)
 
@@ -106,7 +106,7 @@ Digital annotation can expand our understanding of what is possible when we read
 This is a crowdsourced document in which participants in a rhizomatic/connectivist open course (#rhizo15) worked together in the first week to create a recipe for open learning. It is created in an open Google document, where different participants entered the tips they feel would be helpful to someone new to the arena of open learning. Because participants could see each other’s tips, they could add to what already existed, add comments (viewable in the margins) and ask for clarification. The document is a good example of crowdsourcing knowledge in a network, and can be adapted for a variety of different learning contexts. 
 
 
-###Peeragogy Handbook
+### Peeragogy Handbook
 
 ![screenshot](images/network-PeeragogyHandbook.jpg)
 
@@ -119,7 +119,7 @@ This is a crowdsourced document in which participants in a rhizomatic/connectivi
 A “how-to-do-it” resource on how a group of self-learners can organize via networked co-learning. The Peeragogy Handbook is a crowdsourced and collaboratively annotated compendium for any group of people who want to co-learn any subject together using the tools and knowledge available online.  When students are given an open group research project, this handbook guides co-learners in identifying shared purpose and defining self determined learning outcomes. The term “peeragogy” comes from [Howard Rheingold](http://rheingold.com/) via his [Social Media Classroom](http://socialmediaclassroom.com/).  Rheingold instigated this project, serving as a “catalyst” for the creation of this peer-created guide to pure peer-to-peer learning in the networked era. Peeragogy is a flexible framework of techniques for peer learning and peer knowledge production. Whereas pedagogy deals with the transmission of knowledge from teachers to students, peeragogy is what people use to produce and apply knowledge together. The strength of peeragogy is its flexibility and scalability through networked learning.  
 
 
-###Promoting and assessing value creation in communities and networks: a conceptual framework
+### Promoting and assessing value creation in communities and networks: a conceptual framework
 
 ![screenshot](images/network-AssessingValueCreation.jpg) 
 
@@ -140,7 +140,7 @@ This framework, published by the Open University of the Netherlands, addresses t
 The first four of these are adapted from Kirkpatrick’s work, long used in the field of training. The document also describes differences between communities and networks, possible measures for each of the five levels, and approaches to writing narratives assessing value of communities/networks. They emphasize how the story of a network involves both personal and social networks with multiple perspectives. This artifact can be used pedagogically where learners can measure the value of a learning network as they experience networking.
 
 
-###  ResNetSem Visualization
+### ResNetSem Visualization
 
 ![screenshot](images/network-#ResNetSem_TAGSvisualization.png)
 
@@ -154,7 +154,7 @@ The first four of these are adapted from Kirkpatrick’s work, long used in the 
 Watching the development of a Twitter hashtag community can be a useful way to understand the evolution of networked learning.  It can also help learners assess the ways in which they are contributing to a connected community “backchannel”.  The hastag #ResNetSem was established for the overall proceedings of the co-located research seminar conducted by Mia Zamora (University of Bergen-Norway) and Alan Levine (Kean University-NJ) in Fall 2017.  #ResNetSem made use of the TAGSExplorer SNA (social network analysis) tool developed by Martin Hawksey in order to visualize the interactions between seminar participants and a broader network of learners.  Anyone who uses a twitter hashtag for pedagogical use can also apply TAGSexplorer to create a social network visualization.  Students in #ResNetSem were asked periodically to evaluate the TAGSExplorer visualization and reflect on what they could apprehend about the changing nodes and connections represented there.  This self-assessment assignment aids students in apprehending the larger cultural conversation about their class material, while guiding them to consider their own forms of networked participation. 
 
 
-###  **Twitter Journal Club**
+### **Twitter Journal Club**
 
 ![screenshot](images/network/tjc.jpg)
 
@@ -168,7 +168,7 @@ Laura Gogia started Twitter Journal Club (originally #tjc15) while she was a gra
  See this [Storify](https://storify.com/GoogleGuacamole/may-2016-twitter-journal-club-tjc16) to see a sample Twitter chat in retrospect, and [this article](http://www.digitalpedagogylab.com/hybridped/careful-approach-to-digital-scholarship/) for the backstory behind TJC.
 
 
-###  #TvsZ
+### TvsZ
 
 ![screenshot](images/network-tvsz.jpg)
 
@@ -182,7 +182,7 @@ Laura Gogia started Twitter Journal Club (originally #tjc15) while she was a gra
 Rorabaugh & Stommel created “an epic zombified experiment in Twitter literacy, gamification, collaboration, and emergent learning.” #TvsZ is a Twitter adaptation of the game humans vs zombies (a game of tag played in college), meant to develop digital literacy. Often played by college students with anyone on Twitter who wishes to participate, it “offers no certificate or diploma, but an opportunity to connect with others”. People who play need to learn to collaborate with virtual strangers online during the condensed (around 3-day) period of play, experiencing accelerated network-building. A key feature  is emergent [game rules](http://tvsz.us/rules/), and that players themselves participate in suggesting changes. In 2015 Rorabaugh mentions how the game evolved. Its then-latest zombie-free version had 6 administrators from Canada, Egypt and US. It presents an approach to perforating  the classroom, introducing students to global, networked learning while learning digital literacy. [Curated artifacts from 6.0](http://fliphtml5.com/segh/davk) 
 
 
-###  Virtually Connecting
+### Virtually Connecting
 
 ![screenshot](images/network-VirtuallyConnecting.jpg)
 
@@ -199,7 +199,7 @@ Virtually Connecting (VC) attempts to take Personal Learning Networks (PLN) to t
 
 
 
-##Related Works
+## Related Works
 
 Bali, M., Crawford, M., Jessen, R., Signorelli, P., & Zamora, M. (2015). What Makes a cMOOC Community Endure? Multiple Participant Perspectives From Diverse MOOCs. Educational Media International, 100-115.
 
@@ -246,9 +246,7 @@ Zamora, Mia. “Dear Future President”. DML Central: Digital Media & Learning:
 10th International Conference on Networked Learning 2016. “Past Conference Proceedings.” Web. (http://www.lancaster.ac.uk/fss/organisations/netlc/past/index.htm)
 
 
-
-
-##Works Cited
+## Works Cited
 
 Abdelmoneim, Maha. Personal communication, December 7, 2015
 
