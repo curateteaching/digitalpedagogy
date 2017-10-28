@@ -142,7 +142,7 @@ The first four of these are adapted from Kirkpatrick’s work, long used in the 
 
 ### ResNetSem Visualization
 
-![screenshot](images/network-#ResNetSem_TAGSvisualization.png)
+![screenshot](images/network-ResNetSem_TAGSvisualization.png)
 
 * Title of Artifact: TAGSExplorer: #ResNetSem visualization 
 * Artifact Type: assignment
@@ -156,7 +156,7 @@ Watching the development of a Twitter hashtag community can be a useful way to u
 
 ### **Twitter Journal Club**
 
-![screenshot](images/network/tjc.jpg)
+![screenshot](images/network-tjc.jpg)
 
 * Source URL: https://tjc16.wordpress.com/  
 * Artifact Permissions: CC-BY-SA
