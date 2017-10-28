@@ -158,7 +158,7 @@ This syllabus by Andreas Dafinger, teaching at a European university, examines d
 
 ![screenshot](images/screenshot-digital_divides-digital_and_its_discontents.png)
 
-* Artifact Type: Syllabus
+* Artifact Type: Course Website
 * Source URL: [https://iiitbcourses.wordpress.com/digitaldiscontents2017/](https://iiitbcourses.wordpress.com/digitaldiscontents2017/)
 * Artifact Permissions: Copyright Janaki Srinivasan
 * Creator Affiliation: Janaki Srinivasan, International Institute of Information Technology Bangalore
