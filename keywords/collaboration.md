@@ -94,7 +94,7 @@ Our hope as curators is that these resources will inspire educators to experimen
 ### "Digital Labor, Urban Space, and Materiality"
 
 ![screenshot](images/collaboration-screenshot-posner-digital-labor.png)
-Copy of artifact: [files-copies/collaboration-artifact-posner-digital-labor.pdf](artifact-copies/collaboration-artifact-posner-digital-labor.pdf)
+Copy of artifact: [files/collaboration-artifact-posner-digital-labor.pdf](artifact-copies/collaboration-artifact-posner-digital-labor.pdf)
 
 * Type: Assignment
 * Source URL: [http://digitalmateriallabor.org/final-project/](http://digitalmateriallabor.org/final-project/)
