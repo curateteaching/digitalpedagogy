@@ -29,7 +29,7 @@ California State University-Dominguez Hills
 
 ---
 
-### Cross-Reference Keywords: access, intersectionality, social justice
+### Cross-Reference Keywords: access, intersectionality, race, social justice
 
 ---  
 
@@ -85,6 +85,8 @@ This syllabus is for a senior level capstone service learning project on digital
 This artifact has students use materials about digital divides published on a research group’s website to collectively construct an annotated bibliography. This assignment teaches library database research as students locate and retrieve scholarly books and articles, read them and create summary annotations relative to course discussion on digital divides. This assignment is particularly appropriate for first year university students learning to use library research databases and scholarly citation styles. It also is significant in asking students to determine and reflect on the differences between scholarly and popular publications. This reflection could lead to a discussion of the paywall digital divide that separates people who are not part of the university community from being able to access peer reviewed research.  
 
 #### Media and the Digital Divide
+
+![screenshot](images/screenshot-digital_divides-media-and-the-digital-divide.png)
 
 * Artifact Type: Course Website
 * Source URL: [http://digitaldivide.professorkhan.com](http://digitaldivide.professorkhan.com) 
@@ -154,9 +156,11 @@ This syllabus by Andreas Dafinger, teaching at a European university, examines d
 
 #### The Digital and Its Discontents 
 
+![screenshot](images/screenshot-digital_divides-digital_and_its_discontents.png)
+
 * Artifact Type: Syllabus
 * Source URL: [https://iiitbcourses.wordpress.com/digitaldiscontents2017/](https://iiitbcourses.wordpress.com/digitaldiscontents2017/)
-Artifact Permissions: Copyright Janaki Srinivasan
+* Artifact Permissions: Copyright Janaki Srinivasan
 * Creator Affiliation: Janaki Srinivasan, International Institute of Information Technology Bangalore
 
 This course website website by Janaki Srinivasan, teaching at a South Asian university, examines digital spaces and their influence on social, economic, political and cultural inequalities, with particular focus on so called developing countries.  The course looks at digital divides through the lens of development looking especially at parts of Asia, South America and Africa. The course assignments work in a sequence, asking students to choose a country that the World Bank lists as low or middle income. Through a series of essay assignments, the students explore the background of the country, ultimately discussing a World Bank Information and Communication Technologies project underway in the country. This syllabus offers an innovative way to teach and discuss technology projects of the "developing" world and how these projects may redefine ideas about digital divides.    
