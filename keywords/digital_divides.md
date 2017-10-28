@@ -47,9 +47,9 @@ These artifact selections are ordered moving from service/experiential learning 
 
 ## CURATED ARTIFACTS
 
+### Teaching the Digital Divide
 ![screenshot](images/screenshot-digital_divides-teaching-digital-divide.png)
 
-### Teaching the Digital Divide
 * Artifact Type: Students Course Blogs
 * Source URLs: 
 [http://ingac397.blogspot.com](http://ingac397.blogspot.com)
