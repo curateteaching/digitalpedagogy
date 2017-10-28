@@ -142,7 +142,7 @@ Professor Ragsdale’s #SaturdaySchool and #SoJust Twitter teach-in is an excell
 
 * Artifact Type: Activity
 * Source URL: [https://www.thejusticefleet.com/copy-of-home) 
-* Artifact Permissions: Copyright Amber Johnson, Assistant Professor, Communication Department, Saint Louis University
+* Artifact Permissions: © Amber Johnson, Assistant Professor, Communication Department, Saint Louis University
 * Copy of the Artifact: 
 * Creator and Affiliation: Amber L. Johnson, Saint Louis University 
 
