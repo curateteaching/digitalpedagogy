@@ -15,9 +15,10 @@ type: book
 
 # NETWORK
 
-
-## Mia Zamora and Maha Bali
+## Mia Zamora 
 Kean University | [Website](http://miazamoraphd.com)
+
+## Maha Bali
 American University in Cairo | [Website](http://blog.mahabali.me) 
 
 ---
