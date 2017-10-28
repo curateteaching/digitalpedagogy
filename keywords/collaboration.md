@@ -94,7 +94,7 @@ Our hope as curators is that these resources will inspire educators to experimen
 ### "Digital Labor, Urban Space, and Materiality"
 
 ![screenshot](images/collaboration-screenshot-posner-digital-labor.png)
-Copy of artifact: [files/collaboration-artifact-posner-digital-labor.pdf](artifact-copies/collaboration-artifact-posner-digital-labor.pdf)
+Copy of artifact: [files/collaboration-artifact-posner-digital-labor.pdf](files/collaboration-artifact-posner-digital-labor.pdf)
 
 * Type: Assignment
 * Source URL: [http://digitalmateriallabor.org/final-project/](http://digitalmateriallabor.org/final-project/)
@@ -120,7 +120,7 @@ Professor Michael Wesch organizes his Kansas State University courses around col
 
 ![screenshot](images/collaboration-screenshot-feminisms-ixd.png) 
 
-* Copy of artifact: [files/collaboration-artifact-feminisms-ixd.pdf](artifact-copies/collaboration-artifact-feminisms-ixd.pdf) 
+* Copy of artifact: [files/collaboration-artifact-feminisms-ixd.pdf](files/collaboration-artifact-feminisms-ixd.pdf) 
 * Type: Assignment
 * Source URL: [http://www.jsanofranchini.com/wp-content/uploads/2015/01/ENGL4874-Final-Project-Web.pdf](http://www.jsanofranchini.com/wp-content/uploads/2015/01/ENGL4874-Final-Project-Web.pdf)
 * Artifact Permissions: CC BY-NC-SA 4.0
@@ -192,7 +192,7 @@ The Pedagogy Project is a crowd-sourced collection of more than 80 projects and 
 ### Teaching #BlackLivesMatter: Countering the Pedagogies of Anti-Black Racism, A Collaborative, Crowd-Sourced Syllabus
 
 ![screenshot](images/collaboration-screenshot-blacklivesmatter.png)
-Copy of artifact: [files/collaboration-artifact-blacklivesmatter.pdf](artifact-copies/collaboration-artifact-blacklivesmatter.pdf)
+Copy of artifact: [files/collaboration-artifact-blacklivesmatter.pdf](files/collaboration-artifact-blacklivesmatter.pdf)
 
 * Type: Syllabus
 * Source URL: [https://docs.google.com/document/d/1yjV779VAC2jJpM5-7aJ6OCFS71JiqTr8AToj0VNINRg/edit](https://docs.google.com/document/d/1yjV779VAC2jJpM5-7aJ6OCFS71JiqTr8AToj0VNINRg/edit)
