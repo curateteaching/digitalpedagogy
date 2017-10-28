@@ -93,7 +93,7 @@ Our hope as curators is that these resources will inspire educators to experimen
 
 ### "Digital Labor, Urban Space, and Materiality"
 
-![screenshot] (images/collaboration-screenshot-posner-digital-labor.png)
+![screenshot](images/collaboration-screenshot-posner-digital-labor.png)
 Copy of artifact: [artifact-copies/collaboration-artifact-posner-digital-labor.pdf](artifact-copies/collaboration-artifact-posner-digital-labor.pdf)
 
 * Type: Assignment
@@ -106,7 +106,7 @@ In [Digital Labor, Urban Space, and Materiality](http://digitalmateriallabor.org
 
 ### Falling Up
 
-![screenshot] (images/collaboration-screenshot-wesch-falling-up.png) 
+![screenshot](images/collaboration-screenshot-wesch-falling-up.png) 
 
 * Type: Collaborative Project
 * Source URL: [https://www.youtube.com/watch?v=BFuluIy-5QY](https://www.youtube.com/watch?v=BFuluIy-5QY)
@@ -118,7 +118,7 @@ Professor Michael Wesch organizes his Kansas State University courses around col
 
 ### Feminisms and Interaction Design (IxD)
 
-![screenshot] (images/collaboration-screenshot-feminisms-ixd.png) 
+![screenshot](images/collaboration-screenshot-feminisms-ixd.png) 
 
 * Copy of artifact: [artifact-copies/collaboration-artifact-feminisms-ixd.pdf](artifact-copies/collaboration-artifact-feminisms-ixd.pdf) 
 * Type: Assignment
@@ -131,7 +131,7 @@ This project was designed by Professor Jennifer Sano-Franchini as the culminatio
 
 ### Distributed Open Collaborative Course (DOCC)
 
-![screenshot] (images/collaboration-screenshot-femtechnet-docc.png) 
+![screenshot](images/collaboration-screenshot-femtechnet-docc.png) 
 
 * Type: Collaborative project
 * Source URL: [https://femtechnet.org/docc/](https://femtechnet.org/docc/) 
@@ -143,7 +143,7 @@ FemTechNet is a network of scholars, artists, and students working with technolo
 
 ### A Student Collaborators’ Bill of Rights
 
-![screenshot] (collaboration-screenshot-student-collaborators-bill-of-rights.png) 
+![screenshot](collaboration-screenshot-student-collaborators-bill-of-rights.png) 
 
 * Type: Teaching Guidelines
 * Source URL: http://cdh.ucla.edu/news/a-student-collaborators-bill-of-rights/
@@ -155,7 +155,7 @@ Faculty members, instructors, staff, and administrators must carefully consider 
 
 ### OpenLab
 
-![screenshot] (collaboration-screenshot-openlab.png) 
+![screenshot](collaboration-screenshot-openlab.png) 
 
 * Artifact Type: Learning Platform 
 * Source URL:[ https://openlab.citytech.cuny.edu/](https://openlab.citytech.cuny.edu/)
@@ -167,7 +167,7 @@ The OpenLab is a collaborative digital learning platform open to students, facul
 
 ### Not Your Mama’s Gamer (NYMG)
 
-![screenshot] (images/collaboration_nymg.png)
+![screenshot](images/collaboration_nymg.png)
 
 * Type: Collaborative Projects
 * Source URL: [http://www.nymgamer.com/?page_id=2](http://www.nymgamer.com/?page_id=2)
@@ -179,7 +179,7 @@ The OpenLab is a collaborative digital learning platform open to students, facul
 
 ### The Pedagogy Project: Collaborative Digital Projects
 
-![screenshot] (images/collaboration-screenshot-pedagogy-project.png) 
+![screenshot](images/collaboration-screenshot-pedagogy-project.png) 
 
 * Type: Lesson plans
 * Source URL: [http://www.hastac.org/pedagogy-project](http://www.hastac.org/pedagogy-project)
@@ -191,7 +191,7 @@ The Pedagogy Project is a crowd-sourced collection of more than 80 projects and 
 
 ### Teaching #BlackLivesMatter: Countering the Pedagogies of Anti-Black Racism, A Collaborative, Crowd-Sourced Syllabus
 
-![screenshot] (images/collaboration-screenshot-blacklivesmatter.png)
+![screenshot](images/collaboration-screenshot-blacklivesmatter.png)
 Copy of artifact: [artifact-copies/collaboration-artifact-blacklivesmatter.pdf](artifact-copies/collaboration-artifact-blacklivesmatter.pdf)
 
 * Type: Syllabus
