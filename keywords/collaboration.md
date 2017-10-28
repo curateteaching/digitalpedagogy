@@ -94,6 +94,7 @@ Our hope as curators is that these resources will inspire educators to experimen
 ### "Digital Labor, Urban Space, and Materiality"
 
 ![screenshot](images/collaboration-screenshot-posner-digital-labor.png)
+
 Copy of artifact: [files/collaboration-artifact-posner-digital-labor.pdf](files/collaboration-artifact-posner-digital-labor.pdf)
 
 * Type: Assignment
@@ -143,7 +144,7 @@ FemTechNet is a network of scholars, artists, and students working with technolo
 
 ### A Student Collaborators’ Bill of Rights
 
-![screenshot](collaboration-screenshot-student-collaborators-bill-of-rights.png) 
+![screenshot](images/collaboration-screenshot-student-collaborators-bill-of-rights.png) 
 
 * Type: Teaching Guidelines
 * Source URL: http://cdh.ucla.edu/news/a-student-collaborators-bill-of-rights/
@@ -155,7 +156,7 @@ Faculty members, instructors, staff, and administrators must carefully consider 
 
 ### OpenLab
 
-![screenshot](collaboration-screenshot-openlab.png) 
+![screenshot](images/collaboration-screenshot-openlab.png) 
 
 * Artifact Type: Learning Platform 
 * Source URL:[ https://openlab.citytech.cuny.edu/](https://openlab.citytech.cuny.edu/)
@@ -192,6 +193,7 @@ The Pedagogy Project is a crowd-sourced collection of more than 80 projects and 
 ### Teaching #BlackLivesMatter: Countering the Pedagogies of Anti-Black Racism, A Collaborative, Crowd-Sourced Syllabus
 
 ![screenshot](images/collaboration-screenshot-blacklivesmatter.png)
+
 Copy of artifact: [files/collaboration-artifact-blacklivesmatter.pdf](files/collaboration-artifact-blacklivesmatter.pdf)
 
 * Type: Syllabus
