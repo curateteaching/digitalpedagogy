@@ -35,7 +35,7 @@ The materials associated with this keyword have been assembled by scholars, arti
 
 #### #FutureED
 
-!screenshot[#FutureED](/images/futures_screenshot_futureED.png)
+![screenshot](/images/futures_screenshot_futureED.png)
 
 * Artifact Type: Bibliography
 * URL: [https://www.hastac.org/initiatives/futureed](https://www.hastac.org/initiatives/futureed)
@@ -47,7 +47,7 @@ Participants in the **Humanities, Arts, Science, and Technology Alliance and Col
 
 #### Syllabus as Cultural Artifact: MIT Introduction to Media Studies
 
-!screenshot[Introduction to Media Studies-1997](images/futures_screenshot_MIT-media-studies.png)
+![screenshot](images/futures_screenshot_MIT-media-studies.png)
 
 * Artifact Type: Syllabus
 * URL: [<http://www.annenberglab.com/blogs/hjenkins/2016/03/syllabi-cultural-artifacts-mit-s-introduction-media-studies-part-one>](http://www.annenberglab.com/blogs/hjenkins/2016/03/syllabi-cultural-artifacts-mit-s-introduction-media-studies-part-one)
@@ -59,7 +59,7 @@ Appropriately for a pedagogical conversation initiated by the author of [Converg
 
 #### Big History Project: The Future
 
-!screenshot[Big History Project: The Future](/images/futures_screenshot_bighistory.png)
+![screenshot](/images/futures_screenshot_bighistory.png)
 
 * Artifact Type: Multimedia Instructional Resource
 * URL: [<https://www.bighistoryproject.com/chapters/5#>](https://www.bighistoryproject.com/chapters/5#)
@@ -71,7 +71,7 @@ The notion of “deep time” cuts across disciplinary boundaries to enable Huma
 
 #### Mapping the Futures of Higher Education
 
-!screenshot[Mapping the Futures of Higher Education](/images/futures_screenshot_mappingfutures.png)
+![screenshot](/images/futures_screenshot_mappingfutures.png)
 
 * Artifact Type: Instructional Experiment
 * URL: [<http://futures.gc.cuny.edu/about-mapping-futures/>](http://futures.gc.cuny.edu/about-mapping-futures/)
@@ -83,7 +83,7 @@ The notion of “deep time” cuts across disciplinary boundaries to enable Huma
 
 #### Undercommoning—Toykit
 
-![Undercommoning: Revolution Within, Against, and Beyond the University](/images/futures_screenshots_undercommoning.png)
+![screenshot](/images/futures_screenshots_undercommoning.png)
 
 * Artifact Type: Online Resource
 * URL: [http://www.undercommoning.org/category/toykit](http://www.undercommoning.org/category/toykit)
@@ -95,7 +95,7 @@ The **Undercommoning** Collective looks forward to the unwinding of institutiona
 
 #### Africa Is The Future
 
-!screenshot[Africa Is The Future: Art Intervention Since 2004](/images/futures_screenshot_africasacountry.png)
+![screenshot](/images/futures_screenshot_africasacountry.png)
 
 * Artifact Type: Media Gallery
 * URL: [http://africaisthefuture.com/](http://africaisthefuture.com/)
@@ -107,7 +107,7 @@ Africa Is The Future uses the [communication tools](http://africaisthefuture.com
 
 #### Notes Towards a Feminist Futurist Manifesto
 
-!screenshot[Notes Towards a Feminist Futurist Manifesto](/images/futures_screenshot_notestowardfeministfuturist.png)
+![screenshot](/images/futures_screenshot_notestowardfeministfuturist.png)
 
 * Artifact Type: Published Article
 * URL: [<http://adanewmedia.org/2012/11/issue1-kember/>](http://adanewmedia.org/2012/11/issue1-kember/) 
@@ -119,7 +119,7 @@ Sarah Kember marks the moment for the launch of *Ada: A Journal of Gender, New M
 
 #### America and the Utopian Dream
 
-!screenshot[America and the Utopian Dream](/images/futures_screenshot_America-and-the-Utopian-Dream.png)
+![screenshot](/images/futures_screenshot_America-and-the-Utopian-Dream.png)
 
 * Artifact Type: Online Exhibit
 * URL: [<http://brbl-archive.library.yale.edu/exhibitions/utopia/>](http://brbl-archive.library.yale.edu/exhibitions/utopia/)
@@ -131,7 +131,7 @@ Sarah Kember marks the moment for the launch of *Ada: A Journal of Gender, New M
 
 #### Blackness & Utopia
 
-!screenshot[Blackness & Utopia](/images/futures_screenshot_bannerimage.jpg)
+![screenshot](/images/futures_screenshot_bannerimage.jpg)
 
 * Artifact Type: Syllabus & Sample Assignment
 * URL: [<http://www.andrecarringtonphd.com/syllabus-blackness-utopia/>](http://www.andrecarringtonphd.com/syllabus-blackness-utopia/)
@@ -143,7 +143,7 @@ Blackness & Utopia is designed as an undergraduate course in African American Li
 
 #### The BYP100 *Agenda to Build Black Futures*
 
-!screenshot[Agenda to Build Black Futures](/images/futures_screenshot_buildblackfutures.png)
+![screenshot](/images/futures_screenshot_buildblackfutures.png)
 
 * Artifact Type: Agenda/Report
 * URL: [<http://agendatobuildblackfutures.org/>](http://agendatobuildblackfutures.org/)
