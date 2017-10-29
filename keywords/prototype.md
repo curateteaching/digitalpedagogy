@@ -111,7 +111,7 @@ To try a similar project in class, it is useful to have a prior project that can
 #### “Experimental Interface Design”
 ![screenshot](images/prototype_structured_surface.jpg)
 * Type: Assignment
-* [files/prototype-structured_surface.pdf](files/prototype-structured_surface.pdf)
+* [files/prototype_DH_structured_surface.pdf](files/prototype_DH_structured_surface.pdf)
 * Milena Radzikowska, Professor, Mount Royal University
 
 This exercise is about bringing aspects of research prototyping into the classroom. 
@@ -146,7 +146,7 @@ To use this in the classroom, have students describe characters that are close t
 #### “Prototypes as Objects of Study”
 ![screenshot](images/prototype_object-of-study.png)
 * Type: Student work
-* Copy of the artifact: [files/prototype--4-research-tools.pdf](files/prototype-4-research-tools.pdf)
+* Copy of the artifact: [files/prototype_4-research-tools.pdf](files/prototype_4-research-tools.pdf)
 * Maryam Heidaripour, PhD student, IIT Institute of Design, Chicago
 
 For many disciplines, the object of study does not yet exist—it is a possible future. In this assignment, students are asked to design a set of research tools consisting of a prototype, pilot study, experimental design, and quasi-experimental design (which mines existing data for factors that would have been controlled had the researcher set up the original study). The different approaches can be compared in terms of the resources required and the kind of knowledge that can be gained.
