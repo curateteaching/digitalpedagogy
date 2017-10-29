@@ -45,7 +45,7 @@ Rather than focusing on professional knowledge used to seek a job, these artifac
 
 ### Experiencing Professionalization Exercise
 
-![screenshot](images/professioanlism_classroom-1699745.jpg)
+![screenshot](images/professionalization_classroom-1699745.jpg)
 
 * Creators: Jennifer Guiliano
 
