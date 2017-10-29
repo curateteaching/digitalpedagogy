@@ -23,7 +23,8 @@ State University of New York at Geneseo | http://paulschacht.net
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review https://digitalpedagogy.commons.mla.org/**
+* draft version undergoing peer-to-peer review https://digitalpedagogy.commons.mla.org/
+* **draft version undergoing MLA copyediting**
 * published 
 
 --- 

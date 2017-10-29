@@ -15,7 +15,7 @@ publisher: Modern Language Association
 type: book
 ---
 
-# FAILURE (Draft)
+# FAILURE
 
 ## Brian Croxall and Quinn Warnick
 Brigham Young University | [http://briancroxall.net](http://briancroxall.net)
@@ -27,7 +27,8 @@ Virginia Tech | [http://quinnwarnick.com](http://quinnwarnick.com)
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review**
+* draft version undergoing peer-to-peer review
+* **draft version undergoing MLA copyediting**
 * published 
 
 ---
@@ -56,7 +57,7 @@ In each of the four tiers outlined here, failure may prove productive and engagi
 
 #### "Google Wave: Pedagogical Success, Technological Failure?"
 
-![screenshot](images/failure-fitzpatrick.png)
+![screenshot](images/failure-screenshot-googlewave.png)
 
 * Artifact Type: collaborative projects
 * Source URL: [https://archive.org/details/LearningThroughDigitalMedia](https://archive.org/details/LearningThroughDigitalMedia)
@@ -70,7 +71,7 @@ Google Wave was billed as "what email would look like if it were invented today"
 
 #### "How Could You Let That Happen?: Student Expectations for Blog Monitoring"
 
-![screenshot](images/failure-pepper.png)
+![screenshot](images/failure-screenshot-howcouldyouletthathappen.png)
 
 * Artifact Type: assignments
 * Source URL: [http://jitp.commons.gc.cuny.edu/how-could-you-let-that-happen-student-expectations-for-blog-monitoring/](http://jitp.commons.gc.cuny.edu/how-could-you-let-that-happen-student-expectations-for-blog-monitoring/)
@@ -82,7 +83,7 @@ Google Wave was billed as "what email would look like if it were invented today"
 
 #### The Wikiblitz: A *Wikipedia* Editing Assignment in a First-Year Undergraduate Class
 
-![screenshot](images/failure-graham.png)
+![screenshot](images/failure-screenshot-wikiblitz.png)
 
 * Artifact Type: collaborative projects
 * Source URL: [http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.3](http://quod.lib.umich.edu/d/dh/12230987.0001.001/1:5/--writing-history-in-the-digital-age?g=dculture;rgn=div1;view=fulltext;xc=1#5.3)
@@ -96,7 +97,7 @@ In a order to teach his students "how historians create knowledge using digital 
 
 #### "Interrogating the Interface"
 
-![screen shot](images/failure-warnick.png)
+![screen shot](images/failure-screenshot-interrogatingtheinterface.png)
 
 * Artifact Type: assignments
 * Source URL: [http://3844f13.quinnwarnick.com/unit3/](http://3844f13.quinnwarnick.com/unit3/)
@@ -108,7 +109,7 @@ To help students understand digital artifacts as a product of both intentional d
 
 #### Creating (And Coding) a Professional Website
 
-![screenshot](images/failure-brooks.png)
+![screenshot](images/failure-screenshot-creatingandcodingaprofessionalwebsite.png)
 
 * Artifact Type: assignments
 * Source URL: [http://www.rooksbay.com/2015/03/creating-and-coding-a-professional-website/](http://www.rooksbay.com/2015/03/creating-and-coding-a-professional-website/) 
@@ -122,7 +123,7 @@ After students have created professional online portfolios using simple, free to
 
 #### "Teaching to Fail"
 
-![screenshot](images/failure-burger.png)
+![screenshot](images/failure-screenshot-teachingtofail.png)
 
 * Artifact Type: learning objective
 * Source URL: [http://www.insidehighered.com/views/2012/08/21/essay-importance-teaching-failure](http://www.insidehighered.com/views/2012/08/21/essay-importance-teaching-failure)
@@ -134,7 +135,7 @@ Mathematician and Southwestern University President Edward Burger suggests teach
 
 #### "Flogging Reflection"
 
-![screenshot](images/failure-sample.png)
+![screenshot](images/failure-screenshot-floggingreflection.png)
 
 * Artifact Type: assignments
 * Source URL: [http://web.archive.org/web/20150822212436/sites.davidson.edu/hacking/course-guidelines/flogging-reflection](http://web.archive.org/web/20150822212436/sites.davidson.edu/hacking/course-guidelines/flogging-reflection)
@@ -147,7 +148,7 @@ As part of a new Digital Studies program at Davidson College, Mark Sample's *Hac
 
 #### "Failure Assessment"
 
-![screenshot](images/failure-salo.png)
+![screenshot](images/failure-screenshot-failureassessment.png)
 
 * Artifact Type: syllabi
 * Source URL: [http://files.dsalo.info/644syllsum2014.pdf](http://files.dsalo.info/644syllsum2014.pdf)
@@ -159,7 +160,7 @@ Taking inspiration from Edward Burger's "Teaching to Fail" (mentioned above), Do
 
 #### "Micro-Project VI: Glitched Aberrations"
 
-![screenshot](images/failure-packer-gonzalez.png)
+![screenshot](images/failure-screenshot-microprojectVIglitchedabberations.png)
 
 * Artifact Type: assignments
 * Source URL: [http://oss.adm.ntu.edu.sg/2014-da9003/micro-project-vi-glitched-abberations/](http://oss.adm.ntu.edu.sg/2014-da9003/micro-project-vi-glitched-abberations/)
@@ -171,7 +172,7 @@ In a class focusing on "Internet Art & Culture," Randall Packer provides his stu
 
 #### "In Support of Failure"
 
-![screenshot](images/failure-carr.png)
+![screenshot](images/failure-screenshot-insupportoffailure.png)
 
 * Artifact Type: assignments
 * Source URL: [http://compositionforum.com/issue/27/failure.php](http://compositionforum.com/issue/27/failure.php)
@@ -184,9 +185,13 @@ Drawing on personal experiences with failure early in her graduate program, Alli
 ## RELATED MATERIALS
 
 * Bond, Richard E. "Failing Lessons: Tales of Disastrous Assignments." www.historians.org/publications-and-directories/perspectives-on-history/january-2013/failing-lessons-tales-of-disastrous-assignments.
+
 * Croxall, Brian. "Tired of Tech: Avoiding Tool Fatigue in the Classroom." *Writing & Pedagogy*.
+
 * "Failure" issue. *Harvard Business Review*. hbr.org/archive-toc/BR1104. 
+
 * Harris, Katherine D. "Play, Collaborate, Break, Build, Share: ‘Screwing Around' in Digital Pedagogy. The Debate to Define Digital Humanities...Again." ojcs.siue.edu/ojs/index.php/polymath/article/view/2853/884.
+
 * Unsworth, John. "Documenting the Reinvention of Text: The Importance of Failure." dx.doi.org/10.3998/3336451.0003.201.
 
 ## WORKS CITED
