@@ -15,7 +15,7 @@ publisher: Modern Language Association
 type: book
 ---
 
-# FAILURE (Draft)
+# FAILURE
 
 ## Brian Croxall and Quinn Warnick
 Brigham Young University | [http://briancroxall.net](http://briancroxall.net)
@@ -27,7 +27,8 @@ Virginia Tech | [http://quinnwarnick.com](http://quinnwarnick.com)
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review**
+* draft version undergoing peer-to-peer review
+* **draft version undergoing MLA copyediting**
 * published 
 
 ---
@@ -184,9 +185,13 @@ Drawing on personal experiences with failure early in her graduate program, Alli
 ## RELATED MATERIALS
 
 * Bond, Richard E. "Failing Lessons: Tales of Disastrous Assignments." www.historians.org/publications-and-directories/perspectives-on-history/january-2013/failing-lessons-tales-of-disastrous-assignments.
+
 * Croxall, Brian. "Tired of Tech: Avoiding Tool Fatigue in the Classroom." *Writing & Pedagogy*.
+
 * "Failure" issue. *Harvard Business Review*. hbr.org/archive-toc/BR1104. 
+
 * Harris, Katherine D. "Play, Collaborate, Break, Build, Share: ‘Screwing Around' in Digital Pedagogy. The Debate to Define Digital Humanities...Again." ojcs.siue.edu/ojs/index.php/polymath/article/view/2853/884.
+
 * Unsworth, John. "Documenting the Reinvention of Text: The Importance of Failure." dx.doi.org/10.3998/3336451.0003.201.
 
 ## WORKS CITED
