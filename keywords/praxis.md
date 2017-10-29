@@ -12,6 +12,8 @@ author:
 - family: Lindblad
   given: J. K. Purdom
 editor:
+- family: Gold
+  given: Matthew K.
 - family: Sayers
   given: Jentery
 publisher: Modern Language Association
@@ -34,18 +36,14 @@ University of Maryland | [MITH](http://mith.umd.edu)
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review** https://digitalpedagogy.commons.mla.org/
+* draft version undergoing peer-to-peer review
+* **draft version undergoing MLA copyediting**
 * published
 
 ---
 
 ##### Cross-Reference Keywords:
-* Design
-* Fieldwork
-* Hacking
-* Labor
-* Play
-* Prototype
+Design, Fieldwork, Hacking, Labor, Play, Prototype
 
 ---
 
@@ -108,7 +106,7 @@ Finally, we sought "artifacts" that demonstrate symbiotic relationships among pr
 ![screenshot](images/praxis-screenshot-how-did-they-make-that.png)
 
 * Source URL: <http://miriamposner.com/blog/how-did-they-make-that/>
-* Copy of Artifact: [files/praxis-how-did-the-make-that.pdf](files/praxis-how-did-the-make-that.pdf)
+* Copy of Artifact: [files/praxis-how-did-they-make-that.pdf](files/praxis-how-did-they-make-that.pdf)
 * Creator: [Miriam Posner](http://miriamposner.com/) (University of California, Los Angeles)
 
 Miriam Posner offers a modest gallery of various digital projects, virtually disassembling them according to the tools and techniques used in their production. Her goal is to show how each is made, so that others might feel empowered to build similar projects or extend the ones highlighted. The site is a helpful starting point for students beginning their own digital projects. Have students explore the site, then visit each example project, to see how the list of parts and techniques correspond to and are manifested in specific results. Get a feel for the affordances of different types of digital projects. In addition to the post, Posner also offers a [video version](http://miriamposner.com/blog/how-did-they-make-that-the-video/) of "How Did They Make That."
@@ -132,16 +130,16 @@ Nina Belojevic provides an introduction and rationale for the *Kits for Cultural
 Mills Kelly has taught several iterations of an undergraduate history course entitled "Lying about the Past." The course conveys historical research methods and ethics by asking students to examine and debunk historical hoaxes. For their final projects, students create a convincing hoax of their own. [The results](http://www.theatlantic.com/technology/archive/2012/05/how-the-professor-who-fooled-wikipedia-got-caught-by-reddit/257134/) have been explosive. Alongside the emphasis on understanding history by re-shaping it, we find this an excellent example of a praxis-based syllabus, in which Kelly makes it clear that he considers his students as collaborators, and depends on their active engagement to shape the course.
 
 ### The Scholars' Lab Praxis Program and Praxis Network
-![screenshot](images/praxis-screenshot-praxischarter.jpg)
+![screenshot](images/praxis-screenshot-praxischarter.png)
 
 * Source URL: <http://praxis.scholarslab.org/>
-* Copy of Artifact: [files/praxis-praxischarter2011.pdf](files/praxis-charters.pdf)
+* Copy of Artifact: [files/praxis-praxischarter2011.pdf](files/praxis-praxischarter2011.pdf)
 * Creator: [Scholars' Lab](http://scholarslab.org/) (University of Virigina)
 
 The [Praxis Program](http://praxis.scholarslab.org) is an extracurricular attempt to reimagine graduate training in the humanities for the demands of the digital age. Each year, the Scholars' Lab brings together six graduate students from across the humanities and social sciences to theorize, design, build, and [reflect on the process](http://connect.clir.org/blogs/bethany-nowviskie/2014/11/20/charter-ing-a-path) of constructing a digital tool.  Praxis Fellows work alongside the Scholars' Lab staff throughout the cycle of creating and launching a digital project. Before working on that project, Praxis fellows work together on a written charter. The charter provides a shared space to describe the goals of the group, the ways in which the group expects to extend credit for individual and collective work, and the overall tone for their collaborative work.
 
 ### “Victorian Literature + Victorian Informatics”
-![screenshot](images/praxis-screenshot-victorianliterature.jpg)
+![screenshot](images/praxis-screenshot-victorianliterature.png)
 
 * Source URL: <http://rachelsagnerbuurma.org/uncategorized/vic_info-draft-syllabus/>
 * Copy of Artifact: [files/praxis-victorianliterature.pdf](files/praxis-victorianliterature.pdf)
