@@ -63,7 +63,7 @@ The goal in selecting these materials was to provide as wide a range as possible
 ## CURATED ARTIFACTS
 
 #### “Campus Mysteries”
-![screenshot](images/prototype-UofA_Campus_Mysteries.png)
+![screenshot](images/prototype_UofA_Campus_Mysteries.png)
 * Type: Student work
 * Copy of the artifact: [http://interactives.artsrn.ualberta.ca/?page_id=145](http://interactives.artsrn.ualberta.ca/?page_id=145)
 * MA students in Humanities Computing, University of Alberta, Edmonton
@@ -75,7 +75,7 @@ Use this exercise at the beginning of the term. Choose a prototyping exercise th
 Ask them to break into teams that will each create a prototype to the best of their abilities. By having them struggle in a hands-on way to make use of ideas that that will be explored in more detail later, they will hopefully be more motivated to focus on those ideas when the time comes to examine them in class.
 
 #### “Bodystorming”
-![screenshot](images/Prototype-Bodystorming.png)
+![screenshot](images/prototype_Bodystorming.png)
 * Type: Assignment
 * Copy of the artifact: [http://designresearchtechniques.com/casestudies/bodystorming/](http://designresearchtechniques.com/casestudies/bodystorming/)
 * Dennis Schleicher, Red Privet 
@@ -89,7 +89,7 @@ Bodystorming is a way of getting students out of their chairs and thinking with 
 To use it in a class, choose an experience associated with a location or environment. Take the students there, or create a simulation, then have them prototype the experience by acting out the roles involved. Make a video record of the activity, and review it later with the students, looking for moments of insight. To make the experience of review easier, you may want to pre-select short clips for discussion. 
 
 #### “Prototypes of an Article”
-![screenshot](images/prototype-Baby-Bottles.jpg)
+![screenshot](images/prototype_Baby-Bottles.jpg)
 * Type: Student work
 * Xinyue Zhou, MDes student, IIT Institute of Design, Chicago
 
@@ -98,7 +98,7 @@ For this assignment, students are asked to read a paper, then create a prototype
 To adapt this for a class, choose an article that the students will read as usual beforehand. Ideally it should be a paper that will engage their imaginations; it should also lend itself to thinking about things that can be prototyped, such as communications, objects, or experiences. Then have the students carry out the 4 steps above.
 
 #### “Prototype Video for Kickstarter”
-![screenshot](images/prototype-InfoDesignMRU_YouTube.png)
+![screenshot](images/prototype_InfoDesignMRU_YouTube.jpg)
 * Type: Student work
 * BComm students Mount Royal University
 
@@ -109,7 +109,7 @@ The exercise allows students to reinforce the most important elements of their r
 To try a similar project in class, it is useful to have a prior project that can form the basis of the video. Connecting the videos to the idea of the Kickstarter platform helps the students understand that they need to be making something short and compelling. Kickstarter also provides an endless list of possible examples to draw upon.
 
 #### “Experimental Interface Design”
-![screenshot](images/prototype-structured-surface.jpg)
+![screenshot](images/prototype_structured_surface.jpg)
 * Type: Assignment
 * [files/prototype-structured_surface.pdf](files/prototype-structured_surface.pdf)
 * Milena Radzikowska, Professor, Mount Royal University
@@ -120,7 +120,7 @@ In the example, students could choose between two experiments. The first was in 
 As a classroom activity, this exercise does not require that the students have some skill in normal forms of interface design, since those skills may help with the technical aspects, but may interfere with the imaginative activity of representing data. What is important is that the students are proficient in some form of representation, whether through sketching by hand, using tools like those in the Adobe Creative Suite, or using online tools for prototyping. 
 
 #### “Prototyping Character Interaction”
-![screenshot](images/prototype-character_interaction.jpg)
+![screenshot](images/prototype_character_interaction.jpg)
 * Type: Student work
 * Marley Liepert, MLIS student, University of Illinois
 
@@ -131,7 +131,7 @@ As in this example, various physical aspects can be made meaningful. These inclu
 To use this in a class, choose a book or movie that will lend itself to a sufficiently complex set of interactions among enough characters to make the project challenging, without having too many interactions or characters to make it impossible to model. 
 
 #### “Prototyping User Stories”
-![screenshot](images/prototype-user-story.png)
+![screenshot](images/prototype_user-story.jpg)
 * Type: Assignment
 * Dalsu Ozgen, Middle East Technical University, Ankara, Turkey
 
@@ -144,7 +144,7 @@ In this exercise, the student serving in the design role guides other students i
 To use this in the classroom, have students describe characters that are close to themselves or someone they know. Choose a topic that the students know about and are interested in where some problems are not hard to identify.
 
 #### “Prototypes as Objects of Study”
-![screenshot](images/prototype-4-research-tools.png)
+![screenshot](images/prototype_object-of-study.png)
 * Type: Student work
 * Copy of the artifact: [files/prototype--4-research-tools.pdf](files/prototype-4-research-tools.pdf)
 * Maryam Heidaripour, PhD student, IIT Institute of Design, Chicago
@@ -154,7 +154,7 @@ For many disciplines, the object of study does not yet exist—it is a possible 
 For use in a course, it may be helpful to plan a series of classes where each of the research tools is discussed in turn, with examples from the literature. The students can then describe ways in which their own research could be supported with each approach, resulting in a report that describes how those research tools would be created and deployed in each case.
 
 #### “Prototyping Texts”
-![screenshot](images/prototype-prototyping-texts.png)
+![screenshot](images/prototype_prototyping-texts.jpg)
 * Type: Syllabus
 * [http://jentery.github.io/508/notes.html](http://jentery.github.io/508/notes.html)
 
@@ -165,7 +165,7 @@ In either case, the purpose is to have students think about texts—even histori
 To use this in the classroom, choose documents that the students would normally be encountering, then invite them to (a) deform the texts in one or more ways, then (b) discuss or have them report on how those deformations changed the text and changed how they understand the text.
 
 #### “Science Fiction to Science Fabrication”
-![screenshot](images/prototype-building-E-14.jpeg)
+![screenshot](images/prototype_building-e-14.jpeg)
 * Type: Syllabus
 * [http://scifi2scifab.media.mit.edu/syllabus-3/](http://scifi2scifab.media.mit.edu/syllabus-3/)
 * Sophia Brueckner and Dan Novy
