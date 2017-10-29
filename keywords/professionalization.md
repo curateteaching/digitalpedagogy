@@ -83,7 +83,7 @@ With eighteen hours of video, quizzes, and peer assessment, this coursera led by
 
 ### National Survey on Professionalism
 
-![screenshot](images/professionalization_York_Professionalism.tiff)
+![screenshot](images/professionalization_York_Professionalism.tif)
 
 * Source URL: [http://www.ycp.edu/media/york-website/cpe/2015-National-Professionalism-Survey---Recent-College-Graduates-Report.pdf](http://www.ycp.edu/media/york-website/cpe/2015-National-Professionalism-Survey---Recent-College-Graduates-Report.pdf)
 * Copy of Artifact: [files/professionalization_York_survey.pdf](files/professionalization_York_Survey.pdf)
