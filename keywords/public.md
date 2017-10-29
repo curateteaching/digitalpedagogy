@@ -67,7 +67,7 @@ This brilliant text from a presentation that ed-tech journalist Audrey Watters g
 
 One of the barriers for some faculty in doing public projects with students is FERPA (Family Educational Rights and Privacy Act), the federal law about protecting student educational records. While this is on some level a legal issue, Kevin Smith’s brief advice in this post is very helpful in addressing most situations that would face faculty in working with students in public digital humanities class projects. Other relevant discussions of FERPA in the classroom include Jim Groom, “[You Can’t Spell FERPA without FEAR](http://bavatuesdays.com/you-cant-spell-ferpa-without-fear/),” and Ethan Watrall, “[Understanding FERPA & Educational Records Disclosure](http://chronicle.com/blogs/profhacker/understanding-ferpa-educational-records-disclosure/25002).”  But questions about FERPA should not prevent student work in public.  Faculty focus should be on providing students with a fair understanding of what it means to create in public but within the context of developing a public, thoughtful digital identity. 
 
-## Platforms for Public Work ##
+## Platforms for Public Work 
 
 ### A Domain of One’s Own--University of Mary Washington
 ![screenshot](images/public_domains.png) 
@@ -110,7 +110,7 @@ This post from Caleb McDaniel’s Spring 2014 Digital History Methods class at R
 This post from Anne Cong-Huyen is an excellent introduction to how and why one might use the digital publishing platform Scalar with classes. Cong-Huyen's presentation is helpful in distinguishing this open-source platform created by the Alliance for Networking Visual Culture to create digital books from other publishing tools like WordPress. In particular, Scalar is intended for public, scholarly projects; while platforms such as WordPress and Twitter can be used for such work, they are built around less scholarly notions of public interaction. The Scalar examples she cites show the range of this platform and the ways that it allows for rich media incorporation, for collaborative authorship, and for public, accessible projects. 
 
 
-##Public-facing Digital Projects with Students##
+## Public-facing Digital Projects with Students
 
 ### Century America
 ![screenshot](images/public_century-america.png) 
