@@ -9,6 +9,8 @@ author:
 - family: Carter
   given: Daniel
 editor:
+- family: Sayers
+  given: Jentery
 - family: Gold
   given: Matthew K.
 publisher: Modern Language Association
@@ -71,7 +73,7 @@ Like Feinberg's course, described above, this course usefully engages with infor
 
 #### Printing Fictions
 ![screenshot](images/information_screenshot-printing-fictions.png)
-* Source: [https://docs.google.com/document/d/1ELJW5jNMvA7kkXKKX8aMXPzIcPCkCROAQ3O6IyVC0pw/edit](https://docs.google.com/document/d/1ELJW5jNMvA7kkXKKX8aMXPzIcPCkCROAQ3O6IyVC0pw/edit)
+* Source: [files/information_printing-fictions.pdf](files/information_printing-fictions.pdf)
 * Creator: Kari Kraus (University of Maryland, College Park)
 * Artifact Type: Assignment
 
