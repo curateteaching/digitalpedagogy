@@ -50,7 +50,7 @@ The artifacts listed below are intended to provide a starting point for developi
 
 ### *Sounding Out!* Blog
 
-Screenshot: ![screenshot](sound-screenshot-sounding-out.jpg)
+Screenshot: ![screenshot](images/sound-screenshot-sounding-out.jpg)
 * Artifact Type: course reading
 * Source URL: http://soundstudiesblog.com/
 * Permissions: N/A (public blog)
@@ -62,7 +62,7 @@ Screenshot: ![screenshot](sound-screenshot-sounding-out.jpg)
 
 ### "Writing with Sound" Syllabus
 
-Screenshot: ![screenshot](sound-screenshot-writing-with-sound.jpg)
+Screenshot: ![screenshot](images/sound-screenshot-writing-with-sound.jpg)
 * Artifact Type: syllabus
 * Source URL: http://caseyboyle.net/fall2014-writing-with-sound-course/
 * Permissions: granted by creator
@@ -75,7 +75,7 @@ Casey Boyle’s undergraduate rhetoric course explores the rhetorical affordance
 ### Sonic Remediations of the News
 
 Image:
-![image](sound-CCimage-sonic-remediation.jpg)
+![image](images/sound-CCimage-sonic-remediation.jpg)
 * Artifact Type: assignment
 * Source URL: N/A
 * Permissions: granted by creator; CC-BY 2.0 for image https://www.flickr.com/photos/62693815@N03/6276688407/in/photolist-ayDEMD-WZTknJ-5A3rn6-3yCizh-7DSX3q-hBXz-q6UuCd-ayHg8x-dki4iG-2XhTYB-qwLcCC-ayGksm-pfPNwX-8oHs4W-ayGkko-et5iFr-64PQAR-F4bK8-xQnaS-4XaGib-81aXSP-6sEnt-iyEc2R-hTtYVi-SJgjLk-kK7kk-nJ29pU-4A9eBb-d2kVuo-bQiacB-ikaRV-hTvHsn-b75gR8-dwyPFS-5W1aoU-5eM3mF-5r9aXK-48vQEC-RH3QZT-aUskV-ccWpgA-bp17zf-cwfo47-ayGkgu-dAtrEZ-7AUALs-q8M1Fy-4LXJMZ-8P94t2-BTmhz
@@ -87,7 +87,7 @@ Jonathan Stone's assignment "Sonic Remediations of the News" invites students to
 
 ### "Audio Documentary”
 
-Screenshot: ![screenshot](sound-screenshot-audio-doc.jpg)
+Screenshot: ![screenshot](images/sound-screenshot-audio-doc.jpg)
 * Artifact Type: assignment
 * Source URL: N/A
 * Permissions: granted by creator
@@ -99,7 +99,7 @@ Steven Hammer’s undergraduate course on “Audio Design & Production” focuse
 
 ### Third Coast International Audio Festival (TCIAF) Website
 
-Screenshot: ![screenshot](sound-screenshot-third-coast.jpg)
+Screenshot: ![screenshot](images/sound-screenshot-third-coast.jpg)
 * Artifact Type: website/audio archive
 * Source URL: https://www.thirdcoastfestival.org/
 * Permissions: N/A (public website)
@@ -111,7 +111,7 @@ The Third Coast International Audio Festival (TCIAF) is an annual Chicago-based 
 
 ### Sonic Dictionary
 
-Screenshot: ![screenshot](sound-screenshot-sonic-dictionary.jpg)
+Screenshot: ![screenshot](images/sound-screenshot-sonic-dictionary.jpg)
 * Artifact Type: website/audio archive
 * Source URL: http://sonicdictionary.fhi.duke.edu/about
 * Permissions: granted by creator
@@ -123,7 +123,7 @@ Sonic Dictionary is a growing archive of sound recordings collected by students 
 
 ### Open Sound New Orleans
 
-Screenshot: ![screenshot](sound-screenshot-open-sound.jpg)
+Screenshot: ![screenshot](images/sound-screenshot-open-sound.jpg)
 * Artifact Type: website/sound map
 * Source URL: http://www.opensoundneworleans.com/core/
 * Permissions: N/A (public website)
@@ -135,7 +135,7 @@ Open Sound New Orleans is a large-scale community sound mapping project that enc
 
 ### "Speaking Back to Our Spaces: The Rhetoric of Social Soundscaping"
 
-Screenshot: ![screenshot](sound-screenshot-speaking-back.jpg)
+Screenshot: ![screenshot](images/sound-screenshot-speaking-back.jpg)
 * Artifact Type: multimodal scholarship/course material
 * Source URL: http://harlotofthearts.org/index.php/harlot/article/view/150/122
 * Permissions: N/A (Open Source Academic Journal)
@@ -147,7 +147,7 @@ In this engaging piece of multimodal scholarship, Kati Fargo Ahern and Jordan Fr
 
 ### *Touch the Sound*
 
-Screenshot: ![screenshot](sound-screenshot-touch-the-sound.jpg)
+Screenshot: ![screenshot](images/sound-screenshot-touch-the-sound.jpg)
 * Artifact Type: film
 * Source URL: http://www.imdb.com/title/tt0424509/
 * Permissions: N/A
@@ -159,7 +159,7 @@ This 2004 documentary features deaf percussionist Evelyn Glennie. Due to her dea
 
 ### "Digital Music and Sound" Syllabus
 
-Screenshot: ![screenshot](sound-screenshot-digital-music-syllabus.jpg)
+Screenshot: ![screenshot](images/sound-screenshot-digital-music-syllabus.jpg)
 * Artifact Type: syllabus
 * Source URL: http://www.analogtara.net/wp/teaching/digital-music-sound/
 * Permissions: granted by creator
