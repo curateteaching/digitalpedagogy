@@ -2,7 +2,7 @@
 title: Digital Pedagogy in the Humanities
 subtitle: Concepts, Models, and Experiments
 chapter: Public
-URL: keywords/Public.md
+URL: keywords/public.md
 authors:
 - family: McClurken
   given: Jeffrey W.
@@ -22,7 +22,7 @@ University of Mary Washington | [http://mcclurken.org](http://mcclurken.org)
 
 ##### Publication Status:
 * unreviewed draft
-* *draft version undergoing editorial review
+* draft version undergoing editorial review
 * draft version undergoing peer-to-peer review
 * **draft version undergoing MLA copyediting**
 * published 
@@ -48,7 +48,7 @@ Ultimately, students understand the value of public projects.  They are proud of
 ## Concerns about Producing in Public 
 
 ### “Men Explain Technology to Me: On Gender, Ed-Tech, and the Refusal to Be Silent”
-*  ![screenshot](images/public-watters.png) 
+![screenshot](images/public_watters.png) 
 * Artifact Type: Presentation/Essay
 * [http://hackeducation.com/2014/11/18/gender-and-ed-tech](http://hackeducation.com/2014/11/18/gender-and-ed-tech)  
 * CC BY-SA 4.0
@@ -58,7 +58,7 @@ This brilliant text from a presentation that ed-tech journalist Audrey Watters g
 
 
 ### “Guidelines for Public, Student Class Blogs: Ethics, Legalities, FERPA and More"
-![screenshot](images/public-ferpa.png) 
+![screenshot](images/public_ferpa.png) 
 * Artifact Type: Blog Post
 * [https://www.hastac.org/blogs/superadmin/2012/11/30/guidelines-public-student-class-blogs-ethics-legalities-ferpa-and-more](https://www.hastac.org/blogs/superadmin/2012/11/30/guidelines-public-student-class-blogs-ethics-legalities-ferpa-and-more)
 * CC BY-NC-SA 3.0
@@ -70,7 +70,7 @@ One of the barriers for some faculty in doing public projects with students is F
 ## Platforms for Public Work ##
 
 ### A Domain of One’s Own--University of Mary Washington
-![screenshot](images/public-domains.png) 
+![screenshot](images/public_domains.png) 
 * Artifact Type: Student controlled web hosting and domain
 * [http://umw.domains/](http://umw.domains/)
 * CC BY-SA 4.0 
@@ -80,7 +80,7 @@ Begun at UMW, and now with programs at over 60 other institutions, including [Da
 
 
 ### “Teaching with Wordpress”
-![screenshot](images/public-teaching-wordpress.png) 
+![screenshot](images/public_teaching-wordpress.png) 
 * Artifact Type: Screencast/YouTube Video
 * [https://www.youtube.com/watch?v=KnOCrTHNBJc](https://www.youtube.com/watch?v=KnOCrTHNBJc)
 * Standard YouTube License
@@ -91,7 +91,7 @@ Given the flexibility and ubiquity of WordPress in digital publishing, it is arg
 
 
 ### Sharing Primary Sources on Twitter 
-![screenshot](images/public-twitter.png) 
+![screenshot](images/public_twitter.png) 
 * Artifact Type: Blog post from class 
 * [http://ricedh.github.io/05-twitterbot.html](http://ricedh.github.io/05-twitterbot.html)
 * CC BY 4.0  
@@ -101,7 +101,7 @@ This post from Caleb McDaniel’s Spring 2014 Digital History Methods class at R
 
 
 ### Scalar in the Classroom
-![screenshot](images/public-scalar.png) 
+![screenshot](images/public_scalar.png) 
 * Artifact Type: Blog post of presentation 
 * [https://anitaconchita.org/whittierworkshop/](https://anitaconchita.org/whittierworkshop/)  
 * CC BY-NC-SA (and permission form)
@@ -113,7 +113,7 @@ This post from Anne Cong-Huyen is an excellent introduction to how and why one m
 ##Public-facing Digital Projects with Students##
 
 ### Century America
-![screenshot](images/public-century-america.png) 
+![screenshot](images/public_century-america.png) 
 * Artifact Type: Collaborative student project
 * [http://centuryamerica.org/](http://centuryamerica.org/) 
 * *Permission granted by instructors
@@ -124,7 +124,7 @@ One powerful possibility that digital tools offer is the ability for students fr
 
 
 ### The True-Born Englishman 
-![screenshot](images/public-dawson.png) 
+![screenshot](images/public_dawson.png) 
 * Artifact Type: Literary Digital Edition
 * [http://thetruebornenglishman.co.uk/](http://thetruebornenglishman.co.uk/)  
 * CC BY-NC-SA 4.0
@@ -136,7 +136,7 @@ Stephen Gregg of Bath Spa University offers English Literature students working 
 
 
 ### Immigrant Alexandria
-![screenshot](images/public-immigrant.png) 
+![screenshot](images/public_immigrant.png) 
 * Artifact Type: Class project and course syllabus
 * [http://immigrantalexandria.org/](http://immigrantalexandria.org/)
 * Permission form
@@ -147,7 +147,7 @@ This public project was done in partnership with the City of Alexandria.  Buildi
 
 
 ### Goin’ North: Stories from the First Great Migration to Philadelphia
-![screenshot](images/public-goinnorth.png)
+![screenshot](images/public_goinnorth.png)
 * Artifact Type: Student Omeka Project
 * [http://goinnorth.org/](http://goinnorth.org/)   
 * CC BY-NC-SA 4.0
