@@ -7,6 +7,8 @@ author:
 - family: Risam
   given: Roopika 
 editor: 
+- family: Gold
+  given: Matthew K.
 - family: Sayers
   given: Jentery
 publisher: Modern Language Association
@@ -21,7 +23,8 @@ Salem State University | Department of English | [Website](http://roopikarisam.c
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review**
+* draft version undergoing peer-to-peer review
+* **draft version undergoing MLA copyediting**
 * published 
 
 --- 
