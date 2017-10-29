@@ -86,7 +86,7 @@ With eighteen hours of video, quizzes, and peer assessment, this coursera led by
 ![screenshot](images/professionalization_York_Professionalism.tif)
 
 * Source URL: [http://www.ycp.edu/media/york-website/cpe/2015-National-Professionalism-Survey---Recent-College-Graduates-Report.pdf](http://www.ycp.edu/media/york-website/cpe/2015-National-Professionalism-Survey---Recent-College-Graduates-Report.pdf)
-* Copy of Artifact: [files/professionalization_York_survey.pdf](files/professionalization_York_Survey.pdf)
+* Copy of Artifact: [files/professionalization_York_survey.pdf](files/professionalization_York_survey.pdf)
 * Creators: Polk-Lepson Research Group, York College of Pennsylvania
 
 When we usually approach the pedagogy of professionalism, we tend to use our own personal experience as the basis for our curriculum. In this survey conducted by the York College of Pennsylvania, 519 recent college graduates reflect on issues they faced in their transition to the workplace. For instructors, the sections on issues surrounding internet technologies and social media behaviors as well as entitlement will offer useful results for discussion with students. Students might also find the sections on workplace appearance around tattoos, piercings, and attire particularly provocative. Additional reports from York in previous years might also be useful as they survey other pertinent topics regarding professionalism.
