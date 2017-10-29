@@ -79,7 +79,8 @@ This syllabus is for a senior level capstone service learning project on digital
 
 * Artifact Type: Reference and citation assignment
 * Source URL: [http://citedatthecrossroads.net/rasp15/annotated-bibliography/](http://citedatthecrossroads.net/rasp15/annotated-bibliography/)
-* Artifact Permissions: Copyright Annemarie Perez
+* Artifact Permissions: CC-BY-NC
+* Artifact Copy: [Annotated Bibliography Assignment](files/digitaldivides-annotatedbibassignment.pdf)
 * Creator and Affiliation: Annemarie Perez, California State University-Dominguez Hills
 
 This artifact has students use materials about digital divides published on a research group’s website to collectively construct an annotated bibliography. This assignment teaches library database research as students locate and retrieve scholarly books and articles, read them and create summary annotations relative to course discussion on digital divides. This assignment is particularly appropriate for first year university students learning to use library research databases and scholarly citation styles. It also is significant in asking students to determine and reflect on the differences between scholarly and popular publications. This reflection could lead to a discussion of the paywall digital divide that separates people who are not part of the university community from being able to access peer reviewed research.  
@@ -113,8 +114,8 @@ This artifact has students use current journalism and online sources in their re
 
 * Artifact Type: Syllabus
 * Source URL: [http://www.jasonfarman.com/wsb3566636401/index.html](http://www.jasonfarman.com/wsb3566636401/index.html) 
-* Artifact Permissions: Copyright Jason Farman
-* Copy of the Artifact:  [Digital Diversity Syllabus](files/digital_divides-Farman_418b_2012_Syllabus.pdf)  
+* Artifact Permissions: CC-BY-NC
+* Copy of the Artifact:  [Digital Diversity Syllabus](files/digital-divides-digital-diversity-syllabus.pdf)  
 * Creator and Affiliation: Jason Farman, University of Maryland, College Park
 
 This artifact is the syllabus of a semester-length course examining the social and cultural impact of electronic media. Students accomplish this examination by spending a significant part of the semester exploring and participating in an electronic community while keeping a weekly journal and drawing connections between their experiences in this online community and assigned course readings. The assigned readings for the class include foundational texts about relationships between digital technology and demographic issues of race, gender, and class, and current works of journalism. Along with and following on their community experiences, students will then design and create websites for their assigned groups to share and display their journal content. In addition to these journal and website assignments, the course also calls for a traditional research paper looking at academic research on the subject. The course is significant in its combining of digital divides study with the exploration of online communities and the creation of digital research content. 
@@ -125,7 +126,7 @@ This artifact is the syllabus of a semester-length course examining the social a
 
 * Artifact Type: Course site
 * Source URL: [http://scalar.usc.edu/works/race-and-the-digital/index](http://scalar.usc.edu/works/race-and-the-digital/index) 
-* Artifact Permissions: Copyright Genevieve Carpio
+* Artifact Permissions: CC-BY-NC
 * Copy of the Artifact:  [Race and the Digital](files/digital_divides-Race_Digital-2.pdf)
 * Creator and Affiliation: Genevieve Carpio, University of California, Los Angeles
 
@@ -137,7 +138,7 @@ This artifact, a Scalar site, is several different objects. First it is a digita
 
 * Artifact Type: Course assignment
 * Source URL: [http://scalar.usc.edu/works/race-and-the-digital/from-tweets-to-streets-a-research-project?path=index](http://scalar.usc.edu/works/race-and-the-digital/from-tweets-to-streets-a-research-project?path=index)
-* Artifact Permissions: Copyright Genevieve Carpio
+* Artifact Permissions: CC-BY-NC
 * Creator and Affiliation: Genevieve Carpio, University of California, Los Angeles
 
 This artifact is a term assignment (7–9 pages) asking students to evaluate a new media (Web 2.0) platform as a site for critical engagement with race and ethnicity. Students are asked to look at ways race and ethnicity shape digital formation and experience. As part of a more traditional research paper, which for this course was posted to a course Scalar site, the project asks students to create a multimedia supplement linking to sources on a specific social movement. This project, appropriate for either a lower or upper division class in critical race studies, combines new media literacy with teaching traditional research skills. It encourages students to engage with the digital divide by creating a bridging resource. This page also contains an index linking to student projects from the course.
