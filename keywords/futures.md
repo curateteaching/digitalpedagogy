@@ -1,6 +1,21 @@
+---
+title: Digital Pedagogy in the Humanities
+subtitle: Concepts, Models, and Experiments
+chapter: Future(s)
+URL: keywords/futures.md
+authors:
+- family: Carrington
+  given: André
+editor:
+- family: Gold
+  given: Matthew K.
+publisher: Modern Language Association
+type: book
+---
+
 # Future(s)
 
-### andré carrington
+### André Carrington
 
 Drexel University | [<http://www.andrecarringtonphd.com>](http://www.andrecarringtonphd.com)
 
@@ -20,7 +35,7 @@ The materials associated with this keyword have been assembled by scholars, arti
 
 #### #FutureED
 
-![#FutureED](http://www.andrecarringtonphd.com/wp-content/uploads/2016/08/futureED.png)
+!screenshot[#FutureED](/images/futures_screenshot_futureED.png)
 
 * Artifact Type: Bibliography
 * URL: [https://www.hastac.org/initiatives/futureed](https://www.hastac.org/initiatives/futureed)
@@ -32,7 +47,7 @@ Participants in the **Humanities, Arts, Science, and Technology Alliance and Col
 
 #### Syllabus as Cultural Artifact: MIT Introduction to Media Studies
 
-![Introduction to Media Studies-1997](http://www.andrecarringtonphd.com/wp-content/uploads/2016/09/MIT-media-studies.png)
+!screenshot[Introduction to Media Studies-1997](images/futures_screenshot_MIT-media-studies.png)
 
 * Artifact Type: Syllabus
 * URL: [<http://www.annenberglab.com/blogs/hjenkins/2016/03/syllabi-cultural-artifacts-mit-s-introduction-media-studies-part-one>](http://www.annenberglab.com/blogs/hjenkins/2016/03/syllabi-cultural-artifacts-mit-s-introduction-media-studies-part-one)
@@ -44,7 +59,7 @@ Appropriately for a pedagogical conversation initiated by the author of [Converg
 
 #### Big History Project: The Future
 
-![Big History Project: The Future](http://www.andrecarringtonphd.com/wp-content/uploads/2016/08/bighistory.png)
+!screenshot[Big History Project: The Future](/images/futures_screenshot_bighistory.png)
 
 * Artifact Type: Multimedia Instructional Resource
 * URL: [<https://www.bighistoryproject.com/chapters/5#>](https://www.bighistoryproject.com/chapters/5#)
@@ -56,7 +71,7 @@ The notion of “deep time” cuts across disciplinary boundaries to enable Huma
 
 #### Mapping the Futures of Higher Education
 
-![Mapping the Futures of Higher Education](http://www.andrecarringtonphd.com/wp-content/uploads/2016/08/mappingfutures.png)
+!screenshot[Mapping the Futures of Higher Education](/images/futures_screenshot_mappingfutures.png)
 
 * Artifact Type: Instructional Experiment
 * URL: [<http://futures.gc.cuny.edu/about-mapping-futures/>](http://futures.gc.cuny.edu/about-mapping-futures/)
@@ -68,7 +83,7 @@ The notion of “deep time” cuts across disciplinary boundaries to enable Huma
 
 #### Undercommoning—Toykit
 
-![Undercommoning: Revolution Within, Against, and Beyond the University](http://www.andrecarringtonphd.com/wp-content/uploads/2017/09/undercommoning.png)
+![Undercommoning: Revolution Within, Against, and Beyond the University](/images/futures_screenshots_undercommoning.png)
 
 * Artifact Type: Online Resource
 * URL: [http://www.undercommoning.org/category/toykit](http://www.undercommoning.org/category/toykit)
@@ -80,7 +95,7 @@ The **Undercommoning** Collective looks forward to the unwinding of institutiona
 
 #### Africa Is The Future
 
-![Africa Is The Future: Art Intervention Since 2004](http://www.andrecarringtonphd.com/wp-content/uploads/2017/09/africaisthefuture.png)
+!screenshot[Africa Is The Future: Art Intervention Since 2004](/images/futures_screenshot_africasacountry.png)
 
 * Artifact Type: Media Gallery
 * URL: [http://africaisthefuture.com/](http://africaisthefuture.com/)
@@ -92,7 +107,7 @@ Africa Is The Future uses the [communication tools](http://africaisthefuture.com
 
 #### Notes Towards a Feminist Futurist Manifesto
 
-![Notes Towards a Feminist Futurist Manifesto](http://www.andrecarringtonphd.com/wp-content/uploads/2016/08/notestowardfeministfuturist.png)
+!screenshot[Notes Towards a Feminist Futurist Manifesto](/images/futures_screenshot_notestowardfeministfuturist.png)
 
 * Artifact Type: Published Article
 * URL: [<http://adanewmedia.org/2012/11/issue1-kember/>](http://adanewmedia.org/2012/11/issue1-kember/) 
@@ -104,7 +119,7 @@ Sarah Kember marks the moment for the launch of *Ada: A Journal of Gender, New M
 
 #### America and the Utopian Dream
 
-![America and the Utopian Dream](http://www.andrecarringtonphd.com/wp-content/uploads/2016/08/America-and-the-Utopian-Dream.png)
+!screenshot[America and the Utopian Dream](/images/futures_screenshot_America-and-the-Utopian-Dream.png)
 
 * Artifact Type: Online Exhibit
 * URL: [<http://brbl-archive.library.yale.edu/exhibitions/utopia/>](http://brbl-archive.library.yale.edu/exhibitions/utopia/)
@@ -116,7 +131,7 @@ Sarah Kember marks the moment for the launch of *Ada: A Journal of Gender, New M
 
 #### Blackness & Utopia
 
-![Blackness & Utopia](http://www.andrecarringtonphd.com/wp-content/uploads/2016/09/bannerimage.jpg)
+!screenshot[Blackness & Utopia](/images/futures_screenshot_bannerimage.jpg)
 
 * Artifact Type: Syllabus & Sample Assignment
 * URL: [<http://www.andrecarringtonphd.com/syllabus-blackness-utopia/>](http://www.andrecarringtonphd.com/syllabus-blackness-utopia/)
@@ -128,7 +143,7 @@ Blackness & Utopia is designed as an undergraduate course in African American Li
 
 #### The BYP100 *Agenda to Build Black Futures*
 
-![Agenda to Build Black Futures](http://www.andrecarringtonphd.com/wp-content/uploads/2016/10/buildblackfutures.png)
+!screenshot[Agenda to Build Black Futures](/images/futures_screenshot_buildblackfutures.png)
 
 * Artifact Type: Agenda/Report
 * URL: [<http://agendatobuildblackfutures.org/>](http://agendatobuildblackfutures.org/)
