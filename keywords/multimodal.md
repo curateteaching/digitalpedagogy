@@ -52,7 +52,6 @@ The last four artifacts represent increasingly complex forms of multimodality wi
 * Creators and Affiliation: Anca Birzescu and Radhika Gajjala (Bowling Green State University)
 
 
-
 This assignment was developed for the inaugural class taught under the auspices of FemTechNet, a network that crosses disciplinary and institutional boundaries, offering feminist curricular materials to any and all who would use them. FemTechNet is a DOCC—a Distributed Open Collaborative Course —that supports decentralized and collaborative pedagogical principles. This particular project spans multiple modes of meaning and multiple forms of distribution. First, students create a physical object that responds to some aspect of feminist theory. Next, they create a “digital expression” of the piece that displays their object online. The final step is participation in a “gift exchange” where students must assign a value system and terms for bartering with other students. The project supports multimodal literacy by defamiliarizing academic writing; these objects exist outside verbal language and outside the realm of the digital. 
 
 ### Coding with Style
@@ -61,7 +60,7 @@ This assignment was developed for the inaugural class taught under the auspices 
 * Artifact type: assignment
 * Source URL: [virginiakuhn.net/2015/05/reskin-assignment-hughes](http://virginiakuhn.net/2015/05/reskin-assignment-hughes/)
 * Permissions: granted by author
-* Creator: Evan Hughes
+* Creator: Evan Hughes (University of Southern California)
 
 
 Evan Hughes designed this midterm assignment for an introductory undergraduate class on creative coding which covers the basics of HTML, CSS as well as some elements of visual design. The assignment asks students to use existing code and modify it with attention to its visual presentation, resulting in a spatially oriented multimodal text. Using preexisting code opens the project to beginners and is a great way to build students’ confidence, while it also shifts the emphasis from the code itself to its behavior and the ways in which HTML and CSS can be edited to change the look of a webpage. In emphasizing the underlying code, this project can foster a deeper understanding of the digital tools students use each day, though mostly in a superficial way. 
@@ -74,8 +73,6 @@ Evan Hughes designed this midterm assignment for an introductory undergraduate c
 * Permission: granted by author
 * Creator and Affiliation: Vicki Callahan (University of Southern California)
 
-
-
 This assignment is focused on sound and encourages both careful listening practices in addition to composition practices that are controlled and deliberate. Contemporary culture is visually saturated, making it easy to neglect the role of sound, particularly as it impacts multimodal compositions. To prepare for the project, Vicki Callahan assigns readings from sound scholar Michel Chion, asking students to apply his listening strategies to the soundtrack of a seminal cinematic scene. From there, students acquire and assemble a series of soundtracks, both found and recorded, and edit them into a soundscape that offers a new slant on a particular concept or event. This project can be adopted by others quite easily.  Adding a viewing of “Scary Mary,” a short video that demonstrates the power of sound by placing scary music to the trailer of Mary Poppins, could enhance the preparatory work. 
  
 ### Course Assignment & Project Timeline – Rhetoric of Memes
@@ -85,7 +82,7 @@ This assignment is focused on sound and encourages both careful listening practi
 * Permission: pending
 * Creators: Nadeem Persico-Shammas & Simone Sessolo (University of Michigan)
 
-This assignment asked students to create a website featuring a critical analysis of memes. As such, the project encourages student to explore what a word can do that an image cannot and vice versa. The piece was published in the *Journal of Undergraduate Multimedia Projects* in an issue devoted to memes and remix.  The assignment is accompanied by an overview essay, examples of student work, and reflective essays by the journal’s editorial collective. The *JUMP* offers a place for students to showcase their efforts, and provides teachers a source of potential models for projects they want to assign. As such, it becomes a potential gold mine of fodder for project ideas, and the scaffolding that can foster their production. The journal also helps students to see themselves as active contributors to the ongoing conversation around multimodality and fostering this sort of agency in students is perhaps the most worthy goal for multimodal curricula. 
+This assignment asks students to create a website featuring a critical analysis of memes. As such, the project encourages student to explore what a word can do that an image cannot and vice versa. The piece was published in the *Journal of Undergraduate Multimedia Projects* in an issue devoted to memes and remix.  The assignment is accompanied by an overview essay, examples of student work, and reflective essays by the journal’s editorial collective. The *JUMP* offers a place for students to showcase their efforts, and provides teachers a source of potential models for projects they want to assign. As such, it becomes a potential gold mine of fodder for project ideas, and the scaffolding that can foster their production. The journal also helps students to see themselves as active contributors to the ongoing conversation around multimodality and fostering this sort of agency in students is perhaps the most worthy goal for multimodal curricula. 
 
 ### Where the Buffalo Roam
 ![screenshot](images/path-to-screenshot.jpg)
@@ -96,7 +93,6 @@ This assignment asked students to create a website featuring a critical analysis
 * Permission: granted by the author
 * Creator: Jerrod Findley
 
-
 This video-based digital argument is sophisticated both conceptually and formally. The piece, which uses footage from the Shoah Visual History Archive, centers on the contradictions of U.S. military efforts in liberating Nazi camps, while also practicing racism in its treatment of its own troops. The interplay among the various modes is nuanced as the project’s form serves its conceptual goals: The images are stripped out which highlights the absence of regard for black soldiers, as it also places the focus on verbal language, encouraging careful listening during the witnesses’ oral testimony, and careful reading when the author’s commentary appears via white text on the black screen. The verbiage is stripped down using an economy of words that move in and out of frame in interesting ways, reminding us of the visual-graphical facet of writing. This piece is quite successful in constructing a complex multimodal argument in the space of a 5-10 minute video.
 
 
@@ -104,7 +100,7 @@ This video-based digital argument is sophisticated both conceptually and formall
 ![screenshot](images/path-to-screenshot.jpg)
 * Artifact type: assignment
 * Source URL: [oxycopyrightandculture.wordpress.com/assignments/remix-video/](https://oxycopyrightandculture.wordpress.com/assignments/remix-video/)
-* Permission: creative commons
+* Permission: Creative Commons
 * Creator: Suzanne Scott (University of Texas, Austin)
 * Tags: Starting out
 
@@ -113,7 +109,7 @@ This video essay assignment is meant to teach students about the doctrine of fai
 ### Critical Genre Screencast
 * Artifact type: assignment
 * Source URL: [praxis.technorhetoric.net/tiki-index.php?page=PraxisWiki:_:critical%20genre%20awareness#The_Assignment_](http://praxis.technorhetoric.net/tiki-index.php?page=PraxisWiki:_:critical%20genre%20awareness#The_Assignment_)
-* Permissions: 
+* Permissions: Creative Commons
 * Creator: Marcy Leasum Orwig (University of Wisconsin, Eau Claire)
 * Tags: Advanced
 
@@ -121,11 +117,11 @@ This assignment asks students to create a critical analysis of a commercial webs
 
 ### Live Streaming with Periscope 
 * Artifact type: assignment
-* Source URL: [pdocs.google.com/document/d/1S-3I2aIs9vTXdwX3Jjduap7o4loFRAuWmTiNPtSu2jA/edit](https://docs.google.com/document/d/1S-3I2aIs9vTXdwX3Jjduap7o4loFRAuWmTiNPtSu2jA/edit/)
-* Permissions: 
+* Source URL: [https://docs.google.com/document/d/1S-3I2aIs9vTXdwX3Jjduap7o4loFRAuWmTiNPtSu2jA/edit?usp=sharing](https://docs.google.com/document/d/1S-3I2aIs9vTXdwX3Jjduap7o4loFRAuWmTiNPtSu2jA/edit/)
+* Permissions: Creative Commons
 * Creator: Leigh Landini Wright (Murray State University)
 
-This lesson plan includes two readings, a live broadcast assignment, and a reflective blog post into which a recording of the live session is embedded. The result is a strongly multimodal text that includes words, sounds and images, while it also serves as a snapshot of a live event. Further context about the project can be found in Wright's “Live from Your Palm,” and although the class was geared to journalism students, its potential usefulness is more general. The unit might be reframed as a way of documenting interactive media in situ: filming the action of game play, recording interactions with virtual reality, or documenting activist events such as marches and protests. Periscope relies on vertical video, which as the author notes, is typically seen as a stylistic faux pas. The Vertical Cinema Manifesto, which argues for verticality as a feminist representation, would be a nice addition to the unit (Vertical Feminist Collective). 
+This assignment includes two readings, a live broadcast assignment, and a reflective blog post into which a recording of the live session is embedded. The result is a strongly multimodal text that includes words, sounds and images, while it also serves as a snapshot of a live event. Further context about the project can be found in Wright's “Live from Your Palm,” and although the class was geared to journalism students, its potential usefulness is more general. The unit might be reframed as a way of documenting interactive media in situ: filming the action of game play, recording interactions with virtual reality, or documenting activist events such as marches and protests. Periscope relies on vertical video, which as the author notes, is typically seen as a stylistic faux pas. The Vertical Cinema Manifesto, which argues for verticality as a feminist representation, would be a nice addition to the unit (Vertical Feminist Collective). 
 
 
 ### Interactive Narrative
@@ -141,7 +137,7 @@ Anastasia Salter’s syllabus for a course on Interactive Narrative, published i
 ### Speaking with Students: Profiles in Digital Pedagogy
 * Artifact type: rubric, teaching guide
 * Source URL: [cinema.usc.edu/images/iml/SpeakingWithStudents_Webtext1.pdf](https://cinema.usc.edu/images/iml/SpeakingWithStudents_Webtext1.pdf)
-* Permissions: 
+* Permissions: Creative Commons
 * Creators: Virginia Kuhn, DJ Johnson, David Lopez (University of Southern California)
 
 
@@ -170,9 +166,12 @@ Birzescu, Anca and Radhika Gajjala. Object Making/Exchange assignment. 2013, Fem
 
 Callahan, Vicki. Sound Sculpture assignment. Received by Virginia Kuhn, 10 January 2012. http://virginiakuhn.net/sound-sculpture-project-by-vicki-callahan/
 
+Chion, Michel. “The Three Listening Modes,” Audio-Vision: Sound on Screen, Trans. Claudia Gorbman, Columbia UP, 1994, P. P. 25-34. 
+
 Findley, Jarrod. *Where the Buffalo Roam*, video. Online. 2011. Vimeo
 
 Hughes, Evan. Coding with Style assignment. Received by Virginia Kuhn, 10 October 2015. [virginiakuhn.net/2015/05/reskin-assignment-hughes](http://virginiakuhn.net/2015/05/reskin-assignment-hughes/)
+
 Kuhn, Virginia, et al. “Speaking with Students: Profiles in Digital Pedagogy.” *Kairos: A Journal of Rhetoric, Technology, and Pedagogy*, Issue 14. 2, 2010. Online. 
 
 _______.” The Rhetoric of Remix.” *Transformative Works and Culture 9*, 2012. Online. 
@@ -181,11 +180,20 @@ Kress, Gunther and Theo van Leeuwen. *Reading Images: The Grammar of Visual Desi
  
 Orwig, Marcy. "That Looks Weird": Analyzing the Rhetoric and Technology of Websites Over Time with Critical Genre Awareness,” *Kairos: A Journal of Rhetoric, Technology, and Pedagogy,* Praxis Wiki,  Fall 2017 (Issue 22.1) 
 
+moviemker. “THE ORIGINAL Scary 'Mary Poppins' Recut Trailer.” YouTube, YouTube, 8 Oct. 2006, www.youtube.com/watch?v=2T5_0AGdFic.
+
 Salter, Anastasia. Interactive Narrative syllabus in “Learning Through Making: Notes on Teaching Interactive Narrative,” *Syllabus*, Vol 4, No. 1, 2015. Online. 
  
 Scott, Suzanne. Remix Assignment, in “Teaching Transformativity/Transformative Teaching: Fair Use and the Video Essay.” *Cinema Journal Teaching Dossier*, Vol 1:2 (Spring/Summer 2013). Web. 
 
+--- “Teaching Transformativity/Transformative Teaching: Fair Use and the Video Essay.” Cinema Journal Teaching Dossier, Vol 1:2 (Spring/Summer 2013). Web. 
+
 Shammas, Nadeem Persico & Simone Sessolo, “The Rhetoric of Memes,” *The JUMP*, (Issue 5.2), 2016. 
+
+The JUMP: Journal for Undergraduate Multimedia Projects
+[https://jumpplus.net/](jumpplus.net/)
+
+The Visual History Archive, USC Shoah Foundation. [https://sfi.usc.edu/vha/](sfi.usc.edu)
 
 Vertical Feminist Collective, *Vertical Cinema Manifesto*, Video. Online. [www.youtube.com/watch?v=buHSJitp46w](https://www.youtube.com/watch?v=buHSJitp46w/)
 
