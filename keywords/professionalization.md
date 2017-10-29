@@ -113,7 +113,7 @@ While this guide to professionalism is specific to the US context, the included 
 
 ### "You Call It Professionalism, I Call It Oppression in a Three-Piece Suit" 
 
-![screenshot](images/Rios_You_Call_It.tiff)
+![screenshot](images/professionalization_Rios_You_Call_It.tif)
 
 * Source URL: [http://everydayfeminism.com/2015/02/professionalism-and-oppression/](http://everydayfeminism.com/2015/02/professionalism-and-oppression/)
 * Copy of Artifact: [files/professionalization_Rios_You_Call_It.pdf](files/professionalization_Rios_You_Call_It.pdf)
