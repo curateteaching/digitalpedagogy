@@ -126,7 +126,6 @@ This reflective essay from Carmen Rios for everydayfeminism.com identifies the w
 ![screenshot](images/professionalization_Cuddy_Body_Language.tiff)
 
 * Source URL: [https://www.youtube.com/watch?v=Ks-_Mh1QhMc](https://www.youtube.com/watch?v=Ks-_Mh1QhMc)
-* Copy of Artifact: [files/professionalization_Cuddy_Body_Language.mp4](files/professionalization_Cuddy_Body_Language.mp4)
 * Creators: Amy Cuddy
 
 This Ted talk by social psychologist Amy Cuddy demonstrates the ways in which body language shapes how we view ourselves as well as how we view others. Importantly, Cuddy also reflects on the biological underpinnings of our body language and the ways in which our body encourages particular postures and poses. Using this video, instructors might ask students to conduct mock interviews, record social rituals (e.g. meals or mixers), and analyze the footage to discuss how their body language might imply particular feelings or actions. Students might discover subconscious behaviors or voluntary actions that might seem off-putting to employers, colleagues, or the public.
