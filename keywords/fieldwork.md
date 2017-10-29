@@ -36,6 +36,10 @@ Simon Fraser University
 
 ---
 
+### Cross-Reference Keywords: archive, blogging, collaboration, community, curation, mapping, network, storytelling, video
+
+---  
+
 ## CURATORIAL STATEMENT
 
 Fieldwork as a pedagogical practice has two central components: learning by doing through immersion, and learning by traveling and dwelling in a spatially-demarcated field (Clifford 52-91). Digital culture is transforming the practice of fieldwork for scholars and students alike.
@@ -124,7 +128,7 @@ The Million Image Database is an open-access photographic collection of world cu
 
 * Artifact Type: Student work
 * Source URL: https://vimeo.com/78530205
-* Permissions: Need to be formally obtained (editors will provide means)
+* Permissions: 
 * Creator and Affiliation: Directed and Produced by Erica Kowsz (UMass Amherst); Co-Produced by Nathan Goodale (Hamilton College)
 * Tags: documentary; archaeology; cultural heritage; linguistics; indigeneity 
 
