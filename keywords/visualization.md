@@ -1,3 +1,20 @@
+---
+title: Digital Pedagogy in the Humanities
+subtitle: Concepts, Models, and Experiments
+chapter: Visualization
+URL: keywords/visualization.md
+authors:
+- family: Sinclair
+  given: Stéfan
+- family: Rockwell
+  given: Geoffrey
+editor:
+- family: Gold
+  given: Matthew K.
+publisher: Modern Language Association
+type: book
+---
+
 # Visualization
 
 ### Stéfan Sinclair
@@ -7,6 +24,18 @@ McGill University | [stefansinclair.name](http://stefansinclair.name)
 ### Geoffrey Rockwell
 
 University of Alberta | [geoffreyrockwell.com](http://geoffreyrockwell.com) 
+
+---
+
+##### Publication Status:
+* unreviewed draft
+* draft version undergoing editorial review
+* draft version undergoing peer-to-peer review https://digitalpedagogy.commons.mla.org/
+* **draft version undergoing MLA copyediting**
+* published 
+
+--- 
+
 
 ## CURATORIAL STATEMENT
 
