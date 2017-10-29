@@ -64,7 +64,7 @@ Screenshot: ![screenshot](images/sound-screenshot-sounding-out.jpg)
 
 Screenshot: ![screenshot](images/sound-screenshot-writing-with-sound.jpg)
 * Artifact Type: syllabus
-* Source URL: http://caseyboyle.net/fall2014-writing-with-sound-course/
+* Source URL: [files/sound-writing-with-sound-syllabus.pdf](files/sound-writing-with-sound-syllabus.pdf)
 * Permissions: granted by creator
 * Creator: Casey Boyle (The University of Texas, Austin)
 * Tags: syllabus, writing, digital composition, podcast, scaffolding
@@ -77,7 +77,7 @@ Casey Boyle’s undergraduate rhetoric course explores the rhetorical affordance
 Image:
 ![image](images/sound-CCimage-sonic-remediation.jpg)
 * Artifact Type: assignment
-* Source URL: N/A
+* Source URL: [files/sound-sonic-remediation.pdf](files/sound-sonic-remediation.pdf)
 * Permissions: granted by creator; CC-BY 2.0 for image https://www.flickr.com/photos/62693815@N03/6276688407/in/photolist-ayDEMD-WZTknJ-5A3rn6-3yCizh-7DSX3q-hBXz-q6UuCd-ayHg8x-dki4iG-2XhTYB-qwLcCC-ayGksm-pfPNwX-8oHs4W-ayGkko-et5iFr-64PQAR-F4bK8-xQnaS-4XaGib-81aXSP-6sEnt-iyEc2R-hTtYVi-SJgjLk-kK7kk-nJ29pU-4A9eBb-d2kVuo-bQiacB-ikaRV-hTvHsn-b75gR8-dwyPFS-5W1aoU-5eM3mF-5r9aXK-48vQEC-RH3QZT-aUskV-ccWpgA-bp17zf-cwfo47-ayGkgu-dAtrEZ-7AUALs-q8M1Fy-4LXJMZ-8P94t2-BTmhz
 * Creator: Jonathan Stone (The University of Utah)
 * Tags: remediation, audio journalism, writing, digital composition
@@ -89,7 +89,7 @@ Jonathan Stone's assignment "Sonic Remediations of the News" invites students to
 
 Screenshot: ![screenshot](images/sound-screenshot-audio-doc.jpg)
 * Artifact Type: assignment
-* Source URL: N/A
+* Source URL: [files/sound-audio-doc.pdf](files/sound-audio-doc.pdf)
 * Permissions: granted by creator
 * Creator: Steven Hammer (Saint Joseph’s University)
 * Tags: audio journalism, documentary, fieldwork, collaboration, community
@@ -161,7 +161,7 @@ This 2004 documentary features deaf percussionist Evelyn Glennie. Due to her dea
 
 Screenshot: ![screenshot](images/sound-screenshot-digital-music-syllabus.jpg)
 * Artifact Type: syllabus
-* Source URL: http://www.analogtara.net/wp/teaching/digital-music-sound/
+* Source URL: [files/sound-digital-music-syllabus.pdf](files/sound-digital-music-syllabus.pdf)
 * Permissions: granted by creator
 * Creator: Tara Rodgers
 * Tags: digital music, sound art, listening, digital composition
