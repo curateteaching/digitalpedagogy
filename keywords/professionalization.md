@@ -103,7 +103,7 @@ ORCID is an open, non-profit, community-driven effort to create and maintain a r
 
 ### Professionalism
 
-![screenshot](images/professionalization_DOL_Professionalism.tiff)
+![screenshot](images/professionalization_DOL_Professionalism.tif)
 
 * Source URL: [http://www.dol.gov/odep/topics/youth/softskills/Professionalism.pdf](http://www.dol.gov/odep/topics/youth/softskills/Professionalism.pdf)
 * Copy of Artifact: [files/professionalization_DOL_Professionalism.pdf][files/professionalization_DOL_Professionalism.pdf)
