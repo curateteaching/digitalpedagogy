@@ -9,7 +9,6 @@ author:
 editor: 
 - family: Sayers
   given: Jentery
-editor: 
 - family: Davis
   given: Rebecca
 publisher: Modern Language Association
