@@ -56,7 +56,7 @@ The "Experiencing Professionalization" exercise offers participants the opportun
 ![screenshot](images/professionalization_Sanders_Going_Alt_Ac.tif)
 
 * Source URL: [https://www.insidehighered.com/blogs/gradhacker/going-alt-ac-how-begin](https://www.insidehighered.com/blogs/gradhacker/going-alt-ac-how-begin)
-* Copy of Artifact: [files/professionalization_Sanders_Going_Alt_Ac.pdf](files/Sanders_Going_Alt_Ac.pdf)
+* Copy of Artifact: [files/professionalization_Sanders_Going_Alt_Ac.pdf](files/professionalization_Sanders_Going_Alt_Ac.pdf)
 * Creators: Jessica Sanders
 
 "Going Alt-Ac: How to Begin" offers a few quick steps students can take to begin thinking about alternative academic careers. The blog helps student identify their own personal motivations, constraints, and awareness of professional outlets and environments. Importantly, while the blog assists in getting started, its focus on one's personal motivations will be very useful to those considering moving from their current employer to their next. Instructors using this resource might ask students to not only assess their own motivations but to interview professionals in their potential fields about how their decision-making articulated specific awareness and constraints.
