@@ -109,7 +109,7 @@ In this article, Annie Swafford describes teaching a DH course centered around s
 #### Rise of the Novel Syllabus
 ![screenshot](./images/fiction_buurma_rise-of-the-novel.png)
 
-* Source URL: [https://github.com/rbuurma/rise-2015/blob/master/Syllabus/rise_2015_syllabus.md](https://github.com/rbuurma/rise-2015/blob/master/Syllabus/rise_2015_syllabus.md)
+* Source URL: [https://github.com/rbuurma/rise-2017/blob/master/Syllabus/rise-2017-syllabus-final.pdf](https://github.com/rbuurma/rise-2017/blob/master/Syllabus/rise-2017-syllabus-final.pdf)
 * Type: Syllabus
 * Creator: [Rachel Sagner Buurma](http://rachelsagnerbuurma.org/) (Swarthmore College)
 
@@ -117,7 +117,7 @@ Novels are perhaps the most important genre of fiction, and understanding the hi
 
 This syllabus integrates a variety of digital tools (including Named Entity Recognition, Digitization, [Voyant](https://voyant-tools.org/)) into a survey of the rise of the novel with a masterful selection of primary texts and literary theory. The result is a syllabus that manages to simultaneously cover a key subject in literary history (the emergence, growth, and evolution of the novel as a genre), while critically scrutinizing that very narrative, and providing introductions to a range of tools of approaches in the process. The tools are not merely tacked on, but are integral to the examination of the “rise” of the novel the syllabus offers.
 
-The syllabuses readings and activities provide a model for how to integrate digital tools alongside more conventional activities (e.g. close reading, descriptive bibliography).
+The class's [assignments](https://github.com/rbuurma/rise-2017/tree/master/Assignments) provide an ideal model for how to integrate digital tools alongside more conventional activities (e.g. close reading, descriptive bibliography).
 
 #### Fundamental Plot Arcs, Seen Through Multidimensional Analysis of thousands of TV and Movie Scripts
 ![screenshot](./images/fiction_schmidt_phrase-i-love-you.png)
@@ -158,7 +158,7 @@ Jockers, Matthew. “Revealing Sentiment and Plot Arcs with the Syuzhet Package.
 
 Auden, W. H. “The Guilty Vicarage.” *The Critical Performance*. Ed. Stanley Edgar Hyman. Vintage Books, 1956, pp. 301-314.
 
-Buurma, Rachel Sagner. "Rise of the Novel Syllabus." Fall 2015. <https://github.com/rbuurma/rise-2015/blob/master/rise_2015_syllabus.md>.
+Buurma, Rachel Sagner. "Rise of the Novel Syllabus." Fall 2017. <https://github.com/rbuurma/rise-2017>.
 
 Cole, Teju. “A Piece of the Wall.” Web. [<https://twitter.com/tejucole/timelines/444262126954110977>](https://twitter.com/tejucole/timelines/444262126954110977)
 
