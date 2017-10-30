@@ -158,7 +158,7 @@ Literature and Gaming is an undergraduate course at UC-Santa Barbara taught by D
 ![screenshot](images/play-metagames.png)
 * Artifact Type: Syllabus
 * Source URL: [http://stephanieboluk.com/teaching/HMS540F13/blog/?page_id=2](http://stephanieboluk.com/teaching/HMS540F13/blog/?page_id=2)
-* Creator: Stephanie Boluk (University of California-Davis)
+* Creator: Stephanie Boluk & Patrick LeMieux (University of California-Davis) 
 * Tags: avant-garde, games, postmodernism
 
 Metagames is a course about games about games. While metafiction is a staple of postmodern literature, it is less common to think about  videogames—and by extension, play—in these terms. Boluk's syllabus provides a theoretical frame for thinking about play in unfamiliar contexts, including the practices and counter-practices of play. The [reading schedule](http://stephanieboluk.com/teaching/HMS540F13/blog/?page_id=2) for Metagames calls attention to the playfullest of playful games, including avant-garde videogames, art videogames, and what Boluk calls "eccentric" games. A PDF version of [the syllabus](http://stephanieboluk.com/teaching/HMS540F13/docs/HMS540-Metagames_Syllabus.pdf) is available. The subject of Boluk's course is also grist for her book with Patrick LeMieux, [*Metagaming*](https://www.upress.umn.edu/book-division/books/metagaming) (2017). The University of Minnesota has made an online [open access version of Metagaming](http://staging.manifoldapp.org/project/fcc2bb4d-6a16-4fca-b6de-490dd4bd49da) available on Manifold, its digital publishing platform.
