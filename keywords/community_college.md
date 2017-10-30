@@ -6,10 +6,6 @@ URL: keywords/annotation.md
 authors:
 - family: McGrail
   given: Anne
-- family: Zino
-  given: Dominique
-- family: Cardenas
-  given: Jaime
 editor:
 - family: Gold
   given: Matthew K.
@@ -22,14 +18,6 @@ type: book
 ### Anne B. McGrail, PhD
 
 English Faculty, Lane Community College
-
-### Dominique Zino
-
-Assistant Professor of English, LaGuardia Community College
-
-### Jaime Cardenas, PhD
-
-Instructor of History (Tenured), Seattle Central College
 
 ---
 
@@ -59,7 +47,7 @@ One shouldn’t think of community college students only in terms of deficits, h
 
 #### Advancing Humanities through Technology
  
-![screenshot](images/communitycollege_advancinghumanities.png)
+![screenshot](images/communitycollege-screenshot-advancinghumanities.png)
 
 - Source: [http://www.nvcc.edu/home/cevans/technology/index.html](http://www.nvcc.edu/home/cevans/technology/index.html)
 - Type: Grant Project Website ca. 1999
@@ -70,7 +58,7 @@ In 1999 the NEH, the Community College Humanities Association and North Virginia
 
 #### Hawthorne in Salem
 
-![screenshot](images/communitycollege_hawthorneinsalem.png)
+![screenshot](images/communitycollege-screenshot-hawthorneinsalem.png)
 
 - Source URL: [http://www.hawthorneinsalem.org/Literature/customhousesketch/factsandfantasy/Explorations.html](http://www.hawthorneinsalem.org/Literature/customhousesketch/factsandfantasy/Explorations.html)
 - Type: Digital Archive Exploratory Learning Activities 
@@ -81,9 +69,9 @@ Hawthorne in Salem, a historical resource and pedagogical tool, actively engages
 
 #### Paleotranscription Exercise with Grendel Online
 
-![screenshot](images/communitycollege_paleotranscription.png)
+![screenshot](images/communitycollege-screenshot-paleotranscription.png)
 
-- Source: [http://www.harpercollege.edu/~kneumann/grendel/paleo.htm](http://www.harpercollege.edu/~kneumann/grendel/paleo.htm)
+- Source: [files/communitycollege-artifact-paleotranscription.pdf](files/communitycollege-artifact-paleotranscription.pdf)
 - Type: Paleography Transcription Exercise
 - Permissions: CC-BY NC
 - Creators: Professors Richard Johnson and Kurt Neuman, Harper College
@@ -92,19 +80,20 @@ Harper College’s Grendel, designed by Richard Johnson and Kurt Neuman as part 
 
 #### Reading, Writing, and Digital Culture Syllabus
 
-![screenshot](images/communitycollegereading_writingdigitalculture.png)
+![screenshot](images/communitycollege-screenshot-readingwritingdigitalculture.png)
 
-- Source: [https://blogs.lanecc.edu/dhatthecc/wp-content/uploads/sites/28/2017/04/ENGLISH-217-SYLLABUS-with-Sandboxes-McGrail.pdf](https://blogs.lanecc.edu/dhatthecc/wp-content/uploads/sites/28/2017/04/ENGLISH-217-SYLLABUS-with-Sandboxes-McGrail.pdf)
+- Source: [files/communitycollege-artifact-readingwritingdigitalculture.pdf](files/communitycollege-artifact-readingwritingdigitalculture.pdf)
 - Type: Syllabus and Course Calendar
 - Permissions: CC-BY NC
 - Creator: Anne B. McGrail, PhD, Lane Community College
 
 This is the syllabus and course calendar for an online course first taught in Spring 2017 as an introduction to digital humanities tools and methods. The grading method encourages maximum collaboration and experimentation. The class is taught online through a learning management system but students use tools on the open web. Detailed instructions for many student labs are in the Keywords resource blog Doing DH at the CC [https://blogs.lanecc.edu/dhatthecc/](https://blogs.lanecc.edu/dhatthecc/)
+
 #### World History Podcast Assignment
 
-![screenshot](images/communitycollege_worldhistorypodcast.png)
+![screenshot](images/communitycollege-screenshot-worldhistorypodcast.png)
 
-- Source URL: [http://jacknorton.org/wp-content/uploads/2016/02/Podcast-Assignment1102_18Nov2012.pdf](http://jacknorton.org/wp-content/uploads/2016/02/Podcast-Assignment1102_18Nov2012.pdf)
+- Source URL: [files/communitycollege-artifact-worldhistorypodcast.pdf](files/communitycollege-artifact-worldhistorypodcast.pdf)
 - Type: World History Class Assignments
 - Permissions: CC-BY NC
 - Creator: Jack Norton, Normandale Community College
@@ -113,10 +102,10 @@ One of a collection of multiple assignments focusing on creating "digital histor
 
 #### Public Interventions: A Photographic Record of People of Color and Education
 
-![screenshot](images/communitycollege_publicinterventions.png)
+![screenshot](images/communitycollege-screenshot-publicinterventions.png)
 
 - Type: History Assignment
-- [Source](files/Photographs.pdf)
+- [files/communitycollege-artifact-publicinterventions.pdf](files/communitycollege-artifact-publicinterventions.pdf)
 - Permissions: CC-BY NC
 - Creator: Jaime Cardenas[a][b], PhD, Instructor of History (Tenured), Seattle Central College
 
@@ -124,10 +113,10 @@ Just like the understanding that all young people are “digital natives” is w
  
 #### Mapping Race in Seattle
 
-![screenshot](images/communitycollege_mappingraceinseattle.png)
+![screenshot](images/communitycollege-screenshot-mappingraceinseattle.png)
 
 - Type: History Assignment
-- [Source](files/Mapping Race.pdf)
+- [files/communitycollege-artifact-mappingraceinseattle.pdf](files/communitycollege-artifact-mappingraceinseattle.pdf)
 - Permissions: CC-BY NC
 - Creator: Jaime Cardenas, PhD, Instructor of History (Tenured), Seattle Central College
 
@@ -137,10 +126,10 @@ This spatial approach to learning can be used, for example, when examining the p
  
 #### Visualizing Discourse: Cloud Mapping Cultural Resistance
 
-![screenshot](images/communitycollege_visualizingdiscourse.png)
- 
-- Type: History Assignment
-- [Source](files/Cloud Map.pdf)
+![screenshot](images/communitycollege-screenshot-visualizingdiscourse.png)
+ - Type: History Assignment
+- [files/communitycollege-artifact-visualizingdiscourse.pdf](files/communitycollege-artifact-visualizingdiscourse.pdf)
+
 - Permissions: CC-BY NC
 - Creator: Jaime Cardenas, PhD, Instructor of History (Tenured), Seattle Central College
 
@@ -150,10 +139,10 @@ Word clouds are relatively commonplace on college campuses (e.g., flyers for wor
 
 #### Making Podcasts to Support Research-based Writing and Reflection
 
-![screenshot](images/communitycollege_makingpodcasts.jpg)
+![screenshot](images/communitycollege-screenshot-makingpodcasts.png)
 
 - Type: Assignment and Student Work
-- [Source](files/podcast.pdf)
+- [files/communitycollege-artifact-designplanpodcast.pdf](files/communitycollege-artifact-designplanpodcast.pdf)
 - Permissions: CC-BY NC
 - Creators: Dominique Zino, Assistant Professor of English, LaGuardia Community College; Vilma and Carmen, LaGuardia Community College students
 
@@ -161,7 +150,7 @@ In first-year composition courses at LaGuardia Community College, one learning o
  
 #### Capstone Liberal Arts Hybrid Final Digital Media Projects
 
-![screenshot](images/communitycollege_capstoneliberalarts.jpg)
+![screenshot](images/communitycollege-screenshot-capstoneliberal_arts.png)
 
 - Type: Website of student work
 - Source URL: [http://lib200fall15.bethanyholmstrom.net/](http://lib200fall15.bethanyholmstrom.net/)
