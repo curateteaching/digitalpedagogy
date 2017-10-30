@@ -67,7 +67,7 @@ For the twenty-first-century teacher, the community is not our audience but our 
 * Type: PowerPoint 
 * Source URL: [http://www.18thconnect.org/](http://www.18thconnect.org/) 
 * Artifact Permissions: by permission of the author
-* [file/community-teachingwith18thconnect.pptx](file/community-teachingwith18thconnect.pptx)
+* [files/community-teachingwith18thconnect.pptx](file/community-teachingwith18thconnect.pptx)
 * Creator: Danielle Spratt, California State University - Northridge
 
 [18th Connect](http://www.18thconnect.org/) is a database of eighteenth-century texts driven by values of sharing and service. Along with features typical of online communities (discussions, groups) and scholarly communities (peer review, searchable archives), it offers scholars and advanced students an opportunity to receive plain and TEI-encoded copies of texts from ProQuest and Gale in exchange for correcting any OCR errors in these texts. 
