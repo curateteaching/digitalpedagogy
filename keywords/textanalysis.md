@@ -73,7 +73,7 @@ The artifacts presented here represent a broad spectrum of approaches to teachin
 * Artifact Type: article
 * Source URL: http://www.digitalhumanities.org/dhq/vol/5/3/000106/000106.html
 * Artifact Permissions: CC BY-NC-ND
-* Copy of the Artifact: 
+* Copy of the Artifact: [text-analysis-digital-pedagogy-unplugged.pdf](files/text-analysis-digital-pedagogy-unplugged.pdf)
 * Creator and Affiliation: Paul Fyfe (North Carolina State University)
 
 Fyfe provocatively asks, "Can there be a digital pedagogy without computers?" and offers several examples of assignments that treat "the 'digital' in the non-electronic senses of that word: something to get your hands on, to deal with in dynamic units, to manipulate creatively." Rethinking digital pedagogy in this way not only allows students and instructors with varied access to electronic technologies to explore new kinds of assignments, but it also creates useful linkages between thinking about the materiality of print artifacts and that of digital texts. For example, Fyfe imagines a curatorial assignment where students gather, remix, and analyze physical artifacts rather than images on a screen. Such assignments could be scaffolded with digital assignments that use computational tools to emphasize shared methodological and theoretical principles. 
@@ -84,7 +84,7 @@ Fyfe provocatively asks, "Can there be a digital pedagogy without computers?" an
 * Artifact Type: assignment
 * Source URL: https://github.com/rbuurma/vic_info/blob/master/Indexing_In_Memoriam_assignment.md
 * Artifact Permissions:
-* Copy of the Artifact: 
+* Copy of the Artifact: [text-analysis-indexing-in-memoriam.pdf](files/text-analysis-indexing-in-memoriam.pdf)
 * Creator and Affiliation: Rachel Sagner Buurma (Swarthmore College)
 
 The origin of humanities computing is usually dated to 1949, when Father Roberto Busa began working with IBM computers to produce a concordance to the works of St Thomas Aquinas (Hockey). Of course, concordances and indexes long predate electronic computers, and, as Geoffrey Rockwell suggests, are premised upon hermeneutical assumptions of coherence and generative rule-bound procedures (Rockwell 211). The index is thus another example of "digital" or "hands-on" technology that expands beyond the electronic. Buurma's assignment asks students to create an index to Tennyson's _In Memoriam_ or to use an existing index to create a new edition of the poem, foregrounding how informational technologies like the index create, constrain, or complicate the interpretation of literary works.  
@@ -98,7 +98,7 @@ The origin of humanities computing is usually dated to 1949, when Father Roberto
 * Artifact Type: assignment
 * Source URL: http://www.briancroxall.net/s15dh/assignments/distant-reading-duffy/
 * Artifact Permissions:
-* Copy of the Artifact:
+* Copy of the Artifact: [text-analysis-distant-reading-duffy.pdf](files/text-analysis-distant-reading-duffy.pdf)
 * Creator and Affiliation: Brian Croxall (Brigham Young University)
 
 This assignment in using the [Voyant](http://voyant-tools.org/) online suite of tools for text analysis foregrounds the difference between traditional close reading approaches to a small number of texts and distant reading of a larger set of texts. In presenting the assignment, Croxall emphasizes the ludic tradition in text analysis, reminding students that they are "operating here under the principle of experimentation that has guided our class" (cf. McGann and Samuels, Rockwell, and Ramsay "Hermeneutics"). This experimental attitude is important in introducing students to tools that help them see textual patterns in new ways. This assignment also asks students to contribute to the work of transcribing the texts for digital analysis. Making the labor of text preparation and cleaning evident to students demystifies the processes of text analysis and opens up conversations about textual transmission more generally. 
@@ -109,7 +109,7 @@ This assignment in using the [Voyant](http://voyant-tools.org/) online suite of 
 * Artifact Type: assignment
 * Source URL: http://ullyot.ucalgaryblogs.ca/2012/01/12/team-project-description-for-english-203/
 * Artifact Permissions:
-* Copy of the Artifact
+* Copy of the Artifact: [text-analysis-team-project-description.pdf](files/text-analysis-team-project-description.pdf)
 * Creator and Affiliation: Michael Ullyot (University of Calgary)
 
 This assignment sets up a two-phase group project in which students first learn one of five text analysis tools ([WordHoard](http://wordhoard.northwestern.edu/userman/index.html), [Tapor](http://www.tapor.ca/), [WordSeer](http://wordseer.berkeley.edu/), [Voyeur](http://voyant-tools.org/), and [Monk](http://monk.library.illinois.edu/)) by applying it to one scene of _Hamlet_. In the second phase, the teams are re-formed to include students with expertise in each of the five tools, and each team is assigned an act of the play to analyze. By transforming students into experts who contribute specific knowledge to the team's project, Ullyot's assignment helps them develop their skills by teaching each other. In a related [paper](http://ullyot.ucalgaryblogs.ca/2012/04/05/teaching-hamlet-in-the-humanities-lab/), Ullyot suggests that: "Openness about our own learning through algorithmic processes models this openness for our students."
@@ -122,7 +122,7 @@ This assignment sets up a two-phase group project in which students first learn 
 * Source URL: https://sherlockholmeslondondh.wordpress.com/2015/03/23/topic-modeling-assignment/
 https://sherlockholmeslondondh.wordpress.com/2015/03/27/topic-modeling-part-2-graphing-the-results/
 * Artifact Permissions:
-* Copy of the Artifact
+* Copy of the Artifact: [text-analysis-topic-modeling-assignment-1.pdf](files/text-analysis-topic-modeling-assignment-1.pdf) & [text-analysis-topic-modeling-assignment-2.pdf](files/text-analysis-topic-modeling-assignment-2.pdf)
 * Creator and Affiliation: Joanna Swafford (Tufts University)
 
 As Elijah Meeks and Scott Weingart suggest in their introduction to a special issue of _Journal of Digital Humanities_, "Topic modeling could stand in as a synecdoche of digital humanities" because of its algorithmic complexity and potential obscurity. Swafford's two-part topic modeling assignment for undergraduates makes it accessible by giving a clear explanation of the several steps required to prepare textual data, import it into the graphical user interface tool for MALLET, and explore the results. This assignment requires students to try the topic modeling process with different parameters and to assess the results of their experiments. This assignment helps students learn a specific method of text analysis as well as skills in visualizing and interpreting its results in relation to the historical and literary topics of the course. 
@@ -136,7 +136,7 @@ As Elijah Meeks and Scott Weingart suggest in their introduction to a special is
 * Artifact Type: article
 * Source URL: http://jitp.commons.gc.cuny.edu/digital-close-reading-tei-for-teaching-poetic-vocabularies/
 * Artifact Permissions: CC BY-NC-SA
-* Copy of the Artifact
+* Copy of the Artifact: [text-analysis-digital-close-reading.pdf](files/text-analysis-digital-close-reading.pdf)
 * Creator and Affiliation: Kate Singer (Mt. Holyoke College) 
 
 Singer's article examines the utility of the TEI (Text Encoding Initiative) XML markup protocols as a method for analyzing and describing poetic texts, focusing on her experience teaching TEI encoding to an undergraduate senior seminar. Singer presents text encoding not merely as a means to producing an end result, such as a digital edition, but as "a dynamic, hands-on method for self-conscious, unhurried reading" that encourages debates about critical interpretation. Her essay includes discussion not only of the pedagogical approach and assignments she used, but also of student papers written after completing the encoding unit. As Singer suggests, to teach methods like TEI encoding can serve two purposes, equipping students with practical project based skills as well as exposing the interpretive choices that are at the heart of textual editing and text encoding.
@@ -147,7 +147,7 @@ Singer's article examines the utility of the TEI (Text Encoding Initiative) XML 
 * Artifact Type: assignment
 * Source URL: NA
 * Artifact Permissions:
-* Copy of the Artifact: [files/textanalysis-Malone-Annotation-Assignment.pdf](files/textanalysis-Malone-Annotation-Assignment.pdf)
+* Copy of the Artifact: [text-analysis-digital-annotation-project.pdf](files/text-analysis-digital-annotation-project.pdf)
 * Creator and Affiliation: Katherine Malone (South Dakota State University)
 
 This sequence of interrelated assignments guides students to work individually and in groups to create a critical edition of a text for use by future classes of their peers. Students define key terms to be annotated, research topics in digitized eighteenth- and nineteenth-century periodicals, and add research-based annotations to the text using [A.nnotate.com](http://a.nnotate.com/). Exposing students to primary research with digitized materials deepens the context for their understanding of the text. Asking students to participate in the process of annotating a text in a collaborative digital environment reveals the research and editorial decisions that lie behind any classroom text. This clearly structured assignment could be adapted for a wide variety of literary or historical texts or for use with other annotation tools.  
@@ -158,7 +158,7 @@ This sequence of interrelated assignments guides students to work individually a
 * Artifact Type: assignment
 * Source URL: NA
 * Artifact Permissions:
-* Copy of the Artifact [files/textanalysis-Walsh-Juxta-Commons-Assignment.pdf](files/textanalysis-Walsh-Juxta-Commons-Assignment.pdf)
+* Copy of the Artifact [text-analysis-juxta-commons-revision.pdf](files/text-analysis-juxta-commons-revision.pdf)
 * Creator and Affiliation: Brandon Walsh (Washington and Lee University)
 
 Text analysis tools can be useful for the process of composition as well. In this assignment, and in a related MLA talk [published on his blog](http://walshbr.com/blog/2015/01/17/collation/), Walsh repurposes the scholarly method of collation, the comparing of multiple copies or witnesses of a text, for the teaching of writing. Walsh's assignment teaches students to use Juxta Commons, an online collation tool, to compare multiple drafts of one paragraph from their own essay in order to examine how specific changes alter the writing's focus or tone. On his blog, Walsh also describes an exercise in which students each write out a new version of a draft sentence in a shared Google Document. These assignments make visible the many different choices available to writers, encouraging students "to internalize the practice of collation and reflect on the interpretive possibilities offered by such differences." 
@@ -171,7 +171,7 @@ Text analysis tools can be useful for the process of composition as well. In thi
 * Artifact Type: assignment
 * Source URL: http://www.leeannhunter.com/wp-content/uploads/2011/10/DigitalPoster.pdf
 * Artifact Permissions:
-* Copy of the Artifact: [files/textanalysis-Hunter-Digital-Poster.pdf](files/textanalysis-Hunter-Digital-Poster.pdf)
+* Copy of the Artifact: [text-analysis-digital-poster.pdf](files/text-analysis-digital-poster.pdf)
 * Creator and Affiliation: Leeann Hunter (Washington State University)
 
 The digital environment offers new ways for students to communicate their analytic arguments about texts. By requiring students to create a digital poster to present their arguments about Dickens's rhetorical strategies in the novel, Hunter asks them to reflect on the different affordances of the digital medium as compared with a print poster. Sequencing the poster assignment with drafts and peer review sessions encourages students to see it as a form for argument as they would traditional essays. Because the results of computational text analysis are often best presented in graphs, the digital poster assignment could be usefully combined with other text analysis assignments included in this section. 
@@ -182,7 +182,7 @@ The digital environment offers new ways for students to communicate their analyt
 * Artifact Type: assignment
 * Source URL: https://wildedecadents.wordpress.com/2012/09/29/image-and-sound-interpretation-wilde-the-harlots-house-exercise-2/
 * Artifact Permissions:
-* Copy of the Artifact
+* Copy of the Artifact: [text-analysis-image-and-sound.pdf](files/text-analysis-image-and-sound.pdf)
 * Creator and Affiliation: Petra Dierkes-Thrun (Stanford University)
 
 This assignment requires students to use multimedia digital technologies to communicate their analyses of a literary text in sensory and associative terms, rather than in rational, linear forms of argument. By including terms like "visceral," "sensual," and "intuit" in the assignment, Dierkes-Thrun signals that such subjective responses constitute a powerful component of text analysis. This project invokes image, video, and sound as primary modes of interpretation, rather than as supplements to a written text. Having students (and website visitors outside the class) contribute multimedia responses to a particular poem transforms the course blog into a collaborative intertextual display which can then itself become the object of further investigation and analysis. 
