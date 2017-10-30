@@ -121,7 +121,7 @@ This crowdsourced Google document, a product of the #FergusonSyllabus hashtag, c
 * Creator and Affiliation: Kate Bagnall, ANU College of Asia and the Pacific; Tim Sherratt, National Library of Australia, University of Canberra
 * Tags: advance, archive, visual 
 
-This visual wall of non-white Australians documents the inaccuracy of the myth of an all-white Australia and the monitoring and restriction of people who were targets of the "White Australia Policy.” *Invisible Australians* is relevant for courses on global race and ethnicity, particularly to introduce students to archival sources and their use in government policy. This website can also be used in conjunction with [Digitizing Chinese Englishmen](http://chineseenglishmen.adelinekoh.org/) in courses on colonial/postcolonial literature. In particular, instructors can pair a reading of this online visual archive with core postcolonial texts that have critiqued colonialism, such as Michel-Rolph Trouillot’s *Silencing the Past*, V.Y. Mudimbe’s concept of the “colonial library” in *The Invention of Africa* and Edward Said’s *Orientalism*. Core questions can include: how have technologies been utilized in a variety of archives to authorize particular versions of history? How does the visual and visuality factor in to issues of race, colonialism, and postcolonialism?
+This visual wall of non-white Australians documents the inaccuracy of the myth of an all-white Australia and the monitoring and restriction of people who were targets of the "White Australia Policy.” *Invisible Australians* is relevant for courses on global race and ethnicity, particularly to introduce students to archival sources and their use in government policy. This website can also be used in conjunction with [Digitizing Chinese Englishmen](http://chineseenglishmen.adelinekoh.org/) in courses on colonial/postcolonial literature (Koh). In particular, instructors can pair a reading of this online visual archive with core postcolonial texts that have critiqued colonialism, such as Michel-Rolph Trouillot’s *Silencing the Past*, V.Y. Mudimbe’s concept of the “colonial library” in *The Invention of Africa* and Edward Said’s *Orientalism*. Core questions can include: how have technologies been utilized in a variety of archives to authorize particular versions of history? How does the visual and visuality factor in to issues of race, colonialism, and postcolonialism?
 
 ### Mapping Police Violence 
 ![screenshot](images/race-nationalpoliceviolencemap.png)
@@ -150,7 +150,8 @@ Students can be tasked with exploring the CMS's functionality and reporting on i
 * Artifact Type: lesson plans
 * Source URL: https://saalt.org/wp-content/uploads/2013/06/InTheFaceOfXenophobia-Final-11.4.2013.pdf
 * Permissions: CC BY-NC-ND
-* Creator and Affiliation: South Asian Americans Leading Together (SAALT)
+* Copy of Artifact: [In the Face of Xenophobia](files/Race-In-the-Face-of-Xenophobia.pdf)
+* Creator and Affiliation: Dr. Monisha	Bajaj, Dr. Ameena Ghaffar-Kucher, Karishma	Desai, South Asian Americans Leading Together (SAALT)
 * Tags: getting started, curriculum
 
 This curriculum provides educators with a set of tools and lesson plans that can be utilized as part of an anti-racist pedagogy. It serves as a resource for addressing issues of racism, harassment, and bullying in the Trump era of heightened nationalism and white supremacy, allowing students to understand the historical origins of xenophobia, teaching them the meanings of key terms such as xenophobia, micro-aggressions, etc., while also putting emphasis on the under-represented community of South Asian Americans that has had a long history of xenophobic attacks, including in the last decade. The [South Asian American Digital Archive](https://www.saada.org) would be an excellent online repository for students to explore as part of the curriculum. 
@@ -193,7 +194,7 @@ This is a 3D virtual representation of the black township of Soweto, South Afric
 * Creator and Affiliation: Multiple Wikipedia editors
 * Tags: getting started and advanced, wikipedia
 
-AfroCROWD is a Wikimedia initiative to increase the number of people of African descent who actively take part in Wikimedia and free knowledge, culture and software movements. The event is part of Black WikiHistory Month, and is open to all Afrodescents who self-identify as being part of the diaspora. Student clubs and organizations focused on the African diaspora might be interested in organizing in-person nodes for these edit-a-thons, thereby engaging in a larger network of knowledge production. Instructors who are teaching more racially and ethnically diverse classes can also help add to the project by contributing to the [WikiProject African Diaspora](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_African_diaspora) Educators who want to get started teaching with Wikipedia can look at [my blog post on resources on getting started](http://www.adelinekoh.org/blog/2015/03/05/resources-on-integrating-wikipedia-into-your-classroom/), and contact the [Wiki Education Foundation](http://wikiedu.org/), an organization that has been developed especially to give classroom support for education. 
+AfroCROWD is a Wikimedia initiative to increase the number of people of African descent who actively take part in Wikimedia and free knowledge, culture and software movements. The event is part of Black WikiHistory Month, and is open to all Afrodescents who self-identify as being part of the diaspora. Student clubs and organizations focused on the African diaspora might be interested in organizing in-person nodes for these edit-a-thons, thereby engaging in a larger network of knowledge production. Instructors who are teaching more racially and ethnically diverse classes can also help add to the project by contributing to the [WikiProject African Diaspora](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_African_diaspora). Educators who want to get started teaching with Wikipedia can look at [Koh's blog post on resources on getting started](http://www.adelinekoh.org/blog/2015/03/05/resources-on-integrating-wikipedia-into-your-classroom/), and contact the [Wiki Education Foundation](http://wikiedu.org/), an organization that has been developed especially to give classroom support for education. 
 
 
 ## RELATED MATERIALS
@@ -281,3 +282,5 @@ Stommel, Jesse. “Critical Digital Pedagogy: A Definition.” *Hybrid Pedagogy.
 Trouillot, Michel-Rolph. Silencing the Past: Power and the Production of History. Boston: Beacon Press, 1997. 
 
 Wiki Education Foundation. http://wikiedu.org/ 1 Sep
+
+WikiProject African Diaspora. https://en.wikipedia.org/wiki/Wikipedia:WikiProject_African_diaspora 
