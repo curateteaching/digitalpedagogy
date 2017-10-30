@@ -4,6 +4,14 @@
 
 Bryan Alexander Consulting | [https://bryanalexander.org/](https://bryanalexander.org/)
 
+##### Publication Status:
+* unreviewed draft
+* draft version undergoing editorial review
+* **draft version undergoing peer-to-peer review**
+* draft version undergoing MLA copyediting
+* awaiting pre-print copy
+* published 
+
 ## CURATORIAL STATEMENT
 
 Storytelling is a synthetic approach to teaching and learning, one combining multiple domains, practices, and media.  Digital storytelling adds new formal and material features to narrative as an object of study, as a means of sharing research, and as a method for student expression.  Stories serve a signal pedagogical function, since storytelling has long been a classic object of study across the humanities.  Analyzing narratives is, after all, a core function of literary criticism.  Interpreting historical narratives (primary and secondary) is also a major aspect of historiography.  We can track stories across most of the rest of the humanities, as anthropology, music, communication, classical studies, archaeology, ethnography, philosophy, psychology, performance studies all select, represent, examine, and respond to stories through their respective methodological lenses.  In this light, story emerges as a major, if not the central preoccupation of the humanities.  Naturally this tendency appears in professional scholarship, undergraduate curriculum, and the continuum of work between those two poles, including undergraduate research.

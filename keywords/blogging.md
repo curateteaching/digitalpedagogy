@@ -24,14 +24,17 @@ Bucknell University | [http://dianejakacki.net](http://dianejakacki.net)
 * draft version undergoing editorial review
 * draft version undergoing peer-to-peer review
 * **draft version undergoing MLA copyediting**
+* awaiting pre-print copy
 * published 
 
+---
+### Cross-Reference Keywords: writing, reading, public, multimodality, progress, collaborative 
 --- 
 ## CURATORIAL STATEMENT
 
 Blogging offers instructors rich, dynamic writing environments that challenge students to focus on process and audience, to reframe the act of composing across media, and to disrupt patterns and habits developed when writing more traditional essay structures. 
 
-From its earliest incarnations in 1980s internet forums and newsgroups, blogging has provided opportunities for self-expression and rhetorical experimentation in shared and public environments. As more professional publications and media outlets have adopted online content management systems how and who is read on screens has changed, with authors from journalistic, political, and academic realms writing in modes that blur generic lines. Many of these writers continue to experiment with different forms of social media communication, joining in micro- and media rich blogging discourse, coming full-circle to the collaborative communication practices of those early affinity groups, engaging overtly as both writers and readers; authors and commenters.
+From its earliest incarnations in 1980s internet forums and newsgroups, blogging has provided opportunities for self-expression and rhetorical experimentation in shared and public environments. As more professional publications and media outlets have adopted online content management systems we have changed how and who we read on screens, with authors from journalistic, political, and academic realms writing in modes that blur generic lines. Many of these writers continue to experiment with different forms of social media communication, joining in micro- and media rich blogging discourse, coming full-circle to the collaborative communication practices of those early affinity groups, engaging overtly as both writers and readers; authors and commenters.
 
 Blogging in a class environment unsettles students: they are forced to experiment with a more personal and sometimes casual writing style, use the active voice, and emphasize their own opinions. Instructors can use blogging assignments to introduce students to critical thinking, argument, and analysis; to engage with complex suject matter, enhancing reflection through collaborative writing. Blogging environments offer ways to challenge student authors to consider degrees of privacy and publicity. Students begin to experiment with style when they realize that their classmates are also their readers, and that their readers may respond to what they write. Because blogs are traditionally public-facing and openly readable, instructors can use blogging assignments to address the benefits and potential pitfalls of writing in the public sphere. Most content and learning management systems do include privacy settings that can limit access to just the classroom.
 
@@ -42,11 +45,13 @@ The instructor must think carefully about the type and degree of feedback they a
 As with other progressive forms of pedagogy involving technology, blogging assignments are challenging for instructors because they require more attention to design, implementation, and evaluation than traditional essay formats. Instructors must be specific about expectations for success; integration of an often unfamiliar format must be explained; and students' discomfort with writing in this mode must be managed. Instructors may consider incorporating preparatory exercises that help students to master the mechanics of blog writing before the first formal post is assigned. Emphasis on prompt clarity is also important. A prompt may be intentionally vague or prescriptive: vagary can be helpful when the goal is for students to experiment with voice and form; specificity is valuable when an assignment calls for students to conform to a particular style.  
 
 Students should have a voice in whether and how their work is published beyond the classroom. Anonymization may be an option, and is particularly valuable when concerns about identity are a factor. Instructors must design assignments responsibly, especially when encouraging students to identify themselves in their posts. Instructors should also be aware of institutional policies and safeguards regarding the identification and protection of students in online and social media environments. 
+
+The artifacts presented here offer a breadth of approaches to blogging as experimentatal and progressive forms of writing and reading. The assignments are adaptable to composition, humanities, and media studies courses at undergraduate and graduate levels.
  
 ## CURATED ARTIFACTS
 
 #### "Social Media and Digital Collaborative Applications: Microblogging"
-![screenshot]
+![screenshot](images/blogging-MicroBloggingArtifact.png)
 * Artifact Type: Syllabus
 * Source URL: [https://learntech.gmu.edu/assets/docs/syllabi/2017/syllabus_28003.pdf](https://learntech.gmu.edu/assets/docs/syllabi/2017/syllabus_28003.pdf)
 * Copy of Artifact: Syllabus is in PDF format hosted on GMU website. As of 9/18/2017 the syllabus is accessible and downloadable.
@@ -74,7 +79,8 @@ This assignment is distinctive in that it is built upon another, in which studen
 * Copy of the Artifact: Blog hosted on Croxall's website on the Wordpress platform. As of 9/18/2017 student work is publicly viewable.
 * Creator and Affiliation: Brian Croxall, Emory University
 
-This artifact is one element of a larger blogging assignment. The two assigned posts focus on reflection of work done with poem manuscripts at Emory's rare books library (MARBL). Students choose two poems by Carol Duffy, go to MARBL to find the physical manuscript pages, and write about their experience working with manuscript copies of the poem and printed versions they have read for class. Students are free to write about anything that intrigues them. Croxall invites them to write more than two posts and proposes two choices for adjusting grading of the overall blogging assignment if a student does so. On the course website Croxall gives an explanation about why he assigns blogs (Croxall 2011), and emphasizes the conversational nature of blogging. This straightforward assignment could be readily adapted for a literature course with special emphasis on the relationship between manuscript and print. 
+This artifact is one element of a larger blogging assignment. The two assigned posts focus on reflection of work done with poem manuscripts at Emory's rare books library (MARBL). Students choose two poems by Carol Duffy, go to MARBL to find the physical manuscript pages, and write about their experience working with manuscript copies of the poem and printed versions they have read for class. Students are free to write about anything that intrigues them. Croxall invites them to write more than two posts and proposes two choices
+for adjusting grading of the overall blogging assignment if a student does so. On the course website Croxall gives an explanation about why he assigns blogs (Croxall 2011), and emphasizes the conversational nature of blogging. This straightforward assignment could be readily adapted for a literature course with special emphasis on the relationship between manuscript and print. 
 
 #### "Thinking Goodly: Introduction to Ethics" 
 ![screenshot](images/blogging-Gorges-site.png)
@@ -106,7 +112,7 @@ Klein's assignment demonstrates how blogs can form complex collaborative writing
 Students are broken into four groups; each group has a different task each week of a cycle: they serve as First Readers, Respondents, or Searchers (the fourth group gets a week off). Klein outlines what these tasks consist of, and how each student's work will be assessed per cycle (there are two cycles of 12 possible points each). In reading student work, it appears that blog writing is rooted in weekly readings(11), however the prompts are available only via Georgia Tech's LMS and so not available for review. This is a complex assignment, one better suited for an instructor who has experience assigning collaborative online writing. Commitment to explaining different tasks would be crucial for student success for an assignment worth 24% of the course grade.
 
 #### "The Art of Blogging"
-![screenshot]
+![screenshot](images/blogging-ArtofBloggingHeader.png)
 * Artifact type: Assignment
 * Source URL: [https://my.vanderbilt.edu/artofblogging/cv/]
 * Copy of Artifact: Website hosted on Vanderbilt WordPress platform. As of  9/18/2017 the assignment is accessible.

@@ -8,7 +8,7 @@ author:
   given: Michael
 editor:
 - family: Harris
-  given: Katherine
+  given: Katherine D.
 publisher: Modern Language Association
 type: book
 ---
@@ -158,11 +158,11 @@ As part of an EdX MOOC on [Electronic Literature](https://www.edx.org/course/ele
 
 RELATED MATERIALS
 
+H. Beetham, Falconer, I., McGill, L., & Littlejohn, A. (2012). Open Practices: a briefing paper. JISC. Retrieved from https://oersynth.pbworks.com/w/page/51668352/OpenPracticesBriefing
+
 Brett D. Hirsch (ed.), Digital Humanities Pedagogy: Practices, Principles and Politics [http://www.openbookpublishers.com/product/161/digital-humanities-pedagogy--practices--principles-and-politics](http://www.openbookpublishers.com/product/161/digital-humanities-pedagogy--practices--principles-and-politics)
 
 Lisa Spiro and Bryan Alexander, Open Education in the Liberal Arts: A NITLE Working Paper [https://infocult.files.wordpress.com/2011/01/open_education_working_paper_v2_april112012.pdf](https://infocult.files.wordpress.com/2011/01/open_education_working_paper_v2_april112012.pdf)
-
-Michael Roy, The Open-Source Bazaar Makes Scholarship Available [http://mroy.web.wesleyan.edu/talks/nitle-chicago-nov04/chronicle.html](http://mroy.web.wesleyan.edu/talks/nitle-chicago-nov04/chronicle.html) 
 
 Jesse Stommel (ed.) , Hybrid Pedagogy, [http://www.hybridpedagogy.com/](http://www.hybridpedagogy.com/) 
 
@@ -172,6 +172,8 @@ WORKS CITED
 
 
 Allen, Holly. "The American Studies Web Museum at Middlebury College," n.d.
+
+H. Beetham, Falconer, I., McGill, L., & Littlejohn, A. (2012). Open Practices: a briefing paper. JISC. Retrieved from https://oersynth.pbworks.com/w/page/51668352/OpenPracticesBriefing
 
 Conlin, Brian, "Charlestown Residents Impart Lessons of Transition to UMBC Students." *Baltimoresun.com*. Accessed May 11, 2015. http://www.baltimoresun.com/explore/baltimorecounty/news/ph-ca-at-umbc-charlestown-1221-20111218-story.html.
 

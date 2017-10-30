@@ -8,11 +8,11 @@ author:
   given: David
 - family: Recollet
   given: Karyn
-- family: LaPensŽe
+- family: LaPensee
   given: Elizabeth
 editor:
 - family: Sayers & Harris
-  given: Jentery & Katherine
+  given: Jentery & Katherine D.
 publisher: Modern Language Association
 type: book
 ---

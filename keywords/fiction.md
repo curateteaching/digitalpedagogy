@@ -1,4 +1,19 @@
-# Fiction
+---
+title: Digital Pedagogy in the Humanities
+subtitle: Concepts, Models, and Experiments
+chapter: Fiction
+URL: keywords/fiction.md
+authors:
+- family: Forster
+  given: Chris
+editor:
+- family: Gold
+  given: Matthew K.
+publisher: Modern Language Association
+type: book
+---
+
+# FICTION
 
 ### Chris Forster
 Syracuse University | [http://www.cforster.com](http://www.cforster.com)
@@ -8,7 +23,8 @@ Syracuse University | [http://www.cforster.com](http://www.cforster.com)
 #### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review**
+* draft version undergoing peer-to-peer review
+* **draft version undergoing MLA copyediting**
 * published
 
 ——— 

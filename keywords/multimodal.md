@@ -13,159 +13,208 @@ publisher: Modern Language Association
 type: book
 ---
 
-# MULITIMODAL (Draft)
+# MULITIMODAL (draft)
 
-### Virginia Kuhn 
+## VIRGINIA KUHN
 University of Southern California, School of Cinematic Arts, Division of Media Arts + Practice | [virginiakuhn.net](http://virginiakuhn.net) 
 
-##### Publication Status:
+##### Publication Status: 
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review**
+* draft version undergoing peer-to-peer review
+* **draft version undergoing MLA copyediting**
 * published 
 
---- 
+---
 
+### Cross-Reference Keywords: Praxis, Remix, Video, Failure, Archive
+
+---  
 ## CURATORIAL STATEMENT
 
-Gunther Kress coined the term *multimodal* as an alternative to *multimedia*, its origin academic rather than commercial, and founded in semiotics, rather than media. Kress defines multimodal as “any text whose meanings are realized through more than one semiotic code” (177). The semiotic codes are integrated, their logic and coherence conforming to an “overarching code” which is either spatially or temporally oriented (Kress 177). Notice that there is nothing specifically digital about the multimodal: A magazine with pictures qualifies as a spatially orientated multimodal text, while a film is illustrative of a temporally oriented one.
-
-While there are benefits to anchoring the discussion of multimodality in the realm of the analogue since it reminds us that the digital is not a break with all that has come before, I strategically focus on multimodal texts in digital formats, be they natively digital or analogue objects that have been digitized. Why? Because once a word or a soundtrack or an image or a film is digitized, it becomes programmable and this, in turn, allows for a rich and nuanced integration of multiple semiotic modes into a single text.  Thus, the affordances of the digital effectively expand the available semiotic resources, allowing communication and expression across the registers of word, sound, image, video and interactivity.  The digital exemplars of spatially and temporally oriented multimodal texts, then, are the website and the remix video respectively.
+The term *multimodal* was coined by Gunther Kress as an alternative to multimedia, its origin academic rather than commercial, and based in semiotics, rather than media. Kress defines multimodal as a text “whose meanings are realized through more than one semiotic code,” further noting that these semiotic codes are integrated, their logic and coherence conforming to an “overarching code” which is either spatially or temporally oriented (177). There is nothing specifically digital about the multimodal: A magazine with pictures qualifies as a spatially orientated multimodal text, while a film is illustrative of a temporally oriented one. However, the affordances of the digital effectively expand the available semiotic codes, allowing communication and expression across the registers of word, sound, image, video and interactivity. As such, this keyword focuses on multimodal texts in digital formats, be they natively digital or analogue objects that have been digitized. Indeed, once a word or a soundtrack or an image or a film is digitized, it becomes programmable and this, in turn, allows for a rich and nuanced integration of multiple semiotic modes into a single text. The digital exemplars of spatially and temporally oriented multimodal texts, then, are the website and the remix video respectively. That said, the lines between the two are increasingly blurry as, for instance, video is incorporated into websites and authoring platforms such as Scalar.
  
-Digitization is a more commonly assumed feature of multimedia so why not simply use it? For Kress, the term *multimedia* includes both the dissemination and the form of a text, two aspects that he prefers to keep separate (qtd in Lauer). I would counter, however, that in contemporary parlance *multimedia* is far less a marker of dissemination than of form, and as the Associate Director of the Institute for Multimedia Literacy, I tend to use the terms interchangeably. Indeed, my research, teaching and scholarship for nearly two decades has centered on the shifting nature of communication and expression, which began in orality, moved through (print) literacy, and on to the culture in which we now find ourselves, whether one calls it “multiliterate” as the New London Group did in 1996, “electrate” as Gregory Ulmer dubbed it in 1989, or as in the case of my institution, “multimedia literate” (1998).
-
-Although conceptions of contemporary literacy are highly contested, I define multimedia literacy as *competent control of the available semiotic resources*. Thus the resources gathered here are meant to foster critical engagement—the ability to both analyze and produce—multimodal texts. Each object supports some aspect of multimodal project design—from assigning to assessing, from citation to archiving. While many teachers are skilled in writing *about* multimodal texts, far less are prepared to create them or to guide their production. And many do not see the need to do so. Yet, a useful analogy is that of foreign language learning; to be considered fluent in a language, a person must be able to form a sentence as well as understand one. Similarly, I suggest, one cannot fully understand the rhetorical choices involved in creating multimodal texts without actually having to make those choices.  
-
-Still, when I began assigning multimodal projects in classes I taught in departments of English and Fine Arts in 2003, I was at something of a loss as to how to best guide their creation or gauge their merits, and I’ve written about these [issues in some depth](http://enculturation.net/6.2/kuhn). Later, when I began teaching digital thesis projects and video remix, I confronted another set of technological, [conceptual](http://journal.transformativeworks.org/index.php/twc/article/view/358/279), and [political](http://enculturation.net/the-youtube-gaze) issues, all of which inform this entry.
-
-The artifacts below begin with assignments and exemplars for spatially oriented multimodal texts, followed by assignments and exemplars for temporally oriented ones. At the same time, the lines between remix videos and webtexts are increasingly blurry as, for instance, video can be incorporated into websites and authoring platforms such as Scalar. The final two items operate at the meta-level providing an archive of sorts, one that includes rubrics, student reflections and published multimodal work by undergraduates.
-
-The student projects offered here serve as exemplars and are fairly sophisticated as this may give students something to aspire to. However, the assignments represent a range of skill levels, and many assume no previous experience with media making.  The rationale is that even the smallest entry into critical multimodal production can be enlightening and exciting for students and teachers alike, and can provide a foundation for producing more complex projects.
+The expansion of semiotic resources holds enormous implications for pedagogy, since as our ways of knowing shift, our ways of relaying that knowledge—via  scholarship and teaching—must also shift. Thus, this keyword is informed by a definition of multimodal literacy as “competent control of the available semiotic resources” (Kuhn, “Rhetoric of Remix”) and the artifacts gathered are meant to foster critical engagement—the ability to both analyze and produce—with multimodal texts. While many teachers are skilled in writing about multimodal texts, fewer are prepared to create them or to guide their creation. Many do not see the need to do so. Yet a useful analogy is that of foreign language learning; to be considered fluent in a language, a person must be able to form a sentence as well as understand one. Similarly, one cannot fully understand the rhetorical choices involved in creating multimodal texts without actually having to make those choices. 
+ 
+The artifacts included here are meant to be easily adaptable by teachers who are new to digital pedagogy, as well by veterans looking to refresh their curricula in this constantly shifting technological environment. The items are organized to be progressive in nature, moving from assignments that emphasize a particular extra-textual mode, to those that are more complex in their integration of multiple semiotic codes.  
+ 
+The first artifact is an assignment prompt for the creation and exchange of a material objects which reminds us the digital is not a break with all that has come before even as it anchors academic concepts in the material world. The next three artifacts focus on specific semiotic codes, those that join the written word to create a multimodal text: these focus on code, sound and image. These are followed by a student project, a video-based digital argument that incorporates sound, text and image in compelling ways. This project is followed by a video essay assignment focused on fair use and the transformation of existing media. Understanding scholarly ways of using preexisting media and the concomitant citation practices cannot be overstated when considering multimodal texts. Simply put, it is a matter of free speech. 
+ 
+The last four artifacts represent increasingly complex forms of multimodality with projects that span multiple registers of meaning and also complicate the spatial-temporal binary by including elements of both orientations. The first artifact is an assignment for an historical analysis of a web site, done via a screencast, and a scripted voiceover, using multiple tools. This is followed by an assignment that begins with a livestream broadcast and ends with a reflective essays into which is embedded a recording of the broadcast. Next there is a syllabus for a semester long course in interactive narrative, each unit building upon the last and contributing to a sophisticated final project. The last artifact includes a rubric for gauging multimodal projects which links to a webtext with twelve short videos that features students discussing their multimodal thesis projects. Given the pedagogical nature of this collection, it seemed fitting to end the keyword with student voices. 
+ 
+ 
 
 ## CURATED ARTIFACTS
 
-### Learning Through Making: Notes On Teaching Interactive Narrative
-![screenshot](images/Multimodal-LearningThroughMaking.jpg)
+### Object Making/Exchange
 
-* Artifact Type: Essay on Teaching
-* Source URL: [syllabusjournal.org/article/view/14485/pdf_16](http://www.syllabusjournal.org/article/view/14485/pdf_16)
-* Creator: Anastasia Saltar (University of Central Florida)
+![screenshot](images/screenshot-multimodal-ObjMakAss.png)
 
-This article by Anastasia Salter was published in [*Syllabus*](http://www.syllabusjournal.org/), a peer reviewed journal dedicated to teaching materials. What I find most valuable is that it approaches interactivity both creatively and critically, focusing on the narrative structure as well as the technological infrastructure. The use of freeware and easy to learn tools also means that it is a viable approach for those who lack technological prowess and/or access to expensive production tools. The focus on open source tools emphasizes the conceptual and makes the syllabus customizable, as it forms a bridge between analysis and production.
+* Artifact type: assignment
+* Source URL: [femtechnet.org](http://femtechnet.org/docc/object-makingexchange/)
+* Permissions: Creative Commons
+* Creators and Affiliation: Anca Birzescu and Radhika Gajjala (Bowling Green State University)
 
-### Coding with Style assignment
-![screenshot](images/Multimodal-CodingwithStyle.jpg)
 
-* Artifact Type: Assignment: Code and Visual Rhetoric
+This assignment was developed for the inaugural class taught under the auspices of FemTechNet, a network that crosses disciplinary and institutional boundaries, offering feminist curricular materials to any and all who would use them. FemTechNet is a DOCC—a Distributed Open Collaborative Course —that supports decentralized and collaborative pedagogical principles. This particular project spans multiple modes of meaning and multiple forms of distribution. First, students create a physical object that responds to some aspect of feminist theory. Next, they create a “digital expression” of the piece that displays their object online. The final step is participation in a “gift exchange” where students must assign a value system and terms for bartering with other students. The project supports multimodal literacy by defamiliarizing academic writing; these objects exist outside verbal language and outside the realm of the digital. 
+
+### Coding with Style
+
+![screenshot](images/screenshot-multimodal-CodingAss.png)
+
+* Artifact type: assignment
 * Source URL: [virginiakuhn.net/2015/05/reskin-assignment-hughes](http://virginiakuhn.net/2015/05/reskin-assignment-hughes/)
+* Permissions: CC-BY-NC
 * Creator: Evan Hughes (University of Southern California)
 
-Evan Hughes designed this midterm project assignment for an introductory undergraduate class on creative coding which covers the basics of HTML, CSS as well as some elements of visual design. The assignment asks students to use existing code and modify it; this is a great way to build students’ confidence in coding while it also forces them to work within the confines of CSS (cascading style sheets). The creative constraints this restriction produces can be quite productive, especially when dealing with students who may not have preconceived notions about the potential of code.
 
-### Scalar for Research, Teaching & Learning, Various Projects (2010-Present)
-![screenshot](images/Multimodal-Scalar.jpg)
+Evan Hughes designed this midterm assignment for an introductory undergraduate class on creative coding which covers the basics of HTML, CSS as well as some elements of visual design. The assignment asks students to use existing code and modify it with attention to its visual presentation, resulting in a spatially oriented multimodal text. Using preexisting code opens the project to beginners and is a great way to build students’ confidence, while it also shifts the emphasis from the code itself to its behavior and the ways in which HTML and CSS can be edited to change the look of a webpage. In emphasizing the underlying code, this project can foster a deeper understanding of the digital tools students use each day, though mostly in a superficial way. 
 
-* Artifact Type: Webtext
-* Source URL: [www.jenterysayers.com/2012/scalar](http://www.jenterysayers.com/2012/scalar/)
-* Creator: Jentery Sayers (University of Victoria)
+### Sound Sculpture  
 
-This post by Jentery Sayers offers an excellent overview of his scholarly and pedagogical use of the multimedia-authoring program, Scalar, describing its use in graduate as well as undergraduate courses, for individual assignments as well as collaborative projects. Scalar allows multimodal authoring with all media forms and, since it does not privilege one over another, allows the possibility for a sophisticated relationship among the various semiotic codes.  Scalar is flexible and allows customization yet it retains a low barrier of entry such that students generally need very little instruction to begin using it. There are several video archives that hook into Scalar, and it is fully online so it is accessible without the need for users to host and maintain their own domains.
+![screenshot](images/screenshot-multimodal-SoundSculpt.png)
 
-## MiXED
-![screenshot](images/Multimodal-MiXED.jpg)
+* Artifact type: assignment   
+* Source URL: [virginiakuhn.net/sound-sculpture-project-by-vicki-callahan/](http://virginiakuhn.net/sound-sculpture-project-by-vicki-callahan/)
+* Permission: CC-BY-NC
+* Creator and Affiliation: Vicki Callahan (University of Southern California)
 
-* Artifact Type: Student Project: Webtext
-* Source URL: [www.mixed.us](http://www.mixed.us/)
-* Creator: Olivia Garcia
+This assignment is focused on sound and encourages both careful listening practices in addition to composition practices that are controlled and deliberate. Contemporary culture is visually saturated, making it easy to neglect the role of sound, particularly as it impacts multimodal compositions. To prepare for the project, Vicki Callahan assigns readings from sound scholar Michel Chion, asking students to apply his listening strategies to the soundtrack of a seminal cinematic scene. From there, students acquire and assemble a series of soundtracks, both found and recorded, and edit them into a soundscape that offers a new slant on a particular concept or event. This project can be adopted by others quite easily.  Adding a viewing of “Scary Mary,” a short video that demonstrates the power of sound by placing scary music to the trailer of Mary Poppins, could enhance the preparatory work. 
+ 
+### Course Assignment & Project Timeline – Rhetoric of Memes
 
-This video-heavy webtext is a senior thesis project from the 2013 cohort of the Honors in Multimedia Scholarship program and explores the issue of mixed race identity. It is the perfect transition piece in this context, since it has elements of both spatially and temporally oriented multimodal texts. The author interviewed several people of mixed race origin and then cut the videos so they can be accessed either by person or by topic. There is also a timeline included, which traces the history of the “mixed race” designation in legal terms. The default state of the “voices” section is black and white, but when one hovers over a particular interview, the interview changes to full color. This flourish, pictured in the screenshot attached, is a wonderfully smart addition that carries meaning at both the technological and conceptual level as it signals a selection that will complicate binary notions of what it means to be “mixed”. 
+![screenshot](images/screenshot-multimodal-RhetMeme.png)
 
-## Video Essay as Curatorial Enterprise
-![screenshot](images/Multimodal-VideoEssay.jpg)
+* Artifact type: assignment
+* Source URL: [jumpplus.net/course-assignment-project-timeline-rhetoric-of-memes/](https://jumpplus.net/course-assignment-project-timeline-rhetoric-of-memes/)
+* Permission: CC-BY-NC
+* Creators: Nadeem Persico-Shammas & Simone Sessolo (University of Michigan)
 
-* Artifact Type: *Teaching Essay*
-* Source URL: [teachingmedia.org/the-video-essay-as-curatorial-enterprise](http://www.teachingmedia.org/the-video-essay-as-curatorial-enterprise/)
-* Creator: Leah Shafer (Hobart and William Smith Colleges)
+This assignment asks students to create a website featuring a critical analysis of memes. As such, the project encourages student to explore what a word can do that an image cannot and vice versa. The piece was published in the *Journal of Undergraduate Multimedia Projects* in an issue devoted to memes and remix.  The assignment is accompanied by an overview essay, examples of student work, and reflective essays by the journal’s editorial collective. The *JUMP* offers a place for students to showcase their efforts, and provides teachers a source of potential models for projects they want to assign. As such, it becomes a potential gold mine of fodder for project ideas, and the scaffolding that can foster their production. The journal also helps students to see themselves as active contributors to the ongoing conversation around multimodality and fostering this sort of agency in students is perhaps the most worthy goal for multimodal curricula. 
 
-This essay was published as part of the themed series of “Teaching Media,” the online component of the prominent *Cinema Journal*.  This piece by Leah Shafer appeared in the issue whose theme was teaching the video essay. Not only does the assignment Shafer describes render the act of curation legible to students, as it has come to be a prominent scholarly activity, it also sheds light on other common online activities such as the ubiquitous “sharing,” sparking a more critical aspect to the items that one choses to spread via social media, for instance. Moreover, as Shafer notes, when students engage with archival media (a.k.a. found footage) in group work, they foster a “community of meta-learning” giving students an investment in the media.
+### Where the Buffalo Roam
 
-## MediaBreaker
-![screenshot](images/Multimodal-MediaBreaker.jpg)
+![screenshot](images/screenshot-multimodal-BuffaloVid.png)
 
-* Artifcat Type: Online Video Library and Editing Tool
-* Source URL: [mediabreaker.thelamp.org/login.php](http://mediabreaker.thelamp.org/login.php)
-* Creator: The LAMP
-
-MediaBreaker is a tool designed by [The LAMP](http://thelamp.org/), a media literacy nonprofit based in New York, that allows users to “talk back” to media in this age of media conglomeration, in order to shed a light on its biases. Users can import clips from YouTube or add their own to MediaBreaker’s online library, before using its editing tool to remix the message and, in so doing, offer an alternative media ecology. Once complete, users upload their transformed videos to MediaBreaker, where they are screened by a team of legal experts before being either posted, or sent back to the creator with notes for bringing the piece into compliance with fair use parameters.
-
-## Teaching Transformativity/Transformative Teaching: Fair Use and the Video Essay
-![screenshot](images/Multimodal-TeachingTransformativity.jpg)
-
-* Artifact Type: Article on Teaching the Video Essay
-* Source URL: [teachingmedia.org/teaching-transformativitytransformative-teaching-fair-use-and-the-video-essay](http://www.teachingmedia.org/teaching-transformativitytransformative-teaching-fair-use-and-the-video-essay/)
-* Creator: Suzanne Scott (Arizona State University)
-
-This guide to teaching the video essay is activist in nature as Suzanne Scott frames her classroom efforts as generating not only video essays, but also a code of best practices for exercising fair use in media making. While MediaBreaker removes some of the onus for establishing fair use by employing legal counsel to submitted videos, it is incumbent upon multimodal authors to understand the four tenants of fair use and to advance their own fair use claims, which are deliberate and defensible. Scott’s approach puts transformation at the fore, allowing students to deeply understand their rights and obligations. Having fought [copyright infringement claims](http://enculturation.net/the-youtube-gaze) for several years, I appreciate the ways in which current copyright law never anticipated the digital, and feel it is unethical to neglect issues of fair use in the classroom since it governs who may speak with media and who will be silenced.
-
-## *Where the Buffalo Roam*
-![screenshot](images/Multimodal-WheretheBuffaloRoam.jpg)
-
-* Artifact Type: Student project: Remix Video
+* Artifact type: Student project
 * Source URL: [vimeo.com/24142859](https://vimeo.com/24142859)
-* Creator: Jerrod Finley
+* Permission: granted by the author
+* Creator: Jerrod Findley
 
-Having taught video remix since 2008, I have seen a wide range of student work, which tends to be either conceptually sound or technically solid, but seldom both. Indeed, when students are learning a new technology, it can be difficult to keep the type of critical consciousness they have when composing with verbal language. But even for those who have mastered the technology, it takes a great deal of finesse to construct a multimodal argument that is [complex and nuanced](http://journal.transformativeworks.org/index.php/twc/article/view/358/279) in the space of a 5-10 minute video. *Where the Buffalo Roam* is the exception to this rule, demonstrating the contradictions of U.S. military efforts in liberating Nazi camps, while also practicing racism in its treatment of its own troops. By stripping out the images for most of this piece, the video’s form serves the conceptual ends as the absence of regard for black soldiers is highlighted. 
+This video-based digital argument is sophisticated both conceptually and formally. The piece, which uses footage from the Shoah Visual History Archive, centers on the contradictions of U.S. military efforts in liberating Nazi camps, while also practicing racism in its treatment of its own troops. The interplay among the various modes is nuanced as the project’s form serves its conceptual goals: The images are stripped out which highlights the absence of regard for black soldiers, as it also places the focus on verbal language, encouraging careful listening during the witnesses’ oral testimony, and careful reading when the author’s commentary appears via white text on the black screen. The verbiage is stripped down using an economy of words that move in and out of frame in interesting ways, reminding us of the visual-graphical facet of writing. This piece is quite successful in constructing a complex multimodal argument in the space of a 5-10 minute video.
 
-## Speaking with Students: Profiles in Digital Pedagogy
-![screenshot](images/Multimodal-SpeakingwithStudents.jpg)
 
-* Artifact Type: Webtext
-* Source URL: [kairos.technorhetoric.net/14.2/interviews/kuhn](http://kairos.technorhetoric.net/14.2/interviews/kuhn/)
-* Creators: Virginia Kuhn, DJ Johnson, Dave Lopez (University of Southern California)
+### Fair Use and the Video Essay
 
-This webtext, published in the online journal *Kairos: A Journal of Rhetoric, Technology, and Pedagogy*, features students from the Honors in Multimedia Scholarship program at USC discussing their natively digital and media-rich theses. They come from a range of disciplinary majors, from biology to theatre, which makes the videos useful for any number of classes aimed at integrating multimodal texts.  As the director of the Honors program, I had my own reasons for pursuing the publication—video provides a somewhat stable means for documenting projects that are ephemeral, idiosyncratic, or whose native platforms are obsolete—but it soon became clear that one of its most valuable aspects lay in its assessment parameters. *Kairos* editor Cheryl Ball builds on these and offers a nuanced reading of multimodal assessment practices, in her article, “[Assessing Scholarly Multimedia: A Rhetorical Genre Studies Approach](http://ceball.com/wp-content/uploads/2012/01/TCQ-Ball-publishedversion.pdf),” which is a great resource for teachers.
+![screenshot](images/screenshot-multimodal-FairUseVid.png)
 
-## *The JUMP: Journal of Undergraduate Multimedia Projects*
-![screenshot](images/Multimodal-JUMP.jpg)
+* Artifact type: assignment
+* Source URL: [oxycopyrightandculture.wordpress.com/assignments/remix-video/](https://oxycopyrightandculture.wordpress.com/assignments/remix-video/)
+* Permission: CC-BY-NC
+* Creator: Suzanne Scott (University of Texas, Austin)
+* Tags: Starting out
 
-* Artifact Type: Journal
-* Source URL: [jump.dwrl.utexas.edu](http://jump.dwrl.utexas.edu/)
-* Creator: Founding editor, Justin Hodgson
+This video essay assignment is meant to teach students about the doctrine of fair use using video essay. It is activist in nature, as Suzanne Scott frames her classroom efforts as generating not only these video essays, but also a code of best practices for exercising fair use in media making. It is incumbent upon multimodal authors to understand the four tenants of fair use and to advance their own fair use claims, which are deliberate and defensible. Scott’s approach puts transformation at the fore, allowing students to deeply understand their rights and obligations. Current copyright law did not anticipate the digital, and many digital scholars feel it is unethical to neglect issues of fair use in the classroom since it governs who may speak with media and who will be silenced. Additional context can be found in Scott's article, “Teaching Transformativity/Transformative Teaching: Fair Use and the Video Essay.” 
 
-This journal started by digital rhetorician Justin Hodgson, publishes undergraduate multimodal projects giving students a place to showcase their efforts, and providing teachers with an incentive for good work, as well as a source of potential models for projects they want to assign. In addition to the projects themselves there are various contextual items including the assignment sheet, an overview of the course from which it came, reflections by the project’s authors, and textual reviews done by faculty in the editorial collective. As such, *The JUMP* becomes a potential gold mine of fodder for project ideas, and the scaffolding that can foster their production. The journal also helps students to see themselves as active contributors to the ongoing conversation around multimodality. And, after all, fostering this type of agency in students is perhaps the most worthy goal for multimodal curricula. 
+### Critical Genre Screencast
+
+![screenshot](images/screenshot-multimodal-CritGenreAss.png)
+
+* Artifact type: assignment
+* Source URL: [praxis.technorhetoric.net/tiki-index.php?page=PraxisWiki:_:critical%20genre%20awareness#The_Assignment_](http://praxis.technorhetoric.net/tiki-index.php?page=PraxisWiki:_:critical%20genre%20awareness#The_Assignment_)
+* Permissions: Creative Commons
+* Creator: Marcy Leasum Orwig (University of Wisconsin, Eau Claire)
+* Tags: Advanced
+
+This assignment asks students to create a critical analysis of a commercial website, focusing on the ways in which it has shifted over time, done in the form of a screencast. In this way, not only does the project encourage a critical analysis of digital texts, it also gives students practice in crating a multimodal piece. The assignment, which is further detailed in this Kairos Praxis Wiki piece, "'That Looks Weird': Analyzing the Rhetoric and Technology of Websites Over Time with Critical Genre Awareness", employs the Internet Archive’s Wayback Machine for historical snapshots of a website, Jing for recording a screencast, and Adobe Story to draft a script for the analysis. Although designed for a business class, this project’s potential is wide ranging and could be used in any number of classes that encourage critical engagement with media with very little revision needed. 
+
+### Live Streaming with Periscope 
+
+![screenshot](images/screenshot-multimodal-LiveStreamAss.png)
+
+* Artifact type: assignment
+* Source URL: [https://docs.google.com/document/d/1S-3I2aIs9vTXdwX3Jjduap7o4loFRAuWmTiNPtSu2jA/edit?usp=sharing](https://docs.google.com/document/d/1S-3I2aIs9vTXdwX3Jjduap7o4loFRAuWmTiNPtSu2jA/edit/)
+* Permissions: Creative Commons
+* Creator: Leigh Landini Wright (Murray State University)
+
+This assignment includes two readings, a live broadcast assignment, and a reflective blog post into which a recording of the live session is embedded. The result is a strongly multimodal text that includes words, sounds and images, while it also serves as a snapshot of a live event. Further context about the project can be found in Wright's “Live from Your Palm,” and although the class was geared to journalism students, its potential usefulness is more general. The unit might be reframed as a way of documenting interactive media in situ: filming the action of game play, recording interactions with virtual reality, or documenting activist events such as marches and protests. Periscope relies on vertical video, which as the author notes, is typically seen as a stylistic faux pas. The Vertical Cinema Manifesto, which argues for verticality as a feminist representation, would be a nice addition to the unit (Vertical Feminist Collective). 
+
+
+### Interactive Narrative
+
+![screenshot](images/screenshot-multimodal-IntNar.png)
+
+* Artifact type: syllabus
+* Source URL: 
+[www.scholarlyexchange.org/ojs/index.php/TS/article/view/14485 ](http://www.scholarlyexchange.org/ojs/index.php/TS/article/view/14485)
+* Permissions: Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a CC BY-NC license.
+* Creator: Anastasia Salter (University of Central Florida)
+
+
+Anastasia Salter’s syllabus for a course on Interactive Narrative, published in *Syllabus*, approaches interactivity both creatively and critically, focusing on narrative structure as well as technological infrastructure. Each unit includes a mini project created with a different tools—namely, Twine, Scratch, and Inform 7. These units culminate in the creation of a final project, a Multimedia Interactive Narrative, which has clearly articulated goals and outcomes. The use of freeware and easy to learn tools makes this a viable approach for those who lack access to expensive production tools and who do not have advanced media skills. Although the class was designed for upper level classes in game design, the syllabus  emphasizes the conceptual aspect of game mechanics and interactivity making the syllabus customizable as it forms a bridge between analysis and production.
+
+### Speaking with Students: Profiles in Digital Pedagogy
+
+![screenshot](images/screenshot-multimodal-SpkngWthStudents.png)
+
+* Artifact type: rubric, teaching guide
+* Source URL: [cinema.usc.edu/images/iml/SpeakingWithStudents_Webtext1.pdf](https://cinema.usc.edu/images/iml/SpeakingWithStudents_Webtext1.pdf)
+* Permissions: CC BY-NC-SA license.
+* Creators: Virginia Kuhn, DJ Johnson, David Lopez (University of Southern California)
+
+
+This assessment guide centers on multimodal thesis projects done by students in an undergraduate honors program at the Institute for Multimedia Literacy. It includes a brief program history, a discussion of the challenges to documenting multimodal work and a set of assessment parameters for gauging its efficacy. It is part of a webtext published in  *Kairos: A Journal of Rhetoric, Technology, and Pedagogy*. The webtext includes 12 short videos that feature students from a range of disciplinary majors describing their theses. Each video is accompanied by a “notes on process” section, which includes the decisions made in the constructing the video with regard to the representation of students and their work. Kairos editor Cheryl Ball builds on the thesis parameters and offers a nuanced reading of multimodal assessment practices in her article, “Assessing Scholarly Multimedia: A Rhetorical Genre Studies Approach,” which is a great resource for teachers. 
+
 
 ## RELATED MATERIALS
 
-Anderson, Steve, et al. *Critical Commons Public Media Archive and Media Advocacy site*. *n.p.*, *n.d.* web. [criticalcommons.org](http://www.criticalcommons.org/)
+Alliance for Networking Visual Culture. Scalar multimedia authoring tool. [scalar.usc.edu](http://scalar.usc.edu/)
 
-Baron, Dennis. *From Pencils to Pixels: The Stages of Literacy Technology*/ *n.p.*, *n.d.* web. [english.illinois.edu/-people-/faculty/debaron/essays/pencils.htm](http://www.english.illinois.edu/-people-/faculty/debaron/essays/pencils.htm)
+Anderson, Steve, et al. Critical Commons Public Media Archive and Media Advocacy site.  *n.p., n.d.* [criticalcommons.org](http://www.criticalcommons.org/)
 
-Ball, Cheryl. "Assessing Scholarly Multimedia: A Rhetorical Genre Studies Approach." *Technical Communication Quarterly* 21.1 (2012): 61-77. Online.  [dx.doi.org/10.1080/10572252.2012.626390](http://dx.doi.org/10.1080/10572252.2012.626390)
+Ball, Cheryl. "Assessing Scholarly Multimedia: A Rhetorical Genre Studies Approach." *Technical Communication Quarterly* 21.1 (2012): 61-77. Online. [dx.doi.org/10.1080/10572252.2012.626390](http://her.hepg.org/content/17370n67v22j160u/)
 
-Faden, Eric. “Media Stylos: A Manifesto for Critical Media.” *Mediascape*, Spring '08 (2008): Meta section. Online. [http://www.tft.ucla.edu/mediascape/Spring08_ManifestoForCriticalMedia.html](http://www.tft.ucla.edu/mediascape/Spring08_ManifestoForCriticalMedia.html)
+Baron, Dennis. From Pencils to Pixels: The Stages of Literacy Technology. *n.p. n.d.* [english.illinois.edu/-people-/faculty/debaron/essays/pencils.htm](http://www.english.illinois.edu/-people-/faculty/debaron/essays/pencils.htm)
 
-Cazden, Courtney, et al. New London Group. “A Pedagogy of Multiliteracies: Designing Social Futures.” *Harvard Educational Review* 66.1 (1996): 60-92. Online. [her.hepg.org/content/17370n67v22j160u](http://her.hepg.org/content/17370n67v22j160u/)
+Faden, Eric. “Media Stylos: A Manifesto for Critical Media.” Mediascape, Spring '08 (2008) 
+[www.tft.ucla.edu/mediascape/Spring08_ManifestoForCriticalMedia.html] (http://www.tft.ucla.edu/mediascape/Spring08_ManifestoForCriticalMedia.html/)
 
-## Works Cited
-
+## Works Cited 
 Ball, Cheryl. "Assessing Scholarly Multimedia: A Rhetorical Genre Studies Approach." *Technical Communication Quarterly* 21:1 (2012): 61-77. Online.
 
-Cazden, Courtney, The New London Group, et al. “A Pedagogy of Multiliteracies: Designing Social Futures.” *Harvard Educational Review* 66.1 (1996): 60-92. Online.
+Birzescu, Anca and Radhika Gajjala. Object Making/Exchange assignment. 2013, FemTechNet site [femtechnet.org/docc/object-makingexchange](http://femtechnet.org/docc/object-makingexchange/)
 
-Kress, Gunther and Theo van Leeuwen. *Reading Images: The Grammar of Visual Design*. Second Edition. London: Routledge, 2006. Print.
+Callahan, Vicki. Sound Sculpture assignment. Received by Virginia Kuhn, 10 January 2012. http://virginiakuhn.net/sound-sculpture-project-by-vicki-callahan/
+
+Chion, Michel. “The Three Listening Modes,” Audio-Vision: Sound on Screen, Trans. Claudia Gorbman, Columbia UP, 1994, P. P. 25-34. 
+
+Findley, Jarrod. *Where the Buffalo Roam*, video. Online. 2011. Vimeo
+
+Hughes, Evan. Coding with Style assignment. Received by Virginia Kuhn, 10 October 2015. [virginiakuhn.net/2015/05/reskin-assignment-hughes](http://virginiakuhn.net/2015/05/reskin-assignment-hughes/)
+
+Kuhn, Virginia, et al. “Speaking with Students: Profiles in Digital Pedagogy.” *Kairos: A Journal of Rhetoric, Technology, and Pedagogy*, Issue 14. 2, 2010. Online. 
+
+_______.” The Rhetoric of Remix.” *Transformative Works and Culture 9*, 2012. Online. 
+
+Kress, Gunther and Theo van Leeuwen. *Reading Images: The Grammar of Visual Design*. Second Edition. London: Routledge. 2006. Print.
  
-Kuhn, Virginia. “Performing Life: Whose Pictures are Worth A Thousand Words?” *Enculturation* 6.2 (2009). Online.
+Orwig, Marcy. "That Looks Weird": Analyzing the Rhetoric and Technology of Websites Over Time with Critical Genre Awareness,” *Kairos: A Journal of Rhetoric, Technology, and Pedagogy,* Praxis Wiki,  Fall 2017 (Issue 22.1) 
 
----. “The YouTube Gaze: Permission to Create?” *Enculturation* 7 (2010). Online.
+moviemker. “THE ORIGINAL Scary 'Mary Poppins' Recut Trailer.” YouTube, YouTube, 8 Oct. 2006, www.youtube.com/watch?v=2T5_0AGdFic.
 
----, et al. “Speaking with Students: Profiles in Digital Pedagogy.” *Kairos: A Journal of Rhetoric, Technology, and Pedagogy* 14.2 (2010). Online.
+Salter, Anastasia. Interactive Narrative syllabus in “Learning Through Making: Notes on Teaching Interactive Narrative,” *Syllabus*, Vol 4, No. 1, 2015. Online. 
+ 
+Scott, Suzanne. Remix Assignment, in “Teaching Transformativity/Transformative Teaching: Fair Use and the Video Essay.” *Cinema Journal Teaching Dossier*, Vol 1:2 (Spring/Summer 2013). Web. 
 
----. “The Rhetoric of Remix.” *Transformative Works and Culture* 9 (2012). Online. 
+--- “Teaching Transformativity/Transformative Teaching: Fair Use and the Video Essay.” Cinema Journal Teaching Dossier, Vol 1:2 (Spring/Summer 2013). Web. 
 
-Lauer, Claire. “What’s in a name? The Anatomy of Defining New/Multi/Modal/Digital/Media Texts,” *Kairos: A Journal of Rhetoric, Technology, and Pedagogy.* 17.1 (2009). Online.
+Shammas, Nadeem Persico & Simone Sessolo, “The Rhetoric of Memes,” *The JUMP*, (Issue 5.2), 2016. 
 
-Manovich, Lev. *The Language of New Media*. Cambridge: MIT Press, 2001. Print.
+The JUMP: Journal for Undergraduate Multimedia Projects
+[https://jumpplus.net/](jumpplus.net/)
 
-Tepper, Allegra. *Trials in Transmedia.* Scalar, *n.d*. Web.
+The Visual History Archive, USC Shoah Foundation. [https://sfi.usc.edu/vha/](sfi.usc.edu)
 
-Ulmer, Gregory. *Internet Invention: From Literacy to Electracy*. New York: Longman, 2002. Print.
+Vertical Feminist Collective, *Vertical Cinema Manifesto*, Video. Online. [www.youtube.com/watch?v=buHSJitp46w](https://www.youtube.com/watch?v=buHSJitp46w/)
+
+Wright, Leigh Landini. “Live from Your Palm: Experiments with Using the Periscope Live-Streaming Video App in a Journalism Class,” *The Journal of Interactive Technology and Pedagogy*, April, 2017
