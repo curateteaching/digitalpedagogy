@@ -118,7 +118,7 @@ To help her undergraduate learners develop their pronunciation skills, Lord’s 
 
 * Artifact Type: website 
 * Source URL: [http://sonnenallee.wikispaces.com/](http://sonnenallee.wikispaces.com/) 
-* Permissions: 
+* Permissions: CC BY-SA 3.0
 * Creator and Affiliation: [Lara Ducate](http://artsandsciences.sc.edu/dllc/german/faculty/facdocs/Lara_Ducate.html) (University of South Carolina) and [Nike Arnold](http://www.pdx.edu/linguistics/nike-arnold) (Portland State
 University)
 * Tags: Advanced; wiki
@@ -131,6 +131,7 @@ Wikis, which allow learners to write collaboratively in a document, have frequen
 
 * Artifact Type: website 
 * Source URL: [https://ecomma.coerll.utexas.edu/references/ ](https://ecomma.coerll.utexas.edu/references/ ) 
+* Permissions: CC BY 3.0
 * Creator and Affiliation: [Carl Blyth](http://liberalarts.utexas.edu/frenchitalian/faculty/profile.php?id=blythcs) (The University of Texas at Austin)
 * Tags: advanced; eComma
 
