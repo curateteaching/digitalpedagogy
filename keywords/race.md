@@ -150,7 +150,8 @@ Students can be tasked with exploring the CMS's functionality and reporting on i
 * Artifact Type: lesson plans
 * Source URL: https://saalt.org/wp-content/uploads/2013/06/InTheFaceOfXenophobia-Final-11.4.2013.pdf
 * Permissions: CC BY-NC-ND
-* Creator and Affiliation: South Asian Americans Leading Together (SAALT)
+* Copy of Artifact: [In the Face of Xenophobia](files/Race-In-the-Face-of-Xenophobia.pdf)
+* Creator and Affiliation: Dr. Monisha	Bajaj, Dr. Ameena Ghaffar-Kucher, Karishma	Desai, South Asian Americans Leading Together (SAALT)
 * Tags: getting started, curriculum
 
 This curriculum provides educators with a set of tools and lesson plans that can be utilized as part of an anti-racist pedagogy. It serves as a resource for addressing issues of racism, harassment, and bullying in the Trump era of heightened nationalism and white supremacy, allowing students to understand the historical origins of xenophobia, teaching them the meanings of key terms such as xenophobia, micro-aggressions, etc., while also putting emphasis on the under-represented community of South Asian Americans that has had a long history of xenophobic attacks, including in the last decade. The [South Asian American Digital Archive](https://www.saada.org) would be an excellent online repository for students to explore as part of the curriculum. 
