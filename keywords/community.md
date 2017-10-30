@@ -163,7 +163,7 @@ The Rural Immigration Network (RIN) is an online hub for people who seek to buil
 
 RIN is one of many projects, including the [German Iowa and the Global Midwest](http://germansiniowa.lib.uiowa.edu/), an online archive of Iowa's multicultural history; the [Immigration History Research Center](https://cla.umn.edu/ihrc), a University of Minnesota project dedicating to archiving past and present immigration stories; and [Between Two Worlds](https://pages.stolaf.edu/hmg/), exploring Hmong culture in Minnesota, that involves students in researching and publishing on local immigrant communities through digital media. For teaching materials geared towards k12 students on immigration history, see [Iowa History Connections](http://thestudio.uiowa.edu/iowa_history_connections/lessonplans/). 
 
-###Under the Banner of Waverley
+### Under the Banner of Waverley
 ![screenshot](images/community-waverley.png)
 
 * Type: mapping project
