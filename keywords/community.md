@@ -85,11 +85,11 @@ Collaborative editing turns the individual, introspective process of reading int
 
 This mapping project out of Augsburg University confronts a history of prejudice and segregation in Minneapolis, MN driven by the idea that "history is a powerful tool for community-building" and digital tools can give us new ways of interpreting and sharing that history. [Mapping Prejudice](https://www.mappingprejudice.org/), a spinoff from the main project, uses government documents and GIS technology to trace racially-restrictive deeds. Drawing heavily on student and community researchers, it is the winner of the 2015 Alice Smith Prize from the Midwestern History Association.  
 
-### IDEAL: http://ideal.uiowa.edu/projects/#iowa-narratives-project 
+### IDEAL
 ![screenshot](images/community-ideal.png) 
 
 * Type: lesson plans
-* Source URL: http://ideal.uiowa.edu/ 
+* Source URL: : http://ideal.uiowa.edu/projects/#iowa-narratives-project 
 * [IDEAL Lesson Plans](http://ideal.uiowa.edu/wp-content/uploads/sites/33/2017/02/The-IDEAL-Semester.pdf)
 * Creator: Matthew Gilchrist, The University of Iowa
 
