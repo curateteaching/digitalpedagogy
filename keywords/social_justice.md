@@ -187,6 +187,9 @@ Johnson, Amber L. and Toniesha L. (Original Creator, Robert Gutierrez-Perez). �
 
 Johnson, Andre. “The Prophetic Ministry of Bishop Henry McNeal Turner Syllabus.” 2017. PDF file.
 
+Lee, Wenshu. “The Desire to Know and to Love Is Never Too Small: My Musings on 
+Teaching and Social Justice.” *Social Justice and Communication Scholarship*, edited by Omar Swartz, Routledge, 2012, pp. 193–214.
+
 Moon, Dreama G. “Walk of Life - Power in Society.” 2015. PDF file.
 
 Ragsdale, Rhonda. “Saturday School.” funknbeans, http://funknbeans.com/category/saturdayschool. Accessed 11 December 2016.
@@ -195,6 +198,9 @@ Ragsdale, Rhonda. “Saturday School.” funknbeans, http://funknbeans.com/categ
 [http://funknbeans.com/category/saturdayschool/](http://funknbeans.com/category/saturdayschool/). Accessed 12 December 2016. 
 
 Risam, Roopika, micha cárdenas, Jeremy Boggs, Ashley Byock, Vinamarata Kaur, Joan Lubin, Emily Sessions, Danica Savonick, and Sveta Stoytcheva. “An Invitation Towards Social Justice in the Digital Humanities.” Social Justice and Digital Humanities, http://criticaldh.roopikarisam.com. Accessed 15 September 2017.
+
+Swartz, Omar. “Social Justice and the Challenge for Communication Studies.” *Social 
+Justice and Communication Scholarship*, edited by Omar Swartz, Routledge, 2012, pp. 1–20.
 
 Taylor, Toniesha L. “Advanced Writing for the Discipline Syllabus.” DrTonieshaLTaylor, http://www.drtonieshaltaylor.com/teaching. Accessed 11 December 2016. 
 
