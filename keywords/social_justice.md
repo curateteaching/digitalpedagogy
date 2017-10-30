@@ -1,4 +1,4 @@
- --- 
+--- 
 title: Digital Pedagogy in the Humanities
 subtitle: Concepts, Models, and Experiments 
 chapter: Social Justice
@@ -138,7 +138,7 @@ Professor Ragsdale’s #SaturdaySchool and #SoJust Twitter teach-in is an excell
 
 ## Radical Forgiveness--The Justice Fleet
 
-![screenshot](  )
+![screenshot](images/social_justice-radical-forgiveness.png)
 
 * Artifact Type: Activity
 * Source URL: [https://www.thejusticefleet.com/copy-of-home) 
@@ -150,11 +150,11 @@ For many scholars and activist notions of social justice include clear concepts 
 
 ## The Prophetic Ministry of Bishop Henry McNeal Turner Syllabus -- Dr. Andre Johnson
 
-![screenshot]( )
+![screenshot](images/social_justice-HMT-syllabus.png)
 * Artifact Type: Syllabus
 * Source URL: 
 * Artifact Permissions:
-* Copy of the Artifact: [ ]()
+* Copy of the Artifact: [The Prophetic Ministry of Bishop Henry McNeal Turner Syllabus](files/social_justice-HMT-syllabus.pdf)
 * Creator and Affiliation: Andre Johnson, The University of Memphis 
 
 Some digital archive projects are social justice projects in practice and context. One such project is Dr. Andre Johnson's digital archive the "The #HMTProject" focused on the writings and study of the 19th century African Methodist Episcopal Bishop Henry McNeal Turner. As a model of historical rhetoric and digital archive, the #HMTProject provide students a means to engage historical text in understanding Bishop Turner's use of the prophetic to embody social justice. Director Dr. Johnson along with his research team Kimberley Travers, Dianna Watkins-Dickerson, and James Morgan III digitized or provide links to over sixty writings, over twenty letters, ten books or manuscripts written by Bishop Turner.The artifact included here is Dr. Johnson's syllabus, focusing specifically on Sep. 21 contains embedded links and discussion questions as an example of how to engage students in debates on the practical use of texts within the historical context. 
