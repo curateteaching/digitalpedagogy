@@ -90,7 +90,7 @@ This mapping project out of Augsburg University confronts a history of prejudice
 
 * Type: lesson plans
 * Source URL: : http://ideal.uiowa.edu/projects/#iowa-narratives-project 
-* [file/community-ideal-teachingresources.pdf](file/community-ideal-teachingresources.pdf)
+* [files/community-ideal-teachingresources.pdf](files/community-ideal-teachingresources.pdf)
 * Creator: Matthew Gilchrist, The University of Iowa
 
 IDEAL is a collection of lesson plans and teaching materials geared towards integrating technology and community outreach into a required first-year course in rhetoric and composition at the University of Iowa. Units include the Iowa Narratives Project, which asks students to research and report on a public space in their local community through photography and interviews; Rhetoric in Knowledge Communities, which asks students to analyze an artifact from their local environment; and Embracing Complexity, which challenges students to confront stereotypes about Islamic cultures by investigating their contributions to the local community. 
@@ -102,7 +102,7 @@ The site includes lesson plans, class activities, example prompts, student hando
 
 * Type: assignment
 * Artifact Permissions: by permission of the author
-* [file/community_exploringDHprojects.pdf](file/community_exploringDHprojects.pdf)
+* [files/community_exploringDHprojects.pdf](files/community_exploringDHprojects.pdf)
 * Creator: Elizabeth Goodhue, UCLA
 
 In Elizabeth Goodhue’s Intro to Public Arts & Humanities course, undergraduate students spend a week discussing the intersection of community engagement and digital humanities. Students begin by reading Anne Burdick et al.’s [“A Short Guide to Digital Humanities”](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), emphasizing passages about how digital humanities redefines community and fosters a notion of “citizen scholars,” building on earlier readings like Gregory Jay’s [“The Engaged Humanities: Principles and Practices for Public Scholarship and Teaching”](http://jces.ua.edu/the-engaged-humanities-principles-and-practices-for-public-scholarship-and-teaching/). Goodhue also introduces students to a carefully curated list of scholarly projects that foreground the intersection of digital humanities and public humanities. The worksheet attached here, an adaptation of Brian Croxall’s [project evaluation assignment](http://www.briancroxall.net/dh/assignments/digital-humanities-project-evaluation/), guides small and large group discussion. 
@@ -113,7 +113,7 @@ In Elizabeth Goodhue’s Intro to Public Arts & Humanities course, undergraduate
 * Type: syllabus
 * Source URL: [https://musicalgeography.org/](https://musicalgeography.org/) 
 * Artifact Permissions: by permission of the author
-* [file/community-musicalgeography-syllabus.pdf](file/community-musicalgeography-syllabus.pdf)
+* [files/community-musicalgeography-syllabus.pdf](files/community-musicalgeography-syllabus.pdf)
 * Creator: Louis Epstein, St. Olaf College
 
 Musical Geography uses digital mapping technology to study music and musicians in particular communities of time and space, inviting students to contribute to crowdsourced topics or develop their own research interests. An example of place-based digital pedagogy that fundamentally changes the research process, it also includes reflective practice through student blogs. 
@@ -136,7 +136,7 @@ Similarly, [CurateScape](https://curatescape.org/) is an open-source framework t
 
 * Type: syllabus
 * Artifact Permissions: by permission of the author
-* [file/community-passport-syllabus.pdf](file/community-passport-syllabus.pdf)
+* [files/community-passport-syllabus.pdf](files/community-passport-syllabus.pdf)
 * Creator: Jon Winet, The University of Iowa
 
 The Passport Project is an innovative first-year course that asks students to blog about community events representing the arts, humanities, sciences, along with political events and performances in dance, theater, and music. Peer Mentors, recent graduates of the program, lead small group discussions. The course could be easily adapted to a variety of technological platforms and communities, and encourages students to identify, early on, not only as members of the campus community but also the broader local community.
