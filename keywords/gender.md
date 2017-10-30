@@ -51,6 +51,7 @@ With this wide-ranging capacity in mind, the artifacts brought together here off
 * Source URL: [http://limitsoflife.spokorn.com/blog/uncategorized/decolonizinglatevictorianbiopoliticsassignment/](http://limitsoflife.spokorn.com/blog/uncategorized/decolonizinglatevictorianbiopoliticsassignment/)
 * Artifact Permissions: CC BY 4.0
 * Creator and Affiliation: Steven Pokornowski (Rio Hondo College)
+* Copy of Artifact: [gender-decolonizing-biopolitics-assignment.pdf](files/gender-decolonizing-biopolitics-assignment.pdf)
 
 [Digitizing Chinese Englishmen](http://chineseenglishmen.adelinekoh.org/) is an early-stage digital archive project by Adeline Koh (Stockton University), which digitizes the Straits Chinese Magazine, a journal published by diasporic Chinese in Southeast Asia at the turn of the 20th century. Steven Pokornowski here offers an example of how teachers can use this repository of primary texts to teach about gender, race, colonial politics, and biopolitics in the late Victorian Era. Juxtaposing the archive alongside the canonical text, *Dracula*, he provides context and theoretical framing to situate the novels as it relates to colonialism, imperialism, and race, as the “Victorian Chinesemen” at the heart of the publication present a complex portrait of precarious power in Imperial Britain. This  exercise builds on skills students are already learning in their class, but it broadens the canon and thus allows students to interrogate the production of gender and race within the British Empire. 
 
@@ -60,6 +61,7 @@ With this wide-ranging capacity in mind, the artifacts brought together here off
 * Source URL: [http://kimknight.com/?p=2385](http://kimknight.com/?p=2385)
 * Artifact Permissions: Copyright kimknight.com 
 * Creator and Affiliation: Kim Knight (UT Dallas)
+* Copy of Artifact: none
 
 One difficulty of gender studies classes is in rendering visible the invisibility of gender bias. Kim Knight (UT Dallas) asks students to perform a gender hack using two digital tools--[Regender](http://regender.com/) and [Jailbreak the Patriarchy](https://chrome.google.com/webstore/detail/jailbreak-the-patriarchy/fiidcfoaaciclafodoficaofidfencgd?hl=en-US), two web-based tools that swap gender pronouns on existing websites and  publications--to reveal gender bias in language, open up space to unpack gender binaries, and to reflect upon other forms of bias (Ka Ping Yee, Sucher). Knight asks students link the results of their gender hacking to the work of Jill Walker Rettberg, Anne Balsamo, and others and pushes students to evaluate the "implicit ideologies" embedded in our technologies. These tools reveal how code can be used to challenge built-in assumptions of the web and the cultural values expressed in web content. Knight also offers recommendations for expanding upon the assignment with a gender remixing activity using the [http://www.genderremixer.com/about/](http://www.genderremixer.com/about/), which uses humor to highlight binary gender norms, and shares recommendations for connecting these activities to experiments done by women and women of color online (Twitter avatar swap, performing gender in online dating, etc.).
 
@@ -69,6 +71,7 @@ One difficulty of gender studies classes is in rendering visible the invisibilit
 * Source URL: [http://femtechnet.org/docc/feminist-mapping/situated-knowledge-map/](http://femtechnet.org/docc/feminist-mapping/situated-knowledge-map/)
 * Artifact Permissions: CC BY-NC 4.0
 * Creator and Affiliation: TL Cowan (University of Toronto), K. Surkan (MIT), and Laura Wexler (Yale)
+* Copy of Artifact: none
 
 According to FemTechNet the "Situated Knowledges Map is an experiment in thinking about the relationship between space, place, mobility and knowledge production and circulation. By marking locations of significance to ourselves, we hope to get a sense of where we are coming from across the FemTechNet world." The assignment page includes a bibliography and uses Google Maps Engine to create a collaborative map where students drop annotated pins with reflections about the place with particular emphasis to how the place helped the individual come to understand keywords such as "power, class, gender, sex, assigned sex, race" or "migrant knowledges". The mapping activity hacks a commercial mapping platform for transformative and collective knowledge production works to link learning that is occurring in geographically disparate locations, while the collective mapping encourages participants to engage with the situated of knowledge of others. 
 
@@ -81,6 +84,7 @@ According to FemTechNet the "Situated Knowledges Map is an experiment in thinkin
 * Source URL: [http://chicanapormiraza.org/mujeres](http://chicanapormiraza.org/mujeres)
 * Artifact Permissions: Copyright María Cotera used with permission
 * Creator and Affiliation: María Cotera, University of Michigan
+* Copy of Artifact: [gender-biocuration-assignment.pdf](files/gender-biocuration-assignment.pdf)
 
 A major hurdle for digital humanities projects, especially those documenting marginal communities and using feminist and community-centered practices, is sustainability. María Cotera, the director of the Chicana Por Mi Raza digital archive of Chicana feminism, tackles this problem by incorporating the archive into her class in the form of a Biography and Digital Curation Assignment. In the "Biocuration" assignment, Cotera asks students to engage directly with the archive and create new content based on its collections. As part of the project, students conduct research in the closed archive and then create biographical and historical content for a website that publically represents the archive. According to Cotera, the public site therefore acts as a "staging zone for knowledge produced using materials from the archive." Students therefore become important contributors to a public digital history project and produce public scholarship accessible to larger communities and publics.
 
@@ -90,6 +94,7 @@ A major hurdle for digital humanities projects, especially those documenting mar
 * Source URL: [http://dcc106sp15.queergeektheory.org/requirements/projects/unit-2-project-detailed-expectations/](http://dcc106sp15.queergeektheory.org/requirements/projects/unit-2-project-detailed-expectations/)
 * Artifact Permissions: Copyright Alexis Lothian
 * Creator and Affiliation: Alexis Lothian (University of Maryland College Park)
+* Copy of Artifact: none
 
 For individuals already immersed in digital life, it can be very difficult to objectively evaluate their social networks, let alone the role gender plays in that social network. In the "Social Media and Social Justice" unit of her Gender, Race, and Labor in the Digital Worlds course, Alexis Lothian asks her students to test the limits and boundaries of their social networks, document their experiments, and reflect upon their digital activities within larger social structures. Designed as a larger research project where students must determine their research topics, questions, and methods, students were given enormous freedom to evaluate their relationship to social media. This project could be remixed to evaluate online gaming networks such as [Fat, Ugly or Slutty](http://fatuglyorslutty.com/), a blog that documents the very gender-specific harassment that women gamers tend to receive, or communities such as those cohering around Facebook groups.
 
@@ -98,6 +103,7 @@ For individuals already immersed in digital life, it can be very difficult to ob
 * Artifact Type: Assignment 
 * Source URL: [http://www.digitalrhetoriccollaborative.org/2015/05/07/women-writing-in-digital-spaces-engaging-gamergate-and-twine-in-the-gender-studies-composition-course/](http://www.digitalrhetoriccollaborative.org/2015/05/07/women-writing-in-digital-spaces-engaging-gamergate-and-twine-in-the-gender-studies-composition-course/)
 * Creator and Affiliation: Sarah Einstein (University of Tennessee at Chattanooga) and Matthew Vetter (Indiana University of Pennsylvania)
+* Copy of Artifact: [gender-twinegame-project.pdf](files/gender-twinegame-project.pdf)
 
 This group project asks students to create a choose-your-own adventure game that engages "gender politics, identity, and narrative in the writing classroom" using [Twine](http://twinery.org/). Students propose an original game addressing a gender studies issue, perform research, then develop a game. The purpose of the assignment is to create a narrative that reveals the complexity of potential danger of gender related issues in a navigable text where players can make choices and reach different outcomes. This assignment can also be adapted to a range of gender studies topics including trans narratives, which are exemplified in the work of Merritt Kopas, who curated such a selection in ["TransWomen & the New Hypertext"](https://www.lambdaliterary.org/features/07/08/trans-women-the-new-hypertext/), or genre narratives as anna anthropy has demonstrates with her own queer horror and science fiction twine games [http://www.auntiepixelante.com/games/](http://www.auntiepixelante.com/games/).
 
@@ -107,6 +113,7 @@ This group project asks students to create a choose-your-own adventure game that
 * Source URL: [http://femtechnet.org/docc/feminist-wiki-storming/](http://femtechnet.org/docc/feminist-wiki-storming/)
 * Artifact Permissions: CC BY-NC 2.0
 * Creator and Affiliation: Elizabeth Losh (William & Mary)
+* Copy of Artifact: [gender-FTNwikistorming-assignment.docx](files/gender-FTNwikistorming-assignment.docx)
 
 Feminist Wikipedians, led initially by Adrianne Wadewitz, have been organizing edit-a-thons to train women, queer communities, and people of color to edit Wikipedia to address gender and racial bias. Wadewitz worked with the WikiEd Foundation and FemTechNet to develop a collection of assignments and teaching materials collected as part of the [http://femtechnet.org/docc/feminist-wiki-storming/](http://femtechnet.org/docc/feminist-wiki-storming/). Here, we have an example of a smaller assignment focused around a course text. The assignment asks students to become familiar with Wikipedia as a platform, become proficient in writing in an encyclopedic style, and learn to author an entry that passes Wikipedia standards, while also being critical of Wikipedia's flaws. Elsewhere, the assignment has been adapted by FemTechNet to include critical questions about gender bias, inclusion and deletion debates in Wikipedia. Other artifacts in the  collection include learning objectives, sample assignments, an assignment builder, and tutorials. 
 
@@ -117,6 +124,7 @@ Feminist Wikipedians, led initially by Adrianne Wadewitz, have been organizing e
 * Artifact Type: Syllabus
 * Source URL: [http://scalar.usc.edu/works/ftn-ethnic-studies-pedagogy-workbook-/networked-activities](http://scalar.usc.edu/works/ftn-ethnic-studies-pedagogy-workbook-/networked-activities)
 * Creator and Affiliation: Sharon Irish (University of Illinois Urbana-Champaign)
+* Copy of Artifact: [gender-FTNDOCC Syllabus-Irish.docx](files/gender-FTNDOCC Syllabus-Irish.docx)
 
 FemTechNet describes itself as “an activated network of scholars, artists, and students working on, with, and at the borders of technology, science, and feminism in a variety of fields including Science & Technology Studies (STS), Media and Visual Studies, Art, Gender, Queer, and Ethnic Studies.” The network’s biggest project is its Distributed Open Collaborative Course (DOCC). Sharon Irish’s syllabus is a graduate iteration (more syllabi can be found in the [FTN Critical Race and Ethnic Studies Pedagogy Workbook](http://scalar.usc.edu/works/ftn-ethnic-studies-pedagogy-workbook-/)) taught at UIUC and exemplifies the nodal DOCC course which incorporates connected digital learning activities about gender, feminism and technology. Most importantly it models feminist flexibility and situated knowledge by linking students to another node (here, a course taught by Dr. Maria-Belén Ordóñez at OCADU), which allows geographically disparate students to interact and co-learn using the network's collaboratively created and curated materials, such as video dialogues and networked learning activities.
 
@@ -125,6 +133,7 @@ FemTechNet describes itself as “an activated network of scholars, artists, and
 * Artifact Type: Assignment
 * Source URL: [http://teaching.diglibarts.whittier.domains/wp-content/uploads/2017/09/Final-Project-Guidelines3.pdf](http://teaching.diglibarts.whittier.domains/wp-content/uploads/2017/09/Final-Project-Guidelines3.pdf)
 * Creator and Affiliation: Laura McEnaney (Whittier College), Sonia Chaidez (Whittier College)
+* Copy of Artifact: [gender-digitalstorytelling-assignment.pdf](files/gender-digitalstorytelling-assignment.pdf)
 
 Professor of US history, Laura McEnaney, in collaboration with Sonia Chaidez and Kathy Filatreau, adapted [StoryCenter’s](https://www.storycenter.org/) digital storytelling framework to  to develop a critical self-reflexive multimedia course assignment for a gender studies and history course on the Modern Family. This assignment asks students to connect course content (around courtship, marriage, and birthing practices) to personal experience to produce a critical video essay. An exercise in research, contextualization, feedback , and revision, this project can be adapted to produce content for archival projects, oral history projects, museum exhibits, or other community-based digital collections. Most importantly, this project is included here because of its potential value in creating a non-hierarchical and democratic feminist classroom, accomplished through feedback sessions, or story circles. 
 
@@ -134,6 +143,7 @@ Professor of US history, Laura McEnaney, in collaboration with Sonia Chaidez and
 * Source URL: [https://thesocietypages.org/socimages/course-guide-for-sociology-of-gender/](https://thesocietypages.org/socimages/course-guide-for-sociology-of-gender/)
 * Artifact Permissions: Attribution-NonCommercial-ShareAlike 3.0 United States
 * Creator and Affiliation: Mary Nell Trautner (University at Buffalo, SUNY)
+* Copy of Artifact: none
 
 Sociological Images is an open-access social science project curated by Lisa Wade (Occidental College. In it Wade shares a collection of resources to help teach and build analytical skills, particularly to develop the “sociological imagination.” The materials gathered include a sociological blog; a Pinterest board that curates over 14,500 images from advertisements, pop culture, and other visual culture with blog-length analyses and discussions; course guides; and more. Amongst these resources, Mary Nell Trautner's expansive "Course Guide for Sociology of Gender" is an especially helpful resource that collects important Society Pages posts that can be used to teach gender studies. The collection follows the general structure of a sociology course on gender and includes pages organized thematically around such topics as the social construction of gender and current topics such as gender in sports, which can be used and inserted in gender studies courses or units as needed.
 
