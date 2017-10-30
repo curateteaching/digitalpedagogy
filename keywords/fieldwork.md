@@ -21,7 +21,7 @@ type: book
 
 # Fieldwork
  
-### Colette Colligan, Michelle Levy, and Abdul Zahir
+### Colette Colligan, Michelle Levy and Abdul Zahir
 Simon Fraser University
 
 ---
