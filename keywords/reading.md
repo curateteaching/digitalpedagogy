@@ -8,7 +8,7 @@ author:
   given: Rachel Sagner
 editor:
 - family: Gold
-  given: Matthew
+  given: Matthew K.
 publisher: Modern Language Association
 type: book
 ---
