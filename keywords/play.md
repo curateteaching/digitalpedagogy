@@ -158,6 +158,7 @@ Literature and Gaming is an undergraduate course at UC-Santa Barbara taught by D
 ![screenshot](images/play-metagames.png)
 * Artifact Type: Syllabus
 * Source URL: [http://stephanieboluk.com/teaching/HMS540F13/blog/?page_id=2](http://stephanieboluk.com/teaching/HMS540F13/blog/?page_id=2)
+* Copy of Artifact: [play-Boluk_LeMieux-Metagaming_Syllabus.pdf](files/play-Boluk_LeMieux-Metagaming_Syllabus.pdf)
 * Creator: Stephanie Boluk & Patrick LeMieux (University of California-Davis) 
 * Tags: avant-garde, games, postmodernism
 
