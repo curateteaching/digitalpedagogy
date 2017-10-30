@@ -1,0 +1,374 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<base href="http://3844s13.quinnwarnick.com" />
+
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>  Unit #3: Multimodal Rhetorical Analysis</title>
+
+
+
+
+
+<link rel='stylesheet' id='pinboard-web-font-css'  href='http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,regular,italic,600,600italic&#038;subset=latin' type='text/css' media='all' />
+<link rel='stylesheet' id='pinboard-css'  href='http://3844s13.quinnwarnick.com/wp-content/themes/engl3844s13/style.css' type='text/css' media='all' />
+<link rel='stylesheet' id='colorbox-css'  href='http://3844s13.quinnwarnick.com/wp-content/themes/engl3844s13/styles/colorbox.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelementplayer-css'  href='http://3844s13.quinnwarnick.com/wp-content/themes/engl3844s13/styles/mediaelementplayer.css' type='text/css' media='all' />
+	<!--[if lt IE 9]>
+	<script src="http://3844s13.quinnwarnick.com/wp-content/themes/engl3844s13/scripts/html5.js" type="text/javascript"></script>
+	<![endif]-->
+<script type='text/javascript' src='http://3844s13.quinnwarnick.com/wp-content/themes/engl3844s13/scripts/ios-orientationchange-fix.js'></script>
+<script type='text/javascript' src='http://3844s13.quinnwarnick.com/wp-includes/js/jquery/jquery.js?ver=1.8.3'></script>
+<script type='text/javascript' src='http://3844s13.quinnwarnick.com/wp-content/themes/engl3844s13/scripts/jquery.flexslider-min.js'></script>
+<script type='text/javascript' src='http://3844s13.quinnwarnick.com/wp-content/themes/engl3844s13/scripts/fitvids.js'></script>
+<script type='text/javascript' src='http://3844s13.quinnwarnick.com/wp-content/themes/engl3844s13/scripts/mediaelement.js'></script>
+<script type='text/javascript' src='http://3844s13.quinnwarnick.com/wp-content/themes/engl3844s13/scripts/mediaelementplayer.js'></script>
+<script type='text/javascript' src='http://3844s13.quinnwarnick.com/wp-content/themes/engl3844s13/scripts/colorbox.js'></script>
+<script type='text/javascript' src='http://3844s13.quinnwarnick.com/wp-includes/js/comment-reply.min.js?ver=3.5.1'></script>
+
+ 
+
+<link rel='next' title='Unit #4: Online Advocacy Project' href='http://3844s13.quinnwarnick.com/unit4/' />
+
+<link rel='canonical' href='http://3844s13.quinnwarnick.com/unit3/' />
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-5038283-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<script>
+/* <![CDATA[ */
+	jQuery(document).ready(function($) {
+		$('#access .menu > li > a').each(function() {
+			var title = $(this).attr('title');
+			if(typeof title !== 'undefined' && title !== false) {
+				$(this).append('<br /> <span>'+title+'</span>');
+				$(this).removeAttr('title');
+			}
+		});
+		function pinboard_move_elements(container) {
+			if( container.hasClass('onecol') ) {
+				var thumb = $('.entry-thumbnail', container);
+				if('undefined' !== typeof thumb)
+					$('.entry-container', container).before(thumb);
+				var video = $('.entry-attachment', container);
+				if('undefined' !== typeof video)
+					$('.entry-container', container).before(video);
+				var gallery = $('.post-gallery', container);
+				if('undefined' !== typeof gallery)
+					$('.entry-container', container).before(gallery);
+				var meta = $('.entry-meta', container);
+				if('undefined' !== typeof meta)
+					$('.entry-container', container).after(meta);
+			}
+		}
+		function pinboard_restore_elements(container) {
+			if( container.hasClass('onecol') ) {
+				var thumb = $('.entry-thumbnail', container);
+				if('undefined' !== typeof thumb)
+					$('.entry-header', container).after(thumb);
+				var video = $('.entry-attachment', container);
+				if('undefined' !== typeof video)
+					$('.entry-header', container).after(video);
+				var gallery = $('.post-gallery', container);
+				if('undefined' !== typeof gallery)
+					$('.entry-header', container).after(gallery);
+				var meta = $('.entry-meta', container);
+				if('undefined' !== typeof meta)
+					$('.entry-header', container).append(meta);
+				else
+					$('.entry-header', container).html(meta.html());
+			}
+		}
+		if( ($(window).width() > 960) || ($(document).width() > 960) ) {
+			// Viewport is greater than tablet: portrait
+		} else {
+			$('#content .post').each(function() {
+				pinboard_move_elements($(this));
+			});
+		}
+		$(window).resize(function() {
+			if( ($(window).width() > 960) || ($(document).width() > 960) ) {
+									$('.page-template-template-full-width-php #content .post, .page-template-template-blog-full-width-php #content .post, .page-template-template-blog-four-col-php #content .post').each(function() {
+						pinboard_restore_elements($(this));
+					});
+							} else {
+				$('#content .post').each(function() {
+					pinboard_move_elements($(this));
+				});
+			}
+			if( ($(window).width() > 760) || ($(document).width() > 760) ) {
+				var maxh = 0;
+				$('#access .menu > li > a').each(function() {
+					if(parseInt($(this).css('height'))>maxh) {
+						maxh = parseInt($(this).css('height'));
+					}
+				});
+				$('#access .menu > li > a').css('height', maxh);
+			} else {
+				$('#access .menu > li > a').css('height', 'auto');
+			}
+		});
+		if( ($(window).width() > 760) || ($(document).width() > 760) ) {
+			var maxh = 0;
+			$('#access .menu > li > a').each(function() {
+				var title = $(this).attr('title');
+				if(typeof title !== 'undefined' && title !== false) {
+					$(this).append('<br /> <span>'+title+'</span>');
+					$(this).removeAttr('title');
+				}
+				if(parseInt($(this).css('height'))>maxh) {
+					maxh = parseInt($(this).css('height'));
+				}
+			});
+			$('#access .menu > li > a').css('height', maxh);
+							$('#access li').mouseenter(function() {
+					$(this).children('ul').css('display', 'none').stop(true, true).fadeIn(250).css('display', 'block').children('ul').css('display', 'none');
+				});
+				$('#access li').mouseleave(function() {
+					$(this).children('ul').stop(true, true).fadeOut(250).css('display', 'block');
+				});
+					} else {
+			$('#access li').each(function() {
+				if($(this).children('ul').length)
+					$(this).append('<span class="drop-down-toggle"><span class="drop-down-arrow"></span></span>');
+			});
+			$('.drop-down-toggle').click(function() {
+				$(this).parent().children('ul').slideToggle(250);
+			});
+		}
+						$('audio,video').mediaelementplayer({
+			videoWidth: '100%',
+			videoHeight: '100%',
+			audioWidth: '100%',
+			alwaysShowControls: true,
+			features: ['playpause','progress','tracks','volume'],
+			videoVolume: 'horizontal'
+		});
+		$(".entry-attachment, .entry-content").fitVids({ customSelector: "iframe, object, embed"});
+	});
+	jQuery(window).load(function() {
+					jQuery('.entry-content a[href$=".jpg"],.entry-content a[href$=".jpeg"],.entry-content a[href$=".png"],.entry-content a[href$=".gif"],a.colorbox').colorbox();
+			});
+/* ]]> */
+</script>
+<style type="text/css">
+			#header input#s {
+			width:168px;
+			box-shadow:inset 1px 1px 5px 1px rgba(0, 0, 0, .1);
+			text-indent: 0;
+		}
+								#access {
+			background: #7a0000;
+		}
+				#access a:hover,
+		#access li.current_page_item > a,
+		#access li.current-menu-item > a {
+			background: #4c0000;
+		}
+							#footer-area {
+			background: #b2b3b3;
+		}
+				#copyright {
+			background: #b2b3b3;
+		}
+							h1, h2, h3, h4, h5, h6 {
+				font-family:"Open Sans", sans-serif;
+			}
+								body {
+			font-size:15.00px;
+			line-height:1.62em;
+		}
+				h1,
+		.single .entry-title,
+		.page .entry-title,
+		.error404 .entry-title {
+			font-size:28.00px;
+			line-height:1.62em;
+		}
+				h2,
+		.entry-title {
+			font-size:26.00px;
+			line-height:1.62em;
+		}
+				h3,
+		.teaser .entry-title {
+			font-size:22.00px;
+			line-height:1.62em;
+		}
+										h1, h2, h3, h4, h5, h6,
+			.entry-title,
+			.entry-title a {
+				color:#ff6600;
+			}
+								a {
+			color:#1883c3;
+		}
+				a:hover {
+			color:#ff6600;
+		}
+						#sidebar,
+		#sidebar-left,
+		#sidebar-right {
+			color:#333;
+		}
+				.widget-title {
+			color:#ff6600;
+		}
+				.widget-area a {
+			color:#1883c3;
+		}
+				#footer-area {
+			color:#333;
+		}
+					#copyright {
+			color:#333;
+		}
+				#copyright a {
+			color:#f0f0f0;
+		}
+		.entry-summary p {
+margin-bottom: 24px;
+}
+
+/* #access ul {
+font-weight:400;
+}
+
+#site-title {
+font-size: 12px;
+} */</style>
+<style type="text/css">
+	#site-title a,
+	#site-description {
+		color:#d54e21;
+	}
+</style>
+<style type="text/css" id="custom-background-css">
+body.custom-background { background-color: #9ea9b0; background-image: url('http://3844s13.quinnwarnick.com/files/2013/06/bright_squares_@2X.png'); background-repeat: repeat; background-position: top left; background-attachment: fixed; }
+</style>
+</head>
+
+<body class="page page-id-132 page-template-default custom-background">
+
+<p style="margin: 0; padding: 10px; background-color: #eee; border-bottom: 1px solid #ccc; color: #444; font: 12px/120% Helvetica, Arial, sans-serif; text-align: center;"><strong>Warning:</strong> This is an archived course website that is part of my <a href="http://quinnwarnick.com/teaching" style="color: #f60; text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'">teaching portfolio</a>, so some links may no longer work. Please <a href="http://quinnwarnick.com/contact" style="color: #f60; text-decoration: none;" onmouseover="this.style.textDecoration = 'underline'" onmouseout="this.style.textDecoration = 'none'">contact me</a> with any questions about this site.</p>
+
+	<div id="wrapper">
+		<header id="header">
+			<div id="site-title">
+								<a class="home" href="http://3844s13.quinnwarnick.com/" rel="home">Writing &amp; Digital Media</a>
+			</div>
+							<div id="site-description"></div>
+							<form role="search" method="get" id="searchform" action="http://3844s13.quinnwarnick.com//" >
+	<input type="text" value="" placeholder="Search this website&#8230;" name="s" id="s" />
+	<input type="submit" id="searchsubmit" value="Search" />
+</form>				<div class="clear"></div>
+			<nav id="access">
+				<a class="nav-show" href="#access">Show Navigation</a>
+				<a class="nav-hide" href="#nogo">Hide Navigation</a>
+				<div class="menu-custom-nav-container"><ul id="menu-custom-nav" class="menu"><li id="menu-item-25" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-25"><a href="/">Home</a></li>
+<li id="menu-item-22" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="http://3844s13.quinnwarnick.com/policies/">Policies</a></li>
+<li id="menu-item-21" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-21"><a href="http://3844s13.quinnwarnick.com/assignments/">Assignments</a>
+<ul class="sub-menu">
+	<li id="menu-item-304" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-304"><a href="http://3844s13.quinnwarnick.com/unit1/">Video Narrative</a></li>
+	<li id="menu-item-349" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-349"><a href="http://3844s13.quinnwarnick.com/unit2/">Tap Essay</a></li>
+	<li id="menu-item-378" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-132 current_page_item menu-item-378"><a href="http://3844s13.quinnwarnick.com/unit3/">Multimodal Rhetorical Analysis</a></li>
+	<li id="menu-item-377" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-377"><a href="http://3844s13.quinnwarnick.com/unit4/">Online Advocacy Project</a></li>
+</ul>
+</li>
+<li id="menu-item-20" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20"><a href="http://3844s13.quinnwarnick.com/tweets/">Tweets</a></li>
+<li id="menu-item-19" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-19"><a href="http://3844s13.quinnwarnick.com/resources/">Resources</a></li>
+<li id="menu-item-18" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-18"><a href="http://3844s13.quinnwarnick.com/contact/">Contact</a></li>
+</ul></div>				<div class="clear"></div>
+			</nav><!-- #access -->
+		</header><!-- #header -->		<div id="container">
+		<section id="content" class="column twothirdcol">
+							<article class="post-132 page type-page status-publish hentry column onecol" id="post-132">
+					<div class="entry">
+						<header class="entry-header">
+							<h1 class="entry-title">Unit #3: Multimodal Rhetorical Analysis</h1>
+						</header><!-- .entry-header -->
+						<div class="entry-content">
+							<p><strong>(Worth 20% of your grade; due on April 22)</strong></p>
+<h2>Overview</h2>
+<p>We live in a world of messages, appeals, arguments, claims, agendas, pleading, persuading, and other communicative efforts. Rhetorical analysis is a central method for understanding this world of messages and for sharpening your evaluative and critical abilities. Simply stated, rhetorical analysis is the process of closely examining an artifact (the remnant of some communicative event) to determine the choices made in composing the message and then to evaluate those choices.</p>
+<p>To strengthen your work on the <a href="/unit4" title="Online Advocacy Project">Online Advocacy Project</a>, this assignment asks you to conduct an individual analysis of an existing online advocacy project. You will share your analysis with the other members of the class, and all of us will work together to create a set of &#8220;best practices&#8221; for developing and promoting advocacy projects on the web.</p>
+<h2>Selecting a Topic</h2>
+<p>The following topics, taken from our reading assignments, are all &#8220;pre-approved&#8221;:</p>
+<ul>
+<li><a href="http://rollingjubilee.org/">Rolling Jubilee</a></li>
+<li><a href="http://www.fixmystreet.com/">FixMyStreet</a></li>
+<li><a href="http://sopastrike.com/">SOPA Strike</a></li>
+<li><a href="http://internetdefenseleague.org/">Internet Defense League</a></li>
+<li><a href="http://www.savestadiumwoods.com/">Save Stadium Woods</a></li>
+<li><a href="http://www.eatdowntipup.com/">#EatDownTipUp</a></li>
+<li><a href="http://www.rootstrikers.org/">Rootstrikers</a></li>
+<li><a href="http://www.charitywater.org/">Charity: Water</a></li>
+<li><a href="http://freerice.com/">Free Rice</a></li>
+<li><a href="http://www.itgetsbetter.org/">It Gets Better</a></li>
+<li><a href="http://www.caringacrossgenerations.org/">Caring Across Generations</a></li>
+<li><a href="http://www.kiva.org/">Kiva</a></li>
+<li><a href="https://www.zidisha.org/">Zidisha</a></li>
+<li><a href="http://openstates.org/">Open States</a></li>
+<li><a href="http://www.demandaction.org/">Demand Action to End Gun Violence</a></li>
+<li><a href="http://www.upworthy.com/">Upworthy</a></li>
+</ul>
+<p>If you would like to analyze an advocacy project that is not on this list, that&#8217;s fine, too. As long as you can demonstrate that the organization you have in mind is actively using the internet to accomplish its goals, you will have my blessing. On Wednesday, April 3, you should come to class with a list of four sites (in ranked order) that you would be willing to analyze for this project. I will compile everyone&#8217;s choices and announce the final assignments later that day.</p>
+<h2>Conducting Your Analysis</h2>
+<p>Once you have selected an advocacy project to analyze, you should immerse yourself in the organization&#8217;s various content streams. Read as much of the group&#8217;s website as possible, watch any related videos (either on the site itself, or on a third-party site like YouTube), and follow the organization on Twitter, Tumblr, Facebook, Google+, and other social media sites. As you take in all of these streams, capture anything that seems like it might be useful later on — e.g., take screenshots of pages you might be able to analyze, download videos, save HTML pages to your computer. To keep these materials organized, carefully label everything you collect by including the URL and time/date of collection. </p>
+<p>As you observe the organization in action, you will begin to notice specific patterns and strategies used by the group to persuade readers/watchers/visitors. Your analysis of these persuasive strategies will form the foundation of your paper. We will discuss specific strategies for conducting rhetorical analysis in class, but the following questions might help you get started with your analysis:</p>
+<ul>
+<li>What is the background and context of the advocacy project? How did it get started?</li>
+<li>Who runs the organization? Does the organization have any ties to political or business interests?</li>
+<li>What is the organization&#8217;s motivation? What does this project hope to accomplish?</li>
+<li>How does the organization attempt to persuade its audience? Does the project rely most heavily on logos, pathos, or ethos? Why do you think this is so?</li>
+<li>What types of tropes (similes, metaphors, irony, etc.) does the organization use? How are these devices typically used?</li>
+<li>How does the organization make use of non-textual media (images, video, etc.) to advance its cause? </li>
+<li>What role does social media play in this organization&#8217;s efforts? How successfully has the organization connected with potential supporters using Facebook, Twitter, Tumblr, Google+, etc.? </li>
+</ul>
+<p>Your finished paper should be roughly 1,200 words long (shorter than 1,000 is a problem; longer than 1,500 is a problem), and it should contain at least three screenshots, appropriately captioned and annotated. Your paper should include a traditional &#8220;Works Cited&#8221; page, but perhaps more importantly in this venue, it should include hyperlinks to outside sources.</p>
+<h2>Submitting Your Analysis</h2>
+<p>This assignment is due before you come to class on Monday, April 22. To submit your analysis, place your finished document inside your Google Drive folder that is shared with me (e.g., &#8220;John Doe &#8211; 3844 Shared&#8221;). Any additional materials related to your analysis should be clearly labeled and also placed in that folder (or a subfolder).</p>
+<h2>Evaluation Criteria</h2>
+<p>I will evaluate your paper using the following criteria:</p>
+<ul>
+<li>Does the paper analyze, not just summarize, the organization you have chosen? Does the analysis address both textual and non-textual elements?</li>
+<li>Does the paper make clear, substantive, focused claims about how the organization uses rhetorical strategies to persuade audience members to think, feel, believe and/or do something? </li>
+<li>Does the paper support its claims with well-chosen examples and reasons?</li>
+<li>Is the paper organized logically and coherently?</li>
+<li>Does the essay include at least three images related to the project you are analyzing? Do the images feature helpful annotations and descriptive captions? Do the images strengthen the written analysis?</li>
+<li>Does the paper answer the &#8220;so what?&#8221; question? (In other words, what difference does it make now that you&#8217;ve conducted your analysis?)</li>
+<li>Does the essay adhere to the conventions of standard written English (grammar, spelling, punctuation, etc.)?</li>
+</ul>
+							<div class="clear"></div>
+						</div><!-- .entry-content -->
+											</div><!-- .entry -->
+					
+
+												</article><!-- .post -->
+					</section><!-- #content -->
+					<div id="sidebar" class="column threecol">
+		<div id="sidebar-top" class="widget-area" role="complementary">
+		<div class="column onecol"><aside id="text-2" class="widget widget_text"><h3 class="widget-title">Where am I?</h3>			<div class="textwidget">This is the class website for English 3844: Writing and Digital Media, taught by <a href="http://quinnwarnick.com" title="Dr. Warnick's website">Quinn Warnick</a> at <a href="http://www.vt.edu" title="Virginia Tech's website">Virginia Tech</a> in spring 2013.</div>
+		</aside><!-- .widget --></div><div class="column onecol"><aside id="text-3" class="widget widget_text"><h3 class="widget-title">Worthwhile Reading</h3>			<div class="textwidget">The links below are the most recent additions to my collection of bookmarks that are relevant to this course. You can find a complete list of ENGL 3844 bookmarks on <a href="http://pinboard.in/u:warnick/t:3844/" title="Dr. Warnick's Writing and Digital Media bookmarks">Pinboard</a>.<br /><br />
+
+<ul class="pboard"><li class="pboard-item"><a href="http://www.nytimes.com/2013/06/09/opinion/sunday/how-not-to-be-alone.html?ref=todayspaper&pagewanted=all&_r=1&" class="pboard-link">How Not to Be Alone</a><br /><span class="pboard-desc">An excerpt from Jonathan Safran Foer's recent commencement address: "Most of our communication technologies began as diminished substitutes for an impossible activity.... But then a funny thing happened: we began to prefer the diminished substitutes."</span></li><li class="pboard-item"><a href="http://chronicle.com/blogs/profhacker/hacking-prezi-as-a-platform-for-visual-composition-and-design-experimentation/49909" class="pboard-link">Hacking Prezi as a Platform for Visual Composition and Design Experimentation</a><br /><span class="pboard-desc">Kimon Keramidas: "If one looks past the presentation use case, the combination of the flexibility of a nearly infinite digital canvas and easy-to-use design features makes for a powerful and highly accessible tool for developing thought maps, prototyping designs for digital interfaces and physical spaces, creating bespoke visualizations, and as a platform for comparative visual analysis and annotation."</span></li><li class="pboard-item"><a href="https://draftin.com" class="pboard-link">Draft</a><br /><span class="pboard-desc">Web-based collaborative text editor that uses Markdown, provides version control, and offers several export formats. Pretty slick.</span></li><li class="pboard-item"><a href="http://business.financialpost.com/2013/05/13/how-to-get-liked-on-facbeook/" class="pboard-link">How to get "liked" on Facebook</a><br /><span class="pboard-desc">"MIT coded more than 1,000 wall posts from 98 global brands, hoping to gain a better understanding of how different wall-post attributes impact the number of 'likes,' comments and 'shares' a post receives."</span></li><li class="pboard-item"><a href="http://www.pewinternet.org/Reports/2013/Teens-Social-Media-And-Privacy.aspx" class="pboard-link">Teens, Social Media, and Privacy</a><br /><span class="pboard-desc">The latest report from Pew's Internet and American Life Project: "Teens are sharing more information about themselves on social media sites than they have in the past, but they are also taking a variety of technical and non-technical steps to manage the privacy of that information. Despite taking these privacy-protective actions, teen social media users do not express a high level of concern about third-parties (such as businesses or advertisers) accessing their data."</span></li><li class="pboard-item"><a href="http://www.themorningnews.org/article/from-here-you-can-see-everything" class="pboard-link">From Here You Can See Everything</a><br /><span class="pboard-desc">James A. Pearson on on-demand television: "The scariest part of this new binge culture is that hours spent bingeing don’t seem to displace other media consumption hours; we’re just adding them to our weekly totals. Lump in hours on Facebook, Pinterest, YouTube, and maybe even the occasional non-torrented big-screen feature film and you’re looking at a huge number of hours per person."</span></li><li class="pboard-item"><a href="http://www.slideshare.net/kleinerperkins/kpcb-internet-trends-2013" class="pboard-link">Internet Trends 2013</a><br /><span class="pboard-desc">The lasest edition of the annual Internet Trends report, from Mary Meeker and Liang Wu.</span></li><li class="pboard-item"><a href="http://www.aeonmagazine.com/world-views/tom-chatfield-language-and-digital-identity/" class="pboard-link">I type, therefore I am</a><br /><span class="pboard-desc">Tom Chatfield on language and digital identity: "Who would have thought, 30 years ago, that a text message of 160 characters or fewer, sent between mobile phones, would become one of the defining communications technologies of the early 21st century; or that one of its natural successors would be a tweet some 20 characters shorter?"</span></li><li class="pboard-item"><a href="http://pitchfork.com/features/cover-story/reader/daft-punk/" class="pboard-link">Pitchfork cover story on Daft Punk</a><br /><span class="pboard-desc">I'm not a Daft Punk fan, but this is a great example of what online articles can (and should) look like. </span></li><li class="pboard-item"><a href="http://www.slate.com/articles/health_and_science/science/2013/05/multitasking_while_studying_divided_attention_and_technological_gadgets.single.html" class="pboard-link">Multitasking while studying: Divided attention and technological gadgets impair learning and memory</a><br /><span class="pboard-desc">Slate: "Attending to multiple streams of information and entertainment while studying, doing homework, or even sitting in class has become common behavior among young people—so common that many of them rarely write a paper or complete a problem set any other way. But evidence from psychology, cognitive science, and neuroscience suggests that when students multitask while doing schoolwork, their learning is far spottier and shallower than if the work had their full attention."</span></li></ul></div>
+		</aside><!-- .widget --></div>	</div><!-- #sidebar-top -->
+			</div><!-- #sidebar -->			</div><!-- #container -->
+				<div id="footer">
+						<div id="copyright">
+				<p class="copyright twocol">© 2013, <a href="http://quinnwarnick.com" title="Quinn Warnick's website">Quinn Warnick</a>. Content licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/3.0/" title="Creative Commons website">Creative Commons</a>.</p>
+									<p class="credits twocol">
+																															Powered by <a href="http://www.onedesigns.com/wordpress-themes/pinboard" title="Pinboard Theme">Pinboard Theme</a> and <a href="http://wordpress.org/" title="WordPress">WordPress</a>											</p>
+								<div class="clear"></div>
+			</div><!-- #copyright -->
+		</div><!-- #footer -->
+	</div><!-- #wrapper -->
+</body>
+</html>
