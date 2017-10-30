@@ -82,7 +82,7 @@ It's ambitious to assign *House of Leaves* in an introductory literature class. 
 
 * Artifact Type: Assignment 
 * Source URL: <https://tuelit13.wordpress.com/deformation/>
-* Copy of Artifact: K.Harris has PDF
+* Copy of Artifact: [interface-deformance-assignment.pdf](files/interface-deformance-assignment.pdf)
 * Creator: Paul Benzon (Skidmore College); deformance by Portland State University undergraduate Ivy Knight (above)
 
 Paul Benzon teaches students how altering the materiality of a source text refigures how and why it means something.  Such an interface invokes theories of “deformance” by McGann & Samuels and Sample, which students read in advance of doing this assignment.  Benzon suggests these potential deformances, and encourages students to invent their own:
@@ -110,7 +110,7 @@ The generic diversity of my students’ deformances led to bold and exciting con
 
 * Artifact Type: Assignment 
 * Source URL: <http://estavidaboricua.com/>
-* Copy of Artifact: K.Harris has PDF
+* Copy of Artifact: [interface-mongar-multimodal-assignment.pdf](files/interface-mongar-multimodal-assignment.pdf)
 * Creator: Sonja S. Mongar (Universidad de Puerto Rico de Mayagüez)
 
 *Esta Vida Boricua* ("This Puerto Rican Life") is a wiki of "ethnically rich” life writing told in spoken word, tying Puerto Rico’s “threads to Cuba, Dominican Republic, South America, England, Germany, Italy, France, China, United States, Israel, Palestine, Egypt and Australia," observes project founder Sonja S. Mongar.  In Spanish and English, the wiki displays just one-third of its collected materials because the project hasn't staff to load its multimodal assets. It seeks volunteers who might edit and post from remote locations.
@@ -121,7 +121,7 @@ I chose this interface because, like many digital humanities passion projects, *
 ![screenshot](images/interface-javascript-poem.png) 
 * Artifact Type: Assignment 
 * Source URL: <http://nickm.com/taroko_gorge/ >
-* Copy of Artifact: K.Harris has PDF
+* Copy of Artifact: [interface-taroko-remix-how-to.pdf](files/interface-taroko-remix-how-to.pdf)
 * Creator: Nick Montfort (Massachusetts Institute of Technology); "Talking Orange" remix (above) by Portland State University Master's candidate Brooke Austin
 
 Nick Montfort wrote the generated poem “Taroko Gorge” on the plane home from Taiwan as a machinic version of British Romantic landscape poems.  Instead of the author-genius crafting memorable verse, Python code instructs the computer to print stanzas randomly selected from words in six variable strings.  The generated poem prints one line at a time for as long as the program is running.  Once a line is pushed up and off the screen by new lines, it’s gone forever.  Montfort ported “Taroko Gorge” to Javascript so that it would run in a brower, and Scott Rettberg was the first to remix it.  My poem “Tournedo Gorge” was my first experience modifying Javascript.  My poem is anthologized, along with several other "Taroko" remixes, in the [Electronic Literature Collection Volume 3](http://collection.eliterature.org/3/collection-taroko.html).
@@ -133,7 +133,7 @@ Nick Montfort wrote the generated poem “Taroko Gorge” on the plane home from
 
 * Artifact Type: Assignment 
 * Source URL: <http://triproftri.wordpress.com/2012/12/03/collaborative-project-on-19th-century-materials-assignment/#more-1191>
-* Copy of Artifact: K.Harris has PDF
+* Copy of Artifact: [interface-harris-collaboration.pdf](files/interface-harris-collaboration.pdf)
 * Creator: Katherine D. Harris (San Jose State University)
 
 Lower-division literature majors are new to devising substantial research projects.  Harris's "Collaborative Project on 19th-Century Materials" expertly introduces students to the materiality of textual scholarship, then trains students in project management, a vital skill for any digital humanities collaborative project. Harris uses the Association of American Colleges and Universities rubrics for Teamwork/Collaboration to ground students' attention in specific tasks they must perform to advance the larger project. As they toggle between embodied classroom space and work in Google Docs, students assess the rare book's material attributes and then move to questions of content and interpretation. One resulting research paper, about Louisa Henrietta Sheridan's *The Comic Offering: Satire Without Bite* is seamless, univocal prose.
@@ -146,7 +146,7 @@ This assignment allows for interface comparison as students juxtapose the materi
 * Artifact Type: Assignment 
 * Source URL: <http://ryancordell.org/personal/grad-proseminar-guest-talk-not-reading/>
 * Source URL: open-access pre-print of the original article <http://diginole.lib.fsu.edu/eng_faculty_publications/2/>
-* Copy of Artifact: K.Harris has PDF
+* Copy of Artifact: [interface-fyfe-pre-print-not-read.pdf](files/interface-fyfe-pre-print-not-read.pdf)
 * Creator: Paul Fyfe (North Carolina State University); forked by Ryan Cordell (Northeastern University)
 
 Paul Fyfe's 4-page field note about teaching senior undergraduate English majors to distantly read Victorian novels they *haven’t* read, "How Not to Read a Victorian Novel," defamiliarizes narrative as the conventional interface of novel interpretation.  Fyfe’s is the best introductory exercise I've found in distant reading techniques. His "interrogative stance" invites students to use the visualized novels’ sometimes-confusing outputs to seek patterns using word frequency, concordance, and collocation.  When I taught these techniques to my students using Wordle and Voyant, they could see how Voyant’s sophisticated visualization capabilities enabled deductive queries. I ran Fyfe's "How Not to Read a Victorian Novel" through Voyant to produce the illustration above.
@@ -157,7 +157,7 @@ Fyfe's article is locked in a subscription-fee publication.  Fyfe's university h
 ![screenshot](images/interface-italian-hip-hop.png)
 * Artifact Type: Assignment 
 * Source URL: <https://www.arcgis.com/apps/MapJournal/index.html?appid=36d80c623d9a4b4291eea52c9ae279ac>
-* Copy of Artifact: K.Harris has PDF
+* Copy of Artifact: [interface-clo-italian-map.pdf](files/interface-clo-italian-map.pdf)
 * Creator: Clarissa Cló (San Diego State University)
 
 Students immersed themselves in the target language from the Italian Hip Hop Archive of San Diego State University library, which owns a collection of the 1990s Italian magazine **Aelle/AL**. Selecting articles and creating story map journals using Esri ArcGIS technology, students produced geographical-based narratives with accurate satellite locations, accompanied by pictures, videos and links. Coding was not required for this web-based open source system. Students worked through complex cross-cultural concepts and terminology and located them in time and place. They applied a geospatial methodology to their language learning, showcasing Italy's regional, cultural, and linguistic diversity. The study of Italian was contextual, integrated, and meaningful.
@@ -166,7 +166,7 @@ Students immersed themselves in the target language from the Italian Hip Hop Arc
 ![screenshot](images/interface-Hergenrader-Steampunk-Rochester-map.png)
 * Artifact Type: Assignment 
 * Source URL: <http://steampunkrochester.wikispaces.com/Steampunk+Rochester>
-* Copy of Artifact: K.Harris has PDF
+* Copy of Artifact: [interface-Hergenrader-Guidelines on Worldbuilding.pdf](files/interface-Hergenrader-Guidelines on Worldbuilding.pdf)
 * Creator: Trent Hergenrader (Rochester Institute of Technology)
 
 Three aspects of *Steampunk Rochester* make it an exceptional digital pedagogy interface. It blends real-life history of Rochester, New York 1915-25. Students create fictional characters, making Rochester an open-access playable game space. The result is speculative fiction that relies on the structured archive of wiki, a steampunk vision of the future that finds new technologic aspects in dynamic roleplay of the past.
