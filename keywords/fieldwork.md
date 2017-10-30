@@ -21,7 +21,7 @@ type: book
 
 # Fieldwork
  
-### Colette Colligan and Michelle Levy and Abdul Zahir
+### Colette Colligan, Michelle Levy and Abdul Zahir
 Simon Fraser University
 
 ---
@@ -109,7 +109,7 @@ Students of a feminist theory course at St. Francis Xavier University were asked
 * Creator and Affiliation: Phil Howard (University of Oxford) and Nikki Usher (George Washington University)
 * Tags: Pinterest
 
-Efficiently collecting data  during fieldwork is challenging. Notes scribbled on paper and mistyped on devices are illegible or confusing, while photographs and videos fill up mobile storage. As data accumulates across platforms, metadata must remain meaningful for inquiry and retrieval. This blog, proposes Pinterest as an in-field solution: an easy-to-use, web-based tool for storing, annotating, and sharing digital image artifacts collected during fieldwork. Available as a mobile app, Pinterest combines data capture and storage, letting the user retain rights over content. It also links to social media for immediate public sharing and presentation, or private sharing through closed boards. As a digital image archive of fieldwork artifacts gathered on the go, it also allows for ongoing review of fieldwork observations and practices. With links to fieldwork Pinterest boards, this blog post lays out the potential of this digital platform for in-field gathering, sharing, and storing of images.
+Efficiently collecting data  during fieldwork is challenging. Notes scribbled on paper and mistyped on devices are illegible or confusing, while photographs and videos fill up mobile storage. As data accumulates across platforms, metadata must remain meaningful for inquiry and retrieval. This blog proposes Pinterest as an in-field solution: an easy-to-use, web-based tool for storing, annotating, and sharing digital image artifacts collected during fieldwork. Available as a mobile app, Pinterest combines data capture and storage, letting the user retain rights over content. It also links to social media for immediate public sharing and presentation, or private sharing through closed boards. As a digital image archive of fieldwork artifacts gathered on the go, it also allows for ongoing review of fieldwork observations and practices. With links to fieldwork Pinterest boards, this blog post lays out the potential of this digital platform for in-field gathering, sharing, and storing of images.
 
 
 #### The Million Image Database
