@@ -20,9 +20,9 @@ author:
 
 editor:
 
-- family: Sayers
+- family: Sayers & Harris
 
-  given: Jentery
+  given: Jentery & Katherine D.
 
 publisher: Modern Language Association
 
