@@ -10,8 +10,8 @@ author:
 - family: STORTI
   given: ANNA M.
 editor:
-- family: Harris
-  given: Katherine D.
+- family: Sayers & Harris
+  given: Jentery & Katherine D.
 publisher: Modern Language Association
 type: book
 ---
