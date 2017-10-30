@@ -13,7 +13,7 @@ publisher: Modern Language Association
 type: book
 ---
 
-# Community (Draft)
+# Community
 
 ### Bridget Draxler
 St. Olaf College
