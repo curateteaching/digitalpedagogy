@@ -7,8 +7,8 @@ author:
 - family: Yergeau
   given: Melanie
 editor: 
-- family: Sayers
-  given: Jentery
+- family: Sayers & Harris
+  given: Jentery & Katherine D.
 publisher: Modern Language Association
 type: book
 ---
