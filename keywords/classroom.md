@@ -38,7 +38,7 @@ From the point of view of teachers, the classroom, whether real or virtual, is a
 
 From the point of view of this collection, classroom could be a term that connotes not just a "learning space," but a "*school* learning space." But as Ewan MacIntosh notes, "learning doesn't happen only in classrooms" (n. pag.). If we alter our definition of "classroom" to include "any setting where multiple individuals might be teaching or learning over both time and space," then we will need to both reconsider our notion of the real/virtual learning divide and acknowledge the complexity of learning interactions in both online and face-to-face settings. We will also need to move beyond school learning spaces and consider more carefully the complex trajectories of learning activities as they happen in the world. 
 
-This collection brings together a handful of resources that cross boundaries between online and face-to-face classrooms that may help teachers to think about not just the tools we use when we compose and learn, but also how the spaces where we compose and learn (whether in school or outside of it) shape our productions and the ways we understand ourselves as literate learners. These resources move across four different topical categories, which might help to situate thinking about classrooms along a continuum from virtual to face-to-face:
+This collection brings together a handful of resources that cross boundaries between online and face-to-face classrooms to help teachers and their students to think intentionally about not just the tools we use when we compose and learn, but also how the spaces where we compose and learn (whether in school or outside of it) shape our productions and the ways we understand ourselves as literate learners. Because, for the humanities classroom, course plans and activities that focus students on the impact of space are not prevalent, many of the artifacts below are instead resources to help teachers to begin to do some of this important thinking -- not so much to make every class a class ABOUT the classroom, but to make sure that we teach with attentiveness to tools and spaces.  These resources move across four different topical categories, which situate thinking about classrooms along a continuum from virtual to face-to-face:
 
 **Classroom Design and Its Impacts on Learning**: In post-secondary education settings, teachers usually do not have classroom spaces where they stay all day (unlike many K-12 instructors), so the focus on learning environments becomes much more institutionalized, and the focus on learning technologies across multiple classrooms comes to the forefront. However, post-secondary teachers can still learn to think (with their students) about classroom spaces, and how the spaces and tools we use can impact our learning.
 
@@ -46,7 +46,7 @@ This collection brings together a handful of resources that cross boundaries bet
 
 **Classroom Tools for Learning and Composing**: There are several artifacts in this list that specifically address the use of technology in classrooms and how thoughtful use of technology is required for these tools to enhance learning. For instructors new to teaching with digital tools or in online environments, the first mental step towards viewing the classrooms as a hybrid, networked space is to think about daily learning activities that can be enhanced by the use of different kinds of tools and technologies. In addition, several of the artifacts, most notably, "Free Tech for Teachers" offer examples and links to specific tools that instructors can use in various types of classroom situations.
 
-**Active Classrooms and Universal Design**: The last artifact introduces the concept of *Universal Design for Learning,* which focuses on how to make learning in classrooms more accessible(in many different ways) for different kinds of learners. This artifact is connected to those introduced under the term [Access](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/access.md). 
+**Active Classrooms and Universal Design**: The last artifact introduces the concept of *Universal Design for Learning,* which focuses on how to make learning in classrooms more accessible(in many different ways) for different kinds of learners. This artifact is connected to those introduced under the term [Access](https://github.com/curateteaching/digitalpedagogy/blob/master/keywords/access.md) 
 
 ## CURATED ARTIFACTS 
 
@@ -57,7 +57,7 @@ This collection brings together a handful of resources that cross boundaries bet
 * Source: [http://www.educause.edu/research-and-publications/books/learning-spaces](http://www.educause.edu/research-and-publications/books/learning-spaces)
 * Creators: Diana G. Oblinger, Editor
 
-This edited collection, published by Educause, is available as a free PDF. It examines the design of learning spaces in university settings. The collection includes sections devoted to principles and issues of learning space design and case studies from various educational settings worldwide. This resource would be useful for a teacher training course or one in which participants may be considering careers that include teaching or training. The case studies in the second section of the text are interesting as examples of learning spaces in various educational settings worldwide, but they could also be used as part of a visual/spatial ethnography project where students are asked to report on and analyze how physical spaces or the use of certain kinds of tools shape learning behaviors. The course plan artifact, "Attending to Space and Activity," includes this text as a reading, which then supports a range of ethnographic/observation assignments.
+This edited collection, published by Educause, is available as a free PDF. It examines the design of learning spaces in university settings. The collection includes sections devoted to principles and issues of learning space design as well as case studies from various educational settings worldwide. in particular, the 2nd article in the collection, "Challenging Traditional Assumptions and Rethinking Learning Spaces," by Nancy Van Note Chism. This article offers a list of the attributes of "intentionally created spaces" that can be helpful for instructors beginning to think about these issues. In addition, the case studies in the second section of the text are interesting as examples of learning spaces in various educational settings worldwide, but they could also be used as part of a visual/spatial ethnography project where students are asked to report on and analyze how physical spaces or the use of certain kinds of tools shape learning behaviors. 
 
 #### The Impact of Classroom Design on Student Learning
 ![screenshot](images/Classroom_Artifact_3_Impact_of_Design.png)
@@ -98,18 +98,17 @@ In this video, Ewan McIntosh expands on the notion of the six spaces of social m
 #### "Classroom Activity: Spatial & Activity-Based Ethnography of Classroom Design" 
 ![screenshot](images/Classroom_artifact_Classroom_Design_Activity.png)
 * Artifact Type: Class Activity Post-Secondary
-* Artifact Permissions: Author Permission
+* Artifact Permissions: CC-BY-NC
 *Sources:[https://docs.google.com/document/d/1qN3CpsBfWVlarMeUDR27R747qGuEhJqDJ_6xxAIuuro/edit?usp=sharing]( https://docs.google.com/document/d/1qN3CpsBfWVlarMeUDR27R747qGuEhJqDJ_6xxAIuuro/edit?usp=sharing)
 * Creator: Joyce R. Walker
 
 This activity, designed for college-level classrooms, asks students (and teachers) to engage in careful observation of spaces where learning happens. Videos such as Stephen Heppell's "The Final Frontier" and Ewan McIntosh’s "The Seven Spaces" can be used to introduce students to the importance of materiality and design in learning environments, while the activity itself asks students to examine learning activities in a range of different spaces, and attend to spaces, tools, people, texts and how the interactions of all of these elements impact learning. This assignment could be a major class project or unit, or could be scaled down as a 1-2 day activity with class discussion.
 
 
-
 #### Learning Spaces Course Plan 
 ![screenshot](images/Classroom_Artifact_7_Learning_spaces_syllabus.png)
 * Artifact Type: Course Plan
-* Artifact Permissions: Author Permission
+* Artifact Permissions: CC-BY-NC
 * Source: [https://drive.google.com/folderview?id=0B0vrL-DffM_dZ200b1FPYnR5Ujg&usp=sharing](https://drive.google.com/folderview?id=0B0vrL-DffM_dZ200b1FPYnR5Ujg&usp=sharing)
 * Creator: Joyce R. Walker
 
@@ -132,7 +131,7 @@ This TED article focuses on thinking about technology wisely in the classroom. I
 * Source: [http://www.freetech4teachers.com/](http://www.freetech4teachers.com/)
 * Creator: Richard Byrne
 
-Once instructors have considered what kinds of learning activities they might want to foster through the use of technology, sites like this one can offer a wide range of choices for technologies that can be used without cost. Browsing sites like this one can help generate ideas about learning activities. In this way, the possible tools and the instructor's learning goals can move into a more productive synergy. 
+Once instructors have considered what kinds of learning activities they might want to foster through the use of technology, sites like this one can offer a wide range of choices for technologies that can be used without cost. Browsing sites like this one can help generate ideas about learning activities. In this way, the possible tools and the instructor's learning goals can move into a more productive synergy.  For example, if an instructor is attempting to make classroom explanations, which are often presented as lectures, more interactive, the "Practical Ed Tech" section of the blog offers multiple ideas, often including video tutorials, such as the information on using the free software Ping Pong to help include student responses in real time during class: http://practicaledtech.com/2016/08/14/practical-ed-tech-tip-of-the-week-how-to-create-conduct-image-based-polls/ 
 
 
 #### Universal Design for Learning: Examples of UDL in Practice
