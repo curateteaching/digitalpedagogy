@@ -88,10 +88,9 @@ Our first commitment to design involves finding and analyzing numerous examples.
 
 
 * Artifact Type: Assignment and syllabus
-
 * Source URL: [http://jennysheppard.com/wp-content/uploads/2017/09/sheppard_visual_rhetoric_monuments.pdf](http://jennysheppard.com/wp-content/uploads/2017/09/sheppard_visual_rhetoric_monuments.pdf)from a Rhetoric in Visual Culture course, [http://jennysheppard.com/wp-content/uploads/2017/06/rws414_spring16_sheppard_syllabus.docx](http://jennysheppard.com/wp-content/uploads/2017/06/rws414_spring16_sheppard_syllabus.docx)
-
 * Creator: Jennifer Sheppard
+* Copy of Artifact: [design-sheppard-vis_rhet_monuments.pdf](files/design-sheppard-vis_rhet_monuments.pdf)
 
 This multi-step assignment asks students to select and analyze a monument or memorial of their choice. After completing several readings on visual, spatial, and performative rhetoric, student teams visit their chosen artifact (or review it online if it is not local) and complete a systematic analysis of its physical, contextual, and commemorative elements and present their findings to the rest of the class. As material objects, the design of monuments and memorials not only call viewers’ attention to visual symbols, but also to issues of location, kairos, absence, and audience interaction. That is, this analysis asks students to evaluate the multitude of ways the designer(s) created meaning and encouraged viewer participation in commemorative acts. 
 
@@ -102,10 +101,9 @@ This multi-step assignment asks students to select and analyze a monument or mem
 
 
 * Artifact Type: Assignment and syllabus
-
 * Source URL: [https://www.msu.edu/~devossda/360/modules/module1.pdf](https://www.msu.edu/~devossda/360/modules/module1.pdf) from a Visual Rhetoric and Document Design course, [https://www.msu.edu/~devossda/360/](https://www.msu.edu/~devossda/360/)
-
 * Creator: Danielle DeVoss
+* Copy of Artifact: [design-devoss_comm_audit.pdf](files/design-devoss_comm_audit.pdf)
 
 Focused on the professional writing classroom, this assignment asks students to identify an organization or company and to perform a visual audit. Students gather external communication (posters, flyers, handouts, reports, media releases, etc.) from the company or organization and analyze the work the visual aspects of these texts perform. The assignment allows students to explore how design choices help shape the message of a business or organization. 
 
@@ -117,12 +115,9 @@ Focused on the professional writing classroom, this assignment asks students to 
 
 
 * Artifact Type: Assignment and syllabus
-
 * Source URL: [http://3844s13.quinnwarnick.com/unit3/ from a Writing &](http://3844s13.quinnwarnick.com/unit3/) from a Writing & Digital Media course, [http://3844s13.quinnwarnick.com/](http://3844s13.quinnwarnick.com/) 
-
 * Creator: Quinn Warnick
-
-
+* Copy of Artifact: [design-Warnick-Multimodal Rhetorical Analysis.pdf](files/design-Warnick-Multimodal Rhetorical Analysis.pdf)
 
 While the first two artifacts in this list look more specifically at design, this assignment folds design into a multimodal rhetorical analysis assignment. It also asks students to specifically consider how the analysis work they are doing can lead to a list of best practices for their own productions. Encouraging students to dig deeply within design analyses while also considering how those analyses can contribute to their own design practices is key in fostering a discursive understanding of design within digital pedagogy. Similar to how we ask students to analyze writing in the hopes they become more critical about reading and writing, this assignment asks students to analyze a multimodal text so as to become more critical about the multimodal texts they produce. More specifically, it asks them to take stock of the most effective strategies they encounter so as to produce a list of best practices for their own designs. This assignments helps make a bridge from analysis to production.
 
@@ -142,10 +137,9 @@ Our second commitment to design is hands-on learning in context, or put more sim
 
 
 * Artifact Type: Assignment and syllabus
-
 * Source URL: [http://3844s15.tracigardner.com/assignments/project-4-remix-a-story/](http://3844s15.tracigardner.com/assignments/project-4-remix-a-story/) from a Writing and Digital Media course, [http://3844s15.tracigardner.com/syllabus/](http://3844s15.tracigardner.com/syllabus/)
-
 * Creator: Traci Gardner
+* Copy of Artifact: [design-gardner_Remix_a_Story.pdf](files/design-gardner_Remix_a_Story.pdf)
 
 
 
@@ -159,21 +153,14 @@ Redesigning asks students to consider how the design of a text encourages a cert
 
 
 * Artifact Type: Assignment
-
 * Source URL:
-
     * Part (1), [http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_1](http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_1)
-
   * Part (2), [http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_2](http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_2)
-
   * Part (3), [http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_3](http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_3)
-
   * Assessment, [http://baddayeveryday.com/teaching/docs/dtc336/DTC336_project_2_grading_sheet.pdf](http://baddayeveryday.com/teaching/docs/dtc336/DTC336_project_2_grading_sheet.pdf)
-  * From a Composition and Design course, [http://baddayeveryday.com/teaching/2015/spring/dtc336/syllabus[(http://baddayeveryday.com/teaching/2015/spring/dtc336/syllabus)
-
+  * From a Composition and Design course, [http://baddayeveryday.com/teaching/2015/spring/dtc336/syllabus](http://baddayeveryday.com/teaching/2015/spring/dtc336/syllabus)
 * Creator: Jeff Kuure
-
-
+* Copy of Artifact: [design-kuure-dtc336_assessment.pdf](files/design-kuure-dtc336_assessment.pdf)
 
 In this three-part assignment, Jeff Kuure asks his students to develop a set of personalized icons that represent actions taken throughout the day. Students are asked to consider how icons function as design cues for particular audiences in particular situations. While the final project includes icons drawn through Adobe Illustrator, this assignment is easily modified for less technical courses where students could simply hand-draw the icon with a written description. Producing icons allows students to consider the ways in which simple design choices, when done well, can convey complicated meaning. It also helps students think through the ways they as audience members understand and use icons in their daily lives.
 
@@ -185,10 +172,9 @@ In this three-part assignment, Jeff Kuure asks his students to develop a set of 
 
 
 * Artifact Type: Assignment 
-
 * Source URL: [http://williamwolff.org/courses/ia-spring-2013/ia-assignments-s13/ias13-infographic-assignment/ ](http://williamwolff.org/courses/ia-spring-2013/ia-assignments-s13/ias13-infographic-assignment/ )
-
 * Creator: Bill Wolff
+* Copy of Artifact: [design-wolff_inforgraphic.pdf](files/design-wolff_inforgraphic.pdf)
 
 
 
@@ -202,10 +188,9 @@ Infographics are visual representations of information or data and provide an in
 
 
 * Artifact Type: Assignment and syllabus
-
 * Source URL: [http://arola.kuurola.com/355/fall14/project4.html ](http://arola.kuurola.com/355/fall14/project4.html) from a Multimedia Authoring: Exploring New Rhetorics course, [http://arola.kuurola.com/355/fall14](http://arola.kuurola.com/355/fall14)
-
 * Creator: Kristin Arola
+* Copy of Artifact: [design-arola_info_campaign.pdf](files/design-arola_info_campaign.pdf)
 
 
 
@@ -227,10 +212,9 @@ Our third pedagogical commitment to design includes incorporating multiple oppor
 
 
 * Artifact Type: Book
-
 * Source URL: [http://www.macmillanlearning.com/Catalog/product/writerdesigner-secondedition-ball](http://www.macmillanlearning.com/Catalog/product/writerdesigner-secondedition-ball)
-
 * Creators: Cheryl E. Ball, Jennifer Sheppard, and Kristin L. Arola
+* Copy of Artifact: none
 
 
 
@@ -246,12 +230,9 @@ As the authors of this textbook and this entry, we understand ourselves not so m
 
 
 * Artifact Type: Assignment and syllabus
-
 * Source URL: [http://thevisualcommunicationguy.com/wp-content/uploads/2013/10/PhotoWebLog_AssignmentDescription.pdf](http://thevisualcommunicationguy.com/wp-content/uploads/2013/10/PhotoWebLog_AssignmentDescription.pdf) from an Information Design in Society course, http://thevisualcommunicationguy.com/wp-content/uploads/2013/10/InformationDesignInSociety_Syllabus.pdf
-
-
-
 * Creator: Curtis Newbold
+* Copy of Artifact: [design-newbold-PhotoWebLog.pdf](files/design-newbold-PhotoWebLog.pdf)
 
 
 
@@ -267,12 +248,9 @@ In this assignment, Curtis Newbold asks students to take photos of real life com
 
 
 * Artifact Type: Assignment 
-
 * Source URL: [http://www.uttyler.edu/communication/files/mcom3311_vis_design_fall_15.pdf](http://www.uttyler.edu/communication/files/mcom3311_vis_design_fall_15.pdf)
-
-
-
 * Creator: Vanessa Joyner
+* Copy of Artifact: [design-joyner-process-book.pdf](files/design-joyner-process-book.pdf)
 
 
 
