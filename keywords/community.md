@@ -1,3 +1,18 @@
+---
+title: Digital Pedagogy in the Humanities
+subtitle: Concepts, Models, and Experiments
+chapter: Community
+URL: keywords/community.md
+authors:
+- family: Draxler
+  given: Bridget
+editor:
+- family: Gold
+  given: Matthew K.
+publisher: Modern Language Association
+type: book
+---
+
 # Community (Draft)
 
 ### Bridget Draxler
@@ -9,141 +24,155 @@ St. Olaf College
 
 * unreviewed draft
 * draft version undergoing editorial review
-* **draft version undergoing peer-to-peer review**
+* draft version undergoing peer-to-peer review
+* **draft version undergoing MLA copyediting**
 * published
+
+--- 
+
+### Cross-referenced keywords: collaboration, mapping, public 
 
 --- 
  
 ## CURATORIAL STATEMENT
 
 Community is a term that has suffered from its own niceness. In *Keywords for American Cultural Studies*, Miranda Joseph points out the problems with a term like “community”--a term that is too easily used without critical consideration. She frames the term at best as “nearly meaningless” in its overuse and at worst as a tool of manipulative persuasion in its empty signification of “a sense of belonging, understanding, caring, cooperation, equality.” 
- 
-When I introduce my undergraduate students to work like Joseph’s, they retaliate. They love to question and interrogate social norms and assumptions, but they are deeply uncomfortable with pushing back on the inherent goodness of concepts like community. And part of me can’t help but admire their well-articulated resistance, their commitment to identifying shared investment with those around them. While there is value in critical questions like Joseph’s, there is also something worth celebrating in the reverence that “community” inspires. 
 
 
-As a humanities teacher, I want to give my students both the critical lens to identify the limitations, exclusions, and misapplications of “community” but also a sense of hope and commitment to others, whether in our classroom community, the broader local community, or the communities in which they will find themselves living and working in the future. I want to equip them to be critical yet committed citizens, aware of the potential for communities to either separate insiders from outsiders, or to find common ground between them. 
+Students need a critical lens to identify the limitations, exclusions, and misapplications of “community,” but they also need to develop meaningful commitments to others, whether in our classroom community, the broader local community, or the communities in which they will find themselves living and working in the future (McTighe Musil). This balance between skepticism and open-mindedness is a hallmark of both critical thinking and information literacy in a digital age ("Framework"). They are developing their voices as critical yet committed citizens, and becoming aware of the potential for communities to either separate insiders from outsiders, or to find common ground between them (Joseph). 
 
 
-Digital spaces exacerbate this tension in the academy’s relationship to a term like “community.”  Digital tools can seem to undermine traditional notions of community, highlighting the term’s meaninglessness through the apparent detachment of virtual engagement.  The idea of “digital community” can seem like an oxymoron, with the fluidity, expansiveness, and disembodiment of online groups. But if digital tools are changing and questioning our understanding of what constitutes community, they are also giving us new ways of engaging with community, and new communities to engage with. 
+Digital spaces exacerbate this tension in the academy’s relationship to a term like “community.”  Digital tools can undermine traditional notions of community, highlighting the term’s meaninglessness through the apparent detachment of virtual engagement (see Turkle, Carr, Lanier, and Baym).  The idea of “digital community” can seem like an oxymoron, with the fluidity, expansiveness, and disembodiment of online groups. But if digital tools are changing and questioning the constitution of community today, these tools also provide new ways of engaging with community, and new communities to engage with. 
 
 
-The idea of community, in a digital age, is perhaps defined less by shared space than by shared values. We are members of geographically defined communities, but we also find ourselves part of online communities defined by our goals, interests, affiliations and hobbies, whether through an actively conversational listserve or a crowdsourced database of information or a role-play virtual reality game. The notion that community is something to actively and intentionally create, rather than something you’re born into, gives participants deeper agency and investment--a quality that is not exclusive to virtual communities but is certainly championed by them. And, joining communities by choice online can make us rethink, for better or worse, the communities we find ourselves in by default. 
+The idea of community, in a digital age, is defined less by shared space than by shared values. Geographically defined communities are increasingly supplanted by online communities, where the ties of shared goals, interests, affiliations and hobbies displace the ties of zip codes through an actively conversational listserves, crowdsourced databases of information, or virtual reality experiences. The notion that community is something to actively and intentionally create, rather than something to inherit, can enrich our commitment to these new communities, but it can also create a false binary between chosen and given communities. 
 
 
-The best online communities are, in many ways, extensions or enhancements of analog communities, developing local communities in ways otherwise not possible. In the same vein, many of the most compelling digital humanities projects are rooted in the values and best practices of civic engagement: collaboration, openness, active learning, and reciprocity. Both the digital humanities and civic engagement share commitment to community, and some of the most exciting work in community building happens at the intersection of these somewhat strange bedfellows. 
+The best online communities are, in many ways, extensions or enhancements of analog communities, developing local communities in ways otherwise not possible (Taylor). In the same vein, many of the most compelling digital projects and tools are rooted in the values and best practices of civic engagement: collaboration , openness, active learning, and reciprocity (McTighe Musil). Digital pedagogy and civic engagement share a commitment to community, through modes of learning that are deeply connected to space and place. 
 
 
-The artifacts below highlight this link between digital humanities and civic engagement, featuring local communities connected in new ways using digital technologies. They also offer ways of reframing academic communities or reimagining the value of humanities research for and with a broader community, creating scholarship that is not only public [see Jeff McClurken’s entry on [“Public”](https://digitalpedagogy.commons.mla.org/keywords/public) in this collection] but also collaborative, drawing on community expertise alongside academic research. They celebrate communities, even as they challenge communities to ask difficult questions about our relationships inside and between our communities. They illustrate how digital tools can bridge humanities research and public humanities through engagement with GLAM institutions (galleries, libraries, archives, and museums). They explore new movements like digital public history (Owens) or activist digital humanities (Koh). Most importantly, they model ways that digital tools allow humanities research to be community-driven and community-generated, undermining the categories of teacher vs. student and expert vs. public. 
+The artifacts below highlight this link between digital pedagogy and civic engagement, featuring place-based communities connected in new ways using digital technologies. They reframe academic communities, reimagine the value of student research for and with a broader community, and model scholarly inquiry that is not only public [see Jeff McClurken’s entry on [“Public”](https://digitalpedagogy.commons.mla.org/keywords/public) in this collection] but also collaborative [see the entry on [“Collaboration”](https://digitalpedagogy.commons.mla.org/keywords/collaboration) in this collection], drawing on community expertise alongside academic research.  
 
 
-For the twenty-first-century humanist, the community is not our audience but our collaborator. If it is the role of the humanist to interrogate a term like community, it is also our deeper calling to fortify concepts like community that point to our shared humanity. The stories we tell and the questions we ask as humanists, especially digital humanists, can help us to find new reasons and ways to invest in our communities. 
+These artifacts explore new movements in higher education like digital public history (Owens) or activist digital humanities (Koh), and place-based learning (encompassing [mapping projects](https://digitalpedagogy.commons.mla.org/keywords/mapping), oral histories, public exhibits, interactive tours, internships, problem-based pedagogy and other active-learning methodologies that can make local culture "worthy of inquiry"; see Smith). Experiential learning is being transformed in online spaces, as students both consume and create knowledge through virtual interactive storytelling (Olson & Wagler) and location-based online games (Squire & Jan). Most importantly, these artifacts model ways that digital tools create learning environments that are community-driven and community-generated, undermining the categories of teacher vs. student and expert vs. public. 
+
+
+For the twenty-first-century teacher, the community is not our audience but our collaborator. If it is the role of the humanist to interrogate a term like community, it is also our deeper calling to fortify concepts like community that point to our shared humanity. The stories we tell and the questions we ask as humanists, especially digital humanists, can help us to find new reasons and ways to invest in our communities. 
 
 ## CURATED ARTIFACTS
 
-### 18th Connect
-![screenshot](images/community-18th-Connect.png)
+### Teaching with 18th Connect 
+![screenshot](images/community-18th-Connect.png) 
 
-* Source URL: [http://www.18thconnect.org/](http://www.18thconnect.org/)
-* Type: crowdsourced database
-* Creator: Laura Mandell (Texas A&M)
+* Type: PowerPoint 
+* Source URL: [http://www.18thconnect.org/](http://www.18thconnect.org/) 
+* Artifact Permissions: by permission of the author
+* [Teaching with 18thConnect PPT](https://drive.google.com/open?id=0ByGwxf2EJJooR0t4RXlXdVpnd2c)
+* Creator: Danielle Spratt, California State University - Northridge
 
-18th Connect is a database of eighteenth-century texts driven by values of sharing and service. Along with features typical of online communities (discussions, groups) and scholarly communities (peer review, searchable archives), it offers scholars and advanced students an opportunity to receive plain and TEI-encoded copies of texts from ProQuest and Gale in exchange for correcting any OCR errors in these texts. 
+[18th Connect](http://www.18thconnect.org/) is a database of eighteenth-century texts driven by values of sharing and service. Along with features typical of online communities (discussions, groups) and scholarly communities (peer review, searchable archives), it offers scholars and advanced students an opportunity to receive plain and TEI-encoded copies of texts from ProQuest and Gale in exchange for correcting any OCR errors in these texts. 
 
-In addition to widening the circle of scholars and readers who have access to eighteenth-century texts, 18th Connect is also opening new opportunities for students to work with archival sources and create digital publications. For instance, Danielle Spratt’s graduate students at California State University - Northridge created a digital scholarly edition of Sarah Fielding’s [The Countess of Dellwyn](http://thecountessofdellwyn.weebly.com/), which simultaneously invited students to engage in collaborative research within the classroom community and to contribute to scholarly work within the online community. The collaboratively annotated text is accessible for undergraduate students to read, or could provide a model for students to create their own digital scholarly editions of texts. 18thConnect hosts other peer-reviewed exhibits and texts, though the current database is largely uncorrected texts awaiting student or scholar edits. 
+In addition to widening the circle of scholars and readers who have access to eighteenth-century texts through digital preservation and access, 18th Connect is also opening new opportunities for students to work with archival sources and create digital publications. For instance, Danielle Spratt’s graduate students at California State University - Northridge created a digital scholarly edition of Sarah Fielding’s [The Countess of Dellwyn](http://thecountessofdellwyn.weebly.com/), which simultaneously invited students to engage in collaborative research within the classroom community and to contribute to scholarly work within the online community.  
 
-### Grinnell Beowulf
-![screenshot](images/community-grinnell-beowulf.png)
+Collaborative editing turns the individual, introspective process of reading into a community practice and conversation. In this way, students develop a sense of community not only with their co-editors but also with imagined, future peer readers of a text. On a smaller scale, the practice of collaborative annotating has become easier with tools like [CommentPress](http://futureofthebook.org/commentpress/). 
 
-* Source URL: [https://digital.grinnell.edu/islandora/object/grinnell:3615](https://digital.grinnell.edu/islandora/object/grinnell:3615)
-* Type: student project
-* Creator: Grinnell College Assistant Professor of English Tim Arner, and students Eva Dawson ’14, Emily Johnson ’14, Jeanette Miller ’14, Logan Shearer ’14, Aniela Wendt ’14, and Kate Whitman ’14 
+### Historyapolis Project
+![screenshot](images/community-historyapolis.png)
 
-Engaging students in the task of translating and annotating Beowulf for modern readers, Tim Arner (Grinnell College) created a for-students, by-students teaching edition of the early English text. The digital text offers an example of how public digital humanities projects can reframe students as teachers, democratizing not only access to but production of knowledge online. 
+* Type: mapping project
+* Source URL: [http://historyapolis.com/](http://historyapolis.com/)
+* Creator: Kirsten Delegard, Augsburg University 
 
-In this way, students develop a sense of community not only with their co-editors but also with imagined, future peer readers of a text.
+This mapping project out of Augsburg University confronts a history of prejudice and segregation in Minneapolis, MN driven by the idea that "history is a powerful tool for community-building" and digital tools can give us new ways of interpreting and sharing that history. [Mapping Prejudice](https://www.mappingprejudice.org/), a spinoff from the main project, uses government documents and GIS technology to trace racially-restrictive deeds. Drawing heavily on student and community researchers, it is the winner of the 2015 Alice Smith Prize from the Midwestern History Association.  
 
-### The Passport Project
-![screenshot](images/community-Passport-Project.png) 
+###IDEAL: http://ideal.uiowa.edu/projects/#iowa-narratives-project 
+![screenshot](images/community-ideal.png) 
 
-* Type: course
-* Source URL: [http://thestudio.uiowa.edu/passport/](http://thestudio.uiowa.edu/passport/)
-* Creator: Jon Winet, Professor of Art and Art History, The University of Iowa
+* Type: lesson plans
+* Source URL: http://ideal.uiowa.edu/ 
+* [IDEAL Lesson Plans](http://ideal.uiowa.edu/wp-content/uploads/sites/33/2017/02/The-IDEAL-Semester.pdf)
+* Creator: Matthew Gilchrist, The University of Iowa
+
+IDEAL is a collection of lesson plans and teaching materials geared towards integrating technology and community outreach into a required first-year course in rhetoric and composition at the University of Iowa. Units include the Iowa Narratives Project, which asks students to research and report on a public space in their local community through photography and interviews; Rhetoric in Knowledge Communities, which asks students to analyze an artifact from their local environment; and Embracing Complexity, which challenges students to confront stereotypes about Islamic cultures by investigating their contributions to the local community. 
+
+The site includes lesson plans, class activities, example prompts, student handouts, technology tutorials, sample syllabi, and student projects. 
+
+### Intro to Public Arts & Humanities
+![screenshot](images/community-introPAH.png) 
+
+* Type: assignment
+* Artifact Permissions: by permission of the author
+* [Exploring Digital Humanities Projects](https://drive.google.com/open?id=0ByGwxf2EJJooX1RpTW4tbWRoYUk)
+* Creator: Elizabeth Goodhue, UCLA
+
+In Elizabeth Goodhue’s Intro to Public Arts & Humanities course, undergraduate students spend a week discussing the intersection of community engagement and digital humanities. Students begin by reading Anne Burdick et al.’s [“A Short Guide to Digital Humanities”](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), emphasizing passages about how digital humanities redefines community and fosters a notion of “citizen scholars,” building on earlier readings like Gregory Jay’s [“The Engaged Humanities: Principles and Practices for Public Scholarship and Teaching”](http://jces.ua.edu/the-engaged-humanities-principles-and-practices-for-public-scholarship-and-teaching/). Goodhue also introduces students to a carefully curated list of scholarly projects that foreground the intersection of digital humanities and public humanities. The worksheet attached here, an adaptation of Brian Croxall’s [project evaluation assignment](http://www.briancroxall.net/dh/assignments/digital-humanities-project-evaluation/), guides small and large group discussion. 
+
+### Musical Geography 
+![screenshot](images/community-musicalgeography.png) 
+
+* Type: syllabus
+* Source URL: [https://musicalgeography.org/](https://musicalgeography.org/) 
+* Artifact Permissions: by permission of the author
+* [Musical Geography Syllabus](https://drive.google.com/open?id=0ByGwxf2EJJooQ2JBbDV0QmZOejg)
+* Creator: Louis Epstein, St. Olaf College
+
+Musical Geography uses digital mapping technology to study music and musicians in particular communities of time and space, inviting students to contribute to crowdsourced topics or develop their own research interests. An example of place-based digital pedagogy that fundamentally changes the research process, it also includes reflective practice through student blogs. 
+
+While musicologists are beginning to "leverage maps as tools for analyzing, organizing, and presenting research," according to the syllabus, this place-based approach to student learning could be adapted to other humanities or social science fields to help students frame their research and arguments within geographical communities. 
+
+### Our Marathon 
+![screenshot](images/community-Our_Marathon.png)  
+
+* Type: mapping project
+* Source URL: [http://marathon.neu.edu/](http://marathon.neu.edu/)
+* Creator: Elizabeth Maddock Dillon and Ryan Cordell, Northeastern University 
+
+Our Marathon is a community-owned project that models the the collaborative and democratic potential of the digital humanities and civic engagement in enriching our communities. Developed in the wake of the Boston Marathon bombings of 2013, Our Marathon invites community contributors to share stories, images, and other media of their experiences. The crowd-sourced storytelling archive is intended explicitly as a tool for community healing, and a means of creating an organic, community-driven memorial. The site also includes teaching resources for a variety of grade levels (http://marathon.neu.edu/teaching-resources).
+
+Similarly, [CurateScape](https://curatescape.org/) is an open-source framework that allows communities across the United States, large [https://clevelandhistorical.org/](https://clevelandhistorical.org/) and small [http://northfieldhistorical.org/](http://northfieldhistorical.org/), to develop place-based stories and collections, allowing local citizens and students to experience digitally enhanced walking tours or create their own multimedia stories, tagging locations with text, images, and video.  See the [CurateScape launch guide](https://curatescape.org/docs/project-launch-guide/) for detailed instructions that could be adapted to a class project. 
+
+### The Passport Project 
+![screenshot](images/community-passport.png) 
+
+* Type: syllabus
+* Artifact Permissions: by permission of the author
+* [Passport Project Syllabus](https://drive.google.com/open?id=0ByGwxf2EJJooYlkyak5rRzlqcU0)
+* Creator: Jon Winet, The University of Iowa
 
 The Passport Project is an innovative first-year course that asks students to blog about community events representing the arts, humanities, sciences, along with political events and performances in dance, theater, and music. Peer Mentors, recent graduates of the program, lead small group discussions. The course could be easily adapted to a variety of technological platforms and communities, and encourages students to identify, early on, not only as members of the campus community but also the broader local community.
 
-### Intro to Public Arts & Humanities
-![screenshot](images/community-intro-public-arts-humanities.png) 
-
-* Type: syllabus/lesson plans
-* Source URL: (insert PDF)
-* Creator: Elizabeth Goodhue, UCLA
-
-In Elizabeth Goodhue’s Intro to Public Arts & Humanities course, undergraduate students spend a week discussing the intersection of community engagement and digital humanities. Students begin by reading Jeffrey Schnapp et al.’s [“A Short Guide to Digital Humanities”](https://mitpress.mit.edu/sites/default/files/titles/content/9780262018470_Open_Access_Edition.pdf), emphasizing passages about how digital humanities redefines community and fosters a notion of “citizen scholars,” building on earlier readings like Gregory Jay’s [“The Engaged Humanities: Principles and Practices for Public Scholarship and Teaching”](http://jces.ua.edu/the-engaged-humanities-principles-and-practices-for-public-scholarship-and-teaching/). Goodhue also introduces students to a carefully curated list of scholarly projects that foreground the intersection of digital humanities and public humanities. The worksheet attached here, an adaptation of Brian Croxall’s [project evaluation assignment](http://www.briancroxall.net/dh/assignments/digital-humanities-project-evaluation/), guides small and large group discussion. 
-
-### AnnoTate
-![screenshot](images/community-annotate.jpg) 
-
-* Type: citizen scholarship
-* Source URL: [https://anno.tate.org.uk/?utm_source=Newsletter&utm_medium=Email&utm_campaign=TateLaunch#/](https://anno.tate.org.uk/?utm_source=Newsletter&utm_medium=Email&utm_campaign=TateLaunch#/)
-* Creator: Tate Archive and Zooniverse 
-
-While citizenship scholarship tends to skew to the sciences--amateur astronomers, botanists and meteorologists have been crowdsourcing data for years--digital archives are opening new opportunities for humanists to do the same. AnnoTate, a partnership between the Tate Archive and Zooniverse, is one such example. Volunteers transcribe diaries, letters and other manuscripts to make these archives searchable and accessible to new readers. 
-
-By transcribing texts as citizen scholars, students learn important research skills like paleography and archival source analysis. At the same time, we offer them an opportunity to actively participate in a broader scholarly community, giving them new ways and reasons to advocate for the arts and humanities in public life. 
-
-### HASTAC
-![screenshot](images/community-HASTAC.png) 
-
-* Type: online community
-* Source URL: [http://www.hastac.org/](http://www.hastac.org/)
-* Creator: Cathy Davidson and David Theo Goldberg (co-founders), Duke University and CUNY
-
-HASTAC is an example of an online community in its best form, with a diverse and active readership. It has hosted some of the most exciting recent conversations about collaborations between educational institutions and GLAMs (galleries, libraries, archives and museums), partnerships that highlight the potential for reciprocity and student engagement in community-based digital humanities research and teaching. 
-
-For more information on student involvement on HASTAC, see especially the HASTAC Scholars program, which has increasingly involved undergraduate student participants. While difficult to implement into an entire section of a course, the HASTAC Scholars program would be a good fit for one student or a small group of students to blog about digital humanities projects on their home campus. 
-
-### Mapping the Republic of Letters
-![screenshot](images/community-Mapping-the-Republic-of-Letters.png) 
-
-* Type: digital project/tool
-* Source URL: [http://republicofletters.stanford.edu/](http://republicofletters.stanford.edu/)
-* Creator: Humanities+Design at CESTA, Stanford University
-
-Digital tools can not only help us engage with our own communities, but also help us to understand historical communities better. One of the best examples of this is Mapping the Republic of Letters, a Stanford project with numerous partners that contextualizes the intellectual network of key early modern thinkers. By identifying moments of exchange and influence, the tool reframes Western thought from a series of important figures to a rich intellectual community. The site includes [course descriptions](http://republicofletters.stanford.edu/teaching.html) of classes that have used or even contributed to the project. 
-
-Following the examples here, students could use "network theory to analyze key individuals and key moments in intellectual history," contextualizing individual thinkers within a community of correspondence. 
-
-### Our Marathon
-![screenshot](images/community-Our-Marathon.png)  
-
-* Type: digital project/tool
-* Source URL: [http://marathon.neu.edu/](http://marathon.neu.edu/)
-* Creator: Elizabeth Maddock Dillon and Ryan Cordell (Primary Investigators), Northeastern University [NOTE: This is a great example of how "project partners" might be more appropriate for these “community” projects than creator/affiliation... see the long list of staff plus the project partners here: http://marathon.neu.edu/about]
-
-Our Marathon is a community-owned project that models the the collaborative and democratic potential of the digital humanities and civic engagement in enriching our communities. Developed in the wake of the Boston Marathon bombings of 2013, Our Marathon invites community contributors to share stories, images, and other media of their experiences. The crowd-sourced storytelling archive is intended explicitly as a tool for community healing, and a means of creating an organic, community-driven memorial. 
-
-As a classroom tool, Our Marathon could be a fruitful “text” for a course on memory and memorialization, or a model for students to develop their own digital memorial for tragedies in their own communities.
-
-### Public Matters
-![screenshot](images/community-public-matters.png) 
+### Public Matters 
+![screenshot](images/community-publicmatters.png) 
  
-* Type: project hub
+* Type: teaching materials
 * Source URL: [http://www.publicmattersgroup.com/](http://www.publicmattersgroup.com/)
-* Creator: Mike Blockstein
+* Creator: Mike Blockstein, Public Matters
 
-Public Matters is "an interdisciplinary, social enterprise" dedicated to designing and implementing "innovative programs that build social, creative, and civic capital in communities." By engaging various stakeholders to create "Neighborhood Narratives," and developing young leaders through the Urban Futures Lab https://www.youtube.com/watch?v=1HVZ3rX86M4], they offer a model of long-term, project-driven, mutually beneficial partnerships between institutions of higher education and local communities. Though based in L.A., Public Matters serves as a model for creating a networked hub of civic engagement activity that could be replicated in other communities and classrooms.
- 
-### Intermedia Artists in Community
-![screenshot](images/community-intermedia-artists-in-community.png) 
- 
-* Type: course
-* Source URL: none
-* Creator: Jon Winet, The University of Iowa
+Public Matters is "an interdisciplinary, social enterprise" dedicated to designing and implementing "innovative programs that build social, creative, and civic capital in communities." By engaging various stakeholders to create "Neighborhood Narratives," and developing young leaders through the [Urban Futures Lab](https://www.youtube.com/watch?v=1HVZ3rX86M4), they offer a model of long-term, project-driven, mutually beneficial partnerships between institutions of higher education and local communities. Though based in L.A., Public Matters serves as a model for creating a networked hub of civic engagement activity that could be replicated in other communities and classrooms. 
 
-Artists in Community is an interdisciplinary class centered on students participating in internships at Iowa City-Coralville|Johnson County non-profit organizations. The class is comprised of fieldwork and class seminars. Readings and discussion focus on ‘the artist as citizen,’ ‘the artist as activist,’ relational aesthetics, art in public and the challenges and opportunities of civic engagement in the Digital Age.
-
-Artists in Community serves as a model of a discipline-specific community engagement project that capitalizes on digital technology and relationship building to create partnerships between students and non-profit agencies.
+More specifically, the [Market Makeover Project](https://publicmattersgroup.com/projects/marketmakeoverseastlaboyleheights/) engaged local high school students "created a multi-faceted, grassroots social marketing campaign to promote healthy food consumption as well as the newly transformed markets, performed hands-on work transforming the selected stores, and served as community health advocates on behalf of the project’s efforts," according to their website. For the Historic Filipinotown project, [Hidden HiFi](http://publicmattersgroup.com/projects/hiddenhifi/), students were trained in media production skills in an afterschool program to create place-based digital narratives about the neighborhood's culture and history. In each of these examples, digital tools give students new voices in their own communities.   
  
+### Rural Immigration Network 
+![screenshot](images/community-RIN.png) 
+
+* Type: online resource  
+* Source URL: [https://ruralimmigration.net/](https://ruralimmigration.net/) 
+* Creator: Kathy Tegtmeyer Pak , St. Olaf College
+
+The Rural Immigration Network (RIN) is an online hub for people who seek to build community with immigrants to share practical information, particularly in rural communities. From its conception, the project has drawn on students as contributors to the site, researching and writing content, by creating short, readable essays summarizing scholarship and policy--translating academic and government documents for a general audience. They also contribute "recipes" for activities, events and programs that practitioners can implement in their own communities. 
+
+RIN is one of many projects, including the [German Iowa and the Global Midwest](http://germansiniowa.lib.uiowa.edu/), an online archive of Iowa's multicultural history; the [Immigration History Research Center](https://cla.umn.edu/ihrc), a University of Minnesota project dedicating to archiving past and present immigration stories; and [Between Two Worlds](https://pages.stolaf.edu/hmg/), exploring Hmong culture in Minnesota, that involves students in researching and publishing on local immigrant communities through digital media. For teaching materials geared towards k12 students on immigration history, see [Iowa History Connections](http://thestudio.uiowa.edu/iowa_history_connections/lessonplans/). 
+
+###Under the Banner of Waverley
+![screenshot](images/community-waverley.png)
+
+* Type: mapping project
+* Source URL: [http://waverly.lib.uiowa.edu/](http://waverly.lib.uiowa.edu/) 
+* Creator: Anne Stapleton, The University of Iowa
+
+This mapping project studies the connections between Walter Scott's Waverley novels and the Midwestern towns named after this fictional community, illuminating both the novels and the immigrants who named communities in their honor. While this project is specific to a few dozen namesake towns, it serves as a model of how students can use data, memoirs, photographs and interviews to study naming practices in their own communities.  
+
+
 ### Related Materials
 
 “New Self-Guided Curriculum for Digitization.” Digital Public Library of America. [http://dp.la/info/2015/10/07/new-self-guided-curriculum-for-digitization/](http://dp.la/info/2015/10/07/new-self-guided-curriculum-for-digitization/)
@@ -154,13 +183,76 @@ eCollaboration Worksheet (Ned Kock, Texas A&M) [https://docs.google.com/document
 
 Daniel J. Cohen and Tom Scheinfeldt (editors), Hacking the Academy [http://hackingtheacademy.org/](http://hackingtheacademy.org/) A book that was crowdsourced in the course of one week, Hacking the Academy is itself an innovative example of authoring in community.
 
-NITLE [http://www.nitle.org/](http://www.nitle.org/), which hosts Academic Commons [http://www.academiccommons.org/](http://www.academiccommons.org/), is (like HASTAC) another online community with a deep interest in the intersection of the digital humanities, pedagogy, and civic engagement, with particular focus on liberal arts education.
+NITLE [http://www.nitle.org/](http://www.nitle.org/), which hosts Academic Commons [http://www.academiccommons.org/](http://www.academiccommons.org/), is (like [HASTAC](https://www.hastac.org/)) an online community with a deep interest in the intersection of the digital humanities, pedagogy, and civic engagement, with particular focus on liberal arts education.
 
 ### Works Cited
 
+Baym, Nancy K. *Personal Connections in the Digital Age.* Polity Press, 2010. 
+
+Blockstein, Mike. *Public Matters.* [http://www.publicmattersgroup.com/](http://www.publicmattersgroup.com/). 
+
+Burdick, Anne et. al. *Digital_Humanities.* The MIT Press, 2012.
+
+Carr, Nicholas. *The Shallows: What The Internet Is Doing To Our Brains.* W. W. Norton & Co., 2011. 
+
+*CommentPress.* The Institute for the Future of the Book, [http://futureofthebook.org/commentpress/](http://futureofthebook.org/commentpress/). 
+
+Croxall, Brian. "Digital Humanities Project Evaluation." *Introduction to Digital Humanities*, [http://www.briancroxall.net/dh/assignments/digital-humanities-project-evaluation/](http://www.briancroxall.net/dh/assignments/digital-humanities-project-evaluation/).
+
+Delegard, Kirsten. *Historyapolis Project.* Augsburg University, [http://historyapolis.com/](http://historyapolis.com/). 
+
+Dillon, Elizabeth Maddock and Ryan Cordell. *Our Marathon.* [http://marathon.neu.edu/](http://marathon.neu.edu/). 
+
+Dillon, Elizabeth Maddock and Ryan Cordell. "Teaching Resources." *Our Marathon*, [http://marathon.neu.edu/teaching-resources](http://marathon.neu.edu/teaching-resources). 
+
+Ehrstine, Glenn. *German Iowa and the Global Midwest.* University of Iowa, [http://germansiniowa.lib.uiowa.edu/](http://germansiniowa.lib.uiowa.edu/). 
+
+Epstein, Louis. *Musical Geography.* St. Olaf College, [https://musicalgeography.org/](https://musicalgeography.org/). 
+
+"Framework for Information Literacy for Higher Education", American Library Association, February 9, 2015.
+
+Gilchrist, Matthew. *Iowa Digital Engagement and Learning (IDEAL).* University of Iowa, [http://ideal.uiowa.edu/](http://ideal.uiowa.edu/). 
+
+Harshman, Jason. "Lesson Plans." *Iowa History Connections*, University of Iowa, [http://thestudio.uiowa.edu/iowa_history_connections/lessonplans/](http://thestudio.uiowa.edu/iowa_history_connections/lessonplans/). 
+
+Jay, Gregory. "The Engaged Humanities: Principles and Practices for Public Scholarship and Teaching." *Journal of Community Engagement and Scholarship*, vol. 3, no. 1, 2012, pp. 51-63. 
+
 Joseph, Miranda. “Community” in *Keywords for American Cultural Studies*. Ed. Bruce Burgett and Glenn Hendler. 
 
-Koh, Adeline. “Getting Started in Activist Digital Humanities.” July 24, 2015. [http://www.adelinekoh.org/blog/2015/07/24/getting-started-in-activist-digital-humanities/ ](http://www.adelinekoh.org/blog/2015/07/24/getting-started-in-activist-digital-humanities/)
+Koh, Adeline. “Getting Started in Activist Digital Humanities.” July 24, 2015. [http://www.adelinekoh.org/blog/2015/07/24/getting-started-in-activist-digital-humanities/](http://www.adelinekoh.org/blog/2015/07/24/getting-started-in-activist-digital-humanities/)
+
+Lanier, Jaron. *You Are Not A Gadget.* Vintage Books, 2010. 
+
+Lee, Erika. *Immigration History Research Center.* University of Minnesota, [https://cla.umn.edu/ihrc](https://cla.umn.edu/ihrc). 
+
+Mandell, Laura. *18thConnect.* Texas A&M University, [http://www.18thconnect.org/](http://www.18thconnect.org/). 
+
+McTighe Musil, Caryn. “Educating for Citizenship.” *Peer Review*, Volume 5, Issue 3, 2003, pp. 4-8.
+
+*Northfield Historical.* St. Olaf College, Carleton College, and the Northfield Historical Society, [http://northfieldhistorical.org/](http://northfieldhistorical.org/). 
+
+Olson, Ruth and Mark Wagler. "Afield in Wisconsin: Cultural Tours, Mobile Learning, and Place-Based Games." *Western Folklore*, Volume 70, Issue 3/4, Summer/Fall 2011, pp. 287-310. 
 
 Owens, Trevor. “Becoming Digital Public Historians.” May 9, 2015. [http://www.trevorowens.org/2015/05/becoming-digital-public-historians/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+trevorowensblog+%28Trevor+Owens%29 ](http://www.trevorowens.org/2015/05/becoming-digital-public-historians/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+trevorowensblog+%28Trevor+Owens%29)
 
+Smith, Gregory A. "Place-Based Education: Learning To Be Where We Are." *The Phi Delta Kappan*, Volume 83, Issue 8, April 2002, pp. 584-94. 
+
+Spratt, Danielle. *The Countess of Dellwyn By Sarah Fielding.* [http://thecountessofdellwyn.weebly.com/](http://thecountessofdellwyn.weebly.com/). 
+
+Souther, Mark. *Cleveland Historical.* Cleveland State University, [https://clevelandhistorical.org/](https://clevelandhistorical.org/). 
+
+Squire, Kurt D. and Mingfong Jan. "Mad City Mystery: Developing Scientific Argumentation Skills with a Place-based Augmented Reality Game on Handheld Computers." *Journal of Science Education and Technology*, Volume 16, Number 1, February 2007, pp. 5-29.
+
+Stapleton, Anne. *Under the Banner of Waverley.* University of Iowa, [http://waverly.lib.uiowa.edu/](http://waverly.lib.uiowa.edu/). 
+
+Taylor, Diana. "Save As... Knowledge and Transmission in the Age of Digital Technologies." *Foreseeable Futures: Position Papers from Imagining America*, Number 10, 2010. 
+
+Tebeau, Mark. *CurateScape.* [https://curatescape.org/](https://curatescape.org/). 
+
+Tebeau, Mark. "Project Launch Guide." *CurateScape*, [https://curatescape.org/docs/project-launch-guide/](https://curatescape.org/docs/project-launch-guide/). 
+
+Tegtmeyer Pak, Kathy. *Rural Immigration Network.* St. Olaf College, [https://ruralimmigration.net/](https://ruralimmigration.net/). 
+
+Turkle, Sherry. *Alone Together: Why We Expect More From Technology And Less From Each Other.* Basic Books, 2011. 
+
+Wong, Ka. *Between Two Worlds.* St. Olaf College, [https://pages.stolaf.edu/hmg/](https://pages.stolaf.edu/hmg/). 
