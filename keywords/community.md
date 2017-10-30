@@ -93,9 +93,9 @@ This mapping project out of Augsburg University confronts a history of prejudice
 * [files/community-ideal-teachingresources.pdf](files/community-ideal-teachingresources.pdf)
 * Creator: Matthew Gilchrist, The University of Iowa
 
-IDEAL is a collection of lesson plans and teaching materials geared towards integrating technology and community outreach into a required first-year course in rhetoric and composition at the University of Iowa. Units include the Iowa Narratives Project, which asks students to research and report on a public space in their local community through photography and interviews; Rhetoric in Knowledge Communities, which asks students to analyze an artifact from their local environment; and Embracing Complexity, which challenges students to confront stereotypes about Islamic cultures by investigating their contributions to the local community. 
-
-The site includes lesson plans, class activities, example prompts, student handouts, technology tutorials, sample syllabi, and student projects. 
+Iowa Digital Engagement and Learning (IDEAL) offers a collection of lesson plans and teaching materials geared towards integrating technology and community engagement across the curriculum at the University of Iowa. Among others, IDEAL projects include the Iowa Narratives Project, which asks students to research and report on a public space in their local community through photography and interviews; Rhetoric of Knowledge Communities, which cultivates an understanding of information and rhetoric as based in communities of practice; and Embracing Complexity, which challenges students to confront stereotypes about Islamic cultures through classroom-community connections and the performing arts. 
+ 
+IDEAL’s site includes lesson plans, class activities, example prompts, student handouts, technology tutorials, sample syllabi, and student projects. 
 
 ### Intro to Public Arts & Humanities
 ![screenshot](images/community-introPAH.png) 
