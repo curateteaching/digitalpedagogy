@@ -28,7 +28,7 @@ George Mason University
 
 --- 
 
-## Rhetoric as Digital Pedagogy/Digital Pedagogy as Rhetoric
+## Curator's Statement
 
 In the Western tradition, efforts to theorize and codify best practices in rhetoric (the best known example of which is Aristotle's _On Rhetoric_) led fairly quickly to attempts to develop a curriculum for teaching rhetoric (most famously portrayed in the works of Cicero and Quintilian), which in turn became the foundations of teaching in the liberal arts tradition. In other words, "rhetoric" and "pedagogy" have always been intertwined.
 
@@ -44,7 +44,7 @@ As the teaching of writing continues to embrace the idea of multimodal composing
 
 The works included here represent examples of materials that are both well-crafted and typical of approaches to classical, visual, and digital rhetoric. While the term 'digital rhetoric' is sometimes used as a title for web-design courses (and those courses certainly draw upon rhetoric as a heuristic for production), the aim of this list is to cast digital rhetoric as a fairly broad practice, and thus these selections focus on a wider array of composition courses.
 
-There are, of course, many more excellent syllabi, assignments, and scholarly journals that address visual and digital rhetoric, but I hope that these examples will showcase the wide range of approaches to and the integral relationship of rhetoric and digital pedagogy.
+There are, of course, many more excellent syllabi, assignments, and scholarly journals that address visual and digital rhetoric, but these examples will showcase the wide range of approaches to and the integral relationship of rhetoric and digital pedagogy.
 
 
 ## CURATED ARTIFACTS
