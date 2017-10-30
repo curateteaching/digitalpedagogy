@@ -132,7 +132,7 @@ Our Marathon is a community-owned project that models the the collaborative and 
 Similarly, [CurateScape](https://curatescape.org/) is an open-source framework that allows communities across the United States, large [https://clevelandhistorical.org/](https://clevelandhistorical.org/) and small [http://northfieldhistorical.org/](http://northfieldhistorical.org/), to develop place-based stories and collections, allowing local citizens and students to experience digitally enhanced walking tours or create their own multimedia stories, tagging locations with text, images, and video.  See the [CurateScape launch guide](https://curatescape.org/docs/project-launch-guide/) for detailed instructions that could be adapted to a class project. 
 
 ### The Passport Project 
-![screenshot](images/community-passport.png) 
+![screenshot](images/community-passport-project.png) 
 
 * Type: syllabus
 * Artifact Permissions: by permission of the author
