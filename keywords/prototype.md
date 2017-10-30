@@ -185,9 +185,6 @@ The prototyping exercises described here can be done in a variety of ways—as s
 * [https://marvelapp.com/](https://marvelapp.com/)
 * [http://d3js.org/](http://d3js.org/)
 * [http://littlebits.cc/bitcraft](http://littlebits.cc/bitcraft)
-* [http://www.makeymakey.com/](http://www.makeymakey.com/)
-* [https://www.arduino.cc/](https://www.arduino.cc/)
-* [https://www.raspberrypi.org/products/raspberry-pi-2-model-b/](https://www.raspberrypi.org/products/raspberry-pi-2-model-b/)
 
 ## WORKS CITED
 
