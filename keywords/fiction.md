@@ -48,7 +48,7 @@ The list ranges from datasets, to games, to works of creative fiction. Some invo
 ### TEXT
 
 #### *Frankenstein* Digital Edition Assignment
-![screenshot](images/fiction_harris_frankenstein.png)
+![screenshot](images/fiction-screenshot-frankenstein.png)
 
 * URL: [http://www.sjsu.edu/faculty/harris/TechnoRom_F09/Assignments.htm#FinalProj](http://www.sjsu.edu/faculty/harris/TechnoRom_F09/Assignments.htm#FinalProj)
 * Type: Assignment
@@ -57,7 +57,7 @@ The list ranges from datasets, to games, to works of creative fiction. Some invo
 Katherine Harris’s TechnoRomanticism class is structured around uses single large assignment—a digital edition of *Frankenstein*—to scaffold a semester’s work. Such an edition provides a tangible way of exploring how works of fiction emerge and develop historically. The assignment involves a number of skills, some broadly analytical others more specifically digital,  all grounded in the collaborative creation of a digital edition of a major text. The semester-spanning assignment provides a model that could be adapted to a variety of texts and contexts. It allows a single text to be the avenue through which a range of questions are asked, foregrounding questions of history—context, textual materiality, and medium—that treatments of genre or  “narrative” in the abstract might otherwise ignore.
 
 #### Infinite Ulysses
-![screenshot](images/fiction_visconti_ulysses.png)
+![screenshot](images/fiction-screenshot-ulysses.png)
 
 * URL: [http://www.infiniteulysses.com/](http://www.infiniteulysses.com/)
 * Creator: [Amanda Visconti](http://literaturegeek.com/) [http://www.amandavisconti.com/](http://www.amandavisconti.com/)
@@ -67,7 +67,7 @@ Katherine Harris’s TechnoRomanticism class is structured around uses single la
 *Infinite Ulysses* is one of the most sophisticated online editions currently available. For readers of *Ulysses* it is a wonderful resource, both for teaching and reading. More broadly, however, *Infinite Ulysses* offers the best illustration of the potential and possibilities of collaborative reading and annotation, akin to what Alan Liu has described as “social reading.” The range of materials that people use to annotate and enrich the collective, collaborative edition of *Ulysses* illustrates the ways that a single text can be enriched by cross-references, annotation, and contextual materials of various sorts.
 
 #### Character Networks in Gephi (or Word, for the Low-Fi Lovers)
-![screenshot](images/fiction_character-networks.png)
+![screenshot](images/fiction-screenshot-characternetworks.png)
 
 * Source URL: [http://chuckrybak.com/characters-networks-in-gephi-or-word-for-the-low-fi-lovers/](http://chuckrybak.com/characters-networks-in-gephi-or-word-for-the-low-fi-lovers/)
 * Type: Assignment
@@ -78,7 +78,7 @@ This assignment uses a single question—the relationship between a novel’s ch
 In [a valuable discussion of the assignment](http://chuckrybak.com/teaching/dh-toe-dip-character-networks-in-gephi/) Rybak notes that the assignment was inspired by one of the Stanford Lit Lab’s pamphlets on Hamlet and [“Network Theory, Plot Analysis”](http://litlab.stanford.edu/LiteraryLabPamphlet2.pdf)) and provides an illuminating account of its development. 
 
 ####  “Visualizing a Changing Nostromo”
-![image](images/fiction_tanigawa_nostromo.png)
+![image](images/fiction_nostromo.png)
 
 * [http://www.conradfirst.net/conrad/scholarship/authors/tanigawa
 ](http://www.conradfirst.net/conrad/scholarship/authors/tanigawa)
@@ -90,7 +90,7 @@ Katie Tanigawa’s article examines the epithets and appellations of a single ch
 While reproducing Tanigawa’s analysis, which requires time-consuming [TEI](http://www.tei-c.org/index.xml) markup followed by visualization with the [Mandala browser](http://mandala.humviz.org/), is probably not feasible in most classroom contexts, her article offers a model for how to begin to think about such questions. Tracing, collecting, and collating the appellations of a character or characters *is* something that a class could easily do as they read. And this data could be explored in less labor-intensive ways, using tools like [word trees](https://www.jasondavies.com/wordtree/), simple term frequencies, other [text analysis tools](./textanalysis.md), or even by manual comparison. For another digital analysis of names in fiction see Dalen-Oskam.
 
 #### IVANHOE
-![screenshot](./images/fiction_ivanhoe.png)
+![screenshot](./images/fiction-screenshot-ivanhoe.png)
 
 * URL: [http://ivanhoe.scholarslab.org/](http://ivanhoe.scholarslab.org/)
 * Creator: [The Scholars Lab](http://scholarslab.org/) (University of Virginia)
@@ -112,7 +112,7 @@ The goal of *IVANHOE*, Johanna Drucker explains, was to offer “a model digital
 Cole’s “Seven Short Stories” rewrites the iconic opening of major novels (*Mrs. Dalloway*, *Things Fall Apart*, and others), upsetting their canonical force with the violence of the United States’ 21st-century foreign policy. If the stories “deform” classic novels to highlight the violence of contemporary the “war on terror,” they also exploit the limitations/affordances of Twitter. Each of the seven stories initially appeared as a tweet, limited to 140 characters. The *tweet*, as a narrative form, is explored elsewhere by Cole (“Hafiz” and “A Piece of the Wall”), as well as by Jennifer Egan in her techno-thriller in miniature “Black Box”; all these works invite discussion about the narrative form, and affordances, of tweet. Can one tell a whole story in a tweet? What sorts of stories are better suited to a tweet? What sorts of story resist it? How do these narrative affordances of the tweet contrast with those of the works Cole here rewrites? In this way, “Seven Stories About Drones” is valuable even in pedagogical contexts not focused on digital, or new media, literature. In considering questions of narrative form and genre, it may be worth noting that Cole’s drone tweets are similar to his set of tweet-length fictions, inspired by the French newspaper genre *fait divers*, [“Small Fates”](http://www.tejucole.com/small-fates/). “Small Fates,” like the *fait divers*, invite reflection on the relationship between medium and genre, on literature and politics, on canonicity and contemporary politics. (Cole’s interview with Sarah Zhang offers valuable reflection on these works.)
 
 #### Teaching Literature Through Technology: Sherlock Holmes and Digital Humanities
-![screenshot](./images/fiction_swafford-teaching-literature.png)
+![screenshot](./images/fiction-screenshot-teachingliterature.png)
 
 * Source URL: [http://jitp.commons.gc.cuny.edu/teaching-literature-through-technology-sherlock-holmes-and-digital-humanities/](http://jitp.commons.gc.cuny.edu/teaching-literature-through-technology-sherlock-holmes-and-digital-humanities/)
 * Type: Article
@@ -123,9 +123,9 @@ Detective fiction generally, and the Sherlock Holmes stories in particular, offe
 In this article, Annie Swafford describes teaching a DH course centered around such stories, though many of her exercises could be used on any piece of fiction. Swafford’s class offers a rich set of digital labs that bring together the use of digital tools with reflection on questions of genre. Swafford describes using [word trees](https://www.jasondavies.com/wordtree/), which allow an an easy comparison of the different ways in which the characters "Holmes" and "Adler" are described in "A Scandal in Bohemia." The result is a particularly savvy way of bringing such analysis together with questions of genre, narrative, and gender, in a manner amenable to the classroom. Using the [word tree tool](https://www.jasondavies.com/wordtree/) Swafford describes, however, a similar comparison could be done between *any* characters in any text---either as an assignment for students, or collectively in class, to explore the ways a character or location within a story is described, and how those descriptions compare with others, or change over the course of the work.
 
 #### Rise of the Novel Syllabus
-![screenshot](./images/fiction_buurma_rise-of-the-novel.png)
+![screenshot](./images/fiction-screenshot-riseofthenovel.png)
 
-* Source URL: [https://github.com/rbuurma/rise-2015/blob/master/Syllabus/rise_2015_syllabus.md](https://github.com/rbuurma/rise-2015/blob/master/Syllabus/rise_2015_syllabus.md)
+* Source URL: [https://github.com/rbuurma/rise-2017/blob/master/Syllabus/rise-2017-syllabus-final.pdf](https://github.com/rbuurma/rise-2017/blob/master/Syllabus/rise-2017-syllabus-final.pdf)
 * Type: Syllabus
 * Creator: [Rachel Sagner Buurma](http://rachelsagnerbuurma.org/) (Swarthmore College)
 
@@ -133,10 +133,10 @@ Novels are perhaps the most important genre of fiction, and understanding the hi
 
 This syllabus integrates a variety of digital tools (including Named Entity Recognition, Digitization, [Voyant](https://voyant-tools.org/)) into a survey of the rise of the novel with a masterful selection of primary texts and literary theory. The result is a syllabus that manages to simultaneously cover a key subject in literary history (the emergence, growth, and evolution of the novel as a genre), while critically scrutinizing that very narrative, and providing introductions to a range of tools of approaches in the process. The tools are not merely tacked on, but are integral to the examination of the “rise” of the novel the syllabus offers.
 
-The syllabuses readings and activities provide a model for how to integrate digital tools alongside more conventional activities (e.g. close reading, descriptive bibliography).
+The class's [assignments](https://github.com/rbuurma/rise-2017/tree/master/Assignments) provide an ideal model for how to integrate digital tools alongside more conventional activities (e.g. close reading, descriptive bibliography).
 
 #### Fundamental Plot Arcs, Seen Through Multidimensional Analysis of thousands of TV and Movie Scripts
-![screenshot](./images/fiction_schmidt_phrase-i-love-you.png)
+![screenshot](./images/fiction_screenshot-wordsinscreentime.png)
 
 * Source URL: [http://sappingattention.blogspot.com/2014/12/fundamental-plot-arcs-seen-through.html](http://sappingattention.blogspot.com/2014/12/fundamental-plot-arcs-seen-through.html)
 * Type: Blog Post
@@ -148,7 +148,7 @@ Schmidt’s analysis in this post begins with phrases, and goes on to examine mo
 While Schmidt’s method by the end of this post (plotting the *principal components* of the *topics* extracted from topic modeling) is too advanced for almost any class not focused on computational approaches to literature, the broader questions of Schmidt’s analysis—using words, phrases, or topics to examine and compare plots—can be valuably repurposed. Similar questions about how to analyze plot, and by what measures, are at stake in the debates about plot and sentiment discussed in Jocker’s “Revealing Sentiment and Plot Arcs with the Syuzhet Package” and Swafford’s “Why Syuzhet Doesn’t Work and How We Know,” listed under **Related Materials**.
 
 #### txtLAB450
-![screenshot](./images/fiction_txtlab450.png)
+![screenshot](./images/fiction-screenshot-txtlab450.png)
 
 * Source URL: [http://txtlab.org/?p=601](http://txtlab.org/?p=601)
 * Type: Dataset
@@ -174,7 +174,7 @@ Jockers, Matthew. “Revealing Sentiment and Plot Arcs with the Syuzhet Package.
 
 Auden, W. H. “The Guilty Vicarage.” *The Critical Performance*. Ed. Stanley Edgar Hyman. Vintage Books, 1956, pp. 301-314.
 
-Buurma, Rachel Sagner. "Rise of the Novel Syllabus." Fall 2015. <https://github.com/rbuurma/rise-2015/blob/master/rise_2015_syllabus.md>.
+Buurma, Rachel Sagner. "Rise of the Novel Syllabus." Fall 2017. <https://github.com/rbuurma/rise-2017>.
 
 Cole, Teju. “A Piece of the Wall.” Web. [<https://twitter.com/tejucole/timelines/444262126954110977>](https://twitter.com/tejucole/timelines/444262126954110977)
 
