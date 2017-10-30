@@ -63,7 +63,7 @@ Below are ten examples of iteration in digital pedagogy, spanning classes in com
 * Artifact Type: Portfolio assignment
 * Source: [http://www.wordsinspace.net/mapsmedia/fall2015/requirements-assignments/](http://www.wordsinspace.net/mapsmedia/fall2015/requirements-assignments/) [screenshot](http://www.wordsinspace.net/mapsmedia/fall2015/category/map-critiques/)
 * Permissions: CC BY-NC 
-* Copy of Artifact: iteration-maplabsatlasassignment.pdf
+* Copy of Artifact: [iteration-maplabsatlasassignment.pdf](files/iteration-maplabsatlasassignment.pdf)
 * Creator and affiliation: Shannon Mattern, New School Graduate Studio  
 
 In Shannon Mattern’s Maps as Media course, students produce a final portfolio of maps—an atlas—comprised of five different mapping approaches to one subject. The course asks students to “experiment with a variety of critical mapping tools and methods, from techniques of critical cartography to sensory mapping to time-lining, using both analog and digital approaches.” Students have produced atlases on politics in Sri Lanka, the body, counter-maps to NYPD’s “locations of [Muslim] concern,” and every brewery in Brooklyn since 1840. In producing multiple mapped perspectives on one subject, students see the gaps between their iterations and learn the limitations of mapping: “not everything is mappable, and not everything belongs on a map” (Mattern, “Map as Metaphor”). Although this assignment is from a masters-level course, it would scale to a project-based undergraduate course.
@@ -79,7 +79,7 @@ Additional student examples: [http://www.wordsinspace.net/wordpress/2013/12/18/m
 * Artifact Type: Syllabus
 * Source: [https://jentery.github.io/508/](https://jentery.github.io/508/)
 * Permissions: CC BY-NC
-* Copy of Artifact: iteration-prototypingtextssyllabus.pdf
+* Copy of Artifact: [iteration-prototypingtextssyllabus.pdf](files/iteration-prototypingtextssyllabus.pdf)
 * Creator and affiliation: Jentery Sayers, University of Victoria    
 
 In this course, Jentery Sayers invites both undergraduates and graduate students to push against notions of Digital Humanities as instrumental, ahistorical or non-interpretive. Students perform “interpretation through alteration” of the texts under scrutiny by “prototyping” them in metadata, plain text/markup, typography, forms, glitch, and repair (Sayers). To alter/prototype/iterate these texts, they “substitute words, change formats, rearrange poems, remediate fictions, juxtapose images, bend texts, and reconstitute book arts” (Sayers). In so doing, students learn how making and iterating can be a form of criticism, and reinvigorate the now-depoliticized concept of iteration itself. Student examples include handmade books, overlapping Word documents, twitterbots, and even [a knitted interpretation of Queneau’s One Hundred Thousand Billion Poems](https://508prototypepage.wordpress.com/2016/04/06/week-12-knit-it/).
@@ -95,7 +95,7 @@ Student examples: [Tiffany Chan’s “Act Natural”](http://eltiffster.github.
 * Artifact Type: Unit with readings and assignments
 * Source: [‘Notes’ and ‘Bios’ Unit for the Words and Images Course](http://kebanazek.com/wai/banazek-wai-bios.pdf)
 * Permissions: CC BY-NC
-* Copy of Artifact: iteration-wordsandimagesbios.pdf
+* Copy of Artifact: [iteration-wordsandimagesbios.pdf](files/iteration-wordsandimagesbios.pdf)
 * Creators: Kerry Banazek, New Mexico State University
 
 In “Words and Images,” an undergraduate literature course, Kerry Banazek asks students to introduce themselves with six iterations of biographies: a paragraph, a sentence, five words, punctuation marks only, four emojis, then unlimited emojis. This exercise kicks off the course and a unit focused on expressing meaning and affect in both image and word. Later in the term, students translate poems into emoji and invent visualization methods for tracking patterns in poems. These iterative translation exercises help students develop dexterity in producing meaningful images and illustrative words.
@@ -106,7 +106,7 @@ In “Words and Images,” an undergraduate literature course, Kerry Banazek ask
 * Artifact Type: Weekly exercises
 * Source: 
 * Permissions: CC BY-NC
-* Copy of Artifact: iteration-exercisesinstyle.docx
+* Copy of Artifact: [iteration-exercisesinstyle.docx](files/iteration-exercisesinstyle.docx)
 * Creator: Collin Brooke, Syracuse University
 
 Collin Brooke’s undergraduate writing course was explicitly modeled on Queneau’s *Exercises in Style*. Students began by designing a scenario that echoed Queneau’s encounter on the Paris Metro and then each week rewrote it according to different constraints, always sharing and discussing their work, and sometimes working on each other’s scenarios. Although the exercises don’t explicitly feature digital approaches, Brooke designed them to be “procedural in a way that’s analogous to iterating code, just the product is different.” Brooke says, “my favorite thing about iteration is that offers a path out of the Scylla-Charybdis of either revising toward perfection or ‘taking risks’” (personal communication). This resource models the Queneau approach to iteration and could be easily adapted to digital platforms.
@@ -119,7 +119,7 @@ Collin Brooke’s undergraduate writing course was explicitly modeled on Queneau
 * Artifact Type: Syllabus
 * Source: [http://leonardoflores.net/3238/](http://leonardoflores.net/3238/)
 * Permissions: CC BY-NC
-* Copy of Artifact: iteration-digitalcreativewritingsyllabus.docx
+* Copy of Artifact: [iteration-digitalcreativewritingsyllabus.docx](files/iteration-digitalcreativewritingsyllabus.docx)
 * Creators: Leonardo Flores, University of Puerto Rico: Mayagüez
 
 Leonardo Flores’s “Digital Creative Writing” course, in which students compose hypertext, Twine, Netprov, kinetic typography, memes, Twitterbots, and remixes of Nick Montfort’s Taroko Gorge or Christopher Strachey’s “Love Letter Generator,” is a rich resource for iterative digital pedagogy. Flores calls these genres “generative writing,” suggesting they are both generated and generative. Here, producing an interesting collection matters more than any given iteration; proliferation is the pedagogical point because it helps students engage deeply with a platform or genre. A nice pairing with Flores’s assignments might be James Brown, Jr.’s “Writing with machines: data and process in Taroko Gorge,” which offers a theoretical perspective and reference to historical precedence in Oulipo and cut-ups.
@@ -134,7 +134,7 @@ Student Twitterbots: [@atinyzoo](https://twitter.com/atinyzoo) [@BadNewsLetter](
 * Artifact Type: Assignment
 * Source: [http://courses.rachaelsullivan.com/248/internet-poetry.html](http://courses.rachaelsullivan.com/248/internet-poetry.html)
 * Permissions: CC BY-NC
-* Copy of Artifact: iteration-InternetPoetryAssignment.pdf
+* Copy of Artifact: [iteration-InternetPoetryAssignment.pdf](files/iteration-InternetPoetryAssignment.pdf)
 * Creator: Rachael Sullivan, St. Joseph’s University
 
 With inspiration and theoretical background from Kenneth Goldsmith’s “uncreative writing,” Rachael Sullivan asked her undergraduate students in “Information Overload: Literature and Contemporary Life” to compose poetry from found texts online, imitating a popular image-macro form. She showcases examples of “Internet literature,” where “Everything on the list either [1] responds to internet culture as a theme, [2] uses features of the internet (such as hyperlinking) as literary techniques, or [3] depends on the internet as a distribution platform” (“Assignment”). By composing their own “Internet poetry” from language found online, students used an iterative process to recontextualize and reconsider issues of information overload. This resource is just one way instructors could have students iterate on found language online.
@@ -151,7 +151,7 @@ With inspiration and theoretical background from Kenneth Goldsmith’s “uncrea
 ["Capture a feeling in sound"](https://composedm2016.wordpress.com/mini-challenges/)  
 ["Audio cut-up"](https://composedm2016.files.wordpress.com/2016/01/hall_engcmp0610s_cdm_audiocutup1.pdf)
 * Permissions: CC BY-NC
-* Copies of artifacts: iteration-Conceptin60.docx  
+* Copies of artifacts: [iteration-Conceptin60.docx](files/iteration-Conceptin60.docx)  
 iteration-Emotionin60.docx  
 iteration-captureafeelinginsound.docx
 * Creators: Scott Lloyd DeWitt, The Ohio State University;  
@@ -166,12 +166,12 @@ Three iterations of this “60 seconds” audio/video assignment are featured he
 * Artifact Type: Assignment
 * Source: 
 * Permissions: CC BY-NC
-* Copy of Artifact: iteration-epubassignment.pdf
+* Copy of Artifact: [iteration-epubassignment.pdf](files/iteration-epubassignment.pdf)
 * Creator: Tim Lockridge, Miami University of Ohio
 
 Tim Lockridge’s undergraduate Digital Publishing course teaches students about the technologies, techniques and professional practices of digital publishing. For the midterm, featured here, students downloaded a book from Project Gutenberg, and converted it to an ePub format, and then wrote a production memo documenting their process. They turned plain text into (X)HTML, created a style sheet, included metadata, formatted a cover image and illustrations, and provided all copyright and source information for the text. The final project asked students to convert a Miami University Press book to ePub (with permission from the Press). By producing new iterations of books, students learned conventions of digital publishing and the importance of small details in different versions of texts. Literary or technical writing courses incorporating digital editions could benefit from this model resource.
 
-[Student Production Memo, by Collins, Duffy, Maggio and Moore](files/iteration-EPubAssignment-Lockridge-StudentProductionMemoCollinsMaggioMoore)
+[Student Production Memo, by Collins, Duffy, Maggio and Moore](files/iteration-epubassignment-studentexamplememo.pdf)
 
 #### Social Media Bios
 ![screenshot](images/iteration-socialmediabios.jpg)
@@ -179,7 +179,7 @@ Tim Lockridge’s undergraduate Digital Publishing course teaches students about
 * Artifact Type: Assignment
 * Source: [http://spelmanwrites384.tumblr.com/post/142041620452/week-11](http://spelmanwrites384.tumblr.com/post/142041620452/week-11)
 * Permissions: CC BY-NC
-* Copy of Artifact: iteration-socialmediabios.docx
+* Copy of Artifact: [iteration-socialmediabios.docx](files/iteration-socialmediabios.docx)
 * Creator: Alexandria Lockett, Spelman College
 
 This assignment asks students to produce three iterations of a public biography, combine them, and respond to each other’s work as “creative consultants.” It is part of Alexandria Lockett’s “Rhetoric of Advertising” course, which moves beyond a traditional, analytical frame and asks students to think about “strategic communication” and how they “brand” and present themselves online. Lockett aims to help students with strategic and proactive self-presentation in “a space where race, gender, and geography mediate students’ relationship to privacy and their perception of legitimate public displays of ‘professional identity’” (personal communication, May 18, 2016). Working toward that goal, these versioned bios help students to recognize and shape the impact of different iterations of themselves online—an important goal in social media courses.
@@ -195,7 +195,7 @@ Student examples: [Alexandra Calloway’s Linked-in profile](https://www.linkedi
 * Artifact Type: Assignment Sequence
 * Source: 
 * Permissions: CC BY-NC
-* Copy of Artifact: iteration-videogamedesignassignment.docx
+* Copy of Artifact: [iteration-videogamedesignassignment.docx](files/iteration-videogamedesignassignment.docx)
 * Creator: Wendi Sierra, St. John Fisher University
 
 In Wendi Sierra’s undergraduate game design class, students learn both theoretical and practical aspects of video game design by iterating from design doc to alpha and beta testing to a functioning game on the Gamemaker or Unity platforms. Her assignment includes technical specifications concerning sound, animated objects, and scalability, as well as design goals of genre, rules, and thematic coherence. Her beta-testing worksheet guides peer review of the games in process. While the assignment may be challenging for teachers new to game design principles, Sierra’s process for taking students through game design from theoretical readings to paper versions to executable games serves as a great model for iterative structure in pedagogy, and the earlier stages could be implemented without significant technical expertise in game design.
