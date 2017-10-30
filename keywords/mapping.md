@@ -170,7 +170,7 @@ This project models what a student would be able to achieve when they are able t
 * Artifact Type: Website containing Learning Objectives, Teaching Guidelines, Student Work 
 * Source URL: [http://www.dhinitiative.org/about/interns-class-skills](http://www.dhinitiative.org/about/interns-class-skills)
 * Permissions: CC-BY-NC
-* Copy of Artifact: Forthcoming 
+* Copy of Artifact: N/A
 * Creators: Angel Nieves and Janet Simons, Co-Directors, DHi Initiative, Hamilton College
 
 This useful information provides descriptive and explicit details about models to integrate undergraduates in collaborative teaching and research experiences, including technical skill sets that undergraduate students may encounter while doing work with DH projects. Examples and elements of mapping, GIS, 3D modeling, and spatial visualization are included in each of the categories. These types of activities and skills listed could be modeled by faculty for a single classroom-activity, assigned to students within a class context, or become the basis for a “DH research methods” with a focus on mapping. For example, maps are one student-produced outcome of the [Sacred Centers in India](http://sci.dhinitiative.org/pedagogy) project. 
@@ -211,8 +211,6 @@ Hallisey, Elaine J. “Cartographic Visualization: An Assessment and Epistemolog
 Jessop, Martin. “The Inhibition of Geographical Information in Digital Humanities Scholarship.” *Literary and Linguistic Computing,* vol. 23, no. 1, 2007, pp. 39–50., doi:10.1093/llc/fqm041.
 
 Knowles, Anne Kelly. “A Case for Teaching Geographic Visualization without GIS.” *Cartographic Perspectives,* no. 36, Jan. 2000, pp. 23–37., doi:10.14714/cp36.823. 
-
-Larsen, Lillian A., and Steven Benzek. “Min(d)Ing the Gaps: Exploring Ancient Landscapes through the Lens of GIS.” *Transformations: The Journal of Inclusive Scholarship and Pedagogy,* vol. 25, no. 1, 2014, pp. 45–58., doi:10.1353/tnf.2014.0003.
 
 Lloyd, Robert Earl, and Rick L. Bunch. “Learning Geographic Information from a Map and Text: Learning Environment and Individual Differences.” *Cartographica: The International Journal for Geographic Information and Geovisualization,* vol. 45, no. 3, 2010, pp. 169–184., doi:10.3138/carto.45.3.169.
 
