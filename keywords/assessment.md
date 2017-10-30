@@ -59,7 +59,7 @@ Assessment Design: the relationship between all the learning in a course. Intent
 
 * Artifact Type: Syllabus
 * Source: [http://www.cmu.edu/teaching/designteach/design/syllabus/samples-creative/TypographySyllabus.pdf](http://www.cmu.edu/teaching/designteach/design/syllabus/samples-creative/TypographySyllabus.pdf)
-* Copy of Artifact: forthcoming
+* Copy of Artifact: [files/assessment-typography-syllabus.pdf](files/assessment-typography-syllabus.pdf)
 * Creators: Karen Moyer and Dan Boyarski, Carnegie Mellon University
 
 Category: Formative Assessment
@@ -73,7 +73,7 @@ This syllabus serves as an introduction to both the work of the course and its p
 
 * Artifact Type: Syllabus
 * Source: (http://www.tonahangen.com/wp-content/uploads/2010/06/193.Fall14.pdf)
-* Copy of Artifact: forthcoming
+* Copy of Artifact: [assessment-american-carnival-syllabus.pdf](files/assessment-american-carnival-syllabus.pdf)
 * Creator: Tona Hangen, Worcester State University
 
 Category: Formative Assessment
@@ -86,7 +86,7 @@ Tona Hangen's "[Writing Syllabi Worth Reading](http://www.tonahangen.com/courses
 
 * Artifact Type: Assignment
 * Source: [http://sites.duke.edu/lit80s_01_f2014/evaluating-digital-humanities-projects-collaborative-course-assessment/](http://sites.duke.edu/lit80s_01_f2014/evaluating-digital-humanities-projects-collaborative-course-assessment/)
-* Copy of Artifact: forthcoming 
+* Copy of Artifact: [assessment-evaluating-digital-humanities-projects.pdf](files/assessment-evaluating-digital-humanities-projects.pdf) 
 * Creator: Amanda Starling Gould, Duke University
 
 Category: Formative Assessment
@@ -99,7 +99,7 @@ This assignment includes multiple measures, collaboration, integration of concep
 
 * Artifact Type: Assignment
 * Source: [http://arthistoryteachingresources.org/2014/06/arthistory-instagram-and-the-intro-to-art-history-course/](http://arthistoryteachingresources.org/2014/06/arthistory-instagram-and-the-intro-to-art-history-course/) 
-* Copy of Artifact: forthcoming 
+* Copy of Artifact: [assessment-#arthistory-Instagram.pdf](files/assessment-#arthistory-Instagram.pdf) 
 * Creator: Hallie Scott, CUNY Graduate Center
 
 Category: Formative Assessment
@@ -112,7 +112,7 @@ Students curate a series of images on Instagram and connect them to key course c
 
 * Artifact Type: Assignment
 * Source: [http://www.mentira.org/](http://www.mentira.org)
-* Copy of Artifact: forthcoming
+* Copy of Artifact: none
 * Creators: Chris Holden and Julie Sykes, University of New Mexico, Lead Designers; Linda Lemus, Aaron Salinger, Derek Roff, University of New Mexico, Game Designers
 
 Category: Formative Assessment
@@ -125,7 +125,7 @@ While games cannot replace the experience of travel in a foreign country, they c
 
 * Artifact Type: Assignment
 * Source: [https://www.hastac.org/blogs/taxomania/2014/01/28/02-using-zines-classroom](https://www.hastac.org/blogs/taxomania/2014/01/28/02-using-zines-classroom)
-* Copy of Artifact: forthcoming 
+* Copy of Artifact: [assessment-structuring-reflection.docx](files/assessment-structuring-reflection.docx) 
 * Creator: Jason Luther, Syracuse University
 
 Category: Self-Assessment, Summative Assessment
@@ -138,7 +138,7 @@ Staging meaningful reflection can be difficult. Luther’s course relied on the 
 
 * Artifact Type: Student Work
 * Source: [https://emblematicaonlineuiuc.wordpress.com/heidi-heim/](https://emblematicaonlineuiuc.wordpress.com/heidi-heim/)
-* Copy of Artifact: forthcoming 
+* Copy of Artifact: [assessment-Emblematica-Online.pdf](files/assessment-Emblematica-Online.pdf) 
 * Creator: Heidi Heim, University of Illinois at Urbana-Champaign
 
 Category: Self-Assessment, Summative Assessment
@@ -151,7 +151,7 @@ Heim participated  in an undergraduate digital humanities research team that cre
 
 * Artifact Type: Student Work and Assessment Narrative
 * Source: [http://neu.mcnrc.org/oa-story/](http://neu.mcnrc.org/oa-story/)
-* Copy of Artifact: forthcoming 
+* Copy of Artifact: [assessment-Are-We-Who-We-Think-We-Are?.pdf](files/assessment-Are-We-Who-We-Think-We-Are?.pdf) 
 * Creators: Gail Matthews-Denatale, Northeastern University
 
 Category: Self-Assessment, Summative Assessment
@@ -164,7 +164,7 @@ Practices: Professional Development, Integration, Technology
 
 * Artifact Type: Assignment Assessment
 * Source: http://technorhetoric.net/10.2/coverweb/sorapure/betweenmodes.html
-* Copy of Artifact: forthcoming
+* Copy of Artifact: [assessment-structuring-reflection.docx](filesassessment-structuring-reflection.docx)
 * Creators: Madeleine Sorapure, UC Santa Barbara
 
 Category: Self-Assessment, Summative Assessment
@@ -177,7 +177,7 @@ This multimodal article examines the disconnect between new media assignments an
 
 * Artifact Type: Assignment Assessment
 * Source: http://journalofwritingassessment.org/article.php?article=68
-* Copy of Artifact: forthcoming
+* Copy of Artifact: none
 * Creator: Joe Moxley, University of South Florida 
 
 Category: Formative Assessment, Summative Assessment
