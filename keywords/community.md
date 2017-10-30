@@ -142,7 +142,7 @@ Similarly, [CurateScape](https://curatescape.org/) is an open-source framework t
 The Passport Project is an innovative first-year course that asks students to blog about community events representing the arts, humanities, sciences, along with political events and performances in dance, theater, and music. Peer Mentors, recent graduates of the program, lead small group discussions. The course could be easily adapted to a variety of technological platforms and communities, and encourages students to identify, early on, not only as members of the campus community but also the broader local community.
 
 ### Public Matters 
-![screenshot](images/community-publicmatters.png) 
+![screenshot](images/community-public-matters.jpg) 
  
 * Type: teaching materials
 * Source URL: [http://www.publicmattersgroup.com/](http://www.publicmattersgroup.com/)
