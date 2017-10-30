@@ -146,6 +146,7 @@ Mukurtu is a free, open-source content management system aimed at empowering ind
 Students can be tasked with exploring the CMS's functionality and reporting on its affordances and limitations in comparison with other similar database exhibition tools (for example, Omeka, Scalar, Wordpress, Drupal etc.), culminating in a final project of working together with a local community to build their own particular instance of Mukurtu for their uses.
 
 ### "In the Face of Xenophobia: Lessons to address bullying of South Asian American youth"
+![screenshot](images/race-saalt-lessonplan.png)
 * Artifact Type: lesson plans
 * Source URL: https://saalt.org/wp-content/uploads/2013/06/InTheFaceOfXenophobia-Final-11.4.2013.pdf
 * Permissions: CC BY-NC-ND
