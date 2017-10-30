@@ -48,7 +48,7 @@ The list ranges from datasets, to games, to works of creative fiction. Some invo
 ### TEXT
 
 #### *Frankenstein* Digital Edition Assignment
-![screenshot](images/fiction_harris_frankenstein.png)
+![screenshot](images/fiction_frankenstein.png)
 
 * URL: [http://www.sjsu.edu/faculty/harris/TechnoRom_F09/Assignments.htm#FinalProj](http://www.sjsu.edu/faculty/harris/TechnoRom_F09/Assignments.htm#FinalProj)
 * Type: Assignment
@@ -57,7 +57,7 @@ The list ranges from datasets, to games, to works of creative fiction. Some invo
 Katherine Harris’s TechnoRomanticism class is structured around uses single large assignment—a digital edition of *Frankenstein*—to scaffold a semester’s work. Such an edition provides a tangible way of exploring how works of fiction emerge and develop historically. The assignment involves a number of skills, some broadly analytical others more specifically digital,  all grounded in the collaborative creation of a digital edition of a major text. The semester-spanning assignment provides a model that could be adapted to a variety of texts and contexts. It allows a single text to be the avenue through which a range of questions are asked, foregrounding questions of history—context, textual materiality, and medium—that treatments of genre or  “narrative” in the abstract might otherwise ignore.
 
 #### Infinite Ulysses
-![screenshot](images/fiction_visconti_ulysses.png)
+![screenshot](images/fiction_ulysses.png)
 
 * URL: [http://www.infiniteulysses.com/](http://www.infiniteulysses.com/)
 * Creator: [Amanda Visconti](http://literaturegeek.com/) [http://www.amandavisconti.com/](http://www.amandavisconti.com/)
@@ -78,7 +78,7 @@ This assignment uses a single question—the relationship between a novel’s ch
 In [a valuable discussion of the assignment](http://chuckrybak.com/teaching/dh-toe-dip-character-networks-in-gephi/) Rybak notes that the assignment was inspired by one of the Stanford Lit Lab’s pamphlets on Hamlet and [“Network Theory, Plot Analysis”](http://litlab.stanford.edu/LiteraryLabPamphlet2.pdf)) and provides an illuminating account of its development. 
 
 ####  “Visualizing a Changing Nostromo”
-![image](images/fiction_tanigawa_nostromo.png)
+![image](images/fiction_nostromo.png)
 
 * [http://www.conradfirst.net/conrad/scholarship/authors/tanigawa
 ](http://www.conradfirst.net/conrad/scholarship/authors/tanigawa)
@@ -112,7 +112,7 @@ The goal of *IVANHOE*, Johanna Drucker explains, was to offer “a model digital
 Cole’s “Seven Short Stories” rewrites the iconic opening of major novels (*Mrs. Dalloway*, *Things Fall Apart*, and others), upsetting their canonical force with the violence of the United States’ 21st-century foreign policy. If the stories “deform” classic novels to highlight the violence of contemporary the “war on terror,” they also exploit the limitations/affordances of Twitter. Each of the seven stories initially appeared as a tweet, limited to 140 characters. The *tweet*, as a narrative form, is explored elsewhere by Cole (“Hafiz” and “A Piece of the Wall”), as well as by Jennifer Egan in her techno-thriller in miniature “Black Box”; all these works invite discussion about the narrative form, and affordances, of tweet. Can one tell a whole story in a tweet? What sorts of stories are better suited to a tweet? What sorts of story resist it? How do these narrative affordances of the tweet contrast with those of the works Cole here rewrites? In this way, “Seven Stories About Drones” is valuable even in pedagogical contexts not focused on digital, or new media, literature. In considering questions of narrative form and genre, it may be worth noting that Cole’s drone tweets are similar to his set of tweet-length fictions, inspired by the French newspaper genre *fait divers*, [“Small Fates”](http://www.tejucole.com/small-fates/). “Small Fates,” like the *fait divers*, invite reflection on the relationship between medium and genre, on literature and politics, on canonicity and contemporary politics. (Cole’s interview with Sarah Zhang offers valuable reflection on these works.)
 
 #### Teaching Literature Through Technology: Sherlock Holmes and Digital Humanities
-![screenshot](./images/fiction_swafford-teaching-literature.png)
+![screenshot](./images/fiction_teaching-literature.png)
 
 * Source URL: [http://jitp.commons.gc.cuny.edu/teaching-literature-through-technology-sherlock-holmes-and-digital-humanities/](http://jitp.commons.gc.cuny.edu/teaching-literature-through-technology-sherlock-holmes-and-digital-humanities/)
 * Type: Article
@@ -123,7 +123,7 @@ Detective fiction generally, and the Sherlock Holmes stories in particular, offe
 In this article, Annie Swafford describes teaching a DH course centered around such stories, though many of her exercises could be used on any piece of fiction. Swafford’s class offers a rich set of digital labs that bring together the use of digital tools with reflection on questions of genre. Swafford describes using [word trees](https://www.jasondavies.com/wordtree/), which allow an an easy comparison of the different ways in which the characters "Holmes" and "Adler" are described in "A Scandal in Bohemia." The result is a particularly savvy way of bringing such analysis together with questions of genre, narrative, and gender, in a manner amenable to the classroom. Using the [word tree tool](https://www.jasondavies.com/wordtree/) Swafford describes, however, a similar comparison could be done between *any* characters in any text---either as an assignment for students, or collectively in class, to explore the ways a character or location within a story is described, and how those descriptions compare with others, or change over the course of the work.
 
 #### Rise of the Novel Syllabus
-![screenshot](./images/fiction_buurma_rise-of-the-novel.png)
+![screenshot](./images/fiction_rise-of-the-novel.png)
 
 * Source URL: [https://github.com/rbuurma/rise-2017/blob/master/Syllabus/rise-2017-syllabus-final.pdf](https://github.com/rbuurma/rise-2017/blob/master/Syllabus/rise-2017-syllabus-final.pdf)
 * Type: Syllabus
@@ -136,7 +136,7 @@ This syllabus integrates a variety of digital tools (including Named Entity Reco
 The class's [assignments](https://github.com/rbuurma/rise-2017/tree/master/Assignments) provide an ideal model for how to integrate digital tools alongside more conventional activities (e.g. close reading, descriptive bibliography).
 
 #### Fundamental Plot Arcs, Seen Through Multidimensional Analysis of thousands of TV and Movie Scripts
-![screenshot](./images/fiction_schmidt_phrase-i-love-you.png)
+![screenshot](./images/fiction_words-in-screen-time.png)
 
 * Source URL: [http://sappingattention.blogspot.com/2014/12/fundamental-plot-arcs-seen-through.html](http://sappingattention.blogspot.com/2014/12/fundamental-plot-arcs-seen-through.html)
 * Type: Blog Post
