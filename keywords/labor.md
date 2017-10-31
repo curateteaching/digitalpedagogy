@@ -188,7 +188,7 @@ This assignment gives students the opportunity to create their own website, with
 * Artifact Type: rubric
 * Source URL: [http://digitalmateriallabor.org/wp-content/uploads/2013/12/DH-150-14W-Final-project-assignment1.pdf](http://digitalmateriallabor.org/wp-content/uploads/2013/12/DH-150-14W-Final-project-assignment1.pdf)
 * Artifact Permissions: CC BY-NC 4.0
-* Copy of the Artifact: [http://digitalmateriallabor.org/wp-content/uploads/2013/12/DH-150-14W-Final-project-assignment1.pdf](http://digitalmateriallabor.org/wp-content/uploads/2013/12/DH-150-14W-Final-project-assignment1.pdf)
+* Copy of the Artifact: [Device Narratives Grading Rubric](files/labor-Device-Narratives-Grading-rubric.pdf)
 * Creators and Affiliations:  Miriam Posner, University of California Los Angeles
 * Tags: getting started
 
