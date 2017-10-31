@@ -77,7 +77,6 @@ share an [aggregation of feeds from participant blogs/tweets](http://cck11.mooc.
 * Artifact Type: collaborative project
 * Source URL: [http://femtechnet.org](http://femtechnet.org)
 * Artifact Permissions: CC-BY-NC-SA
-* Copy of the Artifact 
 * Creator and Affiliation: FemTechNet, Multiple Universities
 
 FemTechNet is a network of scholars, artists, and students who work on, with, and at the borders of technology, science and feminism in a variety of fields including STS, Media & Visual Studies, Art, Women’s, Queer, and Ethnic Studies.  Members in the network collaborate on the design and creation of projects of feminist technological innovation. This artifact highlights how a network may support a variety of different kinds of learners. Some may participate in the [FemTechNet DOCC](http://femtechnet.newschool.edu/docc2013/) (“Distributed Open Collaborative Course” - a collaborative open course structure) through the creation of independent studies arranged by students and teachers in other learning contexts.  Others may connect as self-directed learners who participate on their own.  In addition, the network supports “drop-in learners” who tune in for a particular discussion. The power of the network is illustrated by the variety of FemTechNet projects which can be initiated by anyone through the FTN Commons.
@@ -87,10 +86,10 @@ FemTechNet is a network of scholars, artists, and students who work on, with, an
 
 ![screenshot](images/network-marginalsyllabus.jpg)
 
-* Artifact Type: assignment
+* Artifact Type: syllabus
 * Source URL: http://marginalsyllab.us/
 * Artifact Permissions: CC-BY, and annotations are by default CC0
-* Copy of the Artifact: (download the 2017/2018 syllabus? http://marginalsyllab.us/conversations/the-2017-18-syllabus/)
+* Copy of the Artifact: [2017/2018 syllabus](files/network-marginal-syllabus.pdf) 
 * Creator and Affiliation: A multi-stakeholder collaboration between Hypothesis, a non-profit organization building an open platform for discussion on the web, Aurora Public Schools in Aurora, CO, and Researchers and teacher educators from the University of Colorado Denver School of Education and Human Development in Denver, CO. 2017/2018 syllabus in collaboration with the National Writing Project
 
 
@@ -103,7 +102,7 @@ Digital annotation can expand our understanding of what is possible when we read
 * Artifact Type: collaborative project
 * Source URL: https://docs.google.com/document/d/14-V6ZQgIQ3Mpq6QCPvvFr2y-45zdzxIh721yPSlHbyo/pub
 * Artifact Permissions:  bottom of document says Creative Commons 
-* Copy of the Artifact: download the document 
+* Copy of the Artifact: [Open Learning Recipe](files/network-openlearningrecipe.pdf)
 * Creator and Affiliation: #rhizo15 MOOC participants: Maha Bali, Dave Cormier, Helen DeWaard, Barry Dyck, Ann Gagne, Dilrukshi Gamage, Kevin Hodgson, Rebecca J. Hogue, Sarah Honeychurch, Keesa V. Johnson, Scott Johnson, James Kerr, Daniel Lynds, Laura Pasquini, Sandra Sinfield, Lenandlar Singh, Wendy Taleo, Lee Skallerup Bessette, Sandra Rennie, Blair Vessey, Susan Watson, Wafa Nichols
 
 
@@ -117,7 +116,7 @@ This is a crowdsourced document in which participants in a rhizomatic/connectivi
 * Artifact Type: collaborative project
 * Source URL: [http://peeragogy.github.io](http://peeragogy.github.io)
 * Artifact Permissions: CC0
-* Copy of the Artifact (in HTML, PDF, DOCX, TXT, MD, RTF, MP3, MP4, MOV, PNG, or JPG), if possible 
+* Copy of the Artifact: [Peeragogy Handbook](files/network-peeragogy-3-0-ebook.pdf)
 * Creator and Affiliation: J. Corneli, C. J. Danoff, C. Pierce, P. Ricuarte, and L. Snow MacDonald, eds. The Peeragogy Handbook. 3rd ed. Chicago, IL./Somerville, MA.: PubDomEd/Pierce Press, 2016. Downloaded from http://peeragogy.org. 
 
 A “how-to-do-it” resource on how a group of self-learners can organize via networked co-learning. The Peeragogy Handbook is a crowdsourced and collaboratively annotated compendium for any group of people who want to co-learn any subject together using the tools and knowledge available online.  When students are given an open group research project, this handbook guides co-learners in identifying shared purpose and defining self determined learning outcomes. The term “peeragogy” comes from [Howard Rheingold](http://rheingold.com/) via his [Social Media Classroom](http://socialmediaclassroom.com/).  Rheingold instigated this project, serving as a “catalyst” for the creation of this peer-created guide to pure peer-to-peer learning in the networked era. Peeragogy is a flexible framework of techniques for peer learning and peer knowledge production. Whereas pedagogy deals with the transmission of knowledge from teachers to students, peeragogy is what people use to produce and apply knowledge together. The strength of peeragogy is its flexibility and scalability through networked learning.  
@@ -127,9 +126,9 @@ A “how-to-do-it” resource on how a group of self-learners can organize via n
 
 ![screenshot](images/screenshot-network-AssessingValueCreation.png) 
 
+* Artifact Type: teaching guidelines or grading rubric
 * Source: http://wenger-trayner.com/resources/publications/evaluation-framework 
 * Artifact Permissions:  Copyright 2011 Ruud de Moor Centrum 
-* Type: teaching guidelines or grading rubric
 * Creators: Wenger, E., Trayner, B., and de Laat, M. 
 
 
@@ -148,7 +147,6 @@ The first four of these are adapted from Kirkpatrick’s work, long used in the 
 
 ![screenshot](images/network-ResNetSem_TAGSvisualization.png)
 
-* Title of Artifact: TAGSExplorer: #ResNetSem visualization 
 * Artifact Type: assignment
 * Source URL: https://tinyurl.com/ybl5spxl
 * Artifact Permissions: CC-BY-NC
@@ -162,9 +160,9 @@ Watching the development of a Twitter hashtag community can be a useful way to u
 
 ![screenshot](images/screenshot-network-tjc.png)
 
+* Artifact Type: collaborative project
 * Source URL: https://tjc16.wordpress.com/  
 * Artifact Permissions: CC-BY-SA
-* Type: collaborative project
 * Creator: Laura Gogia (changed affiliations, was a PhD student at Virginia Commonwealth University at the time of writing)
 
 
@@ -194,7 +192,6 @@ Rorabaugh & Stommel created “an epic zombified experiment in Twitter literacy,
 * Artifact Type: collaborative project
 * Source URL: http://www.youtube.com/virtuallyconnecting and http://www.virtuallyconnecting.org
 * Artifact Permissions: CC-BY-NC-ND for videos see https://virtuallyconnecting.org/reuse/
-* Copy of the Artifact if possible (not possible really)
 * Creator and Affiliation: Rebecca J. Hogue, University of Ottawa and Maha Bali, American University in Cairo
 
 
