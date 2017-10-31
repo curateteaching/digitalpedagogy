@@ -152,7 +152,7 @@ This exercise was developed for an advanced institute on data curation in digita
 
 * Artifact Type: student work
 * Source URL: [http://program.dh.ucla.edu/projects/2015/nydishes/](http://program.dh.ucla.edu/projects/2015/nydishes/) 
-* Artifact Permissions: CC-NC
+* Artifact Permissions: CC-BY-NC
 * Copy of the Artifact:  [5 Star Experience](files/curation-5starexperience.html) 
 * Creator and Affiliation: Krystal Lam, UCLA; Hee Jae Choi, UCLA; Gabriela Chitwood, UCLA; Tammy Pham, UCLA; Erika Freisen, UCLA; Adam Brownell, UCLA; course instructor: Miriam Posner, UCLA.
 
