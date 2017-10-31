@@ -227,7 +227,6 @@ Below is a list of visualization galleries. Having students travel through the g
 * [Milestones in the History of Thematic Cartography, Statistical Graphics and Data Visualization](http://www.datavis.ca/milestones/)
 * [Datavisualization.ch](http://selection.datavisualization.ch/)
 * [D3 Gallery](https://github.com/d3/d3/wiki/Gallery)
-* [Information Aesthetics](http://infosthetics.com/)
 * [Information is Beautiful](http://www.informationisbeautiful.net/)
 * [Visual Complexity](http://www.visualcomplexity.com/vc/)
 
