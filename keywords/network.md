@@ -56,7 +56,7 @@ Artifacts were chosen to show diverse ways of networking, many of which are meta
 
 ### Connectivism & Connected Knowledge
 
-![screenshot](images/screenshot-network-connectivism.png)
+![screenshot](images/network-connectivism.png)
  
 * Artifact Type: Course site. CCK11 (updated from CCK08, first connectivist MOOC)
 * Source URL: http://cck11.mooc.ca/index.html 
