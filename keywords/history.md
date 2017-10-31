@@ -29,6 +29,9 @@ Carleton University, Ottawa | [http://electricarchaeology.ca](http://electricarc
 
 ---
 
+### Cross-Reference Keywords: blogging, eportfolio, failure, gaming, makerspaces, mapping, play, public, text analysis
+---  
+
 ## CURATORIAL STATEMENT
 
 History, as a discipline, has several approaches to the teaching and _doing_ of history that can often incorporate digital tools and techniques while at the same time not necessarily being 'digital pedagogy'. What distinguishes 'history' in terms of digital pedagogy is in its motivations. Robertson points out that social historians have long used web based technologies to reach teachers and schools, motivated by a commitment 'to democratizing the creation of the past', which is also the core of what distinguishes digital history from Digital Humanities. This also has had the effect of situating digital history in an alliance with practitioners of public history ("Differences"). Robertson points out that public history is not necessarily in the mainstream of historical practice, and so digital history continues to occupy a marginal position. The key idea in terms of a digital pedagogy emerging from the digital historian's practice derives from the root word for history, ιστορία 'istoria' _inquiry_, meaning a (public) questioning or interrogating.
