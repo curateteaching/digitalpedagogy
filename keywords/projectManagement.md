@@ -73,6 +73,7 @@ As part of a larger site about project management (DevDH)--which is a repository
 * Artifact Type: instructor manual
 * Source URL: http://www.loc.gov/catworkshop/courses/digitalprojplan/pdf/Instructor-Final.pdf  
 * Permissions: Provided by Library of Congress
+* Copy of artifact: [Digital Project Planning and Management Basics, Instructor Manual](files/project_management-digital-project-planning-and-management-basics.pdf)
 * Creator: Mary S. Woodley (California State University, Northridge)
 
 This workshop manual for an intensive two-day workshop on digital project management was developed on behalf of the Library of Congress and the Association for Library Collections and Technical Services. Topics include team building and planning, business plan development, grant writing, project management, and outcome evaluation and assessment. The manual includes slides, instructor notes, classroom activities, and exercises. The accompanying trainee manual is available at http://www.loc.gov/catworkshop/courses/digitalprojplan/pdf/Trainee-Final.pdf. These guides would be useful as a syllabus for a course or workshop, modules within courses and workshops, or resources for individuals planning and managing their own projects.  It includes hands-on activities that can be applied in a course or workshop or as a course assessment. One possible activity focuses on the development of a grant proposal to fund the project.  Students could be asked to make the case for funding as a way to define and refine the project and its importance.
@@ -83,7 +84,7 @@ This workshop manual for an intensive two-day workshop on digital project manage
 
 * Artifact Type: Course Outline
 * Source URL: n/a 
-* Copy of Artifact: 
+* Copy of Artifact: [COMM-447: Applied Project Management, Course Outline](files/project_management-comm-447.pdf)
 * Permissions: CC-BY-NC
 * Creator: Robert Goatham (University of British Columbia)
 
@@ -111,6 +112,7 @@ One of the ongoing discussions within the Humanities concerns graduate education
 * Artifact Type: Course Package
 * Source URL: http://dhsi.org/content/2012Curriculum/12.ProjectPlanning.pdf
 * Permissions: CC-BY-NC
+* Copy of artifact: [Digital Humanities Summer Institute, Large Project Planning, Funding, and Management](files/project_management-12.ProjectPlanning.pdf)
 * Creator: Lynne Siemens (University of Victoria)
 
 This artifact is a course pack for a workshop in large project planning, funding, and management offered at the Digital Humanities Summer Institute, which covers a variety of topics.  One of these concerns the task identification, timing and responsibility assignment. Using hands-on exercises, students work through work breakdown structures, networks, and gantt charts.  Supplementing the course slides, the course pack includes sample diagrams of material covered. Overall, this course pack and accompanying readings would be useful for anyone developing a course or workshop in project management, as well as starting on their own project. More specifically, the material around planning tasks and their timing will establish the foundation to course assessments around these activities.
