@@ -27,7 +27,11 @@ Middlebury College | [Website](http://digitallearning.middcreate.net)
 * **draft version undergoing MLA copyediting**
 * published 
 
---- 
+---
+
+### Cross-Reference Keywords: annotation, authorship, community, interface, network, public, remix
+
+---  
 
 ## CURATORIAL STATEMENT
 
