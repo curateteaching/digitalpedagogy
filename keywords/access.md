@@ -132,8 +132,8 @@ This assignment asks students to evaluate the accessibility of a given physical 
 
 * Artifact Type: Assignment
 * Source URL: [https://docs.google.com/document/d/1Yf75OtOQ73iRs7S5NSljGNH-Rc2RHeyM47KPDiU3Tx0/edit?pref=2&pli=1](https://docs.google.com/document/d/1Yf75OtOQ73iRs7S5NSljGNH-Rc2RHeyM47KPDiU3Tx0/edit?pref=2&pli=1)
-* Artifact Permissions: Permission requested, awaiting response.
-* Copy of the Artifact:
+* Artifact Permissions: Permissions acquired
+* Copy of the Artifact: [access-zdenek_accessibility-report-assignment_spring2017_engl5386.docx](files/access-zdenek_accessibility-report-assignment_spring2017_engl5386.docx)
 * Creator: Sean Zdenek, University of Delaware
 
 Given to students in a graduate-level class on "Web Accessibility and Disability Studies,"  this assignment clearly explains how to evaluate a website's accessibility and points out that "[c]hecking for accessibility involves a combination of software tools and human judgment." Zdenek recommends specific techniques to try and provides a detailed list of software tools that automate much of the process. A particular strength here is the balance between technical standards for access and the necessity of understanding and explaining accessibility recommendations persuasively. Although this assignment might be too advanced for some undergraduate courses, it could easily be adapted. For example, accessibility evaluation could be an important part of a peer review workshop where students provide each other feedback on their own digital projects.
