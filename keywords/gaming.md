@@ -30,6 +30,10 @@ Georgetown University
 
 ---
 
+### Cross-Reference Keywords: access, design, gender, intersectionality, play, queer, race, social justice, storytelling
+
+---  
+
 ## CURATORIAL STATEMENT
 
 “Gaming” describes a practice of structured play that may be analog but has come to refer to the digital form of this activity. Games have been called the defining medium of the twenty-first century by a variety of industry and academic professionals (Hersemann; Schell; Spector; Zimmerman), owing to their widespread popularity and their emergence as a format that leverages the technological developments of the twentieth century in the name of art. 
