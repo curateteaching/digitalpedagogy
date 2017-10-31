@@ -65,6 +65,7 @@ As expected, questions of embodiment and presence pervade the literature on onli
 * Artifact type: Assignments, guide for learning and using Github
 * Source URL: [http://oudiglearn.github.io/forku/](http://oudiglearn.github.io/forku/)
 * Artifact permissions: CC-BY 4.0
+* Copy of Artifact: [Fork U! Resource Page](files/online-forku.pdf)
 * Creator and Affiliation: Adam Croom & John Stewart, University of Oklahoma
 
 GitHub is a platform for authorship, collaboration, and peer review. Originally created for software developers to share code, GitHub gained popularity because of its “fork” functionality, which allows users to copy code to their own GitHub account and make changes without affecting original files. The Fork U! resource, assembled by Croom and Stewart, offers low-risk GitHub activities. Fork U! resources are forkable (i.e., can be copied and reused without affecting the “master” project) and can be used to explore digital authorship, as it allows students to author projects, share and discuss copies of those projects, and copy/edit resources authored by others. Group projects authored via GitHub could deepen collaboration and extend shared authorship. Other examples of Github resources include these [Musicianship resources](https://github.com/kshaffer/musicianshipResources) (Schaeffer), course materials for [Humanizing Technology](https://github.com/karlstolley/ht) (Stoller), assignments for [Fashioning Circuits](https://github.com/fashioning-circuits) (Knight & Massey), and peer assessment activities for [Reproducible Data](https://github.com/rdpeng/RepData_PeerAssessment1) (Peng et al). 
@@ -86,7 +87,8 @@ GitHub allows users to “fork” files from other users and make changes to pro
 
 * Artifact type: Syllabus
 * Source URL: [http://thoughtvectors.net/syllabus/](http://thoughtvectors.net/syllabus/)
-* Artifact permissions: CC-BY-NC	 
+* Artifact permissions: CC-BY-NC	
+* Copy of Artifact: [ThoughtVectors in Concept Space syllabus](files/online-thoughtvectorssyllabus.pdf) 
 * Creator and Affiliation: Gardner Campbell, Virginia Commonwealth University
 
 Thought Vectors, a course offered at Virginia Commonwealth University, follows the model of [Domain of One’s Own](https://medium.com/bright/the-web-we-need-to-give-students-311d97713713#.y7hguujk3) an initiative based on the idea that every learner should have a domain on the web that they control, and upon which they can install tools they want to use as part of their digital identity and work. Gardner Campbell (Campbell, “A Personal Cyberinfrastructure) noted, “In building that personal cyberinfrastructure [through domain of one’s own], students not only would acquire crucial technical skills for their digital lives but also would engage in work that provides richly teachable moments ranging from multimodal writing to information science, knowledge management, bibliographic instruction, and social networking.” The Thought Vectors syllabus features a video from the course librarian, Jenny Stout, that helps students to think about the importance of sharing their ideas, through participation on the web, saying “we don’t really know what could happen…amazing things could happen.”
@@ -97,6 +99,7 @@ Thought Vectors, a course offered at Virginia Commonwealth University, follows t
 * Artifact type: Assignment
 * Source URL: [https://www.digipo.io/wiki/commons/index.htm](https://www.digipo.io/wiki/commons/index.htm)
 * Artifact permissions: Wikity content is CC-0
+* Copy of Artifact: [digipo: The Digital Polarization Initiative](files/online-digipo.pdf)
 * Creator and Affiliation: Mike Caulfield, Washington State University - Vancouver
 
 Mike Caulfield launched digipo, a wiki where students from any university or college can evaluate information and claims made on the web, in response to the alarming prevalence of inaccurate and fake information on the web. Through digipo assignments, students develop skills in evaluating digital information and media, such as online news stories, memes, and images, and then author analyses on the digipo wiki. Students develop key digital and information literacy skills, such as understanding  the context for information they find on the web, and the process of creating information on the web (for more, see the [Association of College and Research Libraries Framework for Information Literacy in Higher Education](http://www.ala.org/acrl/standards/ilframework). Instructors who want to use digipo in their classes can visit the [digipo help page](https://www.digipo.io/wiki/help/index.htm)
@@ -131,6 +134,7 @@ FemTechNet is a community that sponsors DoCCs—Distributed Open Collaborative C
 * Artifact type: Assignments
 * Source URL: [https://dailyconnector.wordpress.com/](https://dailyconnector.wordpress.com/)
 * Artifact permissions: CC-BY 4.0 
+* Copy of Artifact: [The Daily Connector](files/online-dailyconnector.pdf)
 * Creator and Affiliation: Connected Courses
 
 Henry Jenkins et al. (5) describe participatory culture as a culture with low barriers to entry, support for the sharing of creations among community members, informal mentorship, and social connections that help community members to feel that their contributions are important. The Daily Connector provides activities and assignments that aim to grow connections between individuals in a course or across multiple courses, helping to foster connections that validate the contributions of members of the community. These activities encourage community building online as part of intentional daily practice and provide helpful strategies to help learners make those intentional connections. For example, the [Twitter Poetry](https://dailyconnector.wordpress.com/2015/02/04/ccourses-bonus-dailyconnect-twitter-poetry/) activity asks students to use the service Poetweet to create a poem from a connected colleague’s Twitter feed. This activity encourages students to look at the Twitter feeds of other students and view them as part of their community.
@@ -144,6 +148,7 @@ Henry Jenkins et al. (5) describe participatory culture as a culture with low ba
 * Artifact type: Syllabus
 * Source URL: [https://voicethread.com/myvoice/#thread/2610203](https://voicethread.com/myvoice/#thread/2610203)
 * Artifact permissions: CC-BY-NC-ND
+* Copy of Artifact: [Introduction to Still Photography syllabus](files/online-introphotography.pdf)
 * Creator and Affiliation: Michelle Pacansky-Brock, California State University Channel Islands
 
 In her paper on embodiment in online learning, Sîan Bayne notes, “that, in cyberspace and elsewhere, mind and body are indivisible entities is not to prevent us from looking to new technological environments as spaces where the conventional constraints and significations of embodiment can be challenged and shifted. The challenge to learners and teachers in cyberspace is in devising creative pedagogical approaches which work with these new articulations.” Voice-sharing technologies may help to combat disengagement in online courses. Voice can provide a sense of embodiment in online courses, where interactions may be limited to audio and video. Michelle Pacansky-Brock voice-annotates her syllabus and assignments, and she voices feedback to students. Her approach becomes a model for students on how to share their vocal presence with others in the course. Pacansky-Brock invites students to annotate course resources and assignments together giving students a chance to embody their work with their voices. 
@@ -154,6 +159,7 @@ In her paper on embodiment in online learning, Sîan Bayne notes, “that, in cy
 * Artifact type: Assignments
 * Source URL: [http://daily.ds106.us/](http://daily.ds106.us/)
 * Artifact permissions: CC-0
+* Copy of Artifact: [The Daily Create](files/online-dailycreate.pdf)
 * Creator and Affiliation: Alan Levine
 
 Henry Jenkins et al. (5) describe participatory culture as having low barriers to entry, support for the sharing of creations among community members, informal mentorship, and social connections that help community members to feel that their contributions are important. Daily Create embodies these characteristics and, as it encourages a participatory culture, helps faculty and students to remain actively engaged. Daily Create activities are brief, providing easy and fun ways for students to remain engaged, thus contributing to the eventness of a course. [Paperback Paradise](http://daily.ds106.us/tdc1618/) demonstrates how the activities can be open-ended to allow for students’ creativity and personal connections. Students alter an image from the web and share their remixed creation via Twitter using a course hashtag. As students see the work of others being syndicated to The Daily Create site, they recognize that their work is part of a community and that their presence in that community is important.
@@ -165,6 +171,7 @@ Henry Jenkins et al. (5) describe participatory culture as having low barriers t
 * Artifact type: Blog post with links to assignment details
 * Source URL: [https://gamesandlearning.wordpress.com/2016/04/27/about-that-annotation-flash-mob/](https://gamesandlearning.wordpress.com/2016/04/27/about-that-annotation-flash-mob/)
 * Artifact permissions: CC-BY 4.0 
+* Copy of Artifact: [Annotation Flash Mob](files/online-annotationflashmob.pdf)
 * Creator and Affiliation: Remi Holden, CU Denver
 
 Inspired by Sean Michael Morris’ [Teaching in our right minds: Critical Digital Pedagogy and the Response to the New](http://www.digitalpedagogylab.com/hybridped/teaching-in-our-right-minds/) Remi Holden organized an annotation flash mob in his course, where his students were already using the social annotation tool, hypothes.is for collaborative annotation. Holden’s blog post with instructions on how to participate in the flash mob [is here](https://gamesandlearning.wordpress.com/2016/04/24/an-annotation-flash-mob-invitation/). The annotation flash mob is a fascinating example of bringing eventness to the collaborative web. Several of Holden’s students and many individuals outside of the course jumped in to annotate Morris’ article. One participant’s comments captured the feeling of eventness, “Love[d] getting to play in the digital annotation flashmob – I’m reminded of the frequently referenced analogy of the digital mimicking sandbox play.” 
