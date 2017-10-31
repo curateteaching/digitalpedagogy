@@ -52,7 +52,7 @@ digital pedagogy.
 While it may not seem like it on first inspection, issues of race and ethnicity are deeply embedded in technology. European colonial
 discourses from the eighteenth century onwards deployed the ideology that “civilized” groups deserved supremacy over others because of
 their superior technology. They located this superiority in multiple fields, from advances in Western scientific knowledge to the West’s 
-development of modern military equipment and artillery. Postcolonial scholarship has largely challenged this assumption, with critics 
+development of modern military equipment and artillery. Postcolonial scholarship has largely challenged this assumption,  
 with critics such as Dipesh Chakrabarty, Aihwa Ong, Gyan Prakash, and Cheikh Anta Diop, among others, arguing that the modernity of non-
 Europeans actually predates the European construct of modernity, or that notions of modernity need to be expanded. Even in contemporary 
 discourse, technology continues to be racialized by the assumption that people in “developing” nations or from minority populations are 
