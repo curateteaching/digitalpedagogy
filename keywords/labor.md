@@ -35,7 +35,11 @@ University of North Texas | [https://www.library.unt.edu](https://www.library.un
 * awaiting pre-print copy
 * published 
 
---- 
+---
+
+### Cross-Reference Keywords: archive, collaboration, professionalization, project management, social justice
+
+---   
 
 ## CURATORIAL STATEMENT 
 
