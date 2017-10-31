@@ -30,7 +30,11 @@ Mount Saint Mary's University, Los Angeles
 * awaiting pre-print copy
 * published 
 
---- 
+---
+
+### Cross-Reference Keywords: assessment, authorship, hybrid, multimodal, open, sound, video
+
+---  
 
 ## CURATORIAL STATEMENT 
 
