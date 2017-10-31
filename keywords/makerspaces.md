@@ -92,7 +92,7 @@ Launched in 2005, Instructables was developed by MIT Media Lab graduates Eric WI
 ### Classroom Projects and Tools
 
 #### Makey Makey Controller Boards
-![screenshot](images/makeymakey.png)
+![screenshot](images/makerspaces_makeymakey.png)
 * Artifact Type: Classroom Tool
 * Source URL: [http://makeymakey.com/lessons/lesson-plans.pdf)
 * Artifact Permissions: Makey Makey LLC (c) 2012 - 2017
