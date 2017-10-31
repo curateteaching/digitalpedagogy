@@ -56,7 +56,7 @@ Artifacts were chosen to show diverse ways of networking, many of which are meta
 
 ### Connectivism & Connected Knowledge
 
-![screenshot](images/network-connectivism.jpg)
+![screenshot](images/screenshot-network-connectivism.jpg)
  
 * Artifact Type: Course site. CCK11 (updated from CCK08, first connectivist MOOC)
 * Source URL: http://cck11.mooc.ca/index.html 
@@ -72,7 +72,7 @@ share an [aggregation of feeds from participant blogs/tweets](http://cck11.mooc.
 
 ### FemTechNet Commons
 
-![screenshot](images/network-femtechnet.jpg)
+![screenshot](images/screenshot-network-femtechnet.jpg)
 
 * Artifact Type: collaborative project
 * Source URL: [http://femtechnet.org](http://femtechnet.org)
@@ -98,7 +98,7 @@ Digital annotation can expand our understanding of what is possible when we read
 
 ### Open Learning Recipe
 
-![screenshot](images/network-openlearningrecipe.jpg)
+![screenshot](images/screenshot-network-openlearningrecipe.jpg)
 
 * Artifact Type: collaborative project
 * Source URL: https://docs.google.com/document/d/14-V6ZQgIQ3Mpq6QCPvvFr2y-45zdzxIh721yPSlHbyo/pub
@@ -112,7 +112,7 @@ This is a crowdsourced document in which participants in a rhizomatic/connectivi
 
 ### Peeragogy Handbook
 
-![screenshot](images/network-PeeragogyHandbook.jpg)
+![screenshot](images/screenshot-network-PeeragogyHandbook.jpg)
 
 * Artifact Type: collaborative project
 * Source URL: [http://peeragogy.github.io](http://peeragogy.github.io)
@@ -125,7 +125,7 @@ A “how-to-do-it” resource on how a group of self-learners can organize via n
 
 ### Promoting and assessing value creation in communities and networks: a conceptual framework
 
-![screenshot](images/network-AssessingValueCreation.jpg) 
+![screenshot](images/screenshot-network-AssessingValueCreation.jpg) 
 
 * Source: http://wenger-trayner.com/resources/publications/evaluation-framework 
 * Artifact Permissions:  Copyright 2011 Ruud de Moor Centrum 
@@ -160,7 +160,7 @@ Watching the development of a Twitter hashtag community can be a useful way to u
 
 ### **Twitter Journal Club**
 
-![screenshot](images/network-tjc.jpg)
+![screenshot](images/screenshot-network-tjc.jpg)
 
 * Source URL: https://tjc16.wordpress.com/  
 * Artifact Permissions: CC-BY-SA
@@ -174,7 +174,7 @@ Laura Gogia started Twitter Journal Club (originally #tjc15) while she was a gra
 
 ### TvsZ
 
-![screenshot](images/network-tvsz.jpg)
+![screenshot](images/screenshot-network-tvsz.jpg)
 
 * Artifact Type: assignment
 * Source URL: [http://tvsz.us](http://tvsz.us)
@@ -188,7 +188,7 @@ Rorabaugh & Stommel created “an epic zombified experiment in Twitter literacy,
 
 ### Virtually Connecting
 
-![screenshot](images/network-VirtuallyConnecting.jpg)
+![screenshot](images/screenshot-network-VirtuallyConnecting.jpg)
 
 * Title of Artifact: Virtually Connecting
 * Artifact Type: collaborative project
