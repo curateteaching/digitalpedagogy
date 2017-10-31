@@ -27,7 +27,7 @@ University of Southern California, School of Cinematic Arts, Division of Media A
 
 ---
 
-### Cross-Reference Keywords: Praxis, Remix, Video, Failure, Archive
+### Cross-Reference Keywords: Archive, Failure, Praxis, Remix, Video 
 
 ---  
 ## CURATORIAL STATEMENT
