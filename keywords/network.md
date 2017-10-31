@@ -188,7 +188,7 @@ Rorabaugh & Stommel created “an epic zombified experiment in Twitter literacy,
 
 ### Virtually Connecting
 
-![screenshot](images/screenshot-network-VirtuallyConnecting.jpg)
+![screenshot](images/screenshot-network-virtually-connecting.png)
 
 * Title of Artifact: Virtually Connecting
 * Artifact Type: collaborative project
