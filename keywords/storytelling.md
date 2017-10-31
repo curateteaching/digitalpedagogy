@@ -98,7 +98,7 @@ The visuals combine video, images (some stills from video), and a Sylvia Plath q
 
 #### Farm to Food (LoC)
 
-![screenshot](images/storytelling-)
+![screenshot](images/storytelling-farm-to-food.png)
 
 * Artifact Type: Flickr page
 * Source URL: https://www.flickr.com/groups/visualstory/discuss/72157603786255599/
@@ -111,7 +111,7 @@ This is a visual story, relying almost entirely on photographs for its content a
 
 #### English 401: Viking Studies The Medieval North Atlantic
 
-![screenshot](images/storytelling-)
+![screenshot](images/storytelling-english401.png)
 
 * Artifact Type: class web page
 * Source URL: http://public.gettysburg.edu/~cfee/courses/English4012001/topic3.htm
@@ -124,7 +124,7 @@ The page points readers to several IF tools: Inform, for game authoring; Gluxe a
 
 #### Mad City Mystery: Developing Scientific Argumentation Skills with a Place-based Augmented Reality Game on Handheld Computers
 
-![screenshot](images/storytelling-)
+![screenshot](images/storytelling-mad-city.png)
 
 * Artifact Type: augmented reality game
 * Source URL: https://link.springer.com/article/10.1007/s10956-006-9037-z
@@ -137,7 +137,7 @@ The article offers a detailed account of how the authors assessed student learni
 
 #### DS106
 
-![screenshot](images/storytelling-)
+![screenshot](images/storytelling-ds106.png)
 
 * Artifact Type: class website
 * Source URL: http://ds106.us/   
@@ -150,7 +150,7 @@ Rather than describing a single class, this site offers examples of classes alre
 
 #### Reinventing Texts
 
-![screenshot](images/storytelling-)
+![screenshot](images/storytelling_reinventing-texts.png)
 
 * Artifact Type: blog post
 * Source URL:  https://freedomandimprisonment.wordpress.com/2015/04/17/reinventing-texts/   
@@ -178,7 +178,7 @@ The document does not specifically situate itself for a particular class, discip
 
 #### Implementing a Digital Story – Checklist
 
-![screenshot](images/storytelling-)
+![screenshot](images/storytelling-implementing-digital-story.png)
 
 * Artifact Type: pdf resource guide
 * Source URL: [https://www.mercy.edu/sites/default/files/media/browser/Digital%20Story%20%C2%ADImplementation%20Checklist.pdf](https://www.mercy.edu/sites/default/files/media/browser/Digital%20Story%20%C2%ADImplementation%20Checklist.pdf)
