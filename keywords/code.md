@@ -77,6 +77,7 @@ Businessweek might seem like a paradoxical starting point for a set of resources
 * Artifact Type: Syllabus
 * Source URL: [https://docs.google.com/document/d/1I2XUqH7d_JDLe3abZglKYnHXd7kgE-ip9qW9Geg689Y/edit](https://docs.google.com/document/d/1I2XUqH7d_JDLe3abZglKYnHXd7kgE-ip9qW9Geg689Y/edit) 
 * Artifact Permissions: CC-BY-NC
+* Copy of the Artifact: [Introduction to Computational Media](files/code-lmc2700.pdf)
 * Creator and Affiliation: [Yanni Loukissas](http://yloukissas.com/), Georgia Institute of Technology
 
 This syllabus, created by Yanni Loukissas, documents the required introductory course in Georgia Tech's [Computational Media](http://cm.lmc.gatech.edu/) major. The major is designed with a "both/and" pedagogy of code in mind; students take courses in both computer science and the humanities so as to develop a deep and nuanced understanding of the computer as a medium. "Introduction to Computational Media" represents the students' first exposure to this synthesis, and as such, asks students to explore the history and theory of computation through a series of six focused projects. Each employs a different programming language, and each to a different end--among them, a data visualization, a narrative bot, or a procedural poem. Any one of these projects might be incorporated into another course as a capstone element, but the syllabus is most valuable as a whole, for how it leads students towards a syncretic understanding of the computer as an expressive form.  
@@ -105,6 +106,7 @@ Andrew Goldstone's syllabus for a graduate course on literary data is explicit a
 * Artifact Type: Course repository
 * Source URL: [https://github.com/rbuurma/rise-2015](https://github.com/rbuurma/rise-2015) 
 * Artifact Permissions: Creative Commons Attribution 4.0 International License
+* Copy of the Artifact: [Rise of the Novel](files/code-riseofnovel.pdf)
 * Creator and Affiliation: Rachel Buurma, Swarthmore College
 
 The Github repository that documents Rachel Buurma's digitally-inflected literature course, "The Rise of the Novel," provides an additional example of how a focused humanistic research interest might be explored through computational techniques. Here, Buurma focuses on questions of realism as they relate to the rise of the novel, incorporating exercises that make use of software libraries that assist in various distant reading techniques. Buurma's course design demonstrates how such exercises might be framed conceptually, and anchored in specific texts--evidently to much success. (Student responses to the exercises are [documented on the course blog](http://rise2015.rachelsagnerbuurma.org/) (Buurma, "Rise"). When adapting this model for use in other contexts, one must consider *in advance* what types of questions are best suited to specific computational techniques, and what specific objects of inquiry--textual or otherwise--might serve as the best source for their application. 
