@@ -38,26 +38,19 @@ St. Olaf College
 
 Community is a term that has suffered from its own niceness. In *Keywords for American Cultural Studies*, Miranda Joseph points out the problems with a term like “community”--a term that is too easily used without critical consideration. She frames the term at best as “nearly meaningless” in its overuse and at worst as a tool of manipulative persuasion in its empty signification of “a sense of belonging, understanding, caring, cooperation, equality.” 
 
-
 Students need a critical lens to identify the limitations, exclusions, and misapplications of “community,” but they also need to develop meaningful commitments to others, whether in our classroom community, the broader local community, or the communities in which they will find themselves living and working in the future (McTighe Musil). This balance between skepticism and open-mindedness is a hallmark of both critical thinking and information literacy in a digital age ("Framework"). They are developing their voices as critical yet committed citizens, and becoming aware of the potential for communities to either separate insiders from outsiders, or to find common ground between them (Joseph). 
-
 
 Digital spaces exacerbate this tension in the academy’s relationship to a term like “community.”  Digital tools can undermine traditional notions of community, highlighting the term’s meaninglessness through the apparent detachment of virtual engagement (see Turkle, Carr, Lanier, and Baym).  The idea of “digital community” can seem like an oxymoron, with the fluidity, expansiveness, and disembodiment of online groups. But if digital tools are changing and questioning the constitution of community today, these tools also provide new ways of engaging with community, and new communities to engage with. 
 
-
 The idea of community, in a digital age, is defined less by shared space than by shared values. Geographically defined communities are increasingly supplanted by online communities, where the ties of shared goals, interests, affiliations and hobbies displace the ties of zip codes through an actively conversational listserves, crowdsourced databases of information, or virtual reality experiences. The notion that community is something to actively and intentionally create, rather than something to inherit, can enrich our commitment to these new communities, but it can also create a false binary between chosen and given communities. 
-
 
 The best online communities are, in many ways, extensions or enhancements of analog communities, developing local communities in ways otherwise not possible (Taylor). In the same vein, many of the most compelling digital projects and tools are rooted in the values and best practices of civic engagement: collaboration , openness, active learning, and reciprocity (McTighe Musil). Digital pedagogy and civic engagement share a commitment to community, through modes of learning that are deeply connected to space and place. 
 
-
 The artifacts below highlight this link between digital pedagogy and civic engagement, featuring place-based communities connected in new ways using digital technologies. They reframe academic communities, reimagine the value of student research for and with a broader community, and model scholarly inquiry that is not only public [see Jeff McClurken’s entry on [“Public”](https://digitalpedagogy.commons.mla.org/keywords/public) in this collection] but also collaborative [see the entry on [“Collaboration”](https://digitalpedagogy.commons.mla.org/keywords/collaboration) in this collection], drawing on community expertise alongside academic research.  
-
 
 These artifacts explore new movements in higher education like digital public history (Owens) or activist digital humanities (Koh), and place-based learning (encompassing [mapping projects](https://digitalpedagogy.commons.mla.org/keywords/mapping), oral histories, public exhibits, interactive tours, internships, problem-based pedagogy and other active-learning methodologies that can make local culture "worthy of inquiry"; see Smith). Experiential learning is being transformed in online spaces, as students both consume and create knowledge through virtual interactive storytelling (Olson & Wagler) and location-based online games (Squire & Jan). Most importantly, these artifacts model ways that digital tools create learning environments that are community-driven and community-generated, undermining the categories of teacher vs. student and expert vs. public. 
 
-
-For the twenty-first-century teacher, the community is not our audience but our collaborator. If it is the role of the humanist to interrogate a term like community, it is also our deeper calling to fortify concepts like community that point to our shared humanity. The stories we tell and the questions we ask as humanists, especially digital humanists, can help us to find new reasons and ways to invest in our communities. 
+For the twenty-first-century teacher, the community is not our audience but our collaborator. Many authors below would agree that their projects are co-authored and their courses are co-taught with many people inside and outside the academy, named and unnamed; indeed, the compilation of this list of artifacts would not have been possible without advice from Jason Paul, Nikki White, and many others on this list. Collaborative community-based work complicates and democratizes traditional notions of authorship and teaching. Rightly so. If it is the role of the humanist to interrogate a term like community, it is also our deeper calling to fortify concepts like community that point to our shared humanity. The stories we tell and the questions we ask as humanists, especially digital humanists, can help us to find new reasons and ways to invest in our communities.
 
 ## CURATED ARTIFACTS
 
@@ -125,7 +118,7 @@ While musicologists are beginning to "leverage maps as tools for analyzing, orga
 
 * Type: mapping project
 * Source URL: [http://marathon.neu.edu/](http://marathon.neu.edu/)
-* Creator: Elizabeth Maddock Dillon and Ryan Cordell, Northeastern University 
+* Creator: McGrath, Jim, Alicia Peaker, Ryan Cordell, Elizabeth Maddock Dillon, et al.
 
 Our Marathon is a community-owned project that models the the collaborative and democratic potential of the digital humanities and civic engagement in enriching our communities. Developed in the wake of the Boston Marathon bombings of 2013, Our Marathon invites community contributors to share stories, images, and other media of their experiences. The crowd-sourced storytelling archive is intended explicitly as a tool for community healing, and a means of creating an organic, community-driven memorial. The site also includes teaching resources for a variety of grade levels (http://marathon.neu.edu/teaching-resources).
 
@@ -201,8 +194,6 @@ Croxall, Brian. "Digital Humanities Project Evaluation." *Introduction to Digita
 
 Delegard, Kirsten. *Historyapolis Project.* Augsburg University, [http://historyapolis.com/](http://historyapolis.com/). 
 
-Dillon, Elizabeth Maddock and Ryan Cordell. *Our Marathon.* [http://marathon.neu.edu/](http://marathon.neu.edu/). 
-
 Dillon, Elizabeth Maddock and Ryan Cordell. "Teaching Resources." *Our Marathon*, [http://marathon.neu.edu/teaching-resources](http://marathon.neu.edu/teaching-resources). 
 
 Ehrstine, Glenn. *German Iowa and the Global Midwest.* University of Iowa, [http://germansiniowa.lib.uiowa.edu/](http://germansiniowa.lib.uiowa.edu/). 
@@ -226,6 +217,8 @@ Lanier, Jaron. *You Are Not A Gadget.* Vintage Books, 2010.
 Lee, Erika. *Immigration History Research Center.* University of Minnesota, [https://cla.umn.edu/ihrc](https://cla.umn.edu/ihrc). 
 
 Mandell, Laura. *18thConnect.* Texas A&M University, [http://www.18thconnect.org/](http://www.18thconnect.org/). 
+
+McGrath, Jim, Alicia Peaker, Ryan Cordell, Elizabeth Maddock Dillon, et al. *Our Marathon: The Boston Bombing Digital Archive.* 2013-2015. [www.northeastern.edu/marathon](www.northeastern.edu/marathon).
 
 McTighe Musil, Caryn. “Educating for Citizenship.” *Peer Review*, Volume 5, Issue 3, 2003, pp. 4-8.
 
