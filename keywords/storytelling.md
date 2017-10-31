@@ -165,7 +165,7 @@ The pedagogical goals included giving voice to the typically voiceless, and huma
 
 #### Digital Storytelling Tips and Resources
 
-![screenshot](images/screenshot-storytelling-sample-rubric.png)
+![screenshot](images/screenshot-storytelling-tips-resources.png)
 
 * Artifact Type: pdf guide
 * Source URL: [https://events.educause.edu/ir/library/pdf/ELI08167B.pdf](https://events.educause.edu/ir/library/pdf/ELI08167B.pdf)
