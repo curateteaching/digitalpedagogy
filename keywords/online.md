@@ -60,7 +60,7 @@ As expected, questions of embodiment and presence pervade the literature on onli
 ### Authorship
 
 #### Fork U! Resource Page
-![screenshot](images/screenshot-online-forku.png)
+![screenshot](images/Online-forku-assignments.png)
 
 * Artifact type: Assignments, guide for learning and using Github
 * Source URL: [http://oudiglearn.github.io/forku/](http://oudiglearn.github.io/forku/)
