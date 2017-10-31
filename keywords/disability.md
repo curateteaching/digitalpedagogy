@@ -113,9 +113,9 @@ Butler's ASL music video handout is embedded in a *Kairos* webtext article that 
 ![screenshot](images/disability-inclusion.png)
 
 * Artifact type: Syllabus
-* Source: [https://view.officeapps.live.com/op/view.aspx?src=https://avidali.files.wordpress.com/2013/03/3084-syllabus-sp-2012.doc](https://view.officeapps.live.com/op/view.aspx?src=https://avidali.files.wordpress.com/2013/03/3084-syllabus-sp-2012.doc)
+* Source: 
 * Creator: Amy Vidali
-* Copy of Artifact: none
+* Copy of Artifact: [disability-3084-syllabus-sp-2012-Vidali.doc](files/disability-3084-syllabus-sp-2012-Vidali.doc)
 
 An upper-level undergraduate seminar, Vidali's course employs inclusivity as a lens through which to re-assess common methods in multimodal composing: visual rhetoric, auditory rhetoric, and hypertextual rhetoric. For instance, Vidali asks students to consider how Temple Grandin's *Thinking in Pictures* complicates some of the common assumptions that visual rhetoric scholarship imparts about seeing and knowing. The curriculum is structured evenly across texts from digital rhetoric and disability studies, with works from each field spanning genre and mode. In keeping with the diversity of course texts, Vidali asks students to compose broadly. Assignments include analyzing a personal experience in comic form; a musical genre analysis, in which students present their findings via podcast; and an accessibly designed hypertext. Instructors will find Vidali's syllabus a useful launching point for assignment and reading ideas, but perhaps most notable is the syllabus's attention to accessibility (see, for example, the disability inclusion statement) as well as its embedded links to the course blog, which features student writing. 
 
