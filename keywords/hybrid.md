@@ -34,7 +34,11 @@ Instructional Designer, Office of Digital Learning, Middlebury College
 * awaiting pre-print copy
 * published 
 
---- 
+---
+
+### Cross-Reference Keywords: interface, intersectionality, online, praxis, public
+
+---  
 
 ## CURATORIAL STATEMENT
 
