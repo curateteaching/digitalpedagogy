@@ -53,6 +53,7 @@ The last four artifacts represent increasingly complex forms of multimodality wi
 * Artifact type: assignment
 * Source URL: [femtechnet.org](http://femtechnet.org/docc/object-makingexchange/)
 * Permissions: Creative Commons
+* Copy of Artifact: [Object Making/Exchange](files/multimodal-ObjMak.pdf)
 * Creators and Affiliation: Anca Birzescu and Radhika Gajjala (Bowling Green State University)
 
 
@@ -65,6 +66,7 @@ This assignment was developed for the inaugural class taught under the auspices 
 * Artifact type: assignment
 * Source URL: [virginiakuhn.net/2015/05/reskin-assignment-hughes](http://virginiakuhn.net/2015/05/reskin-assignment-hughes/)
 * Permissions: CC-BY-NC
+* Copy of Artifact: [Coding with Style](files/multimodal-CodingAss.pdf)
 * Creator: Evan Hughes (University of Southern California)
 
 
@@ -77,6 +79,7 @@ Evan Hughes designed this midterm assignment for an introductory undergraduate c
 * Artifact type: assignment   
 * Source URL: [virginiakuhn.net/sound-sculpture-project-by-vicki-callahan/](http://virginiakuhn.net/sound-sculpture-project-by-vicki-callahan/)
 * Permission: CC-BY-NC
+* Copy of Artifact: [Sound Sculpture ](files/multimodal-SoundSculpt.pdf)
 * Creator and Affiliation: Vicki Callahan (University of Southern California)
 
 This assignment is focused on sound and encourages both careful listening practices in addition to composition practices that are controlled and deliberate. Contemporary culture is visually saturated, making it easy to neglect the role of sound, particularly as it impacts multimodal compositions. To prepare for the project, Vicki Callahan assigns readings from sound scholar Michel Chion, asking students to apply his listening strategies to the soundtrack of a seminal cinematic scene. From there, students acquire and assemble a series of soundtracks, both found and recorded, and edit them into a soundscape that offers a new slant on a particular concept or event. This project can be adopted by others quite easily.  Adding a viewing of “Scary Mary,” a short video that demonstrates the power of sound by placing scary music to the trailer of Mary Poppins, could enhance the preparatory work. 
@@ -88,6 +91,7 @@ This assignment is focused on sound and encourages both careful listening practi
 * Artifact type: assignment
 * Source URL: [jumpplus.net/course-assignment-project-timeline-rhetoric-of-memes/](https://jumpplus.net/course-assignment-project-timeline-rhetoric-of-memes/)
 * Permission: CC-BY-NC
+* Copy of Artifact: [Course Assignment & Project Timeline – Rhetoric of Memes](files/multimodal-RhetMemes.pdf)
 * Creators: Nadeem Persico-Shammas & Simone Sessolo (University of Michigan)
 
 This assignment asks students to create a website featuring a critical analysis of memes. As such, the project encourages student to explore what a word can do that an image cannot and vice versa. The piece was published in the *Journal of Undergraduate Multimedia Projects* in an issue devoted to memes and remix.  The assignment is accompanied by an overview essay, examples of student work, and reflective essays by the journal’s editorial collective. The *JUMP* offers a place for students to showcase their efforts, and provides teachers a source of potential models for projects they want to assign. As such, it becomes a potential gold mine of fodder for project ideas, and the scaffolding that can foster their production. The journal also helps students to see themselves as active contributors to the ongoing conversation around multimodality and fostering this sort of agency in students is perhaps the most worthy goal for multimodal curricula. 
@@ -111,6 +115,7 @@ This video-based digital argument is sophisticated both conceptually and formall
 * Artifact type: assignment
 * Source URL: [oxycopyrightandculture.wordpress.com/assignments/remix-video/](https://oxycopyrightandculture.wordpress.com/assignments/remix-video/)
 * Permission: CC-BY-NC
+* Copy of Artifact: [Fair Use and the Video Essay](files/multimodal-FairUseVid.pdf)
 * Creator: Suzanne Scott (University of Texas, Austin)
 * Tags: Starting out
 
@@ -123,6 +128,7 @@ This video essay assignment is meant to teach students about the doctrine of fai
 * Artifact type: assignment
 * Source URL: [praxis.technorhetoric.net/tiki-index.php?page=PraxisWiki:_:critical%20genre%20awareness#The_Assignment_](http://praxis.technorhetoric.net/tiki-index.php?page=PraxisWiki:_:critical%20genre%20awareness#The_Assignment_)
 * Permissions: Creative Commons
+* Copy of Artifact: [Critical Genre Screencast](files/multimodal-critical-genre-screencast.pdf)
 * Creator: Marcy Leasum Orwig (University of Wisconsin, Eau Claire)
 * Tags: Advanced
 
@@ -135,6 +141,7 @@ This assignment asks students to create a critical analysis of a commercial webs
 * Artifact type: assignment
 * Source URL: [https://docs.google.com/document/d/1S-3I2aIs9vTXdwX3Jjduap7o4loFRAuWmTiNPtSu2jA/edit?usp=sharing](https://docs.google.com/document/d/1S-3I2aIs9vTXdwX3Jjduap7o4loFRAuWmTiNPtSu2jA/edit/)
 * Permissions: Creative Commons
+* Copy of Artifact: [Live Streaming with Periscope](files/multimodal-live-streaming-periscope.pdf)
 * Creator: Leigh Landini Wright (Murray State University)
 
 This assignment includes two readings, a live broadcast assignment, and a reflective blog post into which a recording of the live session is embedded. The result is a strongly multimodal text that includes words, sounds and images, while it also serves as a snapshot of a live event. Further context about the project can be found in Wright's “Live from Your Palm,” and although the class was geared to journalism students, its potential usefulness is more general. The unit might be reframed as a way of documenting interactive media in situ: filming the action of game play, recording interactions with virtual reality, or documenting activist events such as marches and protests. Periscope relies on vertical video, which as the author notes, is typically seen as a stylistic faux pas. The Vertical Cinema Manifesto, which argues for verticality as a feminist representation, would be a nice addition to the unit (Vertical Feminist Collective). 
@@ -148,6 +155,7 @@ This assignment includes two readings, a live broadcast assignment, and a reflec
 * Source URL: 
 [www.scholarlyexchange.org/ojs/index.php/TS/article/view/14485 ](http://www.scholarlyexchange.org/ojs/index.php/TS/article/view/14485)
 * Permissions: Authors retain copyright and grant the journal right of first publication with the work simultaneously licensed under a CC BY-NC license.
+* Copy of Artifact: [Interactive Narrative](files/multimodal-interactive-narrative.pdf)
 * Creator: Anastasia Salter (University of Central Florida)
 
 
@@ -160,6 +168,7 @@ Anastasia Salter’s syllabus for a course on Interactive Narrative, published i
 * Artifact type: rubric, teaching guide
 * Source URL: [cinema.usc.edu/images/iml/SpeakingWithStudents_Webtext1.pdf](https://cinema.usc.edu/images/iml/SpeakingWithStudents_Webtext1.pdf)
 * Permissions: CC BY-NC-SA license.
+* Copy of Artifact: [Speaking with Students: Profiles in Digital Pedagogy](files/multimodal-SpeakingWithStudents_Webtext1.pdf)
 * Creators: Virginia Kuhn, DJ Johnson, David Lopez (University of Southern California)
 
 
