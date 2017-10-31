@@ -98,6 +98,7 @@ This syllabus provides an example of a course designed explicitly to build digit
 + Artifact Type: lesson plans
 + Source URL: [http://scalar.usc.edu/anvc/the-knotted-line/curriculum-guide](http://scalar.usc.edu/anvc/the-knotted-line/curriculum-guide) [PDF Version](https://docs.google.com/file/d/0BynaievnTP0pdHozZjQ5LXlFLWM/edit)
 + Permissions: CC-BY-NC-SA
+* Copy of Artifact: [The Knotted Line Curriculum Guide](files/history-Knotted-Line-Curriculum.pdf)
 + Creator and Affiliation: Evan Bissell and Ora Wise
 + Tags: getting started; Scalar
 
@@ -108,6 +109,7 @@ The [Knotted Line](http://scalar.usc.edu/anvc/the-knotted-line/external?link=htt
 + Artifact Type: assignments
 + Source URL: [https://historicalsimulations.files.wordpress.com/2017/03/historical-twine-project-rubric-1-0.pdf](https://historicalsimulations.files.wordpress.com/2017/03/historical-twine-project-rubric-1-0.pdf)
 + Permissions: CC-BY-NC-SA
+* Copy of Artifact: [Historical Twine Project Rubric](files/history-historical-twine-project-rubric-1-0.pdf)
 + Creator and Affiliation: Jeremiah McCall, Cincinnati Country Day School
 + Tags: getting started; Twine
 
