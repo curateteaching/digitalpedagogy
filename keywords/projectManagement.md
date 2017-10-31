@@ -31,7 +31,11 @@ University of Victoria, School of Public Administration
 * published 
 
 
---- 
+---
+
+### Cross-Reference Keywords: collaboration, labor, professionalization
+
+---   
 
 ## CURATORIAL STATEMENT
 
@@ -45,11 +49,6 @@ While most individuals would not (hopefully) deny the need for the effective pla
 
 How can instructors integrate project management training into humanities curriculum at all levels?  From a pedagogical perspective, project management can be taught in contexts such as DH-oriented courses (for example, Bailar and Spiro 2013), stand-alone courses (for example, University of Alberta 2015), training programs (for example, Scholars’ Lab 2011a), project management workshops (for example, HILT 2015; DHSI 2015; The European Summer University in Digital Humanities 2015) and self-guided modules. The topic lends itself well to hands-on learning where participants create project plans as they engage the material. Researchers and graduate students may already have humanities-based research projects.  Some accommodation for undergraduate students may be made so that they can scale their projects more appropriate to their level of experience. The artifacts for this keyword include a variety of materials that could be used within undergraduate and graduate courses or workshops engaging project management for students, staff, and researchers alike. Those resources are divided into sections – project identification, project planning, supporting tools, and reflection. 
 
----
-
-### Cross-Reference Keywords: Collaboration; Professionalization
-
----  
  
 
 ## CURATED ARTIFACTS 
