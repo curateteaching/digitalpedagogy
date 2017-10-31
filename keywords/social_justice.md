@@ -74,7 +74,7 @@ The syllabus is an excellent example of a course taught in an educational enviro
 
 * Artifact Type: Syllabus
 * Source URL: [http://www.drtonieshaltaylor.com/teaching](http://www.drtonieshaltaylor.com/teaching) 
-* Artifact Permissions: 
+* Artifact Permissions: CC BY-NC
 * Copy of the Artifact: [files/social_justice-Advanced-Writing-for-the-discipline.pdf](files/social_justice-Advanced-Writing-for-the-discipline.pdf)
 * Creator and Affiliation: Toniesha L. Taylor, Prairie View A&M University
 
@@ -97,7 +97,7 @@ GIS mapping activities like this one are used to teach metadata and natural lang
 ![screenshot](images/social_justice-Group-Contract.png)
 
 * Source URL: [http://www.drtonieshaltaylor.com/teaching](http://www.drtonieshaltaylor.com/teaching) 
-* Artifact Permissions:
+* Artifact Permissions: CC BY-NC
 * Copy of the Artifact: [files/social_justice-Group-Contract.pdf](files/social_justice-Group-Contract.pdf)
 * Creator and Affiliation: Toniesha L. Taylor, Prairie View A&M University
 
@@ -109,7 +109,7 @@ Some form of equitable social contract is valuable between course participants. 
 
 * Source URL: [https://www.drtonieshaltaylor.com/single-post/2017/01/05/ACTIVITY-Transferring-Intersectional-and-Performative-Responses-to-Mediated-Representations-of-Sexuality](https://www.drtonieshaltaylor.com/single-post/2017/01/05/ACTIVITY-Transferring-Intersectional-and-Performative-Responses-to-Mediated-Representations-of-Sexuality) 
 * Copy of the Artifact: [files/social_justice-Transferring-Intersectional-and-Performative-Responses.pdf](files/social_justice-Transferring-Intersectional-and-Performative-Responses.pdf)
-* Artifact Permissions:
+* Artifact Permissions: CC BY-NC
 * Creator and Affiliation: Dr. Robert Gutierrez-Perez, Assistant Professor of Communication, University of Nevada, Reno (Original Creator), Dr. Amber L. Johnson, Assistant Professor of Communication, St. Louis University, and Dr. Toniesha L. Taylor, Associate Professor of Communication, Prairie View A&M University
 
 Dr. Johnson and Dr. Taylor modified this activity from one created by Dr. Robert Gutierrez-Perez. Dr. Guiterrez-Perez’s original activity used music and focused on themes and terms around marriage equality. Johnson and Taylor expanded the activity to include video and use hashtags, themes and terms used to discuss race, class, gender and sexuality. Johnson and Taylor adapted the original activity as a creative interactive performance delivered at the Western States Communication Association Conference.  Since then they have each adapted the activity for classroom delivery in various communication classrooms. This activity allows professors to engage in mediated representations of intersectional identities. Moreover students are able to discuss the ways in which they understand social justice actions through identity matrixes. When delivered in classrooms this activity can be used to start conversation. 
@@ -153,7 +153,7 @@ For many scholars and activists notions of social justice include clear concepts
 ![screenshot](images/social_justice-HMT-syllabus.png)
 * Artifact Type: Syllabus
 * Source URL: 
-* Artifact Permissions:
+* Artifact Permissions: CC BY-NC
 * Copy of the Artifact: [The Prophetic Ministry of Bishop Henry McNeal Turner Syllabus](files/social_justice-HMT-syllabus.pdf)
 * Creator and Affiliation: Andre Johnson, The University of Memphis 
 
