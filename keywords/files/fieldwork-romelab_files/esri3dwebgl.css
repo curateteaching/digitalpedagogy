@@ -1,0 +1,63 @@
+ 
+.mapControlsContainer{
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	width: 0px; 
+	overflow: visible; 
+	
+}
+.mapControlsContainer .zoomSlider{
+	height:250px;
+}
+.compassContainer{
+	position : absolute;
+	top : 15px;
+	right: 15px;
+}
+.compass{
+	width: 40px;
+	height: 40px;
+	background-image: url("../images/compass.png");
+	background-size: contain;
+	opacity: 0.8;
+	cursor: pointer;
+}
+.compass:hover{
+	opacity: 1;
+}
+.crosshair{
+    pointer-events: none;
+    position : absolute;
+    width: 40px;
+    height: 40px;
+    background-image: url("../images/crosshair.svg");
+    opacity: 0.4;
+}
+#fpsWin{
+	position: absolute;
+	bottom: 0px;
+	color: white;
+	opacity: 0.6;
+	padding: 2px;
+	width: 17px;
+	height: 14px;
+	cursor: pointer;
+	text-shadow: 0px 0px 1px black, 0px 0px 2px black, 0px 0px 3px black;
+	font-family: Arial;
+	font-size: 12px;
+}
+ 
+.zoomSlider .dijitSliderBar.dijitSliderProgressBar, .zoomSlider .dijitSliderBar.dijitSliderRemainingBar, .zoomSlider .dijitSliderBar.dijitSliderBottomBumper, .zoomSlider .dijitSliderBar.dijitSliderTopBumper{
+width: 10px;
+}
+.zoomSlider .dijitSliderBar.dijitSliderProgressBar, .zoomSlider .dijitSliderBar.dijitSliderBottomBumper{
+	background-color: white !important;
+}
+ 
+.transparentHighlightOnHover{
+	opacity: 0.7;
+}
+.transparentHighlightOnHover:hover{
+	opacity: 0.9;
+}

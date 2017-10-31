@@ -1,0 +1,73 @@
+/*
+Theme Name: Hemingway Child
+Template: hemingway
+Author: Child Theme Configurator
+Version: 1.0.1453380389
+Updated: 2016-01-21 12:46:29
+*/
+
+@charset "UTF-8";
+.slide-source-custom.slide-type-image.custom-layout-caption.custom-caption-position-bottom .sd2-node-caption {
+	visibility:hidden;
+} 
+
+/*.sd2-slide-title-inner {
+    display: none;
+}*/
+
+select {
+    font-size: 14px;
+    height: 41px;
+	 min-width: 180px;
+}
+
+.country-single {
+    float: right;
+	padding-top: 10px;
+}
+.country {
+    float: right;
+}
+
+.header {
+    /*padding: 150px 0;*/
+    margin-top: -100px;
+    padding: 250px 0;
+}
+.post-title {
+	font-size:40px !important;
+}
+.goback {
+	display:block;
+	border:1px solid #cc9b3b;
+	width:200px;
+	text-align:center;
+	margin:0px auto; 
+	margin-top:20px;
+	color:#fff !important;
+	text-decoration:none;
+	font-size:16px;
+	background:#cc9b3b;
+	border-radius:3px;
+}
+.goback-large  {
+	display:block;
+	border:1px solid #cc9b3b;
+	width:240px;
+	text-align:center;
+	margin:0px auto; 
+	margin-top:20px;
+	color:#fff !important;
+	text-decoration:none;
+	font-size:16px;
+	background:#cc9b3b;
+	border-radius:3px;
+}
+.goback:hover {
+	font-weight:bold;
+	text-decoration:none !important;
+}
+.goback-large:hover {
+	font-weight:bold;
+	text-decoration:none !important;
+}
