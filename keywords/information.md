@@ -65,7 +65,7 @@ The central strength of the course in which this assignment appears is its consi
 
 #### Data-Based Project and Analysis
 ![screenshot](images/information_klein.png)
-* Source: [Data-Based Project and Analysis PDF](files/klein.pdf)
+* Source: [files/information-data-based-project-and-analysis.pdf](files/information-data-based-project-and-analysis.pdf)
 * Creators: Lauren Klein (Georgia Tech)
 * Artifact Type: Syllabus
 
