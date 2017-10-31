@@ -57,7 +57,7 @@ Pedagogical instances exemplify a variety of academic institutions, curricula, a
 
 #### First in Our Families
 
-![screenshot](images/storytelling-first-in-our-families.png)
+![screenshot](images/screenshot-storytelling-first-in-our-families.png)
 
 * Artifact Type: digital stories
 * Source URL: [http://www.macalester.edu/cec/collegeaccess/FirstGenerationDigitalStorytelling/](http://www.macalester.edu/cec/collegeaccess/FirstGenerationDigitalStorytelling/) 
@@ -71,7 +71,7 @@ These stories offer autobiographical reflections, as per the CDS/StoryCenter mod
 
 #### My Story
 
-![screenshot](images/storytelling-my-story.png)
+![screenshot](images/screenshot-storytelling-my-story.png)
 
 * Artifact Type: digital story
 * Source URL: [https://www.laguardia.edu/dstory/mystory.htm](https://www.laguardia.edu/dstory/mystory.htm)
@@ -85,7 +85,7 @@ This story is in many ways classic CDS/StoryCenterwork, using an autobiographica
 
 #### Aquaphobia 
 
-![screenshot](images/storytelling-Aquaphobia.png)
+![screenshot](images/screenshot-storytelling-Aquaphobia.png)
 
 * Artifact Type: digital video story
 * Source URL: [https://vimeo.com/17627563](https://vimeo.com/17627563)
@@ -98,7 +98,7 @@ The visuals combine video, images (some stills from video), and a Sylvia Plath q
 
 #### Farm to Food (LoC)
 
-![screenshot](images/storytelling-farm-to-food.png)
+![screenshot](images/screenshot-storytelling-farm-to-food.jpg)
 
 * Artifact Type: Flickr page
 * Source URL: https://www.flickr.com/groups/visualstory/discuss/72157603786255599/
@@ -111,7 +111,7 @@ This is a visual story, relying almost entirely on photographs for its content a
 
 #### English 401: Viking Studies The Medieval North Atlantic
 
-![screenshot](images/storytelling-english401.png)
+![screenshot](images/screenshot-storytelling-english401.png)
 
 * Artifact Type: class web page
 * Source URL: http://public.gettysburg.edu/~cfee/courses/English4012001/topic3.htm
@@ -124,7 +124,7 @@ The page points readers to several IF tools: Inform, for game authoring; Gluxe a
 
 #### Mad City Mystery: Developing Scientific Argumentation Skills with a Place-based Augmented Reality Game on Handheld Computers
 
-![screenshot](images/storytelling-mad-city.png)
+![screenshot](images/screenshot-storytelling-mad-city.png)
 
 * Artifact Type: augmented reality game
 * Source URL: https://link.springer.com/article/10.1007/s10956-006-9037-z
@@ -137,7 +137,7 @@ The article offers a detailed account of how the authors assessed student learni
 
 #### DS106
 
-![screenshot](images/storytelling-ds106.png)
+![screenshot](images/screenshot-storytelling-ds106.png)
 
 * Artifact Type: class website
 * Source URL: http://ds106.us/   
@@ -150,7 +150,7 @@ Rather than describing a single class, this site offers examples of classes alre
 
 #### Reinventing Texts
 
-![screenshot](images/storytelling_reinventing-texts.png)
+![screenshot](images/screenshot-storytelling_reinventing-texts.png)
 
 * Artifact Type: blog post
 * Source URL:  https://freedomandimprisonment.wordpress.com/2015/04/17/reinventing-texts/   
@@ -165,7 +165,7 @@ The pedagogical goals included giving voice to the typically voiceless, and huma
 
 #### Digital Storytelling Tips and Resources
 
-![screenshot](images/storytelling-sample-rubric.png)
+![screenshot](images/screenshot-storytelling-sample-rubric.png)
 
 * Artifact Type: pdf guide
 * Source URL: [https://events.educause.edu/ir/library/pdf/ELI08167B.pdf](https://events.educause.edu/ir/library/pdf/ELI08167B.pdf)
@@ -178,7 +178,7 @@ The document does not specifically situate itself for a particular class, discip
 
 #### Implementing a Digital Story – Checklist
 
-![screenshot](images/storytelling-implementing-digital-story.png)
+![screenshot](images/screenshot-storytelling-implementing-digital-story.png)
 
 * Artifact Type: pdf resource guide
 * Source URL: [https://www.mercy.edu/sites/default/files/media/browser/Digital%20Story%20%C2%ADImplementation%20Checklist.pdf](https://www.mercy.edu/sites/default/files/media/browser/Digital%20Story%20%C2%ADImplementation%20Checklist.pdf)
