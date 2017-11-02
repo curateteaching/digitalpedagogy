@@ -88,7 +88,7 @@ This syllabus is for a course that teaches advanced research writing and design 
 
 ![screenshot](images/social_justice-GISMapping_Introduction.png)
 * Source URL:  N/A
-* Artifact Permissions: 
+* Artifact Permissions: CC-BY-NC
 * Copy of the Artifact: [files/social_justice-GISMapping_Introduction.pdf](files/social_justice-GISMapping_Introduction.pdf)
 * Creator and Affiliation: Noel M. Estwick, Prairie View A&M University 
 
