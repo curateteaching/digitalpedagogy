@@ -1,13 +1,11 @@
 ---
 title: Digital Pedagogy in the Humanities
 subtitle: Concepts, Models, and Experiments
-chapter: Information
-URL: keywords/information.md
+chapter: Diaspora
+URL: keywords/diaspora.md
 author:
-- family: Clement
-  given: Tanya E.
-- family: Carter
-  given: Daniel
+- family: Johnson
+  given: Jessica Marie
 editor:
 - family: Gold
   given: Matthew K.
