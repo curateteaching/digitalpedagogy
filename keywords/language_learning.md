@@ -170,7 +170,7 @@ Sauro and Sundmark (2016) incorporated the practice of online fandom in the clas
 ![screenshot](images/Screenshot-LanguageLearning-What_shappeNING.png)
 
 * Artifact Type: Educational Social Network Site 
-* Artifact Permissions: provided by creator
+* Artifact Permissions: CC-BY-NC (for image, edited for privacy of students)
 * Creator and Affiliation: [Ana Brígido-Corachán](https://uv.academia.edu/AnnaMBrigidoCorachan) (Universitat de València) and Mª Goretti Zaragoza-Ninet (Universitat de València)
 * Tags: Getting started; NING
 
