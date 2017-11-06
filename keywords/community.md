@@ -76,7 +76,7 @@ Collaborative editing turns the individual, introspective process of reading int
 * Source URL: [http://historyapolis.com/](http://historyapolis.com/)
 * Creator: Kirsten Delegard, Augsburg University 
 
-This mapping project out of Augsburg University confronts a history of prejudice and segregation in Minneapolis, MN driven by the idea that "history is a powerful tool for community-building" and digital tools can give us new ways of interpreting and sharing that history. [Mapping Prejudice](https://www.mappingprejudice.org/), a spinoff from the main project, uses government documents and GIS technology to trace racially-restrictive deeds. Drawing heavily on student and community researchers, it is the winner of the 2015 Alice Smith Prize from the Midwestern History Association.  
+This local history project out of Augsburg University confronts a legacy of prejudice and segregation in Minneapolis, MN through multimodal storytelling, driven by the idea that "history is a powerful tool for community-building" and digital tools can give us new ways of interpreting and sharing that history. Topics include immigration, LGBT rights, and perhaps most notably the history of police in the near North Side: "As we grapple with the shooting of Jamar Clark," they write, "this history matters."  [Mapping Prejudice](https://www.mappingprejudice.org/), a spinoff from the main project housed in the Borchert Map Library at the University of Minnesota, uses government documents and GIS technology to trace racially-restrictive deeds. Drawing heavily on student and community researchers, Historyapolis is the winner of the 2015 Alice Smith Prize from the Midwestern History Association.
 
 ### IDEAL
 ![screenshot](images/community-ideal.png) 
