@@ -133,14 +133,14 @@ This course examines the “real people in real places” who are involved in th
 ![screenshot](images/screenshot-labor-ferpa.png) 
 
 * Artifact Type: consent form
-* Source URL: [http://registrar.uoregon.edu/files/pdf/FERPA-Consent-Form-For-Course-Blog-and-Social-Media.pdf](http://registrar.uoregon.edu/files/pdf/FERPA-Consent-Form-For-Course-Blog-and-Social-Media.pdf)
-* Artifact Permissions: No copyright declared
-* Copy of the Artifact: [http://registrar.uoregon.edu/files/pdf/FERPA-Consent-Form-For-Course-Blog-and-Social-Media.pdf](http://registrar.uoregon.edu/files/pdf/FERPA-Consent-Form-For-Course-Blog-and-Social-Media.pdf)
-* Creators and Affiliations:  Andrew Bonamici, University of Oregon Libraries
+* Source URL: [http://bit.ly/ferpa-release](http://bit.ly/ferpa-release)
+* Artifact Permissions: CC BY 4.0
+* Copy of the Artifact: [http://bit.ly/ferpa-release](http://bit.ly/ferpa-release)
+* Creators and Affiliations:  Spencer Keralis, University of North Texas; adapted from University of Oregon Libraries
 * Tags: getting started; FERPA
 
 
-If the syllabus constitutes a labor contract between the instructor and the student, the *Consent for Disclosure of Education Record: Course Blog* allows students to negotiate with the instructor and the institution to what degree their this labor may be made public (UO Libraries).  This negotiation is critical for digital projects as many platforms necessitate a public-facing output. The consent form provides four methods through which a student may participate according to their desired privacy level, while also providing information as to which activities will be private or public. The granularity of these options demonstrates that privacy and attribution do not have to be binary concepts when it comes to participation This tool also provides students with an official, institution-sanctioned mechanism for voicing their concerns without feeling that they are challenging the integrity of the instructor’s assignment. Including the form within a course also gives instructors a tangible means of enacting their commitment toward student rights and privacy.
+If the syllabus constitutes a labor contract between the instructor and the student, the *Consent for Disclosure of Education Record* allows students to negotiate with the instructor and the institution to what degree their this labor may be made public (UO Libraries).  This negotiation is critical for classroom-based digital projects, as many platforms necessitate a public-facing output. The consent form provides three methods through which a student may participate according to their desired privacy level, while also providing information as to which activities will be private or public. The granularity of these options demonstrates that privacy and attribution do not have to be binary concepts when it comes to participation. This tool also provides students with an official, institution-sanctioned mechanism for asserting their rights without feeling that they are challenging the integrity of the instructor’s assignment. Including the form within a course also gives instructors a tangible means of enacting their commitment toward student rights, authorship, and privacy.
 
 #### World Literature Timeline
 
