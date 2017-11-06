@@ -130,12 +130,12 @@ This course examines the “real people in real places” who are involved in th
 
 #### Consent for Disclosure of Education Record
 
-![screenshot](images/screenshot-labor-ferpa.png) 
+![screenshot](images/screenshot-labor-ferpa-keralis.PNG) 
 
 * Artifact Type: consent form
 * Source URL: [http://bit.ly/ferpa-release](http://bit.ly/ferpa-release)
 * Artifact Permissions: CC BY 4.0
-* Copy of the Artifact: [http://bit.ly/ferpa-release](http://bit.ly/ferpa-release)
+* Copy of the Artifact: [FERPA release form](files/labor-ferpa-release.pdf)
 * Creators and Affiliations:  Spencer Keralis, University of North Texas; adapted from University of Oregon Libraries
 * Tags: getting started; FERPA
 
