@@ -104,7 +104,7 @@ The ds106 assignment bank provides an almost-overwhelming cache of possibilities
 ![screenshot](images/remix-middleton-stirred.png)
 * Artifact Type: assessment rubric 
 * Source URL: http://ccdigitalpress.org/dwae/06_mccorkle.html
-* Artifact Permissions: Open Access, Creative Commons License
+* Artifact Permissions: CC-BY-NC
 * Copy of the Artifact:
 * Creators: Susan H. Delagrange, Ben McCorkle, and Catherine C. Braun, The Ohio State University
 
