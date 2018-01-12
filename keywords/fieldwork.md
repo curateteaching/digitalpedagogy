@@ -134,12 +134,12 @@ The Million Image Database is an open-access photographic collection of world cu
 
 * Artifact Type: Student work
 * Source URL: https://vimeo.com/78530205
-* Permissions: pending
-* Copy of Artifact: pending
+* Permissions: CC BY NC
+* Copy of Artifact: available via vimeo
 * Creator and Affiliation: Directed and Produced by Erica Kowsz (UMass Amherst); Co-Produced by Nathan Goodale (Hamilton College)
 * Tags: documentary; archaeology; cultural heritage; linguistics; indigeneity 
 
-This is a trailer for the documentary “A Journey Upstream: The Past and Presence of an ‘Extinct’ People,” directed by archaeology graduate student, Erica Kowsz, and part of SEARCH, a multi-institutional archaeology, cultural heritage, and linguistics project. The project documents the history and continued presence of the Sinixt Nation in British Columbia, despite the Canadian government having pronounced it “extinct” in 1956. An example of student digital fieldwork, the video demonstrates technology’s crucial role in documentation, with interviews of the supposedly “extinct” members of Sinixt Nations. Currently in the data collection stage, the video exemplifies project staging, allowing the public some access to the project’s historical context and aims before completion. The project also demonstrates how students use multimedia to create and disseminate archaeological and anthropological research. The video, reflecting a preliminary stage of research, does not address directly issues of ownership and management of the documentary videos.
+This is a trailer for the documentary “A Journey Upstream: The Past and Presence of an ‘Extinct’ People,” directed by anthropology PhD candidate, Erica Kowsz. The project documents the history and continued presence of the Sinixt, or Lakes, people in British Columbia, despite the Canadian government having pronounced the Arrow Lakes band “extinct” in 1956. This trailer, associated with a 35-minute video, is itself distilled from over 30 hours of footage. The project involved working with multiple stakeholders—students, faculty from different institutions, Indigenous leaders and educators, and local activist communities—an ambitious task for a project begun during undergraduate study, especially regarding negotiating ownership rights and access management. Currently only the trailer is publically available online; the full-length video has been shared with participants and with select audiences for educational purposes. This artifact demonstrates the necessarily collaborative aspects of ethnographic fieldwork and the complexities of engaging simultaneously in digital video production.
 
 #### A Look at the BISC Digital Humanities Field School
 ![screenshot](images/screenshot-fieldwork-biscdigitalhumanities.png)
