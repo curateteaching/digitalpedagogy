@@ -59,7 +59,7 @@ These resources are intended for instructors who are looking to supplement their
 
 #### Game Play Logs ("Plogs")
 
-![screenshot](images/gaming-Close-Playing.png)
+![screenshot](images/gaming-Game-play-logs.png)
 
 * Artifact Type: Assignment
 * Source URL: [http://www.edmondchang.com/courses/3850/2.0plogs.pdf](http://www.edmondchang.com/courses/3850/2.0plogs.pdf) 
@@ -183,7 +183,7 @@ This chapter is a primer for how to apply anti-oppressive principles to game des
 
 #### Game Design Documents On Racial Formation and Migration
 
-![screenshot](images/screenshot-gaming-design-sketches.jpg)
+![screenshot](images/gaming-game-design-documents.png)
 
 * Artifact Type: Assignment
 * Source URL: N/A
