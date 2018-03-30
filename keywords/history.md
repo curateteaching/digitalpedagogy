@@ -66,12 +66,12 @@ This assignment operationalizes [Caleb McDaniel's arguments](http://wcm1.web.ric
 #### The Unessay
 ![screenshot](images/history-Cordell-Unessay-Prompt.png)
 + Artifact Type: assignment prompt
-+ Source URL: [http://f17rwda.ryancordell.org/assignments.html#unessay_(15%)](http://f17rwda.ryancordell.org/assignments.html#unessay_(25%))
-+ Permissions: CC
++ Source URL: [http://s18tot.ryancordell.org/assignments/unessay/](http://s18tot.ryancordell.org/assignments/unessay/)
++ Permissions: CC-BY
 + Creator and Affiliation: Ryan Cordell, Northeastern University
 + Tags: getting started
 
-How do we grade assess artifacts in history that don't look like essays? One answer is to frame them as 'unessays', where the student chooses their _own_ platform, their own expressive medium, to examine a question. Particularly for digital work, the unessay shifts the focus from technical competency to how the medium and the argument intersect, reinforce, or contradict each other. Daniel Paul O'Donnell coined the ideas and rationale behind an ['unessay'](http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay); in this artifact, Ryan Cordell operationalizes the concept and provides [examples of student work](http://f17rwda.ryancordell.org/assignments.html#model_unessays), from an imaginative 'manifesto' by 'Ada Lovelace', to highly annotated code, to Tumblr photo essays. 
+How do we grade assess artifacts in history that don't look like essays? One answer is to frame them as 'unessays', where the student chooses their _own_ platform, their own expressive medium, to examine a question. Particularly for digital work, the unessay shifts the focus from technical competency to how the medium and the argument intersect, reinforce, or contradict each other. Daniel Paul O'Donnell coined the ideas and rationale behind an ['unessay'](http://people.uleth.ca/~daniel.odonnell/Teaching/the-unessay); in this artifact, Ryan Cordell operationalizes the concept and provides examples of student work, from an imaginative 'manifesto' by 'Ada Lovelace', to highly annotated code, to Tumblr photo essays. 
 
 #### Collaborative Annotation
 ![screenshot](images/history-dougherty-assignment.png)
