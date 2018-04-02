@@ -79,7 +79,7 @@ The non-linear, digital book *Flows of Reading* provocatively takes as its case 
 
 ![screenshot](images/remix-middleton-audiocollage.png)
 * Artifact Type: assignment
-* Source URL: http://www.sciencedirect.com/science/journal/87554615
+* Source URL: 
 * Artifact Permissions: CC-BY-NC
 * Copy of the Artifact:  [Audio Collage Assignment](files/remix-Audio-Collage-Assignment.pdf)
 * Creator: Jean Bessette, University of Vermont
@@ -188,7 +188,7 @@ Taylor, Brett. director. *RiP!: A Remix Manifesto.* 2008. Web. [https://vimeo.co
 
 ## WORKS CITED
 
-Bessette, Jean. “Audio, Archives, and the Affordance of Listening in a Pedagogy of ‘Difference.’” *Computers and Composition.* vol. 39, March 2016, pp. 71-82. 
+Bessette, Jean. “Audio, Archives, and the Affordance of Listening in a Pedagogy of ‘Difference.’” *Computers and Composition.* vol. 39, March 2016, pp. 71-82. http://www.sciencedirect.com/science/journal/87554615
 
 Church, Scott H. “A Rhetoric of Remix.” *The Routledge Companion to Remix Studies.* Taylor and Francis, 2017, pp. 43-53. 
 
