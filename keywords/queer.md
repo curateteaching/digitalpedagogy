@@ -134,7 +134,7 @@ What is important about the #TransformDH blog and collaborative project is the i
 
 [Digital Storytelling Project](http://queeringthemuseum.org/current-projects/digital-storytelling-project/)
 
-![screenshot](images/screenshot-queer-queeringthemuseum.jpg)
+![screenshot](images/screenshot-queer-digital-storytelling-project.png)
 * Artifact Type: collaborative project, short films
 * Source URL: https://queeringthemuseum.org/previous-projects/digital-storytelling-project/
 * Permissions: 
