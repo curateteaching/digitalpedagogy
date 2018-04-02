@@ -87,7 +87,7 @@ FemTechNet is a network of scholars, artists, and students who work on, with, an
 ![screenshot](images/network-marginalsyllabus.jpg)
 
 * Artifact Type: syllabus
-* Source URL: http://marginalsyllab.us/
+* Source URL: [http://marginalsyllab.us/conversations/the-2017-18-syllabus/](http://marginalsyllab.us/conversations/the-2017-18-syllabus/)
 * Artifact Permissions: CC-BY, and annotations are by default CC0
 * Copy of the Artifact: [2017/2018 syllabus](files/network-marginal-syllabus.pdf) 
 * Creator and Affiliation: A multi-stakeholder collaboration between Hypothesis, a non-profit organization building an open platform for discussion on the web, Aurora Public Schools in Aurora, CO, and Researchers and teacher educators from the University of Colorado Denver School of Education and Human Development in Denver, CO. 2017/2018 syllabus in collaboration with the National Writing Project
