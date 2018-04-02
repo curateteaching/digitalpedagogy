@@ -123,7 +123,7 @@ This student blog post on [HASTAC](https://www.hastac.org/), which documents the
 #### “The Codex”
 ![screenshot](images/screenshot-code-blackcodestudies.png)
 * Artifact Type: Digital project
-* Source URL: [http://diasporahypertext.com/2012/11/29/new-project-the-codex/](http://diasporahypertext.com/2012/11/29/new-project-the-codex/) 
+* Source URL: [https://web.archive.org/web/20150205090218/http://diasporahypertext.com/2012/11/29/new-project-the-codex/](https://web.archive.org/web/20150205090218/http://diasporahypertext.com/2012/11/29/new-project-the-codex/) 
 * Artifact Permissions: Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License
 * Creator and Affiliation: [Jessica Marie Johnson](http://jmjohnso.com/), Johns Hopkins University 
 
@@ -132,7 +132,7 @@ This student blog post on [HASTAC](https://www.hastac.org/), which documents the
 #### “Rikers Bot”
 ![screenshot](images/screenshot-code-rikersbot.jpg)
 * Artifact Type: Collaborative project
-* Source URL: [http://xpmethod.plaintext.in/public-discourse/rikersbot.html](http://xpmethod.plaintext.in/public-discourse/rikersbot.html) 
+* Source URL: [http://www.digitalstorytellinglab.com/projects/rikers-bot/](http://www.digitalstorytellinglab.com/projects/rikers-bot/) 
 * Artifact Permissions: GNU GPL 
 * Creator and Affiliation: Manan Ahmed, Zeinab Aina, Thomas Brown III, Marjana Chowdhury, Andi Dixon, Janine Ko, Katarzyna Kaczowka, Desmond Patton, Cameron Rasmussen, Dennis Yi Tenen, and the Young People at Rikers.
 
