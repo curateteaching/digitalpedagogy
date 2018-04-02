@@ -55,7 +55,7 @@ This collection brings together a handful of resources that cross boundaries bet
 ## CURATED ARTIFACTS 
 
 #### Learning Spaces
-![screenshot](images/Classroom_Artifact_2_Learning_Spaces.png)
+![screenshot](images/Classroom_Artifact_2_Learning_Spaces-2018.png)
 * Artifact Type: Examples of physical classroom design spaces
 * Artifact Permissions: Copyright Educause, Available as a free download
 * Source: [http://www.educause.edu/research-and-publications/books/learning-spaces](http://www.educause.edu/research-and-publications/books/learning-spaces)
