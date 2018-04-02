@@ -102,8 +102,8 @@ This artifact is a course website for a seven week media studies course on digit
 
 * Artifact Type: Assignment
 * Source URL: [https://canvas.instructure.com/courses/910884/assignments/3304735](https://canvas.instructure.com/courses/910884/assignments/3304735) 
-* Artifact Permissions: Copyright Ingrid Sturgis
-* Copy of the Artifact:  author is sending a revision
+* Artifact Permissions: CC-BY-NC-SA 4.0
+* Copy of the Artifact:  [Access and the Digital Divide](files/digital-divides_Access-and-the-Digital-Divide.pdf) 
 * Creator and Affiliation: Ingrid Sturgis, Howard University
 
 This artifact has students use current journalism and online sources in their research. It is an assignment appropriate for lower division undergraduate students as an introduction to the ideas of digital divides as related to access to the Internet and digital technology in the United States. This assignment could be used early in a discussion of digital divides as a way to understand both what some specific divides are and their intersections. The assignment encourages students to explore the topic and consider what is possible, what could and/or should be done to bridge these divides. This is significant because for students on the fortunate sides of the digital divides, high speed Internet may be as taken for granted in first world spaces.  It is an assignment that should be updated with current information from, for example, current survey information from the Pew Research Center and examples of recent journalism. 
