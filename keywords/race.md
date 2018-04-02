@@ -106,7 +106,7 @@ A curated blog that highlights scholarship and scholars in the field of Atlantic
 ### Ferguson Syllabus 
 ![screenshot](images/race-teachingferguson.png)
 * Artifact Type: syllabus 
-* Source URL: https://docs.google.com/document/d/1kwZl23Q9tgZ23dxSJWS-WpjZhOZ_mzVPtWL8-pWuLt8/edit/edit?pli=1#heading=h.l15kj4sa2rn0
+* Source URL: [http://bit.ly/FergusonSyllabus](http://bit.ly/FergusonSyllabus)
 * Permissions: public 
 * Creator and Affiliation: Marcia Chatelain, hashtag originator, Georgetown University; Dan Krutka, Google document host & faciliator, Texas Women's University
 * Tags: getting started and advanced, crowdsourcing, curriculum  
