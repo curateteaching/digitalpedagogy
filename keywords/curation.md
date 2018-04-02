@@ -63,7 +63,7 @@ From its association with institutional work and responsibility, the term “cur
 ![screenshot](images/screenshot-curation-galeyencodingchallenge.png)
 
 * Artifact Type: assignment
-* Source URL: [http://individual.utoronto.ca/alangaley/courses/INF2159_2015/syllabus.html](http://individual.utoronto.ca/alangaley/courses/INF2159_2015/syllabus.html) 
+* Source URL: [http://galeyinf2331-w2016.blogspot.ca/p/assignments.html](http://galeyinf2331-w2016.blogspot.ca/p/assignments.html) 
 * Artifact Permissions: CC-BY-SA 4.0
 * Copy of the Artifact: [INF2331H Assignments](files/curation-galeyencodingchallenge.pdf) 
 * Creator and Affiliation: Alan Galey, University of Toronto
