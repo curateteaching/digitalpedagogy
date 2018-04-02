@@ -64,7 +64,7 @@ Digital pedagogy in history changes not just how we teach, but how we _do_, hist
 This assignment operationalizes [Caleb McDaniel's arguments](http://wcm1.web.rice.edu/open-notebook-history.html) for why historians should make the historical research process open to inspection, situating the idea within practices familiar to historians. The 'Fail Log' assignment surfaces the hidden 'gotchas' of doing digital work, and permits students a way of 'showing their work'. As students all have different starting points with digital materials, these notebooks and the sharing of materials can be used to help build community and support. Mark Sample called this approach ['flogging' - fail logging](https://wayback.archive.org/web/20150124022659/http://sites.davidson.edu/hacking/course-guidelines/). The open notebook can also be an effective introduction to open peer review journal and book projects, such as those undertaken by [Michelle Moravec](http://michellemoravec.com/michelle-moravec/). It parallels more familiar forms such as course blogging.
 
 #### The Unessay
-![screenshot](images/history-Cordell-Unessay-Prompt.png)
+![screenshot](images/history-Cordell-Unessay-Prompt-2018.png)
 + Artifact Type: assignment prompt
 + Source URL: [http://s18tot.ryancordell.org/assignments/unessay/](http://s18tot.ryancordell.org/assignments/unessay/)
 + Permissions: CC-BY
