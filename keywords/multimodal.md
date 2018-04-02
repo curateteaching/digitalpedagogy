@@ -103,7 +103,7 @@ This assignment asks students to create a website featuring a critical analysis 
 * Artifact type: Student project
 * Source URL: [vimeo.com/24142859](https://vimeo.com/24142859)
 * Permission: granted by the author
-* Creator: Jerrod Findley
+* Creator: Jarrod Finley
 
 This video-based digital argument is sophisticated both conceptually and formally. The piece, which uses footage from the Shoah Visual History Archive, centers on the contradictions of U.S. military efforts in liberating Nazi camps, while also practicing racism in its treatment of its own troops. The interplay among the various modes is nuanced as the project’s form serves its conceptual goals: The images are stripped out which highlights the absence of regard for black soldiers, as it also places the focus on verbal language, encouraging careful listening during the witnesses’ oral testimony, and careful reading when the author’s commentary appears via white text on the black screen. The verbiage is stripped down using an economy of words that move in and out of frame in interesting ways, reminding us of the visual-graphical facet of writing. This piece is quite successful in constructing a complex multimodal argument in the space of a 5-10 minute video.
 
