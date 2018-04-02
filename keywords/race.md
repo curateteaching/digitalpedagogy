@@ -124,7 +124,7 @@ This crowdsourced Google document, a product of the #FergusonSyllabus hashtag, c
 This visual wall of non-white Australians documents the inaccuracy of the myth of an all-white Australia and the monitoring and restriction of people who were targets of the "White Australia Policy.” *Invisible Australians* is relevant for courses on global race and ethnicity, particularly to introduce students to archival sources and their use in government policy. This website can also be used in conjunction with [Digitizing Chinese Englishmen](http://chineseenglishmen.adelinekoh.org/) in courses on colonial/postcolonial literature (Koh). In particular, instructors can pair a reading of this online visual archive with core postcolonial texts that have critiqued colonialism, such as Michel-Rolph Trouillot’s *Silencing the Past*, V.Y. Mudimbe’s concept of the “colonial library” in *The Invention of Africa* and Edward Said’s *Orientalism*. Core questions can include: how have technologies been utilized in a variety of archives to authorize particular versions of history? How does the visual and visuality factor in to issues of race, colonialism, and postcolonialism?
 
 ### Mapping Police Violence 
-![screenshot](images/race-nationalpoliceviolencemap.png)
+![screenshot](images/race-nationalpoliceviolencemap-2018.png)
 * Artifact Type: mapping tool
 * Source URL: http://mappingpoliceviolence.org/ 
 * Permissions:
@@ -167,7 +167,7 @@ This curriculum provides educators with a set of tools and lesson plans that can
 This is a 3D virtual representation of the black township of Soweto, South Africa, in 1976, created on Unity, a multiplatform game engine. The materials in the archive will be an excellent advanced-level addition to courses on South Africa or about global race and ethnicity by introducing elements of visualization and geography into study of this historical protest. The three-dimensional quality of this resource helps students to understand the importance of space, place and physical location in racial segregation during Apartheid, where black and colored people were physically barred from entering spaces for whites. A possible assignment might be for students to work on the archive demo along with Google maps to compare how Soweto has changed since 1976, and to discuss the implications of these changes. A 3D demo of the archive is available for public use here: [http://soweto76archive.org/3d/](http://soweto76archive.org/3d/)
 
 ### #ThisTweetCalledMyBack 
-![screenshot](images/race-thistweetcalledmyback.png)
+![screenshot](images/race-thistweetcalledmyback-2018.png)
 * Artifact Type: Hashtag
 * Source URL: https://twitter.com/search?f=realtime&q=%23thistweetcalledmyback&src=typd 
 * Permissions: public
@@ -177,7 +177,7 @@ This is a 3D virtual representation of the black township of Soweto, South Afric
 &#35;ThisTweetCalledMyBack is a hashtag movement from late 2014, where women of color activists on Twitter called attention to the appropriation of their work on social media by both journalists, activists and academics. The hashtag references the seminal 1981 book *This Bridge Called My Back: Writings by Radical Women of Color* by Cherríe Moraga, Gloria Anzaldua and Toni Cade Bambara. The hashtag can be taught in conjunction with themes of the appropriation of works by women of color in feminist movements, and in relation to hashtag activism, new social media feminist movements, and their pre-internet counterparts. An excellent complementary reading is Dorothy Kim’s “[The Rules of Twitter](http://www.hybridpedagogy.com/journal/rules-twitter/).” Students could be tasked to do a comparison of the major metaphors in both the original text and the tweetstream: what constitutes the “bridge”? Who travels on it? What does this show about change (or lack thereof) in intersectional feminisms today?
 
 ### #TransformDH 
-![screenshot](images/race-transformDH.png)
+![screenshot](images/race-transformDH-2018.png)
 * Artifact Type: collaborative project 
 * Source URL: http://transformdh.org/ 
 * Permissions: Yes
