@@ -156,7 +156,7 @@ A hybrid learning environment deconstructs hierarchies, giving students a fuller
 The Kelly Writers House is housed in the Special Collections Department of Van Pelt Library at the University of Pennsylvania, but contributes to hybrid courses and projects. For example, a truly "Hybrid" Massive Open Online Course that Al Filreis began offering in 2012, "[Modern and Contemporary American Poetry](https://www.coursera.org/course/modernpoetry)," experiments with the MOOC format and hacks the Coursera platform to create opportunities for students to have a central role in both their own learning but also in the teaching of the course. Instead of focusing on video lectures at the head of each unit, Filreis hosts live discussions at the Kelly Writers House that feature himself, University of Pennsylvania students, as well as students from around the world that call in (and sometimes make visits to PA). The physical place of the Kelly Writers House becomes the fulcrum around which the online course pivots. Kelly Writers House is also home to other digital and hybrid projects, including [PennSound](http://writing.upenn.edu/pennsound/), a podcast, and online book groups, poetry readings, and more.
 
 ### "Guidelines for Public, Student Class Blogs: Ethics, Legalities, FERPA and More"
-![screenshot](images/screenshot-hybrid-FERPA-guidelines.jpg)
+![screenshot](images/hybrid-FERPA-guidelines-2018.png)
 
 * Type of Artifact: Teaching guidelines
 * Source URL: <https://www.hastac.org/blogs/superadmin/2012/11/30/guidelines-public-student-class-blogs-ethics-legalities-ferpa-and-more>
