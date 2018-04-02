@@ -74,8 +74,8 @@ This assignment teaches XML text encoding as a curatorial practice in which the 
 
 ![screenshot](images/screenshot-curation-hisp355_01.png), ![screenshot](images/screenshot-curation-hisp355_02.png)
 
-* Artifact Type: course site
-* Source URL: [http://wheatoncollege.edu/hispanic-studies/hisp-355-voyages-navigations-shipwrecks/](http://wheatoncollege.edu/hispanic-studies/hisp-355-voyages-navigations-shipwrecks/) 
+* Artifact Type: course project
+* Source URL: [http://dledezma.webspace.wheatoncollege.edu/Oviedo/index.html](http://dledezma.webspace.wheatoncollege.edu/Oviedo/index.html) 
 * Artifact Permissions: CC-BY-NC
 * Copy of the Artifact:  [Project Summary: Exploring New Worlds in Old Texts](files/curation-hisp355.html)
 * Creator and Affiliation: Domingo Ledezma, Wheaton College
@@ -163,7 +163,7 @@ This class project documents a sustained curatorial project focused around the N
 ![screenshot](images/screenshot-curation-OMFinalCurationpg1.png)
 
 * Artifact Type: assignment
-* Source URL: [http://www.elizabethetavares.com/downloads_files/OM%20Final%20Curation.pdf](http://www.elizabethetavares.com/downloads_files/OM%20Final%20Curation.pdf) 
+* Source URL: [http://www.elizabethetavares.com/omeka.html](http://www.elizabethetavares.com/omeka.html) 
 * Artifact Permissions: CC-BY-NC-ND (http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US)
 * Copy of the Artifact: [Omeka Exhibit: Final Guide and Curation](files/curation-OMFinalCuration.pdf) 
 * Creator and Affiliation: Elizabeth Tavares, Pacific University
