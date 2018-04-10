@@ -74,8 +74,8 @@ This straightforward and well-organized essay discusses an important element of 
 ![screenshot](images/access-composing-access.png)
 
 * Artifact Type: Guidelines
-* Source URL: [http://composingaccess.net](http://composingaccess.net)
-* Artifact Permissions: Permission requested, awaiting response.
+* Source URL: [https://u.osu.edu/composingaccess/](https://u.osu.edu/composingaccess/)
+* Artifact Permissions: n/a
 * Copy of the Artifact:
 * Creator: Committee on Disability Issues in College Composition, and the Computers and Composition Digital Press.
 
