@@ -120,7 +120,7 @@ Feminist Wikipedians, led initially by Adrianne Wadewitz, have been organizing e
 ### Semester-long Feminist Pedagogical Experiments
 
 #### "FemTechNet DOCC: Collaborations in Feminism and Technology"
-![screenshot](images/gender-FTNDOCC-syllabus.png)
+![screenshot](images/gender-FemTechNetDOCC.png)
 * Artifact Type: Syllabus
 * Source URL: [http://scalar.usc.edu/works/ftn-ethnic-studies-pedagogy-workbook-/networked-activities](http://scalar.usc.edu/works/ftn-ethnic-studies-pedagogy-workbook-/networked-activities)
 * Creator and Affiliation: Sharon Irish (University of Illinois Urbana-Champaign)
