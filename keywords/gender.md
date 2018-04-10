@@ -56,7 +56,7 @@ With this wide-ranging capacity in mind, the artifacts brought together here off
 [Digitizing Chinese Englishmen](http://chineseenglishmen.adelinekoh.org/) is an early-stage digital archive project by Adeline Koh (Stockton University), which digitizes the Straits Chinese Magazine, a journal published by diasporic Chinese in Southeast Asia at the turn of the 20th century. Steven Pokornowski here offers an example of how teachers can use this repository of primary texts to teach about gender, race, colonial politics, and biopolitics in the late Victorian Era. Juxtaposing the archive alongside the canonical text, *Dracula*, he provides context and theoretical framing to situate the novels as it relates to colonialism, imperialism, and race, as the “Victorian Chinesemen” at the heart of the publication present a complex portrait of precarious power in Imperial Britain. This  exercise builds on skills students are already learning in their class, but it broadens the canon and thus allows students to interrogate the production of gender and race within the British Empire. 
 
 #### “Gender Bias Exercise”
-![screenshot](images/gender-gender-bias-activity.png)
+![screenshot](images/gender-bias-activity.png)
 * Artifact Type: In-class Activity
 * Source URL: [http://kimknight.com/?p=2385](http://kimknight.com/?p=2385)
 * Artifact Permissions: Copyright kimknight.com 
