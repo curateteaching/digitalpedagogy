@@ -60,7 +60,7 @@ Roopika Risam, developed “An Invitation Towards Social Justice in the Digital 
 
 ## Race Class Social Justice Syllabus — Dr. Melissa Harris-Perry
 
-![screenshot](images/social_justice-RaceClassSocialJusticeFall2015W.png)
+![screenshot](images/social_justice-RaceClassSocialJusticeFall2015W-2018.png)
 
 * Artifact Type: syllabus
 * Source URL: [http://ajccenter.wfu.edu/wp-content/uploads/2014/06/RaceClassSocialJusticeFall2015W.pdf](http://ajccenter.wfu.edu/wp-content/uploads/2014/06/RaceClassSocialJusticeFall2015W.pdf) 
