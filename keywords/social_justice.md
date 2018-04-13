@@ -48,7 +48,7 @@ In curating social justice keyword, there are ten pieces that demonstrate digita
 
 ## An Invitation Towards Social Justice in the Digital Humanities
 
-![screenshot](images/social_justice-invitation-to-social-justice-in-DH.png)
+![screenshot](images/social_justice-invitation-to-social-justice-in-DH-2018.png)
 
 * Artifact Type: course site
 * Source URL: [http://criticaldh.roopikarisam.com](http://criticaldh.roopikarisam.com) 
