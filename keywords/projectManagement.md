@@ -111,7 +111,7 @@ One of the ongoing discussions within the Humanities concerns graduate education
 * Artifact Type: Course Package
 * Source URL: http://dhsi.org/content/2012Curriculum/12.ProjectPlanning.pdf
 * Permissions: CC-BY-NC
-* Copy of artifact: [Digital Humanities Summer Institute, Large Project Planning, Funding, and Management](files/project_management-12.ProjectPlanning.pdf)
+* Copy of artifact: [Digital Humanities Summer Institute, Large Project Planning, Funding, and Management](files/project_management-Large-Project-Planning.pdf)
 * Creator: Lynne Siemens (University of Victoria)
 
 This artifact is a course pack for a workshop in large project planning, funding, and management offered at the Digital Humanities Summer Institute, which covers a variety of topics.  One of these concerns the task identification, timing and responsibility assignment. Using hands-on exercises, students work through work breakdown structures, networks, and gantt charts.  Supplementing the course slides, the course pack includes sample diagrams of material covered. Overall, this course pack and accompanying readings would be useful for anyone developing a course or workshop in project management, as well as starting on their own project. More specifically, the material around planning tasks and their timing will establish the foundation to course assessments around these activities.
