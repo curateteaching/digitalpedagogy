@@ -164,7 +164,7 @@ Practices: Professional Development, Integration, Technology
 
 * Artifact Type: Assignment Assessment
 * Source: http://technorhetoric.net/10.2/coverweb/sorapure/betweenmodes.html
-* Copy of Artifact: [assessment-structuring-reflection.docx](filesassessment-structuring-reflection.docx)
+* Copy of Artifact: [assessment-structuring-reflection.docx](files/assessment-structuring-reflection.docx)
 * Creators: Madeleine Sorapure, UC Santa Barbara
 
 Category: Self-Assessment, Summative Assessment

@@ -67,7 +67,7 @@ The figure of the primary text rightfully dominates much of literary and cultura
 ![screenshot](images/hashtag-pearlman-syllabus.PNG)
 
 * Artifact Type: research assignment
-* Source URL: https://github.com/mp285/MLA-hashtag/blob/master/Pearlman_Hashtag-Syllabus.pdf
+* Source URL: [hashtag-kulak-plan.pdf](files/hashtag-kulak-plan.pdf)
 * Copy of the Artifact: 
 * Creator and Affiliation: Lauren Pearlman (University of Florida)
 

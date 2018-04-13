@@ -185,7 +185,7 @@ Elizabeth LaPansee's *Honour Water* activates Anishinaabemowin songs gifted by S
 After playing *Honour Water,* students should be encouraged to research and travel to the portal sites of underground waterways in respective Indigenous territories, and build sonic intimacies through the act of singing water songs along with the app. Students should also consider the ways in which sound shapes movements, flows and migrations throughout the cities. How might these flows be acknowledge radical alterities? Who are the Indigenous stewards/ caretakers and those visioning futurities in the city within which they are living, and how might these original languages/songs impact the futurities of water?
  
 #### Taking it to the People
-![Indigen-eyez](Indigenous-Indigen-eyez.png) 
+![Indigen-eyez](images/Indigenous-Indigen-eyez.png) 
  
 * Type: Assignment
 * Source URL: from syllabus

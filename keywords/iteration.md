@@ -171,8 +171,6 @@ Three iterations of this “60 seconds” audio/video assignment are featured he
 
 Tim Lockridge’s undergraduate Digital Publishing course teaches students about the technologies, techniques and professional practices of digital publishing. For the midterm, featured here, students downloaded a book from Project Gutenberg, and converted it to an ePub format, and then wrote a production memo documenting their process. They turned plain text into (X)HTML, created a style sheet, included metadata, formatted a cover image and illustrations, and provided all copyright and source information for the text. The final project asked students to convert a Miami University Press book to ePub (with permission from the Press). By producing new iterations of books, students learned conventions of digital publishing and the importance of small details in different versions of texts. Literary or technical writing courses incorporating digital editions could benefit from this model resource.
 
-[Student Production Memo, by Collins, Duffy, Maggio and Moore](files/iteration-epubassignment-studentexamplememo.pdf)
-
 #### Social Media Bios
 ![screenshot](images/iteration-socialmediabios.jpg)
 
