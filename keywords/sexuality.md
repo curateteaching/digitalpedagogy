@@ -131,6 +131,7 @@ Screenshot: ![screenshot](images/sexuality-obergefell-syllabus.jpg)
 
 * Artifact Type: syllabus
 * Source URL: https://twitter.com/i/moments/879706862878429185
+* Artifact: [Sexuality-Obergefell Syllabus.html](files/Sexuality-Obergefell Syllabus.html)
 * Permissions: Public resource explicitly created for sharing, but no CC license. Permission requested from creator.
 * Creator and Affiliation: Eric van der Vort (@ericibid); Political Science, Syracuse University
 
