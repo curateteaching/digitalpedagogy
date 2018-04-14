@@ -147,7 +147,7 @@ The Digital Storytelling Project is a Seattle-based project suppored by Queering
 
 ![screenshot](images/screenshot-queer-lim.jpg)
 * Artifact Type: digital game
-* Source URL: http://mkopas.net/files/Lim/
+* Source URL: [https://www.people.vcu.edu/~rpatton/currentlab/lim/](https://www.people.vcu.edu/~rpatton/currentlab/lim/)
 * Permissions: CC-BY-NC
 * Creator and Affiliation: merritt k
 * Tags: teachable game, 5-minute game, getting started, queer glitches
