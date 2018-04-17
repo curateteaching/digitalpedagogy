@@ -47,19 +47,15 @@ These artifact selections are ordered moving from service/experiential learning 
 
 ## CURATED ARTIFACTS
 
-### Teaching the Digital Divide
-![screenshot](images/screenshot-digital_divides-teaching-digital-divide.png)
+### Instructional Video Project
+![screenshot](images/digital-divides-instructional-video-project.png)
 
-* Artifact Type: Students Course Blogs
+* Artifact Type: Assignment
 * Source URLs: 
-[http://ingac397.blogspot.com](http://ingac397.blogspot.com)
-[http://deiro9.blogspot.com](http://deiro9.blogspot.com)
-[http://wwutroy.blogspot.com](http://wwutroy.blogspot.com)
-[http://jamie-marine.blogspot.com](http://jamie-marine.blogspot.com)
-* Artifact Permissions: Copyright Rebecca M. Marrall, Inga C, Jamie Marine, Nick Cordeiro, Troy
-* Creator and Affiliation: Rebecca M. Marrall, Western Washington University
+* Artifact Permissions: CC-BY-NC
+* Creator and Affiliation: Donald Unger, St. Edward's University
 
-This artifact is a group of student blogs produced for a library science service learning course on library research mentoring in area public libraries, while as a class they studied a range of concepts connecting digital participation and citizenship. The professor, Rebecca M. Marrall, wrote about the course for the journal *Library Philosophy and Practice*, discussing the course's ten week structure and how the service learning and course content were connected. The blogs, taken together, are a glimpse into the reflections of the students who took part in the course and offer a fascinating compliment to the Marrall's research and writing. Through their reflections, the students' growth in understanding of the concept of "digital divides" is evident. This artifact offers a useful case study for constructing a service learning course around the theme of digital divides.  
+This assignment for a course which functions as an introduction to the writing major draws students' attention to issues of digital divides through service work in partnership with Austin Free-Net, a non-profit that works for digital inclusion throughout the city. Students write instructions and film videos for the Austin Free-Net (AFN) YouTube Channel in order to help community members better access technology. For example, [one student-created video](https://youtu.be/9aJf3Lq9zCE) teaches users how to download the Cap Metro app used for accessing public transit. This artifact offers a structured assignment, complete with rubric, for a longer class team assignment. It demonstrates how student use of writing and technology can be used to help make technology more accessible to the larger community. It also makes students more critically aware of their own digital literacy skills and allows them space to reflect on how sponsors have helped them accumulate such literacy.  
 
 #### Digital Media Capstone
 
@@ -214,8 +210,6 @@ Kvasny, Lynette. "The Role of the Habitus in Shaping Discourses About the Digita
 
 McConnaughey, James, Cynthia Ann Nila, and Tim Sloan. “Falling through the Net: A Survey of the “Have Nots” in Rural and Urban America.” (DOC), National Telecommunications and Information Administration. Washington D.C. 1995. Print.
 
-Marrall, Rebecca M. "Teaching the Digital Divide: Connecting Students to Community, Knowledge, and Service Learning." Library Philosophy and Practice (2014). Web.
-
 Perez, Annemarie. “Digital Divides: Annotated Bibliography.” Loyola Marymount University. Spring 2015, http://citedatthecrossroads.net/rasp15/annotated-bibliography
 
 Schradie, Jen. “The Trend of Class, Race, and Ethnicity in Social Media Inequality: Who Still Cannot Afford to Blog?.” Information, Communication & Society 15.4 (2012): 555–571.
@@ -229,3 +223,5 @@ Stanford Computer Science Department. “Digital Divide.” Web. 10/1/2016 2016.
 Sturges, Ingrid. “Access and the Digital Divide.” Howard University. Fall 2015. https://canvas.instructure.com/courses/910884/assignments/3304735
 
 Tan, Joo, and John Phillips. “Incorporating Service Learning into Computer Science Courses.” Journal of Computing Sciences in Colleges 20.4 (2005): 57–62. Web.
+
+Unger, Donald. "Instructional Video Assignment Sheet." St. Edward's University. Fall 2017.
