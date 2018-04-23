@@ -120,12 +120,12 @@ Butler's ASL music video handout is embedded in a *Kairos* webtext article that 
 An upper-level undergraduate seminar, Vidali's course employs inclusivity as a lens through which to re-assess common methods in multimodal composing: visual rhetoric, auditory rhetoric, and hypertextual rhetoric. For instance, Vidali asks students to consider how Temple Grandin's *Thinking in Pictures* complicates some of the common assumptions that visual rhetoric scholarship imparts about seeing and knowing. The curriculum is structured evenly across texts from digital rhetoric and disability studies, with works from each field spanning genre and mode. In keeping with the diversity of course texts, Vidali asks students to compose broadly. Assignments include analyzing a personal experience in comic form; a musical genre analysis, in which students present their findings via podcast; and an accessibly designed hypertext. Instructors will find Vidali's syllabus a useful launching point for assignment and reading ideas, but perhaps most notable is the syllabus's attention to accessibility (see, for example, the disability inclusion statement) as well as its embedded links to the course blog, which features student writing. 
 
 ### Recognizing Disability Studies
-![screenshot](images/disabilityrecognizing.png)
+![screenshot](images/disability-recognizing.png)
 
 * Artifact type: Syllabus
 * Source: none
 * Creator: Margaret Price
-* Copy of Artifact: [disability-Price English 7891 syllabus Spring 2017 WITH calendar.docx](files/disability-Price English 7891 syllabus Spring 2017 WITH calendar.docx)
+* Copy of Artifact: [disability-Price-English-syllabus.docx](files/disability-Price-English-syllabus.docx)
 
 *Recognizing Disability Studies* is a graduate-level seminar that examines the histories, turns, and challenges within disability studies as a field. Structured around elisions and potential futures, the course features units dedicated to bioethics, critical race theory, mental disability, crip theory, and materiality. Accessibility thematically structures all course projects. In particular, Price encourages students to compose in a modality of their choosing (i.e., via forms most accessible to students), while also requiring students to craft accessibly designed projects (i.e. creating projects accessible to broad audiences). Course projects include reading responses and participation in the class discussion forum, a collaborative presentation of supplemental course readings, and a final project composed in a genre and/or mode relevant to students' home fields. 
 
