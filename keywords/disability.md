@@ -85,7 +85,7 @@ An assignment for Hitt's undergraduate Writing As Information Design class, the 
 * Artifact type: Activity 
 * Source: [http://bit.ly/2wfQn55](http://bit.ly/2wfQn55)
 * Creator: Melanie Yergeau
-* Copy of Artifact: [disability-Yergeau-Disability orgs.pdf](files/disability-Yergeau-Disability orgs.pdf)
+* Copy of Artifact: [disability-Yergeau-Disability orgs.pdf](files/disability-Yergeau-Disability-orgs.pdf)
 
 Structured across one or more class periods, this activity rotates between small group discussion, web research, and digital reporting of findings via a short presentation in class. In teams of two or four, students investigate a disability rights organization and/or a grassroots collective and research its history, initiatives, and representations of disability (visually, textually, and aurally). Discussion questions prompt students to not only learn the missions of an organization, but to also critically examine how the collective imagines disability in the context of broader intersectional discourses on oppression, identity, and civil rights. Typically, this exercise follows an earlier activity in which students examine and present findings on disability charities, which are overwhelmingly white and affluent in the make-up of board members as well as images on websites. Notably, the charities from the first exercise tend to be rehabilitative and corporate in approach, a radical divergence from the groups students encounter in this exercise. As well, the organizations in this exercise include nonprofits, archival projects, performance collectives, and virtually-based grassroots groups. Students report their findings via a shared blog space, taking care to make all material created accessible to a broad audience within and beyond the class.
 
