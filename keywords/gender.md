@@ -16,7 +16,7 @@ type: book
 # Gender
 
 ### Anne Cong-Huyen
-Whittier College | [anitaconchita.org](http://anitaconchita.org)
+University of Michigan Library | [anitaconchita.org](http://anitaconchita.org)
 
 ---
 
