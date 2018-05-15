@@ -185,17 +185,17 @@ Elizabeth LaPansee's *Honour Water* activates Anishinaabemowin songs gifted by S
 After playing *Honour Water,* students should be encouraged to research and travel to the portal sites of underground waterways in respective Indigenous territories, and build sonic intimacies through the act of singing water songs along with the app. Students should also consider the ways in which sound shapes movements, flows and migrations throughout the cities. How might these flows be acknowledge radical alterities? Who are the Indigenous stewards/ caretakers and those visioning futurities in the city within which they are living, and how might these original languages/songs impact the futurities of water?
  
 #### Taking it to the People
-![Indigen-eyez](images/Indigenous-Indigen-eyez.png) 
+![Indigenous-taking-people-Singh.png](images/Indigenous-taking-people-Singh.png) 
  
 * Type: Assignment
-* Source URL: from syllabus
-* Creator: Daniel Heath Justice, University of British Columbia
-* Permissions: Madeson Singh
+* Source URL: [https://blogs.ubc.ca/madesoneportfolio/taking-it-to-the-people/](https://blogs.ubc.ca/madesoneportfolio/taking-it-to-the-people/)
+* Creator: Madeson Singh, University of British Columbia
+* Permissions: Fair Use
 * Tags: advanced; capstone
  
 It's not enough to simply talk about decolonization in class -- part of the work of Indigenous Studies is moving outside of the privileges of the academy to the wider world and other audiences. 
 
-Ask students to choose a venue outside of class, and preferably outside the University, to share some part of their learning about Indigenous issues (for instance from A Tribe Called Red, Elizabeth LaPensee, or Kevin Burton) with friends, family, strangers, etc., and report back with a one-page summary /reflection and some evidence of the activity, such as a photo, screen capture, handouts from the event, etc. Examples might include leading a public screening of Burton or LaPense's work, writing a Wikipedia entry or an online review, writing a blog or posting on an online "comments" section, or participating in an online Indigenous event (see, for instance, the Initiatives for Indigenous Futures website).  
+Similar to Madeson Singh's response to "Taking It to the People" for Daniel Heath Justice's course at University of British Columbia, ask students to choose a venue outside of class, and preferably outside the University, to share some part of their learning about Indigenous issues (for instance from A Tribe Called Red, Elizabeth LaPensee, or Kevin Burton) with friends, family, strangers, etc., and report back with a one-page summary /reflection and some evidence of the activity, such as a photo, screen capture, handouts from the event, etc. Examples might include leading a public screening of Burton or LaPense's work, writing a Wikipedia entry or an online review, writing a blog or posting on an online "comments" section, or participating in an online Indigenous event (see, for instance, the [Initiatives for Indigenous Futures](http://abtec.org/iif/) ).  
  
 ## RELATED MATERIALS
  
