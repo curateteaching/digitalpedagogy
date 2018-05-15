@@ -19,7 +19,7 @@ type: book
 
 ### Spencer D.C. Keralis
 
-University of North Texas | [http://spencerkeralis.com/](http://spencerkeralis.com/)
+Digital Frontiers | [http://spencerkeralis.com/](http://spencerkeralis.com/)
 
 ### Pamela Andrews
 
