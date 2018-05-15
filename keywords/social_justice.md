@@ -118,15 +118,15 @@ Some form of equitable social contract is valuable between course participants. 
 
 Dr. Johnson and Dr. Taylor modified this activity from one created by Dr. Robert Gutierrez-Perez. Dr. Guiterrez-Perez’s original activity used music and focused on themes and terms around marriage equality. Johnson and Taylor expanded the activity to include video and use hashtags, themes and terms used to discuss race, class, gender and sexuality. Johnson and Taylor adapted the original activity as a creative interactive performance delivered at the Western States Communication Association Conference.  Since then they have each adapted the activity for classroom delivery in various communication classrooms. This activity allows professors to engage in mediated representations of intersectional identities. Moreover students are able to discuss the ways in which they understand social justice actions through identity matrixes. When delivered in classrooms this activity can be used to start conversation. 
 
-## Walk of Life - Power in Society
+## Privilege Walk Activity
 
-![screenshot](images/social_justice-walk-of-life.png)
-* Source URL:  N/A
-* Artifact Permissions:
-* Copy of the Artifact: [files/social_justice-Walk-of-Life.pdf](files/social_justice-Walk-of-Life.pdf)
-* Creator and Affiliation: Dreama G. Moon, California State University, San Marcos
+![screenshot](images/social_justice-privilege-walk.png)
+* Source URL:  https://www.albany.edu/ssw/efc/activities.html
+* Artifact Permissions:  © 2009 University at Albany, School of Social Welfare
+* Copy of the Artifact: Available at [https://www.albany.edu/ssw/efc/pdf/Module%205_1_Privilege%20Walk%20Activity.pdf](https://www.albany.edu/ssw/efc/pdf/Module%205_1_Privilege%20Walk%20Activity.pdf)
+* Creator and Affiliation: Catherine K. Lawrence, University at Albany
 
-The activity serves to demonstrate the various ways in which privileges are lived and intersectional. Dr. Moon indicates in the instructions campus locations to complete this activity. Indoor and outdoor staircases are preferred locations for this exercise. However, in considering access, full flat campus courtyards are also useful. It is important that students “lose sight” of each other or have distance. At the same time, they need to be able to hear the instructor deliver the statements and move accordingly.  This exercise as part of digital pedagogy allows for conversations about privilege and how it is experienced and replicated in digital space. Once students have an embodied notion of their privilege, they can understand how it is transferred in and through digital spaces. 
+The privilege walk activity has gone viral, including youtube videos of different groups performing the exercise, a [high school lesson plan](https://peacelearner.org/2016/03/14/privilege-walk-lesson-plan/) from the Peace Learner community website (Layne and Chiu), [one version](http://www.youthdeved.ie/sites/youthdeved.ie/files/The_Walk_of_Life.pdf) from the National Youth Council of Ireland, and versions shared informally between instructors (Moon, 2015).  This early version comes from “Expanding the Family Circle,” a grant-funded child welfare training curriculum.  The activity demonstrates the various ways in which privileges are lived and are intersectional, as students step forward or back in response to statements read by the instructor.  As part of digital pedagogy the exercise allows for conversations about privilege and how it is experienced and replicated in digital space. Once students have an embodied notion of their privilege, they might also be encouraged to craft their own statements illustrating privilege in digital spaces.
 
 ## Saturday School
 
@@ -191,10 +191,16 @@ Johnson, Amber L. and Toniesha L. (Original Creator, Robert Gutierrez-Perez). �
 
 Johnson, Andre. “The Prophetic Ministry of Bishop Henry McNeal Turner Syllabus.” 2017. PDF file.
 
+Lawrence, Catherine K. “Privilege Walk Activity Instructions”. *Expanding the Family Circle*. School of Social Welfare. University at Albany.  2009. https://www.albany.edu/ssw/efc/activities.html 
+
+Layne, Rebecca and Ryan Chiu. “Privilege Walk Lesson Plan.” *Peace Learner*, 14 Mar. 2016, https://peacelearner.org/2016/03/14/privilege-walk-lesson-plan/. Accessed May 14, 2018.
+
 Lee, Wenshu. “The Desire to Know and to Love Is Never Too Small: My Musings on 
 Teaching and Social Justice.” *Social Justice and Communication Scholarship*, edited by Omar Swartz, Routledge, 2012, pp. 193–214.
 
 Moon, Dreama G. “Walk of Life - Power in Society.” 2015. PDF file.
+
+National Youth Council of Ireland. “The Walk of Life.” *Development Education Program*. http://www.youthdeved.ie/development_education/racism.  Accessed May 14, 2018.
 
 Ragsdale, Rhonda. “Saturday School.” funknbeans, http://funknbeans.com/category/saturdayschool. Accessed 11 December 2016.
 
