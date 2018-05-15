@@ -103,7 +103,7 @@ Butler's ASL music video handout is embedded in a *Kairos* webtext article that 
 ![screenshot](images/disability-embodiment.png)
 
 * Artifact type: Student work
-* Source: [https://multimodeaccess.wordpress.com/](https://multimodeaccess.wordpress.com/)
+* Source: [https://modesofembodiment.wordpress.com/](https://modesofembodiment.wordpress.com/)
 * Creators: Aimi Hamraie and Informational Access Design Team at Vanderbilt University
 * Copy of Artifact: none
 
