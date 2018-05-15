@@ -127,7 +127,7 @@ Karen Keifer-Boyd’s final class project for her graduate course in Art Educati
 
 ![screenshot](images/remix-middleton-copythisclass.png)
 * Artifact Type: Syllabus
-* Source URL: http://j-l-r.org/wp-content/uploads/remix-syllabus-final.pdf
+* Source URL: 
 * Artifact Permissions: CC BY-SA 3.0
 * Copy of the Artifact: [Copy This Class Syllabus](files/remix-copythisclasssyllabus.pdf)
 * Creator: Julie Levin Russo, The Evergreen State College
