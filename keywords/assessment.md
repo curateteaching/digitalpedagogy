@@ -138,7 +138,7 @@ Staging meaningful reflection can be difficult. Luther’s course relied on the 
 
 * Artifact Type: Student Work
 * Source: [https://emblematicaonlineuiuc.wordpress.com/heidi-heim/](https://emblematicaonlineuiuc.wordpress.com/heidi-heim/)
-* Copy of Artifact: [assessment-Emblematica-Online.pdf](files/assessment-Emblematica-Online.pdf) 
+* Copy of Artifact: [assessment-Emblematica-Online.pdf](files/assessment-Emblematica-Online.pdf) - do not include in CORE
 * Creator: Heidi Heim, University of Illinois at Urbana-Champaign
 
 Category: Self-Assessment, Summative Assessment
