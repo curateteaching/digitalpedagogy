@@ -154,13 +154,12 @@ Redesigning asks students to consider how the design of a text encourages a cert
 
 * Artifact Type: Assignment
 * Source URL:
-    * Part (1), [http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_1](http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_1)
-  * Part (2), [http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_2](http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_2)
-  * Part (3), [http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_3](http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_3)
-  * Assessment, [http://baddayeveryday.com/teaching/docs/dtc336/DTC336_project_2_grading_sheet.pdf](http://baddayeveryday.com/teaching/docs/dtc336/DTC336_project_2_grading_sheet.pdf)
-  * From a Composition and Design course, [http://baddayeveryday.com/teaching/2015/spring/dtc336/syllabus](http://baddayeveryday.com/teaching/2015/spring/dtc336/syllabus)
+    * Part (1), [http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_1.html](http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_1.html)
+  * Part (2), [http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_2.html](http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_2.html)
+  * Part (3), [http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_3.html](http://baddayeveryday.com/teaching/2015/spring/dtc336/project2_3.html)
+  * From a Composition and Design course, [http://baddayeveryday.com/teaching/2015/spring/dtc336/index.html](http://baddayeveryday.com/teaching/2015/spring/dtc336/index.html)
 * Creator: Jeff Kuure
-* Copy of Artifact: [design-kuure-dtc336_assessment.pdf](files/design-kuure-dtc336_assessment.pdf)
+* Copy of Artifact: [design_kuure_dtc336_assessment.pdf](files/design_kuure_dtc336_assessment.pdf)
 
 In this three-part assignment, Jeff Kuure asks his students to develop a set of personalized icons that represent actions taken throughout the day. Students are asked to consider how icons function as design cues for particular audiences in particular situations. While the final project includes icons drawn through Adobe Illustrator, this assignment is easily modified for less technical courses where students could simply hand-draw the icon with a written description. Producing icons allows students to consider the ways in which simple design choices, when done well, can convey complicated meaning. It also helps students think through the ways they as audience members understand and use icons in their daily lives.
 
