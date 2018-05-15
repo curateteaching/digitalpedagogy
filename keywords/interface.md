@@ -166,7 +166,7 @@ Students immersed themselves in the target language from the Italian Hip Hop Arc
 ![screenshot](images/interface-Hergenrader-Steampunk-Rochester-map.png)
 * Artifact Type: Assignment 
 * Source URL: <http://steampunkrochester.wikispaces.com/Steampunk+Rochester>
-* Copy of Artifact: [interface-Hergenrader-Guidelines on Worldbuilding.pdf](files/interface-Hergenrader-Guidelines on Worldbuilding.pdf)
+* Copy of Artifact: [interface-Hergenrader-Guidelines.pdf](files/interface-Hergenrader-Guidelines.pdf)
 * Creator: Trent Hergenrader (Rochester Institute of Technology)
 
 Three aspects of *Steampunk Rochester* make it an exceptional digital pedagogy interface. It blends real-life history of Rochester, New York 1915-25. Students create fictional characters, making Rochester an open-access playable game space. The result is speculative fiction that relies on the structured archive of wiki, a steampunk vision of the future that finds new technologic aspects in dynamic roleplay of the past.

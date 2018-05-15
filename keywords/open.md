@@ -131,7 +131,7 @@ Sarah Hogan’s students contribute to  the open access "Map of Early Modern Lon
 * Source URL: [http://sites.middlebury.edu/fieldhousemuseum/course-description-2/requirements/]
 * Permissions:
 * Creator and Affiliation: Holly Allen, Middlebury College 
-* Copy of Artifact: [open-middlebury athletics.pdf](files/open-middlebury athletics.pdf)
+* Copy of Artifact: [open-middlebury-athletics.pdf](files/open-middlebury-athletics.pdf)
 
 Students in the Web Museum class curate collections of images covering a range of topics in American cultural history, from race, gender,  and education to  popular literature, and sports. They grapple with the complexities of finding and interpreting primary source materials, the challenges of how to structure multimedia, and learning to write for a general audience. The shift from writing for a teacher to writing for a broader audience requires students to change their rhetorical strategies. Requiring a multimodal presentation further amplifies the need for students to consider how to effectively use the medium of the web to present both materials and a thesis about those materials. As more primary source materials are on the open web, these sorts of assignments become easier to execute, since the work becomes more of discovery and curation, and less scanning.  
 
@@ -142,7 +142,7 @@ Students in the Web Museum class curate collections of images covering a range o
 * Source URL: [http://www.briancroxall.net/s15dh/assignments/building-a-map-of-mrs-dalloway/]
 * Permissions:
 * Creator and Affiliation: Brian Croxall, Brown University
-* Copy of Artifact: [open-literary maps.pdf](files/open-literary maps.pdf)
+* Copy of Artifact: [open-literary-maps.pdf](files/open-literary-maps.pdf)
  
 Students in Brian Croxall’s "Introduction to Digital Humanities" read Virginia Woolf’s *Mrs. Dalloway*, and then work  in groups to map the movements of characters using Google Earth. The work is then shared to the world via a single google map that aggregates all of the maps. Since the course explicitly concerns itself with the question of how technology can influence the act of interpreting literary texts, students are also asked to reflect on the work of making these maps, and in what ways they were able to gain insights into the text through this sort of analysis. While the priority here is on the digital method and the insights it produces, the activity of openly sharing the syllabus and resulting data is a secondary but important benefit of moving work outside of the closed course management systems, allowing for these sorts of experimental practices to be visible to other teachers. Having the student-generated map data live inside the google map application allows for this data to be mixed and matched with other data from other sources. 
 
@@ -163,7 +163,7 @@ As part of an EdX MOOC on [Electronic Literature](https://www.edx.org/course/ele
 * Source URL: [https://docs.google.com/document/d/11O3xuBYBJfmZ-kq7HgulXFHjbmNabjKxQ3SIWRn87Cc/edit?usp=sharing]
 * Permissions:
 * Creator and Affiliation: Kenneth Goldsmith, University of Pennsylvania 
-* Copy of Artifact: [open-wasting time on the internet.pdf](files/open-wasting time on the internet.pdf)
+* Copy of Artifact: [open-wasting-time.pdf](files/open-wasting-time.pdf)
 
 "[Wasting Time on the Internet](https://www.english.upenn.edu/courses/undergraduate/2015/spring/engl111.301)" starts with this basic premise: how do you make art out of the enormity of the web, the internet, and everything in between? What happens if you start with the premise that there will be no textbook, nothing you need to buy at the bookstore, nothing the library needs to license on your behalf, and you simply set students loose to do what they will, and make what they can? “Wasting Time on the Internet” depends on an open internet for the students to ramble through. As such, it is a fascinating case study, as Katie Waldman notes in ["Frontiers of the Stupline"](http://www.slate.com/articles/arts/culturebox/2015/04/kenneth_goldsmith_and_penn_s_wasting_time_on_the_internet_course.html), in not just meeting students where they are, but pushing them to move beyond multitasking into a mode of pure distraction and play, all the while encouraging a level of self-awareness and reflection on what it means to create art in an age of information excess, and how the internet shapes knowledges and identity. 
 
