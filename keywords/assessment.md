@@ -165,12 +165,12 @@ Practices: Professional Development, Integration, Technology
 * Artifact Type: Assignment Assessment
 * Source: http://technorhetoric.net/10.2/coverweb/sorapure/betweenmodes.html
 * Copy of Artifact: [assessment-structuring-reflection.docx](files/assessment-structuring-reflection.docx)
-* Creators: Madeleine Sorapure, UC Santa Barbara
+* Creators: Madeleine Sorapure, UC Santa Barbara and Jason Luther, Rowan University
 
 Category: Self-Assessment, Summative Assessment
 Practices: Professional Development, Integration, Technology
 
-This multimodal article examines the disconnect between new media assignments and traditional forms of assessment. Sorapure writes, "Examining how student work in new media is currently assessed, it is clear that we are at a transitional stage in the process of incorporating new media into our composition courses. As [Kathleen Blake] Yancey notes, we give multimodal assignments but often draw on what we are far more familiar with--that is, print--to assess student work" (n. pag.). This helpful discussion pushes readers to consider how to design meaningful assessments that align with the course goals and content. 
+Madeleine Sorapure's multimodal article examines the disconnect between new media assignments and traditional forms of assessment. Sorapure writes, "Examining how student work in new media is currently assessed, it is clear that we are at a transitional stage in the process of incorporating new media into our composition courses. As [Kathleen Blake] Yancey notes, we give multimodal assignments but often draw on what we are far more familiar with--that is, print--to assess student work" (n. pag.). This helpful discussion pushes readers to consider how to design meaningful assessments that align with the course goals and content - with Jason Luther's "Zines! Assignment" as an example. 
 
 ### Big Data, Learning Analytics, and Social Assessment
 ![screenshot](images/assessment-big-data.png)
