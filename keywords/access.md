@@ -63,7 +63,7 @@ Working to make information accessible involves re-thinking one’s own default 
 
 * Artifact Type: Article
 * Source URL: [http://kairos.technorhetoric.net/praxis/tiki-index.php?page=Suggested_Practices_for_Syllabus_Accessibility_Statements](http://kairos.technorhetoric.net/praxis/tiki-index.php?page=Suggested_Practices_for_Syllabus_Accessibility_Statements)
-* Artifact Permissions: Permission requested, awaiting response.
+* Artifact Permissions: CC-BY-NC
 * Copy of the Artifact:
 * Creators: Tara Wood, Rockford University and Shannon Madden, University of Rhode Island 
 
@@ -75,10 +75,11 @@ This straightforward and well-organized essay discusses an important element of 
 * Artifact Type: Guidelines
 * Source URL: [https://u.osu.edu/composingaccess/](https://u.osu.edu/composingaccess/)
 * Artifact Permissions: n/a
-* Copy of the Artifact:
+* Copy of the Artifact: n/a
 * Creator: Committee on Disability Issues in College Composition, and the Computers and Composition Digital Press.
 
-This website provides extensive advice and specific guidelines for how to "enhance accessibility at [academic] conferences," but most of what can be found here is useful information for the classroom, either for instructors wishing to improve the accessibility of their teaching methods or for students who have been assigned a presentation for class. The information here is not presented dogmatically; instead, the authors write, "[w]e encourage you to shop around, pick up ideas as you like, and hopefully try something new." The section titled "Preparing Your Presentation" covers such topics as the physical space of the presentation, designing useful handouts, sharing presentation material online, and preparing a script to be shared with others such as sign-language interpreters and audience members who might have difficulty processing auditory information. There is also a section explaining what to do "During the Presentation" and a page with links to additional information.
+This website provides extensive advice and specific guidelines for how to "enhance accessibility at [academic] conferences," but most of what can be found here is useful information for the classroom, either for instructors wishing to improve the accessibility of their teaching methods or for students who have been assigned a presentation for class. The information here is not presented dogmatically; instead, the authors write, "[w]e encourage you to shop around, pick up ideas as you like, and hopefully try something new." The section titled "Preparing Your Presentation" covers such topics as the physical space of the presentation, designing useful handouts, sharing presentation material online, and preparing a script to be shared with others such as sign-language interpreters and audience members who might have difficulty processing 
+ory information. There is also a section explaining what to do "During the Presentation" and a page with links to additional information.
 
 ### Executive Functioning in Online Environments
 ![screenshot](images/access-executive-functioning-udl.png)
@@ -120,8 +121,8 @@ The content-management system and blogging tool WordPress has been widely adopte
 
 * Artifact Type: Assignment
 * Source URL: [https://drive.google.com/folderview?id=0B-h_I_KLxUTLaGpSX1NFMllmd0E&usp=sharing](https://drive.google.com/folderview?id=0B-h_I_KLxUTLaGpSX1NFMllmd0E&usp=sharing)
-* Artifact Permissions: Permission requested, awaiting response.
-* Copy of the Artifact:
+* Artifact Permissions: CC-BY-NC
+* Copy of the Artifact: n/a
 * Creator: Margaret Price, Ohio State University
 
 This assignment asks students to evaluate the accessibility of a given physical space on campus using a checklist that is composed in part of specific legal requirements and design recommendations and in part of suggestions and concerns created by students in the class. In this way, students are encouraged to think about accessibility in a holistic way and not just as a simple list of conditions that must be met. The digital aspect of the activity as described here is that students are encouraged to photograph the space they're evaluating. However, an instructor could easily incorporate additional technologies &mdash; such as audio and video &mdash; into the required final product. An especially ambitious adaptation of the assignment could require a redesign of the space using 3D digital modeling tools.
@@ -145,7 +146,7 @@ Given to students in a graduate-level class on "Web Accessibility and Disability
 * Artifact Type: Assignment
 * Source URL: [https://multimediacomp.wordpress.com/2012/02/29/blog-post-on-audiovisual-narration/](https://multimediacomp.wordpress.com/2012/02/29/blog-post-on-audiovisual-narration/)
 * Artifact Permissions: Permission requested, awaiting response.
-* Copy of the Artifact:
+* Copy of the Artifact: CC BY NC
 * Creator: Amy Vidali, University of Colorado Denver
 
 Many courses that once might have asked students to author text-only assignments now require them to create artifacts with a significant visual component, artifacts ranging from infographics to comics to digital stories. Potential readers of those artifacts who are blind or have low vision will, of course, find them more than a little challenging. In her course on multimedia composition &mdash; as part of her unit on "Thinking in Pictures" &mdash; Vidali has her students create a comic and then introduces them to the concept of "visual/audio description." She explains why multiple means of representation are important, distinguishes between interpretation and description, and provides several links to explanations and examples from various sources. This assignment requires students to publish their text-based description alongside their comic.
