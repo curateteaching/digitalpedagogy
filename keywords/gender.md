@@ -69,7 +69,7 @@ One difficulty of gender studies classes is in rendering visible the invisibilit
 ![screenshot](images/gender-FTNMap-activity.png)
 * Artifact Type: In-class Activity
 * Source URL: [http://femtechnet.org/docc/feminist-mapping/situated-knowledge-map/](http://femtechnet.org/docc/feminist-mapping/situated-knowledge-map/)
-* Artifact Permissions: CC BY-NC 4.0
+* Artifact Permissions: n/a
 * Creator and Affiliation: TL Cowan (University of Toronto), K. Surkan (MIT), and Laura Wexler (Yale)
 * Copy of Artifact: none
 
