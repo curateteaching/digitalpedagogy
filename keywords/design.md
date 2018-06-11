@@ -183,7 +183,7 @@ Infographics are visual representations of information or data and provide an in
 
 ### Informational Campaign
 
-![screenshot](images/design-produce-arola.png)
+![screenshot](images/design-arola_info_campaign.png)
 
 
 * Artifact Type: Assignment and syllabus
