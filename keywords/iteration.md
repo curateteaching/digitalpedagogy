@@ -119,7 +119,7 @@ Collin Brooke’s undergraduate writing course was explicitly modeled on Queneau
 * Artifact Type: Syllabus
 * Source: [http://leonardoflores.net/3238/](http://leonardoflores.net/3238/)
 * Permissions: CC BY-NC
-* Copy of Artifact: [iteration-digitalcreativewritingsyllabus.docx](files/iteration-digitalcreativewritingsyllabus.docx)
+* Copy of Artifact: [iteration-digitalcreativewritingsyllabus.docx](files/iteration-digitalcreativewritingsyllabus.docx) - DO NOT UPLOAD TO CORE
 * Creators: Leonardo Flores, University of Puerto Rico: Mayagüez
 
 Leonardo Flores’s “Digital Creative Writing” course, in which students compose hypertext, Twine, Netprov, kinetic typography, memes, Twitterbots, and remixes of Nick Montfort’s Taroko Gorge or Christopher Strachey’s “Love Letter Generator,” is a rich resource for iterative digital pedagogy. Flores calls these genres “generative writing,” suggesting they are both generated and generative. Here, producing an interesting collection matters more than any given iteration; proliferation is the pedagogical point because it helps students engage deeply with a platform or genre. A nice pairing with Flores’s assignments might be James Brown, Jr.’s “Writing with machines: data and process in Taroko Gorge,” which offers a theoretical perspective and reference to historical precedence in Oulipo and cut-ups.
