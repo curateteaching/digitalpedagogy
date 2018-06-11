@@ -120,7 +120,7 @@ Screenshot: ![screenshot](images/sexuality-pulseorlando-syllabus.jpg)
 
 * Artifact Type: syllabus
 * Source URL: bit.ly/orlandosyllabus
-* Permissions: Public resource explicitly created for sharing, but no CC license. Permission requested from creators.
+* Permissions: CC BY NC
 * Creator and Affiliation: Jamie Berrout @jamieberrout, Venus Selenite @venusselenite, Oliver Bendorf @ohbendorf, and Lydia Willoughby @willoughbrarian
 
 The #PulseOrlandoSyllabus is a collaborative document compiled in the wake of the shooting at Pulse Night Club on June 12, 2016. This document exists as a resource to understand the violence that predominantly affected queer Latinx communities in Orlando. It showcases the collective knowledges of LGBTQ2S and QTPOC communities in order to remember the lives lost as well as to interrogate, challenge, and resist the endurance of racism and heterosexism. The #PulseOrlandoSyllabus was created with the intent to resist racist, homophobic, classist, and misogynistic citing practices. A variety of categories are featured including: ‘Self Care,’ ‘LGBTQ and Ally Collectives and Cooperatives,’ ‘Scholarly Books,’ ‘Archival Collections,’ ‘Movies,’ ‘Zines,’ ‘Music,’ ‘Podcasts,’ ‘Comics,’ ‘Websites,’ ‘Memes,’ ‘Resources for K-12 Schools,’ ‘Mental Health Resources,’ and ‘Activism and Action Steps.’ The syllabus offers instructors an approach to studies of sexuality where an analysis of race, violence, and place are at the center.  
