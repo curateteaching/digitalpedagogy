@@ -146,7 +146,7 @@ This assignment allows for interface comparison as students juxtapose the materi
 * Artifact Type: Assignment 
 * Source URL: <http://ryancordell.org/personal/grad-proseminar-guest-talk-not-reading/>
 * Source URL: open-access pre-print of the original article <http://diginole.lib.fsu.edu/eng_faculty_publications/2/>
-* Copy of Artifact: [interface-fyfe-pre-print-not-read.pdf](files/interface-fyfe-pre-print-not-read.pdf)
+* Copy of Artifact: [interface-fyfe-pre-print-not-read.pdf](files/interface-fyfe-pre-print-not-read.pdf) - DO NOT UPLOAD TO CORE
 * Creator: Paul Fyfe (North Carolina State University); forked by Ryan Cordell (Northeastern University)
 
 Paul Fyfe's 4-page field note about teaching senior undergraduate English majors to distantly read Victorian novels they *haven’t* read, "How Not to Read a Victorian Novel," defamiliarizes narrative as the conventional interface of novel interpretation.  Fyfe’s is the best introductory exercise I've found in distant reading techniques. His "interrogative stance" invites students to use the visualized novels’ sometimes-confusing outputs to seek patterns using word frequency, concordance, and collocation.  When I taught these techniques to my students using Wordle and Voyant, they could see how Voyant’s sophisticated visualization capabilities enabled deductive queries. I ran Fyfe's "How Not to Read a Victorian Novel" through Voyant to produce the illustration above.
