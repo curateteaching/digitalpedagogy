@@ -70,7 +70,7 @@ The Selfie Course is an open access curriculum designed by a world-wide collecti
 Screenshot: ![screenshot](images/affect-SnapChat.jpg)
 * Artifact Type: online video channel
 * Source URL: https://www.youtube.com/watch?v=2XOd-rc7r98&list=PL46Xs2itPIMlDBL0tPfg-2WzXwZrnTePh
-* Permissions:
+* Permissions: n/a
 * Creator and Affiliation: Jill Walker Rettberg (University of Bergen)
 * Tags: getting started; mobile app and smart phone
 
@@ -110,7 +110,7 @@ Separating out the senses can be one way to emphasize differences of affect to e
 Screenshot: ![screenshot](images/affect-Mixtape.jpg)
 * Artifact Type: assignment
 * Source URL: https://www.oxy.edu/center-digital-liberal-arts/projects/mixtape-project-assignment-learning-through-critical-making
-* Permissions:
+* Permissions: n/a
 * Creator and Affiliation: Wendy F. Hsu (Los Angeles Department of Cultural Affairs)
 * Tags: getting started; playlist and slideware (PowerPoint)
 
