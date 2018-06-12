@@ -75,7 +75,7 @@ This study found that differences in physical environments had a measurable impa
 #### Classroom Design Matters
 ![screenshot](images/Classroom_Artifact_4_Classroom_Design_Matters.png)
 * Artifact Type: Classroom Design Examples
-* Artifact Permissions: unknown	 
+* Artifact Permissions: fair use of screenshot	 
 * Source: [http://kerileebeasley.com/2015/08/16/classroom-design-matters/](http://kerileebeasley.com/2015/08/16/classroom-design-matters/)
 * Creators: Keri-Lee Beasley
 
