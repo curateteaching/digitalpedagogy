@@ -52,8 +52,8 @@ The last four artifacts represent increasingly complex forms of multimodality wi
 
 * Artifact type: assignment
 * Source URL: [femtechnet.org](http://femtechnet.org/docc/object-makingexchange/)
-* Permissions: Creative Commons
-* Copy of Artifact: [Object Making/Exchange](files/multimodal-ObjMak.pdf)
+* Permissions: © FemTechNet 2018
+* Copy of Artifact: n/a
 * Creators and Affiliation: Anca Birzescu and Radhika Gajjala (Bowling Green State University)
 
 
@@ -139,7 +139,7 @@ This assignment asks students to create a critical analysis of a commercial webs
 ![screenshot](images/screenshot-multimodal-LiveStreamAss.png)
 
 * Artifact type: assignment
-* Source URL: [https://docs.google.com/document/d/1S-3I2aIs9vTXdwX3Jjduap7o4loFRAuWmTiNPtSu2jA/edit?usp=sharing](https://docs.google.com/document/d/1S-3I2aIs9vTXdwX3Jjduap7o4loFRAuWmTiNPtSu2jA/edit/)
+* Source URL: [http://bit.ly/2HVuI7M](http://bit.ly/2HVuI7M)
 * Permissions: Creative Commons
 * Copy of Artifact: [Live Streaming with Periscope](files/multimodal-live-streaming-periscope.pdf)
 * Creator: Leigh Landini Wright (Murray State University)
