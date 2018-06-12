@@ -88,7 +88,7 @@ FemTechNet is a network of scholars, artists, and students who work on, with, an
 
 * Artifact Type: syllabus
 * Source URL: [http://marginalsyllab.us/conversations/the-2017-18-syllabus/](http://marginalsyllab.us/conversations/the-2017-18-syllabus/)
-* Artifact Permissions: CC-BY, and annotations are by default CC0
+* Artifact Permissions: Except where otherwise noted, content on Marginal Syllabus is licensed under a Creative Commons Attribution 4.0 International License.
 * Copy of the Artifact: [2017/2018 syllabus](files/network-marginal-syllabus.pdf) 
 * Creator and Affiliation: A multi-stakeholder collaboration between Hypothesis, a non-profit organization building an open platform for discussion on the web, Aurora Public Schools in Aurora, CO, and Researchers and teacher educators from the University of Colorado Denver School of Education and Human Development in Denver, CO. 2017/2018 syllabus in collaboration with the National Writing Project
 
@@ -163,6 +163,7 @@ Watching the development of a Twitter hashtag community can be a useful way to u
 * Artifact Type: collaborative project
 * Source URL: https://tjc16.wordpress.com/  
 * Artifact Permissions: CC-BY-SA
+* Copy of the Artifact: [Twitter Journal Club](files/network-twitter-journal-club.png)
 * Creator: Laura Gogia (changed affiliations, was a PhD student at Virginia Commonwealth University at the time of writing)
 
 
