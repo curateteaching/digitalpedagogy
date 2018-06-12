@@ -124,6 +124,7 @@ Many of today’s MOOCs—explicitly or implicitly—do not aim to foster commun
 * Artifact type: Assignments
 * Source URL: [http://femtechnet.org/get-involved/self-directed-learners/key-learning-project/](http://femtechnet.org/get-involved/self-directed-learners/key-learning-project/)
 * Artifact permissions: Copyright 2017 FemTechNet
+* Copy of Artifact: n/a
 * Creator and Affiliation: FemTechNet organizers
 
 FemTechNet is a community that sponsors DoCCs—Distributed Open Collaborative Courses. DoCCs center on community building as a part of a feminist pedagogy orientation. The key learning projects are both the product of a community and an opportunity to create further community. The Community Participation via Blog Commenting project is a great model for giving learners skills and opportunities to engage with a professional community of their choosing. The project teaches students about intentionally participating in an online community and how preparation for engaging with that community (e.g., through formulating a rhetorical stance) can help them to connect to experts and to understand how communities work (and sometimes don’t work) in online settings. Additional key learning projects have been highlighted in this collection, including [the Situated Knowledges Map](https://digitalpedagogy.commons.mla.org/keywords/gender/), and the [Exquisite Engendering Remix](https://digitalpedagogy.commons.mla.org/keywords/remix/).
@@ -133,7 +134,7 @@ FemTechNet is a community that sponsors DoCCs—Distributed Open Collaborative C
 
 * Artifact type: Assignments
 * Source URL: [https://dailyconnector.wordpress.com/](https://dailyconnector.wordpress.com/)
-* Artifact permissions: CC-BY 4.0 
+* Artifact permissions: unclear; It is affiliated with CLMOOC which is CC-BY 4.0. 
 * Copy of Artifact: [The Daily Connector](files/online-dailyconnector.pdf)
 * Creator and Affiliation: Connected Courses
 
