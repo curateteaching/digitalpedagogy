@@ -94,7 +94,7 @@ Language learning identity texts, which are artifacts that illustrate language l
 
 * Artifact Type: image 
 * Artifact Permissions: CC-BY-NC
-* Copy of Artifact: [Nunca había sido tan feliz](files/LanguageLearning-NuncaHabíaSidoTanFeliz.mp4)
+* Copy of Artifact: [Nunca había sido tan feliz](files/LanguageLearning-NuncaHabiaSidoTanFeliz.mp4)
 * Creator and Affiliation: Neil Anderson (Texas Tech University)
 * Tags: Advanced; Screencast-O-Matic
 
