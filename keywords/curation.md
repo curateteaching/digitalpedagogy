@@ -64,7 +64,7 @@ From its association with institutional work and responsibility, the term “cur
 
 * Artifact Type: assignment
 * Source URL: [http://galeyinf2331-w2016.blogspot.ca/p/assignments.html](http://galeyinf2331-w2016.blogspot.ca/p/assignments.html) 
-* Artifact Permissions: CC-BY-SA 4.0
+* Artifact Permissions: CC-BY-NC
 * Copy of the Artifact: [INF2331H Assignments](files/curation-galeyencodingchallenge.pdf) 
 * Creator and Affiliation: Alan Galey, University of Toronto
 
@@ -138,7 +138,7 @@ This lesson plan seeks to empower students as curators of oral histories that be
 
 * Artifact Type: in-class exercise
 * Source URL: [https://docs.google.com/document/d/1OGa8l3ubL8zNJ9eoTe-WdxCQ0YVTaSZmxe6ClWUbcvA/pub](https://docs.google.com/document/d/1OGa8l3ubL8zNJ9eoTe-WdxCQ0YVTaSZmxe6ClWUbcvA/pub)
-* Artifact Permissions: CC-BY (http://creativecommons.org/licenses/by/4.0/)
+* Artifact Permissions: CC-BY-NC
 * Copy of the Artifact: [Data Curation Exercise](files/curation-MunozDHDCExercise.html) 
 * Creator and Affiliation: Trevor Muñoz, University of Maryland
 
