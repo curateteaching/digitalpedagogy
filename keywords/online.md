@@ -135,7 +135,7 @@ FemTechNet is a community that sponsors DoCCs—Distributed Open Collaborative C
 * Artifact type: Assignments
 * Source URL: [https://dailyconnector.wordpress.com/](https://dailyconnector.wordpress.com/)
 * Artifact permissions: unclear; It is affiliated with CLMOOC which is CC-BY 4.0. 
-* Copy of Artifact: [The Daily Connector](files/online-dailyconnector.pdf)
+* Copy of Artifact: n/a
 * Creator and Affiliation: Connected Courses
 
 Henry Jenkins et al. (5) describe participatory culture as a culture with low barriers to entry, support for the sharing of creations among community members, informal mentorship, and social connections that help community members to feel that their contributions are important. The Daily Connector provides activities and assignments that aim to grow connections between individuals in a course or across multiple courses, helping to foster connections that validate the contributions of members of the community. These activities encourage community building online as part of intentional daily practice and provide helpful strategies to help learners make those intentional connections. For example, the [Twitter Poetry](https://dailyconnector.wordpress.com/2015/02/04/ccourses-bonus-dailyconnect-twitter-poetry/) activity asks students to use the service Poetweet to create a poem from a connected colleague’s Twitter feed. This activity encourages students to look at the Twitter feeds of other students and view them as part of their community.
