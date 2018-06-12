@@ -103,7 +103,7 @@ These brief assignments ask students to keep and maintain a weekly "identity log
 ![screenshot](images/screenshot-queer-queergeektheory.jpg)
 * Artifact Type: course sites, syllabi
 * Source URL: http://www.queergeektheory.org/teaching_main/classes/
-* Permissions: 
+* Permissions: open access with citation
 * Creator and Affiliation: Alexis Lothian, Women's Studies/LGBTQ Studies, University of Maryland
 * Tags: 
 
