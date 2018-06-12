@@ -160,7 +160,7 @@ The Kelly Writers House is housed in the Special Collections Department of Van P
 
 * Type of Artifact: Teaching guidelines
 * Source URL: <https://www.hastac.org/blogs/superadmin/2012/11/30/guidelines-public-student-class-blogs-ethics-legalities-ferpa-and-more>
-* Permissions: CC BY-SA 3.0
+* Permissions: CC BY NC SA
 * Creator: Kevin Smith, Duke University
 
 In this set of guidelines, Kevin Smith, Duke University’s Director of Copyright and Scholarly Communication, offers information (not a legal opinion, as noted) on the ethics and legalities of having students doing public work. Specifically, he tackles various methods for addressing FERPA concerns when having students working on public blogs. In short, inform students of the requirement from the start, offer the option of anonymity, remind them not to post private information, and offer alternatives if a student has major concerns about doing public work even under an alias. FERPA is in place to protect students, not to put artificial limits on their learning. As with any pedagogical decision, our first concern should be on protecting student agency—learners not teachers should make the critical choices about what, when, how, and where they learn.
