@@ -62,7 +62,7 @@ The curatorial vision informing the following selection of artifacts presents th
 * Artifact Type: Website
 * Source URL: http://interracialintimacies.org/how_to.html
 * Permissions: CC BY-NC
-* Copy of Artifact: [Interracial Intimacies](files/fieldwork-interracialintimacies.htm)
+* Copy of Artifact: n/a
 * Creator and Affiliation: Elise Chenier and Stacey Makortoff (Simon Fraser University)
 * Tags: oral history; how-to guide
 
@@ -74,7 +74,7 @@ Interracial Intimacies is an interactive website and pedagogical tool that follo
 * Artifact Type: Assignment
 * Source URL: http://www.melodybuckner.com/#!studyabroad/cx4z
 * Permissions: CC BY-NC
-* Copy of Artifact: [Digital Storytelling Project for Study Abroad Programs](files/fieldwork-digitalstorytellingproject.htm)
+* Copy of Artifact: n/a
 * Creator and Affiliation: Melody Buckner (University of Arizona)
 * Tags: digital storytelling; study abroad
 
@@ -86,7 +86,7 @@ This website outlines a student assignment for designing digital stories within 
 * Artifact Type: Assignment
 * Source URL: http://fieldschools.geog.uvic.ca/
 * Permissions: CC BY-NC
-* Copy of Artifact: [Sustainability Stories from the Field](files/fieldwork-sustainabilitystoriesfromthefield.htm)
+* Copy of Artifact: n/a
 * Creator and Affiliation: Cam Owens (University of Victoria)
 * Tags: student digital fieldwork; blogging
 
@@ -98,7 +98,7 @@ This website showcases student digital fieldwork undertaken since 2012 during su
 * Artifact Type: Collaborative project 
 * Source URL: http://www.doingfeministtheory.ca/
 * Permissions: CC BY-NC
-* Copy of Artifact: [Doing Feminist Theory through Digital Video](files/fieldwork-doingfeministheory.htm)
+* Copy of Artifact: n/a
 * Creator and Affiliation: Rachel Alpha Johnston Hurst, Rory Begin, and Holly Chute (St. Francis Xavier University)
 * Tags: digital video; feminist theory
 
@@ -110,7 +110,7 @@ Students of a feminist theory course at St. Francis Xavier University were asked
 * Artifact Type: Digital tool
 * Source URL: https://socialmediacollective.org/2014/07/14/why-we-like-pinterest-for-fieldwork/
 * Permissions: CC BY-NC
-* Copy of Artifact: [Why We Like Pinterest for Fieldwork](files/fieldwork-whywelikepinterestforfieldwork.htm)
+* Copy of Artifact: n/a
 * Creator and Affiliation: Phil Howard (University of Oxford) and Nikki Usher (George Washington University)
 * Tags: Pinterest
 
@@ -123,7 +123,7 @@ Efficiently collecting data  during fieldwork is challenging. Notes scribbled on
 * Artifact Type: Collaborative project
 * Source URL: http://www.millionimage.org.uk/
 * Permissions: Open-Access http://www.millionimage.org.uk/copyright/
-* Copy of Artifact: [The Million Image Database](files/fieldwork-themillionimagedatabase.htm)
+* Copy of Artifact: n/a
 * Creator and Affiliation: The Institute for Digital Archaeology
 * Tags: open-access; Million Image Database; social fieldwork; cultural heritage
 
@@ -135,7 +135,7 @@ The Million Image Database is an open-access photographic collection of world cu
 * Artifact Type: Student work
 * Source URL: https://vimeo.com/78530205
 * Permissions: CC BY NC
-* Copy of Artifact: available via vimeo
+* Copy of Artifact: [A Journey Upstream](files/fieldwork-ajourneyupstream.mp4)
 * Creator and Affiliation: Directed and Produced by Erica Kowsz (UMass Amherst); Co-Produced by Nathan Goodale (Hamilton College)
 * Tags: documentary; archaeology; cultural heritage; linguistics; indigeneity 
 
@@ -145,7 +145,7 @@ This is a trailer for the documentary “A Journey Upstream: The Past and Presen
 ![screenshot](images/screenshot-fieldwork-biscdigitalhumanities.png)
 
 * Artifact Type: Video
-* Source URL: https://youtu.be/PCSzXG536BU
+* Source URL: n/a
 * Permissions: Standard YouTube license
 * Copy of Artifact: [A Look at the BISC Digital Humanities Field School](files/fieldwork-BISCDigitalHumanitiesFieldschool.mp4)
 * Creator and Affiliation: BISCtv (Bader International Study Centre, Queens University)
@@ -159,7 +159,7 @@ In this video, visiting fellow Chris Jones describes the Field School in Digital
 * Artifact Type: Digital tool
 * Source URL: http://www.arcgis.com/apps/CEWebViewer/viewer.html?3dWebScene=6bfc7de39700434bbc9c1df48fed8b52
 * Permissions: Creative Commons Attribution-NonCommercial 4.0 International License
-* Copy of Artifact: [Rome Lab](files/fieldwork-romelab.htm)
+* Copy of Artifact: n/a
 * Creator and Affiliation: Christopher Johanson (UCLA)
 * Tags: virtual reconstruction; ArcMap; ArcGIS; mapping
 
@@ -171,7 +171,7 @@ RomeLab recreates three critical editions of the Roman Forum, for 210 BCE, 160 B
 * Artifact Type: Program design/assignments
 * Source URL: http://chi.anthropology.msu.edu/fieldschool/
 * Permissions: CC BY-NC
-* Copy of Artifact: [2013 Cultural Heritage Informatics Fieldschool](files/fieldwork-CulturalHeritageInformaticsFieldschool.htm)
+* Copy of Artifact: n/a
 * Creator and Affiliation: Ethan Watrall (Michigan State University)
 * Tags: field school; visualization; maps; space; time
 
