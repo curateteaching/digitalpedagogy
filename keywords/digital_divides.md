@@ -51,8 +51,9 @@ These artifact selections are ordered moving from service/experiential learning 
 ![screenshot](images/digital-divides-instructional-video-project.png)
 
 * Artifact Type: Assignment
-* Source URLs: 
+* Source URL: n/a
 * Artifact Permissions: CC-BY-NC
+* Copy of the Artifact: [Instructional Video Project](files/digital-divides-instructional-video-project.pdf)
 * Creator and Affiliation: Donald Unger, St. Edward's University
 
 This assignment for a course which functions as an introduction to the writing major draws students' attention to issues of digital divides through service work in partnership with Austin Free-Net, a non-profit that works for digital inclusion throughout the city. Students write instructions and film videos for the Austin Free-Net (AFN) YouTube Channel in order to help community members better access technology. For example, [one student-created video](https://youtu.be/9aJf3Lq9zCE) teaches users how to download the Cap Metro app used for accessing public transit. This artifact offers a structured assignment, complete with rubric, for a longer class team assignment. It demonstrates how student use of writing and technology can be used to help make technology more accessible to the larger community. It also makes students more critically aware of their own digital literacy skills and allows them space to reflect on how sponsors have helped them accumulate such literacy.  
@@ -98,7 +99,7 @@ This artifact is a course website for a seven week media studies course on digit
 
 * Artifact Type: Assignment
 * Source URL: [https://canvas.instructure.com/courses/910884/assignments/3304735](https://canvas.instructure.com/courses/910884/assignments/3304735) 
-* Artifact Permissions: CC-BY-NC-SA 4.0
+* Artifact Permissions: CC-BY-NC
 * Copy of the Artifact:  [Access and the Digital Divide](files/digital-divides_Access-and-the-Digital-Divide.pdf) 
 * Creator and Affiliation: Ingrid Sturgis, Howard University
 
@@ -157,7 +158,7 @@ This syllabus by Andreas Dafinger, teaching at a European university, examines d
 
 * Artifact Type: Course Website
 * Source URL: [https://iiitbcourses.wordpress.com/digitaldiscontents2017/](https://iiitbcourses.wordpress.com/digitaldiscontents2017/)
-* Artifact Permissions: Copyright Janaki Srinivasan
+* Artifact Permissions: CC-BY-NC	
 * Creator Affiliation: Janaki Srinivasan, International Institute of Information Technology Bangalore
 
 This course website website by Janaki Srinivasan, teaching at a South Asian university, examines digital spaces and their influence on social, economic, political and cultural inequalities, with particular focus on so called developing countries.  The course looks at digital divides through the lens of development looking especially at parts of Asia, South America and Africa. The course assignments work in a sequence, asking students to choose a country that the World Bank lists as low or middle income. Through a series of essay assignments, the students explore the background of the country, ultimately discussing a World Bank Information and Communication Technologies project underway in the country. This syllabus offers an innovative way to teach and discuss technology projects of the "developing" world and how these projects may redefine ideas about digital divides.    
