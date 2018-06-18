@@ -140,7 +140,7 @@ This assignment asks students to create a critical analysis of a commercial webs
 
 * Artifact type: assignment
 * Source URL: [http://bit.ly/2HVuI7M](http://bit.ly/2HVuI7M)
-* Permissions: Creative Commons
+* Permissions: CC-BY-NC-SA
 * Copy of Artifact: [Live Streaming with Periscope](files/multimodal-live-streaming-periscope.pdf)
 * Creator: Leigh Landini Wright (Murray State University)
 
