@@ -104,7 +104,7 @@ To help students occupy the space of the author, it is helpful to mirror the com
 ![screenshot](images/authorship_digital-edition.png)
 
 * Artifact Type: Website/digital edition 
-* Source URL: [http://learningthroughdigitalmedia.net/google-wave-pedagogical-success-technological-failure](http://learningthroughdigitalmedia.net/google-wave-pedagogical-success-technological-failure)
+* Source URL: [http://rotunda.upress.virginia.edu/melville/](http://rotunda.upress.virginia.edu/melville/)
 * Copy of Artifact:
 * Creator: John Bryant, Hofstra University
 
