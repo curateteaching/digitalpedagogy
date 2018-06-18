@@ -198,7 +198,7 @@ Copy of artifact: [files/collaboration-artifact-blacklivesmatter.pdf](files/coll
 
 * Type: Syllabus
 * Source URL: [https://docs.google.com/document/d/1yjV779VAC2jJpM5-7aJ6OCFS71JiqTr8AToj0VNINRg/edit](https://docs.google.com/document/d/1yjV779VAC2jJpM5-7aJ6OCFS71JiqTr8AToj0VNINRg/edit)
-* Artifact Permissions: Open, public Google Doc
+* Artifact Permissions: CC0 Creative Commons License
 * Creator and Affiliation: Mentoring Future Faculty of Color; The Graduate Center, City University of New York
 * Tags: Google Docs, resources, social justice
 
