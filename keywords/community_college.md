@@ -125,11 +125,8 @@ This spatial approach to learning can be used, for example, when examining the p
  
 #### Visualizing Discourse: Cloud Mapping Cultural Resistance
 
-![screenshot](images/communitycollege-screenshot-visualizingdiscourse.png)
- - Type: History Assignment
-- [files/communitycollege-artifact-visualizingdiscourse.pdf](files/communitycollege-artifact-visualizingdiscourse.pdf)
-
-- Permissions: CC-BY NC
+![screenshot](images/community-college-visualizing-word-cloud.png)
+- Type: History Assignment
 - Creator: Jaime Cardenas, PhD, Instructor of History (Tenured), Seattle Central College
 
 Word clouds are relatively commonplace on college campuses (e.g., flyers for workshops, a new course offering, etc).  Thankfully, what has captured the attention of students is the actual “content of the content,” or the text that the algorithm presents once it has run in the application.  Of course, they could read the words before using the word cloud app, but the process of quantification and subsequent representation allows students to carefully notice words, words analyzed within the particular historical context from which the text (speech, poem, etc.) emerged.  For instance the 1967 sermon that Rev. King gave against the U.S. war in southeast Asia is a prime example and one that is useful while teaching the US history survey: [http://tinyurl.com/mlkandvietnamwordcloud](http://tinyurl.com/mlkandvietnamwordcloud).  In this primary source, tellingly, the words “nation” and “America” are used more often than “God,” but the word “world” occurs more often than all of these.
