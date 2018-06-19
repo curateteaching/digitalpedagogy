@@ -135,7 +135,7 @@ Word clouds are relatively commonplace on college campuses (e.g., flyers for wor
 
 #### Making Podcasts to Support Research-based Writing and Reflection
 
-![screenshot](images/communitycollege-screenshot-makingpodcasts.png)
+![screenshot](images/community-college-podcast.png)
 
 - Type: Assignment and Student Work
 - [files/communitycollege-artifact-designplanpodcast.pdf](files/communitycollege-artifact-designplanpodcast.pdf)
