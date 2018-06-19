@@ -49,7 +49,7 @@ One shouldn’t think of community college students only in terms of deficits, h
  
 ![screenshot](images/communitycollege-screenshot-advancinghumanities.png)
 
-- Source: [http://www.nvcc.edu/home/cevans/technology/index.html](http://www.nvcc.edu/home/cevans/technology/index.html)
+- Source: http://www.ctevans.net/College/Technology/Index.html](http://www.ctevans.net/College/Technology/Index.html)
 - Type: Grant Project Website ca. 1999
 - Permissions: CC-BY NC
 - Creator: Charles Evans, North Virginia Community College
