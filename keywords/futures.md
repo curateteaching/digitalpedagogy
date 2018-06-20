@@ -135,7 +135,7 @@ Sarah Kember marks the moment for the launch of *Ada: A Journal of Gender, New M
 * Artifact Type: Syllabus & Sample Assignment
 * URL: [<http://www.andrecarringtonphd.com/syllabus-blackness-utopia/>](http://www.andrecarringtonphd.com/syllabus-blackness-utopia/)
 * Creator: [andré carrington](http://www.andrecarringtonphd.com/) (Drexel University)
-* Downloadable Resource: [Infrastructure & Society: Assignment](http://www.andrecarringtonphd.com/wp-content/uploads/2017/10/utopia-assignment.pdf)
+* Downloadable Resource: [Infrastructure & Society: Assignment](files/futures-utopia-assignment.pdf)
 * Artifact Permissions: [Creative Commons Attribution-NonCommercial 3.0](http://creativecommons.org/licenses/by-nc/3.0/us/)
 
 Blackness & Utopia is designed as an undergraduate course in African American Literature that encompasses imaginative literature, film and video, and historical documents from movements for social transformation. The course materials, all of which are available in electronic formats (many of them for free) represent the utopian tradition in African American writing as well as the role of a utopian outlook in cultural criticism. The collaborative assignment on access to electricity is an interdisciplinary exercise in argumentation that draws on literature and [documentary film](https://archive.org/details/gov.fdr.352.2a.3) to engage students in the practice of presenting community-level responses to structural changes in society. 
