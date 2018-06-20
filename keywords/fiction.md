@@ -136,7 +136,7 @@ This syllabus integrates a variety of digital tools (including Named Entity Reco
 The class's [assignments](https://github.com/rbuurma/rise-2017/tree/master/Assignments) provide an ideal model for how to integrate digital tools alongside more conventional activities (e.g. close reading, descriptive bibliography).
 
 #### Fundamental Plot Arcs, Seen Through Multidimensional Analysis of thousands of TV and Movie Scripts
-![screenshot](images/fiction_screenshot-wordsinscreentime.png)
+![screenshot](images/fiction-screenshot-wordsinscreentime.png)
 
 * Source URL: [http://sappingattention.blogspot.com/2014/12/fundamental-plot-arcs-seen-through.html](http://sappingattention.blogspot.com/2014/12/fundamental-plot-arcs-seen-through.html)
 * Type: Blog Post
