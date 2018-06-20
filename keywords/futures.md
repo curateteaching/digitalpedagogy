@@ -50,7 +50,7 @@ Participants in the **Humanities, Arts, Science, and Technology Alliance and Col
 ![screenshot](images/futures_screenshot_MIT-media-studies.png)
 
 * Artifact Type: Syllabus
-* URL: [<http://www.annenberglab.com/blogs/hjenkins/2016/03/syllabi-cultural-artifacts-mit-s-introduction-media-studies-part-one>](http://www.annenberglab.com/blogs/hjenkins/2016/03/syllabi-cultural-artifacts-mit-s-introduction-media-studies-part-one)
+* URL: [<http://henryjenkins.org/blog/2016/03/syllabi-as-cultural-artifacts-mits-introduction-to-media-studies-part-one.html>](http://henryjenkins.org/blog/2016/03/syllabi-as-cultural-artifacts-mits-introduction-to-media-studies-part-one.html)
 * Creator: [Henry Jenkins](http://www.annenberglab.com/users/hjenkins) (University of Southern California), [Florence Klink](http://cmsw.mit.edu/profile/flourish-klink/) (Massachusetts Institute of Technology)
 
 
