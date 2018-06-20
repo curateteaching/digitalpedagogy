@@ -90,7 +90,7 @@ Katie Tanigawa’s article examines the epithets and appellations of a single ch
 While reproducing Tanigawa’s analysis, which requires time-consuming [TEI](http://www.tei-c.org/index.xml) markup followed by visualization with the [Mandala browser](http://mandala.humviz.org/), is probably not feasible in most classroom contexts, her article offers a model for how to begin to think about such questions. Tracing, collecting, and collating the appellations of a character or characters *is* something that a class could easily do as they read. And this data could be explored in less labor-intensive ways, using tools like [word trees](https://www.jasondavies.com/wordtree/), simple term frequencies, other [text analysis tools](./textanalysis.md), or even by manual comparison. For another digital analysis of names in fiction see Dalen-Oskam.
 
 #### IVANHOE
-![screenshot](./images/fiction-screenshot-ivanhoe.png)
+![screenshot](/images/fiction-screenshot-ivanhoe.png)
 
 * URL: [http://ivanhoe.scholarslab.org/](http://ivanhoe.scholarslab.org/)
 * Creator: [The Scholars Lab](http://scholarslab.org/) (University of Virginia)
@@ -103,7 +103,7 @@ The goal of *IVANHOE*, Johanna Drucker explains, was to offer “a model digital
 ### GENRE
 
 #### Teju Cole, “Seven Stories About Drones”
-![screenshot](images/fiction_drone-stories.png)
+![screenshot](/images/fiction_drone-stories.png)
 
 * Source URL: [https://thenewinquiry.com/blog/seven-short-stories-about-drones/](https://thenewinquiry.com/blog/seven-short-stories-about-drones/)
 * Type: Text
