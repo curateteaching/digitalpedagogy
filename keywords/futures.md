@@ -94,7 +94,7 @@ The **Undercommoning** Collective looks forward to the unwinding of institutiona
 
 #### Africa Is The Future
 
-![screenshot](images/futures_screenshot_africasacountry.png)
+![screenshot](images/futures-africa-is-the-future.png)
 
 * Artifact Type: Media Gallery
 * URL: [http://africaisthefuture.com/](http://africaisthefuture.com/)
