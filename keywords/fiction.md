@@ -78,7 +78,7 @@ This assignment uses a single question—the relationship between a novel’s ch
 In [a valuable discussion of the assignment](http://chuckrybak.com/teaching/dh-toe-dip-character-networks-in-gephi/) Rybak notes that the assignment was inspired by one of the Stanford Lit Lab’s pamphlets on Hamlet and [“Network Theory, Plot Analysis”](http://litlab.stanford.edu/LiteraryLabPamphlet2.pdf)) and provides an illuminating account of its development. 
 
 ####  “Visualizing a Changing Nostromo”
-![image](images/fiction_nostromo.png)
+![screenshot](images/fiction_tanigawa_nostromo.png)
 
 * [http://www.conradfirst.net/conrad/scholarship/authors/tanigawa
 ](http://www.conradfirst.net/conrad/scholarship/authors/tanigawa)
