@@ -40,7 +40,7 @@ The materials associated with this keyword have been assembled by scholars, arti
 * Artifact Type: Bibliography
 * URL: [https://www.hastac.org/initiatives/futureed](https://www.hastac.org/initiatives/futureed)
 * Creator: [HASTAC](https://www.hastac.org/about-hastac)
-* Downloadable resource: [#FutureED Initiative: Bibliography of Resources ](http://www.andrecarringtonphd.com/wp-content/uploads/2016/09/FutureEd-Initiative_-Bibliography-of-Resources-_-HASTAC.pdf)
+* Downloadable resource: [#FutureED Initiative: Bibliography of Resources ](files/futures-FutureEd-Initiative_-Bibliography-of-Resources-_-HASTAC.pdf)
 * Artifact Permissions: [Creative Commons Attribution-NonCommercial-ShareAlike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 Participants in the **Humanities, Arts, Science, and Technology Alliance and Collaboratory ([HASTAC](http://www.hastac.org/about-hastac))** gather in person and virtually on a regular basis to share ideas for the advancement of humanistic education in the digital era. The **#FutureED** initiative translates efforts that began with questions about the place of the Humanities “in the contemporary university” into the questions about the place of the Humanities in the future (Davidson and Goldberg). **#FutureED** builds on “courses, workshops, events, and reading groups, in different locations and online, all open to the public… created by members of the HASTAC alliance on ‘The History and Future of Higher Education.’” The initiative’s online presence includes a crowdsourced bibliography annotated with keywords (funding, assessment, peer learning), reflections on ongoing changes to institutional structures, and innovations in teaching, all of which are open to further contributions in wiki format.
