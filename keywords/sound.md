@@ -78,7 +78,7 @@ Image:
 ![image](images/sound-CCimage-sonic-remediation.jpg)
 * Artifact Type: assignment
 * Source URL: [files/sound-sonic-remediation.pdf](files/sound-sonic-remediation.pdf)
-* Permissions: granted by creator; CC-BY 2.0 for image https://www.flickr.com/photos/62693815@N03/6276688407/in/photolist-ayDEMD-WZTknJ-5A3rn6-3yCizh-7DSX3q-hBXz-q6UuCd-ayHg8x-dki4iG-2XhTYB-qwLcCC-ayGksm-pfPNwX-8oHs4W-ayGkko-et5iFr-64PQAR-F4bK8-xQnaS-4XaGib-81aXSP-6sEnt-iyEc2R-hTtYVi-SJgjLk-kK7kk-nJ29pU-4A9eBb-d2kVuo-bQiacB-ikaRV-hTvHsn-b75gR8-dwyPFS-5W1aoU-5eM3mF-5r9aXK-48vQEC-RH3QZT-aUskV-ccWpgA-bp17zf-cwfo47-ayGkgu-dAtrEZ-7AUALs-q8M1Fy-4LXJMZ-8P94t2-BTmhz
+* Permissions: granted by Flickr user Jon S; CC-BY 2.0 for image https://www.flickr.com/photos/62693815@N03/6276688407/in/photolist-ayDEMD-WZTknJ-5A3rn6-3yCizh-7DSX3q-hBXz-q6UuCd-ayHg8x-dki4iG-2XhTYB-qwLcCC-ayGksm-pfPNwX-8oHs4W-ayGkko-et5iFr-64PQAR-F4bK8-xQnaS-4XaGib-81aXSP-6sEnt-iyEc2R-hTtYVi-SJgjLk-kK7kk-nJ29pU-4A9eBb-d2kVuo-bQiacB-ikaRV-hTvHsn-b75gR8-dwyPFS-5W1aoU-5eM3mF-5r9aXK-48vQEC-RH3QZT-aUskV-ccWpgA-bp17zf-cwfo47-ayGkgu-dAtrEZ-7AUALs-q8M1Fy-4LXJMZ-8P94t2-BTmhz
 * Creator: Jonathan Stone (The University of Utah)
 * Tags: remediation, audio journalism, writing, digital composition
 
