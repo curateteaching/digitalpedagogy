@@ -190,7 +190,7 @@ Infographics can be introduced by discussing the rhetorical style of [“The Hum
 ![Screenshot of RAW website](images/visualization-Raw.png)
 
 * Artifact Type: Web application
-* Source URL: [http://raw.densitydesign.org/](http://raw.densitydesign.org/)
+* Source URL: [http://www.rawgraphs.io](http://www.rawgraphs.io)
 * Creator and Affiliation: DensityDesign Lab (Giorgio Caviglia, Giorgio Uboldi, Matteo Azzi, Michele Mauri)
 
 RAWGraphs says in its tagline that it is “The missing link between spreadsheets and vector graphics”. It may not be the only missing link out there, but it certainly is powerful and user-friendly. The site provides a [Learning section](http://rawgraphs.io/learning/) with short and clear tutorials for creating and customizing different kinds of charts.
