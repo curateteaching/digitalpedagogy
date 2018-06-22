@@ -115,7 +115,6 @@ While this guide to professionalism is specific to the US context, the included 
 ![screenshot](images/professionalization_Rios_You_Call_It.tif)
 
 * Source URL: [http://everydayfeminism.com/2015/02/professionalism-and-oppression/](http://everydayfeminism.com/2015/02/professionalism-and-oppression/)
-* Copy of Artifact: [files/professionalization_Rios_You_Call_It.pdf](files/professionalization_Rios_You_Call_It.pdf)
 * Creators: Carmen Rios
 
 This reflective essay from Carmen Rios for everydayfeminism.com identifies the ways in which professionalism can used as languages and behaviors of oppression within the workplace. Rios writes, "professionalism is a tool of the elite to keep workforces "in their place" – and often, that place is defined in opposition to communities of color, queer culture, and the actual working class." From dress codes to workplace behaviors to social dynamics, Rios' essay offers an important way to open discussion with students about the implicit and explicit codes within the workplace that they might not only encounter but be complicit in via their conditions of employment. Instructors might ask students to not only reflect on their experiences but to offer strategies that might be used to confront systemic inequalities within workplace doctrines and behaviors.
