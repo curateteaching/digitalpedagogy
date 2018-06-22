@@ -53,7 +53,7 @@ The "Experiencing Professionalization" exercise offers participants the opportun
 
 ### "Going Alt-Ac: How to Begin" 
 
-![screenshot](images/professionalization_Sanders_Going_Alt_Ac.tif)
+![screenshot](images/professionalism-going-alt-ac.png)
 
 * Source URL: [https://www.insidehighered.com/blogs/gradhacker/going-alt-ac-how-begin](https://www.insidehighered.com/blogs/gradhacker/going-alt-ac-how-begin)
 * Copy of Artifact: [files/professionalization_Sanders_Going_Alt_Ac.pdf](files/professionalization_Sanders_Going_Alt_Ac.pdf)
