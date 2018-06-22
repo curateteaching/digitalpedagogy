@@ -72,7 +72,7 @@ The "Graduate Professionalism Course" Syllabus provides a skills and culture-bas
 
 ### "Introduction to Public Speaking" Course
 
-![screenshot](images/professionalization_Public_Speaking.jpg)
+![screenshot](images/professionalization-introduction-course.png)
 
 * Source URL: [https://www.coursera.org/learn/public-speaking](https://www.coursera.org/learn/public-speaking)
 * Copy of Artifact: none
