@@ -104,7 +104,7 @@ To adapt this for a class, choose an article that the students will read as usua
 
 In this assignment, students create a provocative prototype by recording a 2-5 minute Kickstarter-like video advertising their solution to a problem.
 
-The exercise allows students to reinforce the most important elements of their rationale for making particular decisions during the development phases. They could also distance themselves from their work by changing roles from designer to storyteller. Finally, they were to try to address their topic in a short and efficient manner—probably the most demanding task of the whole project.
+The exercise allows students to reinforce the most important elements of their rationale for making particular decisions during the development phases. They could also distance themselves from their work by changing roles from designer to storyteller. Finally, they were to try to address their topic in a short and efficient manner—-probably the most demanding task of the whole project.
 
 To try a similar project in class, it is useful to have a prior project that can form the basis of the video. Connecting the videos to the idea of the Kickstarter platform helps the students understand that they need to be making something short and compelling. Kickstarter also provides an endless list of possible examples to draw upon.
 
