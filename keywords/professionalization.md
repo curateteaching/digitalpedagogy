@@ -66,7 +66,6 @@ The "Experiencing Professionalization" exercise offers participants the opportun
 ![screenshot](images/professionalization_Morisson_Hook_And_Eye.tif)
 
 * Source URL: [http://www.hookandeye.ca/2013/09/graduate-professionalization-seminar.html](http://www.hookandeye.ca/2013/09/graduate-professionalization-seminar.html)
-* Copy of Artifact: [files/professionalization_Morrison_graduate_professionalism_seminar.pdf](files/professionalization_Morrison_graduate_professionalism_seminar.pdf)
 * Creators: Aimée Morisson
 
 The "Graduate Professionalism Course" Syllabus provides a skills and culture-based course for those interested in addressing professionalism. The syllabus blends academic-specific professional development (e.g. formulating academic committees and navigating academic job searches) with alternative academic career paths. Morrison highlights how to "find meaningful and interesting work "post-academic" style, and how to translate all the hard-won academic skills for non-academic hiring managers." Importantly, the syllabus also introduces how to conduct assessments of personality type and how to network. This resource will be most useful to instructors who are working with graduate students to assist them in considering their graduate experiences as part of professional development. Students looking to understand how to constitute committees and initiate professional job searches will find this syllabus particularly useful.
