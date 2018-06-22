@@ -89,7 +89,7 @@ Bodystorming is a way of getting students out of their chairs and thinking with 
 To use it in a class, choose an experience associated with a location or environment. Take the students there, or create a simulation, then have them prototype the experience by acting out the roles involved. Make a video record of the activity, and review it later with the students, looking for moments of insight. To make the experience of review easier, you may want to pre-select short clips for discussion. 
 
 #### “Prototypes of an Article”
-![screenshot](images/prototype_Baby-Bottles.jpg)
+![screenshot](images/prototype-article.png)
 * Type: Student work
 * Xinyue Zhou, MDes student, IIT Institute of Design, Chicago
 
