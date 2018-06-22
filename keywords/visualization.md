@@ -150,7 +150,7 @@ The book's final chapter is entitled "Putting it into Practice" and provides a f
 ![Screenshot of Laura Klein’s course website](images/visualization-Klein.png)
 
 * Artifact Type: Course syllabus
-* Source URL: [http://lkleincourses.lmc.gatech.edu/data13/schedule/](http://lkleincourses.lmc.gatech.edu/data13/schedule/)
+* Source URL: [https://web.archive.org/web/20160328145006/http://lkleincourses.lmc.gatech.edu/data13/schedule/](https://web.archive.org/web/20160328145006/http://lkleincourses.lmc.gatech.edu/data13/schedule/)
 * Creator and Affiliation: Lauren Klein (Georgia Tech)
 
 Though not solely on visualization, Lauren Klein’s syllabus touches on a many essential topics related to uses of data in the digital humanities. Several topics explore the relationship between facts and data, there’s an overview of major kinds of visualization, and she addresses cultural and social issues that arise from data (from art to surveillance). Elsewhere Klein has also explored the way the history of visualization has been presented and possible alternative histories (see for instance her [talk to the 3DH project](https://lecture2go.uni-hamburg.de/l2go/-/get/v/19629)).
