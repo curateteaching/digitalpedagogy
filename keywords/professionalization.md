@@ -53,7 +53,7 @@ The "Experiencing Professionalization" exercise offers participants the opportun
 
 ### "Going Alt-Ac: How to Begin" 
 
-![screenshot](images/professionalization_Sanders_Going_Alt_Ac.tif)
+![screenshot](images/professionalism-going-alt-ac.png)
 
 * Source URL: [https://www.insidehighered.com/blogs/gradhacker/going-alt-ac-how-begin](https://www.insidehighered.com/blogs/gradhacker/going-alt-ac-how-begin)
 * Copy of Artifact: [files/professionalization_Sanders_Going_Alt_Ac.pdf](files/professionalization_Sanders_Going_Alt_Ac.pdf)
@@ -66,14 +66,13 @@ The "Experiencing Professionalization" exercise offers participants the opportun
 ![screenshot](images/professionalization_Morisson_Hook_And_Eye.tif)
 
 * Source URL: [http://www.hookandeye.ca/2013/09/graduate-professionalization-seminar.html](http://www.hookandeye.ca/2013/09/graduate-professionalization-seminar.html)
-* Copy of Artifact: [files/professionalization_Morrison_graduate_professionalism_seminar.pdf](files/professionalization_Morrison_graduate_professionalism_seminar.pdf)
 * Creators: Aimée Morisson
 
 The "Graduate Professionalism Course" Syllabus provides a skills and culture-based course for those interested in addressing professionalism. The syllabus blends academic-specific professional development (e.g. formulating academic committees and navigating academic job searches) with alternative academic career paths. Morrison highlights how to "find meaningful and interesting work "post-academic" style, and how to translate all the hard-won academic skills for non-academic hiring managers." Importantly, the syllabus also introduces how to conduct assessments of personality type and how to network. This resource will be most useful to instructors who are working with graduate students to assist them in considering their graduate experiences as part of professional development. Students looking to understand how to constitute committees and initiate professional job searches will find this syllabus particularly useful.
 
 ### "Introduction to Public Speaking" Course
 
-![screenshot](images/professionalization_Public_Speaking.jpg)
+![screenshot](images/professionalization-introduction-course.png)
 
 * Source URL: [https://www.coursera.org/learn/public-speaking](https://www.coursera.org/learn/public-speaking)
 * Copy of Artifact: none
@@ -116,7 +115,6 @@ While this guide to professionalism is specific to the US context, the included 
 ![screenshot](images/professionalization_Rios_You_Call_It.tif)
 
 * Source URL: [http://everydayfeminism.com/2015/02/professionalism-and-oppression/](http://everydayfeminism.com/2015/02/professionalism-and-oppression/)
-* Copy of Artifact: [files/professionalization_Rios_You_Call_It.pdf](files/professionalization_Rios_You_Call_It.pdf)
 * Creators: Carmen Rios
 
 This reflective essay from Carmen Rios for everydayfeminism.com identifies the ways in which professionalism can used as languages and behaviors of oppression within the workplace. Rios writes, "professionalism is a tool of the elite to keep workforces "in their place" – and often, that place is defined in opposition to communities of color, queer culture, and the actual working class." From dress codes to workplace behaviors to social dynamics, Rios' essay offers an important way to open discussion with students about the implicit and explicit codes within the workplace that they might not only encounter but be complicit in via their conditions of employment. Instructors might ask students to not only reflect on their experiences but to offer strategies that might be used to confront systemic inequalities within workplace doctrines and behaviors.

@@ -154,7 +154,7 @@ The Maker Lab in the Humanities (MLab) at the University of Victoria facilitates
 
 
 #### Interactive Telecommunications Program (ITP) - NYU
-![screenshot](images/makerspaces-itp_nyu.png)
+![screenshot](images/makerspaces-itp.png)
 * Artifact Type: University Program/Makerspace(s)
 * Source URL: [https://tisch.nyu.edu/itp](https://tisch.nyu.edu/itp)
 * Artifact Permissions: No copyright is specified.

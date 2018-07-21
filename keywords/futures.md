@@ -40,7 +40,7 @@ The materials associated with this keyword have been assembled by scholars, arti
 * Artifact Type: Bibliography
 * URL: [https://www.hastac.org/initiatives/futureed](https://www.hastac.org/initiatives/futureed)
 * Creator: [HASTAC](https://www.hastac.org/about-hastac)
-* Downloadable resource: [#FutureED Initiative: Bibliography of Resources ](http://www.andrecarringtonphd.com/wp-content/uploads/2016/09/FutureEd-Initiative_-Bibliography-of-Resources-_-HASTAC.pdf)
+* Downloadable resource: [#FutureED Initiative: Bibliography of Resources ](files/futures-FutureEd-Initiative_-Bibliography-of-Resources-_-HASTAC.pdf)
 * Artifact Permissions: [Creative Commons Attribution-NonCommercial-ShareAlike 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/)
 
 Participants in the **Humanities, Arts, Science, and Technology Alliance and Collaboratory ([HASTAC](http://www.hastac.org/about-hastac))** gather in person and virtually on a regular basis to share ideas for the advancement of humanistic education in the digital era. The **#FutureED** initiative translates efforts that began with questions about the place of the Humanities “in the contemporary university” into the questions about the place of the Humanities in the future (Davidson and Goldberg). **#FutureED** builds on “courses, workshops, events, and reading groups, in different locations and online, all open to the public… created by members of the HASTAC alliance on ‘The History and Future of Higher Education.’” The initiative’s online presence includes a crowdsourced bibliography annotated with keywords (funding, assessment, peer learning), reflections on ongoing changes to institutional structures, and innovations in teaching, all of which are open to further contributions in wiki format.
@@ -50,10 +50,9 @@ Participants in the **Humanities, Arts, Science, and Technology Alliance and Col
 ![screenshot](images/futures_screenshot_MIT-media-studies.png)
 
 * Artifact Type: Syllabus
-* URL: [<http://www.annenberglab.com/blogs/hjenkins/2016/03/syllabi-cultural-artifacts-mit-s-introduction-media-studies-part-one>](http://www.annenberglab.com/blogs/hjenkins/2016/03/syllabi-cultural-artifacts-mit-s-introduction-media-studies-part-one)
+* URL: [<http://henryjenkins.org/blog/2016/03/syllabi-as-cultural-artifacts-mits-introduction-to-media-studies-part-one.html>](http://henryjenkins.org/blog/2016/03/syllabi-as-cultural-artifacts-mits-introduction-to-media-studies-part-one.html)
 * Creator: [Henry Jenkins](http://www.annenberglab.com/users/hjenkins) (University of Southern California), [Florence Klink](http://cmsw.mit.edu/profile/flourish-klink/) (Massachusetts Institute of Technology)
-* Downloadable resource: [CMS 100 Introduction to Media Studies](http://www.andrecarringtonphd.com/wp-content/uploads/2016/09/cms-100-fall-2014.zip)
-* Artifact Permissions: [Creative Commons Attribution-NonCommercial Share-Alike 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 
 Appropriately for a pedagogical conversation initiated by the author of [Convergence Culture](http://nyupress.org/books/9780814742952/), this artifact represents the convergence of multiple iterations of a syllabus: as text, analytical object, and archive. In 1999, the Comparative Media Studies program at **MIT**, for which this course was a cornerstone, began with a mission “that was humanistic to its core and expansive in its understanding of what constituted media.” Two years later, that university introduced [Open CourseWare](https://ocw.mit.edu/about/index.htm) as a comprehensive effort to publicize its curriculum online. Then and now, the methods and materials used for instruction inflect the syllabus with the priorities of the moment as well as unpredictable implications for the future. This colloquy provides a genealogy of critical vocabularies in the field and rehearses perspectives on teaching with technology. The reflexive approach to framing the subjects of humanistic inquiry and assessing instructional approaches modeled here will prove useful in a variety of disciplines as well as extramural locations. Contemporary learners can comprehend how the relationship of education and technology has changed between then and now by comparing a current syllabus to the precedent set at MIT. They can speculate about the future that their education will make possible by tracing their current understanding of media back to the syllabus, treating it as evidence of how the subject matter was presented in the past.
 
@@ -76,8 +75,8 @@ The notion of “deep time” cuts across disciplinary boundaries to enable Huma
 * Artifact Type: Instructional Experiment
 * URL: [<http://futures.gc.cuny.edu/about-mapping-futures/>](http://futures.gc.cuny.edu/about-mapping-futures/)
 * Creator: [Deborah Greenblatt](http://futuresinitiative.org/members/deborah22/) and [Janey Oliphint Flanagan](http://futuresinitiative.org/members/jflanagan/), [The Futures Initiative](http://futuresinitiative.org/who-we-are/) (City University of New York)
-* Downloadable resource: [Final Report on the Mapping the Futures of Higher Education project](http://www.andrecarringtonphd.com/wp-content/uploads/2016/09/Mapping-Futures-FINAL_REPORT.pdf)
-* Artifact Permissions: [Creative Commons Attribution Noncommercial Share-Alike](http://creativecommons.org/licenses/by-nc-sa/3.0/)
+* Downloadable resource: [Final Report on the Mapping the Futures of Higher Education project](files/Mapping-Futures-FINAL_REPORT.pdf)
+* Artifact Permissions: [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)
 
 **Mapping the Futures of Higher Education** at the City University of New York supplements the cultural and political geography of the metropolis with student-centered timelines and genealogies. The course “emphasized student-centered pedagogies and digital innovation and its practical application within diverse undergraduate classrooms at CUNY.” Crucial to its success, and integral to its potential implications for future projects that use digital tools to enhance and represent spatial knowledge, were measures meant to empower undergraduates and graduate student instructors. Evaluators noted that workshops on mapping software and data management would have enhanced the course by enabling students to produce more technically sophisticated maps; for courses of study that have the objective of imparting or refining those technical skills, mapping their institutions in accordance with local, community-sourced concerns like those of the **MFHE** students is an ideal summative assessment. Instructors and students interested in mapping their settings can employ the insights of the final report in order to outline what student-centered, technology-assisted learning means in their courses, e.g., by reporting the balance of anxiety and motivation ascribed to their respective responsibilities, maintaining an inventory of their skills and needs, and collaborating to [design future courses](http://futuresinitiative.org/blog/category/syllabus/) that use the maps they create and the information represented therein as resources.
 
@@ -95,7 +94,7 @@ The **Undercommoning** Collective looks forward to the unwinding of institutiona
 
 #### Africa Is The Future
 
-![screenshot](images/futures_screenshot_africasacountry.png)
+![screenshot](images/futures-africa-is-the-future.png)
 
 * Artifact Type: Media Gallery
 * URL: [http://africaisthefuture.com/](http://africaisthefuture.com/)
@@ -112,7 +111,7 @@ Africa Is The Future uses the [communication tools](http://africaisthefuture.com
 * Artifact Type: Published Article
 * URL: [<http://adanewmedia.org/2012/11/issue1-kember/>](http://adanewmedia.org/2012/11/issue1-kember/) 
 * Creator: [Sarah Kember](http://adanewmedia.org/author/sarahkember/) (Goldsmiths, University of London)
-* Downloadable Resource: [Notes Towards a Feminist Futurist Manifesto](http://www.andrecarringtonphd.com/wp-content/uploads/2016/09/Kember-Feminist-Futurist-Manifesto.pdf)
+* Downloadable Resource: [Notes Towards a Feminist Futurist Manifesto](files/futures-Kember-Feminist-Futurist-Manifesto.pdf)
 * Artifact Permissions: [Creative Commons-Attribution-NonCommercial-NoDerivs 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/deed.en_US) 
 
 Sarah Kember marks the moment for the launch of *Ada: A Journal of Gender, New Media, and Technology* by unsettling readers who might think existing scholarship has exhausted “the complex relation between technology, politics and the social.” Taking gender as one axis in a multidimensional rendering of “a future that isn’t (and never was) all about technology,” the article returns issues of desire, intelligence, consciousness, and objecthood to the agenda of humanistic inquiry. It raises questions that would occasion lively debate during any course or module on gender, knowledge production, or subjectivity—To what ends do we submit ourselves to emergent surveillance practices? How are the priorities of academic journals shaped by attitudes toward technology and the mediation of scholarly persona? Kember also models the manifesto as a form amenable to presenting a synopsis of the movement from previous to current intellectual colloquies and outlining distinct points for elaboration through further inquiry, a task that can be uniquely instructive for graduate students learning how to articulate the main concerns within a field of scholarship.
@@ -136,7 +135,7 @@ Sarah Kember marks the moment for the launch of *Ada: A Journal of Gender, New M
 * Artifact Type: Syllabus & Sample Assignment
 * URL: [<http://www.andrecarringtonphd.com/syllabus-blackness-utopia/>](http://www.andrecarringtonphd.com/syllabus-blackness-utopia/)
 * Creator: [andré carrington](http://www.andrecarringtonphd.com/) (Drexel University)
-* Downloadable Resource: [Infrastructure & Society: Assignment](http://www.andrecarringtonphd.com/wp-content/uploads/2017/10/utopia-assignment.pdf)
+* Downloadable Resource: [Infrastructure & Society: Assignment](files/futures-utopia-assignment.pdf)
 * Artifact Permissions: [Creative Commons Attribution-NonCommercial 3.0](http://creativecommons.org/licenses/by-nc/3.0/us/)
 
 Blackness & Utopia is designed as an undergraduate course in African American Literature that encompasses imaginative literature, film and video, and historical documents from movements for social transformation. The course materials, all of which are available in electronic formats (many of them for free) represent the utopian tradition in African American writing as well as the role of a utopian outlook in cultural criticism. The collaborative assignment on access to electricity is an interdisciplinary exercise in argumentation that draws on literature and [documentary film](https://archive.org/details/gov.fdr.352.2a.3) to engage students in the practice of presenting community-level responses to structural changes in society. 

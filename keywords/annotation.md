@@ -145,7 +145,7 @@ Rachel Arteaga's lesson plan for annotating a portion of *Moby-Dick* using MIT's
 * ![screenshot](images/annotation_genius_fiction.png)
 * Artifact Type: Best Practice
 * Source URL: [http://genius.com/Meera-nair-annotation-exercises-for-fiction-boot-camp-annotated](http://genius.com/Meera-nair-annotation-exercises-for-fiction-boot-camp-annotated)
-* Permissions: CC-BY-SA 3.0
+* Permissions: 
 * Creator and Affiliation: Meera Nair, Gallatin School of Individualized Study, New York University
 * Tags: getting started, Genius
 

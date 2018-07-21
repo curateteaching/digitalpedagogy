@@ -61,7 +61,7 @@ In each of the four tiers outlined here, failure may prove productive and engagi
 
 * Artifact Type: collaborative projects
 * Source URL: [https://archive.org/details/LearningThroughDigitalMedia](https://archive.org/details/LearningThroughDigitalMedia)
-* Permissions: CC BY-NC-ND
+* Permissions: CC BY-NC-ND-ShareAlike
 * Creator and Affiliation: [Kathleen Fitzpatrick](http://www.plannedobsolescence.net), Michigan State University
 * Tags: reflective essay; Google Wave; defunct technology; class notes; getting started; writing
 

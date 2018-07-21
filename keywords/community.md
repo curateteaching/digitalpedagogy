@@ -70,7 +70,7 @@ In addition to widening the circle of scholars and readers who have access to ei
 Collaborative editing turns the individual, introspective process of reading into a community practice and conversation. In this way, students develop a sense of community not only with their co-editors but also with imagined, future peer readers of a text. On a smaller scale, the practice of collaborative annotating has become easier with tools like [CommentPress](http://futureofthebook.org/commentpress/). While 18th Connect's platform of creating a digital scholarly edition is best for graduate or advanced undergraduate students in English, the practice of social annotating could be integrated into any course that includes assigned readings. 
 
 ### Historyapolis Project
-![screenshot](images/community-historyapolis.png)
+![screenshot](images/community-historyapolis-screenshot.png)
 
 * Type: mapping project
 * Source URL: [http://historyapolis.com/](http://historyapolis.com/)

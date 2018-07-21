@@ -150,7 +150,7 @@ The book's final chapter is entitled "Putting it into Practice" and provides a f
 ![Screenshot of Laura Klein’s course website](images/visualization-Klein.png)
 
 * Artifact Type: Course syllabus
-* Source URL: [http://lkleincourses.lmc.gatech.edu/data13/schedule/](http://lkleincourses.lmc.gatech.edu/data13/schedule/)
+* Source URL: [https://web.archive.org/web/20160328145006/http://lkleincourses.lmc.gatech.edu/data13/schedule/](https://web.archive.org/web/20160328145006/http://lkleincourses.lmc.gatech.edu/data13/schedule/)
 * Creator and Affiliation: Lauren Klein (Georgia Tech)
 
 Though not solely on visualization, Lauren Klein’s syllabus touches on a many essential topics related to uses of data in the digital humanities. Several topics explore the relationship between facts and data, there’s an overview of major kinds of visualization, and she addresses cultural and social issues that arise from data (from art to surveillance). Elsewhere Klein has also explored the way the history of visualization has been presented and possible alternative histories (see for instance her [talk to the 3DH project](https://lecture2go.uni-hamburg.de/l2go/-/get/v/19629)).
@@ -190,7 +190,7 @@ Infographics can be introduced by discussing the rhetorical style of [“The Hum
 ![Screenshot of RAW website](images/visualization-Raw.png)
 
 * Artifact Type: Web application
-* Source URL: [http://raw.densitydesign.org/](http://raw.densitydesign.org/)
+* Source URL: [http://www.rawgraphs.io](http://www.rawgraphs.io)
 * Creator and Affiliation: DensityDesign Lab (Giorgio Caviglia, Giorgio Uboldi, Matteo Azzi, Michele Mauri)
 
 RAWGraphs says in its tagline that it is “The missing link between spreadsheets and vector graphics”. It may not be the only missing link out there, but it certainly is powerful and user-friendly. The site provides a [Learning section](http://rawgraphs.io/learning/) with short and clear tutorials for creating and customizing different kinds of charts.

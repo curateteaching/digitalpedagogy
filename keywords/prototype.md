@@ -89,7 +89,7 @@ Bodystorming is a way of getting students out of their chairs and thinking with 
 To use it in a class, choose an experience associated with a location or environment. Take the students there, or create a simulation, then have them prototype the experience by acting out the roles involved. Make a video record of the activity, and review it later with the students, looking for moments of insight. To make the experience of review easier, you may want to pre-select short clips for discussion. 
 
 #### “Prototypes of an Article”
-![screenshot](images/prototype_Baby-Bottles.jpg)
+![screenshot](images/prototype-article.png)
 * Type: Student work
 * Xinyue Zhou, MDes student, IIT Institute of Design, Chicago
 
@@ -104,7 +104,7 @@ To adapt this for a class, choose an article that the students will read as usua
 
 In this assignment, students create a provocative prototype by recording a 2-5 minute Kickstarter-like video advertising their solution to a problem.
 
-The exercise allows students to reinforce the most important elements of their rationale for making particular decisions during the development phases. They could also distance themselves from their work by changing roles from designer to storyteller. Finally, they were to try to address their topic in a short and efficient manner—probably the most demanding task of the whole project.
+The exercise allows students to reinforce the most important elements of their rationale for making particular decisions during the development phases. They could also distance themselves from their work by changing roles from designer to storyteller. Finally, they were to try to address their topic in a short and efficient manner—-probably the most demanding task of the whole project.
 
 To try a similar project in class, it is useful to have a prior project that can form the basis of the video. Connecting the videos to the idea of the Kickstarter platform helps the students understand that they need to be making something short and compelling. Kickstarter also provides an endless list of possible examples to draw upon.
 

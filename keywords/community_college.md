@@ -49,9 +49,8 @@ One shouldn’t think of community college students only in terms of deficits, h
  
 ![screenshot](images/communitycollege-screenshot-advancinghumanities.png)
 
-- Source: [http://www.nvcc.edu/home/cevans/technology/index.html](http://www.nvcc.edu/home/cevans/technology/index.html)
+- Source: http://www.ctevans.net/College/Technology/Index.html](http://www.ctevans.net/College/Technology/Index.html)
 - Type: Grant Project Website ca. 1999
-- Permissions: CC-BY NC
 - Creator: Charles Evans, North Virginia Community College
 
 In 1999 the NEH, the Community College Humanities Association and North Virginia Community College initiated a humanities computing community of practice among seventeen colleges entitled, “Advancing the Humanities through Technology at Community Colleges.” [http://www.nvcc.edu/home/cevans/technology/index.html](http://www.nvcc.edu/home/cevans/technology/index.html) The institute fostered development of impressive projects, including Harper College’s Grendel website [http://www.harpercollege.edu/~kneumann/grendel/welcome.htm](http://www.harpercollege.edu/~kneumann/grendel/welcome.htm) and North Shore Community College’s Hawthorne in Salem [http://www.hawthorneinsalem.org/](http://www.hawthorneinsalem.org/), both of which remain relevant community college pedagogical online resources. Projects there demonstrate how early on community college faculty saw the democratic potential of humanities computing. They also anticipate and, in their own way, answer the later definitional debates about what authentically “counts” as digital humanities: projects include website development, electronic portfolios, archival access, cross-disciplinary collaboration and student-generated, public-facing family heritage archives.
@@ -126,11 +125,8 @@ This spatial approach to learning can be used, for example, when examining the p
  
 #### Visualizing Discourse: Cloud Mapping Cultural Resistance
 
-![screenshot](images/communitycollege-screenshot-visualizingdiscourse.png)
- - Type: History Assignment
-- [files/communitycollege-artifact-visualizingdiscourse.pdf](files/communitycollege-artifact-visualizingdiscourse.pdf)
-
-- Permissions: CC-BY NC
+![screenshot](images/community-college-visualizing-word-cloud.png)
+- Type: History Assignment
 - Creator: Jaime Cardenas, PhD, Instructor of History (Tenured), Seattle Central College
 
 Word clouds are relatively commonplace on college campuses (e.g., flyers for workshops, a new course offering, etc).  Thankfully, what has captured the attention of students is the actual “content of the content,” or the text that the algorithm presents once it has run in the application.  Of course, they could read the words before using the word cloud app, but the process of quantification and subsequent representation allows students to carefully notice words, words analyzed within the particular historical context from which the text (speech, poem, etc.) emerged.  For instance the 1967 sermon that Rev. King gave against the U.S. war in southeast Asia is a prime example and one that is useful while teaching the US history survey: [http://tinyurl.com/mlkandvietnamwordcloud](http://tinyurl.com/mlkandvietnamwordcloud).  In this primary source, tellingly, the words “nation” and “America” are used more often than “God,” but the word “world” occurs more often than all of these.
@@ -139,7 +135,7 @@ Word clouds are relatively commonplace on college campuses (e.g., flyers for wor
 
 #### Making Podcasts to Support Research-based Writing and Reflection
 
-![screenshot](images/communitycollege-screenshot-makingpodcasts.png)
+![screenshot](images/community-college-podcast.png)
 
 - Type: Assignment and Student Work
 - [files/communitycollege-artifact-designplanpodcast.pdf](files/communitycollege-artifact-designplanpodcast.pdf)

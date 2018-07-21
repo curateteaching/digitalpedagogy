@@ -47,16 +47,15 @@ These lessons show how arguments, thoughts, and creative expressions are asserte
 ## CURATED ARTIFACTS
 
 #### Introduction to Digital Humanities
-![screenshot](images/information_dh101.png)
+![screenshot](images/information-intro-to-dh.png)
 * Source: [http://dh101.humanities.ucla.edu/](http://dh101.humanities.ucla.edu)
 * Creator: Johanna Drucker, David Kim, Iman Salehian and Anthony Bushong (University of California, Los Angeles)
 * Artiface Type: Coursebook
-* Permissions: Creative Commons License
 
 This online coursebook for an undergraduate DH course that is being taught in the context of a School of Information is a useful pedagogical tool because it asks students to consider the relationship between data and information as one that is shaped by the organization of data into a structure. For example, the module “Data and Databases” introduces students to the idea that data are *capta* or phenomena that are considered, by nature, quantifiable and thus, adherent to a prescribed scale or unit or system of measurement, but it is the tutorial “Managing Data” using Google Drive’s Fusion Tables that guides students through the process of considering a series of questions about overarching concepts such as data creation, data management, and data visualization through the process of visualizing a network from a data table they have constructed. While this lesson is achieved using the complex network maintained by the characters of a somewhat outdated television drama (*Lost*), the point of the lesson, that students are organizing information they think they already know in order to structure it and categorize it into types of their own choosing, forces students to reduce complex knowledge into data points and relationships that others would find informative or relevant. Because students are asked to compare their network graph to the information rich spreadsheet they originally created, they are reminded to consider how entities may easily defy labels and how the various relationships could be represented differently. The ultimate benefit of this assignment is that students learn to think critically about how ambiguities that are present in subjective content may be hidden in structured data formats and how they have the agency to change those structures to tell a different story.
 
 #### Design Transformation
-![screenshot](images/information_design-transformation.png)
+![screenshot](images/information-design-transformation-screenshot.png)
 * Source: [http://courses.ischool.utexas.edu/feinberg/2014/spring/INF385U/assignments.html](http://courses.ischool.utexas.edu/feinberg/2014/spring/INF385U/assignments.html)
 * Creator: Melanie Feinberg (University of North Carolina)
 * Artifact Type: Assignment
@@ -98,7 +97,7 @@ This assignment is part of a course on information and contemplation designed to
 "Performing the Algorithm" is an activity developed for the Digital Cultures and Creativity program at the University of Maryland, College Park. The strength of the activity is in giving students a basic conceptual understanding of algorithms, from which the kinds of critiques asked for by other assignments collected here might build. In the activity, groups of students create algorithms, or sets of instructions, for moving through and engaging space (defined broadly, with physical, virtual and conceptual spaces all given as examples). Examples of algorithms created in this way include instructions to play a game, perform a play, or enact a programming principle. Rather than asking students to directly critique existing information processes, this activity focuses on giving them the conceptual understanding, gained through practice, on which future critiques might build. This understanding is especially important for giving students with less technical backgrounds the opportunity to make arguments that, nevertheless, draw on an accurate (if rudimentary) understanding of information processes. This concrete approach to working toward understanding is especially important for topics like algorithms, which are common in public discourse but can often take the form of vague metaphors or magical black boxes. In the tradition of critical making, Moesch's activity works to move past these popular understandings by giving students a way to experience some of the technical realities that may otherwise be masked. Modifications to the activity, perhaps for students with more technical skills, might include having students create and act out algorithms for information processes such as those dealt with by Shaw's assignment, below.
 
 #### Data Critique
-![screenshot](images/information_data-critique.png)
+![screenshot](images/information-data-critique-screenshot.png)
 * Source: [http://courses.digitaldavidson.net/dig210/guidelines/data-critique/](http://courses.digitaldavidson.net/dig210/guidelines/data-critique/)
 * Creator: Mark Sample (Davidson College)
 * Artifact Type: Assignment
@@ -106,7 +105,7 @@ This assignment is part of a course on information and contemplation designed to
 This assignment is part of a larger undergraduate course in the Digital Studies interdisciplinary minor at Davidson College. It seeks to teach students to think critically about how an understanding of data and databases ties to the ways in which we understand the world. That the assignment, "Data Critique," had been previously developed by Lauren Klein in her class, "Studies in Communication and Culture: Data" [http://lkleincourses.lmc.gatech.edu/data13/files/2013/01/midterm1.pdf], and later redesigned in Tanya Clement's graduate-level "Introduction to Digital Humanities" class [https://www.ischool.utexas.edu/sites/default/files/images/webform/DHFall2015Syllabus.pdf](https://www.ischool.utexas.edu/sites/default/files/images/webform/DHFall2015Syllabus.pdf) shows its utility as a a means for encouraging students to think more critically about the origins of datasets they are using, but Sample's version is selected here for its inclusion of particular questions for deeper consideration. The questions, influenced by a blog post by Michael Sacasas entitled, "Do Artifacts Have Ethics?", show a keen understanding for the kinds of agency that information systems can afford. The end result is a paper that not only discusses the social and cultural context of the dataset but also considers how we empower dataset designers to incorporate ommitted voices and perspectives. The strength behind this assignment is the extent to which it requires students to consider how we can empower people to consider the nature of what is informative in terms of its implicit claims about the world.
 
 #### Designing a State Machine
-![screenshot](images/information_designing-a-state-machine.png)
+![screenshot](images/information-designing-machine-screenshot.png)
 * Source: [https://aeshin.org/teaching/inls-620/2015/fa/assignments/](https://aeshin.org/teaching/inls-620/2015/fa/assignments/)
 * Creator: Ryan Shaw (University of North Carolina)
 * Artifact Type: Assignment
@@ -114,7 +113,7 @@ This assignment is part of a larger undergraduate course in the Digital Studies 
 Ryan Shaw’s "Designing a State Machine" assignment, part of a graduate-level course on Web Information Organization, asks students to consider how real-world interactions such as ordering a cup of coffee at Starbucks could be modeled as information systems and implemented using contemporary web technologies such as HTTP. Like others collected here, the assignment is valuable for providing students with a way to engage with technical specificities while simultaneously thinking about the way those specificities structure interactions in the world. Unlike other assignments, however, the level of focus of Shaw's assignment allows students to think about the different protocols or logics that underlie information processes that may otherwise appear distinct. Protocols such as HTTP and standards such as Unicode have consequences similar to those of the organization schemes and data models that other assignments here highlight; however, they are arguably more invisible and easier to elide in analysis. Shaw's assignment is valuable for making explicit the invisible protocols that structure common information processes and for providing students with a way to think about these protocols in relation to their everyday lives. The infrastructural undercurrents of this assignment could be pursued through a reading such as Edwards (2003), which considers the development of the internet in relation to both micro (e.g., individuals and small groups) and macro (e.g., political economies and governments) contexts.
 
 #### Descriptive Schema
-![screenshot](images/information_descriptive-schema.png)
+![screenshot](images/information-descriptive-schema-screenshot.png)
 * Source: [https://utexas.instructure.com/courses/1160641/assignments/3735626](https://utexas.instructure.com/courses/1160641/assignments/3735626)
 * Creators: Karen Wickett (University of Texas at Austin)
 * Artifact Type: Assignment
