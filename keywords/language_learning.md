@@ -167,7 +167,7 @@ Sauro and Sundmark (2016) incorporated the practice of online fandom in the clas
 
 #### What’s happeNING?
 
-![screenshot](images/Screenshot-LanguageLearning-What_shappeNING2.png)
+![screenshot](images/language_learning-Whats-happeNING2.jpg)
 
 * Artifact Type: Educational Social Network Site 
 * Artifact Permissions: CC-BY-NC (for image, edited for privacy of students)
