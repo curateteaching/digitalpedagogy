@@ -2,7 +2,7 @@
 title: Digital Pedagogy in the Humanities
 subtitle: Concepts, Models, and Experiments
 chapter: Access
-URL: keywords/access.md
+URL: keywords/authorship.md
 author: 
 - family: Rohrbach
   given: Augusta
