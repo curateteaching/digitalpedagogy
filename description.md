@@ -4,11 +4,14 @@
 
 Hashtag for news and updates: [\#curateteaching](https://twitter.com/hashtag/curateteaching?f=realtime&src=hash)
 
+## Update March 27, 2019
+The project is currently in the final stages of copyediting along with construction of the digital platform. The platform will feature a robust set of user tools including the ability to save and create a private collection. Artifacts and keywords will be searchable, but more importantly, individual artifacts will be tagged for expertise level and artifact type. Each keyword will also includes cross reference to other keywords. The project will remain open access in its final form; the GitHub and the MLA Commons open peer review sites will both remain available for study. 
+
 ## GENERAL EDITORS
 
 * [Rebecca Frost Davis](https://rebeccafrostdavis.wordpress.com/), Saint Edward's University ([rebeccad@stedwards.edu](mailto:rebeccad@stedwards.edu))
 * [Matthew K. Gold](https://commons.mla.org/members/mkgold/), The Graduate Center, City University of New York ([mgold@gc.cuny.edu](mailto:mgold@gc.cuny.edu))
-* [Katherine D. Harris](https://triproftri.wordpress.com/), San José State University ([dr.katherine.harris@gmail.com](mailto:dr.katherine.harris@gmail.com))
+* [Katherine D. Harris](https://triproftri.wordpress.com/), San José State University ([katherine.harris@sjsu.edu](mailto:katherine.harris@sjsu.edu))
 * [Jentery Sayers](http://www.jenterysayers.com/), University of Victoria ([jentery@uvic.ca](mailto:jentery@uvic.ca))
 
 ## RATIONALE
