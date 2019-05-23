@@ -3,6 +3,10 @@
 by General Editors, Davis, Gold, Harris, Sayers
 
 ##Presentations
+* Davis, Rebecca Frost; Harris, Katherine D.; Gold, Matthew K. Co-organizers and Presenters, "The State of the Syllabus" (https://github.com/curateteaching/digitalpedagogy/blob/master/mla2020.md) Roundtable, MLA Convention 2020, Seattle, Jan 9-12, 2020
+* Harris, Katherine D. “Digital Dickens Leading into Digital Pedagogy in the Humanities: A Demonstration of a Digital Pedagogy Collection for Book History Scholars and Instructors” on the SHARP panel “Digital Approaches to Book History” for the joint Modern Language Association and American Historical Association Annual Convention, Chicago, Jan 3-6, 2019
+* Harris, Katherine D. “Revisions to Digital Publishing Complements Digital Pedagogy” for The Society for the History of Authorship, Reading, and Publishing Annual Conference, Sydney, Australia, July 2018
+* Harris, Katherine D.; Rebecca Frost Davis; & Matthew K. Gold Co-Organizers & introductory speakers. “Curating Digital Pedagogy in the Humanities.” Modern Language Association Convention 2017, Philadelphia. January 2017. The panel is discussed in an article for PC Magazine, "Digital Humanities: The Most Exciting Field You’ve Never Heard Of" (http://www.pcmag.com/commentary/350984/digital-humanities-the-most-exciting-field-youve-never-hea)
 * Harris, Katherine D. “Putting the ‘Digital’ into Pedagogy." Center for Teaching Innovation & Education, Marymount Manhattan College. April 20, 2016.
 * Davis, Rebecca Frost; Gold, Matthew K.; Harris, Katherine D. (presiding); Edmond Chang, Brian Croxall, Kathi Inman Berens, Virginia Kuhn, Jason Loan, Chuck Rybak, Jesse Stommel. "[Curating Digital Pedagogy in the Humanities](https://github.com/curateteaching/digitalpedagogy/blob/master/MLA2016.md)." Electronic Roundtable. Modern Language Association 2016 Annual Convention, January 10, 2016, Austin, TX. 
 * Gold, Matthew K. "Opening Access: The Reinvention of the Academic Book." Association of American University Presses. November 10, 2015.
