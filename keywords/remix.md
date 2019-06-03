@@ -203,11 +203,17 @@ HitRECord.org LLC. *HitRECord.* www.hitrecord.org. Accessed 15 Sept. 2017.
 Ito, Mizuko, et al. *Hanging Out, Messing Around, and Geeking Out: Kids Living and Learning with New Media.* MIT Press, 2010. mitpress.mit.edu/books/hanging-out-messing-around-and-geeking-out. Accessed 22 Feb. 2016. 
 
 Jenkins, Henry, et al. *Confronting the Challenges of Participatory Culture: Media Education for the 21st Century.* MIT Press, 2009. mitpress.mit.edu/books/confronting-challenges-participatory-culture. Accessed 22 Feb. 2016. 
+
 Keifer-Boyd, Karen, et. al. “Exquisite Engendering Remix Exhibition.” Pennsylvania State University. cyberhouse.arted.psu.edu/811/. Accessed 22 Feb. 2016.
+
 Keifer-Boyd, Karen. “FTN Roadshow Blog Series—Course.” *FemTechNet.* FemTechNet. femtechnet.org/2015/05/ftn-roadshow-blog-series-course/. Accessed 22 Feb. 2016. 
+
 Kuhn, Virginia. “The Rhetoric of Remix.”*Transformative Works and Cultures.* vol. 9 (2012). dx.doi.org/10.3983/twc.2012.0358. Accessed 22 Feb. 2016.
+
 Lessig, Lawrence. *Remix: Making Art and Commerce Thrive in a Hybrid Economy.” Bloomsbury Press. 2008.
+
 Manovich, Lev. *The Language of New Media.* MIT Press, 2001. 
+
 McKee, Heidi A., and Dànielle Nicole DeVoss, Eds. *Digital Writing Assessment & Evaluation.* Computers and Composition Digital Press/Utah State University Press, 2013. ccdigitalpress.org/dwae/. Accessed 22 Feb. 2016.
 
 Navas, Eduardo. *Remix Theory.* remixtheory.net/. Accessed 22 Feb. 2016.
