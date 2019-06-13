@@ -3,7 +3,7 @@
 by General Editors, Davis, Gold, Harris, Sayers
 
 ##Presentations
-* Davis, Rebecca Frost and Katherine D. Harris for 2-hr workshop on "It's Not About the Tools: Digital Pedagogy for Everybody"(https://docs.google.com/document/d/1mC3-OsNOXc0QW5i3bimBfMMCsqwqzXzzomu47eqv1dI/edit?usp=sharing) for Digital Frontiers 2019, U Texas Austin, Sept 2019 (https://digital-frontiers.org/df2019/)
+* Davis, Rebecca Frost and Katherine D. Harris for 2-hr workshop on ["It's Not About the Tools: Digital Pedagogy for Everybody"](https://docs.google.com/document/d/1mC3-OsNOXc0QW5i3bimBfMMCsqwqzXzzomu47eqv1dI/edit?usp=sharing) for [Digital Frontiers 2019, U Texas Austin, Sept 2019] (https://digital-frontiers.org/df2019/)
 * Davis, Rebecca Frost; Harris, Katherine D.; Gold, Matthew K. Co-organizers and Presenters, "The State of the Syllabus" (https://github.com/curateteaching/digitalpedagogy/blob/master/mla2020.md) Roundtable, MLA Convention 2020, Seattle, Jan 9-12, 2020
 * Harris, Katherine D. “Digital Dickens Leading into Digital Pedagogy in the Humanities: A Demonstration of a Digital Pedagogy Collection for Book History Scholars and Instructors” on the SHARP panel “Digital Approaches to Book History” for the joint Modern Language Association and American Historical Association Annual Convention, Chicago, Jan 3-6, 2019
 * Harris, Katherine D. “Revisions to Digital Publishing Complements Digital Pedagogy” for The Society for the History of Authorship, Reading, and Publishing Annual Conference, Sydney, Australia, July 2018
