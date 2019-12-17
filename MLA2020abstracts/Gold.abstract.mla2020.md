@@ -1,10 +1,10 @@
 ## “The State of the Syllabus” Roundtable
 ### MLA 2020 - January 9-12, 2020, Seattle, Washington  
 ### Roundtable Date/Time: January 9, 2020, 1:45-3pm in 607 (WSCC)
-###Abstract
+### Abstract
 
-##The Syllabus as Shared Negotiation
-###Matthew K. Gold, Graduate Center, City U of New York
+## The Syllabus as Shared Negotiation
+### Matthew K. Gold, Graduate Center, City U of New York
 
 We share syllabi in multiple contexts: faculty are often required to share their syllabi with their departments; departments sometimes share a syllabus with faculty for a required course. But there are other kinds of sharing: increasingly, faculty share their syllabi with the world through social media, blog posts, and deposits to institutional repositories. They share syllabi in draft form, to receive feedback. Sometimes they share partially formed syllabi with their students, with the expectation that students will co-create the syllabus with them. 
 

@@ -1,10 +1,10 @@
 ## “The State of the Syllabus” Roundtable
 ### MLA 2020 - January 9-12, 2020, Seattle, Washington  
 ### Roundtable Date/Time: January 9, 2020, 1:45-3pm in 607 (WSCC)
-###Abstract
+### Abstract
 
-##(Against) the Syllabus as Instrument of Abuse
-###Matthew Cheney, Plymouth State University
+## (Against) the Syllabus as Instrument of Abuse
+### Matthew Cheney, Plymouth State University
 
 Responding to a recent report of a syllabus on which a professor said he would accept no excuses whatsoever for missing exams, Jesse Stommel said, "I wish it went without saying that syllabi should not be instruments of abuse."
  

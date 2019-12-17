@@ -1,10 +1,10 @@
 ## “The State of the Syllabus” Roundtable
 ### MLA 2020 - January 9-12, 2020, Seattle, Washington  
 ### Roundtable Date/Time: January 9, 2020, 1:45-3pm in 607 (WSCC)
-###Abstract
+### Abstract
 
-##The Syllabus as Establishing Tone
-###Ethan J.H. Knight, University of South Carolina
+## The Syllabus as Establishing Tone
+### Ethan J.H. Knight, University of South Carolina
 
 I’d like to consider the syllabus as setting the tone not only for individual classes but for entire departments, particularly in ones where large numbers of adjunct professors or relatively inexperienced graduate students are provided standard syllabi for first-year writing courses. Standard syllabi, in this case, can become powerful tools for communicating the values, goals, and pedagogical approaches of the department through assignments, course policies, grade breakdowns, and intensity of scheduled readings and writing assignments. Further, the emphasis on adherence-to and enforcement-of the standard syllabus also communicates important information: the amount of autonomy and play instructors are allowed in using or not using, editing, and adapting standard syllabi vastly impacts how united a department might feel (for students and instructors) on certain topics and issues. The emphasis or lack thereof on standard department syllabi also has the (perhaps unintended) consequence of guiding the pedagogical growth of new graduate students and setting the tone for their early instructional careers, which can have wide-reaching effects on the field as they move forward in their careers. Finally, the syllabus itself is likely to be the first (and sometimes only) line of exposure to departmental policy information for undergraduate students, which can influence their entire outlook on a discipline as a whole. If we understand the humanities as being in a moment of crisis, where departments are desperately trying to encourage students to declare majors or minors in fields like English, then carefully curating the materials that will set a tone and influence their attitudes towards a subject are absolutely crucial. 
 

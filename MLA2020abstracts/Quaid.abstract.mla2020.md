@@ -1,10 +1,10 @@
 ## “The State of the Syllabus” Roundtable
 ### MLA 2020 - January 9-12, 2020, Seattle, Washington  
 ### Roundtable Date/Time: January 9, 2020, 1:45-3pm in 607 (WSCC)
-###Abstract
+### Abstract
 
-##The Syllabus as Establishing Tone
-###Andrea Quaid, Bard College
+## The Syllabus as Establishing Tone
+### Andrea Quaid, Bard College
 
 My position paper will discuss the syllabus as an activist document that is collectively authored, publicly compiled and digitally circulated. Five examples include the Lemonade Syllabus, #StandingRockSyllabus, #PulseOrlandoSyllabus, #Charlestonsyllabus, and #TransJusticeSyllabus. Lesser known examples circulate in intersectional feminist and social justice communities. 
 	Whether initiated inside academia (by professors or graduate students) or outside academia (by community educators and organizers), these syllabi are knowledge-making projects that archive histories of thought within particular communities and subject areas. In this spirit, the documents celebrate the depth and breadth of intellectual, artistic work central to who the makers  are and their cultural-social-political issues and discourse. The syllabi spark with the creativity that comes with a public invitation to contribute to collective knowledge making. At the same time, they make serious claims about legacies of injustice that continue into our present time. 
