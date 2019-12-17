@@ -1,0 +1,14 @@
+## “The State of the Syllabus” Roundtable
+### MLA 2020 - January 9-12, 2020, Seattle, Washington  
+### Roundtable Date/Time: January 9, 2020, 1:45-3pm in 607 (WSCC)
+###Abstract
+
+##The Syllabus as Establishing Tone
+###Andrea Quaid, Bard College
+
+My position paper will discuss the syllabus as an activist document that is collectively authored, publicly compiled and digitally circulated. Five examples include the Lemonade Syllabus, #StandingRockSyllabus, #PulseOrlandoSyllabus, #Charlestonsyllabus, and #TransJusticeSyllabus. Lesser known examples circulate in intersectional feminist and social justice communities. 
+	Whether initiated inside academia (by professors or graduate students) or outside academia (by community educators and organizers), these syllabi are knowledge-making projects that archive histories of thought within particular communities and subject areas. In this spirit, the documents celebrate the depth and breadth of intellectual, artistic work central to who the makers  are and their cultural-social-political issues and discourse. The syllabi spark with the creativity that comes with a public invitation to contribute to collective knowledge making. At the same time, they make serious claims about legacies of injustice that continue into our present time. 
+	In addition, I claim that the syllabus as activist document is an action speaking back to dominant discourse that often ignores or silences the voices collected in the syllabi. Presented to the public as what should be on every citizen’s reading list, these documents raise up marginalized ideas and histories as integral to society as a whole. Additionally, I suggest these syllabi also speak back to academia where traditional syllabi and knowledge formations can often continue to uphold normative, Western Anglo-European canons. 
+
+Bio:  Andrea Quaid specializes in twentieth and twenty-first century poetry and poetics, pedagogy, and feminist studies. She is editing the collection, *Feminist Poetics and Pedagogy*, which extends conversations begun at a 2-day symposium that she co-organized: Feminist Poetics, Emergent Pedagogies. Recent publications include “Place as Palimpsest: Literary Works and Cultural-Political Resistance” in *Teaching Space, Place and Literature* (Routledge), “Variations on a Theme: Teaching Claudia Rankine’s Citizen: An American Lyric,” (*albeit*) and “Alarming Logic: Feminist Poetics as Discursive/Pedagogic Intervention” (*Feminist Spaces Journal*). She is co-founder and series editor of Palgrave Studies in Contemporary Women's Writing. She is Literature and Humanities Faculty in Bard College’s Master of Arts in Teaching Program and Faculty Associate in Bard College’s Language and Thinking Program. She also teaches in the Critical Studies Department at California Institute of the Arts. 
+
