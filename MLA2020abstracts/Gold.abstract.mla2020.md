@@ -4,7 +4,7 @@
 ### Abstract
 
 ## The Syllabus as Shared Negotiation
-### Matthew K. Gold, Graduate Center, City U of New York
+### Matthew K. Gold, Graduate Center, City U of New York, [@mkgold](https://twitter.com/mkgold)
 
 We share syllabi in multiple contexts: faculty are often required to share their syllabi with their departments; departments sometimes share a syllabus with faculty for a required course. But there are other kinds of sharing: increasingly, faculty share their syllabi with the world through social media, blog posts, and deposits to institutional repositories. They share syllabi in draft form, to receive feedback. Sometimes they share partially formed syllabi with their students, with the expectation that students will co-create the syllabus with them. 
 

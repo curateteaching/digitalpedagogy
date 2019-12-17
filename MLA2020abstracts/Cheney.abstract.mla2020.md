@@ -4,7 +4,7 @@
 ### Abstract
 
 ## (Against) the Syllabus as Instrument of Abuse
-### Matthew Cheney, Plymouth State University
+### Matthew Cheney, Plymouth State University, [@finiteeyes](https://twitter.com/finiteeyes)
 
 Responding to a recent report of a syllabus on which a professor said he would accept no excuses whatsoever for missing exams, Jesse Stommel said, "I wish it went without saying that syllabi should not be instruments of abuse."
  

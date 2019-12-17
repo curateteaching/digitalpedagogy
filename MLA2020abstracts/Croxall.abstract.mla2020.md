@@ -4,7 +4,7 @@
 ### Abstract
 
 ## A Syllabus is a Chance to Show Your Sources 
-### Brian Croxall, Brigham Young University 
+### Brian Croxall, Brigham Young University, [@briancroxall](https://twitter.com/briancroxall)
 
 My first year after graduate school, I taught the survey of American literature. When we began studying realism, I wanted to connect the efforts of Henry James, Edith Wharton, and others to the photograph and phonograph—two technologies that made it possible to  reproduce things “as they really were.” Finishing my preparations, I found myself racing  through Wikipedia, reading articles about daguerrotypes, Kodak and Lumìere cameras, and the battle between wax cylinders and discs. I hurried to class and gave my lecture. But as I rattled off the different facts I had accumulated 5 minutes previously, I realized I was performing for my students a mastery of knowledge, something similar to what I had seen in lectures throughout my life. It looked like I knew everything about these inventions, but I had cobbled together this information and none of it was authentically mine. If this was not exactly a case of plagiarism—after all, I wasn’t publishing my lectures—it was certainly a case of imperfect intellectual honesty. 
 
