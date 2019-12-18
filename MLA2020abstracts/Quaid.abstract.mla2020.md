@@ -3,7 +3,7 @@
 ### Roundtable Date/Time: January 9, 2020, 1:45-3pm in 607 (WSCC)
 ### Abstract
 
-## The Syllabus as Establishing Tone
+## The Syllabus as Activist Document
 ### Andrea Quaid, Bard College
 
 My position paper will discuss the syllabus as an activist document that is collectively authored, publicly compiled and digitally circulated. Five examples include the Lemonade Syllabus, #StandingRockSyllabus, #PulseOrlandoSyllabus, #Charlestonsyllabus, and #TransJusticeSyllabus. Lesser known examples circulate in intersectional feminist and social justice communities. 
