@@ -13,6 +13,11 @@ publisher: Modern Language Association
 type: book
 ---
 
+## Update April 1, 2020 - WE'RE LIVE!
+*Digital Pedagogy in the Humanities* has emerged on its Modern Language Association platform in a beta form and being corrected live through June 2020. In light of the widespread move to online education at most universities, both the MLA staff and editors Davis, Gold, and Harris agreed that opening up the project in its post-peer review, copyedited state would be beneficial for everyone. Please join us in welcoming this long-standing project in its final platform into the world: [*Digital Pedagogy in the Humanities*(https://digitalpedagogy.hcommons.org/)
+
+***************************
+
 # Gaming
 
 ### Amanda Phillips
