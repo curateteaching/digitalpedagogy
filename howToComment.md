@@ -1,3 +1,7 @@
+## Update April 1, 2020 - WE'RE LIVE!
+*Digital Pedagogy in the Humanities* has emerged on its Modern Language Association platform in a beta form and being corrected live through June 2020. In light of the widespread move to online education at most universities, both the MLA staff and editors Davis, Gold, and Harris agreed that opening up the project in its post-peer review, copyedited state would be beneficial for everyone. Please join us in welcoming this long-standing project in its final platform into the world: [*Digital Pedagogy in the Humanities*(https://digitalpedagogy.hcommons.org/)
+
+***************************
 #How to Comment
 
 This site is powered by [CommentPress](http://futureofthebook.org/commentpress/), which allows comments to be attached to individual paragraphs, whole pages, or an entire document. To comment on a keyword, click on its title in the right-hand navigation. To comment on a paragraph, click on the paragraph or on the speech bubble to its right; to comment on an entire page, click the link to Comments on the Whole Page, in the right-hand column. To leave general comments on the entire project, click the single comment bubble icon in the navigation bar.
