@@ -1,5 +1,10 @@
 # FAQ: DIGITAL PEDAGOGY IN THE HUMANITIES: CONCEPTS, MODELS, AND EXPERIMENTS
 
+## Update April 1, 2020 - WE'RE LIVE!
+*Digital Pedagogy in the Humanities* has emerged on its Modern Language Association platform in a beta form and being corrected live through June 2020. In light of the widespread move to online education at most universities, both the MLA staff and editors Davis, Gold, and Harris agreed that opening up the project in its post-peer review, copyedited state would be beneficial for everyone. Please join us in welcoming this long-standing project in its final platform into the world: [*Digital Pedagogy in the Humanities*(https://digitalpedagogy.hcommons.org/)
+
+***************************
+
 ## Q: Should curators circulate a formal CFP?
 A: No. Feel free to crowdsource suggestions from your networks, but please do not create a CFP.  We are encouraging less of a formal submission/review/accept/reject model and more of an informal, “send some links” model. It is  the curator's job to select and curate 10 links and to explain things in the curator's statement. Additional links collected through a crowdsourced process may be shared through the "Related Materials" section, perhaps through a link to a document that contains a larger list of suggestions.
 
