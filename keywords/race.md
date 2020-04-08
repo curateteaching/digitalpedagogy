@@ -33,9 +33,10 @@ University of Southern California
 * unreviewed draft
 * draft version undergoing editorial review
 * draft version undergoing peer-to-peer review
-* **draft version undergoing MLA copyediting**
+* draft version undergoing MLA copyediting
 * awaiting pre-print copy
-* published 
+* **published** see [*Digital Pedagogy in the Humanities* MLA 2020](https://digitalpedagogy.hcommons.org/)
+
 
 ---
 ### Cross-Reference Keywords: archive, collaboration, community, curation, diaspora, digital divides, history, hashtag, indigenous, intersectionality, network, social justice

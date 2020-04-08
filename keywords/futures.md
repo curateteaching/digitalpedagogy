@@ -24,6 +24,17 @@ type: book
 
 Drexel University | [<http://www.andrecarringtonphd.com>](http://www.andrecarringtonphd.com)
 
+---
+
+##### Publication Status:
+* unreviewed draft
+* draft version undergoing editorial review
+* draft version undergoing peer-to-peer review 
+* draft version undergoing MLA copyediting
+* **published** see [*Digital Pedagogy in the Humanities* MLA 2020](https://digitalpedagogy.hcommons.org/)
+
+---
+
 ## CURATORIAL STATEMENT
 
 The first artificial satellite to enter the Earth’s orbit, Sputnik, inaugurated the space age in 1957. It expanded the frontiers of human knowledge forever. In its aftermath, the United States founded an agency with the mission to “prevent technological surprise” in the future. That agency, which is now called DARPA, fostered the invention of the internet, and its mission has grown in the information age with the additional aim “to create technological surprise for [U.S.] enemies” (DARPA 1). The humanities have always played their part in mapping zones of encounter, and the rhetoric of the American state echoes the humanities’ role in defining the antagonisms that drive historical progress. In the digital age, scholarship models the circumstances under which technological surprise takes place and anticipates its possible implications. Digital pedagogy in the humanities can recontextualize information technologies with the aim of understanding and overcoming the problems for which they were originally designed, placing them in the service of humanistic understanding rather than using them to sharpen the enmities of the moment.

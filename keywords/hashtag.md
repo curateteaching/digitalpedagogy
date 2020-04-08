@@ -8,6 +8,19 @@
 
 Professor of English, Amherst College & Director, Five College Digital Humanities | [http://mp285.com](http://mp285.com)
 
+--- 
+
+##### Publication Status:
+* unreviewed draft
+* draft version undergoing editorial review
+* draft version undergoing peer-to-peer review 
+* draft version undergoing MLA copyediting
+* **published** see [*Digital Pedagogy in the Humanities* MLA 2020](https://digitalpedagogy.hcommons.org/)
+
+--- 
+
+
+
 ## CURATORIAL STATEMENT
 Hashtags can be thought of in terms of what they “are” and also in terms of what they can be made to do or signify. Because they operate at an easily identifiable intersection between culture and technology, thinking about hashtags offers an accessible entry point for students interested in the digital humanities. In my classes, which tend to have mixtures of more technically-oriented students and die-hard, self-avowedly “non-technical,” humanities students, studying hashtags gives me a way to reorient more technical students toward thinking about the cultural construction of a technology. Working with hashtags also helps to demonstrate to less technically-inclined students how studying a technology can help them better articulate the stakes of the concerns they are trying to formulate via literary and cultural studies. In both cases, hashtags help educators elaborate relationships between forms and contents in new ways. 
 

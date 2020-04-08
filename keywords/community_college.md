@@ -30,6 +30,16 @@ English Faculty, Lane Community College
 
 ---
 
+##### Publication Status:
+* unreviewed draft
+* draft version undergoing editorial review
+* draft version undergoing peer-to-peer review
+* draft version undergoing MLA copyediting
+* awaiting pre-print copy
+* **published** see [*Digital Pedagogy in the Humanities* MLA 2020](https://digitalpedagogy.hcommons.org/)
+
+---
+
 ## CURATORIAL STATEMENT
 
 Offering students low-cost, local, and open access to degrees, community colleges are a strength of the American public higher-education system. Community college students are some of the most diverse and also most vulnerable student populations in higher education. Their numbers are impressive: they comprise 46% of all undergraduates in the US; 41% of all first-time freshmen attend one of the more than 1200 community colleges in the country (American Association of Community Colleges “Enrollments”). Their profiles constitute a critical pedagogical context for equity: a majority of Native American, Black, and Hispanic students begin their college careers in community colleges, and 43% of Asian/Pacific Islander students are enrolled there. Fifty-nine percent are women, and students from the lowest socioeconomic quintile are increasingly more likely to begin post-secondary education at community colleges. (American Association of Community Colleges “Fast Facts”). Immigrants, too, make up a significant constituency: one study estimates that about 25% of community college students come from an immigrant background (National Center for Education Statistics). 

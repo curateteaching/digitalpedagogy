@@ -29,9 +29,10 @@ University of Virginia
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* draft version undergoing peer-to-peer review 
-* **draft version undergoing MLA copyediting**
-* published 
+* draft version undergoing MLA copyediting
+* awaiting pre-print copy
+* **published** see [*Digital Pedagogy in the Humanities* MLA 2020](https://digitalpedagogy.hcommons.org/)
+
 
 ## CURATORIAL STATEMENT
 

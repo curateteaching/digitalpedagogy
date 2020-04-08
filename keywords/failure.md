@@ -32,9 +32,9 @@ Virginia Tech | [http://quinnwarnick.com](http://quinnwarnick.com)
 ##### Publication Status:
 * unreviewed draft
 * draft version undergoing editorial review
-* draft version undergoing peer-to-peer review
-* **draft version undergoing MLA copyediting**
-* published 
+* draft version undergoing peer-to-peer review 
+* draft version undergoing MLA copyediting
+* **published** see [*Digital Pedagogy in the Humanities* MLA 2020](https://digitalpedagogy.hcommons.org/)
 
 ---
 

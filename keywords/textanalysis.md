@@ -29,9 +29,9 @@ Department of English | University of Massachusetts Lowell | [Website](http://nm
 * unreviewed draft
 * draft version undergoing editorial review
 * draft version undergoing peer-to-peer review
-* **draft version undergoing MLA copyediting**
+* draft version undergoing MLA copyediting
 * awaiting pre-print copy
-* published 
+* **published** see [*Digital Pedagogy in the Humanities*](https://digitalpedagogy.hcommons.org/) 
 
 ---
 

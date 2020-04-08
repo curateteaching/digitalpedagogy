@@ -26,6 +26,18 @@ type: book
 
 Johns Hopkins University | [http://jmjohnso.com](http://jmjohnso.com)
 
+---
+
+##### Publication Status:
+* unreviewed draft
+* draft version undergoing editorial review
+* draft version undergoing peer-to-peer review
+* draft version undergoing MLA copyediting
+* awaiting pre-print copy
+* **published** see [*Digital Pedagogy in the Humanities* MLA 2020](https://digitalpedagogy.hcommons.org/)
+
+---
+
 ## CURATORIAL STATEMENT
 
 This list holds one diaspora experience constant: the African diaspora. In 2001, African diaspora historian and Brazilianist/South Atlanticist Kim Butler described diaspora study as addressing five elements. The first element concerned the reasons for and conditions of dispersal, with an emphasis on the forced (structural or literal) dispersal of peoples from a place they identified as their homeland. The second and third elements concerned the relationship (fictive, biological, or otherwise articulated) between the diaspora and its homeland and hostland. The fourth and fifth elements concerned relationships internal to and between diaspora communities. 

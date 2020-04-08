@@ -29,9 +29,9 @@ Georgia Institute of Technology | [http://lklein.com/](http://lklein.com/)
 * unreviewed draft
 * draft version undergoing editorial review
 * draft version undergoing peer-to-peer review
-* **draft version undergoing MLA copyediting**
+* draft version undergoing MLA copyediting
 * awaiting pre-print copy
-* published 
+* **published** see [*Digital Pedagogy in the Humanities* MLA 2020](https://digitalpedagogy.hcommons.org/)
 
 ---
 ### Cross-Reference Keywords: gender, hacking, information, intersectionality, iteration, labor, praxis, race, queer 
