@@ -1,6 +1,6 @@
 # Digital Pedagogy in the Humanities: Concepts, Models, and Experiments
 
-A repository of scholarly materials for *Digital Pedagogy in the Humanities: Concepts, Models, and Experiments* (under contract with the Modern Language Association)
+This github repostory was used during the editing process for *Digital Pedagogy in the Humanities: Concepts, Models, and Experiments*, which was published by the The Modern Language Association in 2020. Please find the published version of the project here: https://digitalpedagogy.hcommons.org/
 
 ## General Editors
 
